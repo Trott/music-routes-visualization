@@ -70,8 +70,7 @@ d3.json('sample.json', function (error, links) {
   var path = svg.append("g").selectAll("path")
       .data(force.links())
     .enter().append("path")
-      .attr("class", function(d) { return "link " + d.type; })
-      .attr("marker-end", function(d) { return "url(#" + d.type + ")"; });
+      .attr("class", "link");
 
   var circle = svg.append("g").selectAll("circle")
       .data(force.nodes())
