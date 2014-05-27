@@ -51,14 +51,14 @@ d3.json('sample.json', function (error, links) {
     link.target = nodes[link.target] || (nodes[link.target] = {name: link.target});
   });
 
-  var width = 960,
-      height = 500;
+  var width = window.innerWidth || 960,
+      height = window.innerHeight || 500;
 
   var force = d3.layout.force()
       .nodes(d3.values(nodes))
       .links(links)
       .size([width, height])
-      .linkDistance(120)
+      .linkDistance(75)
       .charge(-300)
       .on("tick", tick)
       .start();
