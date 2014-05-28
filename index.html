@@ -25,7 +25,6 @@ text {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 var id = location.search.substring(1) || '1';
-console.dir(id);
 d3.json('data/' + id + '.json', function (error, links) {
   var linkArc = function (d) {
     var dx = d.target.x - d.source.x,
