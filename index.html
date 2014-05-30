@@ -8,12 +8,12 @@ body {
 }
 .link {
   fill: none;
-  stroke: blue;
+  stroke: none;
 }
 
 circle {
-  fill: blue;
-  stroke: none;
+  fill: white;
+  stroke: blue;
 }
 
 text {
@@ -38,10 +38,14 @@ d3.json('data/' + id + '.json', function (error, links) {
 
   // Use elliptical arc path segments to doubly-encode directionality.
   var tick = function () {
-    path.attr("d", linkLine);
+    //path.attr("d", linkLine);
     circle.attr("transform", transform);
     text.attr("transform", transform);
-  }
+  };
+
+  var zoom = function () {
+    svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+  };
 
   // TODO: handle error
   // if (error) return console.warn(error);
@@ -58,17 +62,20 @@ d3.json('data/' + id + '.json', function (error, links) {
       height = window.innerHeight || 500;
 
   var force = d3.layout.force()
-      .nodes(d3.values(nodes))
-      .links(links)
-      .size([width, height])
-      .linkDistance(75)
-      .charge(-300)
-      .on("tick", tick)
-      .start();
+    .nodes(d3.values(nodes))
+    .links(links)
+    .size([width, height])
+    .linkDistance(200)
+    .charge(-800)
+    .on("tick", tick)
+    .start();
 
   var svg = d3.select("body").append("svg")
-      .attr("width", width)
-      .attr("height", height);
+    .attr("width", width)
+    .attr("height", height)
+    .append("g")
+    .call(d3.behavior.zoom().scaleExtent([.25, 10]).on("zoom", zoom))
+    .append("g");
 
   var path = svg.append("g").selectAll("path")
       .data(force.links())
@@ -78,14 +85,12 @@ d3.json('data/' + id + '.json', function (error, links) {
   var circle = svg.append("g").selectAll("circle")
       .data(force.nodes())
     .enter().append("circle")
-      .attr("r", 6)
-      .call(force.drag);
+      .attr("r", 64);
 
   var text = svg.append("g").selectAll("text")
       .data(force.nodes())
     .enter().append("text")
-      .attr("x", 8)
-      .attr("y", ".31em")
+      .attr("text-anchor", "middle")
       .text(function(d) { return d.name; });
 });
 </script>
