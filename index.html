@@ -43,10 +43,12 @@ d3.json('data/' + id + '.json', function (error, links) {
 
   var nodes = {};
 
+  var linkCount = 0;
   // Compute the distinct nodes from the links.
   links.forEach(function(link) {
     link.source = nodes[link.source] || (nodes[link.source] = {name: link.source});
     link.target = nodes[link.target] || (nodes[link.target] = {name: link.target});
+    linkCount++; // we don't have duplicates
   });
 
   var width = window.innerWidth || 960,
@@ -57,40 +59,10 @@ d3.json('data/' + id + '.json', function (error, links) {
     .links(links)
     .size([width, height])
     .linkDistance(function (undefined, index) {
-      if (index < 12) {
-        return 200;
-      }
-      if (index < 36) {
-        return 400;
-      }
-      if (index < 84) {
-        return 600;
-      }
-      if (index < 180) {
-        return 800;
-      }
-      if (index < 372) {
-        return 1000;
-      }
-      return 1200;
+      return linkCount < 128 ? 128 : linkCount;
     })
     .charge(function (undefined, index) {
-      if (index < 12) {
-        return -1200;
-      }
-      if (index < 36) {
-        return -1000;
-      }
-      if (index < 84) {
-        return -800;
-      }
-      if (index < 180) {
-        return -600;
-      }
-      if (index < 372) {
-        return -400;
-      }
-      return -200;
+      return linkCount < 256 ? 256 * -16 : linkCount * -16;
     })
     .on("tick", tick)
     .start();
