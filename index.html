@@ -65,8 +65,24 @@ d3.json('data/' + id + '.json', function (error, links) {
     .nodes(d3.values(nodes))
     .links(links)
     .size([width, height])
-    .linkDistance(200)
-    .charge(-800)
+    .linkDistance(function (undefined, index) {
+      if (index < 12) {
+        return 200;
+      }
+      if (index < 36) {
+        return 400;
+      }
+      if (index < 84) {
+        return 600;
+      }
+      if (index < 180) {
+        return 800;
+      }
+      if (index < 372) {
+        return 1000;
+      }
+    })
+    .charge(-1000)
     .on("tick", tick)
     .start();
 
