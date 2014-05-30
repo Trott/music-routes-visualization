@@ -76,7 +76,24 @@ d3.json('data/' + id + '.json', function (error, links) {
       }
       return 1200;
     })
-    .charge(-1000)
+    .charge(function (undefined, index) {
+      if (index < 12) {
+        return -1200;
+      }
+      if (index < 36) {
+        return -1000;
+      }
+      if (index < 84) {
+        return -800;
+      }
+      if (index < 180) {
+        return -600;
+      }
+      if (index < 372) {
+        return -400;
+      }
+      return -200;
+    })
     .on("tick", tick)
     .start();
 
