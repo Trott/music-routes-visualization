@@ -13,10 +13,11 @@ body {
 
 .node {
   fill: white;
-  stroke: blue;
+  stroke: #ddd;
 }
 
 text {
+  font-family: sans-serif;
   pointer-events: none;
 }
 </style>
@@ -46,8 +47,8 @@ d3.json('data/' + id + '.json', function (error, links) {
   var linkCount = 0;
   // Compute the distinct nodes from the links.
   links.forEach(function(link) {
-    link.source = nodes[link.source] || (nodes[link.source] = {name: link.source});
-    link.target = nodes[link.target] || (nodes[link.target] = {name: link.target});
+    link.source = nodes[link.source] || (nodes[link.source] = {name: link.source, targetId: id});
+    link.target = nodes[link.target] || (nodes[link.target] = {name: link.target, targetId: link.targetId});
     linkCount++; // we don't have duplicates
   });
 
@@ -85,7 +86,7 @@ d3.json('data/' + id + '.json', function (error, links) {
 
   var nodes = svg.append("g").selectAll(".node")
       .data(force.nodes())
-    .enter().append("circle")
+    .enter().append("svg:a").attr("xlink:href", function(d) { return "?" + d.targetId;}).append("circle")
       .attr("r", 64)
       .attr("class", "node");
 
