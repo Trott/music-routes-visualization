@@ -11,7 +11,7 @@ body {
   stroke: none;
 }
 
-circle {
+.node {
   fill: white;
   stroke: blue;
 }
@@ -26,20 +26,13 @@ text {
 <script>
 var id = location.search.substring(1) || '1';
 d3.json('data/' + id + '.json', function (error, links) {
-  var linkLine = function (d) {
-    var dx = d.target.x - d.source.x,
-        dy = d.target.y - d.source.y;
-    return "M" + d.source.x + "," + d.source.y + "L" + d.target.x + "," + d.target.y;
-  }
-
   var transform = function (d) {
     return "translate(" + d.x + "," + d.y + ")";
   }
 
   // Use elliptical arc path segments to doubly-encode directionality.
   var tick = function () {
-    //path.attr("d", linkLine);
-    circle.attr("transform", transform);
+    nodes.attr("transform", transform);
     text.attr("transform", transform);
   };
 
@@ -90,18 +83,23 @@ d3.json('data/' + id + '.json', function (error, links) {
     .attr("width", width)
     .attr("height", height)
     .append("g")
-    .call(d3.behavior.zoom().scaleExtent([.25, 10]).on("zoom", zoom))
+    .call(d3.behavior.zoom().scaleExtent([.12, 16]).on("zoom", zoom))
     .append("g");
 
-  var path = svg.append("g").selectAll("path")
-      .data(force.links())
-    .enter().append("path")
-      .attr("class", "link");
+  var radius = 2 * (width > height ? width : height);
 
-  var circle = svg.append("g").selectAll("circle")
+  var background = svg.append("circle")
+    .attr("r", radius)
+    .attr("cx", width/2)
+    .attr("cy", height/2)
+    .attr("fill", "#ddd")
+    .attr("stroke", "none");
+
+  var nodes = svg.append("g").selectAll(".node")
       .data(force.nodes())
     .enter().append("circle")
-      .attr("r", 64);
+      .attr("r", 64)
+      .attr("class", "node");
 
   var text = svg.append("g").selectAll("text")
       .data(force.nodes())
