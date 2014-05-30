@@ -26,11 +26,12 @@ text {
 <script>
 var id = location.search.substring(1) || '1';
 d3.json('data/' + id + '.json', function (error, links) {
+  // TODO: handle error
+  // if (error) return console.warn(error);
   var transform = function (d) {
     return "translate(" + d.x + "," + d.y + ")";
   }
 
-  // Use elliptical arc path segments to doubly-encode directionality.
   var tick = function () {
     nodes.attr("transform", transform);
     text.attr("transform", transform);
@@ -39,9 +40,6 @@ d3.json('data/' + id + '.json', function (error, links) {
   var zoom = function () {
     svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
   };
-
-  // TODO: handle error
-  // if (error) return console.warn(error);
 
   var nodes = {};
 
