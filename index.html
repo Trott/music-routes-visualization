@@ -42,6 +42,28 @@ var id = location.search.substring(1) || '1';
 d3.json('data/' + id + '.json', function (error, links) {
   // TODO: handle error
   // if (error) return console.warn(error);
+
+  var wrap = function (text, width) {
+    text.each(function() {
+      var text = d3.select(this),
+        words = text.text().split(/\s+/).reverse(),
+        word,
+        line = [],
+        y = text.attr("y"),
+        tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y);
+      while (word = words.pop()) {
+        line.push(word);
+        tspan.text(line.join(" "));
+        if (tspan.node().getComputedTextLength() > width && line.length > 1) {
+          line.pop();
+          tspan.text(line.join(" "));
+          line = [word];
+          tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", "1em").text(word);
+        }
+      }
+    });
+  }
+
   var transform = function (d) {
     return "translate(" + d.x + "," + d.y + ")";
   }
@@ -107,7 +129,8 @@ d3.json('data/' + id + '.json', function (error, links) {
       .data(force.nodes())
     .enter().append("text")
       .attr("text-anchor", "middle")
-      .text(function(d) { return d.name; });
+      .text(function(d) { return d.name; })
+      .call(wrap, 128);
 
   d3.select("#progress").remove();
 });
