@@ -19,6 +19,7 @@ body {
 text {
   font-family: sans-serif;
   pointer-events: none;
+  font-size: 1.2em;
 }
 
 .visualization {
@@ -130,7 +131,7 @@ d3.json('data/' + id + '.json', function (error, links) {
     .enter().append("text")
       .attr("text-anchor", "middle")
       .text(function(d) { return d.name; })
-      .call(wrap, 128);
+      .call(wrap, 112);
 
   d3.select("#progress").remove();
 });
