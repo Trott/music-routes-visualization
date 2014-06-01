@@ -19,7 +19,7 @@ body {
 text {
   font-family: sans-serif;
   pointer-events: none;
-  font-size: 1.2em;
+  font-size: 18px;
 }
 
 .visualization {
@@ -51,15 +51,17 @@ d3.json('data/' + id + '.json', function (error, links) {
         word,
         line = [],
         y = text.attr("y"),
-        tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y);
+        tspan = text.text(null).append("tspan").attr("x", 0);
       while (word = words.pop()) {
         line.push(word);
         tspan.text(line.join(" "));
         if (tspan.node().getComputedTextLength() > width && line.length > 1) {
+          y = y-10;
+          text.attr("y", y);
           line.pop();
           tspan.text(line.join(" "));
           line = [word];
-          tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", "1em").text(word);
+          tspan = text.append("tspan").attr("x", 0).attr("dy", 18).text(word);
         }
       }
     });
@@ -69,9 +71,14 @@ d3.json('data/' + id + '.json', function (error, links) {
     return "translate(" + d.x + "," + d.y + ")";
   }
 
+  var textTransform = function (d) {
+    var y = d.y + 8;
+    return "translate(" + d.x + "," + y + ")";
+  }
+
   var tick = function () {
     nodes.attr("transform", transform);
-    text.attr("transform", transform);
+    text.attr("transform", textTransform);
   };
 
   var zoom = function () {
