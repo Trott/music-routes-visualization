@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Caroline Rue",
-    "target": "Eric Erlandson",
-    "targetId": "5346"
-  },
-  {
-    "source": "Caroline Rue",
-    "target": "Courtney Love",
-    "targetId": "5347"
-  },
-  {
-    "source": "Caroline Rue",
-    "target": "Jill Emery",
-    "targetId": "5348"
-  }
-]
+{
+  "source": "Caroline Rue",
+  "targets": [
+    {
+      "name": "Eric Erlandson",
+      "targetId": "5346"
+    },
+    {
+      "name": "Courtney Love",
+      "targetId": "5347"
+    },
+    {
+      "name": "Jill Emery",
+      "targetId": "5348"
+    }
+  ]
+}

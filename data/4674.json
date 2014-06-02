@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ben Lee",
-    "target": "Ben Folds",
-    "targetId": "180"
-  },
-  {
-    "source": "Ben Lee",
-    "target": "Evan Dando",
-    "targetId": "730"
-  },
-  {
-    "source": "Ben Lee",
-    "target": "Tom Petersson",
-    "targetId": "2526"
-  },
-  {
-    "source": "Ben Lee",
-    "target": "Ben Kweller",
-    "targetId": "4673"
-  },
-  {
-    "source": "Ben Lee",
-    "target": "Jason Schwartzman",
-    "targetId": "5670"
-  }
-]
+{
+  "source": "Ben Lee",
+  "targets": [
+    {
+      "name": "Ben Folds",
+      "targetId": "180"
+    },
+    {
+      "name": "Evan Dando",
+      "targetId": "730"
+    },
+    {
+      "name": "Tom Petersson",
+      "targetId": "2526"
+    },
+    {
+      "name": "Ben Kweller",
+      "targetId": "4673"
+    },
+    {
+      "name": "Jason Schwartzman",
+      "targetId": "5670"
+    }
+  ]
+}

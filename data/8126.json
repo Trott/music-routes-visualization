@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Andy Moor",
-    "target": "G.W. Sok",
-    "targetId": "8122"
-  },
-  {
-    "source": "Andy Moor",
-    "target": "Han Buhrs",
-    "targetId": "8123"
-  },
-  {
-    "source": "Andy Moor",
-    "target": "Terrie Hessels",
-    "targetId": "8124"
-  },
-  {
-    "source": "Andy Moor",
-    "target": "Luc",
-    "targetId": "8125"
-  },
-  {
-    "source": "Andy Moor",
-    "target": "Katherina Bornefeld",
-    "targetId": "8127"
-  }
-]
+{
+  "source": "Andy Moor",
+  "targets": [
+    {
+      "name": "G.W. Sok",
+      "targetId": "8122"
+    },
+    {
+      "name": "Han Buhrs",
+      "targetId": "8123"
+    },
+    {
+      "name": "Terrie Hessels",
+      "targetId": "8124"
+    },
+    {
+      "name": "Luc",
+      "targetId": "8125"
+    },
+    {
+      "name": "Katherina Bornefeld",
+      "targetId": "8127"
+    }
+  ]
+}

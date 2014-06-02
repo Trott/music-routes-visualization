@@ -1,27 +1,25 @@
-[
-  {
-    "source": "João Ferreira",
-    "target": "Andrea Bocelli",
-    "targetId": "6310"
-  },
-  {
-    "source": "João Ferreira",
-    "target": "Dulce Pontes",
-    "targetId": "6311"
-  },
-  {
-    "source": "João Ferreira",
-    "target": "Michele Montefusco",
-    "targetId": "6312"
-  },
-  {
-    "source": "João Ferreira",
-    "target": "Paulo Jorge Santos",
-    "targetId": "6313"
-  },
-  {
-    "source": "João Ferreira",
-    "target": "Ciccio Merolla",
-    "targetId": "6314"
-  }
-]
+{
+  "source": "João Ferreira",
+  "targets": [
+    {
+      "name": "Andrea Bocelli",
+      "targetId": "6310"
+    },
+    {
+      "name": "Dulce Pontes",
+      "targetId": "6311"
+    },
+    {
+      "name": "Michele Montefusco",
+      "targetId": "6312"
+    },
+    {
+      "name": "Paulo Jorge Santos",
+      "targetId": "6313"
+    },
+    {
+      "name": "Ciccio Merolla",
+      "targetId": "6314"
+    }
+  ]
+}

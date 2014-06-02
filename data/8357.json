@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Beth Andersen",
-    "target": "Luana Jackman",
-    "targetId": "424"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Bruce Fowler",
-    "targetId": "432"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Brandon Fields",
-    "targetId": "434"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Scottie Haskell",
-    "targetId": "443"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Dave Boruff",
-    "targetId": "2223"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Wayne Bergeron",
-    "targetId": "2343"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Arnold McCuller",
-    "targetId": "3481"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Joel Peskin",
-    "targetId": "4514"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Johnny Christ",
-    "targetId": "8345"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "The Rev",
-    "targetId": "8346"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Zacky Vengeance",
-    "targetId": "8347"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Synyster Gates",
-    "targetId": "8348"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "M. Shadows",
-    "targetId": "8349"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Cameron Stone",
-    "targetId": "8351"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Miles Mosley",
-    "targetId": "8352"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Andrew Duckles",
-    "targetId": "8353"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Caroline Campbell",
-    "targetId": "8354"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Neel Hammond",
-    "targetId": "8355"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Bob Joyce",
-    "targetId": "8358"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Debbie Hall",
-    "targetId": "8359"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Ed Zajac",
-    "targetId": "8360"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Gabriel Mann",
-    "targetId": "8361"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Annmarie Rizzo",
-    "targetId": "8362"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Zander Ayeroff",
-    "targetId": "8363"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Monique Donnelly",
-    "targetId": "8364"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Rick Logan",
-    "targetId": "8365"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Rob Giles",
-    "targetId": "8366"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Susie Stevens-Logan",
-    "targetId": "8367"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Rusty Higgins",
-    "targetId": "8368"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Bill Liston",
-    "targetId": "8369"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Alex Iles",
-    "targetId": "8370"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Dan Fornero",
-    "targetId": "8371"
-  },
-  {
-    "source": "Beth Andersen",
-    "target": "Juliette Commagere",
-    "targetId": "8372"
-  }
-]
+{
+  "source": "Beth Andersen",
+  "targets": [
+    {
+      "name": "Luana Jackman",
+      "targetId": "424"
+    },
+    {
+      "name": "Bruce Fowler",
+      "targetId": "432"
+    },
+    {
+      "name": "Brandon Fields",
+      "targetId": "434"
+    },
+    {
+      "name": "Scottie Haskell",
+      "targetId": "443"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Dave Boruff",
+      "targetId": "2223"
+    },
+    {
+      "name": "Wayne Bergeron",
+      "targetId": "2343"
+    },
+    {
+      "name": "Arnold McCuller",
+      "targetId": "3481"
+    },
+    {
+      "name": "Joel Peskin",
+      "targetId": "4514"
+    },
+    {
+      "name": "Johnny Christ",
+      "targetId": "8345"
+    },
+    {
+      "name": "The Rev",
+      "targetId": "8346"
+    },
+    {
+      "name": "Zacky Vengeance",
+      "targetId": "8347"
+    },
+    {
+      "name": "Synyster Gates",
+      "targetId": "8348"
+    },
+    {
+      "name": "M. Shadows",
+      "targetId": "8349"
+    },
+    {
+      "name": "Cameron Stone",
+      "targetId": "8351"
+    },
+    {
+      "name": "Miles Mosley",
+      "targetId": "8352"
+    },
+    {
+      "name": "Andrew Duckles",
+      "targetId": "8353"
+    },
+    {
+      "name": "Caroline Campbell",
+      "targetId": "8354"
+    },
+    {
+      "name": "Neel Hammond",
+      "targetId": "8355"
+    },
+    {
+      "name": "Bob Joyce",
+      "targetId": "8358"
+    },
+    {
+      "name": "Debbie Hall",
+      "targetId": "8359"
+    },
+    {
+      "name": "Ed Zajac",
+      "targetId": "8360"
+    },
+    {
+      "name": "Gabriel Mann",
+      "targetId": "8361"
+    },
+    {
+      "name": "Annmarie Rizzo",
+      "targetId": "8362"
+    },
+    {
+      "name": "Zander Ayeroff",
+      "targetId": "8363"
+    },
+    {
+      "name": "Monique Donnelly",
+      "targetId": "8364"
+    },
+    {
+      "name": "Rick Logan",
+      "targetId": "8365"
+    },
+    {
+      "name": "Rob Giles",
+      "targetId": "8366"
+    },
+    {
+      "name": "Susie Stevens-Logan",
+      "targetId": "8367"
+    },
+    {
+      "name": "Rusty Higgins",
+      "targetId": "8368"
+    },
+    {
+      "name": "Bill Liston",
+      "targetId": "8369"
+    },
+    {
+      "name": "Alex Iles",
+      "targetId": "8370"
+    },
+    {
+      "name": "Dan Fornero",
+      "targetId": "8371"
+    },
+    {
+      "name": "Juliette Commagere",
+      "targetId": "8372"
+    }
+  ]
+}

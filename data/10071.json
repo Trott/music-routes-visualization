@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Michael Lawrence",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Michael Lawrence",
-    "target": "Emmylou Harris",
-    "targetId": "450"
-  },
-  {
-    "source": "Michael Lawrence",
-    "target": "Dominic Cortese",
-    "targetId": "5657"
-  },
-  {
-    "source": "Michael Lawrence",
-    "target": "Alan Spenner",
-    "targetId": "5853"
-  },
-  {
-    "source": "Michael Lawrence",
-    "target": "Scarlet Rivera",
-    "targetId": "10057"
-  },
-  {
-    "source": "Michael Lawrence",
-    "target": "John Sussewell",
-    "targetId": "10072"
-  }
-]
+{
+  "source": "Michael Lawrence",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Emmylou Harris",
+      "targetId": "450"
+    },
+    {
+      "name": "Dominic Cortese",
+      "targetId": "5657"
+    },
+    {
+      "name": "Alan Spenner",
+      "targetId": "5853"
+    },
+    {
+      "name": "Scarlet Rivera",
+      "targetId": "10057"
+    },
+    {
+      "name": "John Sussewell",
+      "targetId": "10072"
+    }
+  ]
+}

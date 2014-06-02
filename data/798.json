@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Emir Kassan",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Emir Kassan",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Emir Kassan",
-    "target": "Carlos Alomar",
-    "targetId": "795"
-  },
-  {
-    "source": "Emir Kassan",
-    "target": "Dennis Davis",
-    "targetId": "797"
-  },
-  {
-    "source": "Emir Kassan",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  }
-]
+{
+  "source": "Emir Kassan",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Carlos Alomar",
+      "targetId": "795"
+    },
+    {
+      "name": "Dennis Davis",
+      "targetId": "797"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    }
+  ]
+}

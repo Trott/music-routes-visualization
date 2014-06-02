@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ches Smith",
-    "target": "Shahzad Ismaily",
-    "targetId": "1245"
-  },
-  {
-    "source": "Ches Smith",
-    "target": "William Winant",
-    "targetId": "2642"
-  },
-  {
-    "source": "Ches Smith",
-    "target": "Trey Spruance",
-    "targetId": "2646"
-  },
-  {
-    "source": "Ches Smith",
-    "target": "Jennifer Cass",
-    "targetId": "2647"
-  }
-]
+{
+  "source": "Ches Smith",
+  "targets": [
+    {
+      "name": "Shahzad Ismaily",
+      "targetId": "1245"
+    },
+    {
+      "name": "William Winant",
+      "targetId": "2642"
+    },
+    {
+      "name": "Trey Spruance",
+      "targetId": "2646"
+    },
+    {
+      "name": "Jennifer Cass",
+      "targetId": "2647"
+    }
+  ]
+}

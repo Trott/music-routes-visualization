@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Andy Nye",
-    "target": "Michael Schenker",
-    "targetId": "7640"
-  },
-  {
-    "source": "Andy Nye",
-    "target": "Gary Barden",
-    "targetId": "8794"
-  },
-  {
-    "source": "Andy Nye",
-    "target": "Ted McKenna",
-    "targetId": "8797"
-  },
-  {
-    "source": "Andy Nye",
-    "target": "Chris Glen",
-    "targetId": "8798"
-  }
-]
+{
+  "source": "Andy Nye",
+  "targets": [
+    {
+      "name": "Michael Schenker",
+      "targetId": "7640"
+    },
+    {
+      "name": "Gary Barden",
+      "targetId": "8794"
+    },
+    {
+      "name": "Ted McKenna",
+      "targetId": "8797"
+    },
+    {
+      "name": "Chris Glen",
+      "targetId": "8798"
+    }
+  ]
+}

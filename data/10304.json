@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Becky Wentworth",
-    "target": "Motorhead Sherwood",
-    "targetId": "6588"
-  },
-  {
-    "source": "Becky Wentworth",
-    "target": "James \"Spider\" Barbour",
-    "targetId": "10302"
-  },
-  {
-    "source": "Becky Wentworth",
-    "target": "Gilly Townley",
-    "targetId": "10303"
-  },
-  {
-    "source": "Becky Wentworth",
-    "target": "Susan Kelly",
-    "targetId": "10305"
-  },
-  {
-    "source": "Becky Wentworth",
-    "target": "John Kilgore",
-    "targetId": "10306"
-  }
-]
+{
+  "source": "Becky Wentworth",
+  "targets": [
+    {
+      "name": "Motorhead Sherwood",
+      "targetId": "6588"
+    },
+    {
+      "name": "James \"Spider\" Barbour",
+      "targetId": "10302"
+    },
+    {
+      "name": "Gilly Townley",
+      "targetId": "10303"
+    },
+    {
+      "name": "Susan Kelly",
+      "targetId": "10305"
+    },
+    {
+      "name": "John Kilgore",
+      "targetId": "10306"
+    }
+  ]
+}

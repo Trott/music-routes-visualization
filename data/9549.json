@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ted Bunting",
-    "target": "Paul Dean",
-    "targetId": "9545"
-  },
-  {
-    "source": "Ted Bunting",
-    "target": "Poly Styrene",
-    "targetId": "9546"
-  },
-  {
-    "source": "Ted Bunting",
-    "target": "Jak Airport",
-    "targetId": "9547"
-  },
-  {
-    "source": "Ted Bunting",
-    "target": "B.P. Hurding",
-    "targetId": "9548"
-  }
-]
+{
+  "source": "Ted Bunting",
+  "targets": [
+    {
+      "name": "Paul Dean",
+      "targetId": "9545"
+    },
+    {
+      "name": "Poly Styrene",
+      "targetId": "9546"
+    },
+    {
+      "name": "Jak Airport",
+      "targetId": "9547"
+    },
+    {
+      "name": "B.P. Hurding",
+      "targetId": "9548"
+    }
+  ]
+}

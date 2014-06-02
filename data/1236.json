@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Paul Hoaglin",
-    "target": "John Hofer",
-    "targetId": "1231"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Tim Bluhm",
-    "targetId": "1234"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Greg Loiacono",
-    "targetId": "1235"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Jackie Greene",
-    "targetId": "1237"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Dan Lebowitz",
-    "targetId": "1238"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Charlie Gurke",
-    "targetId": "1239"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Eric Oberthaler",
-    "targetId": "1240"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Scott Kinipplemeir",
-    "targetId": "1241"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Todd Roper",
-    "targetId": "1242"
-  },
-  {
-    "source": "Paul Hoaglin",
-    "target": "Jeremy Cooke",
-    "targetId": "1243"
-  }
-]
+{
+  "source": "Paul Hoaglin",
+  "targets": [
+    {
+      "name": "John Hofer",
+      "targetId": "1231"
+    },
+    {
+      "name": "Tim Bluhm",
+      "targetId": "1234"
+    },
+    {
+      "name": "Greg Loiacono",
+      "targetId": "1235"
+    },
+    {
+      "name": "Jackie Greene",
+      "targetId": "1237"
+    },
+    {
+      "name": "Dan Lebowitz",
+      "targetId": "1238"
+    },
+    {
+      "name": "Charlie Gurke",
+      "targetId": "1239"
+    },
+    {
+      "name": "Eric Oberthaler",
+      "targetId": "1240"
+    },
+    {
+      "name": "Scott Kinipplemeir",
+      "targetId": "1241"
+    },
+    {
+      "name": "Todd Roper",
+      "targetId": "1242"
+    },
+    {
+      "name": "Jeremy Cooke",
+      "targetId": "1243"
+    }
+  ]
+}

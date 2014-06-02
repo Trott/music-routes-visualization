@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tommy Bray",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "Tommy Bray",
-    "target": "Rick Rosas",
-    "targetId": "3283"
-  },
-  {
-    "source": "Tommy Bray",
-    "target": "Chad Cromwell",
-    "targetId": "3284"
-  },
-  {
-    "source": "Tommy Bray",
-    "target": "Christy Crowl",
-    "targetId": "3286"
-  },
-  {
-    "source": "Tommy Bray",
-    "target": "Scott Dicken",
-    "targetId": "3577"
-  }
-]
+{
+  "source": "Tommy Bray",
+  "targets": [
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "Rick Rosas",
+      "targetId": "3283"
+    },
+    {
+      "name": "Chad Cromwell",
+      "targetId": "3284"
+    },
+    {
+      "name": "Christy Crowl",
+      "targetId": "3286"
+    },
+    {
+      "name": "Scott Dicken",
+      "targetId": "3577"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ray Luzier",
-    "target": "David Lee Roth",
-    "targetId": "898"
-  },
-  {
-    "source": "Ray Luzier",
-    "target": "John Lowery",
-    "targetId": "5314"
-  }
-]
+{
+  "source": "Ray Luzier",
+  "targets": [
+    {
+      "name": "David Lee Roth",
+      "targetId": "898"
+    },
+    {
+      "name": "John Lowery",
+      "targetId": "5314"
+    }
+  ]
+}

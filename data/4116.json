@@ -1,17 +1,17 @@
-[
-  {
-    "source": "London May",
-    "target": "Glenn Danzig",
-    "targetId": "2389"
-  },
-  {
-    "source": "London May",
-    "target": "Eerie Von",
-    "targetId": "4112"
-  },
-  {
-    "source": "London May",
-    "target": "Damien",
-    "targetId": "4115"
-  }
-]
+{
+  "source": "London May",
+  "targets": [
+    {
+      "name": "Glenn Danzig",
+      "targetId": "2389"
+    },
+    {
+      "name": "Eerie Von",
+      "targetId": "4112"
+    },
+    {
+      "name": "Damien",
+      "targetId": "4115"
+    }
+  ]
+}

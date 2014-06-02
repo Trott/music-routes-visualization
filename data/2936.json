@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Mick Farren",
-    "target": "Brock Avery",
-    "targetId": "777"
-  },
-  {
-    "source": "Mick Farren",
-    "target": "Wayne Kramer",
-    "targetId": "2728"
-  },
-  {
-    "source": "Mick Farren",
-    "target": "Andy Colquhoun",
-    "targetId": "2937"
-  },
-  {
-    "source": "Mick Farren",
-    "target": "Jack Lancaster",
-    "targetId": "2938"
-  },
-  {
-    "source": "Mick Farren",
-    "target": "Paul Ill",
-    "targetId": "2939"
-  },
-  {
-    "source": "Mick Farren",
-    "target": "Larry Wallis",
-    "targetId": "2940"
-  },
-  {
-    "source": "Mick Farren",
-    "target": "Duncan Sanderson",
-    "targetId": "2941"
-  },
-  {
-    "source": "Mick Farren",
-    "target": "George Butler",
-    "targetId": "2942"
-  }
-]
+{
+  "source": "Mick Farren",
+  "targets": [
+    {
+      "name": "Brock Avery",
+      "targetId": "777"
+    },
+    {
+      "name": "Wayne Kramer",
+      "targetId": "2728"
+    },
+    {
+      "name": "Andy Colquhoun",
+      "targetId": "2937"
+    },
+    {
+      "name": "Jack Lancaster",
+      "targetId": "2938"
+    },
+    {
+      "name": "Paul Ill",
+      "targetId": "2939"
+    },
+    {
+      "name": "Larry Wallis",
+      "targetId": "2940"
+    },
+    {
+      "name": "Duncan Sanderson",
+      "targetId": "2941"
+    },
+    {
+      "name": "George Butler",
+      "targetId": "2942"
+    }
+  ]
+}

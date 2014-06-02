@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Cindy Wilson",
-    "target": "Charley Drayton",
-    "targetId": "5834"
-  },
-  {
-    "source": "Cindy Wilson",
-    "target": "Kate Pierson",
-    "targetId": "6064"
-  },
-  {
-    "source": "Cindy Wilson",
-    "target": "Arno Hecht",
-    "targetId": "7569"
-  },
-  {
-    "source": "Cindy Wilson",
-    "target": "Crispin Cioe",
-    "targetId": "7570"
-  },
-  {
-    "source": "Cindy Wilson",
-    "target": "Bob Funk",
-    "targetId": "7571"
-  },
-  {
-    "source": "Cindy Wilson",
-    "target": "Paul Litteral",
-    "targetId": "7572"
-  },
-  {
-    "source": "Cindy Wilson",
-    "target": "Sara Lee",
-    "targetId": "9118"
-  },
-  {
-    "source": "Cindy Wilson",
-    "target": "Keith Strickland",
-    "targetId": "9119"
-  },
-  {
-    "source": "Cindy Wilson",
-    "target": "Fred Schneider",
-    "targetId": "9121"
-  }
-]
+{
+  "source": "Cindy Wilson",
+  "targets": [
+    {
+      "name": "Charley Drayton",
+      "targetId": "5834"
+    },
+    {
+      "name": "Kate Pierson",
+      "targetId": "6064"
+    },
+    {
+      "name": "Arno Hecht",
+      "targetId": "7569"
+    },
+    {
+      "name": "Crispin Cioe",
+      "targetId": "7570"
+    },
+    {
+      "name": "Bob Funk",
+      "targetId": "7571"
+    },
+    {
+      "name": "Paul Litteral",
+      "targetId": "7572"
+    },
+    {
+      "name": "Sara Lee",
+      "targetId": "9118"
+    },
+    {
+      "name": "Keith Strickland",
+      "targetId": "9119"
+    },
+    {
+      "name": "Fred Schneider",
+      "targetId": "9121"
+    }
+  ]
+}

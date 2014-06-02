@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Dean Martin",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Dean Martin",
-    "target": "Bing Crosby",
-    "targetId": "1791"
-  }
-]
+{
+  "source": "Dean Martin",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Bing Crosby",
+      "targetId": "1791"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Harris",
-    "target": "Dave Murray",
-    "targetId": "166"
-  },
-  {
-    "source": "Steve Harris",
-    "target": "Adrian Smith",
-    "targetId": "178"
-  },
-  {
-    "source": "Steve Harris",
-    "target": "Nicko McBrain",
-    "targetId": "2151"
-  },
-  {
-    "source": "Steve Harris",
-    "target": "Bruce Dickinson",
-    "targetId": "2153"
-  }
-]
+{
+  "source": "Steve Harris",
+  "targets": [
+    {
+      "name": "Dave Murray",
+      "targetId": "166"
+    },
+    {
+      "name": "Adrian Smith",
+      "targetId": "178"
+    },
+    {
+      "name": "Nicko McBrain",
+      "targetId": "2151"
+    },
+    {
+      "name": "Bruce Dickinson",
+      "targetId": "2153"
+    }
+  ]
+}

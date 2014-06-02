@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jim Scott",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "Jim Scott",
-    "target": "Greg Leisz",
-    "targetId": "1061"
-  },
-  {
-    "source": "Jim Scott",
-    "target": "Don Heffington",
-    "targetId": "3274"
-  },
-  {
-    "source": "Jim Scott",
-    "target": "Kathleen Edwards",
-    "targetId": "3661"
-  },
-  {
-    "source": "Jim Scott",
-    "target": "Colin Cripps",
-    "targetId": "3663"
-  },
-  {
-    "source": "Jim Scott",
-    "target": "Bob Packwood",
-    "targetId": "3668"
-  },
-  {
-    "source": "Jim Scott",
-    "target": "Paul Reddick",
-    "targetId": "3669"
-  }
-]
+{
+  "source": "Jim Scott",
+  "targets": [
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Greg Leisz",
+      "targetId": "1061"
+    },
+    {
+      "name": "Don Heffington",
+      "targetId": "3274"
+    },
+    {
+      "name": "Kathleen Edwards",
+      "targetId": "3661"
+    },
+    {
+      "name": "Colin Cripps",
+      "targetId": "3663"
+    },
+    {
+      "name": "Bob Packwood",
+      "targetId": "3668"
+    },
+    {
+      "name": "Paul Reddick",
+      "targetId": "3669"
+    }
+  ]
+}

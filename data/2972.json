@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Donald Johnson",
-    "target": "Dave Palmer",
-    "targetId": "2959"
-  },
-  {
-    "source": "Donald Johnson",
-    "target": "Johnny Marr",
-    "targetId": "2966"
-  },
-  {
-    "source": "Donald Johnson",
-    "target": "Bernard Sumner",
-    "targetId": "2967"
-  }
-]
+{
+  "source": "Donald Johnson",
+  "targets": [
+    {
+      "name": "Dave Palmer",
+      "targetId": "2959"
+    },
+    {
+      "name": "Johnny Marr",
+      "targetId": "2966"
+    },
+    {
+      "name": "Bernard Sumner",
+      "targetId": "2967"
+    }
+  ]
+}

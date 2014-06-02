@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Greg Saunders",
-    "target": "Ronnie Barnett",
-    "targetId": "8899"
-  },
-  {
-    "source": "Greg Saunders",
-    "target": "Kim Shattuck",
-    "targetId": "8902"
-  },
-  {
-    "source": "Greg Saunders",
-    "target": "Roy McDonald",
-    "targetId": "8904"
-  },
-  {
-    "source": "Greg Saunders",
-    "target": "Kevin Sutherland",
-    "targetId": "10262"
-  }
-]
+{
+  "source": "Greg Saunders",
+  "targets": [
+    {
+      "name": "Ronnie Barnett",
+      "targetId": "8899"
+    },
+    {
+      "name": "Kim Shattuck",
+      "targetId": "8902"
+    },
+    {
+      "name": "Roy McDonald",
+      "targetId": "8904"
+    },
+    {
+      "name": "Kevin Sutherland",
+      "targetId": "10262"
+    }
+  ]
+}

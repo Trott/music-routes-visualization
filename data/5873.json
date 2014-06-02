@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jim Croce",
-    "target": "Rick Marotta",
-    "targetId": "393"
-  },
-  {
-    "source": "Jim Croce",
-    "target": "Stu Woods",
-    "targetId": "1271"
-  },
-  {
-    "source": "Jim Croce",
-    "target": "David Spinozza",
-    "targetId": "1273"
-  },
-  {
-    "source": "Jim Croce",
-    "target": "David Mansfield",
-    "targetId": "3619"
-  },
-  {
-    "source": "Jim Croce",
-    "target": "Maury Muehleisen",
-    "targetId": "5871"
-  },
-  {
-    "source": "Jim Croce",
-    "target": "Tommy West",
-    "targetId": "5872"
-  },
-  {
-    "source": "Jim Croce",
-    "target": "George Devens",
-    "targetId": "5874"
-  }
-]
+{
+  "source": "Jim Croce",
+  "targets": [
+    {
+      "name": "Rick Marotta",
+      "targetId": "393"
+    },
+    {
+      "name": "Stu Woods",
+      "targetId": "1271"
+    },
+    {
+      "name": "David Spinozza",
+      "targetId": "1273"
+    },
+    {
+      "name": "David Mansfield",
+      "targetId": "3619"
+    },
+    {
+      "name": "Maury Muehleisen",
+      "targetId": "5871"
+    },
+    {
+      "name": "Tommy West",
+      "targetId": "5872"
+    },
+    {
+      "name": "George Devens",
+      "targetId": "5874"
+    }
+  ]
+}

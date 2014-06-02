@@ -1,222 +1,181 @@
-[
-  {
-    "source": "Michael Stipe",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Peter Buck",
-    "targetId": "342"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Mike Mills",
-    "targetId": "343"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Bill Berry",
-    "targetId": "344"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "KRS-One",
-    "targetId": "845"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Gwen Stefani",
-    "targetId": "1842"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Britney Spears",
-    "targetId": "2138"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Alicia Keys",
-    "targetId": "2173"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Christina Aguilera",
-    "targetId": "2175"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Nas",
-    "targetId": "2184"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Amy Ray",
-    "targetId": "2579"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Emily Saliers",
-    "targetId": "2580"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Dede Vogt",
-    "targetId": "2585"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Jay Dee Daugherty",
-    "targetId": "2586"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "John Keane",
-    "targetId": "2587"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Sean Combs",
-    "targetId": "2678"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Patti Smith",
-    "targetId": "2744"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Justin Timberlake",
-    "targetId": "4041"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Mary J. Blige",
-    "targetId": "4043"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Fred Durst",
-    "targetId": "4385"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Aaron Lewis",
-    "targetId": "4394"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Jennifer Lopez",
-    "targetId": "5537"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Nelly Furtado",
-    "targetId": "6013"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Wyclef Jean",
-    "targetId": "6019"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Howie Dorough",
-    "targetId": "6114"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Brian Littrell",
-    "targetId": "6115"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "A.J. McLean",
-    "targetId": "6116"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Nick Carter",
-    "targetId": "6117"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Questlove",
-    "targetId": "6834"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Beyoncé",
-    "targetId": "8074"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Jermaine Dupri",
-    "targetId": "8234"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Eve",
-    "targetId": "8235"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Nona Gaye",
-    "targetId": "8236"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Darren Hayes",
-    "targetId": "8237"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Ja Rule",
-    "targetId": "8238"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Nelly",
-    "targetId": "8239"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Kevin Richardson",
-    "targetId": "8240"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Kelly Rowland",
-    "targetId": "8241"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Michelle Williams",
-    "targetId": "8242"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Chris Kirkpatrick",
-    "targetId": "8243"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Joey Fatone",
-    "targetId": "8244"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "Lance Bass",
-    "targetId": "8245"
-  },
-  {
-    "source": "Michael Stipe",
-    "target": "JC Chasez",
-    "targetId": "8246"
-  }
-]
+{
+  "source": "Michael Stipe",
+  "targets": [
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Peter Buck",
+      "targetId": "342"
+    },
+    {
+      "name": "Mike Mills",
+      "targetId": "343"
+    },
+    {
+      "name": "Bill Berry",
+      "targetId": "344"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "KRS-One",
+      "targetId": "845"
+    },
+    {
+      "name": "Gwen Stefani",
+      "targetId": "1842"
+    },
+    {
+      "name": "Britney Spears",
+      "targetId": "2138"
+    },
+    {
+      "name": "Alicia Keys",
+      "targetId": "2173"
+    },
+    {
+      "name": "Christina Aguilera",
+      "targetId": "2175"
+    },
+    {
+      "name": "Nas",
+      "targetId": "2184"
+    },
+    {
+      "name": "Amy Ray",
+      "targetId": "2579"
+    },
+    {
+      "name": "Emily Saliers",
+      "targetId": "2580"
+    },
+    {
+      "name": "Dede Vogt",
+      "targetId": "2585"
+    },
+    {
+      "name": "Jay Dee Daugherty",
+      "targetId": "2586"
+    },
+    {
+      "name": "John Keane",
+      "targetId": "2587"
+    },
+    {
+      "name": "Sean Combs",
+      "targetId": "2678"
+    },
+    {
+      "name": "Patti Smith",
+      "targetId": "2744"
+    },
+    {
+      "name": "Justin Timberlake",
+      "targetId": "4041"
+    },
+    {
+      "name": "Mary J. Blige",
+      "targetId": "4043"
+    },
+    {
+      "name": "Fred Durst",
+      "targetId": "4385"
+    },
+    {
+      "name": "Aaron Lewis",
+      "targetId": "4394"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "targetId": "5537"
+    },
+    {
+      "name": "Nelly Furtado",
+      "targetId": "6013"
+    },
+    {
+      "name": "Wyclef Jean",
+      "targetId": "6019"
+    },
+    {
+      "name": "Howie Dorough",
+      "targetId": "6114"
+    },
+    {
+      "name": "Brian Littrell",
+      "targetId": "6115"
+    },
+    {
+      "name": "A.J. McLean",
+      "targetId": "6116"
+    },
+    {
+      "name": "Nick Carter",
+      "targetId": "6117"
+    },
+    {
+      "name": "Questlove",
+      "targetId": "6834"
+    },
+    {
+      "name": "Beyoncé",
+      "targetId": "8074"
+    },
+    {
+      "name": "Jermaine Dupri",
+      "targetId": "8234"
+    },
+    {
+      "name": "Eve",
+      "targetId": "8235"
+    },
+    {
+      "name": "Nona Gaye",
+      "targetId": "8236"
+    },
+    {
+      "name": "Darren Hayes",
+      "targetId": "8237"
+    },
+    {
+      "name": "Ja Rule",
+      "targetId": "8238"
+    },
+    {
+      "name": "Nelly",
+      "targetId": "8239"
+    },
+    {
+      "name": "Kevin Richardson",
+      "targetId": "8240"
+    },
+    {
+      "name": "Kelly Rowland",
+      "targetId": "8241"
+    },
+    {
+      "name": "Michelle Williams",
+      "targetId": "8242"
+    },
+    {
+      "name": "Chris Kirkpatrick",
+      "targetId": "8243"
+    },
+    {
+      "name": "Joey Fatone",
+      "targetId": "8244"
+    },
+    {
+      "name": "Lance Bass",
+      "targetId": "8245"
+    },
+    {
+      "name": "JC Chasez",
+      "targetId": "8246"
+    }
+  ]
+}

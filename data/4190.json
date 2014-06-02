@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Phil Ehart",
-    "target": "Steve Morse",
-    "targetId": "2010"
-  },
-  {
-    "source": "Phil Ehart",
-    "target": "Billy Greer",
-    "targetId": "4191"
-  },
-  {
-    "source": "Phil Ehart",
-    "target": "Steve Walsh",
-    "targetId": "4192"
-  },
-  {
-    "source": "Phil Ehart",
-    "target": "Rich Williams",
-    "targetId": "4193"
-  }
-]
+{
+  "source": "Phil Ehart",
+  "targets": [
+    {
+      "name": "Steve Morse",
+      "targetId": "2010"
+    },
+    {
+      "name": "Billy Greer",
+      "targetId": "4191"
+    },
+    {
+      "name": "Steve Walsh",
+      "targetId": "4192"
+    },
+    {
+      "name": "Rich Williams",
+      "targetId": "4193"
+    }
+  ]
+}

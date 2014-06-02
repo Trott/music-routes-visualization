@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Tommy Flanagan",
-    "target": "Jimmy Cobb",
-    "targetId": "1045"
-  },
-  {
-    "source": "Tommy Flanagan",
-    "target": "Paul Chambers",
-    "targetId": "1046"
-  },
-  {
-    "source": "Tommy Flanagan",
-    "target": "John Coltrane",
-    "targetId": "1049"
-  },
-  {
-    "source": "Tommy Flanagan",
-    "target": "Max Roach",
-    "targetId": "2950"
-  },
-  {
-    "source": "Tommy Flanagan",
-    "target": "Sonny Rollins",
-    "targetId": "4556"
-  },
-  {
-    "source": "Tommy Flanagan",
-    "target": "Doug Watkins",
-    "targetId": "4558"
-  },
-  {
-    "source": "Tommy Flanagan",
-    "target": "Kenny Burrell",
-    "targetId": "7926"
-  }
-]
+{
+  "source": "Tommy Flanagan",
+  "targets": [
+    {
+      "name": "Jimmy Cobb",
+      "targetId": "1045"
+    },
+    {
+      "name": "Paul Chambers",
+      "targetId": "1046"
+    },
+    {
+      "name": "John Coltrane",
+      "targetId": "1049"
+    },
+    {
+      "name": "Max Roach",
+      "targetId": "2950"
+    },
+    {
+      "name": "Sonny Rollins",
+      "targetId": "4556"
+    },
+    {
+      "name": "Doug Watkins",
+      "targetId": "4558"
+    },
+    {
+      "name": "Kenny Burrell",
+      "targetId": "7926"
+    }
+  ]
+}

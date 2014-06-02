@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Adam Rogers",
-    "target": "Norah Jones",
-    "targetId": "2219"
-  },
-  {
-    "source": "Adam Rogers",
-    "target": "Dan Rieser",
-    "targetId": "10314"
-  },
-  {
-    "source": "Adam Rogers",
-    "target": "Lee Alexander",
-    "targetId": "10315"
-  },
-  {
-    "source": "Adam Rogers",
-    "target": "Sam Yahel",
-    "targetId": "10318"
-  }
-]
+{
+  "source": "Adam Rogers",
+  "targets": [
+    {
+      "name": "Norah Jones",
+      "targetId": "2219"
+    },
+    {
+      "name": "Dan Rieser",
+      "targetId": "10314"
+    },
+    {
+      "name": "Lee Alexander",
+      "targetId": "10315"
+    },
+    {
+      "name": "Sam Yahel",
+      "targetId": "10318"
+    }
+  ]
+}

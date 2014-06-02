@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Charlie Louvin",
-    "target": "Grandpa Jones",
-    "targetId": "253"
-  },
-  {
-    "source": "Charlie Louvin",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Charlie Louvin",
-    "target": "Peter Cummings",
-    "targetId": "291"
-  },
-  {
-    "source": "Charlie Louvin",
-    "target": "David Russell",
-    "targetId": "292"
-  },
-  {
-    "source": "Charlie Louvin",
-    "target": "Paul Burch",
-    "targetId": "293"
-  },
-  {
-    "source": "Charlie Louvin",
-    "target": "Ira Louvin",
-    "targetId": "295"
-  },
-  {
-    "source": "Charlie Louvin",
-    "target": "Mac McCaughan",
-    "targetId": "2855"
-  }
-]
+{
+  "source": "Charlie Louvin",
+  "targets": [
+    {
+      "name": "Grandpa Jones",
+      "targetId": "253"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Peter Cummings",
+      "targetId": "291"
+    },
+    {
+      "name": "David Russell",
+      "targetId": "292"
+    },
+    {
+      "name": "Paul Burch",
+      "targetId": "293"
+    },
+    {
+      "name": "Ira Louvin",
+      "targetId": "295"
+    },
+    {
+      "name": "Mac McCaughan",
+      "targetId": "2855"
+    }
+  ]
+}

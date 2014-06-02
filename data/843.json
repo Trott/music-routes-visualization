@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tommy Vinton",
-    "target": "Tim Quirk",
-    "targetId": "841"
-  },
-  {
-    "source": "Tommy Vinton",
-    "target": "Sandy Smallens",
-    "targetId": "842"
-  },
-  {
-    "source": "Tommy Vinton",
-    "target": "Jay Blumenfeld",
-    "targetId": "844"
-  },
-  {
-    "source": "Tommy Vinton",
-    "target": "KRS-One",
-    "targetId": "845"
-  }
-]
+{
+  "source": "Tommy Vinton",
+  "targets": [
+    {
+      "name": "Tim Quirk",
+      "targetId": "841"
+    },
+    {
+      "name": "Sandy Smallens",
+      "targetId": "842"
+    },
+    {
+      "name": "Jay Blumenfeld",
+      "targetId": "844"
+    },
+    {
+      "name": "KRS-One",
+      "targetId": "845"
+    }
+  ]
+}

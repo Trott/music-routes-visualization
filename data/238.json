@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Alton Delmore",
-    "target": "Rabon Delmore",
-    "targetId": "239"
-  },
-  {
-    "source": "Alton Delmore",
-    "target": "Merle Travis",
-    "targetId": "252"
-  },
-  {
-    "source": "Alton Delmore",
-    "target": "Grandpa Jones",
-    "targetId": "253"
-  }
-]
+{
+  "source": "Alton Delmore",
+  "targets": [
+    {
+      "name": "Rabon Delmore",
+      "targetId": "239"
+    },
+    {
+      "name": "Merle Travis",
+      "targetId": "252"
+    },
+    {
+      "name": "Grandpa Jones",
+      "targetId": "253"
+    }
+  ]
+}

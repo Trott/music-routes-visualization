@@ -1,237 +1,193 @@
-[
-  {
-    "source": "Richard Davis",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Roy Bittan",
-    "targetId": "463"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Randy Brecker",
-    "targetId": "469"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Charlie Haden",
-    "targetId": "1062"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Ron Carter",
-    "targetId": "1201"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Howard Johnson",
-    "targetId": "1811"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Tony Williams",
-    "targetId": "3839"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Don Cherry",
-    "targetId": "4590"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Gato Barbieri",
-    "targetId": "4591"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Steve Lacy",
-    "targetId": "4592"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Al Gibbons",
-    "targetId": "4593"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Gene Hull",
-    "targetId": "4594"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Bob Donovan",
-    "targetId": "4595"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Lew Tabackin",
-    "targetId": "4596"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "George Barrow",
-    "targetId": "4597"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Charles Davis",
-    "targetId": "4598"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Lloyd Michels",
-    "targetId": "4599"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Bob Northern",
-    "targetId": "4600"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Julius Watkins",
-    "targetId": "4601"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Jimmy Knepper",
-    "targetId": "4602"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Jack Jeffers",
-    "targetId": "4603"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Carla Bley",
-    "targetId": "4604"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Kent Carter",
-    "targetId": "4605"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Reggie Workman",
-    "targetId": "4607"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Andrew Cyrille",
-    "targetId": "4608"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Freddie Hubbard",
-    "targetId": "6870"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Bobby Hutcherson",
-    "targetId": "6871"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Eric Dolphy",
-    "targetId": "6872"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "David Nadien",
-    "targetId": "8135"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Paul Gersham",
-    "targetId": "8138"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Harold Kohon",
-    "targetId": "8140"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Matthew Raimondi",
-    "targetId": "8143"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Charles McCracken",
-    "targetId": "8145"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Alan Shulman",
-    "targetId": "8146"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Kermit Moore",
-    "targetId": "9394"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Beverly Lauridsen",
-    "targetId": "9395"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Harry Lookofsky",
-    "targetId": "9396"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Joe Malin",
-    "targetId": "9397"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Harry Cykman",
-    "targetId": "9398"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Stewart Clarke",
-    "targetId": "9399"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Manny Vardi",
-    "targetId": "9400"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Julian Barber",
-    "targetId": "9401"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Max Pollikoff",
-    "targetId": "9402"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Arnold Black",
-    "targetId": "9403"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Al Brown",
-    "targetId": "9404"
-  },
-  {
-    "source": "Richard Davis",
-    "target": "Homer Mensch",
-    "targetId": "9405"
-  }
-]
+{
+  "source": "Richard Davis",
+  "targets": [
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Roy Bittan",
+      "targetId": "463"
+    },
+    {
+      "name": "Randy Brecker",
+      "targetId": "469"
+    },
+    {
+      "name": "Charlie Haden",
+      "targetId": "1062"
+    },
+    {
+      "name": "Ron Carter",
+      "targetId": "1201"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Howard Johnson",
+      "targetId": "1811"
+    },
+    {
+      "name": "Tony Williams",
+      "targetId": "3839"
+    },
+    {
+      "name": "Don Cherry",
+      "targetId": "4590"
+    },
+    {
+      "name": "Gato Barbieri",
+      "targetId": "4591"
+    },
+    {
+      "name": "Steve Lacy",
+      "targetId": "4592"
+    },
+    {
+      "name": "Al Gibbons",
+      "targetId": "4593"
+    },
+    {
+      "name": "Gene Hull",
+      "targetId": "4594"
+    },
+    {
+      "name": "Bob Donovan",
+      "targetId": "4595"
+    },
+    {
+      "name": "Lew Tabackin",
+      "targetId": "4596"
+    },
+    {
+      "name": "George Barrow",
+      "targetId": "4597"
+    },
+    {
+      "name": "Charles Davis",
+      "targetId": "4598"
+    },
+    {
+      "name": "Lloyd Michels",
+      "targetId": "4599"
+    },
+    {
+      "name": "Bob Northern",
+      "targetId": "4600"
+    },
+    {
+      "name": "Julius Watkins",
+      "targetId": "4601"
+    },
+    {
+      "name": "Jimmy Knepper",
+      "targetId": "4602"
+    },
+    {
+      "name": "Jack Jeffers",
+      "targetId": "4603"
+    },
+    {
+      "name": "Carla Bley",
+      "targetId": "4604"
+    },
+    {
+      "name": "Kent Carter",
+      "targetId": "4605"
+    },
+    {
+      "name": "Reggie Workman",
+      "targetId": "4607"
+    },
+    {
+      "name": "Andrew Cyrille",
+      "targetId": "4608"
+    },
+    {
+      "name": "Freddie Hubbard",
+      "targetId": "6870"
+    },
+    {
+      "name": "Bobby Hutcherson",
+      "targetId": "6871"
+    },
+    {
+      "name": "Eric Dolphy",
+      "targetId": "6872"
+    },
+    {
+      "name": "David Nadien",
+      "targetId": "8135"
+    },
+    {
+      "name": "Paul Gersham",
+      "targetId": "8138"
+    },
+    {
+      "name": "Harold Kohon",
+      "targetId": "8140"
+    },
+    {
+      "name": "Matthew Raimondi",
+      "targetId": "8143"
+    },
+    {
+      "name": "Charles McCracken",
+      "targetId": "8145"
+    },
+    {
+      "name": "Alan Shulman",
+      "targetId": "8146"
+    },
+    {
+      "name": "Kermit Moore",
+      "targetId": "9394"
+    },
+    {
+      "name": "Beverly Lauridsen",
+      "targetId": "9395"
+    },
+    {
+      "name": "Harry Lookofsky",
+      "targetId": "9396"
+    },
+    {
+      "name": "Joe Malin",
+      "targetId": "9397"
+    },
+    {
+      "name": "Harry Cykman",
+      "targetId": "9398"
+    },
+    {
+      "name": "Stewart Clarke",
+      "targetId": "9399"
+    },
+    {
+      "name": "Manny Vardi",
+      "targetId": "9400"
+    },
+    {
+      "name": "Julian Barber",
+      "targetId": "9401"
+    },
+    {
+      "name": "Max Pollikoff",
+      "targetId": "9402"
+    },
+    {
+      "name": "Arnold Black",
+      "targetId": "9403"
+    },
+    {
+      "name": "Al Brown",
+      "targetId": "9404"
+    },
+    {
+      "name": "Homer Mensch",
+      "targetId": "9405"
+    }
+  ]
+}

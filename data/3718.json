@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Pete Thompson",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Pete Thompson",
-    "target": "Charlie Jones",
-    "targetId": "3709"
-  },
-  {
-    "source": "Pete Thompson",
-    "target": "Kevin Scott MacMichael",
-    "targetId": "3712"
-  },
-  {
-    "source": "Pete Thompson",
-    "target": "Nigel Kennedy",
-    "targetId": "3719"
-  }
-]
+{
+  "source": "Pete Thompson",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Charlie Jones",
+      "targetId": "3709"
+    },
+    {
+      "name": "Kevin Scott MacMichael",
+      "targetId": "3712"
+    },
+    {
+      "name": "Nigel Kennedy",
+      "targetId": "3719"
+    }
+  ]
+}

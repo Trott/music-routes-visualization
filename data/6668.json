@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Greg Hain",
-    "target": "Joel Pickard",
-    "targetId": "1593"
-  },
-  {
-    "source": "Greg Hain",
-    "target": "Chris Stroffolino",
-    "targetId": "5936"
-  },
-  {
-    "source": "Greg Hain",
-    "target": "Peter Nochisaki",
-    "targetId": "5940"
-  },
-  {
-    "source": "Greg Hain",
-    "target": "Brandon Watson",
-    "targetId": "5942"
-  },
-  {
-    "source": "Greg Hain",
-    "target": "Vanessa Beggs",
-    "targetId": "6667"
-  }
-]
+{
+  "source": "Greg Hain",
+  "targets": [
+    {
+      "name": "Joel Pickard",
+      "targetId": "1593"
+    },
+    {
+      "name": "Chris Stroffolino",
+      "targetId": "5936"
+    },
+    {
+      "name": "Peter Nochisaki",
+      "targetId": "5940"
+    },
+    {
+      "name": "Brandon Watson",
+      "targetId": "5942"
+    },
+    {
+      "name": "Vanessa Beggs",
+      "targetId": "6667"
+    }
+  ]
+}

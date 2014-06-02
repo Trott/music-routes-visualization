@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jon E. Love",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Jon E. Love",
-    "target": "Terry Jackson",
-    "targetId": "1300"
-  },
-  {
-    "source": "Jon E. Love",
-    "target": "Larry Treadwell",
-    "targetId": "1302"
-  }
-]
+{
+  "source": "Jon E. Love",
+  "targets": [
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Terry Jackson",
+      "targetId": "1300"
+    },
+    {
+      "name": "Larry Treadwell",
+      "targetId": "1302"
+    }
+  ]
+}

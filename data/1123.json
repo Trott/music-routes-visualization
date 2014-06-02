@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Pharrell",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Pharrell",
-    "target": "Brandy",
-    "targetId": "4240"
-  }
-]
+{
+  "source": "Pharrell",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "Brandy",
+      "targetId": "4240"
+    }
+  ]
+}

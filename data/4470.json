@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Dave Brock",
-    "target": "Simon King",
-    "targetId": "566"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Simon House",
-    "targetId": "866"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Ginger Baker",
-    "targetId": "915"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Lemmy Kilmister",
-    "targetId": "2550"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Nik Turner",
-    "targetId": "4466"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Del Dettmar",
-    "targetId": "4469"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Tim Blake",
-    "targetId": "8517"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Robert Calvert",
-    "targetId": "8927"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Robert Heaton",
-    "targetId": "9064"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Harvey Bainbridge",
-    "targetId": "9067"
-  },
-  {
-    "source": "Dave Brock",
-    "target": "Huw Lloyd-Langton",
-    "targetId": "9068"
-  }
-]
+{
+  "source": "Dave Brock",
+  "targets": [
+    {
+      "name": "Simon King",
+      "targetId": "566"
+    },
+    {
+      "name": "Simon House",
+      "targetId": "866"
+    },
+    {
+      "name": "Ginger Baker",
+      "targetId": "915"
+    },
+    {
+      "name": "Lemmy Kilmister",
+      "targetId": "2550"
+    },
+    {
+      "name": "Nik Turner",
+      "targetId": "4466"
+    },
+    {
+      "name": "Del Dettmar",
+      "targetId": "4469"
+    },
+    {
+      "name": "Tim Blake",
+      "targetId": "8517"
+    },
+    {
+      "name": "Robert Calvert",
+      "targetId": "8927"
+    },
+    {
+      "name": "Robert Heaton",
+      "targetId": "9064"
+    },
+    {
+      "name": "Harvey Bainbridge",
+      "targetId": "9067"
+    },
+    {
+      "name": "Huw Lloyd-Langton",
+      "targetId": "9068"
+    }
+  ]
+}

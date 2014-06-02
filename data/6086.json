@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Berit Fridahl",
-    "target": "Heather Nova",
-    "targetId": "6081"
-  },
-  {
-    "source": "Berit Fridahl",
-    "target": "Bastian Juel",
-    "targetId": "6082"
-  },
-  {
-    "source": "Berit Fridahl",
-    "target": "Laurie Jenkins",
-    "targetId": "6083"
-  },
-  {
-    "source": "Berit Fridahl",
-    "target": "Glenn Scott",
-    "targetId": "6085"
-  }
-]
+{
+  "source": "Berit Fridahl",
+  "targets": [
+    {
+      "name": "Heather Nova",
+      "targetId": "6081"
+    },
+    {
+      "name": "Bastian Juel",
+      "targetId": "6082"
+    },
+    {
+      "name": "Laurie Jenkins",
+      "targetId": "6083"
+    },
+    {
+      "name": "Glenn Scott",
+      "targetId": "6085"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pia Vai",
-    "target": "Steve Vai",
-    "targetId": "1293"
-  },
-  {
-    "source": "Pia Vai",
-    "target": "Stuart Hamm",
-    "targetId": "8032"
-  },
-  {
-    "source": "Pia Vai",
-    "target": "Chris Frazier",
-    "targetId": "10226"
-  }
-]
+{
+  "source": "Pia Vai",
+  "targets": [
+    {
+      "name": "Steve Vai",
+      "targetId": "1293"
+    },
+    {
+      "name": "Stuart Hamm",
+      "targetId": "8032"
+    },
+    {
+      "name": "Chris Frazier",
+      "targetId": "10226"
+    }
+  ]
+}

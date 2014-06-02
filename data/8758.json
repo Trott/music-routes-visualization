@@ -1,27 +1,25 @@
-[
-  {
-    "source": "José Luis Pardo",
-    "target": "David Byrne",
-    "targetId": "193"
-  },
-  {
-    "source": "José Luis Pardo",
-    "target": "Norman Cook",
-    "targetId": "8720"
-  },
-  {
-    "source": "José Luis Pardo",
-    "target": "Tom Gandey",
-    "targetId": "8724"
-  },
-  {
-    "source": "José Luis Pardo",
-    "target": "José Rafael Torres",
-    "targetId": "8756"
-  },
-  {
-    "source": "José Luis Pardo",
-    "target": "Armando Figueredo",
-    "targetId": "8757"
-  }
-]
+{
+  "source": "José Luis Pardo",
+  "targets": [
+    {
+      "name": "David Byrne",
+      "targetId": "193"
+    },
+    {
+      "name": "Norman Cook",
+      "targetId": "8720"
+    },
+    {
+      "name": "Tom Gandey",
+      "targetId": "8724"
+    },
+    {
+      "name": "José Rafael Torres",
+      "targetId": "8756"
+    },
+    {
+      "name": "Armando Figueredo",
+      "targetId": "8757"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Gonzales",
-    "target": "Peaches",
-    "targetId": "1831"
-  },
-  {
-    "source": "Gonzales",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Gonzales",
-    "target": "Taylor Savvy",
-    "targetId": "6308"
-  }
-]
+{
+  "source": "Gonzales",
+  "targets": [
+    {
+      "name": "Peaches",
+      "targetId": "1831"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Taylor Savvy",
+      "targetId": "6308"
+    }
+  ]
+}

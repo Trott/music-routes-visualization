@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Frode Unneland",
-    "target": "Morten Harket",
-    "targetId": "6454"
-  },
-  {
-    "source": "Frode Unneland",
-    "target": "Magne Furuholmen",
-    "targetId": "6455"
-  },
-  {
-    "source": "Frode Unneland",
-    "target": "Paul Waaktaar-Savoy",
-    "targetId": "6456"
-  }
-]
+{
+  "source": "Frode Unneland",
+  "targets": [
+    {
+      "name": "Morten Harket",
+      "targetId": "6454"
+    },
+    {
+      "name": "Magne Furuholmen",
+      "targetId": "6455"
+    },
+    {
+      "name": "Paul Waaktaar-Savoy",
+      "targetId": "6456"
+    }
+  ]
+}

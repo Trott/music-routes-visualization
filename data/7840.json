@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ben Goldwasser",
-    "target": "Steven Drozd",
-    "targetId": "6978"
-  },
-  {
-    "source": "Ben Goldwasser",
-    "target": "Wayne Coyne",
-    "targetId": "6983"
-  },
-  {
-    "source": "Ben Goldwasser",
-    "target": "Michael Ivins",
-    "targetId": "7838"
-  },
-  {
-    "source": "Ben Goldwasser",
-    "target": "Kliph Scurlock",
-    "targetId": "7839"
-  },
-  {
-    "source": "Ben Goldwasser",
-    "target": "Andrew VanWyngarden",
-    "targetId": "7841"
-  }
-]
+{
+  "source": "Ben Goldwasser",
+  "targets": [
+    {
+      "name": "Steven Drozd",
+      "targetId": "6978"
+    },
+    {
+      "name": "Wayne Coyne",
+      "targetId": "6983"
+    },
+    {
+      "name": "Michael Ivins",
+      "targetId": "7838"
+    },
+    {
+      "name": "Kliph Scurlock",
+      "targetId": "7839"
+    },
+    {
+      "name": "Andrew VanWyngarden",
+      "targetId": "7841"
+    }
+  ]
+}

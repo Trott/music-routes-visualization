@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rocky George",
-    "target": "Chris Slade",
-    "targetId": "940"
-  },
-  {
-    "source": "Rocky George",
-    "target": "Lemmy Kilmister",
-    "targetId": "2550"
-  },
-  {
-    "source": "Rocky George",
-    "target": "Phil Campbell",
-    "targetId": "7065"
-  },
-  {
-    "source": "Rocky George",
-    "target": "Chuck Wright",
-    "targetId": "8658"
-  }
-]
+{
+  "source": "Rocky George",
+  "targets": [
+    {
+      "name": "Chris Slade",
+      "targetId": "940"
+    },
+    {
+      "name": "Lemmy Kilmister",
+      "targetId": "2550"
+    },
+    {
+      "name": "Phil Campbell",
+      "targetId": "7065"
+    },
+    {
+      "name": "Chuck Wright",
+      "targetId": "8658"
+    }
+  ]
+}

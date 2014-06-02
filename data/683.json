@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Kurt Cobain",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Kurt Cobain",
-    "target": "Krist Novoselic",
-    "targetId": "684"
-  },
-  {
-    "source": "Kurt Cobain",
-    "target": "Pat Smear",
-    "targetId": "784"
-  },
-  {
-    "source": "Kurt Cobain",
-    "target": "Jason Everman",
-    "targetId": "2021"
-  },
-  {
-    "source": "Kurt Cobain",
-    "target": "Chad Channing",
-    "targetId": "2022"
-  },
-  {
-    "source": "Kurt Cobain",
-    "target": "Dan Peters",
-    "targetId": "3652"
-  },
-  {
-    "source": "Kurt Cobain",
-    "target": "Lori Goldston",
-    "targetId": "3654"
-  }
-]
+{
+  "source": "Kurt Cobain",
+  "targets": [
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Krist Novoselic",
+      "targetId": "684"
+    },
+    {
+      "name": "Pat Smear",
+      "targetId": "784"
+    },
+    {
+      "name": "Jason Everman",
+      "targetId": "2021"
+    },
+    {
+      "name": "Chad Channing",
+      "targetId": "2022"
+    },
+    {
+      "name": "Dan Peters",
+      "targetId": "3652"
+    },
+    {
+      "name": "Lori Goldston",
+      "targetId": "3654"
+    }
+  ]
+}

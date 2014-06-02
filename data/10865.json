@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Juan Nogueras",
-    "target": "Bill Cosby",
-    "targetId": "523"
-  },
-  {
-    "source": "Juan Nogueras",
-    "target": "Arturo Sandoval",
-    "targetId": "10862"
-  },
-  {
-    "source": "Juan Nogueras",
-    "target": "Carlos Gomez",
-    "targetId": "10863"
-  },
-  {
-    "source": "Juan Nogueras",
-    "target": "Rigo Herrera",
-    "targetId": "10864"
-  },
-  {
-    "source": "Juan Nogueras",
-    "target": "Giovanni Hidalgo",
-    "targetId": "10866"
-  },
-  {
-    "source": "Juan Nogueras",
-    "target": "Cheito Quinonez",
-    "targetId": "10867"
-  },
-  {
-    "source": "Juan Nogueras",
-    "target": "Rita Quintero",
-    "targetId": "10868"
-  }
-]
+{
+  "source": "Juan Nogueras",
+  "targets": [
+    {
+      "name": "Bill Cosby",
+      "targetId": "523"
+    },
+    {
+      "name": "Arturo Sandoval",
+      "targetId": "10862"
+    },
+    {
+      "name": "Carlos Gomez",
+      "targetId": "10863"
+    },
+    {
+      "name": "Rigo Herrera",
+      "targetId": "10864"
+    },
+    {
+      "name": "Giovanni Hidalgo",
+      "targetId": "10866"
+    },
+    {
+      "name": "Cheito Quinonez",
+      "targetId": "10867"
+    },
+    {
+      "name": "Rita Quintero",
+      "targetId": "10868"
+    }
+  ]
+}

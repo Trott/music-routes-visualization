@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jubu Smith",
-    "target": "Tom Morello",
-    "targetId": "848"
-  },
-  {
-    "source": "Jubu Smith",
-    "target": "Boots Riley",
-    "targetId": "5960"
-  },
-  {
-    "source": "Jubu Smith",
-    "target": "Pam The Funkstress",
-    "targetId": "5961"
-  },
-  {
-    "source": "Jubu Smith",
-    "target": "Michael Aaberg",
-    "targetId": "5968"
-  },
-  {
-    "source": "Jubu Smith",
-    "target": "Lawrence \"L\" Wiley",
-    "targetId": "5974"
-  },
-  {
-    "source": "Jubu Smith",
-    "target": "Vernon Hall",
-    "targetId": "5976"
-  },
-  {
-    "source": "Jubu Smith",
-    "target": "Reginald Brown",
-    "targetId": "5977"
-  }
-]
+{
+  "source": "Jubu Smith",
+  "targets": [
+    {
+      "name": "Tom Morello",
+      "targetId": "848"
+    },
+    {
+      "name": "Boots Riley",
+      "targetId": "5960"
+    },
+    {
+      "name": "Pam The Funkstress",
+      "targetId": "5961"
+    },
+    {
+      "name": "Michael Aaberg",
+      "targetId": "5968"
+    },
+    {
+      "name": "Lawrence \"L\" Wiley",
+      "targetId": "5974"
+    },
+    {
+      "name": "Vernon Hall",
+      "targetId": "5976"
+    },
+    {
+      "name": "Reginald Brown",
+      "targetId": "5977"
+    }
+  ]
+}

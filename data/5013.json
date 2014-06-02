@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Darin Wood",
-    "target": "Brian Wheat",
-    "targetId": "5009"
-  },
-  {
-    "source": "Darin Wood",
-    "target": "Tommy McClendon",
-    "targetId": "5014"
-  },
-  {
-    "source": "Darin Wood",
-    "target": "Mike Vanderhule",
-    "targetId": "5015"
-  }
-]
+{
+  "source": "Darin Wood",
+  "targets": [
+    {
+      "name": "Brian Wheat",
+      "targetId": "5009"
+    },
+    {
+      "name": "Tommy McClendon",
+      "targetId": "5014"
+    },
+    {
+      "name": "Mike Vanderhule",
+      "targetId": "5015"
+    }
+  ]
+}

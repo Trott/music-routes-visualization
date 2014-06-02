@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Buck Owens",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Buck Owens",
-    "target": "Emmylou Harris",
-    "targetId": "450"
-  },
-  {
-    "source": "Buck Owens",
-    "target": "Dwight Yoakam",
-    "targetId": "1573"
-  },
-  {
-    "source": "Buck Owens",
-    "target": "Mel Taylor",
-    "targetId": "6532"
-  },
-  {
-    "source": "Buck Owens",
-    "target": "Don Rich",
-    "targetId": "6533"
-  },
-  {
-    "source": "Buck Owens",
-    "target": "Jelly Sanders",
-    "targetId": "6534"
-  },
-  {
-    "source": "Buck Owens",
-    "target": "Tom Brumley",
-    "targetId": "6535"
-  }
-]
+{
+  "source": "Buck Owens",
+  "targets": [
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Emmylou Harris",
+      "targetId": "450"
+    },
+    {
+      "name": "Dwight Yoakam",
+      "targetId": "1573"
+    },
+    {
+      "name": "Mel Taylor",
+      "targetId": "6532"
+    },
+    {
+      "name": "Don Rich",
+      "targetId": "6533"
+    },
+    {
+      "name": "Jelly Sanders",
+      "targetId": "6534"
+    },
+    {
+      "name": "Tom Brumley",
+      "targetId": "6535"
+    }
+  ]
+}

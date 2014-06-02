@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Davey Payne",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Davey Payne",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Davey Payne",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Davey Payne",
-    "target": "Bruce Thomas",
-    "targetId": "7277"
-  }
-]
+{
+  "source": "Davey Payne",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Bruce Thomas",
+      "targetId": "7277"
+    }
+  ]
+}

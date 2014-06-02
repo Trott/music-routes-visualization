@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Niki Sullivan",
-    "target": "Buddy Holly",
-    "targetId": "6281"
-  },
-  {
-    "source": "Niki Sullivan",
-    "target": "Joe B. Mauldin",
-    "targetId": "6283"
-  },
-  {
-    "source": "Niki Sullivan",
-    "target": "Jerry Allison",
-    "targetId": "6284"
-  }
-]
+{
+  "source": "Niki Sullivan",
+  "targets": [
+    {
+      "name": "Buddy Holly",
+      "targetId": "6281"
+    },
+    {
+      "name": "Joe B. Mauldin",
+      "targetId": "6283"
+    },
+    {
+      "name": "Jerry Allison",
+      "targetId": "6284"
+    }
+  ]
+}

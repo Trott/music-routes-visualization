@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Roger Chaput",
-    "target": "Django Reinhardt",
-    "targetId": "1156"
-  },
-  {
-    "source": "Roger Chaput",
-    "target": "Stéphane Grappelli",
-    "targetId": "1160"
-  },
-  {
-    "source": "Roger Chaput",
-    "target": "Louis Vola",
-    "targetId": "1161"
-  },
-  {
-    "source": "Roger Chaput",
-    "target": "Eugéne Vées",
-    "targetId": "1162"
-  }
-]
+{
+  "source": "Roger Chaput",
+  "targets": [
+    {
+      "name": "Django Reinhardt",
+      "targetId": "1156"
+    },
+    {
+      "name": "Stéphane Grappelli",
+      "targetId": "1160"
+    },
+    {
+      "name": "Louis Vola",
+      "targetId": "1161"
+    },
+    {
+      "name": "Eugéne Vées",
+      "targetId": "1162"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "James Grant",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "James Grant",
-    "target": "Paul Griffin",
-    "targetId": "723"
-  },
-  {
-    "source": "James Grant",
-    "target": "Dennis Collins",
-    "targetId": "1030"
-  },
-  {
-    "source": "James Grant",
-    "target": "Lani Groves",
-    "targetId": "4687"
-  },
-  {
-    "source": "James Grant",
-    "target": "Frank Floyd",
-    "targetId": "7774"
-  },
-  {
-    "source": "James Grant",
-    "target": "Bobby Paterson",
-    "targetId": "7776"
-  },
-  {
-    "source": "James Grant",
-    "target": "Paul McGeechan",
-    "targetId": "7777"
-  },
-  {
-    "source": "James Grant",
-    "target": "Ronnie Goodman",
-    "targetId": "7778"
-  }
-]
+{
+  "source": "James Grant",
+  "targets": [
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Paul Griffin",
+      "targetId": "723"
+    },
+    {
+      "name": "Dennis Collins",
+      "targetId": "1030"
+    },
+    {
+      "name": "Lani Groves",
+      "targetId": "4687"
+    },
+    {
+      "name": "Frank Floyd",
+      "targetId": "7774"
+    },
+    {
+      "name": "Bobby Paterson",
+      "targetId": "7776"
+    },
+    {
+      "name": "Paul McGeechan",
+      "targetId": "7777"
+    },
+    {
+      "name": "Ronnie Goodman",
+      "targetId": "7778"
+    }
+  ]
+}

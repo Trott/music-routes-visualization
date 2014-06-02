@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Thor Eldon",
-    "target": "Björk",
-    "targetId": "3559"
-  },
-  {
-    "source": "Thor Eldon",
-    "target": "Siggi Baldursson",
-    "targetId": "4548"
-  },
-  {
-    "source": "Thor Eldon",
-    "target": "Einar Örn",
-    "targetId": "7604"
-  },
-  {
-    "source": "Thor Eldon",
-    "target": "Bragi Ólafsson",
-    "targetId": "7613"
-  }
-]
+{
+  "source": "Thor Eldon",
+  "targets": [
+    {
+      "name": "Björk",
+      "targetId": "3559"
+    },
+    {
+      "name": "Siggi Baldursson",
+      "targetId": "4548"
+    },
+    {
+      "name": "Einar Örn",
+      "targetId": "7604"
+    },
+    {
+      "name": "Bragi Ólafsson",
+      "targetId": "7613"
+    }
+  ]
+}

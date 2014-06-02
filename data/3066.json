@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Cowsill",
-    "target": "Jim Keller",
-    "targetId": "3059"
-  },
-  {
-    "source": "John Cowsill",
-    "target": "Jon Lyons",
-    "targetId": "3060"
-  },
-  {
-    "source": "John Cowsill",
-    "target": "Tommy Heath",
-    "targetId": "3062"
-  },
-  {
-    "source": "John Cowsill",
-    "target": "Victor Carberry",
-    "targetId": "3064"
-  },
-  {
-    "source": "John Cowsill",
-    "target": "Steve Le Gassick",
-    "targetId": "3065"
-  }
-]
+{
+  "source": "John Cowsill",
+  "targets": [
+    {
+      "name": "Jim Keller",
+      "targetId": "3059"
+    },
+    {
+      "name": "Jon Lyons",
+      "targetId": "3060"
+    },
+    {
+      "name": "Tommy Heath",
+      "targetId": "3062"
+    },
+    {
+      "name": "Victor Carberry",
+      "targetId": "3064"
+    },
+    {
+      "name": "Steve Le Gassick",
+      "targetId": "3065"
+    }
+  ]
+}

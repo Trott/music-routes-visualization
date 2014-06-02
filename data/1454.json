@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jeff Hanneman",
-    "target": "Tom Araya",
-    "targetId": "1453"
-  },
-  {
-    "source": "Jeff Hanneman",
-    "target": "Kerry King",
-    "targetId": "1455"
-  },
-  {
-    "source": "Jeff Hanneman",
-    "target": "Dave Lombardo",
-    "targetId": "1456"
-  },
-  {
-    "source": "Jeff Hanneman",
-    "target": "Gene Hoglan",
-    "targetId": "1457"
-  },
-  {
-    "source": "Jeff Hanneman",
-    "target": "Ice-T",
-    "targetId": "2798"
-  },
-  {
-    "source": "Jeff Hanneman",
-    "target": "Paul Bostaph",
-    "targetId": "6999"
-  }
-]
+{
+  "source": "Jeff Hanneman",
+  "targets": [
+    {
+      "name": "Tom Araya",
+      "targetId": "1453"
+    },
+    {
+      "name": "Kerry King",
+      "targetId": "1455"
+    },
+    {
+      "name": "Dave Lombardo",
+      "targetId": "1456"
+    },
+    {
+      "name": "Gene Hoglan",
+      "targetId": "1457"
+    },
+    {
+      "name": "Ice-T",
+      "targetId": "2798"
+    },
+    {
+      "name": "Paul Bostaph",
+      "targetId": "6999"
+    }
+  ]
+}

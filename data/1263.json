@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Joe Beck",
-    "target": "Joe Farrell",
-    "targetId": "1259"
-  },
-  {
-    "source": "Joe Beck",
-    "target": "Herb Bushler",
-    "targetId": "1260"
-  },
-  {
-    "source": "Joe Beck",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Joe Beck",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Joe Beck",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  }
-]
+{
+  "source": "Joe Beck",
+  "targets": [
+    {
+      "name": "Joe Farrell",
+      "targetId": "1259"
+    },
+    {
+      "name": "Herb Bushler",
+      "targetId": "1260"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Becci Glover",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Becci Glover",
-    "target": "Cozy Powell",
-    "targetId": "312"
-  },
-  {
-    "source": "Becci Glover",
-    "target": "Neil Murray",
-    "targetId": "3381"
-  },
-  {
-    "source": "Becci Glover",
-    "target": "Shelley Preston",
-    "targetId": "8955"
-  },
-  {
-    "source": "Becci Glover",
-    "target": "Nikki Love",
-    "targetId": "8958"
-  },
-  {
-    "source": "Becci Glover",
-    "target": "Ian Hunter",
-    "targetId": "8959"
-  }
-]
+{
+  "source": "Becci Glover",
+  "targets": [
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Cozy Powell",
+      "targetId": "312"
+    },
+    {
+      "name": "Neil Murray",
+      "targetId": "3381"
+    },
+    {
+      "name": "Shelley Preston",
+      "targetId": "8955"
+    },
+    {
+      "name": "Nikki Love",
+      "targetId": "8958"
+    },
+    {
+      "name": "Ian Hunter",
+      "targetId": "8959"
+    }
+  ]
+}

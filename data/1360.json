@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Kirk Hammett",
-    "target": "Lars Ulrich",
-    "targetId": "1358"
-  },
-  {
-    "source": "Kirk Hammett",
-    "target": "James Hetfield",
-    "targetId": "1359"
-  },
-  {
-    "source": "Kirk Hammett",
-    "target": "Cliff Burton",
-    "targetId": "1361"
-  },
-  {
-    "source": "Kirk Hammett",
-    "target": "Lou Reed",
-    "targetId": "2743"
-  },
-  {
-    "source": "Kirk Hammett",
-    "target": "Jason Newsted",
-    "targetId": "6264"
-  },
-  {
-    "source": "Kirk Hammett",
-    "target": "Robert Trujillo",
-    "targetId": "10726"
-  }
-]
+{
+  "source": "Kirk Hammett",
+  "targets": [
+    {
+      "name": "Lars Ulrich",
+      "targetId": "1358"
+    },
+    {
+      "name": "James Hetfield",
+      "targetId": "1359"
+    },
+    {
+      "name": "Cliff Burton",
+      "targetId": "1361"
+    },
+    {
+      "name": "Lou Reed",
+      "targetId": "2743"
+    },
+    {
+      "name": "Jason Newsted",
+      "targetId": "6264"
+    },
+    {
+      "name": "Robert Trujillo",
+      "targetId": "10726"
+    }
+  ]
+}

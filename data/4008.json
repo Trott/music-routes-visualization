@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Steuart Smith",
-    "target": "Joni Mitchell",
-    "targetId": "47"
-  },
-  {
-    "source": "Steuart Smith",
-    "target": "Carlos Vega",
-    "targetId": "395"
-  },
-  {
-    "source": "Steuart Smith",
-    "target": "Larry Klein",
-    "targetId": "1017"
-  },
-  {
-    "source": "Steuart Smith",
-    "target": "Michael Landau",
-    "targetId": "2220"
-  },
-  {
-    "source": "Steuart Smith",
-    "target": "Seal",
-    "targetId": "4007"
-  }
-]
+{
+  "source": "Steuart Smith",
+  "targets": [
+    {
+      "name": "Joni Mitchell",
+      "targetId": "47"
+    },
+    {
+      "name": "Carlos Vega",
+      "targetId": "395"
+    },
+    {
+      "name": "Larry Klein",
+      "targetId": "1017"
+    },
+    {
+      "name": "Michael Landau",
+      "targetId": "2220"
+    },
+    {
+      "name": "Seal",
+      "targetId": "4007"
+    }
+  ]
+}

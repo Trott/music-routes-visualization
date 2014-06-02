@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Lisa Hannigan",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Lisa Hannigan",
-    "target": "Damien Rice",
-    "targetId": "9049"
-  },
-  {
-    "source": "Lisa Hannigan",
-    "target": "Tom \"Tomo\" Osander",
-    "targetId": "9052"
-  },
-  {
-    "source": "Lisa Hannigan",
-    "target": "Vyvienne Long",
-    "targetId": "9053"
-  },
-  {
-    "source": "Lisa Hannigan",
-    "target": "Shane Fitzsimons",
-    "targetId": "9055"
-  }
-]
+{
+  "source": "Lisa Hannigan",
+  "targets": [
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Damien Rice",
+      "targetId": "9049"
+    },
+    {
+      "name": "Tom \"Tomo\" Osander",
+      "targetId": "9052"
+    },
+    {
+      "name": "Vyvienne Long",
+      "targetId": "9053"
+    },
+    {
+      "name": "Shane Fitzsimons",
+      "targetId": "9055"
+    }
+  ]
+}

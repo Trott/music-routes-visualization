@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dave Wakeling",
-    "target": "David Steele",
-    "targetId": "3767"
-  },
-  {
-    "source": "Dave Wakeling",
-    "target": "Ranking Roger",
-    "targetId": "5666"
-  },
-  {
-    "source": "Dave Wakeling",
-    "target": "Saxa",
-    "targetId": "5667"
-  },
-  {
-    "source": "Dave Wakeling",
-    "target": "Andy Cox",
-    "targetId": "5668"
-  },
-  {
-    "source": "Dave Wakeling",
-    "target": "Everett Morton",
-    "targetId": "5669"
-  }
-]
+{
+  "source": "Dave Wakeling",
+  "targets": [
+    {
+      "name": "David Steele",
+      "targetId": "3767"
+    },
+    {
+      "name": "Ranking Roger",
+      "targetId": "5666"
+    },
+    {
+      "name": "Saxa",
+      "targetId": "5667"
+    },
+    {
+      "name": "Andy Cox",
+      "targetId": "5668"
+    },
+    {
+      "name": "Everett Morton",
+      "targetId": "5669"
+    }
+  ]
+}

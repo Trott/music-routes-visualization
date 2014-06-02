@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Gene Pello",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "Jackie Jackson",
-    "targetId": "55"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "Marlon Jackson",
-    "targetId": "56"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "Tito Jackson",
-    "targetId": "60"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "Jermaine Jackson",
-    "targetId": "7815"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "Freddie Perren",
-    "targetId": "7816"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "David T. Walker",
-    "targetId": "7817"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "Louis Shelton",
-    "targetId": "7818"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "Don Peake",
-    "targetId": "7819"
-  },
-  {
-    "source": "Gene Pello",
-    "target": "Wilton Felder",
-    "targetId": "7820"
-  }
-]
+{
+  "source": "Gene Pello",
+  "targets": [
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Jackie Jackson",
+      "targetId": "55"
+    },
+    {
+      "name": "Marlon Jackson",
+      "targetId": "56"
+    },
+    {
+      "name": "Tito Jackson",
+      "targetId": "60"
+    },
+    {
+      "name": "Jermaine Jackson",
+      "targetId": "7815"
+    },
+    {
+      "name": "Freddie Perren",
+      "targetId": "7816"
+    },
+    {
+      "name": "David T. Walker",
+      "targetId": "7817"
+    },
+    {
+      "name": "Louis Shelton",
+      "targetId": "7818"
+    },
+    {
+      "name": "Don Peake",
+      "targetId": "7819"
+    },
+    {
+      "name": "Wilton Felder",
+      "targetId": "7820"
+    }
+  ]
+}

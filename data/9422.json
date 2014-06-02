@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Barry Tracksuit",
-    "target": "I Jog",
-    "targetId": "9421"
-  },
-  {
-    "source": "Barry Tracksuit",
-    "target": "Dave Tracksuit",
-    "targetId": "9423"
-  },
-  {
-    "source": "Barry Tracksuit",
-    "target": "Bob",
-    "targetId": "9424"
-  }
-]
+{
+  "source": "Barry Tracksuit",
+  "targets": [
+    {
+      "name": "I Jog",
+      "targetId": "9421"
+    },
+    {
+      "name": "Dave Tracksuit",
+      "targetId": "9423"
+    },
+    {
+      "name": "Bob",
+      "targetId": "9424"
+    }
+  ]
+}

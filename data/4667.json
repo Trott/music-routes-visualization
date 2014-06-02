@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Michael Bacon",
-    "target": "Jon Bon Jovi",
-    "targetId": "3422"
-  },
-  {
-    "source": "Michael Bacon",
-    "target": "Kevin Bacon",
-    "targetId": "4668"
-  }
-]
+{
+  "source": "Michael Bacon",
+  "targets": [
+    {
+      "name": "Jon Bon Jovi",
+      "targetId": "3422"
+    },
+    {
+      "name": "Kevin Bacon",
+      "targetId": "4668"
+    }
+  ]
+}

@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Bob Burns",
-    "target": "Bobbye Hall",
-    "targetId": "507"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Merry Clayton",
-    "targetId": "1403"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Leon Wilkeson",
-    "targetId": "2707"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Allen Collins",
-    "targetId": "2708"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Ed King",
-    "targetId": "2710"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Gary Rossington",
-    "targetId": "2711"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Billy Powell",
-    "targetId": "2712"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Ronnie Van Zant",
-    "targetId": "2713"
-  },
-  {
-    "source": "Bob Burns",
-    "target": "Clydie King",
-    "targetId": "4580"
-  }
-]
+{
+  "source": "Bob Burns",
+  "targets": [
+    {
+      "name": "Bobbye Hall",
+      "targetId": "507"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "Merry Clayton",
+      "targetId": "1403"
+    },
+    {
+      "name": "Leon Wilkeson",
+      "targetId": "2707"
+    },
+    {
+      "name": "Allen Collins",
+      "targetId": "2708"
+    },
+    {
+      "name": "Ed King",
+      "targetId": "2710"
+    },
+    {
+      "name": "Gary Rossington",
+      "targetId": "2711"
+    },
+    {
+      "name": "Billy Powell",
+      "targetId": "2712"
+    },
+    {
+      "name": "Ronnie Van Zant",
+      "targetId": "2713"
+    },
+    {
+      "name": "Clydie King",
+      "targetId": "4580"
+    }
+  ]
+}

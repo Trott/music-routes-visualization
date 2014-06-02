@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Paddy McAloon",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Paddy McAloon",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "Paddy McAloon",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Paddy McAloon",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  },
-  {
-    "source": "Paddy McAloon",
-    "target": "Luis Jardim",
-    "targetId": "3684"
-  },
-  {
-    "source": "Paddy McAloon",
-    "target": "Martin McAloon",
-    "targetId": "7762"
-  },
-  {
-    "source": "Paddy McAloon",
-    "target": "Wendy Smith",
-    "targetId": "7763"
-  },
-  {
-    "source": "Paddy McAloon",
-    "target": "Neil Conti",
-    "targetId": "7764"
-  },
-  {
-    "source": "Paddy McAloon",
-    "target": "Gary Moberley",
-    "targetId": "7765"
-  }
-]
+{
+  "source": "Paddy McAloon",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    },
+    {
+      "name": "Luis Jardim",
+      "targetId": "3684"
+    },
+    {
+      "name": "Martin McAloon",
+      "targetId": "7762"
+    },
+    {
+      "name": "Wendy Smith",
+      "targetId": "7763"
+    },
+    {
+      "name": "Neil Conti",
+      "targetId": "7764"
+    },
+    {
+      "name": "Gary Moberley",
+      "targetId": "7765"
+    }
+  ]
+}

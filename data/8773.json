@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Marc 9",
-    "target": "Chris Grady",
-    "targetId": "996"
-  },
-  {
-    "source": "Marc 9",
-    "target": "Beth Custer",
-    "targetId": "8761"
-  },
-  {
-    "source": "Marc 9",
-    "target": "Christian Jones",
-    "targetId": "8771"
-  },
-  {
-    "source": "Marc 9",
-    "target": "Peter Whitehead",
-    "targetId": "8772"
-  },
-  {
-    "source": "Marc 9",
-    "target": "Chico MacMurtrie",
-    "targetId": "8774"
-  },
-  {
-    "source": "Marc 9",
-    "target": "Bart Hopkin",
-    "targetId": "8775"
-  }
-]
+{
+  "source": "Marc 9",
+  "targets": [
+    {
+      "name": "Chris Grady",
+      "targetId": "996"
+    },
+    {
+      "name": "Beth Custer",
+      "targetId": "8761"
+    },
+    {
+      "name": "Christian Jones",
+      "targetId": "8771"
+    },
+    {
+      "name": "Peter Whitehead",
+      "targetId": "8772"
+    },
+    {
+      "name": "Chico MacMurtrie",
+      "targetId": "8774"
+    },
+    {
+      "name": "Bart Hopkin",
+      "targetId": "8775"
+    }
+  ]
+}

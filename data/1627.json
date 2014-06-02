@@ -1,32 +1,29 @@
-[
-  {
-    "source": "John McGeoch",
-    "target": "Siouxsie Sioux",
-    "targetId": "361"
-  },
-  {
-    "source": "John McGeoch",
-    "target": "Steven Severin",
-    "targetId": "362"
-  },
-  {
-    "source": "John McGeoch",
-    "target": "Budgie",
-    "targetId": "364"
-  },
-  {
-    "source": "John McGeoch",
-    "target": "Howard Devoto",
-    "targetId": "1626"
-  },
-  {
-    "source": "John McGeoch",
-    "target": "Martin Jackson",
-    "targetId": "1628"
-  },
-  {
-    "source": "John McGeoch",
-    "target": "Barry Adamson",
-    "targetId": "1629"
-  }
-]
+{
+  "source": "John McGeoch",
+  "targets": [
+    {
+      "name": "Siouxsie Sioux",
+      "targetId": "361"
+    },
+    {
+      "name": "Steven Severin",
+      "targetId": "362"
+    },
+    {
+      "name": "Budgie",
+      "targetId": "364"
+    },
+    {
+      "name": "Howard Devoto",
+      "targetId": "1626"
+    },
+    {
+      "name": "Martin Jackson",
+      "targetId": "1628"
+    },
+    {
+      "name": "Barry Adamson",
+      "targetId": "1629"
+    }
+  ]
+}

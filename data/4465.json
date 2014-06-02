@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Marc Collignon",
-    "target": "Tommy Grenas",
-    "targetId": "4455"
-  },
-  {
-    "source": "Marc Collignon",
-    "target": "Len Del Rio",
-    "targetId": "4456"
-  }
-]
+{
+  "source": "Marc Collignon",
+  "targets": [
+    {
+      "name": "Tommy Grenas",
+      "targetId": "4455"
+    },
+    {
+      "name": "Len Del Rio",
+      "targetId": "4456"
+    }
+  ]
+}

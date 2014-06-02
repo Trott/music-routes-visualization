@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Holderby",
-    "target": "Jeff Hashfield",
-    "targetId": "3614"
-  },
-  {
-    "source": "Scott Holderby",
-    "target": "Greg Ingraham",
-    "targetId": "10266"
-  },
-  {
-    "source": "Scott Holderby",
-    "target": "Guy Alvarez",
-    "targetId": "10271"
-  },
-  {
-    "source": "Scott Holderby",
-    "target": "Henry Austin Lannon",
-    "targetId": "10272"
-  }
-]
+{
+  "source": "Scott Holderby",
+  "targets": [
+    {
+      "name": "Jeff Hashfield",
+      "targetId": "3614"
+    },
+    {
+      "name": "Greg Ingraham",
+      "targetId": "10266"
+    },
+    {
+      "name": "Guy Alvarez",
+      "targetId": "10271"
+    },
+    {
+      "name": "Henry Austin Lannon",
+      "targetId": "10272"
+    }
+  ]
+}

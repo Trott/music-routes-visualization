@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Stephanie Goldade",
-    "target": "Jake Snider",
-    "targetId": "5760"
-  },
-  {
-    "source": "Stephanie Goldade",
-    "target": "Nathan Turpen",
-    "targetId": "5762"
-  },
-  {
-    "source": "Stephanie Goldade",
-    "target": "Jeff Degolier",
-    "targetId": "5763"
-  },
-  {
-    "source": "Stephanie Goldade",
-    "target": "Dan Dean",
-    "targetId": "5764"
-  }
-]
+{
+  "source": "Stephanie Goldade",
+  "targets": [
+    {
+      "name": "Jake Snider",
+      "targetId": "5760"
+    },
+    {
+      "name": "Nathan Turpen",
+      "targetId": "5762"
+    },
+    {
+      "name": "Jeff Degolier",
+      "targetId": "5763"
+    },
+    {
+      "name": "Dan Dean",
+      "targetId": "5764"
+    }
+  ]
+}

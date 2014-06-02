@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John Cambridge",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "John Cambridge",
-    "target": "Tony Visconti",
-    "targetId": "1247"
-  },
-  {
-    "source": "John Cambridge",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  }
-]
+{
+  "source": "John Cambridge",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Tony Visconti",
+      "targetId": "1247"
+    },
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    }
+  ]
+}

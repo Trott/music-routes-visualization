@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jeff Dahl",
-    "target": "Bruce Duff",
-    "targetId": "4913"
-  },
-  {
-    "source": "Jeff Dahl",
-    "target": "Del Hopkins",
-    "targetId": "4956"
-  },
-  {
-    "source": "Jeff Dahl",
-    "target": "Amy Wichman",
-    "targetId": "4957"
-  },
-  {
-    "source": "Jeff Dahl",
-    "target": "Rikk Agnew",
-    "targetId": "4959"
-  }
-]
+{
+  "source": "Jeff Dahl",
+  "targets": [
+    {
+      "name": "Bruce Duff",
+      "targetId": "4913"
+    },
+    {
+      "name": "Del Hopkins",
+      "targetId": "4956"
+    },
+    {
+      "name": "Amy Wichman",
+      "targetId": "4957"
+    },
+    {
+      "name": "Rikk Agnew",
+      "targetId": "4959"
+    }
+  ]
+}

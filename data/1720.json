@@ -1,182 +1,149 @@
-[
-  {
-    "source": "Alanis Morissette",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Dave Matthews",
-    "targetId": "186"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Joe Walsh",
-    "targetId": "392"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Flea",
-    "targetId": "553"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Jim Cox",
-    "targetId": "804"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Tricky",
-    "targetId": "1714"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Mark Gemini Thwaite",
-    "targetId": "1715"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Tim Pierce",
-    "targetId": "1718"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Rob Cavallo",
-    "targetId": "1719"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Stephanie McKay",
-    "targetId": "1721"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Dave Navarro",
-    "targetId": "2572"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Stefan Lessard",
-    "targetId": "4369"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Carter Beauford",
-    "targetId": "4370"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Tim Reynolds",
-    "targetId": "4371"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Leroi Moore",
-    "targetId": "4372"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Boyd Tinsley",
-    "targetId": "4373"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Béla Fleck",
-    "targetId": "4375"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Matt Laug",
-    "targetId": "4381"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Scott Weiland",
-    "targetId": "4382"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Meshell Ndegeocello",
-    "targetId": "6729"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Mark Hudson",
-    "targetId": "7498"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Steve Dudas",
-    "targetId": "7499"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Scott Gordon",
-    "targetId": "7509"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Eric Stitt Greedy",
-    "targetId": "7514"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Christina Rasch",
-    "targetId": "7525"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "John Bergamo",
-    "targetId": "7534"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Howard McCrary",
-    "targetId": "7536"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Ollie Woodson",
-    "targetId": "7537"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Lisa Banks",
-    "targetId": "7538"
-  },
-  {
-    "source": "Alanis Morissette",
-    "target": "Rose Stone",
-    "targetId": "7539"
-  }
-]
+{
+  "source": "Alanis Morissette",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Dave Matthews",
+      "targetId": "186"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Joe Walsh",
+      "targetId": "392"
+    },
+    {
+      "name": "Flea",
+      "targetId": "553"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Jim Cox",
+      "targetId": "804"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Tricky",
+      "targetId": "1714"
+    },
+    {
+      "name": "Mark Gemini Thwaite",
+      "targetId": "1715"
+    },
+    {
+      "name": "Tim Pierce",
+      "targetId": "1718"
+    },
+    {
+      "name": "Rob Cavallo",
+      "targetId": "1719"
+    },
+    {
+      "name": "Stephanie McKay",
+      "targetId": "1721"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "Dave Navarro",
+      "targetId": "2572"
+    },
+    {
+      "name": "Stefan Lessard",
+      "targetId": "4369"
+    },
+    {
+      "name": "Carter Beauford",
+      "targetId": "4370"
+    },
+    {
+      "name": "Tim Reynolds",
+      "targetId": "4371"
+    },
+    {
+      "name": "Leroi Moore",
+      "targetId": "4372"
+    },
+    {
+      "name": "Boyd Tinsley",
+      "targetId": "4373"
+    },
+    {
+      "name": "Béla Fleck",
+      "targetId": "4375"
+    },
+    {
+      "name": "Matt Laug",
+      "targetId": "4381"
+    },
+    {
+      "name": "Scott Weiland",
+      "targetId": "4382"
+    },
+    {
+      "name": "Meshell Ndegeocello",
+      "targetId": "6729"
+    },
+    {
+      "name": "Mark Hudson",
+      "targetId": "7498"
+    },
+    {
+      "name": "Steve Dudas",
+      "targetId": "7499"
+    },
+    {
+      "name": "Scott Gordon",
+      "targetId": "7509"
+    },
+    {
+      "name": "Eric Stitt Greedy",
+      "targetId": "7514"
+    },
+    {
+      "name": "Christina Rasch",
+      "targetId": "7525"
+    },
+    {
+      "name": "John Bergamo",
+      "targetId": "7534"
+    },
+    {
+      "name": "Howard McCrary",
+      "targetId": "7536"
+    },
+    {
+      "name": "Ollie Woodson",
+      "targetId": "7537"
+    },
+    {
+      "name": "Lisa Banks",
+      "targetId": "7538"
+    },
+    {
+      "name": "Rose Stone",
+      "targetId": "7539"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Michael Sturgis",
-    "target": "Geoff Downes",
-    "targetId": "3639"
-  },
-  {
-    "source": "Michael Sturgis",
-    "target": "John Payne",
-    "targetId": "3641"
-  },
-  {
-    "source": "Michael Sturgis",
-    "target": "Al Pitrelli",
-    "targetId": "3643"
-  },
-  {
-    "source": "Michael Sturgis",
-    "target": "Elliott Randall",
-    "targetId": "10175"
-  },
-  {
-    "source": "Michael Sturgis",
-    "target": "Aziz Ibrahim",
-    "targetId": "10964"
-  }
-]
+{
+  "source": "Michael Sturgis",
+  "targets": [
+    {
+      "name": "Geoff Downes",
+      "targetId": "3639"
+    },
+    {
+      "name": "John Payne",
+      "targetId": "3641"
+    },
+    {
+      "name": "Al Pitrelli",
+      "targetId": "3643"
+    },
+    {
+      "name": "Elliott Randall",
+      "targetId": "10175"
+    },
+    {
+      "name": "Aziz Ibrahim",
+      "targetId": "10964"
+    }
+  ]
+}

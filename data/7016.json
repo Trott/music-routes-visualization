@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Charlie Francis",
-    "target": "Adam Franklin",
-    "targetId": "7014"
-  },
-  {
-    "source": "Charlie Francis",
-    "target": "Jeff Townsin",
-    "targetId": "7015"
-  },
-  {
-    "source": "Charlie Francis",
-    "target": "Heinz Riegler",
-    "targetId": "7017"
-  }
-]
+{
+  "source": "Charlie Francis",
+  "targets": [
+    {
+      "name": "Adam Franklin",
+      "targetId": "7014"
+    },
+    {
+      "name": "Jeff Townsin",
+      "targetId": "7015"
+    },
+    {
+      "name": "Heinz Riegler",
+      "targetId": "7017"
+    }
+  ]
+}

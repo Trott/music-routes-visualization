@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Michael Smotherman",
-    "target": "Steve Earle",
-    "targetId": "5483"
-  },
-  {
-    "source": "Michael Smotherman",
-    "target": "Lucinda Williams",
-    "targetId": "8696"
-  },
-  {
-    "source": "Michael Smotherman",
-    "target": "John Ciambotti",
-    "targetId": "8698"
-  },
-  {
-    "source": "Michael Smotherman",
-    "target": "Donald Lindley",
-    "targetId": "8699"
-  },
-  {
-    "source": "Michael Smotherman",
-    "target": "Gurf Morlix",
-    "targetId": "8700"
-  }
-]
+{
+  "source": "Michael Smotherman",
+  "targets": [
+    {
+      "name": "Steve Earle",
+      "targetId": "5483"
+    },
+    {
+      "name": "Lucinda Williams",
+      "targetId": "8696"
+    },
+    {
+      "name": "John Ciambotti",
+      "targetId": "8698"
+    },
+    {
+      "name": "Donald Lindley",
+      "targetId": "8699"
+    },
+    {
+      "name": "Gurf Morlix",
+      "targetId": "8700"
+    }
+  ]
+}

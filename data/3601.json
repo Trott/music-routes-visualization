@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Hiatt",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "John Hiatt",
-    "target": "Ry Cooder",
-    "targetId": "372"
-  },
-  {
-    "source": "John Hiatt",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "John Hiatt",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "John Hiatt",
-    "target": "Nick Lowe",
-    "targetId": "3600"
-  },
-  {
-    "source": "John Hiatt",
-    "target": "Kenny Aronoff",
-    "targetId": "4158"
-  },
-  {
-    "source": "John Hiatt",
-    "target": "Charley Drayton",
-    "targetId": "5834"
-  }
-]
+{
+  "source": "John Hiatt",
+  "targets": [
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Ry Cooder",
+      "targetId": "372"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Nick Lowe",
+      "targetId": "3600"
+    },
+    {
+      "name": "Kenny Aronoff",
+      "targetId": "4158"
+    },
+    {
+      "name": "Charley Drayton",
+      "targetId": "5834"
+    }
+  ]
+}

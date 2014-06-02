@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Greg Douglass",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Greg Douglass",
-    "target": "Gary Mallaber",
-    "targetId": "330"
-  },
-  {
-    "source": "Greg Douglass",
-    "target": "Lonnie Turner",
-    "targetId": "3061"
-  }
-]
+{
+  "source": "Greg Douglass",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Gary Mallaber",
+      "targetId": "330"
+    },
+    {
+      "name": "Lonnie Turner",
+      "targetId": "3061"
+    }
+  ]
+}

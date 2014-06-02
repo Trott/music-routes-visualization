@@ -1,177 +1,145 @@
-[
-  {
-    "source": "David Mansfield",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Jerry Scheff",
-    "targetId": "287"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "T-Bone Burnett",
-    "targetId": "300"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Rick Marotta",
-    "targetId": "393"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Bobbye Hall",
-    "targetId": "507"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Ian Wallace",
-    "targetId": "531"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "John Molo",
-    "targetId": "780"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Mick Ronson",
-    "targetId": "791"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Bruce Hornsby",
-    "targetId": "1016"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Stu Woods",
-    "targetId": "1271"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "David Spinozza",
-    "targetId": "1273"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Allen Ginsberg",
-    "targetId": "2126"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Alan Pasqua",
-    "targetId": "2263"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "George Marinelli",
-    "targetId": "2287"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Marc Ribot",
-    "targetId": "3588"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Jo Ann Harris",
-    "targetId": "3616"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Helena Springs",
-    "targetId": "3617"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Billy Cross",
-    "targetId": "3618"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Philip Glass",
-    "targetId": "4929"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Lenny Kaye",
-    "targetId": "4930"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Maury Muehleisen",
-    "targetId": "5871"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Tommy West",
-    "targetId": "5872"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Jim Croce",
-    "targetId": "5873"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "George Devens",
-    "targetId": "5874"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Joe Puerta",
-    "targetId": "8213"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Steven Soles",
-    "targetId": "9956"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Howard Wyeth",
-    "targetId": "10056"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Scarlet Rivera",
-    "targetId": "10057"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Bobby Neuwirth",
-    "targetId": "10060"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Rob Stoner",
-    "targetId": "10061"
-  },
-  {
-    "source": "David Mansfield",
-    "target": "Luther Rix",
-    "targetId": "10062"
-  }
-]
+{
+  "source": "David Mansfield",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "Jerry Scheff",
+      "targetId": "287"
+    },
+    {
+      "name": "T-Bone Burnett",
+      "targetId": "300"
+    },
+    {
+      "name": "Rick Marotta",
+      "targetId": "393"
+    },
+    {
+      "name": "Bobbye Hall",
+      "targetId": "507"
+    },
+    {
+      "name": "Ian Wallace",
+      "targetId": "531"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "John Molo",
+      "targetId": "780"
+    },
+    {
+      "name": "Mick Ronson",
+      "targetId": "791"
+    },
+    {
+      "name": "Bruce Hornsby",
+      "targetId": "1016"
+    },
+    {
+      "name": "Stu Woods",
+      "targetId": "1271"
+    },
+    {
+      "name": "David Spinozza",
+      "targetId": "1273"
+    },
+    {
+      "name": "Allen Ginsberg",
+      "targetId": "2126"
+    },
+    {
+      "name": "Alan Pasqua",
+      "targetId": "2263"
+    },
+    {
+      "name": "George Marinelli",
+      "targetId": "2287"
+    },
+    {
+      "name": "Marc Ribot",
+      "targetId": "3588"
+    },
+    {
+      "name": "Jo Ann Harris",
+      "targetId": "3616"
+    },
+    {
+      "name": "Helena Springs",
+      "targetId": "3617"
+    },
+    {
+      "name": "Billy Cross",
+      "targetId": "3618"
+    },
+    {
+      "name": "Philip Glass",
+      "targetId": "4929"
+    },
+    {
+      "name": "Lenny Kaye",
+      "targetId": "4930"
+    },
+    {
+      "name": "Maury Muehleisen",
+      "targetId": "5871"
+    },
+    {
+      "name": "Tommy West",
+      "targetId": "5872"
+    },
+    {
+      "name": "Jim Croce",
+      "targetId": "5873"
+    },
+    {
+      "name": "George Devens",
+      "targetId": "5874"
+    },
+    {
+      "name": "Joe Puerta",
+      "targetId": "8213"
+    },
+    {
+      "name": "Steven Soles",
+      "targetId": "9956"
+    },
+    {
+      "name": "Howard Wyeth",
+      "targetId": "10056"
+    },
+    {
+      "name": "Scarlet Rivera",
+      "targetId": "10057"
+    },
+    {
+      "name": "Bobby Neuwirth",
+      "targetId": "10060"
+    },
+    {
+      "name": "Rob Stoner",
+      "targetId": "10061"
+    },
+    {
+      "name": "Luther Rix",
+      "targetId": "10062"
+    }
+  ]
+}

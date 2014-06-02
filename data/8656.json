@@ -1,27 +1,25 @@
-[
-  {
-    "source": "TiLo",
-    "target": "George Clinton",
-    "targetId": "206"
-  },
-  {
-    "source": "TiLo",
-    "target": "Tommy Lee",
-    "targetId": "1357"
-  },
-  {
-    "source": "TiLo",
-    "target": "Fred Durst",
-    "targetId": "4385"
-  },
-  {
-    "source": "TiLo",
-    "target": "Lil' Kim",
-    "targetId": "8654"
-  },
-  {
-    "source": "TiLo",
-    "target": "Mix Master Mike",
-    "targetId": "8655"
-  }
-]
+{
+  "source": "TiLo",
+  "targets": [
+    {
+      "name": "George Clinton",
+      "targetId": "206"
+    },
+    {
+      "name": "Tommy Lee",
+      "targetId": "1357"
+    },
+    {
+      "name": "Fred Durst",
+      "targetId": "4385"
+    },
+    {
+      "name": "Lil' Kim",
+      "targetId": "8654"
+    },
+    {
+      "name": "Mix Master Mike",
+      "targetId": "8655"
+    }
+  ]
+}

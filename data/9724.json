@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Roy Copestake",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Roy Copestake",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Roy Copestake",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Roy Copestake",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Roy Copestake",
-    "target": "Mal Evans",
-    "targetId": "630"
-  },
-  {
-    "source": "Roy Copestake",
-    "target": "Neil Aspinall",
-    "targetId": "3366"
-  },
-  {
-    "source": "Roy Copestake",
-    "target": "David Mason",
-    "targetId": "9699"
-  },
-  {
-    "source": "Roy Copestake",
-    "target": "Elgar Howarth",
-    "targetId": "9723"
-  },
-  {
-    "source": "Roy Copestake",
-    "target": "John Wilbraham",
-    "targetId": "9725"
-  }
-]
+{
+  "source": "Roy Copestake",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Mal Evans",
+      "targetId": "630"
+    },
+    {
+      "name": "Neil Aspinall",
+      "targetId": "3366"
+    },
+    {
+      "name": "David Mason",
+      "targetId": "9699"
+    },
+    {
+      "name": "Elgar Howarth",
+      "targetId": "9723"
+    },
+    {
+      "name": "John Wilbraham",
+      "targetId": "9725"
+    }
+  ]
+}

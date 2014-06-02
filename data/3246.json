@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Donna Summer",
-    "target": "Gary Herbig",
-    "targetId": "1396"
-  },
-  {
-    "source": "Donna Summer",
-    "target": "Marty Walsh",
-    "targetId": "2660"
-  },
-  {
-    "source": "Donna Summer",
-    "target": "Michael Omartian",
-    "targetId": "3247"
-  },
-  {
-    "source": "Donna Summer",
-    "target": "Dennis Seaton",
-    "targetId": "8928"
-  }
-]
+{
+  "source": "Donna Summer",
+  "targets": [
+    {
+      "name": "Gary Herbig",
+      "targetId": "1396"
+    },
+    {
+      "name": "Marty Walsh",
+      "targetId": "2660"
+    },
+    {
+      "name": "Michael Omartian",
+      "targetId": "3247"
+    },
+    {
+      "name": "Dennis Seaton",
+      "targetId": "8928"
+    }
+  ]
+}

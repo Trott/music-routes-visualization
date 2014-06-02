@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Meredith Monk",
-    "target": "Dave Lombardo",
-    "targetId": "1456"
-  },
-  {
-    "source": "Meredith Monk",
-    "target": "DJ Spooky",
-    "targetId": "10288"
-  },
-  {
-    "source": "Meredith Monk",
-    "target": "MC Dälek",
-    "targetId": "10291"
-  }
-]
+{
+  "source": "Meredith Monk",
+  "targets": [
+    {
+      "name": "Dave Lombardo",
+      "targetId": "1456"
+    },
+    {
+      "name": "DJ Spooky",
+      "targetId": "10288"
+    },
+    {
+      "name": "MC Dälek",
+      "targetId": "10291"
+    }
+  ]
+}

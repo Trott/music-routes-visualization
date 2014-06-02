@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mark Gardener",
-    "target": "Jon Lord",
-    "targetId": "2011"
-  },
-  {
-    "source": "Mark Gardener",
-    "target": "Andy Bell",
-    "targetId": "2776"
-  },
-  {
-    "source": "Mark Gardener",
-    "target": "Laurence Colbert",
-    "targetId": "2779"
-  },
-  {
-    "source": "Mark Gardener",
-    "target": "Steve Queralt",
-    "targetId": "2781"
-  }
-]
+{
+  "source": "Mark Gardener",
+  "targets": [
+    {
+      "name": "Jon Lord",
+      "targetId": "2011"
+    },
+    {
+      "name": "Andy Bell",
+      "targetId": "2776"
+    },
+    {
+      "name": "Laurence Colbert",
+      "targetId": "2779"
+    },
+    {
+      "name": "Steve Queralt",
+      "targetId": "2781"
+    }
+  ]
+}

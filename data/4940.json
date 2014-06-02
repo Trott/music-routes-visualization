@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tara Barnes",
-    "target": "Carla Bozulich",
-    "targetId": "759"
-  },
-  {
-    "source": "Tara Barnes",
-    "target": "Shahzad Ismaily",
-    "targetId": "1245"
-  },
-  {
-    "source": "Tara Barnes",
-    "target": "Nadia Moss",
-    "targetId": "4941"
-  },
-  {
-    "source": "Tara Barnes",
-    "target": "Jessica Moss",
-    "targetId": "4942"
-  },
-  {
-    "source": "Tara Barnes",
-    "target": "Efrim Menuck",
-    "targetId": "4943"
-  }
-]
+{
+  "source": "Tara Barnes",
+  "targets": [
+    {
+      "name": "Carla Bozulich",
+      "targetId": "759"
+    },
+    {
+      "name": "Shahzad Ismaily",
+      "targetId": "1245"
+    },
+    {
+      "name": "Nadia Moss",
+      "targetId": "4941"
+    },
+    {
+      "name": "Jessica Moss",
+      "targetId": "4942"
+    },
+    {
+      "name": "Efrim Menuck",
+      "targetId": "4943"
+    }
+  ]
+}

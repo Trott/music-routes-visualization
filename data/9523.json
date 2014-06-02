@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Krystof Witek",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Krystof Witek",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Krystof Witek",
-    "target": "Garo Yellin",
-    "targetId": "3691"
-  }
-]
+{
+  "source": "Krystof Witek",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Garo Yellin",
+      "targetId": "3691"
+    }
+  ]
+}

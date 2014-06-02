@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Eric Stock",
-    "target": "Semyon Kobialka",
-    "targetId": "674"
-  },
-  {
-    "source": "Eric Stock",
-    "target": "John Shanks",
-    "targetId": "1063"
-  },
-  {
-    "source": "Eric Stock",
-    "target": "Butch Walker",
-    "targetId": "6295"
-  },
-  {
-    "source": "Eric Stock",
-    "target": "Greg Gueldner",
-    "targetId": "7128"
-  },
-  {
-    "source": "Eric Stock",
-    "target": "John McDermott",
-    "targetId": "7130"
-  },
-  {
-    "source": "Eric Stock",
-    "target": "Luke Esterkyn",
-    "targetId": "7131"
-  }
-]
+{
+  "source": "Eric Stock",
+  "targets": [
+    {
+      "name": "Semyon Kobialka",
+      "targetId": "674"
+    },
+    {
+      "name": "John Shanks",
+      "targetId": "1063"
+    },
+    {
+      "name": "Butch Walker",
+      "targetId": "6295"
+    },
+    {
+      "name": "Greg Gueldner",
+      "targetId": "7128"
+    },
+    {
+      "name": "John McDermott",
+      "targetId": "7130"
+    },
+    {
+      "name": "Luke Esterkyn",
+      "targetId": "7131"
+    }
+  ]
+}

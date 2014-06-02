@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Fred Sherry",
-    "target": "Chick Corea",
-    "targetId": "919"
-  },
-  {
-    "source": "Fred Sherry",
-    "target": "Ida Kavafian",
-    "targetId": "1876"
-  },
-  {
-    "source": "Fred Sherry",
-    "target": "Gary Burton",
-    "targetId": "1877"
-  },
-  {
-    "source": "Fred Sherry",
-    "target": "Karen Dreyfus",
-    "targetId": "1878"
-  },
-  {
-    "source": "Fred Sherry",
-    "target": "Carol Shive",
-    "targetId": "1879"
-  },
-  {
-    "source": "Fred Sherry",
-    "target": "Ikwhan Bae",
-    "targetId": "1880"
-  },
-  {
-    "source": "Fred Sherry",
-    "target": "Charles Wuorinen",
-    "targetId": "1884"
-  },
-  {
-    "source": "Fred Sherry",
-    "target": "Thomas Kolor",
-    "targetId": "1885"
-  }
-]
+{
+  "source": "Fred Sherry",
+  "targets": [
+    {
+      "name": "Chick Corea",
+      "targetId": "919"
+    },
+    {
+      "name": "Ida Kavafian",
+      "targetId": "1876"
+    },
+    {
+      "name": "Gary Burton",
+      "targetId": "1877"
+    },
+    {
+      "name": "Karen Dreyfus",
+      "targetId": "1878"
+    },
+    {
+      "name": "Carol Shive",
+      "targetId": "1879"
+    },
+    {
+      "name": "Ikwhan Bae",
+      "targetId": "1880"
+    },
+    {
+      "name": "Charles Wuorinen",
+      "targetId": "1884"
+    },
+    {
+      "name": "Thomas Kolor",
+      "targetId": "1885"
+    }
+  ]
+}

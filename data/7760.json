@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Geri Rosse",
-    "target": "Perry Como",
-    "targetId": "7757"
-  },
-  {
-    "source": "Geri Rosse",
-    "target": "Bea Rosse",
-    "targetId": "7758"
-  },
-  {
-    "source": "Geri Rosse",
-    "target": "Marge Rosse",
-    "targetId": "7759"
-  }
-]
+{
+  "source": "Geri Rosse",
+  "targets": [
+    {
+      "name": "Perry Como",
+      "targetId": "7757"
+    },
+    {
+      "name": "Bea Rosse",
+      "targetId": "7758"
+    },
+    {
+      "name": "Marge Rosse",
+      "targetId": "7759"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Larry Mullins",
-    "target": "Vudi",
-    "targetId": "2600"
-  },
-  {
-    "source": "Larry Mullins",
-    "target": "Jane Jarboe",
-    "targetId": "2601"
-  },
-  {
-    "source": "Larry Mullins",
-    "target": "Joe Goldring",
-    "targetId": "2602"
-  },
-  {
-    "source": "Larry Mullins",
-    "target": "Michael Gira",
-    "targetId": "2604"
-  }
-]
+{
+  "source": "Larry Mullins",
+  "targets": [
+    {
+      "name": "Vudi",
+      "targetId": "2600"
+    },
+    {
+      "name": "Jane Jarboe",
+      "targetId": "2601"
+    },
+    {
+      "name": "Joe Goldring",
+      "targetId": "2602"
+    },
+    {
+      "name": "Michael Gira",
+      "targetId": "2604"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brad Parker",
-    "target": "Ryan Heller",
-    "targetId": "9296"
-  },
-  {
-    "source": "Brad Parker",
-    "target": "Chris McLaughlin",
-    "targetId": "9297"
-  },
-  {
-    "source": "Brad Parker",
-    "target": "Rob McCaffrey",
-    "targetId": "9298"
-  }
-]
+{
+  "source": "Brad Parker",
+  "targets": [
+    {
+      "name": "Ryan Heller",
+      "targetId": "9296"
+    },
+    {
+      "name": "Chris McLaughlin",
+      "targetId": "9297"
+    },
+    {
+      "name": "Rob McCaffrey",
+      "targetId": "9298"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Bobby Vee",
-    "target": "Joe B. Mauldin",
-    "targetId": "6283"
-  },
-  {
-    "source": "Bobby Vee",
-    "target": "Jerry Allison",
-    "targetId": "6284"
-  },
-  {
-    "source": "Bobby Vee",
-    "target": "Sonny Curtis",
-    "targetId": "6285"
-  }
-]
+{
+  "source": "Bobby Vee",
+  "targets": [
+    {
+      "name": "Joe B. Mauldin",
+      "targetId": "6283"
+    },
+    {
+      "name": "Jerry Allison",
+      "targetId": "6284"
+    },
+    {
+      "name": "Sonny Curtis",
+      "targetId": "6285"
+    }
+  ]
+}

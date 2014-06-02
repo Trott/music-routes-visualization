@@ -1,77 +1,65 @@
-[
-  {
-    "source": "Christie McVie",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Mick Fleetwood",
-    "targetId": "347"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "John McVie",
-    "targetId": "348"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Stevie Nicks",
-    "targetId": "355"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Michael Boddicker",
-    "targetId": "385"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "David Paich",
-    "targetId": "401"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Dave Mason",
-    "targetId": "635"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Bekka Bramlett",
-    "targetId": "636"
-  },
-  {
-    "source": "Christie McVie",
-    "target": "Billy Burnette",
-    "targetId": "637"
-  }
-]
+{
+  "source": "Christie McVie",
+  "targets": [
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "targetId": "347"
+    },
+    {
+      "name": "John McVie",
+      "targetId": "348"
+    },
+    {
+      "name": "Stevie Nicks",
+      "targetId": "355"
+    },
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Michael Boddicker",
+      "targetId": "385"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "David Paich",
+      "targetId": "401"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "Dave Mason",
+      "targetId": "635"
+    },
+    {
+      "name": "Bekka Bramlett",
+      "targetId": "636"
+    },
+    {
+      "name": "Billy Burnette",
+      "targetId": "637"
+    }
+  ]
+}

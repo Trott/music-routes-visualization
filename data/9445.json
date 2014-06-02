@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bob Markley",
-    "target": "Michael Lloyd",
-    "targetId": "9446"
-  },
-  {
-    "source": "Bob Markley",
-    "target": "Dennis Lambert",
-    "targetId": "9447"
-  },
-  {
-    "source": "Bob Markley",
-    "target": "Danny Belsky",
-    "targetId": "9448"
-  },
-  {
-    "source": "Bob Markley",
-    "target": "Shaun Harris",
-    "targetId": "9449"
-  }
-]
+{
+  "source": "Bob Markley",
+  "targets": [
+    {
+      "name": "Michael Lloyd",
+      "targetId": "9446"
+    },
+    {
+      "name": "Dennis Lambert",
+      "targetId": "9447"
+    },
+    {
+      "name": "Danny Belsky",
+      "targetId": "9448"
+    },
+    {
+      "name": "Shaun Harris",
+      "targetId": "9449"
+    }
+  ]
+}

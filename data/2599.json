@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Dan Pearson",
-    "target": "Michael Mullen",
-    "targetId": "19"
-  },
-  {
-    "source": "Dan Pearson",
-    "target": "Adam Klein",
-    "targetId": "20"
-  },
-  {
-    "source": "Dan Pearson",
-    "target": "Nicole Brodsky",
-    "targetId": "999"
-  },
-  {
-    "source": "Dan Pearson",
-    "target": "Tim Mooney",
-    "targetId": "1001"
-  },
-  {
-    "source": "Dan Pearson",
-    "target": "Bruce Kaphan",
-    "targetId": "1065"
-  },
-  {
-    "source": "Dan Pearson",
-    "target": "Mark Eitzel",
-    "targetId": "2598"
-  },
-  {
-    "source": "Dan Pearson",
-    "target": "Vudi",
-    "targetId": "2600"
-  },
-  {
-    "source": "Dan Pearson",
-    "target": "Mike Carnahan",
-    "targetId": "9275"
-  }
-]
+{
+  "source": "Dan Pearson",
+  "targets": [
+    {
+      "name": "Michael Mullen",
+      "targetId": "19"
+    },
+    {
+      "name": "Adam Klein",
+      "targetId": "20"
+    },
+    {
+      "name": "Nicole Brodsky",
+      "targetId": "999"
+    },
+    {
+      "name": "Tim Mooney",
+      "targetId": "1001"
+    },
+    {
+      "name": "Bruce Kaphan",
+      "targetId": "1065"
+    },
+    {
+      "name": "Mark Eitzel",
+      "targetId": "2598"
+    },
+    {
+      "name": "Vudi",
+      "targetId": "2600"
+    },
+    {
+      "name": "Mike Carnahan",
+      "targetId": "9275"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rabbi Tamás Raj",
-    "target": "Richard Wolfson",
-    "targetId": "3293"
-  },
-  {
-    "source": "Rabbi Tamás Raj",
-    "target": "Andy Saunders",
-    "targetId": "3295"
-  },
-  {
-    "source": "Rabbi Tamás Raj",
-    "target": "Tim Roseman",
-    "targetId": "3305"
-  },
-  {
-    "source": "Rabbi Tamás Raj",
-    "target": "David Pearl",
-    "targetId": "3308"
-  }
-]
+{
+  "source": "Rabbi Tamás Raj",
+  "targets": [
+    {
+      "name": "Richard Wolfson",
+      "targetId": "3293"
+    },
+    {
+      "name": "Andy Saunders",
+      "targetId": "3295"
+    },
+    {
+      "name": "Tim Roseman",
+      "targetId": "3305"
+    },
+    {
+      "name": "David Pearl",
+      "targetId": "3308"
+    }
+  ]
+}

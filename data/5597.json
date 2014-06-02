@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Vickers",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Mike Vickers",
-    "target": "Tom McGuinness",
-    "targetId": "3141"
-  },
-  {
-    "source": "Mike Vickers",
-    "target": "Mike Hugg",
-    "targetId": "3142"
-  },
-  {
-    "source": "Mike Vickers",
-    "target": "Paul Jones",
-    "targetId": "3189"
-  }
-]
+{
+  "source": "Mike Vickers",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Tom McGuinness",
+      "targetId": "3141"
+    },
+    {
+      "name": "Mike Hugg",
+      "targetId": "3142"
+    },
+    {
+      "name": "Paul Jones",
+      "targetId": "3189"
+    }
+  ]
+}

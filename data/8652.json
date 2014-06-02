@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jason Wade",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "Jason Wade",
-    "target": "Walter Rodriguez",
-    "targetId": "8653"
-  }
-]
+{
+  "source": "Jason Wade",
+  "targets": [
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Walter Rodriguez",
+      "targetId": "8653"
+    }
+  ]
+}

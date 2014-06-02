@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Bobby Hewitt",
-    "target": "Tommy Lee",
-    "targetId": "1357"
-  },
-  {
-    "source": "Bobby Hewitt",
-    "target": "Dave Kushner",
-    "targetId": "4383"
-  },
-  {
-    "source": "Bobby Hewitt",
-    "target": "Kelly LeMieux",
-    "targetId": "8419"
-  },
-  {
-    "source": "Bobby Hewitt",
-    "target": "John Feldmann",
-    "targetId": "8423"
-  },
-  {
-    "source": "Bobby Hewitt",
-    "target": "Donni Campion",
-    "targetId": "8427"
-  }
-]
+{
+  "source": "Bobby Hewitt",
+  "targets": [
+    {
+      "name": "Tommy Lee",
+      "targetId": "1357"
+    },
+    {
+      "name": "Dave Kushner",
+      "targetId": "4383"
+    },
+    {
+      "name": "Kelly LeMieux",
+      "targetId": "8419"
+    },
+    {
+      "name": "John Feldmann",
+      "targetId": "8423"
+    },
+    {
+      "name": "Donni Campion",
+      "targetId": "8427"
+    }
+  ]
+}

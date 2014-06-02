@@ -1,32 +1,29 @@
-[
-  {
-    "source": "James Hutchinson",
-    "target": "Matt Rollings",
-    "targetId": "589"
-  },
-  {
-    "source": "James Hutchinson",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "James Hutchinson",
-    "target": "Kenny Aronoff",
-    "targetId": "4158"
-  },
-  {
-    "source": "James Hutchinson",
-    "target": "Allen Toussaint",
-    "targetId": "7899"
-  },
-  {
-    "source": "James Hutchinson",
-    "target": "Chet Atkins",
-    "targetId": "9115"
-  },
-  {
-    "source": "James Hutchinson",
-    "target": "Randy Jacobs",
-    "targetId": "9117"
-  }
-]
+{
+  "source": "James Hutchinson",
+  "targets": [
+    {
+      "name": "Matt Rollings",
+      "targetId": "589"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Kenny Aronoff",
+      "targetId": "4158"
+    },
+    {
+      "name": "Allen Toussaint",
+      "targetId": "7899"
+    },
+    {
+      "name": "Chet Atkins",
+      "targetId": "9115"
+    },
+    {
+      "name": "Randy Jacobs",
+      "targetId": "9117"
+    }
+  ]
+}

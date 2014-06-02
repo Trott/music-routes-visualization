@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Pete Drake",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Pete Drake",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Pete Drake",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Pete Drake",
-    "target": "Charlie McCoy",
-    "targetId": "1211"
-  },
-  {
-    "source": "Pete Drake",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Pete Drake",
-    "target": "Gary Wright",
-    "targetId": "3199"
-  },
-  {
-    "source": "Pete Drake",
-    "target": "Alan White",
-    "targetId": "4428"
-  },
-  {
-    "source": "Pete Drake",
-    "target": "Kenny Buttrey",
-    "targetId": "10032"
-  },
-  {
-    "source": "Pete Drake",
-    "target": "Robert S. Wilson",
-    "targetId": "10052"
-  }
-]
+{
+  "source": "Pete Drake",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Charlie McCoy",
+      "targetId": "1211"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Gary Wright",
+      "targetId": "3199"
+    },
+    {
+      "name": "Alan White",
+      "targetId": "4428"
+    },
+    {
+      "name": "Kenny Buttrey",
+      "targetId": "10032"
+    },
+    {
+      "name": "Robert S. Wilson",
+      "targetId": "10052"
+    }
+  ]
+}

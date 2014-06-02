@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Daniel Adair",
-    "target": "Billy Gibbons",
-    "targetId": "2118"
-  },
-  {
-    "source": "Daniel Adair",
-    "target": "Mike Kroeger",
-    "targetId": "9870"
-  },
-  {
-    "source": "Daniel Adair",
-    "target": "Chad Kroeger",
-    "targetId": "9872"
-  },
-  {
-    "source": "Daniel Adair",
-    "target": "Ryan Peake",
-    "targetId": "9873"
-  },
-  {
-    "source": "Daniel Adair",
-    "target": "Chris Gestrin",
-    "targetId": "9874"
-  }
-]
+{
+  "source": "Daniel Adair",
+  "targets": [
+    {
+      "name": "Billy Gibbons",
+      "targetId": "2118"
+    },
+    {
+      "name": "Mike Kroeger",
+      "targetId": "9870"
+    },
+    {
+      "name": "Chad Kroeger",
+      "targetId": "9872"
+    },
+    {
+      "name": "Ryan Peake",
+      "targetId": "9873"
+    },
+    {
+      "name": "Chris Gestrin",
+      "targetId": "9874"
+    }
+  ]
+}

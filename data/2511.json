@@ -1,32 +1,29 @@
-[
-  {
-    "source": "George Hawkins",
-    "target": "Dave Mason",
-    "targetId": "635"
-  },
-  {
-    "source": "George Hawkins",
-    "target": "Don Felder",
-    "targetId": "668"
-  },
-  {
-    "source": "George Hawkins",
-    "target": "Joe Lala",
-    "targetId": "2385"
-  },
-  {
-    "source": "George Hawkins",
-    "target": "Tris Imboden",
-    "targetId": "2512"
-  },
-  {
-    "source": "George Hawkins",
-    "target": "James Pankow",
-    "targetId": "2513"
-  },
-  {
-    "source": "George Hawkins",
-    "target": "Lee Loughnane",
-    "targetId": "2514"
-  }
-]
+{
+  "source": "George Hawkins",
+  "targets": [
+    {
+      "name": "Dave Mason",
+      "targetId": "635"
+    },
+    {
+      "name": "Don Felder",
+      "targetId": "668"
+    },
+    {
+      "name": "Joe Lala",
+      "targetId": "2385"
+    },
+    {
+      "name": "Tris Imboden",
+      "targetId": "2512"
+    },
+    {
+      "name": "James Pankow",
+      "targetId": "2513"
+    },
+    {
+      "name": "Lee Loughnane",
+      "targetId": "2514"
+    }
+  ]
+}

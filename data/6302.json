@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Alex Kirst",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Alex Kirst",
-    "target": "Pete Marshall",
-    "targetId": "6301"
-  },
-  {
-    "source": "Alex Kirst",
-    "target": "Whitey Kirst",
-    "targetId": "6303"
-  }
-]
+{
+  "source": "Alex Kirst",
+  "targets": [
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Pete Marshall",
+      "targetId": "6301"
+    },
+    {
+      "name": "Whitey Kirst",
+      "targetId": "6303"
+    }
+  ]
+}

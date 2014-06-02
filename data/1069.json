@@ -1,152 +1,125 @@
-[
-  {
-    "source": "Roger Manning",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Mike Campbell",
-    "targetId": "646"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Sheryl Crow",
-    "targetId": "1018"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Jeff Trott",
-    "targetId": "1022"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Brian MacLeod",
-    "targetId": "1025"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Mike Elizondo",
-    "targetId": "1067"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Mark Oliver Everett",
-    "targetId": "1712"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Bashiri Johnson",
-    "targetId": "2373"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Fiona Apple",
-    "targetId": "2561"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Smokey Hormel",
-    "targetId": "2562"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Brian Kehew",
-    "targetId": "2727"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Wayne Kramer",
-    "targetId": "2728"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Jason Mraz",
-    "targetId": "2864"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Jack Daley",
-    "targetId": "2872"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Nir Z",
-    "targetId": "2873"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Lyle Workman",
-    "targetId": "2874"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Kevin Kadish",
-    "targetId": "2875"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Josh Deutsch",
-    "targetId": "2876"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Ahmir \"?uestlove\" Thompson ",
-    "targetId": "2877"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Jason Falkner",
-    "targetId": "6045"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Andy Sturmer",
-    "targetId": "7047"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Scott Schoenbeck",
-    "targetId": "7393"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Quincy McCrary",
-    "targetId": "7396"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Johari Funches Penny",
-    "targetId": "7397"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Lamakhosi Kunene",
-    "targetId": "7398"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Shalott Hazzard",
-    "targetId": "7399"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Ryan Weber",
-    "targetId": "7400"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Dan Didier",
-    "targetId": "7401"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Jason Gnewikow",
-    "targetId": "7402"
-  },
-  {
-    "source": "Roger Manning",
-    "target": "Davey von Bohlen",
-    "targetId": "7403"
-  }
-]
+{
+  "source": "Roger Manning",
+  "targets": [
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    },
+    {
+      "name": "Mike Campbell",
+      "targetId": "646"
+    },
+    {
+      "name": "Sheryl Crow",
+      "targetId": "1018"
+    },
+    {
+      "name": "Jeff Trott",
+      "targetId": "1022"
+    },
+    {
+      "name": "Brian MacLeod",
+      "targetId": "1025"
+    },
+    {
+      "name": "Mike Elizondo",
+      "targetId": "1067"
+    },
+    {
+      "name": "Mark Oliver Everett",
+      "targetId": "1712"
+    },
+    {
+      "name": "Bashiri Johnson",
+      "targetId": "2373"
+    },
+    {
+      "name": "Fiona Apple",
+      "targetId": "2561"
+    },
+    {
+      "name": "Smokey Hormel",
+      "targetId": "2562"
+    },
+    {
+      "name": "Brian Kehew",
+      "targetId": "2727"
+    },
+    {
+      "name": "Wayne Kramer",
+      "targetId": "2728"
+    },
+    {
+      "name": "Jason Mraz",
+      "targetId": "2864"
+    },
+    {
+      "name": "Jack Daley",
+      "targetId": "2872"
+    },
+    {
+      "name": "Nir Z",
+      "targetId": "2873"
+    },
+    {
+      "name": "Lyle Workman",
+      "targetId": "2874"
+    },
+    {
+      "name": "Kevin Kadish",
+      "targetId": "2875"
+    },
+    {
+      "name": "Josh Deutsch",
+      "targetId": "2876"
+    },
+    {
+      "name": "Ahmir \"?uestlove\" Thompson ",
+      "targetId": "2877"
+    },
+    {
+      "name": "Jason Falkner",
+      "targetId": "6045"
+    },
+    {
+      "name": "Andy Sturmer",
+      "targetId": "7047"
+    },
+    {
+      "name": "Scott Schoenbeck",
+      "targetId": "7393"
+    },
+    {
+      "name": "Quincy McCrary",
+      "targetId": "7396"
+    },
+    {
+      "name": "Johari Funches Penny",
+      "targetId": "7397"
+    },
+    {
+      "name": "Lamakhosi Kunene",
+      "targetId": "7398"
+    },
+    {
+      "name": "Shalott Hazzard",
+      "targetId": "7399"
+    },
+    {
+      "name": "Ryan Weber",
+      "targetId": "7400"
+    },
+    {
+      "name": "Dan Didier",
+      "targetId": "7401"
+    },
+    {
+      "name": "Jason Gnewikow",
+      "targetId": "7402"
+    },
+    {
+      "name": "Davey von Bohlen",
+      "targetId": "7403"
+    }
+  ]
+}

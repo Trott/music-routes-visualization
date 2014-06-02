@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Harold Beane",
-    "target": "Bernie Worrell",
-    "targetId": "199"
-  },
-  {
-    "source": "Harold Beane",
-    "target": "George Clinton",
-    "targetId": "206"
-  },
-  {
-    "source": "Harold Beane",
-    "target": "Bootsy Collins",
-    "targetId": "207"
-  },
-  {
-    "source": "Harold Beane",
-    "target": "Eddie Hazel",
-    "targetId": "208"
-  },
-  {
-    "source": "Harold Beane",
-    "target": "Tiki Fulwood",
-    "targetId": "209"
-  }
-]
+{
+  "source": "Harold Beane",
+  "targets": [
+    {
+      "name": "Bernie Worrell",
+      "targetId": "199"
+    },
+    {
+      "name": "George Clinton",
+      "targetId": "206"
+    },
+    {
+      "name": "Bootsy Collins",
+      "targetId": "207"
+    },
+    {
+      "name": "Eddie Hazel",
+      "targetId": "208"
+    },
+    {
+      "name": "Tiki Fulwood",
+      "targetId": "209"
+    }
+  ]
+}

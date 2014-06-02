@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Roger Mason",
-    "target": "Gary Numan",
-    "targetId": "854"
-  },
-  {
-    "source": "Roger Mason",
-    "target": "Chris Slade",
-    "targetId": "940"
-  },
-  {
-    "source": "Roger Mason",
-    "target": "Pino Palladino",
-    "targetId": "6093"
-  },
-  {
-    "source": "Roger Mason",
-    "target": "John Webb",
-    "targetId": "8007"
-  },
-  {
-    "source": "Roger Mason",
-    "target": "Mick Prague",
-    "targetId": "10467"
-  }
-]
+{
+  "source": "Roger Mason",
+  "targets": [
+    {
+      "name": "Gary Numan",
+      "targetId": "854"
+    },
+    {
+      "name": "Chris Slade",
+      "targetId": "940"
+    },
+    {
+      "name": "Pino Palladino",
+      "targetId": "6093"
+    },
+    {
+      "name": "John Webb",
+      "targetId": "8007"
+    },
+    {
+      "name": "Mick Prague",
+      "targetId": "10467"
+    }
+  ]
+}

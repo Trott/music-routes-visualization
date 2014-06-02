@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ahmet Zappa",
-    "target": "Bob Daisley",
-    "targetId": "315"
-  },
-  {
-    "source": "Ahmet Zappa",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Ahmet Zappa",
-    "target": "Warren DeMartini",
-    "targetId": "7215"
-  },
-  {
-    "source": "Ahmet Zappa",
-    "target": "Eric Singer",
-    "targetId": "9251"
-  }
-]
+{
+  "source": "Ahmet Zappa",
+  "targets": [
+    {
+      "name": "Bob Daisley",
+      "targetId": "315"
+    },
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Warren DeMartini",
+      "targetId": "7215"
+    },
+    {
+      "name": "Eric Singer",
+      "targetId": "9251"
+    }
+  ]
+}

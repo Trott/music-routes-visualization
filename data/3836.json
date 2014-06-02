@@ -1,12 +1,13 @@
-[
-  {
-    "source": "William Parker",
-    "target": "Rob Brown",
-    "targetId": "3833"
-  },
-  {
-    "source": "William Parker",
-    "target": "Warren Smith",
-    "targetId": "3837"
-  }
-]
+{
+  "source": "William Parker",
+  "targets": [
+    {
+      "name": "Rob Brown",
+      "targetId": "3833"
+    },
+    {
+      "name": "Warren Smith",
+      "targetId": "3837"
+    }
+  ]
+}

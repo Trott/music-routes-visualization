@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Tom Hazelmeyer",
-    "target": "Kevin Rutmanis",
-    "targetId": "5488"
-  },
-  {
-    "source": "Tom Hazelmeyer",
-    "target": "Norm Rogers",
-    "targetId": "5499"
-  },
-  {
-    "source": "Tom Hazelmeyer",
-    "target": "Thor Eisentrager",
-    "targetId": "5500"
-  }
-]
+{
+  "source": "Tom Hazelmeyer",
+  "targets": [
+    {
+      "name": "Kevin Rutmanis",
+      "targetId": "5488"
+    },
+    {
+      "name": "Norm Rogers",
+      "targetId": "5499"
+    },
+    {
+      "name": "Thor Eisentrager",
+      "targetId": "5500"
+    }
+  ]
+}

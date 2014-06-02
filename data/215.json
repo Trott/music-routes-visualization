@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Roger Taylor",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Roger Taylor",
-    "target": "Freddie Mercury",
-    "targetId": "212"
-  },
-  {
-    "source": "Roger Taylor",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Roger Taylor",
-    "target": "John Deacon",
-    "targetId": "214"
-  },
-  {
-    "source": "Roger Taylor",
-    "target": "Luciano Pavarotti",
-    "targetId": "823"
-  },
-  {
-    "source": "Roger Taylor",
-    "target": "Gary Numan",
-    "targetId": "854"
-  },
-  {
-    "source": "Roger Taylor",
-    "target": "Joan Armatrading",
-    "targetId": "5518"
-  },
-  {
-    "source": "Roger Taylor",
-    "target": "Nash The Slash",
-    "targetId": "10463"
-  },
-  {
-    "source": "Roger Taylor",
-    "target": "Jess Lidyard",
-    "targetId": "10468"
-  }
-]
+{
+  "source": "Roger Taylor",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Freddie Mercury",
+      "targetId": "212"
+    },
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "John Deacon",
+      "targetId": "214"
+    },
+    {
+      "name": "Luciano Pavarotti",
+      "targetId": "823"
+    },
+    {
+      "name": "Gary Numan",
+      "targetId": "854"
+    },
+    {
+      "name": "Joan Armatrading",
+      "targetId": "5518"
+    },
+    {
+      "name": "Nash The Slash",
+      "targetId": "10463"
+    },
+    {
+      "name": "Jess Lidyard",
+      "targetId": "10468"
+    }
+  ]
+}

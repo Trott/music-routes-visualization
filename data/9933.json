@@ -1,17 +1,17 @@
-[
-  {
-    "source": "DMX",
-    "target": "Nas",
-    "targetId": "2184"
-  },
-  {
-    "source": "DMX",
-    "target": "Method Man",
-    "targetId": "4390"
-  },
-  {
-    "source": "DMX",
-    "target": "Ja Rule",
-    "targetId": "8238"
-  }
-]
+{
+  "source": "DMX",
+  "targets": [
+    {
+      "name": "Nas",
+      "targetId": "2184"
+    },
+    {
+      "name": "Method Man",
+      "targetId": "4390"
+    },
+    {
+      "name": "Ja Rule",
+      "targetId": "8238"
+    }
+  ]
+}

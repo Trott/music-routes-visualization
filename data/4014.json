@@ -1,122 +1,101 @@
-[
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Omar Hakim",
-    "targetId": "475"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "David Lindley",
-    "targetId": "641"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Stan Harrison",
-    "targetId": "1248"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Nile Rodgers",
-    "targetId": "2204"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "David Spinner",
-    "targetId": "4010"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Frank Simms",
-    "targetId": "4011"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "George Simms",
-    "targetId": "4012"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Carmine Rojas",
-    "targetId": "4013"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Rob Sabino",
-    "targetId": "4015"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Sammy Figueroa",
-    "targetId": "4016"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Steve Elson",
-    "targetId": "4017"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Robert Aaron",
-    "targetId": "4018"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Mac Gollehon",
-    "targetId": "4019"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Kenny Aronoff",
-    "targetId": "4158"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Don Was",
-    "targetId": "6055"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Jimmie Vaughan",
-    "targetId": "6056"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "David McMurray",
-    "targetId": "6061"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Rayse Biggs",
-    "targetId": "6062"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Tommy Shannon",
-    "targetId": "7228"
-  },
-  {
-    "source": "Stevie Ray Vaughan",
-    "target": "Chris \"Whipper\" Layton",
-    "targetId": "7229"
-  }
-]
+{
+  "source": "Stevie Ray Vaughan",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "Omar Hakim",
+      "targetId": "475"
+    },
+    {
+      "name": "David Lindley",
+      "targetId": "641"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Stan Harrison",
+      "targetId": "1248"
+    },
+    {
+      "name": "Nile Rodgers",
+      "targetId": "2204"
+    },
+    {
+      "name": "David Spinner",
+      "targetId": "4010"
+    },
+    {
+      "name": "Frank Simms",
+      "targetId": "4011"
+    },
+    {
+      "name": "George Simms",
+      "targetId": "4012"
+    },
+    {
+      "name": "Carmine Rojas",
+      "targetId": "4013"
+    },
+    {
+      "name": "Rob Sabino",
+      "targetId": "4015"
+    },
+    {
+      "name": "Sammy Figueroa",
+      "targetId": "4016"
+    },
+    {
+      "name": "Steve Elson",
+      "targetId": "4017"
+    },
+    {
+      "name": "Robert Aaron",
+      "targetId": "4018"
+    },
+    {
+      "name": "Mac Gollehon",
+      "targetId": "4019"
+    },
+    {
+      "name": "Kenny Aronoff",
+      "targetId": "4158"
+    },
+    {
+      "name": "Don Was",
+      "targetId": "6055"
+    },
+    {
+      "name": "Jimmie Vaughan",
+      "targetId": "6056"
+    },
+    {
+      "name": "David McMurray",
+      "targetId": "6061"
+    },
+    {
+      "name": "Rayse Biggs",
+      "targetId": "6062"
+    },
+    {
+      "name": "Tommy Shannon",
+      "targetId": "7228"
+    },
+    {
+      "name": "Chris \"Whipper\" Layton",
+      "targetId": "7229"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bogdan Wiczling",
-    "target": "Marco Pirroni",
-    "targetId": "831"
-  },
-  {
-    "source": "Bogdan Wiczling",
-    "target": "Adam Ant",
-    "targetId": "832"
-  },
-  {
-    "source": "Bogdan Wiczling",
-    "target": "Martin Drover",
-    "targetId": "834"
-  },
-  {
-    "source": "Bogdan Wiczling",
-    "target": "Jeff Daly",
-    "targetId": "835"
-  }
-]
+{
+  "source": "Bogdan Wiczling",
+  "targets": [
+    {
+      "name": "Marco Pirroni",
+      "targetId": "831"
+    },
+    {
+      "name": "Adam Ant",
+      "targetId": "832"
+    },
+    {
+      "name": "Martin Drover",
+      "targetId": "834"
+    },
+    {
+      "name": "Jeff Daly",
+      "targetId": "835"
+    }
+  ]
+}

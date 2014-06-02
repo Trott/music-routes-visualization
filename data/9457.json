@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Al Doyle",
-    "target": "Alexis Taylor",
-    "targetId": "9451"
-  },
-  {
-    "source": "Al Doyle",
-    "target": "Joe Goddard",
-    "targetId": "9452"
-  },
-  {
-    "source": "Al Doyle",
-    "target": "Felix Martin",
-    "targetId": "9453"
-  },
-  {
-    "source": "Al Doyle",
-    "target": "Owen Clarke",
-    "targetId": "9454"
-  }
-]
+{
+  "source": "Al Doyle",
+  "targets": [
+    {
+      "name": "Alexis Taylor",
+      "targetId": "9451"
+    },
+    {
+      "name": "Joe Goddard",
+      "targetId": "9452"
+    },
+    {
+      "name": "Felix Martin",
+      "targetId": "9453"
+    },
+    {
+      "name": "Owen Clarke",
+      "targetId": "9454"
+    }
+  ]
+}

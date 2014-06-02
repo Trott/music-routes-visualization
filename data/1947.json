@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Alan Soares",
-    "target": "Harold Chang",
-    "targetId": "1942"
-  },
-  {
-    "source": "Alan Soares",
-    "target": "John Kramer",
-    "targetId": "1944"
-  },
-  {
-    "source": "Alan Soares",
-    "target": "Arthur Lyman",
-    "targetId": "1946"
-  }
-]
+{
+  "source": "Alan Soares",
+  "targets": [
+    {
+      "name": "Harold Chang",
+      "targetId": "1942"
+    },
+    {
+      "name": "John Kramer",
+      "targetId": "1944"
+    },
+    {
+      "name": "Arthur Lyman",
+      "targetId": "1946"
+    }
+  ]
+}

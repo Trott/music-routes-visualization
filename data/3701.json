@@ -1,32 +1,29 @@
-[
-  {
-    "source": "John Prine",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "John Prine",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "John Prine",
-    "target": "Bonnie Raitt",
-    "targetId": "692"
-  },
-  {
-    "source": "John Prine",
-    "target": "Joe B. Mauldin",
-    "targetId": "6283"
-  },
-  {
-    "source": "John Prine",
-    "target": "Jerry Allison",
-    "targetId": "6284"
-  },
-  {
-    "source": "John Prine",
-    "target": "Sonny Curtis",
-    "targetId": "6285"
-  }
-]
+{
+  "source": "John Prine",
+  "targets": [
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "targetId": "692"
+    },
+    {
+      "name": "Joe B. Mauldin",
+      "targetId": "6283"
+    },
+    {
+      "name": "Jerry Allison",
+      "targetId": "6284"
+    },
+    {
+      "name": "Sonny Curtis",
+      "targetId": "6285"
+    }
+  ]
+}

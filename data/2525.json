@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Bun E. Carlos",
-    "target": "Rick Nielsen",
-    "targetId": "2119"
-  },
-  {
-    "source": "Bun E. Carlos",
-    "target": "Robin Zander",
-    "targetId": "2524"
-  },
-  {
-    "source": "Bun E. Carlos",
-    "target": "Tom Petersson",
-    "targetId": "2526"
-  },
-  {
-    "source": "Bun E. Carlos",
-    "target": "James Iha",
-    "targetId": "2825"
-  },
-  {
-    "source": "Bun E. Carlos",
-    "target": "Adam Schlesinger",
-    "targetId": "3688"
-  },
-  {
-    "source": "Bun E. Carlos",
-    "target": "Taylor Hanson",
-    "targetId": "4847"
-  }
-]
+{
+  "source": "Bun E. Carlos",
+  "targets": [
+    {
+      "name": "Rick Nielsen",
+      "targetId": "2119"
+    },
+    {
+      "name": "Robin Zander",
+      "targetId": "2524"
+    },
+    {
+      "name": "Tom Petersson",
+      "targetId": "2526"
+    },
+    {
+      "name": "James Iha",
+      "targetId": "2825"
+    },
+    {
+      "name": "Adam Schlesinger",
+      "targetId": "3688"
+    },
+    {
+      "name": "Taylor Hanson",
+      "targetId": "4847"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John S. Hall",
-    "target": "Dave Rick",
-    "targetId": "3232"
-  },
-  {
-    "source": "John S. Hall",
-    "target": "Chris Xefos",
-    "targetId": "8119"
-  },
-  {
-    "source": "John S. Hall",
-    "target": "Roger Murdock",
-    "targetId": "8121"
-  }
-]
+{
+  "source": "John S. Hall",
+  "targets": [
+    {
+      "name": "Dave Rick",
+      "targetId": "3232"
+    },
+    {
+      "name": "Chris Xefos",
+      "targetId": "8119"
+    },
+    {
+      "name": "Roger Murdock",
+      "targetId": "8121"
+    }
+  ]
+}

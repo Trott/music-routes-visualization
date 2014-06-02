@@ -1,177 +1,145 @@
-[
-  {
-    "source": "John Jezzard",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Neil Sanders",
-    "targetId": "8684"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Lionel Ross",
-    "targetId": "9712"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Tony Tunstall",
-    "targetId": "9726"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Morris Miller",
-    "targetId": "9727"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Gordon Lewin",
-    "targetId": "9728"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Terry Weil",
-    "targetId": "9729"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Bram Martin",
-    "targetId": "9730"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Eldon Fox",
-    "targetId": "9731"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Jack Rothstein",
-    "targetId": "9732"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Ralph Elman",
-    "targetId": "9733"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Andrew McGee",
-    "targetId": "9734"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Jack Greene",
-    "targetId": "9735"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Louis Stevens",
-    "targetId": "9736"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Jack Richards",
-    "targetId": "9738"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Peggie Allen",
-    "targetId": "9739"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Wendy Horan",
-    "targetId": "9740"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Pat Whitmore",
-    "targetId": "9741"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Jill Utting",
-    "targetId": "9742"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "June Day",
-    "targetId": "9743"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Sylvia King",
-    "targetId": "9744"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Irene King",
-    "targetId": "9745"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "G. Mallen",
-    "targetId": "9746"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Fred Lucas",
-    "targetId": "9747"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Mike Redway",
-    "targetId": "9748"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "John O'Neill",
-    "targetId": "9749"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "F. Dachtler",
-    "targetId": "9750"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "Allan Grant",
-    "targetId": "9751"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "D. Griffiths",
-    "targetId": "9752"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "J. Smith",
-    "targetId": "9753"
-  },
-  {
-    "source": "John Jezzard",
-    "target": "J. Fraser",
-    "targetId": "9754"
-  }
-]
+{
+  "source": "John Jezzard",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "Neil Sanders",
+      "targetId": "8684"
+    },
+    {
+      "name": "Lionel Ross",
+      "targetId": "9712"
+    },
+    {
+      "name": "Tony Tunstall",
+      "targetId": "9726"
+    },
+    {
+      "name": "Morris Miller",
+      "targetId": "9727"
+    },
+    {
+      "name": "Gordon Lewin",
+      "targetId": "9728"
+    },
+    {
+      "name": "Terry Weil",
+      "targetId": "9729"
+    },
+    {
+      "name": "Bram Martin",
+      "targetId": "9730"
+    },
+    {
+      "name": "Eldon Fox",
+      "targetId": "9731"
+    },
+    {
+      "name": "Jack Rothstein",
+      "targetId": "9732"
+    },
+    {
+      "name": "Ralph Elman",
+      "targetId": "9733"
+    },
+    {
+      "name": "Andrew McGee",
+      "targetId": "9734"
+    },
+    {
+      "name": "Jack Greene",
+      "targetId": "9735"
+    },
+    {
+      "name": "Louis Stevens",
+      "targetId": "9736"
+    },
+    {
+      "name": "Jack Richards",
+      "targetId": "9738"
+    },
+    {
+      "name": "Peggie Allen",
+      "targetId": "9739"
+    },
+    {
+      "name": "Wendy Horan",
+      "targetId": "9740"
+    },
+    {
+      "name": "Pat Whitmore",
+      "targetId": "9741"
+    },
+    {
+      "name": "Jill Utting",
+      "targetId": "9742"
+    },
+    {
+      "name": "June Day",
+      "targetId": "9743"
+    },
+    {
+      "name": "Sylvia King",
+      "targetId": "9744"
+    },
+    {
+      "name": "Irene King",
+      "targetId": "9745"
+    },
+    {
+      "name": "G. Mallen",
+      "targetId": "9746"
+    },
+    {
+      "name": "Fred Lucas",
+      "targetId": "9747"
+    },
+    {
+      "name": "Mike Redway",
+      "targetId": "9748"
+    },
+    {
+      "name": "John O'Neill",
+      "targetId": "9749"
+    },
+    {
+      "name": "F. Dachtler",
+      "targetId": "9750"
+    },
+    {
+      "name": "Allan Grant",
+      "targetId": "9751"
+    },
+    {
+      "name": "D. Griffiths",
+      "targetId": "9752"
+    },
+    {
+      "name": "J. Smith",
+      "targetId": "9753"
+    },
+    {
+      "name": "J. Fraser",
+      "targetId": "9754"
+    }
+  ]
+}

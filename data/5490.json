@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Henry Bogdan",
-    "target": "Dale Crover",
-    "targetId": "4119"
-  },
-  {
-    "source": "Henry Bogdan",
-    "target": "King Buzzo",
-    "targetId": "4120"
-  },
-  {
-    "source": "Henry Bogdan",
-    "target": "Kevin Rutmanis",
-    "targetId": "5488"
-  },
-  {
-    "source": "Henry Bogdan",
-    "target": "Hank Williams III",
-    "targetId": "5491"
-  }
-]
+{
+  "source": "Henry Bogdan",
+  "targets": [
+    {
+      "name": "Dale Crover",
+      "targetId": "4119"
+    },
+    {
+      "name": "King Buzzo",
+      "targetId": "4120"
+    },
+    {
+      "name": "Kevin Rutmanis",
+      "targetId": "5488"
+    },
+    {
+      "name": "Hank Williams III",
+      "targetId": "5491"
+    }
+  ]
+}

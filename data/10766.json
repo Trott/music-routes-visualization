@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Takeshi",
-    "target": "Wata",
-    "targetId": "10764"
-  },
-  {
-    "source": "Takeshi",
-    "target": "Atsuo",
-    "targetId": "10765"
-  },
-  {
-    "source": "Takeshi",
-    "target": "Michio Kurihara",
-    "targetId": "10767"
-  }
-]
+{
+  "source": "Takeshi",
+  "targets": [
+    {
+      "name": "Wata",
+      "targetId": "10764"
+    },
+    {
+      "name": "Atsuo",
+      "targetId": "10765"
+    },
+    {
+      "name": "Michio Kurihara",
+      "targetId": "10767"
+    }
+  ]
+}

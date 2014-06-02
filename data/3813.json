@@ -1,182 +1,149 @@
-[
-  {
-    "source": "Jack Hale",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Bernie Worrell",
-    "targetId": "199"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Jack White",
-    "targetId": "256"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Willie Weeks",
-    "targetId": "384"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Wayne Jackson",
-    "targetId": "1807"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Andrew Love",
-    "targetId": "1808"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Buddy Guy",
-    "targetId": "2172"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Alicia Keys",
-    "targetId": "2173"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Steve Jordan",
-    "targetId": "2724"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Ben Cauley",
-    "targetId": "3085"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Lindsay Smith-Trostle",
-    "targetId": "3810"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Michael Rinne",
-    "targetId": "3811"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Jack Lawrence",
-    "targetId": "3812"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Tom McGinley",
-    "targetId": "3814"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Laura Matula",
-    "targetId": "3815"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Lyndsay Pruett",
-    "targetId": "3816"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Lightnin' Rod",
-    "targetId": "4693"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Lewis Collins",
-    "targetId": "4694"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Jerry Jemmott",
-    "targetId": "4695"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Pancho Morales",
-    "targetId": "4696"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Cornell Dupree",
-    "targetId": "4697"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Truman Thomas",
-    "targetId": "4698"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "James Mitchell",
-    "targetId": "4699"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "King Curtis",
-    "targetId": "4700"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Roger Hopps",
-    "targetId": "4701"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Brenday Bryant",
-    "targetId": "5467"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Margaret Branch",
-    "targetId": "5469"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Tracy Chapman",
-    "targetId": "6105"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Lou Collins",
-    "targetId": "7804"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Jimmy Mitchell",
-    "targetId": "7805"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Pat Smith",
-    "targetId": "7806"
-  },
-  {
-    "source": "Jack Hale",
-    "target": "Keb Mo",
-    "targetId": "9230"
-  }
-]
+{
+  "source": "Jack Hale",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Bernie Worrell",
+      "targetId": "199"
+    },
+    {
+      "name": "Jack White",
+      "targetId": "256"
+    },
+    {
+      "name": "Willie Weeks",
+      "targetId": "384"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "Wayne Jackson",
+      "targetId": "1807"
+    },
+    {
+      "name": "Andrew Love",
+      "targetId": "1808"
+    },
+    {
+      "name": "Buddy Guy",
+      "targetId": "2172"
+    },
+    {
+      "name": "Alicia Keys",
+      "targetId": "2173"
+    },
+    {
+      "name": "Steve Jordan",
+      "targetId": "2724"
+    },
+    {
+      "name": "Ben Cauley",
+      "targetId": "3085"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Lindsay Smith-Trostle",
+      "targetId": "3810"
+    },
+    {
+      "name": "Michael Rinne",
+      "targetId": "3811"
+    },
+    {
+      "name": "Jack Lawrence",
+      "targetId": "3812"
+    },
+    {
+      "name": "Tom McGinley",
+      "targetId": "3814"
+    },
+    {
+      "name": "Laura Matula",
+      "targetId": "3815"
+    },
+    {
+      "name": "Lyndsay Pruett",
+      "targetId": "3816"
+    },
+    {
+      "name": "Lightnin' Rod",
+      "targetId": "4693"
+    },
+    {
+      "name": "Lewis Collins",
+      "targetId": "4694"
+    },
+    {
+      "name": "Jerry Jemmott",
+      "targetId": "4695"
+    },
+    {
+      "name": "Pancho Morales",
+      "targetId": "4696"
+    },
+    {
+      "name": "Cornell Dupree",
+      "targetId": "4697"
+    },
+    {
+      "name": "Truman Thomas",
+      "targetId": "4698"
+    },
+    {
+      "name": "James Mitchell",
+      "targetId": "4699"
+    },
+    {
+      "name": "King Curtis",
+      "targetId": "4700"
+    },
+    {
+      "name": "Roger Hopps",
+      "targetId": "4701"
+    },
+    {
+      "name": "Brenday Bryant",
+      "targetId": "5467"
+    },
+    {
+      "name": "Margaret Branch",
+      "targetId": "5469"
+    },
+    {
+      "name": "Tracy Chapman",
+      "targetId": "6105"
+    },
+    {
+      "name": "Lou Collins",
+      "targetId": "7804"
+    },
+    {
+      "name": "Jimmy Mitchell",
+      "targetId": "7805"
+    },
+    {
+      "name": "Pat Smith",
+      "targetId": "7806"
+    },
+    {
+      "name": "Keb Mo",
+      "targetId": "9230"
+    }
+  ]
+}

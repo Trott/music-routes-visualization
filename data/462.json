@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Dave Stewart",
-    "target": "Bill Bruford",
-    "targetId": "340"
-  },
-  {
-    "source": "Dave Stewart",
-    "target": "Jeff Berlin",
-    "targetId": "460"
-  },
-  {
-    "source": "Dave Stewart",
-    "target": "Allan Holdsworth",
-    "targetId": "461"
-  },
-  {
-    "source": "Dave Stewart",
-    "target": "Danny Thompson",
-    "targetId": "903"
-  },
-  {
-    "source": "Dave Stewart",
-    "target": "Brian \"BJ\" Cole",
-    "targetId": "3188"
-  },
-  {
-    "source": "Dave Stewart",
-    "target": "Pandit Dinesh",
-    "targetId": "3534"
-  },
-  {
-    "source": "Dave Stewart",
-    "target": "Jakko Jakszyk",
-    "targetId": "3535"
-  },
-  {
-    "source": "Dave Stewart",
-    "target": "Gavin Harrison",
-    "targetId": "3536"
-  }
-]
+{
+  "source": "Dave Stewart",
+  "targets": [
+    {
+      "name": "Bill Bruford",
+      "targetId": "340"
+    },
+    {
+      "name": "Jeff Berlin",
+      "targetId": "460"
+    },
+    {
+      "name": "Allan Holdsworth",
+      "targetId": "461"
+    },
+    {
+      "name": "Danny Thompson",
+      "targetId": "903"
+    },
+    {
+      "name": "Brian \"BJ\" Cole",
+      "targetId": "3188"
+    },
+    {
+      "name": "Pandit Dinesh",
+      "targetId": "3534"
+    },
+    {
+      "name": "Jakko Jakszyk",
+      "targetId": "3535"
+    },
+    {
+      "name": "Gavin Harrison",
+      "targetId": "3536"
+    }
+  ]
+}

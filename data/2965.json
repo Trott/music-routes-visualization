@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Alonza Bevan",
-    "target": "Zak Starkey",
-    "targetId": "2777"
-  },
-  {
-    "source": "Alonza Bevan",
-    "target": "Johnny Marr",
-    "targetId": "2966"
-  }
-]
+{
+  "source": "Alonza Bevan",
+  "targets": [
+    {
+      "name": "Zak Starkey",
+      "targetId": "2777"
+    },
+    {
+      "name": "Johnny Marr",
+      "targetId": "2966"
+    }
+  ]
+}

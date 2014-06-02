@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Leon Luther",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Leon Luther",
-    "target": "Steven Soles",
-    "targetId": "9956"
-  },
-  {
-    "source": "Leon Luther",
-    "target": "Howard Wyeth",
-    "targetId": "10056"
-  },
-  {
-    "source": "Leon Luther",
-    "target": "Scarlet Rivera",
-    "targetId": "10057"
-  },
-  {
-    "source": "Leon Luther",
-    "target": "Rob Stoner",
-    "targetId": "10061"
-  },
-  {
-    "source": "Leon Luther",
-    "target": "Ronee Blakley",
-    "targetId": "10068"
-  }
-]
+{
+  "source": "Leon Luther",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Steven Soles",
+      "targetId": "9956"
+    },
+    {
+      "name": "Howard Wyeth",
+      "targetId": "10056"
+    },
+    {
+      "name": "Scarlet Rivera",
+      "targetId": "10057"
+    },
+    {
+      "name": "Rob Stoner",
+      "targetId": "10061"
+    },
+    {
+      "name": "Ronee Blakley",
+      "targetId": "10068"
+    }
+  ]
+}

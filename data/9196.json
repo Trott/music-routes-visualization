@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jonas Mellberg",
-    "target": "Christofer Johnsson",
-    "targetId": "9183"
-  },
-  {
-    "source": "Jonas Mellberg",
-    "target": "Dan Swanö",
-    "targetId": "9193"
-  },
-  {
-    "source": "Jonas Mellberg",
-    "target": "Lars Rosenberg",
-    "targetId": "9194"
-  },
-  {
-    "source": "Jonas Mellberg",
-    "target": "Piotr Wawrzeniuk",
-    "targetId": "9195"
-  }
-]
+{
+  "source": "Jonas Mellberg",
+  "targets": [
+    {
+      "name": "Christofer Johnsson",
+      "targetId": "9183"
+    },
+    {
+      "name": "Dan Swanö",
+      "targetId": "9193"
+    },
+    {
+      "name": "Lars Rosenberg",
+      "targetId": "9194"
+    },
+    {
+      "name": "Piotr Wawrzeniuk",
+      "targetId": "9195"
+    }
+  ]
+}

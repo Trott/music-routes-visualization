@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Sally Carr",
-    "target": "Ken Andrew",
-    "targetId": "9387"
-  },
-  {
-    "source": "Sally Carr",
-    "target": "Ian McCredie",
-    "targetId": "9388"
-  },
-  {
-    "source": "Sally Carr",
-    "target": "Eric McCredie",
-    "targetId": "9389"
-  }
-]
+{
+  "source": "Sally Carr",
+  "targets": [
+    {
+      "name": "Ken Andrew",
+      "targetId": "9387"
+    },
+    {
+      "name": "Ian McCredie",
+      "targetId": "9388"
+    },
+    {
+      "name": "Eric McCredie",
+      "targetId": "9389"
+    }
+  ]
+}

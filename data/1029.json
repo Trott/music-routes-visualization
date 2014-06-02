@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Winston Watson",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Jorge Calderón",
-    "targetId": "663"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Jimmy Ryan",
-    "targetId": "980"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Dennis Collins",
-    "targetId": "1030"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Babi Floyd",
-    "targetId": "1031"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Curtis King",
-    "targetId": "1032"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Chuck Prophet",
-    "targetId": "1033"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Daniel Lanois",
-    "targetId": "2195"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Tony Garnier",
-    "targetId": "5456"
-  },
-  {
-    "source": "Winston Watson",
-    "target": "Auggie Meyers",
-    "targetId": "5457"
-  }
-]
+{
+  "source": "Winston Watson",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Jorge Calderón",
+      "targetId": "663"
+    },
+    {
+      "name": "Jimmy Ryan",
+      "targetId": "980"
+    },
+    {
+      "name": "Dennis Collins",
+      "targetId": "1030"
+    },
+    {
+      "name": "Babi Floyd",
+      "targetId": "1031"
+    },
+    {
+      "name": "Curtis King",
+      "targetId": "1032"
+    },
+    {
+      "name": "Chuck Prophet",
+      "targetId": "1033"
+    },
+    {
+      "name": "Daniel Lanois",
+      "targetId": "2195"
+    },
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Tony Garnier",
+      "targetId": "5456"
+    },
+    {
+      "name": "Auggie Meyers",
+      "targetId": "5457"
+    }
+  ]
+}

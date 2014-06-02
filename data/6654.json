@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Young Jeezy",
-    "target": "Kanye West",
-    "targetId": "4031"
-  },
-  {
-    "source": "Young Jeezy",
-    "target": "Rihanna",
-    "targetId": "5908"
-  },
-  {
-    "source": "Young Jeezy",
-    "target": "Connie Mitchell",
-    "targetId": "6652"
-  }
-]
+{
+  "source": "Young Jeezy",
+  "targets": [
+    {
+      "name": "Kanye West",
+      "targetId": "4031"
+    },
+    {
+      "name": "Rihanna",
+      "targetId": "5908"
+    },
+    {
+      "name": "Connie Mitchell",
+      "targetId": "6652"
+    }
+  ]
+}

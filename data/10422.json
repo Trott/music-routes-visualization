@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Barbata",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "John Barbata",
-    "target": "David Crosby",
-    "targetId": "511"
-  },
-  {
-    "source": "John Barbata",
-    "target": "Stephen Stills",
-    "targetId": "638"
-  },
-  {
-    "source": "John Barbata",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "John Barbata",
-    "target": "Calvin \"Fuzzy\" Samuels",
-    "targetId": "10423"
-  }
-]
+{
+  "source": "John Barbata",
+  "targets": [
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "David Crosby",
+      "targetId": "511"
+    },
+    {
+      "name": "Stephen Stills",
+      "targetId": "638"
+    },
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "Calvin \"Fuzzy\" Samuels",
+      "targetId": "10423"
+    }
+  ]
+}

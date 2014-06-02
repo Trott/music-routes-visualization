@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Rick Vito",
-    "target": "Bill Payne",
-    "targetId": "280"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Mick Fleetwood",
-    "targetId": "347"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Bob Seger",
-    "targetId": "415"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Russ Kunkel",
-    "targetId": "458"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Craig Frost",
-    "targetId": "6146"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Chris Campbell",
-    "targetId": "6147"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Dawayne Bailey",
-    "targetId": "6148"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Douglas Kibble",
-    "targetId": "6149"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Izora Armstead",
-    "targetId": "6150"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Martha Wash",
-    "targetId": "6151"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Lenny Castellanos",
-    "targetId": "6153"
-  },
-  {
-    "source": "Rick Vito",
-    "target": "Mark Johnstone",
-    "targetId": "6154"
-  }
-]
+{
+  "source": "Rick Vito",
+  "targets": [
+    {
+      "name": "Bill Payne",
+      "targetId": "280"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "targetId": "347"
+    },
+    {
+      "name": "Bob Seger",
+      "targetId": "415"
+    },
+    {
+      "name": "Russ Kunkel",
+      "targetId": "458"
+    },
+    {
+      "name": "Craig Frost",
+      "targetId": "6146"
+    },
+    {
+      "name": "Chris Campbell",
+      "targetId": "6147"
+    },
+    {
+      "name": "Dawayne Bailey",
+      "targetId": "6148"
+    },
+    {
+      "name": "Douglas Kibble",
+      "targetId": "6149"
+    },
+    {
+      "name": "Izora Armstead",
+      "targetId": "6150"
+    },
+    {
+      "name": "Martha Wash",
+      "targetId": "6151"
+    },
+    {
+      "name": "Lenny Castellanos",
+      "targetId": "6153"
+    },
+    {
+      "name": "Mark Johnstone",
+      "targetId": "6154"
+    }
+  ]
+}

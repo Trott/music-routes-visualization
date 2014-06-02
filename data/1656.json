@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Steve Earle",
-    "target": "Greg Dulli",
-    "targetId": "1641"
-  },
-  {
-    "source": "Steve Earle",
-    "target": "Rick McCollum",
-    "targetId": "1657"
-  },
-  {
-    "source": "Steve Earle",
-    "target": "John Curley",
-    "targetId": "1658"
-  }
-]
+{
+  "source": "Steve Earle",
+  "targets": [
+    {
+      "name": "Greg Dulli",
+      "targetId": "1641"
+    },
+    {
+      "name": "Rick McCollum",
+      "targetId": "1657"
+    },
+    {
+      "name": "John Curley",
+      "targetId": "1658"
+    }
+  ]
+}

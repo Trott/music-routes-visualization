@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bill Black",
-    "target": "Elvis Presley",
-    "targetId": "1"
-  },
-  {
-    "source": "Bill Black",
-    "target": "Scotty Moore",
-    "targetId": "2"
-  },
-  {
-    "source": "Bill Black",
-    "target": "D.J. Fontana",
-    "targetId": "8"
-  },
-  {
-    "source": "Bill Black",
-    "target": "Floyd Cramer",
-    "targetId": "9"
-  }
-]
+{
+  "source": "Bill Black",
+  "targets": [
+    {
+      "name": "Elvis Presley",
+      "targetId": "1"
+    },
+    {
+      "name": "Scotty Moore",
+      "targetId": "2"
+    },
+    {
+      "name": "D.J. Fontana",
+      "targetId": "8"
+    },
+    {
+      "name": "Floyd Cramer",
+      "targetId": "9"
+    }
+  ]
+}

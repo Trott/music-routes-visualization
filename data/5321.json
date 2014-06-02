@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Von Ryan",
-    "target": "Neil Burke",
-    "targetId": "4999"
-  },
-  {
-    "source": "John Von Ryan",
-    "target": "Sam \"Bland\" McPheeters",
-    "targetId": "5001"
-  },
-  {
-    "source": "John Von Ryan",
-    "target": "Rick Pelletier",
-    "targetId": "5318"
-  },
-  {
-    "source": "John Von Ryan",
-    "target": "Jeremy Ryan",
-    "targetId": "5320"
-  }
-]
+{
+  "source": "John Von Ryan",
+  "targets": [
+    {
+      "name": "Neil Burke",
+      "targetId": "4999"
+    },
+    {
+      "name": "Sam \"Bland\" McPheeters",
+      "targetId": "5001"
+    },
+    {
+      "name": "Rick Pelletier",
+      "targetId": "5318"
+    },
+    {
+      "name": "Jeremy Ryan",
+      "targetId": "5320"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Frank Christian",
-    "target": "Suzanne Vega",
-    "targetId": "3113"
-  },
-  {
-    "source": "Frank Christian",
-    "target": "Mike Mesaros",
-    "targetId": "7113"
-  },
-  {
-    "source": "Frank Christian",
-    "target": "Dennis Diken",
-    "targetId": "7114"
-  },
-  {
-    "source": "Frank Christian",
-    "target": "Pat DiNizio",
-    "targetId": "7115"
-  },
-  {
-    "source": "Frank Christian",
-    "target": "Jeffrey Berman",
-    "targetId": "7116"
-  }
-]
+{
+  "source": "Frank Christian",
+  "targets": [
+    {
+      "name": "Suzanne Vega",
+      "targetId": "3113"
+    },
+    {
+      "name": "Mike Mesaros",
+      "targetId": "7113"
+    },
+    {
+      "name": "Dennis Diken",
+      "targetId": "7114"
+    },
+    {
+      "name": "Pat DiNizio",
+      "targetId": "7115"
+    },
+    {
+      "name": "Jeffrey Berman",
+      "targetId": "7116"
+    }
+  ]
+}

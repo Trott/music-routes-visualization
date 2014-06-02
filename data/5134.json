@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Kevin Robinson",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Kevin Robinson",
-    "target": "Jeff Lynne",
-    "targetId": "224"
-  },
-  {
-    "source": "Kevin Robinson",
-    "target": "Chris \"Snake\" Davis",
-    "targetId": "5135"
-  },
-  {
-    "source": "Kevin Robinson",
-    "target": "Dave Bishop",
-    "targetId": "5136"
-  }
-]
+{
+  "source": "Kevin Robinson",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Jeff Lynne",
+      "targetId": "224"
+    },
+    {
+      "name": "Chris \"Snake\" Davis",
+      "targetId": "5135"
+    },
+    {
+      "name": "Dave Bishop",
+      "targetId": "5136"
+    }
+  ]
+}

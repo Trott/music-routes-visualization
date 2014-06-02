@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Scott Minor",
-    "target": "Tom Waits",
-    "targetId": "1713"
-  },
-  {
-    "source": "Scott Minor",
-    "target": "Mark Linkous",
-    "targetId": "6972"
-  },
-  {
-    "source": "Scott Minor",
-    "target": "Melissa Moore",
-    "targetId": "6975"
-  },
-  {
-    "source": "Scott Minor",
-    "target": "Sophie Michalitsianos",
-    "targetId": "6976"
-  },
-  {
-    "source": "Scott Minor",
-    "target": "Steven Drozd",
-    "targetId": "6978"
-  },
-  {
-    "source": "Scott Minor",
-    "target": "Jane Scarpantoni",
-    "targetId": "6980"
-  },
-  {
-    "source": "Scott Minor",
-    "target": "Dave Fridmann",
-    "targetId": "6981"
-  },
-  {
-    "source": "Scott Minor",
-    "target": "Joan Wasser",
-    "targetId": "6982"
-  }
-]
+{
+  "source": "Scott Minor",
+  "targets": [
+    {
+      "name": "Tom Waits",
+      "targetId": "1713"
+    },
+    {
+      "name": "Mark Linkous",
+      "targetId": "6972"
+    },
+    {
+      "name": "Melissa Moore",
+      "targetId": "6975"
+    },
+    {
+      "name": "Sophie Michalitsianos",
+      "targetId": "6976"
+    },
+    {
+      "name": "Steven Drozd",
+      "targetId": "6978"
+    },
+    {
+      "name": "Jane Scarpantoni",
+      "targetId": "6980"
+    },
+    {
+      "name": "Dave Fridmann",
+      "targetId": "6981"
+    },
+    {
+      "name": "Joan Wasser",
+      "targetId": "6982"
+    }
+  ]
+}

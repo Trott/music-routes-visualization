@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Lisa Youn",
-    "target": "Greg Ashley",
-    "targetId": "1590"
-  },
-  {
-    "source": "Lisa Youn",
-    "target": "Brian Glaze",
-    "targetId": "5948"
-  }
-]
+{
+  "source": "Lisa Youn",
+  "targets": [
+    {
+      "name": "Greg Ashley",
+      "targetId": "1590"
+    },
+    {
+      "name": "Brian Glaze",
+      "targetId": "5948"
+    }
+  ]
+}

@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Pat Boone",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Carmen Twillie",
-    "targetId": "282"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Ritchie Blackmore",
-    "targetId": "314"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Steve Madaio",
-    "targetId": "412"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Yvonne Williams",
-    "targetId": "426"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Merry Clayton",
-    "targetId": "1403"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Mike Melvoin",
-    "targetId": "1527"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Charles Davis",
-    "targetId": "2226"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Bruce Otto",
-    "targetId": "2247"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Wayne Bergeron",
-    "targetId": "2343"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Clydene Jackson",
-    "targetId": "2349"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Dick Hyde",
-    "targetId": "3414"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Myrna Matthews",
-    "targetId": "3553"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Pete Christlieb",
-    "targetId": "4224"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Dave Siebels",
-    "targetId": "4505"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Andy Simpkins",
-    "targetId": "4506"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Gregg Bissonette",
-    "targetId": "4507"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Mitch Holder",
-    "targetId": "4508"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Frank Szabo",
-    "targetId": "4509"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Chris Tedesco",
-    "targetId": "4510"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Lew McCreary",
-    "targetId": "4511"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Dana Hughes",
-    "targetId": "4512"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Don Menza",
-    "targetId": "4513"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Joel Peskin",
-    "targetId": "4514"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Mona Lisa Young",
-    "targetId": "4515"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Maxie Anderson",
-    "targetId": "4516"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Alfie Silas",
-    "targetId": "4517"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Michito Sanchez",
-    "targetId": "7218"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Oliver C. Brown",
-    "targetId": "7219"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Paul Smith",
-    "targetId": "7220"
-  },
-  {
-    "source": "Pat Boone",
-    "target": "Alan Kaplan",
-    "targetId": "7221"
-  }
-]
+{
+  "source": "Pat Boone",
+  "targets": [
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Carmen Twillie",
+      "targetId": "282"
+    },
+    {
+      "name": "Ritchie Blackmore",
+      "targetId": "314"
+    },
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "Steve Madaio",
+      "targetId": "412"
+    },
+    {
+      "name": "Yvonne Williams",
+      "targetId": "426"
+    },
+    {
+      "name": "Merry Clayton",
+      "targetId": "1403"
+    },
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Mike Melvoin",
+      "targetId": "1527"
+    },
+    {
+      "name": "Charles Davis",
+      "targetId": "2226"
+    },
+    {
+      "name": "Bruce Otto",
+      "targetId": "2247"
+    },
+    {
+      "name": "Wayne Bergeron",
+      "targetId": "2343"
+    },
+    {
+      "name": "Clydene Jackson",
+      "targetId": "2349"
+    },
+    {
+      "name": "Dick Hyde",
+      "targetId": "3414"
+    },
+    {
+      "name": "Myrna Matthews",
+      "targetId": "3553"
+    },
+    {
+      "name": "Pete Christlieb",
+      "targetId": "4224"
+    },
+    {
+      "name": "Dave Siebels",
+      "targetId": "4505"
+    },
+    {
+      "name": "Andy Simpkins",
+      "targetId": "4506"
+    },
+    {
+      "name": "Gregg Bissonette",
+      "targetId": "4507"
+    },
+    {
+      "name": "Mitch Holder",
+      "targetId": "4508"
+    },
+    {
+      "name": "Frank Szabo",
+      "targetId": "4509"
+    },
+    {
+      "name": "Chris Tedesco",
+      "targetId": "4510"
+    },
+    {
+      "name": "Lew McCreary",
+      "targetId": "4511"
+    },
+    {
+      "name": "Dana Hughes",
+      "targetId": "4512"
+    },
+    {
+      "name": "Don Menza",
+      "targetId": "4513"
+    },
+    {
+      "name": "Joel Peskin",
+      "targetId": "4514"
+    },
+    {
+      "name": "Mona Lisa Young",
+      "targetId": "4515"
+    },
+    {
+      "name": "Maxie Anderson",
+      "targetId": "4516"
+    },
+    {
+      "name": "Alfie Silas",
+      "targetId": "4517"
+    },
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Michito Sanchez",
+      "targetId": "7218"
+    },
+    {
+      "name": "Oliver C. Brown",
+      "targetId": "7219"
+    },
+    {
+      "name": "Paul Smith",
+      "targetId": "7220"
+    },
+    {
+      "name": "Alan Kaplan",
+      "targetId": "7221"
+    }
+  ]
+}

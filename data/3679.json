@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Pete Wood",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Pete Wood",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Pete Wood",
-    "target": "Brian MacLeod",
-    "targetId": "1025"
-  },
-  {
-    "source": "Pete Wood",
-    "target": "Mick Taylor",
-    "targetId": "1995"
-  },
-  {
-    "source": "Pete Wood",
-    "target": "Lisa Haley",
-    "targetId": "3676"
-  },
-  {
-    "source": "Pete Wood",
-    "target": "John Easdale",
-    "targetId": "3677"
-  },
-  {
-    "source": "Pete Wood",
-    "target": "Mr. E",
-    "targetId": "3678"
-  },
-  {
-    "source": "Pete Wood",
-    "target": "Chris Carter",
-    "targetId": "3680"
-  }
-]
+{
+  "source": "Pete Wood",
+  "targets": [
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Brian MacLeod",
+      "targetId": "1025"
+    },
+    {
+      "name": "Mick Taylor",
+      "targetId": "1995"
+    },
+    {
+      "name": "Lisa Haley",
+      "targetId": "3676"
+    },
+    {
+      "name": "John Easdale",
+      "targetId": "3677"
+    },
+    {
+      "name": "Mr. E",
+      "targetId": "3678"
+    },
+    {
+      "name": "Chris Carter",
+      "targetId": "3680"
+    }
+  ]
+}

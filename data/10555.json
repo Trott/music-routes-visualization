@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mick Pointer",
-    "target": "Fish",
-    "targetId": "4176"
-  },
-  {
-    "source": "Mick Pointer",
-    "target": "Pete Trewavas",
-    "targetId": "5573"
-  },
-  {
-    "source": "Mick Pointer",
-    "target": "Steve Rothery",
-    "targetId": "10327"
-  },
-  {
-    "source": "Mick Pointer",
-    "target": "Mark Kelly",
-    "targetId": "10328"
-  }
-]
+{
+  "source": "Mick Pointer",
+  "targets": [
+    {
+      "name": "Fish",
+      "targetId": "4176"
+    },
+    {
+      "name": "Pete Trewavas",
+      "targetId": "5573"
+    },
+    {
+      "name": "Steve Rothery",
+      "targetId": "10327"
+    },
+    {
+      "name": "Mark Kelly",
+      "targetId": "10328"
+    }
+  ]
+}

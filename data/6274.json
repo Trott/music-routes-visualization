@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Butch Tomas",
-    "target": "Slash",
-    "targetId": "1287"
-  },
-  {
-    "source": "Butch Tomas",
-    "target": "Lenny Kravitz",
-    "targetId": "6273"
-  },
-  {
-    "source": "Butch Tomas",
-    "target": "Karl Denson",
-    "targetId": "6275"
-  },
-  {
-    "source": "Butch Tomas",
-    "target": "Mike Hunter",
-    "targetId": "6276"
-  }
-]
+{
+  "source": "Butch Tomas",
+  "targets": [
+    {
+      "name": "Slash",
+      "targetId": "1287"
+    },
+    {
+      "name": "Lenny Kravitz",
+      "targetId": "6273"
+    },
+    {
+      "name": "Karl Denson",
+      "targetId": "6275"
+    },
+    {
+      "name": "Mike Hunter",
+      "targetId": "6276"
+    }
+  ]
+}

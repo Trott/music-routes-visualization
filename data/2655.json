@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Steve Hanley",
-    "target": "Gavin Friday",
-    "targetId": "2651"
-  },
-  {
-    "source": "Steve Hanley",
-    "target": "Karl Burns",
-    "targetId": "2652"
-  },
-  {
-    "source": "Steve Hanley",
-    "target": "Craig Scanlon",
-    "targetId": "2653"
-  },
-  {
-    "source": "Steve Hanley",
-    "target": "Paul Hanley",
-    "targetId": "2654"
-  },
-  {
-    "source": "Steve Hanley",
-    "target": "Brix Smith",
-    "targetId": "2656"
-  },
-  {
-    "source": "Steve Hanley",
-    "target": "Mark E. Smith",
-    "targetId": "2657"
-  }
-]
+{
+  "source": "Steve Hanley",
+  "targets": [
+    {
+      "name": "Gavin Friday",
+      "targetId": "2651"
+    },
+    {
+      "name": "Karl Burns",
+      "targetId": "2652"
+    },
+    {
+      "name": "Craig Scanlon",
+      "targetId": "2653"
+    },
+    {
+      "name": "Paul Hanley",
+      "targetId": "2654"
+    },
+    {
+      "name": "Brix Smith",
+      "targetId": "2656"
+    },
+    {
+      "name": "Mark E. Smith",
+      "targetId": "2657"
+    }
+  ]
+}

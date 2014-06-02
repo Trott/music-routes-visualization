@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Joe Cangelosi",
-    "target": "Frank Blackfire",
-    "targetId": "8987"
-  },
-  {
-    "source": "Joe Cangelosi",
-    "target": "Mille Petrozza",
-    "targetId": "8991"
-  },
-  {
-    "source": "Joe Cangelosi",
-    "target": "Christian Giesler",
-    "targetId": "8996"
-  },
-  {
-    "source": "Joe Cangelosi",
-    "target": "Tony Bono",
-    "targetId": "9001"
-  },
-  {
-    "source": "Joe Cangelosi",
-    "target": "Tony Portaro",
-    "targetId": "9002"
-  },
-  {
-    "source": "Joe Cangelosi",
-    "target": "Glenn Hansen",
-    "targetId": "9003"
-  }
-]
+{
+  "source": "Joe Cangelosi",
+  "targets": [
+    {
+      "name": "Frank Blackfire",
+      "targetId": "8987"
+    },
+    {
+      "name": "Mille Petrozza",
+      "targetId": "8991"
+    },
+    {
+      "name": "Christian Giesler",
+      "targetId": "8996"
+    },
+    {
+      "name": "Tony Bono",
+      "targetId": "9001"
+    },
+    {
+      "name": "Tony Portaro",
+      "targetId": "9002"
+    },
+    {
+      "name": "Glenn Hansen",
+      "targetId": "9003"
+    }
+  ]
+}

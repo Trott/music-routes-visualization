@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Rick Springfield",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Rick Springfield",
-    "target": "Richard Page",
-    "targetId": "2531"
-  },
-  {
-    "source": "Rick Springfield",
-    "target": "John Lowery",
-    "targetId": "5314"
-  }
-]
+{
+  "source": "Rick Springfield",
+  "targets": [
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "Richard Page",
+      "targetId": "2531"
+    },
+    {
+      "name": "John Lowery",
+      "targetId": "5314"
+    }
+  ]
+}

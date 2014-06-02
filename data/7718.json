@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Bow Wow",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Bow Wow",
-    "target": "Omarion",
-    "targetId": "2673"
-  },
-  {
-    "source": "Bow Wow",
-    "target": "R. Kelly",
-    "targetId": "4282"
-  },
-  {
-    "source": "Bow Wow",
-    "target": "Chris Brown",
-    "targetId": "5826"
-  },
-  {
-    "source": "Bow Wow",
-    "target": "T-Pain",
-    "targetId": "6004"
-  },
-  {
-    "source": "Bow Wow",
-    "target": "Birdman",
-    "targetId": "6005"
-  }
-]
+{
+  "source": "Bow Wow",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "Omarion",
+      "targetId": "2673"
+    },
+    {
+      "name": "R. Kelly",
+      "targetId": "4282"
+    },
+    {
+      "name": "Chris Brown",
+      "targetId": "5826"
+    },
+    {
+      "name": "T-Pain",
+      "targetId": "6004"
+    },
+    {
+      "name": "Birdman",
+      "targetId": "6005"
+    }
+  ]
+}

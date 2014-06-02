@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Ronnie Ross",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Ronnie Ross",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Ronnie Ross",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Ronnie Ross",
-    "target": "Harry Klein",
-    "targetId": "1988"
-  },
-  {
-    "source": "Ronnie Ross",
-    "target": "Chris Thomas",
-    "targetId": "8639"
-  },
-  {
-    "source": "Ronnie Ross",
-    "target": "Bernard George",
-    "targetId": "9857"
-  },
-  {
-    "source": "Ronnie Ross",
-    "target": "Art Ellefson",
-    "targetId": "9858"
-  },
-  {
-    "source": "Ronnie Ross",
-    "target": "Danny Moss",
-    "targetId": "9859"
-  },
-  {
-    "source": "Ronnie Ross",
-    "target": "Derek Collins",
-    "targetId": "9860"
-  }
-]
+{
+  "source": "Ronnie Ross",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Harry Klein",
+      "targetId": "1988"
+    },
+    {
+      "name": "Chris Thomas",
+      "targetId": "8639"
+    },
+    {
+      "name": "Bernard George",
+      "targetId": "9857"
+    },
+    {
+      "name": "Art Ellefson",
+      "targetId": "9858"
+    },
+    {
+      "name": "Danny Moss",
+      "targetId": "9859"
+    },
+    {
+      "name": "Derek Collins",
+      "targetId": "9860"
+    }
+  ]
+}

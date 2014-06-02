@@ -1,237 +1,193 @@
-[
-  {
-    "source": "Adrian Smith",
-    "target": "Ronnie James Dio",
-    "targetId": "139"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Jimmy Bain",
-    "targetId": "140"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Vivian Campbell",
-    "targetId": "141"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Eric Bloom",
-    "targetId": "142"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Don Dokken",
-    "targetId": "143"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Kevin DuBrow",
-    "targetId": "144"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Rob Halford",
-    "targetId": "145"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Dave Meniketti",
-    "targetId": "146"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Paul Shortino",
-    "targetId": "147"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Geoff Tate",
-    "targetId": "148"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Tommy Aldridge",
-    "targetId": "149"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Dave Alford",
-    "targetId": "150"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Carmine Appice",
-    "targetId": "151"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Vinny Appice",
-    "targetId": "152"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Frankie Banali",
-    "targetId": "153"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Mick Brown",
-    "targetId": "154"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Carlos Cavazo",
-    "targetId": "155"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Amir Derakh",
-    "targetId": "156"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Donald \"Buck Dharma\" Roeser",
-    "targetId": "157"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Brad Gillis",
-    "targetId": "158"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Craig Goldy",
-    "targetId": "159"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Chris Hagar",
-    "targetId": "160"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Chris Holmes",
-    "targetId": "161"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Blackie Lawless",
-    "targetId": "162"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "George Lynch",
-    "targetId": "163"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Yngwie Malmsteen",
-    "targetId": "164"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Mick Mars",
-    "targetId": "165"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Dave Murray",
-    "targetId": "166"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Vince Neil",
-    "targetId": "167"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Ted Nugent",
-    "targetId": "168"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Eddie Ojeda",
-    "targetId": "169"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Jeff Pilson",
-    "targetId": "170"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "David St. Hubbins",
-    "targetId": "171"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Rudy Sarzo",
-    "targetId": "172"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Claude Schnell",
-    "targetId": "173"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Neal Schon",
-    "targetId": "174"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Harry Shearer",
-    "targetId": "175"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Mark Stein",
-    "targetId": "176"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Matt Thorr",
-    "targetId": "177"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Nicko McBrain",
-    "targetId": "2151"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Steve Harris",
-    "targetId": "2152"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Bruce Dickinson",
-    "targetId": "2153"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Zak Starkey",
-    "targetId": "2777"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Andy Barnett",
-    "targetId": "5056"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Dave Colwell",
-    "targetId": "5057"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Richard Young",
-    "targetId": "5058"
-  },
-  {
-    "source": "Adrian Smith",
-    "target": "Robin Clayton",
-    "targetId": "5059"
-  }
-]
+{
+  "source": "Adrian Smith",
+  "targets": [
+    {
+      "name": "Ronnie James Dio",
+      "targetId": "139"
+    },
+    {
+      "name": "Jimmy Bain",
+      "targetId": "140"
+    },
+    {
+      "name": "Vivian Campbell",
+      "targetId": "141"
+    },
+    {
+      "name": "Eric Bloom",
+      "targetId": "142"
+    },
+    {
+      "name": "Don Dokken",
+      "targetId": "143"
+    },
+    {
+      "name": "Kevin DuBrow",
+      "targetId": "144"
+    },
+    {
+      "name": "Rob Halford",
+      "targetId": "145"
+    },
+    {
+      "name": "Dave Meniketti",
+      "targetId": "146"
+    },
+    {
+      "name": "Paul Shortino",
+      "targetId": "147"
+    },
+    {
+      "name": "Geoff Tate",
+      "targetId": "148"
+    },
+    {
+      "name": "Tommy Aldridge",
+      "targetId": "149"
+    },
+    {
+      "name": "Dave Alford",
+      "targetId": "150"
+    },
+    {
+      "name": "Carmine Appice",
+      "targetId": "151"
+    },
+    {
+      "name": "Vinny Appice",
+      "targetId": "152"
+    },
+    {
+      "name": "Frankie Banali",
+      "targetId": "153"
+    },
+    {
+      "name": "Mick Brown",
+      "targetId": "154"
+    },
+    {
+      "name": "Carlos Cavazo",
+      "targetId": "155"
+    },
+    {
+      "name": "Amir Derakh",
+      "targetId": "156"
+    },
+    {
+      "name": "Donald \"Buck Dharma\" Roeser",
+      "targetId": "157"
+    },
+    {
+      "name": "Brad Gillis",
+      "targetId": "158"
+    },
+    {
+      "name": "Craig Goldy",
+      "targetId": "159"
+    },
+    {
+      "name": "Chris Hagar",
+      "targetId": "160"
+    },
+    {
+      "name": "Chris Holmes",
+      "targetId": "161"
+    },
+    {
+      "name": "Blackie Lawless",
+      "targetId": "162"
+    },
+    {
+      "name": "George Lynch",
+      "targetId": "163"
+    },
+    {
+      "name": "Yngwie Malmsteen",
+      "targetId": "164"
+    },
+    {
+      "name": "Mick Mars",
+      "targetId": "165"
+    },
+    {
+      "name": "Dave Murray",
+      "targetId": "166"
+    },
+    {
+      "name": "Vince Neil",
+      "targetId": "167"
+    },
+    {
+      "name": "Ted Nugent",
+      "targetId": "168"
+    },
+    {
+      "name": "Eddie Ojeda",
+      "targetId": "169"
+    },
+    {
+      "name": "Jeff Pilson",
+      "targetId": "170"
+    },
+    {
+      "name": "David St. Hubbins",
+      "targetId": "171"
+    },
+    {
+      "name": "Rudy Sarzo",
+      "targetId": "172"
+    },
+    {
+      "name": "Claude Schnell",
+      "targetId": "173"
+    },
+    {
+      "name": "Neal Schon",
+      "targetId": "174"
+    },
+    {
+      "name": "Harry Shearer",
+      "targetId": "175"
+    },
+    {
+      "name": "Mark Stein",
+      "targetId": "176"
+    },
+    {
+      "name": "Matt Thorr",
+      "targetId": "177"
+    },
+    {
+      "name": "Nicko McBrain",
+      "targetId": "2151"
+    },
+    {
+      "name": "Steve Harris",
+      "targetId": "2152"
+    },
+    {
+      "name": "Bruce Dickinson",
+      "targetId": "2153"
+    },
+    {
+      "name": "Zak Starkey",
+      "targetId": "2777"
+    },
+    {
+      "name": "Andy Barnett",
+      "targetId": "5056"
+    },
+    {
+      "name": "Dave Colwell",
+      "targetId": "5057"
+    },
+    {
+      "name": "Richard Young",
+      "targetId": "5058"
+    },
+    {
+      "name": "Robin Clayton",
+      "targetId": "5059"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jake Shapiro",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Jake Shapiro",
-    "target": "Ed Roland",
-    "targetId": "8644"
-  }
-]
+{
+  "source": "Jake Shapiro",
+  "targets": [
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Ed Roland",
+      "targetId": "8644"
+    }
+  ]
+}

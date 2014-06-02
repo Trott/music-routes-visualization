@@ -1,97 +1,81 @@
-[
-  {
-    "source": "Derek Simpson",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Mal Evans",
-    "targetId": "630"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Tony Gilbert",
-    "targetId": "3354"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "John Sharpe",
-    "targetId": "3356"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Jurgen Hess",
-    "targetId": "3357"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Stephen Shingles",
-    "targetId": "3358"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "John Underwood",
-    "targetId": "3359"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Norman Jones",
-    "targetId": "3361"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Neil Aspinall",
-    "targetId": "3366"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "John Hall",
-    "targetId": "9686"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Terry Doran",
-    "targetId": "9687"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Tony Fisher",
-    "targetId": "9688"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Greg Bowen",
-    "targetId": "9689"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Derek Watkins",
-    "targetId": "9690"
-  },
-  {
-    "source": "Derek Simpson",
-    "target": "Stanley Roderick",
-    "targetId": "9691"
-  }
-]
+{
+  "source": "Derek Simpson",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Mal Evans",
+      "targetId": "630"
+    },
+    {
+      "name": "Tony Gilbert",
+      "targetId": "3354"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "John Sharpe",
+      "targetId": "3356"
+    },
+    {
+      "name": "Jurgen Hess",
+      "targetId": "3357"
+    },
+    {
+      "name": "Stephen Shingles",
+      "targetId": "3358"
+    },
+    {
+      "name": "John Underwood",
+      "targetId": "3359"
+    },
+    {
+      "name": "Norman Jones",
+      "targetId": "3361"
+    },
+    {
+      "name": "Neil Aspinall",
+      "targetId": "3366"
+    },
+    {
+      "name": "John Hall",
+      "targetId": "9686"
+    },
+    {
+      "name": "Terry Doran",
+      "targetId": "9687"
+    },
+    {
+      "name": "Tony Fisher",
+      "targetId": "9688"
+    },
+    {
+      "name": "Greg Bowen",
+      "targetId": "9689"
+    },
+    {
+      "name": "Derek Watkins",
+      "targetId": "9690"
+    },
+    {
+      "name": "Stanley Roderick",
+      "targetId": "9691"
+    }
+  ]
+}

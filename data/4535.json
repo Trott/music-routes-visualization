@@ -1,27 +1,25 @@
-[
-  {
-    "source": "David Levy",
-    "target": "Shirley Bassey",
-    "targetId": "4525"
-  },
-  {
-    "source": "David Levy",
-    "target": "Catherine Feeney",
-    "targetId": "4526"
-  },
-  {
-    "source": "David Levy",
-    "target": "Nikki Lamborn",
-    "targetId": "4528"
-  },
-  {
-    "source": "David Levy",
-    "target": "Tony Kiley",
-    "targetId": "4536"
-  },
-  {
-    "source": "David Levy",
-    "target": "Clem Clempson",
-    "targetId": "4537"
-  }
-]
+{
+  "source": "David Levy",
+  "targets": [
+    {
+      "name": "Shirley Bassey",
+      "targetId": "4525"
+    },
+    {
+      "name": "Catherine Feeney",
+      "targetId": "4526"
+    },
+    {
+      "name": "Nikki Lamborn",
+      "targetId": "4528"
+    },
+    {
+      "name": "Tony Kiley",
+      "targetId": "4536"
+    },
+    {
+      "name": "Clem Clempson",
+      "targetId": "4537"
+    }
+  ]
+}

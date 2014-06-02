@@ -1,227 +1,185 @@
-[
-  {
-    "source": "Simon Crowe",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Boy George",
-    "targetId": "52"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Midge Ure",
-    "targetId": "96"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Steve Norman",
-    "targetId": "98"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Chris Williams",
-    "targetId": "99"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Chris Cross",
-    "targetId": "100"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "John Taylor",
-    "targetId": "101"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Paul Young",
-    "targetId": "102"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Tony Hadley",
-    "targetId": "103"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Glenn Gregory",
-    "targetId": "104"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Simon Le Bon",
-    "targetId": "105"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Marilyn",
-    "targetId": "107"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Keren Woodward",
-    "targetId": "108"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Martin Kemp",
-    "targetId": "109"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Jody Watley",
-    "targetId": "110"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Adam Clayton",
-    "targetId": "112"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Paul Weller",
-    "targetId": "113"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "James \"J.T.\" Taylor",
-    "targetId": "114"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "George Michael",
-    "targetId": "115"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Martyn Ware",
-    "targetId": "116"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "John Keeble",
-    "targetId": "117"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Gary Kemp",
-    "targetId": "118"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Roger Taylor",
-    "targetId": "119"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Sarah Dallin",
-    "targetId": "120"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Siobhan Fahey",
-    "targetId": "121"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Pete Briquette",
-    "targetId": "123"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Francis Rossi",
-    "targetId": "124"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Robert \"Kool\" Bell",
-    "targetId": "125"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Dennis Thomas",
-    "targetId": "126"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Andy Taylor",
-    "targetId": "127"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Jon Moss",
-    "targetId": "128"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Rick Parfitt",
-    "targetId": "129"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Nick Rhodes",
-    "targetId": "130"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Johnny Fingers",
-    "targetId": "131"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Holly Johnson",
-    "targetId": "133"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Stuart Adamson",
-    "targetId": "134"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Bruce Watson",
-    "targetId": "135"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Tony Butler",
-    "targetId": "136"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Mark Brzezicki",
-    "targetId": "137"
-  },
-  {
-    "source": "Simon Crowe",
-    "target": "Jens Langhorn",
-    "targetId": "138"
-  }
-]
+{
+  "source": "Simon Crowe",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Boy George",
+      "targetId": "52"
+    },
+    {
+      "name": "Midge Ure",
+      "targetId": "96"
+    },
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Steve Norman",
+      "targetId": "98"
+    },
+    {
+      "name": "Chris Williams",
+      "targetId": "99"
+    },
+    {
+      "name": "Chris Cross",
+      "targetId": "100"
+    },
+    {
+      "name": "John Taylor",
+      "targetId": "101"
+    },
+    {
+      "name": "Paul Young",
+      "targetId": "102"
+    },
+    {
+      "name": "Tony Hadley",
+      "targetId": "103"
+    },
+    {
+      "name": "Glenn Gregory",
+      "targetId": "104"
+    },
+    {
+      "name": "Simon Le Bon",
+      "targetId": "105"
+    },
+    {
+      "name": "Marilyn",
+      "targetId": "107"
+    },
+    {
+      "name": "Keren Woodward",
+      "targetId": "108"
+    },
+    {
+      "name": "Martin Kemp",
+      "targetId": "109"
+    },
+    {
+      "name": "Jody Watley",
+      "targetId": "110"
+    },
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Adam Clayton",
+      "targetId": "112"
+    },
+    {
+      "name": "Paul Weller",
+      "targetId": "113"
+    },
+    {
+      "name": "James \"J.T.\" Taylor",
+      "targetId": "114"
+    },
+    {
+      "name": "George Michael",
+      "targetId": "115"
+    },
+    {
+      "name": "Martyn Ware",
+      "targetId": "116"
+    },
+    {
+      "name": "John Keeble",
+      "targetId": "117"
+    },
+    {
+      "name": "Gary Kemp",
+      "targetId": "118"
+    },
+    {
+      "name": "Roger Taylor",
+      "targetId": "119"
+    },
+    {
+      "name": "Sarah Dallin",
+      "targetId": "120"
+    },
+    {
+      "name": "Siobhan Fahey",
+      "targetId": "121"
+    },
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Pete Briquette",
+      "targetId": "123"
+    },
+    {
+      "name": "Francis Rossi",
+      "targetId": "124"
+    },
+    {
+      "name": "Robert \"Kool\" Bell",
+      "targetId": "125"
+    },
+    {
+      "name": "Dennis Thomas",
+      "targetId": "126"
+    },
+    {
+      "name": "Andy Taylor",
+      "targetId": "127"
+    },
+    {
+      "name": "Jon Moss",
+      "targetId": "128"
+    },
+    {
+      "name": "Rick Parfitt",
+      "targetId": "129"
+    },
+    {
+      "name": "Nick Rhodes",
+      "targetId": "130"
+    },
+    {
+      "name": "Johnny Fingers",
+      "targetId": "131"
+    },
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Holly Johnson",
+      "targetId": "133"
+    },
+    {
+      "name": "Stuart Adamson",
+      "targetId": "134"
+    },
+    {
+      "name": "Bruce Watson",
+      "targetId": "135"
+    },
+    {
+      "name": "Tony Butler",
+      "targetId": "136"
+    },
+    {
+      "name": "Mark Brzezicki",
+      "targetId": "137"
+    },
+    {
+      "name": "Jens Langhorn",
+      "targetId": "138"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mike Randle",
-    "target": "Aimee Mann",
-    "targetId": "181"
-  },
-  {
-    "source": "Mike Randle",
-    "target": "Buddy Judge",
-    "targetId": "3868"
-  },
-  {
-    "source": "Mike Randle",
-    "target": "Michael Lockwood",
-    "targetId": "3869"
-  },
-  {
-    "source": "Mike Randle",
-    "target": "John Sands",
-    "targetId": "8920"
-  },
-  {
-    "source": "Mike Randle",
-    "target": "Mike Denneen",
-    "targetId": "8921"
-  },
-  {
-    "source": "Mike Randle",
-    "target": "Rusty Squeezebox",
-    "targetId": "9334"
-  }
-]
+{
+  "source": "Mike Randle",
+  "targets": [
+    {
+      "name": "Aimee Mann",
+      "targetId": "181"
+    },
+    {
+      "name": "Buddy Judge",
+      "targetId": "3868"
+    },
+    {
+      "name": "Michael Lockwood",
+      "targetId": "3869"
+    },
+    {
+      "name": "John Sands",
+      "targetId": "8920"
+    },
+    {
+      "name": "Mike Denneen",
+      "targetId": "8921"
+    },
+    {
+      "name": "Rusty Squeezebox",
+      "targetId": "9334"
+    }
+  ]
+}

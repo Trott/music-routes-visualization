@@ -1,17 +1,17 @@
-[
-  {
-    "source": "William Tucker",
-    "target": "Sascha Konietzko",
-    "targetId": "885"
-  },
-  {
-    "source": "William Tucker",
-    "target": "Mark Durante",
-    "targetId": "886"
-  },
-  {
-    "source": "William Tucker",
-    "target": "Bill Rieflin",
-    "targetId": "889"
-  }
-]
+{
+  "source": "William Tucker",
+  "targets": [
+    {
+      "name": "Sascha Konietzko",
+      "targetId": "885"
+    },
+    {
+      "name": "Mark Durante",
+      "targetId": "886"
+    },
+    {
+      "name": "Bill Rieflin",
+      "targetId": "889"
+    }
+  ]
+}

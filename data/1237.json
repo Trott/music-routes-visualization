@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jackie Greene",
-    "target": "John Hofer",
-    "targetId": "1231"
-  },
-  {
-    "source": "Jackie Greene",
-    "target": "Tim Bluhm",
-    "targetId": "1234"
-  },
-  {
-    "source": "Jackie Greene",
-    "target": "Greg Loiacono",
-    "targetId": "1235"
-  },
-  {
-    "source": "Jackie Greene",
-    "target": "Paul Hoaglin",
-    "targetId": "1236"
-  },
-  {
-    "source": "Jackie Greene",
-    "target": "Dan Lebowitz",
-    "targetId": "1238"
-  }
-]
+{
+  "source": "Jackie Greene",
+  "targets": [
+    {
+      "name": "John Hofer",
+      "targetId": "1231"
+    },
+    {
+      "name": "Tim Bluhm",
+      "targetId": "1234"
+    },
+    {
+      "name": "Greg Loiacono",
+      "targetId": "1235"
+    },
+    {
+      "name": "Paul Hoaglin",
+      "targetId": "1236"
+    },
+    {
+      "name": "Dan Lebowitz",
+      "targetId": "1238"
+    }
+  ]
+}

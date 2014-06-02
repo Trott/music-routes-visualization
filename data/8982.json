@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Roger Williams",
-    "target": "Kenny Malone",
-    "targetId": "4826"
-  },
-  {
-    "source": "Roger Williams",
-    "target": "Michael Johnson",
-    "targetId": "8976"
-  },
-  {
-    "source": "Roger Williams",
-    "target": "Jack Williams",
-    "targetId": "8977"
-  },
-  {
-    "source": "Roger Williams",
-    "target": "Farrell Morris",
-    "targetId": "8978"
-  },
-  {
-    "source": "Roger Williams",
-    "target": "Sheri Kramer",
-    "targetId": "8979"
-  },
-  {
-    "source": "Roger Williams",
-    "target": "Bill LaBounty",
-    "targetId": "8980"
-  },
-  {
-    "source": "Roger Williams",
-    "target": "Steve Gibson",
-    "targetId": "8981"
-  }
-]
+{
+  "source": "Roger Williams",
+  "targets": [
+    {
+      "name": "Kenny Malone",
+      "targetId": "4826"
+    },
+    {
+      "name": "Michael Johnson",
+      "targetId": "8976"
+    },
+    {
+      "name": "Jack Williams",
+      "targetId": "8977"
+    },
+    {
+      "name": "Farrell Morris",
+      "targetId": "8978"
+    },
+    {
+      "name": "Sheri Kramer",
+      "targetId": "8979"
+    },
+    {
+      "name": "Bill LaBounty",
+      "targetId": "8980"
+    },
+    {
+      "name": "Steve Gibson",
+      "targetId": "8981"
+    }
+  ]
+}

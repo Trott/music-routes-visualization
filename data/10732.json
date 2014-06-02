@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Stephen Fry",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Stephen Fry",
-    "target": "Kate Bush",
-    "targetId": "2197"
-  },
-  {
-    "source": "Stephen Fry",
-    "target": "John Giblin",
-    "targetId": "8312"
-  },
-  {
-    "source": "Stephen Fry",
-    "target": "Dan McIntosh",
-    "targetId": "10729"
-  }
-]
+{
+  "source": "Stephen Fry",
+  "targets": [
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Kate Bush",
+      "targetId": "2197"
+    },
+    {
+      "name": "John Giblin",
+      "targetId": "8312"
+    },
+    {
+      "name": "Dan McIntosh",
+      "targetId": "10729"
+    }
+  ]
+}

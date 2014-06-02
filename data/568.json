@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Paul Rudolph",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Paul Rudolph",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Paul Rudolph",
-    "target": "John Wetton",
-    "targetId": "527"
-  },
-  {
-    "source": "Paul Rudolph",
-    "target": "Simon King",
-    "targetId": "566"
-  },
-  {
-    "source": "Paul Rudolph",
-    "target": "Marty Simon",
-    "targetId": "567"
-  }
-]
+{
+  "source": "Paul Rudolph",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "John Wetton",
+      "targetId": "527"
+    },
+    {
+      "name": "Simon King",
+      "targetId": "566"
+    },
+    {
+      "name": "Marty Simon",
+      "targetId": "567"
+    }
+  ]
+}

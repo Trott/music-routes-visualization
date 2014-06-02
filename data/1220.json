@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Junior Mance",
-    "target": "Ron Carter",
-    "targetId": "1201"
-  },
-  {
-    "source": "Junior Mance",
-    "target": "Jimmy Scott",
-    "targetId": "1215"
-  },
-  {
-    "source": "Junior Mance",
-    "target": "Bruno Carr",
-    "targetId": "1221"
-  },
-  {
-    "source": "Junior Mance",
-    "target": "David \"Fathead\" Newman",
-    "targetId": "1222"
-  }
-]
+{
+  "source": "Junior Mance",
+  "targets": [
+    {
+      "name": "Ron Carter",
+      "targetId": "1201"
+    },
+    {
+      "name": "Jimmy Scott",
+      "targetId": "1215"
+    },
+    {
+      "name": "Bruno Carr",
+      "targetId": "1221"
+    },
+    {
+      "name": "David \"Fathead\" Newman",
+      "targetId": "1222"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Shaun Ryder",
-    "target": "Damon Albarn",
-    "targetId": "2401"
-  },
-  {
-    "source": "Shaun Ryder",
-    "target": "Rosie Wilson",
-    "targetId": "2412"
-  }
-]
+{
+  "source": "Shaun Ryder",
+  "targets": [
+    {
+      "name": "Damon Albarn",
+      "targetId": "2401"
+    },
+    {
+      "name": "Rosie Wilson",
+      "targetId": "2412"
+    }
+  ]
+}

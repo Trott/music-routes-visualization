@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Andrew Brennen",
-    "target": "Robert Smith",
-    "targetId": "363"
-  },
-  {
-    "source": "Andrew Brennen",
-    "target": "Porl Thompson",
-    "targetId": "3715"
-  },
-  {
-    "source": "Andrew Brennen",
-    "target": "Lol Tolhurst",
-    "targetId": "7230"
-  },
-  {
-    "source": "Andrew Brennen",
-    "target": "Simon Gallup",
-    "targetId": "7231"
-  },
-  {
-    "source": "Andrew Brennen",
-    "target": "Boris Williams",
-    "targetId": "7232"
-  }
-]
+{
+  "source": "Andrew Brennen",
+  "targets": [
+    {
+      "name": "Robert Smith",
+      "targetId": "363"
+    },
+    {
+      "name": "Porl Thompson",
+      "targetId": "3715"
+    },
+    {
+      "name": "Lol Tolhurst",
+      "targetId": "7230"
+    },
+    {
+      "name": "Simon Gallup",
+      "targetId": "7231"
+    },
+    {
+      "name": "Boris Williams",
+      "targetId": "7232"
+    }
+  ]
+}

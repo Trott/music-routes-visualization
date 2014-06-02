@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Alvin \"Red\" Tyler",
-    "target": "Little Richard",
-    "targetId": "4645"
-  },
-  {
-    "source": "Alvin \"Red\" Tyler",
-    "target": "Frank Fields",
-    "targetId": "4646"
-  },
-  {
-    "source": "Alvin \"Red\" Tyler",
-    "target": "Earl Palmer",
-    "targetId": "4647"
-  },
-  {
-    "source": "Alvin \"Red\" Tyler",
-    "target": "Justin Adams",
-    "targetId": "4648"
-  },
-  {
-    "source": "Alvin \"Red\" Tyler",
-    "target": "Huey \"Piano\" Smith",
-    "targetId": "4649"
-  },
-  {
-    "source": "Alvin \"Red\" Tyler",
-    "target": "Lee Allen",
-    "targetId": "4651"
-  }
-]
+{
+  "source": "Alvin \"Red\" Tyler",
+  "targets": [
+    {
+      "name": "Little Richard",
+      "targetId": "4645"
+    },
+    {
+      "name": "Frank Fields",
+      "targetId": "4646"
+    },
+    {
+      "name": "Earl Palmer",
+      "targetId": "4647"
+    },
+    {
+      "name": "Justin Adams",
+      "targetId": "4648"
+    },
+    {
+      "name": "Huey \"Piano\" Smith",
+      "targetId": "4649"
+    },
+    {
+      "name": "Lee Allen",
+      "targetId": "4651"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Curly Russell",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Curly Russell",
-    "target": "Dizzy Gillespie",
-    "targetId": "1928"
-  },
-  {
-    "source": "Curly Russell",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Curly Russell",
-    "target": "Max Roach",
-    "targetId": "2950"
-  },
-  {
-    "source": "Curly Russell",
-    "target": "John Lewis",
-    "targetId": "2954"
-  },
-  {
-    "source": "Curly Russell",
-    "target": "Sadik Hakim",
-    "targetId": "10150"
-  }
-]
+{
+  "source": "Curly Russell",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Dizzy Gillespie",
+      "targetId": "1928"
+    },
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Max Roach",
+      "targetId": "2950"
+    },
+    {
+      "name": "John Lewis",
+      "targetId": "2954"
+    },
+    {
+      "name": "Sadik Hakim",
+      "targetId": "10150"
+    }
+  ]
+}

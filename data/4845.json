@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Chad Smith",
-    "target": "Flea",
-    "targetId": "553"
-  },
-  {
-    "source": "Chad Smith",
-    "target": "Michael Anthony",
-    "targetId": "897"
-  },
-  {
-    "source": "Chad Smith",
-    "target": "Joe Satriani",
-    "targetId": "1286"
-  },
-  {
-    "source": "Chad Smith",
-    "target": "John Frusciante",
-    "targetId": "1726"
-  },
-  {
-    "source": "Chad Smith",
-    "target": "Anthony Kiedis",
-    "targetId": "1728"
-  },
-  {
-    "source": "Chad Smith",
-    "target": "Sammy Hagar",
-    "targetId": "1735"
-  },
-  {
-    "source": "Chad Smith",
-    "target": "Brendan O'Brien",
-    "targetId": "4846"
-  }
-]
+{
+  "source": "Chad Smith",
+  "targets": [
+    {
+      "name": "Flea",
+      "targetId": "553"
+    },
+    {
+      "name": "Michael Anthony",
+      "targetId": "897"
+    },
+    {
+      "name": "Joe Satriani",
+      "targetId": "1286"
+    },
+    {
+      "name": "John Frusciante",
+      "targetId": "1726"
+    },
+    {
+      "name": "Anthony Kiedis",
+      "targetId": "1728"
+    },
+    {
+      "name": "Sammy Hagar",
+      "targetId": "1735"
+    },
+    {
+      "name": "Brendan O'Brien",
+      "targetId": "4846"
+    }
+  ]
+}

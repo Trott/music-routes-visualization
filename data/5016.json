@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Phil Mogg",
-    "target": "Tommy McClendon",
-    "targetId": "5014"
-  },
-  {
-    "source": "Phil Mogg",
-    "target": "Paul Gray",
-    "targetId": "5017"
-  },
-  {
-    "source": "Phil Mogg",
-    "target": "Paul Raymond",
-    "targetId": "5018"
-  },
-  {
-    "source": "Phil Mogg",
-    "target": "Jim Simpson",
-    "targetId": "5019"
-  },
-  {
-    "source": "Phil Mogg",
-    "target": "Michael Schenker",
-    "targetId": "7640"
-  },
-  {
-    "source": "Phil Mogg",
-    "target": "Andy Parker",
-    "targetId": "7649"
-  },
-  {
-    "source": "Phil Mogg",
-    "target": "Pete Way",
-    "targetId": "7650"
-  }
-]
+{
+  "source": "Phil Mogg",
+  "targets": [
+    {
+      "name": "Tommy McClendon",
+      "targetId": "5014"
+    },
+    {
+      "name": "Paul Gray",
+      "targetId": "5017"
+    },
+    {
+      "name": "Paul Raymond",
+      "targetId": "5018"
+    },
+    {
+      "name": "Jim Simpson",
+      "targetId": "5019"
+    },
+    {
+      "name": "Michael Schenker",
+      "targetId": "7640"
+    },
+    {
+      "name": "Andy Parker",
+      "targetId": "7649"
+    },
+    {
+      "name": "Pete Way",
+      "targetId": "7650"
+    }
+  ]
+}

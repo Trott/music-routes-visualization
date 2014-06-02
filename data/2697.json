@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Tim Cappello",
-    "target": "Karen Carpenter",
-    "targetId": "2111"
-  },
-  {
-    "source": "Tim Cappello",
-    "target": "Peter Cetera",
-    "targetId": "2696"
-  }
-]
+{
+  "source": "Tim Cappello",
+  "targets": [
+    {
+      "name": "Karen Carpenter",
+      "targetId": "2111"
+    },
+    {
+      "name": "Peter Cetera",
+      "targetId": "2696"
+    }
+  ]
+}

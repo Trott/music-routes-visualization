@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dean Felber",
-    "target": "David Crosby",
-    "targetId": "511"
-  },
-  {
-    "source": "Dean Felber",
-    "target": "Darius Rucker",
-    "targetId": "6722"
-  },
-  {
-    "source": "Dean Felber",
-    "target": "Jim \"Soni\" Sonefeld",
-    "targetId": "10335"
-  },
-  {
-    "source": "Dean Felber",
-    "target": "Mark Bryan",
-    "targetId": "10337"
-  }
-]
+{
+  "source": "Dean Felber",
+  "targets": [
+    {
+      "name": "David Crosby",
+      "targetId": "511"
+    },
+    {
+      "name": "Darius Rucker",
+      "targetId": "6722"
+    },
+    {
+      "name": "Jim \"Soni\" Sonefeld",
+      "targetId": "10335"
+    },
+    {
+      "name": "Mark Bryan",
+      "targetId": "10337"
+    }
+  ]
+}

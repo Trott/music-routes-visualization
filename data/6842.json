@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ken Stewart",
-    "target": "Terry Hall",
-    "targetId": "3558"
-  },
-  {
-    "source": "Ken Stewart",
-    "target": "Toots Hibbert",
-    "targetId": "6822"
-  },
-  {
-    "source": "Ken Stewart",
-    "target": "U-Roy",
-    "targetId": "6839"
-  },
-  {
-    "source": "Ken Stewart",
-    "target": "Devon James",
-    "targetId": "6840"
-  },
-  {
-    "source": "Ken Stewart",
-    "target": "Lloyd Knibb",
-    "targetId": "6841"
-  }
-]
+{
+  "source": "Ken Stewart",
+  "targets": [
+    {
+      "name": "Terry Hall",
+      "targetId": "3558"
+    },
+    {
+      "name": "Toots Hibbert",
+      "targetId": "6822"
+    },
+    {
+      "name": "U-Roy",
+      "targetId": "6839"
+    },
+    {
+      "name": "Devon James",
+      "targetId": "6840"
+    },
+    {
+      "name": "Lloyd Knibb",
+      "targetId": "6841"
+    }
+  ]
+}

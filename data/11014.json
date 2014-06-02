@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Phalon Jones",
-    "target": "Ben Cauley",
-    "targetId": "3085"
-  },
-  {
-    "source": "Phalon Jones",
-    "target": "Ronnie Caldwell",
-    "targetId": "11015"
-  },
-  {
-    "source": "Phalon Jones",
-    "target": "Jimmy King",
-    "targetId": "11016"
-  },
-  {
-    "source": "Phalon Jones",
-    "target": "James Alexander",
-    "targetId": "11017"
-  },
-  {
-    "source": "Phalon Jones",
-    "target": "Carl Cunningham",
-    "targetId": "11018"
-  }
-]
+{
+  "source": "Phalon Jones",
+  "targets": [
+    {
+      "name": "Ben Cauley",
+      "targetId": "3085"
+    },
+    {
+      "name": "Ronnie Caldwell",
+      "targetId": "11015"
+    },
+    {
+      "name": "Jimmy King",
+      "targetId": "11016"
+    },
+    {
+      "name": "James Alexander",
+      "targetId": "11017"
+    },
+    {
+      "name": "Carl Cunningham",
+      "targetId": "11018"
+    }
+  ]
+}

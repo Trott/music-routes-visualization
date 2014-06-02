@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brian Chippendale",
-    "target": "Hisham Bharoocha",
-    "targetId": "4992"
-  },
-  {
-    "source": "Brian Chippendale",
-    "target": "Brian Gibson",
-    "targetId": "4996"
-  },
-  {
-    "source": "Brian Chippendale",
-    "target": "Matt Brinkman",
-    "targetId": "4998"
-  }
-]
+{
+  "source": "Brian Chippendale",
+  "targets": [
+    {
+      "name": "Hisham Bharoocha",
+      "targetId": "4992"
+    },
+    {
+      "name": "Brian Gibson",
+      "targetId": "4996"
+    },
+    {
+      "name": "Matt Brinkman",
+      "targetId": "4998"
+    }
+  ]
+}

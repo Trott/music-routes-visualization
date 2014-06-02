@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Joey Pesce",
-    "target": "Aimee Mann",
-    "targetId": "181"
-  },
-  {
-    "source": "Joey Pesce",
-    "target": "Michael Hausman",
-    "targetId": "4028"
-  },
-  {
-    "source": "Joey Pesce",
-    "target": "Robert Holmes",
-    "targetId": "4029"
-  }
-]
+{
+  "source": "Joey Pesce",
+  "targets": [
+    {
+      "name": "Aimee Mann",
+      "targetId": "181"
+    },
+    {
+      "name": "Michael Hausman",
+      "targetId": "4028"
+    },
+    {
+      "name": "Robert Holmes",
+      "targetId": "4029"
+    }
+  ]
+}

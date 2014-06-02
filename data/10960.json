@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dee C. Lee",
-    "target": "Paul Weller",
-    "targetId": "113"
-  },
-  {
-    "source": "Dee C. Lee",
-    "target": "Steve White",
-    "targetId": "2065"
-  },
-  {
-    "source": "Dee C. Lee",
-    "target": "Mick Talbot",
-    "targetId": "10959"
-  },
-  {
-    "source": "Dee C. Lee",
-    "target": "Carmelle Hinds",
-    "targetId": "10961"
-  },
-  {
-    "source": "Dee C. Lee",
-    "target": "Chris Lawrence",
-    "targetId": "10962"
-  }
-]
+{
+  "source": "Dee C. Lee",
+  "targets": [
+    {
+      "name": "Paul Weller",
+      "targetId": "113"
+    },
+    {
+      "name": "Steve White",
+      "targetId": "2065"
+    },
+    {
+      "name": "Mick Talbot",
+      "targetId": "10959"
+    },
+    {
+      "name": "Carmelle Hinds",
+      "targetId": "10961"
+    },
+    {
+      "name": "Chris Lawrence",
+      "targetId": "10962"
+    }
+  ]
+}

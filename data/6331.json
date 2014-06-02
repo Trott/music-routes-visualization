@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Howlin' Wolf",
-    "target": "Muddy Waters",
-    "targetId": "89"
-  },
-  {
-    "source": "Howlin' Wolf",
-    "target": "Bo Diddley",
-    "targetId": "6327"
-  }
-]
+{
+  "source": "Howlin' Wolf",
+  "targets": [
+    {
+      "name": "Muddy Waters",
+      "targetId": "89"
+    },
+    {
+      "name": "Bo Diddley",
+      "targetId": "6327"
+    }
+  ]
+}

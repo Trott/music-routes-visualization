@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Allen Ravenstine",
-    "target": "Anton Fier",
-    "targetId": "2771"
-  },
-  {
-    "source": "Allen Ravenstine",
-    "target": "Tony Maimone",
-    "targetId": "2921"
-  },
-  {
-    "source": "Allen Ravenstine",
-    "target": "Mayo Thompson",
-    "targetId": "5238"
-  },
-  {
-    "source": "Allen Ravenstine",
-    "target": "David Thomas",
-    "targetId": "5240"
-  }
-]
+{
+  "source": "Allen Ravenstine",
+  "targets": [
+    {
+      "name": "Anton Fier",
+      "targetId": "2771"
+    },
+    {
+      "name": "Tony Maimone",
+      "targetId": "2921"
+    },
+    {
+      "name": "Mayo Thompson",
+      "targetId": "5238"
+    },
+    {
+      "name": "David Thomas",
+      "targetId": "5240"
+    }
+  ]
+}

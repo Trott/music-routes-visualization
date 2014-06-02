@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Pete Townshend",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Bill Wyman",
-    "targetId": "304"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Carlos Alomar",
-    "targetId": "795"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "George Murray",
-    "targetId": "796"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Dennis Davis",
-    "targetId": "797"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "John \"Rabbit\" Bundrick",
-    "targetId": "1960"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Roger Daltrey",
-    "targetId": "1982"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "John Entwistle",
-    "targetId": "1983"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Dave Arbus",
-    "targetId": "1986"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Charlie Watts",
-    "targetId": "1994"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "John Williams",
-    "targetId": "2700"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Luis Jardim",
-    "targetId": "3684"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Chris Stainton",
-    "targetId": "4149"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Pete Beachill",
-    "targetId": "4481"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Sonny Rollins",
-    "targetId": "4556"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "John Barclay",
-    "targetId": "5150"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Ollie Brown",
-    "targetId": "5664"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Emma Townshend",
-    "targetId": "7039"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Paddy McAloon",
-    "targetId": "7761"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Martin McAloon",
-    "targetId": "7762"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Wendy Smith",
-    "targetId": "7763"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Neil Conti",
-    "targetId": "7764"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Andy Clark",
-    "targetId": "8712"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Charlie Morgan",
-    "targetId": "9679"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "John Lee Hooker",
-    "targetId": "10515"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Chucho Merchan",
-    "targetId": "10516"
-  },
-  {
-    "source": "Pete Townshend",
-    "target": "Simon Townshend",
-    "targetId": "10517"
-  }
-]
+{
+  "source": "Pete Townshend",
+  "targets": [
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Bill Wyman",
+      "targetId": "304"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Carlos Alomar",
+      "targetId": "795"
+    },
+    {
+      "name": "George Murray",
+      "targetId": "796"
+    },
+    {
+      "name": "Dennis Davis",
+      "targetId": "797"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "John \"Rabbit\" Bundrick",
+      "targetId": "1960"
+    },
+    {
+      "name": "Roger Daltrey",
+      "targetId": "1982"
+    },
+    {
+      "name": "John Entwistle",
+      "targetId": "1983"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Dave Arbus",
+      "targetId": "1986"
+    },
+    {
+      "name": "Charlie Watts",
+      "targetId": "1994"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "John Williams",
+      "targetId": "2700"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "Luis Jardim",
+      "targetId": "3684"
+    },
+    {
+      "name": "Chris Stainton",
+      "targetId": "4149"
+    },
+    {
+      "name": "Pete Beachill",
+      "targetId": "4481"
+    },
+    {
+      "name": "Sonny Rollins",
+      "targetId": "4556"
+    },
+    {
+      "name": "John Barclay",
+      "targetId": "5150"
+    },
+    {
+      "name": "Ollie Brown",
+      "targetId": "5664"
+    },
+    {
+      "name": "Emma Townshend",
+      "targetId": "7039"
+    },
+    {
+      "name": "Paddy McAloon",
+      "targetId": "7761"
+    },
+    {
+      "name": "Martin McAloon",
+      "targetId": "7762"
+    },
+    {
+      "name": "Wendy Smith",
+      "targetId": "7763"
+    },
+    {
+      "name": "Neil Conti",
+      "targetId": "7764"
+    },
+    {
+      "name": "Andy Clark",
+      "targetId": "8712"
+    },
+    {
+      "name": "Charlie Morgan",
+      "targetId": "9679"
+    },
+    {
+      "name": "John Lee Hooker",
+      "targetId": "10515"
+    },
+    {
+      "name": "Chucho Merchan",
+      "targetId": "10516"
+    },
+    {
+      "name": "Simon Townshend",
+      "targetId": "10517"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Janne Westerlund",
-    "target": "Bruce Duff",
-    "targetId": "4913"
-  },
-  {
-    "source": "Janne Westerlund",
-    "target": "Jussi Lehtisalo",
-    "targetId": "4916"
-  },
-  {
-    "source": "Janne Westerlund",
-    "target": "Tomi Leppänen",
-    "targetId": "4917"
-  },
-  {
-    "source": "Janne Westerlund",
-    "target": "Make Rättö",
-    "targetId": "4919"
-  }
-]
+{
+  "source": "Janne Westerlund",
+  "targets": [
+    {
+      "name": "Bruce Duff",
+      "targetId": "4913"
+    },
+    {
+      "name": "Jussi Lehtisalo",
+      "targetId": "4916"
+    },
+    {
+      "name": "Tomi Leppänen",
+      "targetId": "4917"
+    },
+    {
+      "name": "Make Rättö",
+      "targetId": "4919"
+    }
+  ]
+}

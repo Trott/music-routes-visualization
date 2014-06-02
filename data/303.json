@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Bonham",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "John Bonham",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "John Bonham",
-    "target": "John Paul Jones",
-    "targetId": "302"
-  },
-  {
-    "source": "John Bonham",
-    "target": "Kevin Gammond",
-    "targetId": "3729"
-  },
-  {
-    "source": "John Bonham",
-    "target": "Chris Brown",
-    "targetId": "3730"
-  },
-  {
-    "source": "John Bonham",
-    "target": "Paul Lockie",
-    "targetId": "3731"
-  },
-  {
-    "source": "John Bonham",
-    "target": "Sandy Denny",
-    "targetId": "7998"
-  }
-]
+{
+  "source": "John Bonham",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "John Paul Jones",
+      "targetId": "302"
+    },
+    {
+      "name": "Kevin Gammond",
+      "targetId": "3729"
+    },
+    {
+      "name": "Chris Brown",
+      "targetId": "3730"
+    },
+    {
+      "name": "Paul Lockie",
+      "targetId": "3731"
+    },
+    {
+      "name": "Sandy Denny",
+      "targetId": "7998"
+    }
+  ]
+}

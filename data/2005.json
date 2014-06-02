@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Clare Torry",
-    "target": "David Gilmour",
-    "targetId": "275"
-  },
-  {
-    "source": "Clare Torry",
-    "target": "Nick Mason",
-    "targetId": "2001"
-  },
-  {
-    "source": "Clare Torry",
-    "target": "Richard Wright",
-    "targetId": "2002"
-  },
-  {
-    "source": "Clare Torry",
-    "target": "Roger Waters",
-    "targetId": "2003"
-  }
-]
+{
+  "source": "Clare Torry",
+  "targets": [
+    {
+      "name": "David Gilmour",
+      "targetId": "275"
+    },
+    {
+      "name": "Nick Mason",
+      "targetId": "2001"
+    },
+    {
+      "name": "Richard Wright",
+      "targetId": "2002"
+    },
+    {
+      "name": "Roger Waters",
+      "targetId": "2003"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Billy Higgins",
-    "target": "Charlie Haden",
-    "targetId": "1062"
-  },
-  {
-    "source": "Billy Higgins",
-    "target": "Don Cherry",
-    "targetId": "4590"
-  },
-  {
-    "source": "Billy Higgins",
-    "target": "Ornette Coleman",
-    "targetId": "10762"
-  }
-]
+{
+  "source": "Billy Higgins",
+  "targets": [
+    {
+      "name": "Charlie Haden",
+      "targetId": "1062"
+    },
+    {
+      "name": "Don Cherry",
+      "targetId": "4590"
+    },
+    {
+      "name": "Ornette Coleman",
+      "targetId": "10762"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ne-Yo",
-    "target": "Kanye West",
-    "targetId": "4031"
-  },
-  {
-    "source": "Ne-Yo",
-    "target": "Flo Rida",
-    "targetId": "6002"
-  },
-  {
-    "source": "Ne-Yo",
-    "target": "T-Pain",
-    "targetId": "6004"
-  },
-  {
-    "source": "Ne-Yo",
-    "target": "John Legend",
-    "targetId": "6204"
-  }
-]
+{
+  "source": "Ne-Yo",
+  "targets": [
+    {
+      "name": "Kanye West",
+      "targetId": "4031"
+    },
+    {
+      "name": "Flo Rida",
+      "targetId": "6002"
+    },
+    {
+      "name": "T-Pain",
+      "targetId": "6004"
+    },
+    {
+      "name": "John Legend",
+      "targetId": "6204"
+    }
+  ]
+}

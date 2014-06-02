@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Butler",
-    "target": "Henry Rollins",
-    "targetId": "185"
-  },
-  {
-    "source": "Butler",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Butler",
-    "target": "Wayne Griffin",
-    "targetId": "775"
-  }
-]
+{
+  "source": "Butler",
+  "targets": [
+    {
+      "name": "Henry Rollins",
+      "targetId": "185"
+    },
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Wayne Griffin",
+      "targetId": "775"
+    }
+  ]
+}

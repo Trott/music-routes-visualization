@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Rodby",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Steve Rodby",
-    "target": "Pat Metheny",
-    "targetId": "5554"
-  },
-  {
-    "source": "Steve Rodby",
-    "target": "Lyle Mays",
-    "targetId": "5555"
-  },
-  {
-    "source": "Steve Rodby",
-    "target": "Paul Wertico",
-    "targetId": "5557"
-  }
-]
+{
+  "source": "Steve Rodby",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Pat Metheny",
+      "targetId": "5554"
+    },
+    {
+      "name": "Lyle Mays",
+      "targetId": "5555"
+    },
+    {
+      "name": "Paul Wertico",
+      "targetId": "5557"
+    }
+  ]
+}

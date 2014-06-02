@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Cafiero",
-    "target": "Dez Cadena",
-    "targetId": "1625"
-  },
-  {
-    "source": "John Cafiero",
-    "target": "Jerry Only",
-    "targetId": "2105"
-  },
-  {
-    "source": "John Cafiero",
-    "target": "Ivan Julian",
-    "targetId": "2106"
-  },
-  {
-    "source": "John Cafiero",
-    "target": "Marky Ramone",
-    "targetId": "2107"
-  }
-]
+{
+  "source": "John Cafiero",
+  "targets": [
+    {
+      "name": "Dez Cadena",
+      "targetId": "1625"
+    },
+    {
+      "name": "Jerry Only",
+      "targetId": "2105"
+    },
+    {
+      "name": "Ivan Julian",
+      "targetId": "2106"
+    },
+    {
+      "name": "Marky Ramone",
+      "targetId": "2107"
+    }
+  ]
+}

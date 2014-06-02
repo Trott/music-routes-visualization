@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Terese Taylor",
-    "target": "Michael Mullen",
-    "targetId": "19"
-  },
-  {
-    "source": "Terese Taylor",
-    "target": "Adam Klein",
-    "targetId": "20"
-  },
-  {
-    "source": "Terese Taylor",
-    "target": "Glen Swarts",
-    "targetId": "510"
-  },
-  {
-    "source": "Terese Taylor",
-    "target": "Tim Mooney",
-    "targetId": "1001"
-  },
-  {
-    "source": "Terese Taylor",
-    "target": "Mike Carnahan",
-    "targetId": "9275"
-  },
-  {
-    "source": "Terese Taylor",
-    "target": "Guillermo Gómez-Peña",
-    "targetId": "9278"
-  }
-]
+{
+  "source": "Terese Taylor",
+  "targets": [
+    {
+      "name": "Michael Mullen",
+      "targetId": "19"
+    },
+    {
+      "name": "Adam Klein",
+      "targetId": "20"
+    },
+    {
+      "name": "Glen Swarts",
+      "targetId": "510"
+    },
+    {
+      "name": "Tim Mooney",
+      "targetId": "1001"
+    },
+    {
+      "name": "Mike Carnahan",
+      "targetId": "9275"
+    },
+    {
+      "name": "Guillermo Gómez-Peña",
+      "targetId": "9278"
+    }
+  ]
+}

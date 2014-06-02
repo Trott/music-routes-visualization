@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Randy Rhoads",
-    "target": "Kevin DuBrow",
-    "targetId": "144"
-  },
-  {
-    "source": "Randy Rhoads",
-    "target": "Bob Daisley",
-    "targetId": "315"
-  },
-  {
-    "source": "Randy Rhoads",
-    "target": "Ozzy Osbourne",
-    "targetId": "482"
-  },
-  {
-    "source": "Randy Rhoads",
-    "target": "Lee Kerslake",
-    "targetId": "484"
-  },
-  {
-    "source": "Randy Rhoads",
-    "target": "Kelly Garni",
-    "targetId": "745"
-  },
-  {
-    "source": "Randy Rhoads",
-    "target": "Drew Forsyth",
-    "targetId": "746"
-  }
-]
+{
+  "source": "Randy Rhoads",
+  "targets": [
+    {
+      "name": "Kevin DuBrow",
+      "targetId": "144"
+    },
+    {
+      "name": "Bob Daisley",
+      "targetId": "315"
+    },
+    {
+      "name": "Ozzy Osbourne",
+      "targetId": "482"
+    },
+    {
+      "name": "Lee Kerslake",
+      "targetId": "484"
+    },
+    {
+      "name": "Kelly Garni",
+      "targetId": "745"
+    },
+    {
+      "name": "Drew Forsyth",
+      "targetId": "746"
+    }
+  ]
+}

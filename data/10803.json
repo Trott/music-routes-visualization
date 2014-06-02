@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Marty Mattern",
-    "target": "Ann Yu",
-    "targetId": "10797"
-  },
-  {
-    "source": "Marty Mattern",
-    "target": "David Farrell",
-    "targetId": "10799"
-  },
-  {
-    "source": "Marty Mattern",
-    "target": "Eric Amerman",
-    "targetId": "10802"
-  },
-  {
-    "source": "Marty Mattern",
-    "target": "Fred Gray",
-    "targetId": "10804"
-  },
-  {
-    "source": "Marty Mattern",
-    "target": "Andy Runyon",
-    "targetId": "10805"
-  }
-]
+{
+  "source": "Marty Mattern",
+  "targets": [
+    {
+      "name": "Ann Yu",
+      "targetId": "10797"
+    },
+    {
+      "name": "David Farrell",
+      "targetId": "10799"
+    },
+    {
+      "name": "Eric Amerman",
+      "targetId": "10802"
+    },
+    {
+      "name": "Fred Gray",
+      "targetId": "10804"
+    },
+    {
+      "name": "Andy Runyon",
+      "targetId": "10805"
+    }
+  ]
+}

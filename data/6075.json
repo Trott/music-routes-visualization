@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sylvain Sylvain",
-    "target": "Johnny Thunders",
-    "targetId": "5254"
-  },
-  {
-    "source": "Sylvain Sylvain",
-    "target": "David Johansen",
-    "targetId": "6074"
-  },
-  {
-    "source": "Sylvain Sylvain",
-    "target": "Arthur \"Killer\" Kane",
-    "targetId": "6076"
-  },
-  {
-    "source": "Sylvain Sylvain",
-    "target": "Jerry Nolan",
-    "targetId": "6077"
-  }
-]
+{
+  "source": "Sylvain Sylvain",
+  "targets": [
+    {
+      "name": "Johnny Thunders",
+      "targetId": "5254"
+    },
+    {
+      "name": "David Johansen",
+      "targetId": "6074"
+    },
+    {
+      "name": "Arthur \"Killer\" Kane",
+      "targetId": "6076"
+    },
+    {
+      "name": "Jerry Nolan",
+      "targetId": "6077"
+    }
+  ]
+}

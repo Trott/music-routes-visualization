@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Patty Schemel",
-    "target": "Pat Smear",
-    "targetId": "784"
-  },
-  {
-    "source": "Patty Schemel",
-    "target": "Eric Erlandson",
-    "targetId": "5346"
-  },
-  {
-    "source": "Patty Schemel",
-    "target": "Courtney Love",
-    "targetId": "5347"
-  }
-]
+{
+  "source": "Patty Schemel",
+  "targets": [
+    {
+      "name": "Pat Smear",
+      "targetId": "784"
+    },
+    {
+      "name": "Eric Erlandson",
+      "targetId": "5346"
+    },
+    {
+      "name": "Courtney Love",
+      "targetId": "5347"
+    }
+  ]
+}

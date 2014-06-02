@@ -1,57 +1,49 @@
-[
-  {
-    "source": "John Giblin",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Kate Bush",
-    "targetId": "2197"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Andrew Fairweather-Low",
-    "targetId": "3184"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Tommy Eyre",
-    "targetId": "3190"
-  },
-  {
-    "source": "John Giblin",
-    "target": "John Martyn",
-    "targetId": "8311"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Dave Lawson",
-    "targetId": "8313"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Del Palmer",
-    "targetId": "10728"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Dan McIntosh",
-    "targetId": "10729"
-  },
-  {
-    "source": "John Giblin",
-    "target": "Stephen Fry",
-    "targetId": "10732"
-  }
-]
+{
+  "source": "John Giblin",
+  "targets": [
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Kate Bush",
+      "targetId": "2197"
+    },
+    {
+      "name": "Andrew Fairweather-Low",
+      "targetId": "3184"
+    },
+    {
+      "name": "Tommy Eyre",
+      "targetId": "3190"
+    },
+    {
+      "name": "John Martyn",
+      "targetId": "8311"
+    },
+    {
+      "name": "Dave Lawson",
+      "targetId": "8313"
+    },
+    {
+      "name": "Del Palmer",
+      "targetId": "10728"
+    },
+    {
+      "name": "Dan McIntosh",
+      "targetId": "10729"
+    },
+    {
+      "name": "Stephen Fry",
+      "targetId": "10732"
+    }
+  ]
+}

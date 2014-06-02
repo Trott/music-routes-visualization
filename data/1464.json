@@ -1,32 +1,29 @@
-[
-  {
-    "source": "William Murderface",
-    "target": "Gene Hoglan",
-    "targetId": "1457"
-  },
-  {
-    "source": "William Murderface",
-    "target": "Pickles",
-    "targetId": "1465"
-  },
-  {
-    "source": "William Murderface",
-    "target": "Skwisgaar Skwigelf",
-    "targetId": "1466"
-  },
-  {
-    "source": "William Murderface",
-    "target": "Toki Wartooth",
-    "targetId": "1467"
-  },
-  {
-    "source": "William Murderface",
-    "target": "Nathan Explosion",
-    "targetId": "1468"
-  },
-  {
-    "source": "William Murderface",
-    "target": "Brendon Small",
-    "targetId": "1469"
-  }
-]
+{
+  "source": "William Murderface",
+  "targets": [
+    {
+      "name": "Gene Hoglan",
+      "targetId": "1457"
+    },
+    {
+      "name": "Pickles",
+      "targetId": "1465"
+    },
+    {
+      "name": "Skwisgaar Skwigelf",
+      "targetId": "1466"
+    },
+    {
+      "name": "Toki Wartooth",
+      "targetId": "1467"
+    },
+    {
+      "name": "Nathan Explosion",
+      "targetId": "1468"
+    },
+    {
+      "name": "Brendon Small",
+      "targetId": "1469"
+    }
+  ]
+}

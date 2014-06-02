@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ian O'Sullivan",
-    "target": "Jason Hobart",
-    "targetId": "9357"
-  },
-  {
-    "source": "Ian O'Sullivan",
-    "target": "Gary Pietronave",
-    "targetId": "9358"
-  },
-  {
-    "source": "Ian O'Sullivan",
-    "target": "Mark Pietronave",
-    "targetId": "9359"
-  }
-]
+{
+  "source": "Ian O'Sullivan",
+  "targets": [
+    {
+      "name": "Jason Hobart",
+      "targetId": "9357"
+    },
+    {
+      "name": "Gary Pietronave",
+      "targetId": "9358"
+    },
+    {
+      "name": "Mark Pietronave",
+      "targetId": "9359"
+    }
+  ]
+}

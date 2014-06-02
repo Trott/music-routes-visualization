@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Green Gartside",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Green Gartside",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Green Gartside",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Green Gartside",
-    "target": "Gary Barnacle",
-    "targetId": "4499"
-  },
-  {
-    "source": "Green Gartside",
-    "target": "Bruce Thomas",
-    "targetId": "7277"
-  }
-]
+{
+  "source": "Green Gartside",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Gary Barnacle",
+      "targetId": "4499"
+    },
+    {
+      "name": "Bruce Thomas",
+      "targetId": "7277"
+    }
+  ]
+}

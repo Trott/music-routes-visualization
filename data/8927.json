@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Robert Calvert",
-    "target": "Simon King",
-    "targetId": "566"
-  },
-  {
-    "source": "Robert Calvert",
-    "target": "Lemmy Kilmister",
-    "targetId": "2550"
-  },
-  {
-    "source": "Robert Calvert",
-    "target": "Nik Turner",
-    "targetId": "4466"
-  },
-  {
-    "source": "Robert Calvert",
-    "target": "Del Dettmar",
-    "targetId": "4469"
-  },
-  {
-    "source": "Robert Calvert",
-    "target": "Dave Brock",
-    "targetId": "4470"
-  }
-]
+{
+  "source": "Robert Calvert",
+  "targets": [
+    {
+      "name": "Simon King",
+      "targetId": "566"
+    },
+    {
+      "name": "Lemmy Kilmister",
+      "targetId": "2550"
+    },
+    {
+      "name": "Nik Turner",
+      "targetId": "4466"
+    },
+    {
+      "name": "Del Dettmar",
+      "targetId": "4469"
+    },
+    {
+      "name": "Dave Brock",
+      "targetId": "4470"
+    }
+  ]
+}

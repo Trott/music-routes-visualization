@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Scott Marshall",
-    "target": "Matt Sweeney",
-    "targetId": "220"
-  },
-  {
-    "source": "Scott Marshall",
-    "target": "James Lo",
-    "targetId": "5638"
-  },
-  {
-    "source": "Scott Marshall",
-    "target": "Clay Tarver",
-    "targetId": "5643"
-  }
-]
+{
+  "source": "Scott Marshall",
+  "targets": [
+    {
+      "name": "Matt Sweeney",
+      "targetId": "220"
+    },
+    {
+      "name": "James Lo",
+      "targetId": "5638"
+    },
+    {
+      "name": "Clay Tarver",
+      "targetId": "5643"
+    }
+  ]
+}

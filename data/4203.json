@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jay Beckenstein",
-    "target": "Derek Sherinian",
-    "targetId": "4194"
-  },
-  {
-    "source": "Jay Beckenstein",
-    "target": "John Myung",
-    "targetId": "4199"
-  },
-  {
-    "source": "Jay Beckenstein",
-    "target": "Mike Portnoy",
-    "targetId": "4200"
-  },
-  {
-    "source": "Jay Beckenstein",
-    "target": "John Petrucci",
-    "targetId": "4201"
-  },
-  {
-    "source": "Jay Beckenstein",
-    "target": "James LaBrie",
-    "targetId": "4202"
-  }
-]
+{
+  "source": "Jay Beckenstein",
+  "targets": [
+    {
+      "name": "Derek Sherinian",
+      "targetId": "4194"
+    },
+    {
+      "name": "John Myung",
+      "targetId": "4199"
+    },
+    {
+      "name": "Mike Portnoy",
+      "targetId": "4200"
+    },
+    {
+      "name": "John Petrucci",
+      "targetId": "4201"
+    },
+    {
+      "name": "James LaBrie",
+      "targetId": "4202"
+    }
+  ]
+}

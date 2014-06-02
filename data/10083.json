@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ginger Blake",
-    "target": "Mike Love",
-    "targetId": "1477"
-  },
-  {
-    "source": "Ginger Blake",
-    "target": "Marilyn Rovell",
-    "targetId": "10081"
-  },
-  {
-    "source": "Ginger Blake",
-    "target": "Diane Rovell",
-    "targetId": "10082"
-  }
-]
+{
+  "source": "Ginger Blake",
+  "targets": [
+    {
+      "name": "Mike Love",
+      "targetId": "1477"
+    },
+    {
+      "name": "Marilyn Rovell",
+      "targetId": "10081"
+    },
+    {
+      "name": "Diane Rovell",
+      "targetId": "10082"
+    }
+  ]
+}

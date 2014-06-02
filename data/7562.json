@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Ashton",
-    "target": "Matt Helders",
-    "targetId": "7558"
-  },
-  {
-    "source": "John Ashton",
-    "target": "Alex Turner",
-    "targetId": "7559"
-  },
-  {
-    "source": "John Ashton",
-    "target": "Jamie Cook",
-    "targetId": "7560"
-  },
-  {
-    "source": "John Ashton",
-    "target": "Nick O'Malley",
-    "targetId": "7561"
-  }
-]
+{
+  "source": "John Ashton",
+  "targets": [
+    {
+      "name": "Matt Helders",
+      "targetId": "7558"
+    },
+    {
+      "name": "Alex Turner",
+      "targetId": "7559"
+    },
+    {
+      "name": "Jamie Cook",
+      "targetId": "7560"
+    },
+    {
+      "name": "Nick O'Malley",
+      "targetId": "7561"
+    }
+  ]
+}

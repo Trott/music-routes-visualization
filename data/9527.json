@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Fritz Van Orden",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Fritz Van Orden",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Fritz Van Orden",
-    "target": "Garo Yellin",
-    "targetId": "3691"
-  },
-  {
-    "source": "Fritz Van Orden",
-    "target": "Robin Casey",
-    "targetId": "9526"
-  },
-  {
-    "source": "Fritz Van Orden",
-    "target": "Benjamin Bossi",
-    "targetId": "9528"
-  },
-  {
-    "source": "Fritz Van Orden",
-    "target": "Barbara Schloss",
-    "targetId": "9529"
-  }
-]
+{
+  "source": "Fritz Van Orden",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Garo Yellin",
+      "targetId": "3691"
+    },
+    {
+      "name": "Robin Casey",
+      "targetId": "9526"
+    },
+    {
+      "name": "Benjamin Bossi",
+      "targetId": "9528"
+    },
+    {
+      "name": "Barbara Schloss",
+      "targetId": "9529"
+    }
+  ]
+}

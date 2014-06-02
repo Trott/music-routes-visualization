@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Greg Wells",
-    "target": "Dan Higgins",
-    "targetId": "1080"
-  },
-  {
-    "source": "Greg Wells",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Greg Wells",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Greg Wells",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "Greg Wells",
-    "target": "Katy Perry",
-    "targetId": "6947"
-  }
-]
+{
+  "source": "Greg Wells",
+  "targets": [
+    {
+      "name": "Dan Higgins",
+      "targetId": "1080"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Katy Perry",
+      "targetId": "6947"
+    }
+  ]
+}

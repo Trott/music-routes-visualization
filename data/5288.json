@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Shona Brown",
-    "target": "John Cummings",
-    "targetId": "5198"
-  },
-  {
-    "source": "Shona Brown",
-    "target": "Stuart Braithwaite",
-    "targetId": "5200"
-  },
-  {
-    "source": "Shona Brown",
-    "target": "Martin Bulloch",
-    "targetId": "5201"
-  },
-  {
-    "source": "Shona Brown",
-    "target": "Dominic Aitchison",
-    "targetId": "5202"
-  },
-  {
-    "source": "Shona Brown",
-    "target": "Brendan O'Hare",
-    "targetId": "5285"
-  }
-]
+{
+  "source": "Shona Brown",
+  "targets": [
+    {
+      "name": "John Cummings",
+      "targetId": "5198"
+    },
+    {
+      "name": "Stuart Braithwaite",
+      "targetId": "5200"
+    },
+    {
+      "name": "Martin Bulloch",
+      "targetId": "5201"
+    },
+    {
+      "name": "Dominic Aitchison",
+      "targetId": "5202"
+    },
+    {
+      "name": "Brendan O'Hare",
+      "targetId": "5285"
+    }
+  ]
+}

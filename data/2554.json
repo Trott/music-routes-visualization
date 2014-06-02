@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Lisa Coleman",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Lisa Coleman",
-    "target": "Dez Dickerson",
-    "targetId": "2553"
-  },
-  {
-    "source": "Lisa Coleman",
-    "target": "Jill Jones",
-    "targetId": "2555"
-  }
-]
+{
+  "source": "Lisa Coleman",
+  "targets": [
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Dez Dickerson",
+      "targetId": "2553"
+    },
+    {
+      "name": "Jill Jones",
+      "targetId": "2555"
+    }
+  ]
+}

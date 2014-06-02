@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mark McEntee",
-    "target": "Randy Jackson",
-    "targetId": "59"
-  },
-  {
-    "source": "Mark McEntee",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Mark McEntee",
-    "target": "Brian MacLeod",
-    "targetId": "1025"
-  },
-  {
-    "source": "Mark McEntee",
-    "target": "Christina Amphlett",
-    "targetId": "5832"
-  },
-  {
-    "source": "Mark McEntee",
-    "target": "Charley Drayton",
-    "targetId": "5834"
-  },
-  {
-    "source": "Mark McEntee",
-    "target": "Scott Crago",
-    "targetId": "5835"
-  }
-]
+{
+  "source": "Mark McEntee",
+  "targets": [
+    {
+      "name": "Randy Jackson",
+      "targetId": "59"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Brian MacLeod",
+      "targetId": "1025"
+    },
+    {
+      "name": "Christina Amphlett",
+      "targetId": "5832"
+    },
+    {
+      "name": "Charley Drayton",
+      "targetId": "5834"
+    },
+    {
+      "name": "Scott Crago",
+      "targetId": "5835"
+    }
+  ]
+}

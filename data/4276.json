@@ -1,197 +1,161 @@
-[
-  {
-    "source": "Tommy Johnson",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Chuck Findley",
-    "targetId": "397"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Oscar Brashear",
-    "targetId": "431"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Jack Nimitz",
-    "targetId": "436"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Dan Higgins",
-    "targetId": "1080"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Kim Hutchcroft",
-    "targetId": "1324"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Siedah Garrett",
-    "targetId": "2081"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Kirk Whalum",
-    "targetId": "2082"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Michael Thompson",
-    "targetId": "2262"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Richard Todd",
-    "targetId": "2307"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Neil Stubenhaus",
-    "targetId": "2440"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Melvin \"Wah Wah\" Watson",
-    "targetId": "3402"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "George Bohanon",
-    "targetId": "3415"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Charles Loper",
-    "targetId": "4222"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Reggie Young",
-    "targetId": "4223"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Pete Christlieb",
-    "targetId": "4224"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Fred Jackson",
-    "targetId": "4225"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Jeff Clayton",
-    "targetId": "4226"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Sekou Bunch",
-    "targetId": "4228"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Patti Austin",
-    "targetId": "4229"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Joshua Redman",
-    "targetId": "4232"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Brandy",
-    "targetId": "4240"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Mervyn Warren",
-    "targetId": "4247"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Will Wheaton",
-    "targetId": "4251"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Chaka Khan",
-    "targetId": "4269"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Charlie Wilson",
-    "targetId": "4270"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Gregory Williams",
-    "targetId": "4273"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Brad Warnaar",
-    "targetId": "4274"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Bob Watt",
-    "targetId": "4275"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Nickolas Ashford",
-    "targetId": "4284"
-  },
-  {
-    "source": "Tommy Johnson",
-    "target": "Valerie Simpson",
-    "targetId": "4285"
-  }
-]
+{
+  "source": "Tommy Johnson",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Chuck Findley",
+      "targetId": "397"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Oscar Brashear",
+      "targetId": "431"
+    },
+    {
+      "name": "Jack Nimitz",
+      "targetId": "436"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Dan Higgins",
+      "targetId": "1080"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Kim Hutchcroft",
+      "targetId": "1324"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Siedah Garrett",
+      "targetId": "2081"
+    },
+    {
+      "name": "Kirk Whalum",
+      "targetId": "2082"
+    },
+    {
+      "name": "Michael Thompson",
+      "targetId": "2262"
+    },
+    {
+      "name": "Richard Todd",
+      "targetId": "2307"
+    },
+    {
+      "name": "Neil Stubenhaus",
+      "targetId": "2440"
+    },
+    {
+      "name": "Melvin \"Wah Wah\" Watson",
+      "targetId": "3402"
+    },
+    {
+      "name": "George Bohanon",
+      "targetId": "3415"
+    },
+    {
+      "name": "Charles Loper",
+      "targetId": "4222"
+    },
+    {
+      "name": "Reggie Young",
+      "targetId": "4223"
+    },
+    {
+      "name": "Pete Christlieb",
+      "targetId": "4224"
+    },
+    {
+      "name": "Fred Jackson",
+      "targetId": "4225"
+    },
+    {
+      "name": "Jeff Clayton",
+      "targetId": "4226"
+    },
+    {
+      "name": "Sekou Bunch",
+      "targetId": "4228"
+    },
+    {
+      "name": "Patti Austin",
+      "targetId": "4229"
+    },
+    {
+      "name": "Joshua Redman",
+      "targetId": "4232"
+    },
+    {
+      "name": "Brandy",
+      "targetId": "4240"
+    },
+    {
+      "name": "Mervyn Warren",
+      "targetId": "4247"
+    },
+    {
+      "name": "Will Wheaton",
+      "targetId": "4251"
+    },
+    {
+      "name": "Chaka Khan",
+      "targetId": "4269"
+    },
+    {
+      "name": "Charlie Wilson",
+      "targetId": "4270"
+    },
+    {
+      "name": "Gregory Williams",
+      "targetId": "4273"
+    },
+    {
+      "name": "Brad Warnaar",
+      "targetId": "4274"
+    },
+    {
+      "name": "Bob Watt",
+      "targetId": "4275"
+    },
+    {
+      "name": "Nickolas Ashford",
+      "targetId": "4284"
+    },
+    {
+      "name": "Valerie Simpson",
+      "targetId": "4285"
+    }
+  ]
+}

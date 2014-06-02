@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Billy Liebert",
-    "target": "Loretta Lynn",
-    "targetId": "244"
-  },
-  {
-    "source": "Billy Liebert",
-    "target": "Speedy West",
-    "targetId": "247"
-  },
-  {
-    "source": "Billy Liebert",
-    "target": "Roy Lanham",
-    "targetId": "248"
-  },
-  {
-    "source": "Billy Liebert",
-    "target": "Harold Hensley",
-    "targetId": "249"
-  },
-  {
-    "source": "Billy Liebert",
-    "target": "Roy Harte",
-    "targetId": "250"
-  }
-]
+{
+  "source": "Billy Liebert",
+  "targets": [
+    {
+      "name": "Loretta Lynn",
+      "targetId": "244"
+    },
+    {
+      "name": "Speedy West",
+      "targetId": "247"
+    },
+    {
+      "name": "Roy Lanham",
+      "targetId": "248"
+    },
+    {
+      "name": "Harold Hensley",
+      "targetId": "249"
+    },
+    {
+      "name": "Roy Harte",
+      "targetId": "250"
+    }
+  ]
+}

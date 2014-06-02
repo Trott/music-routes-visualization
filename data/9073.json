@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Peter Yates",
-    "target": "Carl McCoy",
-    "targetId": "9069"
-  },
-  {
-    "source": "Peter Yates",
-    "target": "Nod Wright",
-    "targetId": "9070"
-  },
-  {
-    "source": "Peter Yates",
-    "target": "Paul Wright",
-    "targetId": "9071"
-  },
-  {
-    "source": "Peter Yates",
-    "target": "Tony Pettitt",
-    "targetId": "9072"
-  }
-]
+{
+  "source": "Peter Yates",
+  "targets": [
+    {
+      "name": "Carl McCoy",
+      "targetId": "9069"
+    },
+    {
+      "name": "Nod Wright",
+      "targetId": "9070"
+    },
+    {
+      "name": "Paul Wright",
+      "targetId": "9071"
+    },
+    {
+      "name": "Tony Pettitt",
+      "targetId": "9072"
+    }
+  ]
+}

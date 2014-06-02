@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "John Goux",
-    "targetId": "420"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Leland Sklar",
-    "targetId": "421"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Sheryl Crow",
-    "targetId": "1018"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Larry Corbett",
-    "targetId": "1040"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Charlie Bisharat",
-    "targetId": "1042"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Joel Derouin",
-    "targetId": "1043"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "John Shanks",
-    "targetId": "1063"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Tim Pierce",
-    "targetId": "1718"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Tim Landauer",
-    "targetId": "2231"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Anatoli Rosinsky",
-    "targetId": "2318"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Armen Garabedian",
-    "targetId": "2319"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Sara Parkins",
-    "targetId": "4215"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Lady Gaga",
-    "targetId": "5809"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Bruce Dukov",
-    "targetId": "6101"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Paul Bushnell",
-    "targetId": "6113"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Michael Sherwood",
-    "targetId": "6280"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Avril Lavigne",
-    "targetId": "6292"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Greg Suran",
-    "targetId": "6298"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Natalie Leggett",
-    "targetId": "8538"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Mario De Leon",
-    "targetId": "8542"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Lisa Loeb",
-    "targetId": "8844"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Tiffany Yi Hu",
-    "targetId": "8852"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Endra Granat",
-    "targetId": "8854"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Pamela Goldsmith",
-    "targetId": "8858"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Steve Erdody",
-    "targetId": "8859"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Joe Travers",
-    "targetId": "8860"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Steve Forman",
-    "targetId": "8861"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Jackie Brand",
-    "targetId": "8862"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Marlow Fisher",
-    "targetId": "8863"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Simon Oswell",
-    "targetId": "8864"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Alan Grunfeld",
-    "targetId": "8865"
-  },
-  {
-    "source": "Abe Laboriel, Jr.",
-    "target": "Tal Herzberg",
-    "targetId": "9579"
-  }
-]
+{
+  "source": "Abe Laboriel, Jr.",
+  "targets": [
+    {
+      "name": "John Goux",
+      "targetId": "420"
+    },
+    {
+      "name": "Leland Sklar",
+      "targetId": "421"
+    },
+    {
+      "name": "Sheryl Crow",
+      "targetId": "1018"
+    },
+    {
+      "name": "Larry Corbett",
+      "targetId": "1040"
+    },
+    {
+      "name": "Charlie Bisharat",
+      "targetId": "1042"
+    },
+    {
+      "name": "Joel Derouin",
+      "targetId": "1043"
+    },
+    {
+      "name": "John Shanks",
+      "targetId": "1063"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Tim Pierce",
+      "targetId": "1718"
+    },
+    {
+      "name": "Tim Landauer",
+      "targetId": "2231"
+    },
+    {
+      "name": "Anatoli Rosinsky",
+      "targetId": "2318"
+    },
+    {
+      "name": "Armen Garabedian",
+      "targetId": "2319"
+    },
+    {
+      "name": "Sara Parkins",
+      "targetId": "4215"
+    },
+    {
+      "name": "Lady Gaga",
+      "targetId": "5809"
+    },
+    {
+      "name": "Bruce Dukov",
+      "targetId": "6101"
+    },
+    {
+      "name": "Paul Bushnell",
+      "targetId": "6113"
+    },
+    {
+      "name": "Michael Sherwood",
+      "targetId": "6280"
+    },
+    {
+      "name": "Avril Lavigne",
+      "targetId": "6292"
+    },
+    {
+      "name": "Greg Suran",
+      "targetId": "6298"
+    },
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Natalie Leggett",
+      "targetId": "8538"
+    },
+    {
+      "name": "Mario De Leon",
+      "targetId": "8542"
+    },
+    {
+      "name": "Lisa Loeb",
+      "targetId": "8844"
+    },
+    {
+      "name": "Tiffany Yi Hu",
+      "targetId": "8852"
+    },
+    {
+      "name": "Endra Granat",
+      "targetId": "8854"
+    },
+    {
+      "name": "Pamela Goldsmith",
+      "targetId": "8858"
+    },
+    {
+      "name": "Steve Erdody",
+      "targetId": "8859"
+    },
+    {
+      "name": "Joe Travers",
+      "targetId": "8860"
+    },
+    {
+      "name": "Steve Forman",
+      "targetId": "8861"
+    },
+    {
+      "name": "Jackie Brand",
+      "targetId": "8862"
+    },
+    {
+      "name": "Marlow Fisher",
+      "targetId": "8863"
+    },
+    {
+      "name": "Simon Oswell",
+      "targetId": "8864"
+    },
+    {
+      "name": "Alan Grunfeld",
+      "targetId": "8865"
+    },
+    {
+      "name": "Tal Herzberg",
+      "targetId": "9579"
+    }
+  ]
+}

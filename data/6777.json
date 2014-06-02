@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Michael Denner",
-    "target": "King Diamond",
-    "targetId": "6775"
-  },
-  {
-    "source": "Michael Denner",
-    "target": "Andy LaRocque",
-    "targetId": "6776"
-  },
-  {
-    "source": "Michael Denner",
-    "target": "Timi Hansen",
-    "targetId": "6778"
-  },
-  {
-    "source": "Michael Denner",
-    "target": "Mikkey Dee",
-    "targetId": "6779"
-  }
-]
+{
+  "source": "Michael Denner",
+  "targets": [
+    {
+      "name": "King Diamond",
+      "targetId": "6775"
+    },
+    {
+      "name": "Andy LaRocque",
+      "targetId": "6776"
+    },
+    {
+      "name": "Timi Hansen",
+      "targetId": "6778"
+    },
+    {
+      "name": "Mikkey Dee",
+      "targetId": "6779"
+    }
+  ]
+}

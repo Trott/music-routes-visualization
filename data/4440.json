@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rasco",
-    "target": "Brain",
-    "targetId": "496"
-  },
-  {
-    "source": "Rasco",
-    "target": "Tommy Stinson",
-    "targetId": "3076"
-  },
-  {
-    "source": "Rasco",
-    "target": "BT",
-    "targetId": "4438"
-  },
-  {
-    "source": "Rasco",
-    "target": "Richard Fortus",
-    "targetId": "4439"
-  }
-]
+{
+  "source": "Rasco",
+  "targets": [
+    {
+      "name": "Brain",
+      "targetId": "496"
+    },
+    {
+      "name": "Tommy Stinson",
+      "targetId": "3076"
+    },
+    {
+      "name": "BT",
+      "targetId": "4438"
+    },
+    {
+      "name": "Richard Fortus",
+      "targetId": "4439"
+    }
+  ]
+}

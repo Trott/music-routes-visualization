@@ -1,12 +1,13 @@
-[
-  {
-    "source": "David Brown",
-    "target": "Beck",
-    "targetId": "1057"
-  },
-  {
-    "source": "David Brown",
-    "target": "Mike Boito",
-    "targetId": "1060"
-  }
-]
+{
+  "source": "David Brown",
+  "targets": [
+    {
+      "name": "Beck",
+      "targetId": "1057"
+    },
+    {
+      "name": "Mike Boito",
+      "targetId": "1060"
+    }
+  ]
+}

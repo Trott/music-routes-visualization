@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ernest Tubb",
-    "target": "Waylon Jennings",
-    "targetId": "62"
-  },
-  {
-    "source": "Ernest Tubb",
-    "target": "Hank Williams, Jr.",
-    "targetId": "9142"
-  }
-]
+{
+  "source": "Ernest Tubb",
+  "targets": [
+    {
+      "name": "Waylon Jennings",
+      "targetId": "62"
+    },
+    {
+      "name": "Hank Williams, Jr.",
+      "targetId": "9142"
+    }
+  ]
+}

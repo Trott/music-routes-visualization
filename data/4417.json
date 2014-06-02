@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Gary Cherone",
-    "target": "Ted Poley",
-    "targetId": "4404"
-  },
-  {
-    "source": "Gary Cherone",
-    "target": "Andy Timmons",
-    "targetId": "4406"
-  },
-  {
-    "source": "Gary Cherone",
-    "target": "Kasey Smith",
-    "targetId": "4407"
-  },
-  {
-    "source": "Gary Cherone",
-    "target": "Bruno Ravel",
-    "targetId": "4408"
-  },
-  {
-    "source": "Gary Cherone",
-    "target": "Steve West",
-    "targetId": "4409"
-  },
-  {
-    "source": "Gary Cherone",
-    "target": "Pat Badger",
-    "targetId": "4418"
-  },
-  {
-    "source": "Gary Cherone",
-    "target": "Nuno Bettencourt",
-    "targetId": "4419"
-  }
-]
+{
+  "source": "Gary Cherone",
+  "targets": [
+    {
+      "name": "Ted Poley",
+      "targetId": "4404"
+    },
+    {
+      "name": "Andy Timmons",
+      "targetId": "4406"
+    },
+    {
+      "name": "Kasey Smith",
+      "targetId": "4407"
+    },
+    {
+      "name": "Bruno Ravel",
+      "targetId": "4408"
+    },
+    {
+      "name": "Steve West",
+      "targetId": "4409"
+    },
+    {
+      "name": "Pat Badger",
+      "targetId": "4418"
+    },
+    {
+      "name": "Nuno Bettencourt",
+      "targetId": "4419"
+    }
+  ]
+}

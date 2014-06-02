@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Howard Devoto",
-    "target": "John McGeoch",
-    "targetId": "1627"
-  },
-  {
-    "source": "Howard Devoto",
-    "target": "Martin Jackson",
-    "targetId": "1628"
-  },
-  {
-    "source": "Howard Devoto",
-    "target": "Barry Adamson",
-    "targetId": "1629"
-  },
-  {
-    "source": "Howard Devoto",
-    "target": "Pete Shelley",
-    "targetId": "2532"
-  },
-  {
-    "source": "Howard Devoto",
-    "target": "Steve Diggle",
-    "targetId": "2533"
-  },
-  {
-    "source": "Howard Devoto",
-    "target": "John Maher",
-    "targetId": "2534"
-  }
-]
+{
+  "source": "Howard Devoto",
+  "targets": [
+    {
+      "name": "John McGeoch",
+      "targetId": "1627"
+    },
+    {
+      "name": "Martin Jackson",
+      "targetId": "1628"
+    },
+    {
+      "name": "Barry Adamson",
+      "targetId": "1629"
+    },
+    {
+      "name": "Pete Shelley",
+      "targetId": "2532"
+    },
+    {
+      "name": "Steve Diggle",
+      "targetId": "2533"
+    },
+    {
+      "name": "John Maher",
+      "targetId": "2534"
+    }
+  ]
+}

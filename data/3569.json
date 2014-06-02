@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Spider Stacy",
-    "target": "Cait O'Riordan",
-    "targetId": "311"
-  },
-  {
-    "source": "Spider Stacy",
-    "target": "Shane MacGowan",
-    "targetId": "3567"
-  },
-  {
-    "source": "Spider Stacy",
-    "target": "Jem Finer",
-    "targetId": "3568"
-  },
-  {
-    "source": "Spider Stacy",
-    "target": "James Fearnley",
-    "targetId": "3570"
-  },
-  {
-    "source": "Spider Stacy",
-    "target": "Andrew Ranken",
-    "targetId": "3571"
-  }
-]
+{
+  "source": "Spider Stacy",
+  "targets": [
+    {
+      "name": "Cait O'Riordan",
+      "targetId": "311"
+    },
+    {
+      "name": "Shane MacGowan",
+      "targetId": "3567"
+    },
+    {
+      "name": "Jem Finer",
+      "targetId": "3568"
+    },
+    {
+      "name": "James Fearnley",
+      "targetId": "3570"
+    },
+    {
+      "name": "Andrew Ranken",
+      "targetId": "3571"
+    }
+  ]
+}

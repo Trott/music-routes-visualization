@@ -1,12 +1,13 @@
-[
-  {
-    "source": "John Clayton",
-    "target": "Yo-Yo Ma",
-    "targetId": "1124"
-  },
-  {
-    "source": "John Clayton",
-    "target": "Diana Krall",
-    "targetId": "2228"
-  }
-]
+{
+  "source": "John Clayton",
+  "targets": [
+    {
+      "name": "Yo-Yo Ma",
+      "targetId": "1124"
+    },
+    {
+      "name": "Diana Krall",
+      "targetId": "2228"
+    }
+  ]
+}

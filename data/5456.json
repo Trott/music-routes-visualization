@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Tony Garnier",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "David Hidalgo",
-    "targetId": "285"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Michael Blair",
-    "targetId": "662"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Winston Watson",
-    "targetId": "1029"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Tom Waits",
-    "targetId": "1713"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Daniel Lanois",
-    "targetId": "2195"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Marc Ribot",
-    "targetId": "3588"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Patrick Warren",
-    "targetId": "3870"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Auggie Meyers",
-    "targetId": "5457"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Bucky Baxter",
-    "targetId": "5458"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Duke Robillard",
-    "targetId": "5459"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Robert Britt",
-    "targetId": "5460"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Cindy Cashdollar",
-    "targetId": "5461"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "David Kemper",
-    "targetId": "5462"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Brian Blade",
-    "targetId": "5463"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Tony Mangurian",
-    "targetId": "5464"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Stephen Taylor Arvizu Hodges",
-    "targetId": "8222"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Bobby Previte",
-    "targetId": "8223"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Phil Upchurch",
-    "targetId": "8266"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Donnie Herron",
-    "targetId": "8267"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "George Recile",
-    "targetId": "8268"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Amanda Barrett",
-    "targetId": "8269"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Bill Cantos",
-    "targetId": "8270"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Randy Crenshaw",
-    "targetId": "8271"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Abby DeWald",
-    "targetId": "8272"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Nicole Eva Emery",
-    "targetId": "8273"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Walt Harrah",
-    "targetId": "8274"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Robert Joyce",
-    "targetId": "8275"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Charlie Sexton",
-    "targetId": "8703"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Larry Campbell",
-    "targetId": "10065"
-  },
-  {
-    "source": "Tony Garnier",
-    "target": "Clay Meyers",
-    "targetId": "10066"
-  }
-]
+{
+  "source": "Tony Garnier",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "David Hidalgo",
+      "targetId": "285"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Michael Blair",
+      "targetId": "662"
+    },
+    {
+      "name": "Winston Watson",
+      "targetId": "1029"
+    },
+    {
+      "name": "Tom Waits",
+      "targetId": "1713"
+    },
+    {
+      "name": "Daniel Lanois",
+      "targetId": "2195"
+    },
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Marc Ribot",
+      "targetId": "3588"
+    },
+    {
+      "name": "Patrick Warren",
+      "targetId": "3870"
+    },
+    {
+      "name": "Auggie Meyers",
+      "targetId": "5457"
+    },
+    {
+      "name": "Bucky Baxter",
+      "targetId": "5458"
+    },
+    {
+      "name": "Duke Robillard",
+      "targetId": "5459"
+    },
+    {
+      "name": "Robert Britt",
+      "targetId": "5460"
+    },
+    {
+      "name": "Cindy Cashdollar",
+      "targetId": "5461"
+    },
+    {
+      "name": "David Kemper",
+      "targetId": "5462"
+    },
+    {
+      "name": "Brian Blade",
+      "targetId": "5463"
+    },
+    {
+      "name": "Tony Mangurian",
+      "targetId": "5464"
+    },
+    {
+      "name": "Stephen Taylor Arvizu Hodges",
+      "targetId": "8222"
+    },
+    {
+      "name": "Bobby Previte",
+      "targetId": "8223"
+    },
+    {
+      "name": "Phil Upchurch",
+      "targetId": "8266"
+    },
+    {
+      "name": "Donnie Herron",
+      "targetId": "8267"
+    },
+    {
+      "name": "George Recile",
+      "targetId": "8268"
+    },
+    {
+      "name": "Amanda Barrett",
+      "targetId": "8269"
+    },
+    {
+      "name": "Bill Cantos",
+      "targetId": "8270"
+    },
+    {
+      "name": "Randy Crenshaw",
+      "targetId": "8271"
+    },
+    {
+      "name": "Abby DeWald",
+      "targetId": "8272"
+    },
+    {
+      "name": "Nicole Eva Emery",
+      "targetId": "8273"
+    },
+    {
+      "name": "Walt Harrah",
+      "targetId": "8274"
+    },
+    {
+      "name": "Robert Joyce",
+      "targetId": "8275"
+    },
+    {
+      "name": "Charlie Sexton",
+      "targetId": "8703"
+    },
+    {
+      "name": "Larry Campbell",
+      "targetId": "10065"
+    },
+    {
+      "name": "Clay Meyers",
+      "targetId": "10066"
+    }
+  ]
+}

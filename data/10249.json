@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Stu Cook",
-    "target": "John Fogerty",
-    "targetId": "10247"
-  },
-  {
-    "source": "Stu Cook",
-    "target": "Tom Fogerty",
-    "targetId": "10248"
-  },
-  {
-    "source": "Stu Cook",
-    "target": "Doug Clifford",
-    "targetId": "10250"
-  }
-]
+{
+  "source": "Stu Cook",
+  "targets": [
+    {
+      "name": "John Fogerty",
+      "targetId": "10247"
+    },
+    {
+      "name": "Tom Fogerty",
+      "targetId": "10248"
+    },
+    {
+      "name": "Doug Clifford",
+      "targetId": "10250"
+    }
+  ]
+}

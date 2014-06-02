@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Aaron Burtch",
-    "target": "Jason Lytle",
-    "targetId": "6985"
-  },
-  {
-    "source": "Aaron Burtch",
-    "target": "Kevin Garcia",
-    "targetId": "7329"
-  },
-  {
-    "source": "Aaron Burtch",
-    "target": "Tim Dryden",
-    "targetId": "7330"
-  },
-  {
-    "source": "Aaron Burtch",
-    "target": "Jim Fairchild",
-    "targetId": "7331"
-  }
-]
+{
+  "source": "Aaron Burtch",
+  "targets": [
+    {
+      "name": "Jason Lytle",
+      "targetId": "6985"
+    },
+    {
+      "name": "Kevin Garcia",
+      "targetId": "7329"
+    },
+    {
+      "name": "Tim Dryden",
+      "targetId": "7330"
+    },
+    {
+      "name": "Jim Fairchild",
+      "targetId": "7331"
+    }
+  ]
+}

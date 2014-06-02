@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Rani Goel",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Rani Goel",
-    "target": "Andrew Poisoner",
-    "targetId": "13"
-  }
-]
+{
+  "source": "Rani Goel",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Andrew Poisoner",
+      "targetId": "13"
+    }
+  ]
+}

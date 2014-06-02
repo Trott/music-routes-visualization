@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Thermos Malling",
-    "target": "Bob Log III",
-    "targetId": "1968"
-  },
-  {
-    "source": "Thermos Malling",
-    "target": "Russell Simins",
-    "targetId": "1973"
-  },
-  {
-    "source": "Thermos Malling",
-    "target": "Judah Bauer",
-    "targetId": "1974"
-  },
-  {
-    "source": "Thermos Malling",
-    "target": "Jon Spencer",
-    "targetId": "1975"
-  }
-]
+{
+  "source": "Thermos Malling",
+  "targets": [
+    {
+      "name": "Bob Log III",
+      "targetId": "1968"
+    },
+    {
+      "name": "Russell Simins",
+      "targetId": "1973"
+    },
+    {
+      "name": "Judah Bauer",
+      "targetId": "1974"
+    },
+    {
+      "name": "Jon Spencer",
+      "targetId": "1975"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ray Collins",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Ray Collins",
-    "target": "Roy Estrada",
-    "targetId": "6590"
-  },
-  {
-    "source": "Ray Collins",
-    "target": "Jimmy Carl Black",
-    "targetId": "6591"
-  },
-  {
-    "source": "Ray Collins",
-    "target": "Henry Vestine",
-    "targetId": "7920"
-  },
-  {
-    "source": "Ray Collins",
-    "target": "Elliot Ingber",
-    "targetId": "10301"
-  }
-]
+{
+  "source": "Ray Collins",
+  "targets": [
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Roy Estrada",
+      "targetId": "6590"
+    },
+    {
+      "name": "Jimmy Carl Black",
+      "targetId": "6591"
+    },
+    {
+      "name": "Henry Vestine",
+      "targetId": "7920"
+    },
+    {
+      "name": "Elliot Ingber",
+      "targetId": "10301"
+    }
+  ]
+}

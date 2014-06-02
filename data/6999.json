@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paul Bostaph",
-    "target": "Tom Araya",
-    "targetId": "1453"
-  },
-  {
-    "source": "Paul Bostaph",
-    "target": "Jeff Hanneman",
-    "targetId": "1454"
-  },
-  {
-    "source": "Paul Bostaph",
-    "target": "Kerry King",
-    "targetId": "1455"
-  },
-  {
-    "source": "Paul Bostaph",
-    "target": "Ice-T",
-    "targetId": "2798"
-  }
-]
+{
+  "source": "Paul Bostaph",
+  "targets": [
+    {
+      "name": "Tom Araya",
+      "targetId": "1453"
+    },
+    {
+      "name": "Jeff Hanneman",
+      "targetId": "1454"
+    },
+    {
+      "name": "Kerry King",
+      "targetId": "1455"
+    },
+    {
+      "name": "Ice-T",
+      "targetId": "2798"
+    }
+  ]
+}

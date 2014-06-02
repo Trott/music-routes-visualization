@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Chester Thompson",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Chester Thompson",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Chester Thompson",
-    "target": "Tom Fowler",
-    "targetId": "1325"
-  },
-  {
-    "source": "Chester Thompson",
-    "target": "George Duke",
-    "targetId": "1327"
-  },
-  {
-    "source": "Chester Thompson",
-    "target": "Ruth Underwood",
-    "targetId": "1328"
-  },
-  {
-    "source": "Chester Thompson",
-    "target": "Napoleon Muphy Brock",
-    "targetId": "1329"
-  },
-  {
-    "source": "Chester Thompson",
-    "target": "Steve Hackett",
-    "targetId": "1582"
-  },
-  {
-    "source": "Chester Thompson",
-    "target": "Mike Rutherford",
-    "targetId": "1583"
-  },
-  {
-    "source": "Chester Thompson",
-    "target": "Tony Banks",
-    "targetId": "1584"
-  }
-]
+{
+  "source": "Chester Thompson",
+  "targets": [
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Tom Fowler",
+      "targetId": "1325"
+    },
+    {
+      "name": "George Duke",
+      "targetId": "1327"
+    },
+    {
+      "name": "Ruth Underwood",
+      "targetId": "1328"
+    },
+    {
+      "name": "Napoleon Muphy Brock",
+      "targetId": "1329"
+    },
+    {
+      "name": "Steve Hackett",
+      "targetId": "1582"
+    },
+    {
+      "name": "Mike Rutherford",
+      "targetId": "1583"
+    },
+    {
+      "name": "Tony Banks",
+      "targetId": "1584"
+    }
+  ]
+}

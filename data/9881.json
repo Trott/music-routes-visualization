@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Tim Hinkley",
-    "target": "Phil Lynott",
-    "targetId": "2690"
-  },
-  {
-    "source": "Tim Hinkley",
-    "target": "Brian Downey",
-    "targetId": "2691"
-  },
-  {
-    "source": "Tim Hinkley",
-    "target": "Scott Gorham",
-    "targetId": "2692"
-  }
-]
+{
+  "source": "Tim Hinkley",
+  "targets": [
+    {
+      "name": "Phil Lynott",
+      "targetId": "2690"
+    },
+    {
+      "name": "Brian Downey",
+      "targetId": "2691"
+    },
+    {
+      "name": "Scott Gorham",
+      "targetId": "2692"
+    }
+  ]
+}

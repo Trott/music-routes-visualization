@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Bennett",
-    "target": "Alexis Taylor",
-    "targetId": "9451"
-  },
-  {
-    "source": "Scott Bennett",
-    "target": "Joe Goddard",
-    "targetId": "9452"
-  },
-  {
-    "source": "Scott Bennett",
-    "target": "Felix Martin",
-    "targetId": "9453"
-  },
-  {
-    "source": "Scott Bennett",
-    "target": "Owen Clarke",
-    "targetId": "9454"
-  }
-]
+{
+  "source": "Scott Bennett",
+  "targets": [
+    {
+      "name": "Alexis Taylor",
+      "targetId": "9451"
+    },
+    {
+      "name": "Joe Goddard",
+      "targetId": "9452"
+    },
+    {
+      "name": "Felix Martin",
+      "targetId": "9453"
+    },
+    {
+      "name": "Owen Clarke",
+      "targetId": "9454"
+    }
+  ]
+}

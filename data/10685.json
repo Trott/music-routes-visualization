@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ted Kirk",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Ted Kirk",
-    "target": "Anu Kirk",
-    "targetId": "92"
-  },
-  {
-    "source": "Ted Kirk",
-    "target": "JP Lester",
-    "targetId": "530"
-  },
-  {
-    "source": "Ted Kirk",
-    "target": "Joel Godfrey Primer",
-    "targetId": "7323"
-  },
-  {
-    "source": "Ted Kirk",
-    "target": "Greg Spock",
-    "targetId": "10683"
-  },
-  {
-    "source": "Ted Kirk",
-    "target": "Kelly Uhura",
-    "targetId": "10684"
-  }
-]
+{
+  "source": "Ted Kirk",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Anu Kirk",
+      "targetId": "92"
+    },
+    {
+      "name": "JP Lester",
+      "targetId": "530"
+    },
+    {
+      "name": "Joel Godfrey Primer",
+      "targetId": "7323"
+    },
+    {
+      "name": "Greg Spock",
+      "targetId": "10683"
+    },
+    {
+      "name": "Kelly Uhura",
+      "targetId": "10684"
+    }
+  ]
+}

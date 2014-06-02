@@ -1,147 +1,121 @@
-[
-  {
-    "source": "Michael Henry",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Midge Ure",
-    "targetId": "96"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Chris Cross",
-    "targetId": "100"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Martin Drover",
-    "targetId": "834"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Jeff Daly",
-    "targetId": "835"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Mark Isham",
-    "targetId": "924"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Doreen Chanter",
-    "targetId": "1959"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Micky Moody",
-    "targetId": "2521"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Sheena Easton",
-    "targetId": "2658"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Chas Jankel",
-    "targetId": "3373"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "John Altman",
-    "targetId": "3374"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Digby Fairweather",
-    "targetId": "3375"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Malcolm Griffiths",
-    "targetId": "3376"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Paul Cosh",
-    "targetId": "3378"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Donovan",
-    "targetId": "3379"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Mo Foster",
-    "targetId": "3380"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Neil Murray",
-    "targetId": "3381"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Linda Taylor",
-    "targetId": "3382"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Sharon Campbell",
-    "targetId": "3384"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Tom Robinson",
-    "targetId": "3385"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "John Etheridge",
-    "targetId": "3387"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Neil Innes",
-    "targetId": "3388"
-  },
-  {
-    "source": "Michael Henry",
-    "target": "Ray Russell",
-    "targetId": "3389"
-  }
-]
+{
+  "source": "Michael Henry",
+  "targets": [
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Midge Ure",
+      "targetId": "96"
+    },
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Chris Cross",
+      "targetId": "100"
+    },
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Martin Drover",
+      "targetId": "834"
+    },
+    {
+      "name": "Jeff Daly",
+      "targetId": "835"
+    },
+    {
+      "name": "Mark Isham",
+      "targetId": "924"
+    },
+    {
+      "name": "Doreen Chanter",
+      "targetId": "1959"
+    },
+    {
+      "name": "Micky Moody",
+      "targetId": "2521"
+    },
+    {
+      "name": "Sheena Easton",
+      "targetId": "2658"
+    },
+    {
+      "name": "Chas Jankel",
+      "targetId": "3373"
+    },
+    {
+      "name": "John Altman",
+      "targetId": "3374"
+    },
+    {
+      "name": "Digby Fairweather",
+      "targetId": "3375"
+    },
+    {
+      "name": "Malcolm Griffiths",
+      "targetId": "3376"
+    },
+    {
+      "name": "Paul Cosh",
+      "targetId": "3378"
+    },
+    {
+      "name": "Donovan",
+      "targetId": "3379"
+    },
+    {
+      "name": "Mo Foster",
+      "targetId": "3380"
+    },
+    {
+      "name": "Neil Murray",
+      "targetId": "3381"
+    },
+    {
+      "name": "Linda Taylor",
+      "targetId": "3382"
+    },
+    {
+      "name": "Sharon Campbell",
+      "targetId": "3384"
+    },
+    {
+      "name": "Tom Robinson",
+      "targetId": "3385"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "John Etheridge",
+      "targetId": "3387"
+    },
+    {
+      "name": "Neil Innes",
+      "targetId": "3388"
+    },
+    {
+      "name": "Ray Russell",
+      "targetId": "3389"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Scott",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "John Scott",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "John Scott",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "John Scott",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  }
-]
+{
+  "source": "John Scott",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    }
+  ]
+}

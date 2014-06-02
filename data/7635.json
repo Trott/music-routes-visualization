@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Donnie Hamzik",
-    "target": "Ross \"The Boss\" Friedman",
-    "targetId": "7629"
-  },
-  {
-    "source": "Donnie Hamzik",
-    "target": "Eric Adams",
-    "targetId": "7633"
-  },
-  {
-    "source": "Donnie Hamzik",
-    "target": "Joey DeMaio",
-    "targetId": "7634"
-  },
-  {
-    "source": "Donnie Hamzik",
-    "target": "Orson Welles",
-    "targetId": "7636"
-  }
-]
+{
+  "source": "Donnie Hamzik",
+  "targets": [
+    {
+      "name": "Ross \"The Boss\" Friedman",
+      "targetId": "7629"
+    },
+    {
+      "name": "Eric Adams",
+      "targetId": "7633"
+    },
+    {
+      "name": "Joey DeMaio",
+      "targetId": "7634"
+    },
+    {
+      "name": "Orson Welles",
+      "targetId": "7636"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "David Cross",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "David Cross",
-    "target": "Bill Bruford",
-    "targetId": "340"
-  },
-  {
-    "source": "David Cross",
-    "target": "John Wetton",
-    "targetId": "527"
-  },
-  {
-    "source": "David Cross",
-    "target": "Jamie Muir",
-    "targetId": "529"
-  }
-]
+{
+  "source": "David Cross",
+  "targets": [
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Bill Bruford",
+      "targetId": "340"
+    },
+    {
+      "name": "John Wetton",
+      "targetId": "527"
+    },
+    {
+      "name": "Jamie Muir",
+      "targetId": "529"
+    }
+  ]
+}

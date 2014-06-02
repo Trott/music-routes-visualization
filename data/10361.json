@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jim Clench",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Jim Clench",
-    "target": "C.F. Turner",
-    "targetId": "9552"
-  },
-  {
-    "source": "Jim Clench",
-    "target": "Blair Thornton",
-    "targetId": "9553"
-  },
-  {
-    "source": "Jim Clench",
-    "target": "Rob Bachman",
-    "targetId": "9554"
-  }
-]
+{
+  "source": "Jim Clench",
+  "targets": [
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "C.F. Turner",
+      "targetId": "9552"
+    },
+    {
+      "name": "Blair Thornton",
+      "targetId": "9553"
+    },
+    {
+      "name": "Rob Bachman",
+      "targetId": "9554"
+    }
+  ]
+}

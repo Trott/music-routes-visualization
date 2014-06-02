@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Steve Miller",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Steve Miller",
-    "target": "Alexis Corner",
-    "targetId": "3733"
-  }
-]
+{
+  "source": "Steve Miller",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Alexis Corner",
+      "targetId": "3733"
+    }
+  ]
+}

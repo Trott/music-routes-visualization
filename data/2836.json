@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Kate Reddy",
-    "target": "Vic DiCara",
-    "targetId": "2835"
-  },
-  {
-    "source": "Kate Reddy",
-    "target": "Rob Fish",
-    "targetId": "2837"
-  },
-  {
-    "source": "Kate Reddy",
-    "target": "Franklin Rhi",
-    "targetId": "2838"
-  },
-  {
-    "source": "Kate Reddy",
-    "target": "Chris Daly",
-    "targetId": "2839"
-  }
-]
+{
+  "source": "Kate Reddy",
+  "targets": [
+    {
+      "name": "Vic DiCara",
+      "targetId": "2835"
+    },
+    {
+      "name": "Rob Fish",
+      "targetId": "2837"
+    },
+    {
+      "name": "Franklin Rhi",
+      "targetId": "2838"
+    },
+    {
+      "name": "Chris Daly",
+      "targetId": "2839"
+    }
+  ]
+}

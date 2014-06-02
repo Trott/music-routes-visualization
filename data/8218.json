@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ned Rothenberg",
-    "target": "Trevor Dunn",
-    "targetId": "3207"
-  },
-  {
-    "source": "Ned Rothenberg",
-    "target": "Marc Ribot",
-    "targetId": "3588"
-  },
-  {
-    "source": "Ned Rothenberg",
-    "target": "Cyro Baptista",
-    "targetId": "8214"
-  },
-  {
-    "source": "Ned Rothenberg",
-    "target": "Joey Baron",
-    "targetId": "8215"
-  },
-  {
-    "source": "Ned Rothenberg",
-    "target": "Jamie Saft",
-    "targetId": "8216"
-  }
-]
+{
+  "source": "Ned Rothenberg",
+  "targets": [
+    {
+      "name": "Trevor Dunn",
+      "targetId": "3207"
+    },
+    {
+      "name": "Marc Ribot",
+      "targetId": "3588"
+    },
+    {
+      "name": "Cyro Baptista",
+      "targetId": "8214"
+    },
+    {
+      "name": "Joey Baron",
+      "targetId": "8215"
+    },
+    {
+      "name": "Jamie Saft",
+      "targetId": "8216"
+    }
+  ]
+}

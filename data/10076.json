@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jeff Peters",
-    "target": "Bruce Johnston",
-    "targetId": "232"
-  },
-  {
-    "source": "Jeff Peters",
-    "target": "Carl Wilson",
-    "targetId": "233"
-  },
-  {
-    "source": "Jeff Peters",
-    "target": "Mike Love",
-    "targetId": "1477"
-  },
-  {
-    "source": "Jeff Peters",
-    "target": "Al Jardine",
-    "targetId": "1478"
-  },
-  {
-    "source": "Jeff Peters",
-    "target": "Adrian Baker",
-    "targetId": "10075"
-  },
-  {
-    "source": "Jeff Peters",
-    "target": "Jerry Stevenson",
-    "targetId": "10077"
-  },
-  {
-    "source": "Jeff Peters",
-    "target": "Ian Lynn",
-    "targetId": "10078"
-  }
-]
+{
+  "source": "Jeff Peters",
+  "targets": [
+    {
+      "name": "Bruce Johnston",
+      "targetId": "232"
+    },
+    {
+      "name": "Carl Wilson",
+      "targetId": "233"
+    },
+    {
+      "name": "Mike Love",
+      "targetId": "1477"
+    },
+    {
+      "name": "Al Jardine",
+      "targetId": "1478"
+    },
+    {
+      "name": "Adrian Baker",
+      "targetId": "10075"
+    },
+    {
+      "name": "Jerry Stevenson",
+      "targetId": "10077"
+    },
+    {
+      "name": "Ian Lynn",
+      "targetId": "10078"
+    }
+  ]
+}

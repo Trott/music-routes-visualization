@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jimmy Garrison",
-    "target": "John Coltrane",
-    "targetId": "1049"
-  },
-  {
-    "source": "Jimmy Garrison",
-    "target": "Alice Coltrane",
-    "targetId": "5305"
-  },
-  {
-    "source": "Jimmy Garrison",
-    "target": "Rashied Ali",
-    "targetId": "8285"
-  },
-  {
-    "source": "Jimmy Garrison",
-    "target": "Pharoah Sanders",
-    "targetId": "8286"
-  },
-  {
-    "source": "Jimmy Garrison",
-    "target": "Elvin Jones",
-    "targetId": "8287"
-  },
-  {
-    "source": "Jimmy Garrison",
-    "target": "McCoy Tyner",
-    "targetId": "8288"
-  }
-]
+{
+  "source": "Jimmy Garrison",
+  "targets": [
+    {
+      "name": "John Coltrane",
+      "targetId": "1049"
+    },
+    {
+      "name": "Alice Coltrane",
+      "targetId": "5305"
+    },
+    {
+      "name": "Rashied Ali",
+      "targetId": "8285"
+    },
+    {
+      "name": "Pharoah Sanders",
+      "targetId": "8286"
+    },
+    {
+      "name": "Elvin Jones",
+      "targetId": "8287"
+    },
+    {
+      "name": "McCoy Tyner",
+      "targetId": "8288"
+    }
+  ]
+}

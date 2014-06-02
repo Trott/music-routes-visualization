@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Roddy Lorimer",
-    "target": "Anthony Thistlethwaite",
-    "targetId": "8505"
-  },
-  {
-    "source": "Roddy Lorimer",
-    "target": "Kevin Wilkinson",
-    "targetId": "8506"
-  },
-  {
-    "source": "Roddy Lorimer",
-    "target": "Mike Scott",
-    "targetId": "8508"
-  }
-]
+{
+  "source": "Roddy Lorimer",
+  "targets": [
+    {
+      "name": "Anthony Thistlethwaite",
+      "targetId": "8505"
+    },
+    {
+      "name": "Kevin Wilkinson",
+      "targetId": "8506"
+    },
+    {
+      "name": "Mike Scott",
+      "targetId": "8508"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Steve Farris",
-    "target": "Pat Mastelotto",
-    "targetId": "525"
-  },
-  {
-    "source": "Steve Farris",
-    "target": "Richard Page",
-    "targetId": "2531"
-  },
-  {
-    "source": "Steve Farris",
-    "target": "Steve George",
-    "targetId": "7248"
-  }
-]
+{
+  "source": "Steve Farris",
+  "targets": [
+    {
+      "name": "Pat Mastelotto",
+      "targetId": "525"
+    },
+    {
+      "name": "Richard Page",
+      "targetId": "2531"
+    },
+    {
+      "name": "Steve George",
+      "targetId": "7248"
+    }
+  ]
+}

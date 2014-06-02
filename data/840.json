@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Valerio",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Mike Valerio",
-    "target": "Mike Lang",
-    "targetId": "837"
-  },
-  {
-    "source": "Mike Valerio",
-    "target": "Paul Anka",
-    "targetId": "838"
-  },
-  {
-    "source": "Mike Valerio",
-    "target": "Vinnie Colaiuta",
-    "targetId": "839"
-  }
-]
+{
+  "source": "Mike Valerio",
+  "targets": [
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Mike Lang",
+      "targetId": "837"
+    },
+    {
+      "name": "Paul Anka",
+      "targetId": "838"
+    },
+    {
+      "name": "Vinnie Colaiuta",
+      "targetId": "839"
+    }
+  ]
+}

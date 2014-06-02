@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tony \"Jah-T\" Allen",
-    "target": "Izzy Stradlin",
-    "targetId": "1571"
-  },
-  {
-    "source": "Tony \"Jah-T\" Allen",
-    "target": "Rick Richards",
-    "targetId": "5536"
-  },
-  {
-    "source": "Tony \"Jah-T\" Allen",
-    "target": "Jimmy Ashhurst",
-    "targetId": "6684"
-  },
-  {
-    "source": "Tony \"Jah-T\" Allen",
-    "target": "Charlie Quintana",
-    "targetId": "6686"
-  },
-  {
-    "source": "Tony \"Jah-T\" Allen",
-    "target": "Mikey Dread",
-    "targetId": "6689"
-  }
-]
+{
+  "source": "Tony \"Jah-T\" Allen",
+  "targets": [
+    {
+      "name": "Izzy Stradlin",
+      "targetId": "1571"
+    },
+    {
+      "name": "Rick Richards",
+      "targetId": "5536"
+    },
+    {
+      "name": "Jimmy Ashhurst",
+      "targetId": "6684"
+    },
+    {
+      "name": "Charlie Quintana",
+      "targetId": "6686"
+    },
+    {
+      "name": "Mikey Dread",
+      "targetId": "6689"
+    }
+  ]
+}

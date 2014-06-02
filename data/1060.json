@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Boito",
-    "target": "Joey Waronker",
-    "targetId": "1053"
-  },
-  {
-    "source": "Mike Boito",
-    "target": "Beck",
-    "targetId": "1057"
-  },
-  {
-    "source": "Mike Boito",
-    "target": "David Brown",
-    "targetId": "1059"
-  },
-  {
-    "source": "Mike Boito",
-    "target": "Greg Leisz",
-    "targetId": "1061"
-  }
-]
+{
+  "source": "Mike Boito",
+  "targets": [
+    {
+      "name": "Joey Waronker",
+      "targetId": "1053"
+    },
+    {
+      "name": "Beck",
+      "targetId": "1057"
+    },
+    {
+      "name": "David Brown",
+      "targetId": "1059"
+    },
+    {
+      "name": "Greg Leisz",
+      "targetId": "1061"
+    }
+  ]
+}

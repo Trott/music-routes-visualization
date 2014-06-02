@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jim McCarty",
-    "target": "Carmine Appice",
-    "targetId": "151"
-  },
-  {
-    "source": "Jim McCarty",
-    "target": "Tim Bogert",
-    "targetId": "5647"
-  },
-  {
-    "source": "Jim McCarty",
-    "target": "Rusty Day",
-    "targetId": "5649"
-  }
-]
+{
+  "source": "Jim McCarty",
+  "targets": [
+    {
+      "name": "Carmine Appice",
+      "targetId": "151"
+    },
+    {
+      "name": "Tim Bogert",
+      "targetId": "5647"
+    },
+    {
+      "name": "Rusty Day",
+      "targetId": "5649"
+    }
+  ]
+}

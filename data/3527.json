@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Matt Heckert",
-    "target": "Dale Flattum",
-    "targetId": "3520"
-  },
-  {
-    "source": "Matt Heckert",
-    "target": "Mike Morasky",
-    "targetId": "3521"
-  }
-]
+{
+  "source": "Matt Heckert",
+  "targets": [
+    {
+      "name": "Dale Flattum",
+      "targetId": "3520"
+    },
+    {
+      "name": "Mike Morasky",
+      "targetId": "3521"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pepe Raphael",
-    "target": "China Forbes",
-    "targetId": "1214"
-  },
-  {
-    "source": "Pepe Raphael",
-    "target": "Sid Bos",
-    "targetId": "1224"
-  },
-  {
-    "source": "Pepe Raphael",
-    "target": "Justin Durrie",
-    "targetId": "1225"
-  }
-]
+{
+  "source": "Pepe Raphael",
+  "targets": [
+    {
+      "name": "China Forbes",
+      "targetId": "1214"
+    },
+    {
+      "name": "Sid Bos",
+      "targetId": "1224"
+    },
+    {
+      "name": "Justin Durrie",
+      "targetId": "1225"
+    }
+  ]
+}

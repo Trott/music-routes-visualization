@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Barry Burns",
-    "target": "John Cummings",
-    "targetId": "5198"
-  },
-  {
-    "source": "Barry Burns",
-    "target": "Stuart Braithwaite",
-    "targetId": "5200"
-  },
-  {
-    "source": "Barry Burns",
-    "target": "Martin Bulloch",
-    "targetId": "5201"
-  },
-  {
-    "source": "Barry Burns",
-    "target": "Dominic Aitchison",
-    "targetId": "5202"
-  },
-  {
-    "source": "Barry Burns",
-    "target": "Brendan O'Hare",
-    "targetId": "5285"
-  },
-  {
-    "source": "Barry Burns",
-    "target": "Mari Myren",
-    "targetId": "5286"
-  }
-]
+{
+  "source": "Barry Burns",
+  "targets": [
+    {
+      "name": "John Cummings",
+      "targetId": "5198"
+    },
+    {
+      "name": "Stuart Braithwaite",
+      "targetId": "5200"
+    },
+    {
+      "name": "Martin Bulloch",
+      "targetId": "5201"
+    },
+    {
+      "name": "Dominic Aitchison",
+      "targetId": "5202"
+    },
+    {
+      "name": "Brendan O'Hare",
+      "targetId": "5285"
+    },
+    {
+      "name": "Mari Myren",
+      "targetId": "5286"
+    }
+  ]
+}

@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Apollonia",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Petra Haden",
-    "targetId": "774"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Greg Dulli",
-    "targetId": "1641"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Michael Sullivan",
-    "targetId": "1649"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Hoss",
-    "targetId": "1650"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Jesse Tobias",
-    "targetId": "1651"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Steve Myers",
-    "targetId": "1653"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Suzie Katayama",
-    "targetId": "2293"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Dave Coleman",
-    "targetId": "9343"
-  },
-  {
-    "source": "Apollonia",
-    "target": "Novi Novog",
-    "targetId": "9682"
-  }
-]
+{
+  "source": "Apollonia",
+  "targets": [
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Petra Haden",
+      "targetId": "774"
+    },
+    {
+      "name": "Greg Dulli",
+      "targetId": "1641"
+    },
+    {
+      "name": "Michael Sullivan",
+      "targetId": "1649"
+    },
+    {
+      "name": "Hoss",
+      "targetId": "1650"
+    },
+    {
+      "name": "Jesse Tobias",
+      "targetId": "1651"
+    },
+    {
+      "name": "Steve Myers",
+      "targetId": "1653"
+    },
+    {
+      "name": "Suzie Katayama",
+      "targetId": "2293"
+    },
+    {
+      "name": "Dave Coleman",
+      "targetId": "9343"
+    },
+    {
+      "name": "Novi Novog",
+      "targetId": "9682"
+    }
+  ]
+}

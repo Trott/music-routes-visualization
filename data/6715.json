@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Chris Odom",
-    "target": "Jill Scott",
-    "targetId": "6698"
-  },
-  {
-    "source": "Chris Odom",
-    "target": "Eric Roberson",
-    "targetId": "6714"
-  }
-]
+{
+  "source": "Chris Odom",
+  "targets": [
+    {
+      "name": "Jill Scott",
+      "targetId": "6698"
+    },
+    {
+      "name": "Eric Roberson",
+      "targetId": "6714"
+    }
+  ]
+}

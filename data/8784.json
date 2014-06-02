@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Wyatt Ruther",
-    "target": "Eric Dolphy",
-    "targetId": "6872"
-  },
-  {
-    "source": "Wyatt Ruther",
-    "target": "Chico Hamilton",
-    "targetId": "8783"
-  },
-  {
-    "source": "Wyatt Ruther",
-    "target": "Nathan Gershman",
-    "targetId": "8785"
-  },
-  {
-    "source": "Wyatt Ruther",
-    "target": "Dennis Budimir",
-    "targetId": "8786"
-  }
-]
+{
+  "source": "Wyatt Ruther",
+  "targets": [
+    {
+      "name": "Eric Dolphy",
+      "targetId": "6872"
+    },
+    {
+      "name": "Chico Hamilton",
+      "targetId": "8783"
+    },
+    {
+      "name": "Nathan Gershman",
+      "targetId": "8785"
+    },
+    {
+      "name": "Dennis Budimir",
+      "targetId": "8786"
+    }
+  ]
+}

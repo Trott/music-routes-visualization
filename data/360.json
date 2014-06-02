@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Charlie Benante",
-    "target": "Chuck D",
-    "targetId": "349"
-  },
-  {
-    "source": "Charlie Benante",
-    "target": "Scott Ian",
-    "targetId": "356"
-  },
-  {
-    "source": "Charlie Benante",
-    "target": "Dan Spitz",
-    "targetId": "358"
-  },
-  {
-    "source": "Charlie Benante",
-    "target": "Frank Bello",
-    "targetId": "359"
-  }
-]
+{
+  "source": "Charlie Benante",
+  "targets": [
+    {
+      "name": "Chuck D",
+      "targetId": "349"
+    },
+    {
+      "name": "Scott Ian",
+      "targetId": "356"
+    },
+    {
+      "name": "Dan Spitz",
+      "targetId": "358"
+    },
+    {
+      "name": "Frank Bello",
+      "targetId": "359"
+    }
+  ]
+}

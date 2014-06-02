@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mats Ronander",
-    "target": "Ulf Lundell",
-    "targetId": "2699"
-  },
-  {
-    "source": "Mats Ronander",
-    "target": "Lasse Wellander",
-    "targetId": "2903"
-  },
-  {
-    "source": "Mats Ronander",
-    "target": "Stanley Larsson",
-    "targetId": "4021"
-  },
-  {
-    "source": "Mats Ronander",
-    "target": "Reg Ward",
-    "targetId": "4023"
-  },
-  {
-    "source": "Mats Ronander",
-    "target": "Pär David Johnsson",
-    "targetId": "4025"
-  }
-]
+{
+  "source": "Mats Ronander",
+  "targets": [
+    {
+      "name": "Ulf Lundell",
+      "targetId": "2699"
+    },
+    {
+      "name": "Lasse Wellander",
+      "targetId": "2903"
+    },
+    {
+      "name": "Stanley Larsson",
+      "targetId": "4021"
+    },
+    {
+      "name": "Reg Ward",
+      "targetId": "4023"
+    },
+    {
+      "name": "Pär David Johnsson",
+      "targetId": "4025"
+    }
+  ]
+}

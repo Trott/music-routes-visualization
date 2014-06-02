@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Richard Gibbs",
-    "target": "Vinnie Colaiuta",
-    "targetId": "839"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Lakshmi Shankar",
-    "targetId": "2199"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Sam Rivers",
-    "targetId": "4384"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Jonathan Davis",
-    "targetId": "4389"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Mariah Carey",
-    "targetId": "6126"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "David Rokeach",
-    "targetId": "6205"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Francisco Centeno",
-    "targetId": "6206"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Teddy Richards",
-    "targetId": "6207"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Darryll Houston",
-    "targetId": "6209"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Byron Strippling",
-    "targetId": "6210"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Glenn Drews",
-    "targetId": "6211"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Jorge Arciniega",
-    "targetId": "6212"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Robert Trowers",
-    "targetId": "6213"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Larry Farrell",
-    "targetId": "6214"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Keith O'Quinn",
-    "targetId": "6215"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Lawrence Feldman",
-    "targetId": "6216"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Dave Tofani",
-    "targetId": "6217"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Ernie Fields, Jr.",
-    "targetId": "6218"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Roger Rosenberg",
-    "targetId": "6219"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Mae Kohn",
-    "targetId": "6220"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Diana Madison",
-    "targetId": "6221"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "William Moore",
-    "targetId": "6222"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Jaqui Whitman",
-    "targetId": "6223"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "David Draiman",
-    "targetId": "6319"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Brian Welch",
-    "targetId": "6323"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "James Shaffer",
-    "targetId": "6324"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Danny Elfman",
-    "targetId": "10925"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Leon Schneiderman",
-    "targetId": "10926"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Kerry Hatch",
-    "targetId": "10927"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Johnny \"Vatos\" Hernandez",
-    "targetId": "10928"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Steve Vartek",
-    "targetId": "10929"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Sam Phipps",
-    "targetId": "10930"
-  },
-  {
-    "source": "Richard Gibbs",
-    "target": "Dale Turner",
-    "targetId": "10931"
-  }
-]
+{
+  "source": "Richard Gibbs",
+  "targets": [
+    {
+      "name": "Vinnie Colaiuta",
+      "targetId": "839"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "Lakshmi Shankar",
+      "targetId": "2199"
+    },
+    {
+      "name": "Sam Rivers",
+      "targetId": "4384"
+    },
+    {
+      "name": "Jonathan Davis",
+      "targetId": "4389"
+    },
+    {
+      "name": "Mariah Carey",
+      "targetId": "6126"
+    },
+    {
+      "name": "David Rokeach",
+      "targetId": "6205"
+    },
+    {
+      "name": "Francisco Centeno",
+      "targetId": "6206"
+    },
+    {
+      "name": "Teddy Richards",
+      "targetId": "6207"
+    },
+    {
+      "name": "Darryll Houston",
+      "targetId": "6209"
+    },
+    {
+      "name": "Byron Strippling",
+      "targetId": "6210"
+    },
+    {
+      "name": "Glenn Drews",
+      "targetId": "6211"
+    },
+    {
+      "name": "Jorge Arciniega",
+      "targetId": "6212"
+    },
+    {
+      "name": "Robert Trowers",
+      "targetId": "6213"
+    },
+    {
+      "name": "Larry Farrell",
+      "targetId": "6214"
+    },
+    {
+      "name": "Keith O'Quinn",
+      "targetId": "6215"
+    },
+    {
+      "name": "Lawrence Feldman",
+      "targetId": "6216"
+    },
+    {
+      "name": "Dave Tofani",
+      "targetId": "6217"
+    },
+    {
+      "name": "Ernie Fields, Jr.",
+      "targetId": "6218"
+    },
+    {
+      "name": "Roger Rosenberg",
+      "targetId": "6219"
+    },
+    {
+      "name": "Mae Kohn",
+      "targetId": "6220"
+    },
+    {
+      "name": "Diana Madison",
+      "targetId": "6221"
+    },
+    {
+      "name": "William Moore",
+      "targetId": "6222"
+    },
+    {
+      "name": "Jaqui Whitman",
+      "targetId": "6223"
+    },
+    {
+      "name": "David Draiman",
+      "targetId": "6319"
+    },
+    {
+      "name": "Brian Welch",
+      "targetId": "6323"
+    },
+    {
+      "name": "James Shaffer",
+      "targetId": "6324"
+    },
+    {
+      "name": "Danny Elfman",
+      "targetId": "10925"
+    },
+    {
+      "name": "Leon Schneiderman",
+      "targetId": "10926"
+    },
+    {
+      "name": "Kerry Hatch",
+      "targetId": "10927"
+    },
+    {
+      "name": "Johnny \"Vatos\" Hernandez",
+      "targetId": "10928"
+    },
+    {
+      "name": "Steve Vartek",
+      "targetId": "10929"
+    },
+    {
+      "name": "Sam Phipps",
+      "targetId": "10930"
+    },
+    {
+      "name": "Dale Turner",
+      "targetId": "10931"
+    }
+  ]
+}

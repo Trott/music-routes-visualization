@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ice Cube",
-    "target": "Ice-T",
-    "targetId": "2798"
-  },
-  {
-    "source": "Ice Cube",
-    "target": "MC Ren",
-    "targetId": "2800"
-  },
-  {
-    "source": "Ice Cube",
-    "target": "Eazy-E",
-    "targetId": "2801"
-  },
-  {
-    "source": "Ice Cube",
-    "target": "Tupac Shakur",
-    "targetId": "5866"
-  },
-  {
-    "source": "Ice Cube",
-    "target": "Sister Souljah",
-    "targetId": "5947"
-  }
-]
+{
+  "source": "Ice Cube",
+  "targets": [
+    {
+      "name": "Ice-T",
+      "targetId": "2798"
+    },
+    {
+      "name": "MC Ren",
+      "targetId": "2800"
+    },
+    {
+      "name": "Eazy-E",
+      "targetId": "2801"
+    },
+    {
+      "name": "Tupac Shakur",
+      "targetId": "5866"
+    },
+    {
+      "name": "Sister Souljah",
+      "targetId": "5947"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Earle",
-    "target": "Phil Lynott",
-    "targetId": "2690"
-  },
-  {
-    "source": "John Earle",
-    "target": "Brian Downey",
-    "targetId": "2691"
-  },
-  {
-    "source": "John Earle",
-    "target": "Scott Gorham",
-    "targetId": "2692"
-  },
-  {
-    "source": "John Earle",
-    "target": "Brian Robertson",
-    "targetId": "9880"
-  }
-]
+{
+  "source": "John Earle",
+  "targets": [
+    {
+      "name": "Phil Lynott",
+      "targetId": "2690"
+    },
+    {
+      "name": "Brian Downey",
+      "targetId": "2691"
+    },
+    {
+      "name": "Scott Gorham",
+      "targetId": "2692"
+    },
+    {
+      "name": "Brian Robertson",
+      "targetId": "9880"
+    }
+  ]
+}

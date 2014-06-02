@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ric Grech",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Ric Grech",
-    "target": "Steve Winwood",
-    "targetId": "905"
-  },
-  {
-    "source": "Ric Grech",
-    "target": "Ginger Baker",
-    "targetId": "915"
-  }
-]
+{
+  "source": "Ric Grech",
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Steve Winwood",
+      "targetId": "905"
+    },
+    {
+      "name": "Ginger Baker",
+      "targetId": "915"
+    }
+  ]
+}

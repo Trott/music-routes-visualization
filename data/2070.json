@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Kate Moss",
-    "target": "Noel Gallagher",
-    "targetId": "2067"
-  },
-  {
-    "source": "Kate Moss",
-    "target": "Liam Gallagher",
-    "targetId": "2068"
-  },
-  {
-    "source": "Kate Moss",
-    "target": "Lisa Morrish",
-    "targetId": "2069"
-  }
-]
+{
+  "source": "Kate Moss",
+  "targets": [
+    {
+      "name": "Noel Gallagher",
+      "targetId": "2067"
+    },
+    {
+      "name": "Liam Gallagher",
+      "targetId": "2068"
+    },
+    {
+      "name": "Lisa Morrish",
+      "targetId": "2069"
+    }
+  ]
+}

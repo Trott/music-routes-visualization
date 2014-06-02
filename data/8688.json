@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jimmy Wayne",
-    "target": "Daryl Hall",
-    "targetId": "53"
-  },
-  {
-    "source": "Jimmy Wayne",
-    "target": "John Oates",
-    "targetId": "69"
-  },
-  {
-    "source": "Jimmy Wayne",
-    "target": "Whitney Duncan",
-    "targetId": "8687"
-  }
-]
+{
+  "source": "Jimmy Wayne",
+  "targets": [
+    {
+      "name": "Daryl Hall",
+      "targetId": "53"
+    },
+    {
+      "name": "John Oates",
+      "targetId": "69"
+    },
+    {
+      "name": "Whitney Duncan",
+      "targetId": "8687"
+    }
+  ]
+}

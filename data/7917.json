@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Simon Seville",
-    "target": "Larry Taylor",
-    "targetId": "2567"
-  },
-  {
-    "source": "Simon Seville",
-    "target": "David Seville",
-    "targetId": "7914"
-  },
-  {
-    "source": "Simon Seville",
-    "target": "Alvin Seville",
-    "targetId": "7915"
-  },
-  {
-    "source": "Simon Seville",
-    "target": "Theodore Seville",
-    "targetId": "7916"
-  },
-  {
-    "source": "Simon Seville",
-    "target": "Bob Hite",
-    "targetId": "7918"
-  },
-  {
-    "source": "Simon Seville",
-    "target": "Alan Wilson",
-    "targetId": "7919"
-  },
-  {
-    "source": "Simon Seville",
-    "target": "Henry Vestine",
-    "targetId": "7920"
-  },
-  {
-    "source": "Simon Seville",
-    "target": "Fito de la Parra",
-    "targetId": "7921"
-  }
-]
+{
+  "source": "Simon Seville",
+  "targets": [
+    {
+      "name": "Larry Taylor",
+      "targetId": "2567"
+    },
+    {
+      "name": "David Seville",
+      "targetId": "7914"
+    },
+    {
+      "name": "Alvin Seville",
+      "targetId": "7915"
+    },
+    {
+      "name": "Theodore Seville",
+      "targetId": "7916"
+    },
+    {
+      "name": "Bob Hite",
+      "targetId": "7918"
+    },
+    {
+      "name": "Alan Wilson",
+      "targetId": "7919"
+    },
+    {
+      "name": "Henry Vestine",
+      "targetId": "7920"
+    },
+    {
+      "name": "Fito de la Parra",
+      "targetId": "7921"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jon Carroll",
-    "target": "Bill Danoff",
-    "targetId": "3891"
-  },
-  {
-    "source": "Jon Carroll",
-    "target": "Taffy Nivert",
-    "targetId": "3892"
-  },
-  {
-    "source": "Jon Carroll",
-    "target": "Margot Chapman",
-    "targetId": "3895"
-  }
-]
+{
+  "source": "Jon Carroll",
+  "targets": [
+    {
+      "name": "Bill Danoff",
+      "targetId": "3891"
+    },
+    {
+      "name": "Taffy Nivert",
+      "targetId": "3892"
+    },
+    {
+      "name": "Margot Chapman",
+      "targetId": "3895"
+    }
+  ]
+}

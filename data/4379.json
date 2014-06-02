@@ -1,32 +1,29 @@
-[
-  {
-    "source": "John D'Earth",
-    "target": "Dave Matthews",
-    "targetId": "186"
-  },
-  {
-    "source": "John D'Earth",
-    "target": "Stefan Lessard",
-    "targetId": "4369"
-  },
-  {
-    "source": "John D'Earth",
-    "target": "Carter Beauford",
-    "targetId": "4370"
-  },
-  {
-    "source": "John D'Earth",
-    "target": "Tim Reynolds",
-    "targetId": "4371"
-  },
-  {
-    "source": "John D'Earth",
-    "target": "Leroi Moore",
-    "targetId": "4372"
-  },
-  {
-    "source": "John D'Earth",
-    "target": "Boyd Tinsley",
-    "targetId": "4373"
-  }
-]
+{
+  "source": "John D'Earth",
+  "targets": [
+    {
+      "name": "Dave Matthews",
+      "targetId": "186"
+    },
+    {
+      "name": "Stefan Lessard",
+      "targetId": "4369"
+    },
+    {
+      "name": "Carter Beauford",
+      "targetId": "4370"
+    },
+    {
+      "name": "Tim Reynolds",
+      "targetId": "4371"
+    },
+    {
+      "name": "Leroi Moore",
+      "targetId": "4372"
+    },
+    {
+      "name": "Boyd Tinsley",
+      "targetId": "4373"
+    }
+  ]
+}

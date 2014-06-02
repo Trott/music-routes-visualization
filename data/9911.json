@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jimmy Cliff",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Jimmy Cliff",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Jimmy Cliff",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Jimmy Cliff",
-    "target": "Bruce Thomas",
-    "targetId": "7277"
-  }
-]
+{
+  "source": "Jimmy Cliff",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Bruce Thomas",
+      "targetId": "7277"
+    }
+  ]
+}

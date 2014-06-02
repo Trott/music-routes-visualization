@@ -1,27 +1,25 @@
-[
-  {
-    "source": "James Bairiam",
-    "target": "Andy Samberg",
-    "targetId": "6928"
-  },
-  {
-    "source": "James Bairiam",
-    "target": "Akiva Schaffer",
-    "targetId": "6929"
-  },
-  {
-    "source": "James Bairiam",
-    "target": "Jorma Taccone",
-    "targetId": "6930"
-  },
-  {
-    "source": "James Bairiam",
-    "target": "Brian Sperber",
-    "targetId": "6931"
-  },
-  {
-    "source": "James Bairiam",
-    "target": "Matthew Compton",
-    "targetId": "6940"
-  }
-]
+{
+  "source": "James Bairiam",
+  "targets": [
+    {
+      "name": "Andy Samberg",
+      "targetId": "6928"
+    },
+    {
+      "name": "Akiva Schaffer",
+      "targetId": "6929"
+    },
+    {
+      "name": "Jorma Taccone",
+      "targetId": "6930"
+    },
+    {
+      "name": "Brian Sperber",
+      "targetId": "6931"
+    },
+    {
+      "name": "Matthew Compton",
+      "targetId": "6940"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Tracy Seeger",
-    "target": "John Catchings",
-    "targetId": "6495"
-  },
-  {
-    "source": "Tracy Seeger",
-    "target": "Britt Daniel",
-    "targetId": "9654"
-  },
-  {
-    "source": "Tracy Seeger",
-    "target": "Eric Harvey",
-    "targetId": "9655"
-  },
-  {
-    "source": "Tracy Seeger",
-    "target": "Jim Eno",
-    "targetId": "9656"
-  },
-  {
-    "source": "Tracy Seeger",
-    "target": "Rob Pope",
-    "targetId": "9657"
-  },
-  {
-    "source": "Tracy Seeger",
-    "target": "Ames Asbell",
-    "targetId": "9668"
-  },
-  {
-    "source": "Tracy Seeger",
-    "target": "Leigh Mahoney",
-    "targetId": "9669"
-  },
-  {
-    "source": "Tracy Seeger",
-    "target": "Sara Nelson",
-    "targetId": "9670"
-  }
-]
+{
+  "source": "Tracy Seeger",
+  "targets": [
+    {
+      "name": "John Catchings",
+      "targetId": "6495"
+    },
+    {
+      "name": "Britt Daniel",
+      "targetId": "9654"
+    },
+    {
+      "name": "Eric Harvey",
+      "targetId": "9655"
+    },
+    {
+      "name": "Jim Eno",
+      "targetId": "9656"
+    },
+    {
+      "name": "Rob Pope",
+      "targetId": "9657"
+    },
+    {
+      "name": "Ames Asbell",
+      "targetId": "9668"
+    },
+    {
+      "name": "Leigh Mahoney",
+      "targetId": "9669"
+    },
+    {
+      "name": "Sara Nelson",
+      "targetId": "9670"
+    }
+  ]
+}

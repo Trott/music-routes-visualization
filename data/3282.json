@@ -1,47 +1,41 @@
-[
-  {
-    "source": "John McKenzie",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "John McKenzie",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "John McKenzie",
-    "target": "Madelyn Quebec",
-    "targetId": "562"
-  },
-  {
-    "source": "John McKenzie",
-    "target": "Muffy Hendrix",
-    "targetId": "563"
-  },
-  {
-    "source": "John McKenzie",
-    "target": "Queen Esther Marrow",
-    "targetId": "3269"
-  },
-  {
-    "source": "John McKenzie",
-    "target": "Elisecia Wright",
-    "targetId": "3275"
-  },
-  {
-    "source": "John McKenzie",
-    "target": "David A. Stewart",
-    "targetId": "3279"
-  },
-  {
-    "source": "John McKenzie",
-    "target": "Clem Burke",
-    "targetId": "3280"
-  },
-  {
-    "source": "John McKenzie",
-    "target": "Patrick Seymour",
-    "targetId": "3281"
-  }
-]
+{
+  "source": "John McKenzie",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Madelyn Quebec",
+      "targetId": "562"
+    },
+    {
+      "name": "Muffy Hendrix",
+      "targetId": "563"
+    },
+    {
+      "name": "Queen Esther Marrow",
+      "targetId": "3269"
+    },
+    {
+      "name": "Elisecia Wright",
+      "targetId": "3275"
+    },
+    {
+      "name": "David A. Stewart",
+      "targetId": "3279"
+    },
+    {
+      "name": "Clem Burke",
+      "targetId": "3280"
+    },
+    {
+      "name": "Patrick Seymour",
+      "targetId": "3281"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Doug Henthorn",
-    "target": "Carmine Rojas",
-    "targetId": "4013"
-  },
-  {
-    "source": "Doug Henthorn",
-    "target": "Jason Bonham",
-    "targetId": "8034"
-  },
-  {
-    "source": "Doug Henthorn",
-    "target": "Joe Bonamassa",
-    "targetId": "10510"
-  },
-  {
-    "source": "Doug Henthorn",
-    "target": "Rick Melick",
-    "targetId": "10511"
-  }
-]
+{
+  "source": "Doug Henthorn",
+  "targets": [
+    {
+      "name": "Carmine Rojas",
+      "targetId": "4013"
+    },
+    {
+      "name": "Jason Bonham",
+      "targetId": "8034"
+    },
+    {
+      "name": "Joe Bonamassa",
+      "targetId": "10510"
+    },
+    {
+      "name": "Rick Melick",
+      "targetId": "10511"
+    }
+  ]
+}

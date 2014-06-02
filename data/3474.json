@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Bette Sussman",
-    "target": "Joe Lynn Turner",
-    "targetId": "323"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "Jerry Marotta",
-    "targetId": "661"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "Cher",
-    "targetId": "3456"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "John McCurry",
-    "targetId": "3458"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "Chuck Kentis",
-    "targetId": "3463"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "Desmond Child",
-    "targetId": "3466"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "Louis Merlino",
-    "targetId": "3468"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "Myriam Valle",
-    "targetId": "3469"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "Elaine Caswell",
-    "targetId": "3471"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "Seth Glassman",
-    "targetId": "3472"
-  },
-  {
-    "source": "Bette Sussman",
-    "target": "John Putnam",
-    "targetId": "3473"
-  }
-]
+{
+  "source": "Bette Sussman",
+  "targets": [
+    {
+      "name": "Joe Lynn Turner",
+      "targetId": "323"
+    },
+    {
+      "name": "Jerry Marotta",
+      "targetId": "661"
+    },
+    {
+      "name": "Cher",
+      "targetId": "3456"
+    },
+    {
+      "name": "John McCurry",
+      "targetId": "3458"
+    },
+    {
+      "name": "Chuck Kentis",
+      "targetId": "3463"
+    },
+    {
+      "name": "Desmond Child",
+      "targetId": "3466"
+    },
+    {
+      "name": "Louis Merlino",
+      "targetId": "3468"
+    },
+    {
+      "name": "Myriam Valle",
+      "targetId": "3469"
+    },
+    {
+      "name": "Elaine Caswell",
+      "targetId": "3471"
+    },
+    {
+      "name": "Seth Glassman",
+      "targetId": "3472"
+    },
+    {
+      "name": "John Putnam",
+      "targetId": "3473"
+    }
+  ]
+}

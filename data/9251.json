@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Eric Singer",
-    "target": "Bob Daisley",
-    "targetId": "315"
-  },
-  {
-    "source": "Eric Singer",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Eric Singer",
-    "target": "Warren DeMartini",
-    "targetId": "7215"
-  },
-  {
-    "source": "Eric Singer",
-    "target": "Ian Astbury",
-    "targetId": "7862"
-  },
-  {
-    "source": "Eric Singer",
-    "target": "Billy Duffy",
-    "targetId": "7863"
-  },
-  {
-    "source": "Eric Singer",
-    "target": "Jamie Stewart",
-    "targetId": "7864"
-  },
-  {
-    "source": "Eric Singer",
-    "target": "Ahmet Zappa",
-    "targetId": "9252"
-  }
-]
+{
+  "source": "Eric Singer",
+  "targets": [
+    {
+      "name": "Bob Daisley",
+      "targetId": "315"
+    },
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Warren DeMartini",
+      "targetId": "7215"
+    },
+    {
+      "name": "Ian Astbury",
+      "targetId": "7862"
+    },
+    {
+      "name": "Billy Duffy",
+      "targetId": "7863"
+    },
+    {
+      "name": "Jamie Stewart",
+      "targetId": "7864"
+    },
+    {
+      "name": "Ahmet Zappa",
+      "targetId": "9252"
+    }
+  ]
+}

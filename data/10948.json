@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Patrick Pantano",
-    "target": "Jim Weber",
-    "targetId": "10946"
-  },
-  {
-    "source": "Patrick Pantano",
-    "target": "Frederick Beldin",
-    "targetId": "10949"
-  },
-  {
-    "source": "Patrick Pantano",
-    "target": "James Diamond",
-    "targetId": "10950"
-  },
-  {
-    "source": "Patrick Pantano",
-    "target": "Thomas Potter",
-    "targetId": "10951"
-  }
-]
+{
+  "source": "Patrick Pantano",
+  "targets": [
+    {
+      "name": "Jim Weber",
+      "targetId": "10946"
+    },
+    {
+      "name": "Frederick Beldin",
+      "targetId": "10949"
+    },
+    {
+      "name": "James Diamond",
+      "targetId": "10950"
+    },
+    {
+      "name": "Thomas Potter",
+      "targetId": "10951"
+    }
+  ]
+}

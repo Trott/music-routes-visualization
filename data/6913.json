@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Håvard Caspersen",
-    "target": "Maria Mena",
-    "targetId": "6903"
-  },
-  {
-    "source": "Håvard Caspersen",
-    "target": "Vemund Stavnes",
-    "targetId": "6905"
-  },
-  {
-    "source": "Håvard Caspersen",
-    "target": "Fredrik Wallumrød",
-    "targetId": "6906"
-  },
-  {
-    "source": "Håvard Caspersen",
-    "target": "Arvid Solvang",
-    "targetId": "6907"
-  },
-  {
-    "source": "Håvard Caspersen",
-    "target": "Steffen Isaksen",
-    "targetId": "6908"
-  },
-  {
-    "source": "Håvard Caspersen",
-    "target": "David Wallumrød",
-    "targetId": "6909"
-  }
-]
+{
+  "source": "Håvard Caspersen",
+  "targets": [
+    {
+      "name": "Maria Mena",
+      "targetId": "6903"
+    },
+    {
+      "name": "Vemund Stavnes",
+      "targetId": "6905"
+    },
+    {
+      "name": "Fredrik Wallumrød",
+      "targetId": "6906"
+    },
+    {
+      "name": "Arvid Solvang",
+      "targetId": "6907"
+    },
+    {
+      "name": "Steffen Isaksen",
+      "targetId": "6908"
+    },
+    {
+      "name": "David Wallumrød",
+      "targetId": "6909"
+    }
+  ]
+}

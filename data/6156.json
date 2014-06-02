@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Greg Norton",
-    "target": "Bob Mould",
-    "targetId": "2920"
-  },
-  {
-    "source": "Greg Norton",
-    "target": "Grant Hart",
-    "targetId": "6155"
-  }
-]
+{
+  "source": "Greg Norton",
+  "targets": [
+    {
+      "name": "Bob Mould",
+      "targetId": "2920"
+    },
+    {
+      "name": "Grant Hart",
+      "targetId": "6155"
+    }
+  ]
+}

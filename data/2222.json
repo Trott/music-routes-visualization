@@ -1,67 +1,57 @@
-[
-  {
-    "source": "Bob Shepard",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Bruce Fowler",
-    "targetId": "432"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Brandon Fields",
-    "targetId": "434"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "James Taylor",
-    "targetId": "991"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Tom Fowler",
-    "targetId": "1325"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Ray Brinker",
-    "targetId": "2217"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Irv Kramer",
-    "targetId": "2218"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Michael Landau",
-    "targetId": "2220"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Randy Waldman",
-    "targetId": "2221"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Dave Boruff",
-    "targetId": "2223"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Bob McChesney",
-    "targetId": "2224"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Walt Fowler",
-    "targetId": "2225"
-  },
-  {
-    "source": "Bob Shepard",
-    "target": "Charles Davis",
-    "targetId": "2226"
-  }
-]
+{
+  "source": "Bob Shepard",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Bruce Fowler",
+      "targetId": "432"
+    },
+    {
+      "name": "Brandon Fields",
+      "targetId": "434"
+    },
+    {
+      "name": "James Taylor",
+      "targetId": "991"
+    },
+    {
+      "name": "Tom Fowler",
+      "targetId": "1325"
+    },
+    {
+      "name": "Ray Brinker",
+      "targetId": "2217"
+    },
+    {
+      "name": "Irv Kramer",
+      "targetId": "2218"
+    },
+    {
+      "name": "Michael Landau",
+      "targetId": "2220"
+    },
+    {
+      "name": "Randy Waldman",
+      "targetId": "2221"
+    },
+    {
+      "name": "Dave Boruff",
+      "targetId": "2223"
+    },
+    {
+      "name": "Bob McChesney",
+      "targetId": "2224"
+    },
+    {
+      "name": "Walt Fowler",
+      "targetId": "2225"
+    },
+    {
+      "name": "Charles Davis",
+      "targetId": "2226"
+    }
+  ]
+}

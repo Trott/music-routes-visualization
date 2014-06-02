@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Bryce Dessner",
-    "target": "Annie Clark",
-    "targetId": "8532"
-  },
-  {
-    "source": "Bryce Dessner",
-    "target": "Matt Berninger",
-    "targetId": "8707"
-  },
-  {
-    "source": "Bryce Dessner",
-    "target": "Aaron Dessner",
-    "targetId": "8708"
-  },
-  {
-    "source": "Bryce Dessner",
-    "target": "Bryan Devendorf",
-    "targetId": "8710"
-  },
-  {
-    "source": "Bryce Dessner",
-    "target": "Scott Devendorf",
-    "targetId": "8711"
-  }
-]
+{
+  "source": "Bryce Dessner",
+  "targets": [
+    {
+      "name": "Annie Clark",
+      "targetId": "8532"
+    },
+    {
+      "name": "Matt Berninger",
+      "targetId": "8707"
+    },
+    {
+      "name": "Aaron Dessner",
+      "targetId": "8708"
+    },
+    {
+      "name": "Bryan Devendorf",
+      "targetId": "8710"
+    },
+    {
+      "name": "Scott Devendorf",
+      "targetId": "8711"
+    }
+  ]
+}

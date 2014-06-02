@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Chris Taylor",
-    "target": "Ian Astbury",
-    "targetId": "7862"
-  },
-  {
-    "source": "Chris Taylor",
-    "target": "Billy Duffy",
-    "targetId": "7863"
-  },
-  {
-    "source": "Chris Taylor",
-    "target": "Jamie Stewart",
-    "targetId": "7864"
-  }
-]
+{
+  "source": "Chris Taylor",
+  "targets": [
+    {
+      "name": "Ian Astbury",
+      "targetId": "7862"
+    },
+    {
+      "name": "Billy Duffy",
+      "targetId": "7863"
+    },
+    {
+      "name": "Jamie Stewart",
+      "targetId": "7864"
+    }
+  ]
+}

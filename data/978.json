@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pete Sully",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Pete Sully",
-    "target": "Andrew Poisoner",
-    "targetId": "13"
-  },
-  {
-    "source": "Pete Sully",
-    "target": "Tom Neely",
-    "targetId": "974"
-  }
-]
+{
+  "source": "Pete Sully",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Andrew Poisoner",
+      "targetId": "13"
+    },
+    {
+      "name": "Tom Neely",
+      "targetId": "974"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Sean Nelson",
-    "target": "Ben Gibbard",
-    "targetId": "6919"
-  },
-  {
-    "source": "Sean Nelson",
-    "target": "Chris Walla",
-    "targetId": "6921"
-  },
-  {
-    "source": "Sean Nelson",
-    "target": "Nicholas Harmer",
-    "targetId": "6922"
-  },
-  {
-    "source": "Sean Nelson",
-    "target": "Michael Schorr",
-    "targetId": "6923"
-  },
-  {
-    "source": "Sean Nelson",
-    "target": "John Vanderslice",
-    "targetId": "6924"
-  }
-]
+{
+  "source": "Sean Nelson",
+  "targets": [
+    {
+      "name": "Ben Gibbard",
+      "targetId": "6919"
+    },
+    {
+      "name": "Chris Walla",
+      "targetId": "6921"
+    },
+    {
+      "name": "Nicholas Harmer",
+      "targetId": "6922"
+    },
+    {
+      "name": "Michael Schorr",
+      "targetId": "6923"
+    },
+    {
+      "name": "John Vanderslice",
+      "targetId": "6924"
+    }
+  ]
+}

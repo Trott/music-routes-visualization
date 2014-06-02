@@ -1,22 +1,21 @@
-[
-  {
-    "source": "André Jourdan",
-    "target": "Joseph Reinhardt",
-    "targetId": "1145"
-  },
-  {
-    "source": "André Jourdan",
-    "target": "Django Reinhardt",
-    "targetId": "1156"
-  },
-  {
-    "source": "André Jourdan",
-    "target": "Ladislas Czabanyck",
-    "targetId": "1184"
-  },
-  {
-    "source": "André Jourdan",
-    "target": "Hubert Rostaing",
-    "targetId": "1185"
-  }
-]
+{
+  "source": "André Jourdan",
+  "targets": [
+    {
+      "name": "Joseph Reinhardt",
+      "targetId": "1145"
+    },
+    {
+      "name": "Django Reinhardt",
+      "targetId": "1156"
+    },
+    {
+      "name": "Ladislas Czabanyck",
+      "targetId": "1184"
+    },
+    {
+      "name": "Hubert Rostaing",
+      "targetId": "1185"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Hank Azaria",
-    "target": "Harry Shearer",
-    "targetId": "175"
-  },
-  {
-    "source": "Hank Azaria",
-    "target": "Phil Hartman",
-    "targetId": "7431"
-  },
-  {
-    "source": "Hank Azaria",
-    "target": "Dan Castellaneta",
-    "targetId": "7432"
-  },
-  {
-    "source": "Hank Azaria",
-    "target": "Julie Kavner",
-    "targetId": "7433"
-  },
-  {
-    "source": "Hank Azaria",
-    "target": "Maggie Roswell",
-    "targetId": "7434"
-  },
-  {
-    "source": "Hank Azaria",
-    "target": "Nancy Cartwright",
-    "targetId": "7436"
-  }
-]
+{
+  "source": "Hank Azaria",
+  "targets": [
+    {
+      "name": "Harry Shearer",
+      "targetId": "175"
+    },
+    {
+      "name": "Phil Hartman",
+      "targetId": "7431"
+    },
+    {
+      "name": "Dan Castellaneta",
+      "targetId": "7432"
+    },
+    {
+      "name": "Julie Kavner",
+      "targetId": "7433"
+    },
+    {
+      "name": "Maggie Roswell",
+      "targetId": "7434"
+    },
+    {
+      "name": "Nancy Cartwright",
+      "targetId": "7436"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dean Fertita",
-    "target": "Jack White",
-    "targetId": "256"
-  },
-  {
-    "source": "Dean Fertita",
-    "target": "Jack Lawrence",
-    "targetId": "3812"
-  },
-  {
-    "source": "Dean Fertita",
-    "target": "Alison Mosshart",
-    "targetId": "7563"
-  }
-]
+{
+  "source": "Dean Fertita",
+  "targets": [
+    {
+      "name": "Jack White",
+      "targetId": "256"
+    },
+    {
+      "name": "Jack Lawrence",
+      "targetId": "3812"
+    },
+    {
+      "name": "Alison Mosshart",
+      "targetId": "7563"
+    }
+  ]
+}

@@ -1,142 +1,117 @@
-[
-  {
-    "source": "Brian May",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Brian May",
-    "target": "Freddie Mercury",
-    "targetId": "212"
-  },
-  {
-    "source": "Brian May",
-    "target": "John Deacon",
-    "targetId": "214"
-  },
-  {
-    "source": "Brian May",
-    "target": "Roger Taylor",
-    "targetId": "215"
-  },
-  {
-    "source": "Brian May",
-    "target": "Cozy Powell",
-    "targetId": "312"
-  },
-  {
-    "source": "Brian May",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Brian May",
-    "target": "Tony Iommi",
-    "targetId": "335"
-  },
-  {
-    "source": "Brian May",
-    "target": "Laurence Cottle",
-    "targetId": "336"
-  },
-  {
-    "source": "Brian May",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Brian May",
-    "target": "Luciano Pavarotti",
-    "targetId": "823"
-  },
-  {
-    "source": "Brian May",
-    "target": "Steve Hackett",
-    "targetId": "1582"
-  },
-  {
-    "source": "Brian May",
-    "target": "Chris Shiflett",
-    "targetId": "2135"
-  },
-  {
-    "source": "Brian May",
-    "target": "Nate Mendel",
-    "targetId": "2136"
-  },
-  {
-    "source": "Brian May",
-    "target": "Taylor Hawkins",
-    "targetId": "2137"
-  },
-  {
-    "source": "Brian May",
-    "target": "Neil Murray",
-    "targetId": "3381"
-  },
-  {
-    "source": "Brian May",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Brian May",
-    "target": "Joan Armatrading",
-    "targetId": "5518"
-  },
-  {
-    "source": "Brian May",
-    "target": "Pete Trewavas",
-    "targetId": "5573"
-  },
-  {
-    "source": "Brian May",
-    "target": "Ian Mosely",
-    "targetId": "5574"
-  },
-  {
-    "source": "Brian May",
-    "target": "Nick Magnus",
-    "targetId": "5575"
-  },
-  {
-    "source": "Brian May",
-    "target": "Shelley Preston",
-    "targetId": "8955"
-  },
-  {
-    "source": "Brian May",
-    "target": "Cathy Porther",
-    "targetId": "8956"
-  },
-  {
-    "source": "Brian May",
-    "target": "Becci Glover",
-    "targetId": "8957"
-  },
-  {
-    "source": "Brian May",
-    "target": "Nikki Love",
-    "targetId": "8958"
-  },
-  {
-    "source": "Brian May",
-    "target": "Ian Hunter",
-    "targetId": "8959"
-  },
-  {
-    "source": "Brian May",
-    "target": "Chris Dreja",
-    "targetId": "10276"
-  },
-  {
-    "source": "Brian May",
-    "target": "Jim McCarty",
-    "targetId": "10277"
-  },
-  {
-    "source": "Brian May",
-    "target": "John Idan",
-    "targetId": "10280"
-  }
-]
+{
+  "source": "Brian May",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Freddie Mercury",
+      "targetId": "212"
+    },
+    {
+      "name": "John Deacon",
+      "targetId": "214"
+    },
+    {
+      "name": "Roger Taylor",
+      "targetId": "215"
+    },
+    {
+      "name": "Cozy Powell",
+      "targetId": "312"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Tony Iommi",
+      "targetId": "335"
+    },
+    {
+      "name": "Laurence Cottle",
+      "targetId": "336"
+    },
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Luciano Pavarotti",
+      "targetId": "823"
+    },
+    {
+      "name": "Steve Hackett",
+      "targetId": "1582"
+    },
+    {
+      "name": "Chris Shiflett",
+      "targetId": "2135"
+    },
+    {
+      "name": "Nate Mendel",
+      "targetId": "2136"
+    },
+    {
+      "name": "Taylor Hawkins",
+      "targetId": "2137"
+    },
+    {
+      "name": "Neil Murray",
+      "targetId": "3381"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Joan Armatrading",
+      "targetId": "5518"
+    },
+    {
+      "name": "Pete Trewavas",
+      "targetId": "5573"
+    },
+    {
+      "name": "Ian Mosely",
+      "targetId": "5574"
+    },
+    {
+      "name": "Nick Magnus",
+      "targetId": "5575"
+    },
+    {
+      "name": "Shelley Preston",
+      "targetId": "8955"
+    },
+    {
+      "name": "Cathy Porther",
+      "targetId": "8956"
+    },
+    {
+      "name": "Becci Glover",
+      "targetId": "8957"
+    },
+    {
+      "name": "Nikki Love",
+      "targetId": "8958"
+    },
+    {
+      "name": "Ian Hunter",
+      "targetId": "8959"
+    },
+    {
+      "name": "Chris Dreja",
+      "targetId": "10276"
+    },
+    {
+      "name": "Jim McCarty",
+      "targetId": "10277"
+    },
+    {
+      "name": "John Idan",
+      "targetId": "10280"
+    }
+  ]
+}

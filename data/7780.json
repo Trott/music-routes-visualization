@@ -1,12 +1,13 @@
-[
-  {
-    "source": "John Taylor",
-    "target": "David Sylvian",
-    "targetId": "4964"
-  },
-  {
-    "source": "John Taylor",
-    "target": "Kenny Wheeler",
-    "targetId": "7779"
-  }
-]
+{
+  "source": "John Taylor",
+  "targets": [
+    {
+      "name": "David Sylvian",
+      "targetId": "4964"
+    },
+    {
+      "name": "Kenny Wheeler",
+      "targetId": "7779"
+    }
+  ]
+}

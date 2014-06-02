@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Marc Scott",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Marc Scott",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Marc Scott",
-    "target": "Andrew Mackay",
-    "targetId": "492"
-  },
-  {
-    "source": "Marc Scott",
-    "target": "Simon King",
-    "targetId": "566"
-  },
-  {
-    "source": "Marc Scott",
-    "target": "Bill MacCormick",
-    "targetId": "8637"
-  },
-  {
-    "source": "Marc Scott",
-    "target": "Busta Jones",
-    "targetId": "8638"
-  },
-  {
-    "source": "Marc Scott",
-    "target": "Nick Kool",
-    "targetId": "8642"
-  }
-]
+{
+  "source": "Marc Scott",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Andrew Mackay",
+      "targetId": "492"
+    },
+    {
+      "name": "Simon King",
+      "targetId": "566"
+    },
+    {
+      "name": "Bill MacCormick",
+      "targetId": "8637"
+    },
+    {
+      "name": "Busta Jones",
+      "targetId": "8638"
+    },
+    {
+      "name": "Nick Kool",
+      "targetId": "8642"
+    }
+  ]
+}

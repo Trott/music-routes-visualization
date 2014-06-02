@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tony Lash",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Tony Lash",
-    "target": "Andrew Poisoner",
-    "targetId": "13"
-  },
-  {
-    "source": "Tony Lash",
-    "target": "Sam Coomes",
-    "targetId": "23"
-  },
-  {
-    "source": "Tony Lash",
-    "target": "Neil Gust",
-    "targetId": "24"
-  },
-  {
-    "source": "Tony Lash",
-    "target": "Elliott Smith",
-    "targetId": "25"
-  }
-]
+{
+  "source": "Tony Lash",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Andrew Poisoner",
+      "targetId": "13"
+    },
+    {
+      "name": "Sam Coomes",
+      "targetId": "23"
+    },
+    {
+      "name": "Neil Gust",
+      "targetId": "24"
+    },
+    {
+      "name": "Elliott Smith",
+      "targetId": "25"
+    }
+  ]
+}

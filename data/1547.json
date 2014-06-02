@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ken Pearson",
-    "target": "Janis Joplin",
-    "targetId": "1542"
-  },
-  {
-    "source": "Ken Pearson",
-    "target": "Richard Bell",
-    "targetId": "1543"
-  },
-  {
-    "source": "Ken Pearson",
-    "target": "Brad Campbell",
-    "targetId": "1544"
-  },
-  {
-    "source": "Ken Pearson",
-    "target": "Clark Pierson",
-    "targetId": "1545"
-  },
-  {
-    "source": "Ken Pearson",
-    "target": "John Till",
-    "targetId": "1546"
-  }
-]
+{
+  "source": "Ken Pearson",
+  "targets": [
+    {
+      "name": "Janis Joplin",
+      "targetId": "1542"
+    },
+    {
+      "name": "Richard Bell",
+      "targetId": "1543"
+    },
+    {
+      "name": "Brad Campbell",
+      "targetId": "1544"
+    },
+    {
+      "name": "Clark Pierson",
+      "targetId": "1545"
+    },
+    {
+      "name": "John Till",
+      "targetId": "1546"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jon Coats",
-    "target": "Dave Rick",
-    "targetId": "3232"
-  },
-  {
-    "source": "Jon Coats",
-    "target": "Gerard Smith",
-    "targetId": "3234"
-  },
-  {
-    "source": "Jon Coats",
-    "target": "Robert Pollard",
-    "targetId": "3236"
-  }
-]
+{
+  "source": "Jon Coats",
+  "targets": [
+    {
+      "name": "Dave Rick",
+      "targetId": "3232"
+    },
+    {
+      "name": "Gerard Smith",
+      "targetId": "3234"
+    },
+    {
+      "name": "Robert Pollard",
+      "targetId": "3236"
+    }
+  ]
+}

@@ -1,182 +1,149 @@
-[
-  {
-    "source": "Eric Bowie",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Marianne Faithfull",
-    "targetId": "604"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "John Underwood",
-    "targetId": "3359"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Patti Harrison",
-    "targetId": "3363"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Chris Thomas",
-    "targetId": "8639"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Gary Leeds",
-    "targetId": "9577"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "David Mason",
-    "targetId": "9699"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Hunter Davies",
-    "targetId": "9703"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Mike McCartney",
-    "targetId": "9704"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Jane Asher",
-    "targetId": "9705"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Jack Emblow",
-    "targetId": "9706"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Evan Watkins",
-    "targetId": "9707"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Harry Spain",
-    "targetId": "9708"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Stanley Woods",
-    "targetId": "9709"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Rex Morris",
-    "targetId": "9710"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Don Honeywill",
-    "targetId": "9711"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Lionel Ross",
-    "targetId": "9712"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Jack Holmes",
-    "targetId": "9713"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Patrick Halling",
-    "targetId": "9714"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "John Ronayne",
-    "targetId": "9716"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Eldon Fox",
-    "targetId": "9731"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Reginald Kilbey",
-    "targetId": "9766"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Henry Datyner",
-    "targetId": "9799"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Norman Lederman",
-    "targetId": "9815"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Ronald Thomas",
-    "targetId": "9816"
-  },
-  {
-    "source": "Eric Bowie",
-    "target": "Keith Cummings",
-    "targetId": "9817"
-  }
-]
+{
+  "source": "Eric Bowie",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Marianne Faithfull",
+      "targetId": "604"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "John Underwood",
+      "targetId": "3359"
+    },
+    {
+      "name": "Patti Harrison",
+      "targetId": "3363"
+    },
+    {
+      "name": "Chris Thomas",
+      "targetId": "8639"
+    },
+    {
+      "name": "Gary Leeds",
+      "targetId": "9577"
+    },
+    {
+      "name": "David Mason",
+      "targetId": "9699"
+    },
+    {
+      "name": "Hunter Davies",
+      "targetId": "9703"
+    },
+    {
+      "name": "Mike McCartney",
+      "targetId": "9704"
+    },
+    {
+      "name": "Jane Asher",
+      "targetId": "9705"
+    },
+    {
+      "name": "Jack Emblow",
+      "targetId": "9706"
+    },
+    {
+      "name": "Evan Watkins",
+      "targetId": "9707"
+    },
+    {
+      "name": "Harry Spain",
+      "targetId": "9708"
+    },
+    {
+      "name": "Stanley Woods",
+      "targetId": "9709"
+    },
+    {
+      "name": "Rex Morris",
+      "targetId": "9710"
+    },
+    {
+      "name": "Don Honeywill",
+      "targetId": "9711"
+    },
+    {
+      "name": "Lionel Ross",
+      "targetId": "9712"
+    },
+    {
+      "name": "Jack Holmes",
+      "targetId": "9713"
+    },
+    {
+      "name": "Patrick Halling",
+      "targetId": "9714"
+    },
+    {
+      "name": "John Ronayne",
+      "targetId": "9716"
+    },
+    {
+      "name": "Eldon Fox",
+      "targetId": "9731"
+    },
+    {
+      "name": "Reginald Kilbey",
+      "targetId": "9766"
+    },
+    {
+      "name": "Henry Datyner",
+      "targetId": "9799"
+    },
+    {
+      "name": "Norman Lederman",
+      "targetId": "9815"
+    },
+    {
+      "name": "Ronald Thomas",
+      "targetId": "9816"
+    },
+    {
+      "name": "Keith Cummings",
+      "targetId": "9817"
+    }
+  ]
+}

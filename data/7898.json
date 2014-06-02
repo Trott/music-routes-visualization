@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Iain Archer",
-    "target": "Jonny Quinn",
-    "targetId": "5205"
-  },
-  {
-    "source": "Iain Archer",
-    "target": "Gary Lightbody",
-    "targetId": "5207"
-  },
-  {
-    "source": "Iain Archer",
-    "target": "Mark McClelland",
-    "targetId": "7893"
-  },
-  {
-    "source": "Iain Archer",
-    "target": "Nathan Connolly",
-    "targetId": "7894"
-  },
-  {
-    "source": "Iain Archer",
-    "target": "James Banbury",
-    "targetId": "7895"
-  }
-]
+{
+  "source": "Iain Archer",
+  "targets": [
+    {
+      "name": "Jonny Quinn",
+      "targetId": "5205"
+    },
+    {
+      "name": "Gary Lightbody",
+      "targetId": "5207"
+    },
+    {
+      "name": "Mark McClelland",
+      "targetId": "7893"
+    },
+    {
+      "name": "Nathan Connolly",
+      "targetId": "7894"
+    },
+    {
+      "name": "James Banbury",
+      "targetId": "7895"
+    }
+  ]
+}

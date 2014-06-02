@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Alan Mansfield",
-    "target": "Robert Palmer",
-    "targetId": "851"
-  },
-  {
-    "source": "Alan Mansfield",
-    "target": "Jack Waldman",
-    "targetId": "852"
-  },
-  {
-    "source": "Alan Mansfield",
-    "target": "Dony Wynn",
-    "targetId": "853"
-  }
-]
+{
+  "source": "Alan Mansfield",
+  "targets": [
+    {
+      "name": "Robert Palmer",
+      "targetId": "851"
+    },
+    {
+      "name": "Jack Waldman",
+      "targetId": "852"
+    },
+    {
+      "name": "Dony Wynn",
+      "targetId": "853"
+    }
+  ]
+}

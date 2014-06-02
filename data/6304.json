@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Cone McCaslin",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Cone McCaslin",
-    "target": "Steve Jocz",
-    "targetId": "3033"
-  },
-  {
-    "source": "Cone McCaslin",
-    "target": "Deryck Whibley",
-    "targetId": "6297"
-  },
-  {
-    "source": "Cone McCaslin",
-    "target": "Dave Baksh",
-    "targetId": "6305"
-  },
-  {
-    "source": "Cone McCaslin",
-    "target": "Greig Nori",
-    "targetId": "6309"
-  }
-]
+{
+  "source": "Cone McCaslin",
+  "targets": [
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Steve Jocz",
+      "targetId": "3033"
+    },
+    {
+      "name": "Deryck Whibley",
+      "targetId": "6297"
+    },
+    {
+      "name": "Dave Baksh",
+      "targetId": "6305"
+    },
+    {
+      "name": "Greig Nori",
+      "targetId": "6309"
+    }
+  ]
+}

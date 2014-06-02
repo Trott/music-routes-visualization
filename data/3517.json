@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Russ Tolman",
-    "target": "Steve Wynn",
-    "targetId": "3494"
-  },
-  {
-    "source": "Russ Tolman",
-    "target": "Kendra Smith",
-    "targetId": "3518"
-  },
-  {
-    "source": "Russ Tolman",
-    "target": "Gavin Blair",
-    "targetId": "3519"
-  }
-]
+{
+  "source": "Russ Tolman",
+  "targets": [
+    {
+      "name": "Steve Wynn",
+      "targetId": "3494"
+    },
+    {
+      "name": "Kendra Smith",
+      "targetId": "3518"
+    },
+    {
+      "name": "Gavin Blair",
+      "targetId": "3519"
+    }
+  ]
+}

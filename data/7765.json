@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Gary Moberley",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Gary Moberley",
-    "target": "Luis Jardim",
-    "targetId": "3684"
-  },
-  {
-    "source": "Gary Moberley",
-    "target": "Paddy McAloon",
-    "targetId": "7761"
-  },
-  {
-    "source": "Gary Moberley",
-    "target": "Martin McAloon",
-    "targetId": "7762"
-  },
-  {
-    "source": "Gary Moberley",
-    "target": "Wendy Smith",
-    "targetId": "7763"
-  },
-  {
-    "source": "Gary Moberley",
-    "target": "Neil Conti",
-    "targetId": "7764"
-  }
-]
+{
+  "source": "Gary Moberley",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Luis Jardim",
+      "targetId": "3684"
+    },
+    {
+      "name": "Paddy McAloon",
+      "targetId": "7761"
+    },
+    {
+      "name": "Martin McAloon",
+      "targetId": "7762"
+    },
+    {
+      "name": "Wendy Smith",
+      "targetId": "7763"
+    },
+    {
+      "name": "Neil Conti",
+      "targetId": "7764"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Sally Oldfield",
-    "target": "Mike Oldfield",
-    "targetId": "1955"
-  },
-  {
-    "source": "Sally Oldfield",
-    "target": "Lindsay Cooper",
-    "targetId": "1962"
-  },
-  {
-    "source": "Sally Oldfield",
-    "target": "John Field",
-    "targetId": "1963"
-  },
-  {
-    "source": "Sally Oldfield",
-    "target": "Vivian Stanshall",
-    "targetId": "1964"
-  },
-  {
-    "source": "Sally Oldfield",
-    "target": "Steve Broughton",
-    "targetId": "1965"
-  },
-  {
-    "source": "Sally Oldfield",
-    "target": "Mundy Ellis",
-    "targetId": "1966"
-  }
-]
+{
+  "source": "Sally Oldfield",
+  "targets": [
+    {
+      "name": "Mike Oldfield",
+      "targetId": "1955"
+    },
+    {
+      "name": "Lindsay Cooper",
+      "targetId": "1962"
+    },
+    {
+      "name": "John Field",
+      "targetId": "1963"
+    },
+    {
+      "name": "Vivian Stanshall",
+      "targetId": "1964"
+    },
+    {
+      "name": "Steve Broughton",
+      "targetId": "1965"
+    },
+    {
+      "name": "Mundy Ellis",
+      "targetId": "1966"
+    }
+  ]
+}

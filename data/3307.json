@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Andrew Davis",
-    "target": "Richard Wolfson",
-    "targetId": "3293"
-  },
-  {
-    "source": "Andrew Davis",
-    "target": "Andy Saunders",
-    "targetId": "3295"
-  },
-  {
-    "source": "Andrew Davis",
-    "target": "Márta Sebestyén",
-    "targetId": "3296"
-  }
-]
+{
+  "source": "Andrew Davis",
+  "targets": [
+    {
+      "name": "Richard Wolfson",
+      "targetId": "3293"
+    },
+    {
+      "name": "Andy Saunders",
+      "targetId": "3295"
+    },
+    {
+      "name": "Márta Sebestyén",
+      "targetId": "3296"
+    }
+  ]
+}

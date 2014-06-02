@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Mark Karan",
-    "target": "John Molo",
-    "targetId": "780"
-  },
-  {
-    "source": "Mark Karan",
-    "target": "Bruce Hornsby",
-    "targetId": "1016"
-  },
-  {
-    "source": "Mark Karan",
-    "target": "Bob Weir",
-    "targetId": "1317"
-  },
-  {
-    "source": "Mark Karan",
-    "target": "Mickey Hart",
-    "targetId": "1873"
-  },
-  {
-    "source": "Mark Karan",
-    "target": "Phil Lesh",
-    "targetId": "2113"
-  },
-  {
-    "source": "Mark Karan",
-    "target": "Dave Ellis",
-    "targetId": "7145"
-  },
-  {
-    "source": "Mark Karan",
-    "target": "Steve Kimock",
-    "targetId": "7146"
-  }
-]
+{
+  "source": "Mark Karan",
+  "targets": [
+    {
+      "name": "John Molo",
+      "targetId": "780"
+    },
+    {
+      "name": "Bruce Hornsby",
+      "targetId": "1016"
+    },
+    {
+      "name": "Bob Weir",
+      "targetId": "1317"
+    },
+    {
+      "name": "Mickey Hart",
+      "targetId": "1873"
+    },
+    {
+      "name": "Phil Lesh",
+      "targetId": "2113"
+    },
+    {
+      "name": "Dave Ellis",
+      "targetId": "7145"
+    },
+    {
+      "name": "Steve Kimock",
+      "targetId": "7146"
+    }
+  ]
+}

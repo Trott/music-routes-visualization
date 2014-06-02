@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Billy Mann",
-    "target": "Pink",
-    "targetId": "705"
-  },
-  {
-    "source": "Billy Mann",
-    "target": "Joey Waronker",
-    "targetId": "1053"
-  },
-  {
-    "source": "Billy Mann",
-    "target": "Andy Timmons",
-    "targetId": "4406"
-  },
-  {
-    "source": "Billy Mann",
-    "target": "Jeff Phillips",
-    "targetId": "4421"
-  },
-  {
-    "source": "Billy Mann",
-    "target": "Rafael Moreira",
-    "targetId": "4422"
-  },
-  {
-    "source": "Billy Mann",
-    "target": "Justin Meidal-Johnsen",
-    "targetId": "4423"
-  }
-]
+{
+  "source": "Billy Mann",
+  "targets": [
+    {
+      "name": "Pink",
+      "targetId": "705"
+    },
+    {
+      "name": "Joey Waronker",
+      "targetId": "1053"
+    },
+    {
+      "name": "Andy Timmons",
+      "targetId": "4406"
+    },
+    {
+      "name": "Jeff Phillips",
+      "targetId": "4421"
+    },
+    {
+      "name": "Rafael Moreira",
+      "targetId": "4422"
+    },
+    {
+      "name": "Justin Meidal-Johnsen",
+      "targetId": "4423"
+    }
+  ]
+}

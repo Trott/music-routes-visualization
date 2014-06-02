@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Doris Day",
-    "target": "Buddy Clark",
-    "targetId": "1940"
-  },
-  {
-    "source": "Doris Day",
-    "target": "Jack Carson",
-    "targetId": "5838"
-  },
-  {
-    "source": "Doris Day",
-    "target": "Mel Blanc",
-    "targetId": "5839"
-  }
-]
+{
+  "source": "Doris Day",
+  "targets": [
+    {
+      "name": "Buddy Clark",
+      "targetId": "1940"
+    },
+    {
+      "name": "Jack Carson",
+      "targetId": "5838"
+    },
+    {
+      "name": "Mel Blanc",
+      "targetId": "5839"
+    }
+  ]
+}

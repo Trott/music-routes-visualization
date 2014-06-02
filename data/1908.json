@@ -1,212 +1,173 @@
-[
-  {
-    "source": "Bob Bain",
-    "target": "Milt Holland",
-    "targetId": "388"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Victor Feldman",
-    "targetId": "396"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Freddie Slack",
-    "targetId": "1896"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Charles Grifford",
-    "targetId": "1897"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Roger Hansen",
-    "targetId": "1898"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Bill Morris",
-    "targetId": "1899"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Bob Bowman",
-    "targetId": "1900"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Jim Reynolds",
-    "targetId": "1901"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Moe Schneider",
-    "targetId": "1902"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Barney Bigard",
-    "targetId": "1903"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Darrell Rice",
-    "targetId": "1904"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "George Weidler",
-    "targetId": "1905"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Ralph Lee",
-    "targetId": "1906"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Les Baxter",
-    "targetId": "1907"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Howard Rumsey",
-    "targetId": "1909"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Dave Coleman",
-    "targetId": "1910"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Margaret Whiting",
-    "targetId": "1911"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Vincent DeRosa",
-    "targetId": "3418"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Shelly Manne",
-    "targetId": "6037"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Jimmy Rowles",
-    "targetId": "7157"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Larry Bunker",
-    "targetId": "7161"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Rolly Bundock",
-    "targetId": "8878"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Jack Sperling",
-    "targetId": "8879"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Richard Perissi",
-    "targetId": "8880"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Ray Linn",
-    "targetId": "8881"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Uan Rasey",
-    "targetId": "8882"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Pete Candoli",
-    "targetId": "8883"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Frank Beach",
-    "targetId": "8884"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Milt Bernhart",
-    "targetId": "8885"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Karl De Karske",
-    "targetId": "8886"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Jimmy Priddy",
-    "targetId": "8887"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Dick Nash",
-    "targetId": "8888"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Ronny Lang",
-    "targetId": "8889"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Ted Nash",
-    "targetId": "8890"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Al Hendrickson",
-    "targetId": "8891"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "John Williams",
-    "targetId": "8892"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "John Cave",
-    "targetId": "8893"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "John Graas",
-    "targetId": "8894"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Laurindo Almeida",
-    "targetId": "9039"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Erno Neufeld",
-    "targetId": "10919"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Bobby Hammack",
-    "targetId": "10920"
-  },
-  {
-    "source": "Bob Bain",
-    "target": "Frank Flynn",
-    "targetId": "10921"
-  }
-]
+{
+  "source": "Bob Bain",
+  "targets": [
+    {
+      "name": "Milt Holland",
+      "targetId": "388"
+    },
+    {
+      "name": "Victor Feldman",
+      "targetId": "396"
+    },
+    {
+      "name": "Freddie Slack",
+      "targetId": "1896"
+    },
+    {
+      "name": "Charles Grifford",
+      "targetId": "1897"
+    },
+    {
+      "name": "Roger Hansen",
+      "targetId": "1898"
+    },
+    {
+      "name": "Bill Morris",
+      "targetId": "1899"
+    },
+    {
+      "name": "Bob Bowman",
+      "targetId": "1900"
+    },
+    {
+      "name": "Jim Reynolds",
+      "targetId": "1901"
+    },
+    {
+      "name": "Moe Schneider",
+      "targetId": "1902"
+    },
+    {
+      "name": "Barney Bigard",
+      "targetId": "1903"
+    },
+    {
+      "name": "Darrell Rice",
+      "targetId": "1904"
+    },
+    {
+      "name": "George Weidler",
+      "targetId": "1905"
+    },
+    {
+      "name": "Ralph Lee",
+      "targetId": "1906"
+    },
+    {
+      "name": "Les Baxter",
+      "targetId": "1907"
+    },
+    {
+      "name": "Howard Rumsey",
+      "targetId": "1909"
+    },
+    {
+      "name": "Dave Coleman",
+      "targetId": "1910"
+    },
+    {
+      "name": "Margaret Whiting",
+      "targetId": "1911"
+    },
+    {
+      "name": "Vincent DeRosa",
+      "targetId": "3418"
+    },
+    {
+      "name": "Shelly Manne",
+      "targetId": "6037"
+    },
+    {
+      "name": "Jimmy Rowles",
+      "targetId": "7157"
+    },
+    {
+      "name": "Larry Bunker",
+      "targetId": "7161"
+    },
+    {
+      "name": "Rolly Bundock",
+      "targetId": "8878"
+    },
+    {
+      "name": "Jack Sperling",
+      "targetId": "8879"
+    },
+    {
+      "name": "Richard Perissi",
+      "targetId": "8880"
+    },
+    {
+      "name": "Ray Linn",
+      "targetId": "8881"
+    },
+    {
+      "name": "Uan Rasey",
+      "targetId": "8882"
+    },
+    {
+      "name": "Pete Candoli",
+      "targetId": "8883"
+    },
+    {
+      "name": "Frank Beach",
+      "targetId": "8884"
+    },
+    {
+      "name": "Milt Bernhart",
+      "targetId": "8885"
+    },
+    {
+      "name": "Karl De Karske",
+      "targetId": "8886"
+    },
+    {
+      "name": "Jimmy Priddy",
+      "targetId": "8887"
+    },
+    {
+      "name": "Dick Nash",
+      "targetId": "8888"
+    },
+    {
+      "name": "Ronny Lang",
+      "targetId": "8889"
+    },
+    {
+      "name": "Ted Nash",
+      "targetId": "8890"
+    },
+    {
+      "name": "Al Hendrickson",
+      "targetId": "8891"
+    },
+    {
+      "name": "John Williams",
+      "targetId": "8892"
+    },
+    {
+      "name": "John Cave",
+      "targetId": "8893"
+    },
+    {
+      "name": "John Graas",
+      "targetId": "8894"
+    },
+    {
+      "name": "Laurindo Almeida",
+      "targetId": "9039"
+    },
+    {
+      "name": "Erno Neufeld",
+      "targetId": "10919"
+    },
+    {
+      "name": "Bobby Hammack",
+      "targetId": "10920"
+    },
+    {
+      "name": "Frank Flynn",
+      "targetId": "10921"
+    }
+  ]
+}

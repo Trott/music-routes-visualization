@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Benny Rabbit",
-    "target": "Big Bird",
-    "targetId": "240"
-  },
-  {
-    "source": "Benny Rabbit",
-    "target": "B.B. King",
-    "targetId": "565"
-  },
-  {
-    "source": "Benny Rabbit",
-    "target": "Baby Bear",
-    "targetId": "9637"
-  },
-  {
-    "source": "Benny Rabbit",
-    "target": "Bert",
-    "targetId": "9638"
-  }
-]
+{
+  "source": "Benny Rabbit",
+  "targets": [
+    {
+      "name": "Big Bird",
+      "targetId": "240"
+    },
+    {
+      "name": "B.B. King",
+      "targetId": "565"
+    },
+    {
+      "name": "Baby Bear",
+      "targetId": "9637"
+    },
+    {
+      "name": "Bert",
+      "targetId": "9638"
+    }
+  ]
+}

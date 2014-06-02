@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Matt Sherrod",
-    "target": "Neil Finn",
-    "targetId": "1027"
-  },
-  {
-    "source": "Matt Sherrod",
-    "target": "Nick Seymour",
-    "targetId": "10155"
-  },
-  {
-    "source": "Matt Sherrod",
-    "target": "Mark Hart",
-    "targetId": "10157"
-  },
-  {
-    "source": "Matt Sherrod",
-    "target": "Don McGlashan",
-    "targetId": "10158"
-  }
-]
+{
+  "source": "Matt Sherrod",
+  "targets": [
+    {
+      "name": "Neil Finn",
+      "targetId": "1027"
+    },
+    {
+      "name": "Nick Seymour",
+      "targetId": "10155"
+    },
+    {
+      "name": "Mark Hart",
+      "targetId": "10157"
+    },
+    {
+      "name": "Don McGlashan",
+      "targetId": "10158"
+    }
+  ]
+}

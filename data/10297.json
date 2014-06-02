@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Eddie Jobson",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Eddie Jobson",
-    "target": "Patrick O'Hearn",
-    "targetId": "1343"
-  },
-  {
-    "source": "Eddie Jobson",
-    "target": "Terry Bozzio",
-    "targetId": "1344"
-  },
-  {
-    "source": "Eddie Jobson",
-    "target": "Ray White",
-    "targetId": "1350"
-  },
-  {
-    "source": "Eddie Jobson",
-    "target": "Bianca Odin",
-    "targetId": "10296"
-  }
-]
+{
+  "source": "Eddie Jobson",
+  "targets": [
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Patrick O'Hearn",
+      "targetId": "1343"
+    },
+    {
+      "name": "Terry Bozzio",
+      "targetId": "1344"
+    },
+    {
+      "name": "Ray White",
+      "targetId": "1350"
+    },
+    {
+      "name": "Bianca Odin",
+      "targetId": "10296"
+    }
+  ]
+}

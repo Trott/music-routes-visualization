@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Michael Bruce",
-    "target": "Alice Cooper",
-    "targetId": "1285"
-  },
-  {
-    "source": "Michael Bruce",
-    "target": "Dennis Dunaway",
-    "targetId": "2729"
-  },
-  {
-    "source": "Michael Bruce",
-    "target": "Neal Smith",
-    "targetId": "2730"
-  },
-  {
-    "source": "Michael Bruce",
-    "target": "Glen Buxton",
-    "targetId": "2732"
-  }
-]
+{
+  "source": "Michael Bruce",
+  "targets": [
+    {
+      "name": "Alice Cooper",
+      "targetId": "1285"
+    },
+    {
+      "name": "Dennis Dunaway",
+      "targetId": "2729"
+    },
+    {
+      "name": "Neal Smith",
+      "targetId": "2730"
+    },
+    {
+      "name": "Glen Buxton",
+      "targetId": "2732"
+    }
+  ]
+}

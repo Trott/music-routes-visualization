@@ -1,227 +1,185 @@
-[
-  {
-    "source": "Leonard Malarsky",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Bruce Johnston",
-    "targetId": "232"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Carl Wilson",
-    "targetId": "233"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Lyle Ritz",
-    "targetId": "373"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Carol Kaye",
-    "targetId": "521"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Gary Coleman",
-    "targetId": "727"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Brian Wilson",
-    "targetId": "1475"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Carl Fortina",
-    "targetId": "1479"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Frank Capp",
-    "targetId": "1481"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Ray Pohlman",
-    "targetId": "1484"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Al De Lory",
-    "targetId": "1486"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Jay Migliori",
-    "targetId": "1487"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Roy Caton",
-    "targetId": "1489"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Billy Strange",
-    "targetId": "1490"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Julius Wechter",
-    "targetId": "1492"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Bill Green",
-    "targetId": "1493"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Joseph Saxon",
-    "targetId": "1497"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Arnold Belnick",
-    "targetId": "1499"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Ralph Schaeffer",
-    "targetId": "1500"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Tibor Zelig",
-    "targetId": "1501"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Sid Sharp",
-    "targetId": "1502"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Justin DiTullio",
-    "targetId": "1503"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Leonard Hartman",
-    "targetId": "1504"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Harry Hyams",
-    "targetId": "1505"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "William Kurasch",
-    "targetId": "1507"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Jules Jacob",
-    "targetId": "1508"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Al Casey",
-    "targetId": "1509"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Joseph DiFiore",
-    "targetId": "1510"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "James Getzoff",
-    "targetId": "1511"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Jerome Reisler",
-    "targetId": "1512"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Frank Marocco",
-    "targetId": "1513"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Jesse Erlich",
-    "targetId": "1514"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Alan Robinson",
-    "targetId": "1515"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Don Randi",
-    "targetId": "1516"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Darrel Terwilliger",
-    "targetId": "1517"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Tommy Tedesco",
-    "targetId": "1529"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "William Hinshaw",
-    "targetId": "9272"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Israel Baker",
-    "targetId": "10099"
-  },
-  {
-    "source": "Leonard Malarsky",
-    "target": "Bernard Kundell",
-    "targetId": "10100"
-  }
-]
+{
+  "source": "Leonard Malarsky",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Bruce Johnston",
+      "targetId": "232"
+    },
+    {
+      "name": "Carl Wilson",
+      "targetId": "233"
+    },
+    {
+      "name": "Lyle Ritz",
+      "targetId": "373"
+    },
+    {
+      "name": "Carol Kaye",
+      "targetId": "521"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Gary Coleman",
+      "targetId": "727"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Brian Wilson",
+      "targetId": "1475"
+    },
+    {
+      "name": "Carl Fortina",
+      "targetId": "1479"
+    },
+    {
+      "name": "Frank Capp",
+      "targetId": "1481"
+    },
+    {
+      "name": "Ray Pohlman",
+      "targetId": "1484"
+    },
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Al De Lory",
+      "targetId": "1486"
+    },
+    {
+      "name": "Jay Migliori",
+      "targetId": "1487"
+    },
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Roy Caton",
+      "targetId": "1489"
+    },
+    {
+      "name": "Billy Strange",
+      "targetId": "1490"
+    },
+    {
+      "name": "Julius Wechter",
+      "targetId": "1492"
+    },
+    {
+      "name": "Bill Green",
+      "targetId": "1493"
+    },
+    {
+      "name": "Joseph Saxon",
+      "targetId": "1497"
+    },
+    {
+      "name": "Arnold Belnick",
+      "targetId": "1499"
+    },
+    {
+      "name": "Ralph Schaeffer",
+      "targetId": "1500"
+    },
+    {
+      "name": "Tibor Zelig",
+      "targetId": "1501"
+    },
+    {
+      "name": "Sid Sharp",
+      "targetId": "1502"
+    },
+    {
+      "name": "Justin DiTullio",
+      "targetId": "1503"
+    },
+    {
+      "name": "Leonard Hartman",
+      "targetId": "1504"
+    },
+    {
+      "name": "Harry Hyams",
+      "targetId": "1505"
+    },
+    {
+      "name": "William Kurasch",
+      "targetId": "1507"
+    },
+    {
+      "name": "Jules Jacob",
+      "targetId": "1508"
+    },
+    {
+      "name": "Al Casey",
+      "targetId": "1509"
+    },
+    {
+      "name": "Joseph DiFiore",
+      "targetId": "1510"
+    },
+    {
+      "name": "James Getzoff",
+      "targetId": "1511"
+    },
+    {
+      "name": "Jerome Reisler",
+      "targetId": "1512"
+    },
+    {
+      "name": "Frank Marocco",
+      "targetId": "1513"
+    },
+    {
+      "name": "Jesse Erlich",
+      "targetId": "1514"
+    },
+    {
+      "name": "Alan Robinson",
+      "targetId": "1515"
+    },
+    {
+      "name": "Don Randi",
+      "targetId": "1516"
+    },
+    {
+      "name": "Darrel Terwilliger",
+      "targetId": "1517"
+    },
+    {
+      "name": "Tommy Tedesco",
+      "targetId": "1529"
+    },
+    {
+      "name": "William Hinshaw",
+      "targetId": "9272"
+    },
+    {
+      "name": "Israel Baker",
+      "targetId": "10099"
+    },
+    {
+      "name": "Bernard Kundell",
+      "targetId": "10100"
+    }
+  ]
+}

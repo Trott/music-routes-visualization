@@ -1,22 +1,21 @@
-[
-  {
-    "source": "David Pearl",
-    "target": "Richard Wolfson",
-    "targetId": "3293"
-  },
-  {
-    "source": "David Pearl",
-    "target": "Andy Saunders",
-    "targetId": "3295"
-  },
-  {
-    "source": "David Pearl",
-    "target": "Tim Roseman",
-    "targetId": "3305"
-  },
-  {
-    "source": "David Pearl",
-    "target": "Rabbi Tamás Raj",
-    "targetId": "3309"
-  }
-]
+{
+  "source": "David Pearl",
+  "targets": [
+    {
+      "name": "Richard Wolfson",
+      "targetId": "3293"
+    },
+    {
+      "name": "Andy Saunders",
+      "targetId": "3295"
+    },
+    {
+      "name": "Tim Roseman",
+      "targetId": "3305"
+    },
+    {
+      "name": "Rabbi Tamás Raj",
+      "targetId": "3309"
+    }
+  ]
+}

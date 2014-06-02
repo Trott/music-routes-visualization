@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mike Rutherford",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Mike Rutherford",
-    "target": "Bill Bruford",
-    "targetId": "340"
-  },
-  {
-    "source": "Mike Rutherford",
-    "target": "Peter Gabriel",
-    "targetId": "620"
-  },
-  {
-    "source": "Mike Rutherford",
-    "target": "Chester Thompson",
-    "targetId": "1326"
-  },
-  {
-    "source": "Mike Rutherford",
-    "target": "Steve Hackett",
-    "targetId": "1582"
-  },
-  {
-    "source": "Mike Rutherford",
-    "target": "Tony Banks",
-    "targetId": "1584"
-  }
-]
+{
+  "source": "Mike Rutherford",
+  "targets": [
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Bill Bruford",
+      "targetId": "340"
+    },
+    {
+      "name": "Peter Gabriel",
+      "targetId": "620"
+    },
+    {
+      "name": "Chester Thompson",
+      "targetId": "1326"
+    },
+    {
+      "name": "Steve Hackett",
+      "targetId": "1582"
+    },
+    {
+      "name": "Tony Banks",
+      "targetId": "1584"
+    }
+  ]
+}

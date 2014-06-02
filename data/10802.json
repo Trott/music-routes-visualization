@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Eric Amerman",
-    "target": "Ann Yu",
-    "targetId": "10797"
-  },
-  {
-    "source": "Eric Amerman",
-    "target": "David Farrell",
-    "targetId": "10799"
-  },
-  {
-    "source": "Eric Amerman",
-    "target": "Marty Mattern",
-    "targetId": "10803"
-  }
-]
+{
+  "source": "Eric Amerman",
+  "targets": [
+    {
+      "name": "Ann Yu",
+      "targetId": "10797"
+    },
+    {
+      "name": "David Farrell",
+      "targetId": "10799"
+    },
+    {
+      "name": "Marty Mattern",
+      "targetId": "10803"
+    }
+  ]
+}

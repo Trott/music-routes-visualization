@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jack King",
-    "target": "Ross Valory",
-    "targetId": "262"
-  },
-  {
-    "source": "Jack King",
-    "target": "Steve Miller",
-    "targetId": "326"
-  }
-]
+{
+  "source": "Jack King",
+  "targets": [
+    {
+      "name": "Ross Valory",
+      "targetId": "262"
+    },
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    }
+  ]
+}

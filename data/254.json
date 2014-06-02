@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Elmo",
-    "target": "Oscar the Grouch",
-    "targetId": "242"
-  },
-  {
-    "source": "Elmo",
-    "target": "The Count",
-    "targetId": "245"
-  },
-  {
-    "source": "Elmo",
-    "target": "Grizzy",
-    "targetId": "255"
-  },
-  {
-    "source": "Elmo",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Elmo",
-    "target": "Cookie Monster",
-    "targetId": "1282"
-  },
-  {
-    "source": "Elmo",
-    "target": "Diane Schuur",
-    "targetId": "9564"
-  }
-]
+{
+  "source": "Elmo",
+  "targets": [
+    {
+      "name": "Oscar the Grouch",
+      "targetId": "242"
+    },
+    {
+      "name": "The Count",
+      "targetId": "245"
+    },
+    {
+      "name": "Grizzy",
+      "targetId": "255"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Cookie Monster",
+      "targetId": "1282"
+    },
+    {
+      "name": "Diane Schuur",
+      "targetId": "9564"
+    }
+  ]
+}

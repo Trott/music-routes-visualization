@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Randy Dunlap",
-    "target": "Smokey Robinson",
-    "targetId": "76"
-  },
-  {
-    "source": "Randy Dunlap",
-    "target": "Rick James",
-    "targetId": "517"
-  },
-  {
-    "source": "Randy Dunlap",
-    "target": "Cheryl Dunlap",
-    "targetId": "3427"
-  }
-]
+{
+  "source": "Randy Dunlap",
+  "targets": [
+    {
+      "name": "Smokey Robinson",
+      "targetId": "76"
+    },
+    {
+      "name": "Rick James",
+      "targetId": "517"
+    },
+    {
+      "name": "Cheryl Dunlap",
+      "targetId": "3427"
+    }
+  ]
+}

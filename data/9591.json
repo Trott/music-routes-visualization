@@ -1,27 +1,25 @@
-[
-  {
-    "source": "James Gurley",
-    "target": "Janis Joplin",
-    "targetId": "1542"
-  },
-  {
-    "source": "James Gurley",
-    "target": "Peter Albin",
-    "targetId": "9589"
-  },
-  {
-    "source": "James Gurley",
-    "target": "Dave Getz",
-    "targetId": "9590"
-  },
-  {
-    "source": "James Gurley",
-    "target": "Sam Andrew",
-    "targetId": "9592"
-  },
-  {
-    "source": "James Gurley",
-    "target": "Elliot Mazer",
-    "targetId": "9599"
-  }
-]
+{
+  "source": "James Gurley",
+  "targets": [
+    {
+      "name": "Janis Joplin",
+      "targetId": "1542"
+    },
+    {
+      "name": "Peter Albin",
+      "targetId": "9589"
+    },
+    {
+      "name": "Dave Getz",
+      "targetId": "9590"
+    },
+    {
+      "name": "Sam Andrew",
+      "targetId": "9592"
+    },
+    {
+      "name": "Elliot Mazer",
+      "targetId": "9599"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Kenny Kirkland",
-    "target": "Wynton Marsalis",
-    "targetId": "4082"
-  },
-  {
-    "source": "Kenny Kirkland",
-    "target": "Branford Marsalis",
-    "targetId": "4083"
-  },
-  {
-    "source": "Kenny Kirkland",
-    "target": "Jeff \"Tain\" Watts",
-    "targetId": "4085"
-  },
-  {
-    "source": "Kenny Kirkland",
-    "target": "Charles Fambrough",
-    "targetId": "4086"
-  },
-  {
-    "source": "Kenny Kirkland",
-    "target": "Clarence Seay",
-    "targetId": "4087"
-  }
-]
+{
+  "source": "Kenny Kirkland",
+  "targets": [
+    {
+      "name": "Wynton Marsalis",
+      "targetId": "4082"
+    },
+    {
+      "name": "Branford Marsalis",
+      "targetId": "4083"
+    },
+    {
+      "name": "Jeff \"Tain\" Watts",
+      "targetId": "4085"
+    },
+    {
+      "name": "Charles Fambrough",
+      "targetId": "4086"
+    },
+    {
+      "name": "Clarence Seay",
+      "targetId": "4087"
+    }
+  ]
+}

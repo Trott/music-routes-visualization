@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Marsh",
-    "target": "Scott Schoenbeck",
-    "targetId": "7393"
-  },
-  {
-    "source": "Mike Marsh",
-    "target": "John Lefler",
-    "targetId": "7394"
-  },
-  {
-    "source": "Mike Marsh",
-    "target": "Chris Carrabba",
-    "targetId": "7395"
-  }
-]
+{
+  "source": "Mike Marsh",
+  "targets": [
+    {
+      "name": "Scott Schoenbeck",
+      "targetId": "7393"
+    },
+    {
+      "name": "John Lefler",
+      "targetId": "7394"
+    },
+    {
+      "name": "Chris Carrabba",
+      "targetId": "7395"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Deacon",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "John Deacon",
-    "target": "Freddie Mercury",
-    "targetId": "212"
-  },
-  {
-    "source": "John Deacon",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "John Deacon",
-    "target": "Roger Taylor",
-    "targetId": "215"
-  },
-  {
-    "source": "John Deacon",
-    "target": "Joan Armatrading",
-    "targetId": "5518"
-  }
-]
+{
+  "source": "John Deacon",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Freddie Mercury",
+      "targetId": "212"
+    },
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Roger Taylor",
+      "targetId": "215"
+    },
+    {
+      "name": "Joan Armatrading",
+      "targetId": "5518"
+    }
+  ]
+}

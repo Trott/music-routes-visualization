@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Marty Key",
-    "target": "Ted Leo",
-    "targetId": "10444"
-  },
-  {
-    "source": "Marty Key",
-    "target": "Chris Wilson",
-    "targetId": "10446"
-  },
-  {
-    "source": "Marty Key",
-    "target": "James Canty",
-    "targetId": "10447"
-  }
-]
+{
+  "source": "Marty Key",
+  "targets": [
+    {
+      "name": "Ted Leo",
+      "targetId": "10444"
+    },
+    {
+      "name": "Chris Wilson",
+      "targetId": "10446"
+    },
+    {
+      "name": "James Canty",
+      "targetId": "10447"
+    }
+  ]
+}

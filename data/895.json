@@ -1,157 +1,129 @@
-[
-  {
-    "source": "Steve Porcaro",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Bill Payne",
-    "targetId": "280"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Timothy B. Schmit",
-    "targetId": "391"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Rick Marotta",
-    "targetId": "393"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "David Paich",
-    "targetId": "401"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "David Hungate",
-    "targetId": "591"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Michael McDonald",
-    "targetId": "717"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Eddie Van Halen",
-    "targetId": "891"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Bill Wolfer",
-    "targetId": "893"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Tom Bahler",
-    "targetId": "894"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Robbie McIntosh",
-    "targetId": "904"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Paul Jackson, Jr.",
-    "targetId": "1536"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Tom Kelly",
-    "targetId": "2530"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Greg Smith",
-    "targetId": "3774"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Bobby Kimball",
-    "targetId": "5045"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Joe Porcaro",
-    "targetId": "5046"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Stevie Lange",
-    "targetId": "5616"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Billy Kristian",
-    "targetId": "5617"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Bobby LaKind",
-    "targetId": "5621"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "James Albert Johnson",
-    "targetId": "5622"
-  },
-  {
-    "source": "Steve Porcaro",
-    "target": "Derrek Austin",
-    "targetId": "5623"
-  }
-]
+{
+  "source": "Steve Porcaro",
+  "targets": [
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Bill Payne",
+      "targetId": "280"
+    },
+    {
+      "name": "Timothy B. Schmit",
+      "targetId": "391"
+    },
+    {
+      "name": "Rick Marotta",
+      "targetId": "393"
+    },
+    {
+      "name": "David Paich",
+      "targetId": "401"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "David Hungate",
+      "targetId": "591"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Michael McDonald",
+      "targetId": "717"
+    },
+    {
+      "name": "Eddie Van Halen",
+      "targetId": "891"
+    },
+    {
+      "name": "Bill Wolfer",
+      "targetId": "893"
+    },
+    {
+      "name": "Tom Bahler",
+      "targetId": "894"
+    },
+    {
+      "name": "Robbie McIntosh",
+      "targetId": "904"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Paul Jackson, Jr.",
+      "targetId": "1536"
+    },
+    {
+      "name": "Tom Kelly",
+      "targetId": "2530"
+    },
+    {
+      "name": "Greg Smith",
+      "targetId": "3774"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Bobby Kimball",
+      "targetId": "5045"
+    },
+    {
+      "name": "Joe Porcaro",
+      "targetId": "5046"
+    },
+    {
+      "name": "Stevie Lange",
+      "targetId": "5616"
+    },
+    {
+      "name": "Billy Kristian",
+      "targetId": "5617"
+    },
+    {
+      "name": "Bobby LaKind",
+      "targetId": "5621"
+    },
+    {
+      "name": "James Albert Johnson",
+      "targetId": "5622"
+    },
+    {
+      "name": "Derrek Austin",
+      "targetId": "5623"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pais Da Silva",
-    "target": "Amália Rodrigues",
-    "targetId": "7480"
-  },
-  {
-    "source": "Pais Da Silva",
-    "target": "Jaime Santos",
-    "targetId": "7484"
-  },
-  {
-    "source": "Pais Da Silva",
-    "target": "Alfredo Mendes",
-    "targetId": "7485"
-  }
-]
+{
+  "source": "Pais Da Silva",
+  "targets": [
+    {
+      "name": "Amália Rodrigues",
+      "targetId": "7480"
+    },
+    {
+      "name": "Jaime Santos",
+      "targetId": "7484"
+    },
+    {
+      "name": "Alfredo Mendes",
+      "targetId": "7485"
+    }
+  ]
+}

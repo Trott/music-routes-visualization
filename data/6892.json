@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ray Schwartz",
-    "target": "Rob Derhak",
-    "targetId": "6889"
-  },
-  {
-    "source": "Ray Schwartz",
-    "target": "Chuck Garvey",
-    "targetId": "6890"
-  },
-  {
-    "source": "Ray Schwartz",
-    "target": "Al Schnier",
-    "targetId": "6891"
-  }
-]
+{
+  "source": "Ray Schwartz",
+  "targets": [
+    {
+      "name": "Rob Derhak",
+      "targetId": "6889"
+    },
+    {
+      "name": "Chuck Garvey",
+      "targetId": "6890"
+    },
+    {
+      "name": "Al Schnier",
+      "targetId": "6891"
+    }
+  ]
+}

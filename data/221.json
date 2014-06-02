@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Paul Oldham",
-    "target": "Alex Neilson",
-    "targetId": "218"
-  },
-  {
-    "source": "Paul Oldham",
-    "target": "Will Oldham",
-    "targetId": "219"
-  },
-  {
-    "source": "Paul Oldham",
-    "target": "Matt Sweeney",
-    "targetId": "220"
-  }
-]
+{
+  "source": "Paul Oldham",
+  "targets": [
+    {
+      "name": "Alex Neilson",
+      "targetId": "218"
+    },
+    {
+      "name": "Will Oldham",
+      "targetId": "219"
+    },
+    {
+      "name": "Matt Sweeney",
+      "targetId": "220"
+    }
+  ]
+}

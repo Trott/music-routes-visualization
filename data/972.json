@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Eric Carr",
-    "target": "Vinnie Vincent",
-    "targetId": "257"
-  },
-  {
-    "source": "Eric Carr",
-    "target": "Gene Simmons",
-    "targetId": "968"
-  },
-  {
-    "source": "Eric Carr",
-    "target": "Paul Stanley",
-    "targetId": "969"
-  },
-  {
-    "source": "Eric Carr",
-    "target": "Rick Derringer",
-    "targetId": "971"
-  },
-  {
-    "source": "Eric Carr",
-    "target": "Robben Ford",
-    "targetId": "1385"
-  },
-  {
-    "source": "Eric Carr",
-    "target": "Jimmy Haslip",
-    "targetId": "3484"
-  },
-  {
-    "source": "Eric Carr",
-    "target": "Bruce Kulick",
-    "targetId": "7773"
-  }
-]
+{
+  "source": "Eric Carr",
+  "targets": [
+    {
+      "name": "Vinnie Vincent",
+      "targetId": "257"
+    },
+    {
+      "name": "Gene Simmons",
+      "targetId": "968"
+    },
+    {
+      "name": "Paul Stanley",
+      "targetId": "969"
+    },
+    {
+      "name": "Rick Derringer",
+      "targetId": "971"
+    },
+    {
+      "name": "Robben Ford",
+      "targetId": "1385"
+    },
+    {
+      "name": "Jimmy Haslip",
+      "targetId": "3484"
+    },
+    {
+      "name": "Bruce Kulick",
+      "targetId": "7773"
+    }
+  ]
+}

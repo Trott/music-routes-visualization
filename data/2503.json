@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Hugh Syme",
-    "target": "Geddy Lee",
-    "targetId": "2450"
-  },
-  {
-    "source": "Hugh Syme",
-    "target": "Alex Lifeson",
-    "targetId": "2451"
-  },
-  {
-    "source": "Hugh Syme",
-    "target": "Neil Peart",
-    "targetId": "2452"
-  }
-]
+{
+  "source": "Hugh Syme",
+  "targets": [
+    {
+      "name": "Geddy Lee",
+      "targetId": "2450"
+    },
+    {
+      "name": "Alex Lifeson",
+      "targetId": "2451"
+    },
+    {
+      "name": "Neil Peart",
+      "targetId": "2452"
+    }
+  ]
+}

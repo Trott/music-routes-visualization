@@ -1,192 +1,157 @@
-[
-  {
-    "source": "David Davidson",
-    "target": "Ben Folds",
-    "targetId": "180"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Bob Seger",
-    "targetId": "415"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Jon Anderson",
-    "targetId": "536"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Brent Rowan",
-    "targetId": "593"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Laura Creamer",
-    "targetId": "1305"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Eric Darken",
-    "targetId": "1373"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Béla Fleck",
-    "targetId": "4375"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Victor Wooten",
-    "targetId": "5883"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Jeff Coffin",
-    "targetId": "5884"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Future Man",
-    "targetId": "5885"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Paul McCandless",
-    "targetId": "5888"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Shawn Colvin",
-    "targetId": "5889"
-  },
-  {
-    "source": "David Davidson",
-    "target": "JT Corenflos",
-    "targetId": "6189"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Leslie Mills",
-    "targetId": "6475"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Shaun Murphy",
-    "targetId": "6477"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Glenn Worf",
-    "targetId": "6478"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Eddie Bayers",
-    "targetId": "6479"
-  },
-  {
-    "source": "David Davidson",
-    "target": "John Hobbs",
-    "targetId": "6485"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Carl Gorodetzky",
-    "targetId": "6486"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Carole Rabinowitz",
-    "targetId": "6487"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Conni Ellisor",
-    "targetId": "6488"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Craig Nelson",
-    "targetId": "6489"
-  },
-  {
-    "source": "David Davidson",
-    "target": "David Angell",
-    "targetId": "6490"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Elisabeth Small",
-    "targetId": "6492"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Gary Vanosdale",
-    "targetId": "6493"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Jim Grosjean",
-    "targetId": "6494"
-  },
-  {
-    "source": "David Davidson",
-    "target": "John Catchings",
-    "targetId": "6495"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Mary Kathryn Vanosdale",
-    "targetId": "6496"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Matt Walker",
-    "targetId": "6497"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Pam Sixfin",
-    "targetId": "6498"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Zeneba Bowers",
-    "targetId": "6499"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Darren Jessee",
-    "targetId": "6799"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Robert Sledge",
-    "targetId": "6802"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Christian Teale",
-    "targetId": "6804"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Kristin Wilkinson",
-    "targetId": "6805"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Paul Hanson",
-    "targetId": "8630"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Rita Sahai",
-    "targetId": "8631"
-  },
-  {
-    "source": "David Davidson",
-    "target": "Kongar-ool Ondar",
-    "targetId": "8632"
-  }
-]
+{
+  "source": "David Davidson",
+  "targets": [
+    {
+      "name": "Ben Folds",
+      "targetId": "180"
+    },
+    {
+      "name": "Bob Seger",
+      "targetId": "415"
+    },
+    {
+      "name": "Jon Anderson",
+      "targetId": "536"
+    },
+    {
+      "name": "Brent Rowan",
+      "targetId": "593"
+    },
+    {
+      "name": "Laura Creamer",
+      "targetId": "1305"
+    },
+    {
+      "name": "Eric Darken",
+      "targetId": "1373"
+    },
+    {
+      "name": "Béla Fleck",
+      "targetId": "4375"
+    },
+    {
+      "name": "Victor Wooten",
+      "targetId": "5883"
+    },
+    {
+      "name": "Jeff Coffin",
+      "targetId": "5884"
+    },
+    {
+      "name": "Future Man",
+      "targetId": "5885"
+    },
+    {
+      "name": "Paul McCandless",
+      "targetId": "5888"
+    },
+    {
+      "name": "Shawn Colvin",
+      "targetId": "5889"
+    },
+    {
+      "name": "JT Corenflos",
+      "targetId": "6189"
+    },
+    {
+      "name": "Leslie Mills",
+      "targetId": "6475"
+    },
+    {
+      "name": "Shaun Murphy",
+      "targetId": "6477"
+    },
+    {
+      "name": "Glenn Worf",
+      "targetId": "6478"
+    },
+    {
+      "name": "Eddie Bayers",
+      "targetId": "6479"
+    },
+    {
+      "name": "John Hobbs",
+      "targetId": "6485"
+    },
+    {
+      "name": "Carl Gorodetzky",
+      "targetId": "6486"
+    },
+    {
+      "name": "Carole Rabinowitz",
+      "targetId": "6487"
+    },
+    {
+      "name": "Conni Ellisor",
+      "targetId": "6488"
+    },
+    {
+      "name": "Craig Nelson",
+      "targetId": "6489"
+    },
+    {
+      "name": "David Angell",
+      "targetId": "6490"
+    },
+    {
+      "name": "Elisabeth Small",
+      "targetId": "6492"
+    },
+    {
+      "name": "Gary Vanosdale",
+      "targetId": "6493"
+    },
+    {
+      "name": "Jim Grosjean",
+      "targetId": "6494"
+    },
+    {
+      "name": "John Catchings",
+      "targetId": "6495"
+    },
+    {
+      "name": "Mary Kathryn Vanosdale",
+      "targetId": "6496"
+    },
+    {
+      "name": "Matt Walker",
+      "targetId": "6497"
+    },
+    {
+      "name": "Pam Sixfin",
+      "targetId": "6498"
+    },
+    {
+      "name": "Zeneba Bowers",
+      "targetId": "6499"
+    },
+    {
+      "name": "Darren Jessee",
+      "targetId": "6799"
+    },
+    {
+      "name": "Robert Sledge",
+      "targetId": "6802"
+    },
+    {
+      "name": "Christian Teale",
+      "targetId": "6804"
+    },
+    {
+      "name": "Kristin Wilkinson",
+      "targetId": "6805"
+    },
+    {
+      "name": "Paul Hanson",
+      "targetId": "8630"
+    },
+    {
+      "name": "Rita Sahai",
+      "targetId": "8631"
+    },
+    {
+      "name": "Kongar-ool Ondar",
+      "targetId": "8632"
+    }
+  ]
+}

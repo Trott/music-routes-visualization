@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Dave Barbarossa",
-    "target": "Adam Ant",
-    "targetId": "832"
-  },
-  {
-    "source": "Dave Barbarossa",
-    "target": "Kenny Laguna",
-    "targetId": "7712"
-  },
-  {
-    "source": "Dave Barbarossa",
-    "target": "Matthew Ashman",
-    "targetId": "7713"
-  },
-  {
-    "source": "Dave Barbarossa",
-    "target": "Leigh Gorman",
-    "targetId": "7714"
-  },
-  {
-    "source": "Dave Barbarossa",
-    "target": "Annabella Lwin",
-    "targetId": "7716"
-  },
-  {
-    "source": "Dave Barbarossa",
-    "target": "Andy Warren",
-    "targetId": "7717"
-  }
-]
+{
+  "source": "Dave Barbarossa",
+  "targets": [
+    {
+      "name": "Adam Ant",
+      "targetId": "832"
+    },
+    {
+      "name": "Kenny Laguna",
+      "targetId": "7712"
+    },
+    {
+      "name": "Matthew Ashman",
+      "targetId": "7713"
+    },
+    {
+      "name": "Leigh Gorman",
+      "targetId": "7714"
+    },
+    {
+      "name": "Annabella Lwin",
+      "targetId": "7716"
+    },
+    {
+      "name": "Andy Warren",
+      "targetId": "7717"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brad Paisley",
-    "target": "William Shatner",
-    "targetId": "179"
-  },
-  {
-    "source": "Brad Paisley",
-    "target": "Ben Folds",
-    "targetId": "180"
-  },
-  {
-    "source": "Brad Paisley",
-    "target": "John Mark Painter",
-    "targetId": "183"
-  }
-]
+{
+  "source": "Brad Paisley",
+  "targets": [
+    {
+      "name": "William Shatner",
+      "targetId": "179"
+    },
+    {
+      "name": "Ben Folds",
+      "targetId": "180"
+    },
+    {
+      "name": "John Mark Painter",
+      "targetId": "183"
+    }
+  ]
+}

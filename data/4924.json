@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tom Holliston",
-    "target": "John Wright",
-    "targetId": "4922"
-  },
-  {
-    "source": "Tom Holliston",
-    "target": "Rob Wright",
-    "targetId": "4923"
-  },
-  {
-    "source": "Tom Holliston",
-    "target": "Mark Critchley",
-    "targetId": "4925"
-  },
-  {
-    "source": "Tom Holliston",
-    "target": "David McNulty",
-    "targetId": "4926"
-  }
-]
+{
+  "source": "Tom Holliston",
+  "targets": [
+    {
+      "name": "John Wright",
+      "targetId": "4922"
+    },
+    {
+      "name": "Rob Wright",
+      "targetId": "4923"
+    },
+    {
+      "name": "Mark Critchley",
+      "targetId": "4925"
+    },
+    {
+      "name": "David McNulty",
+      "targetId": "4926"
+    }
+  ]
+}

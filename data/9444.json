@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Joel Petersen",
-    "target": "Katie Muth",
-    "targetId": "9440"
-  },
-  {
-    "source": "Joel Petersen",
-    "target": "Mike Sweeney",
-    "targetId": "9441"
-  },
-  {
-    "source": "Joel Petersen",
-    "target": "Eric Bemberger",
-    "targetId": "9442"
-  },
-  {
-    "source": "Joel Petersen",
-    "target": "Chris Hughes",
-    "targetId": "9443"
-  }
-]
+{
+  "source": "Joel Petersen",
+  "targets": [
+    {
+      "name": "Katie Muth",
+      "targetId": "9440"
+    },
+    {
+      "name": "Mike Sweeney",
+      "targetId": "9441"
+    },
+    {
+      "name": "Eric Bemberger",
+      "targetId": "9442"
+    },
+    {
+      "name": "Chris Hughes",
+      "targetId": "9443"
+    }
+  ]
+}

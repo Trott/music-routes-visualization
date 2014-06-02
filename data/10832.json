@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Adam Duce",
-    "target": "Robb Flynn",
-    "targetId": "10830"
-  },
-  {
-    "source": "Adam Duce",
-    "target": "Dave McClain",
-    "targetId": "10831"
-  },
-  {
-    "source": "Adam Duce",
-    "target": "Phil Demmel",
-    "targetId": "10833"
-  }
-]
+{
+  "source": "Adam Duce",
+  "targets": [
+    {
+      "name": "Robb Flynn",
+      "targetId": "10830"
+    },
+    {
+      "name": "Dave McClain",
+      "targetId": "10831"
+    },
+    {
+      "name": "Phil Demmel",
+      "targetId": "10833"
+    }
+  ]
+}

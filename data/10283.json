@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Steve Hewitt",
-    "target": "Brian Molko",
-    "targetId": "6850"
-  },
-  {
-    "source": "Steve Hewitt",
-    "target": "Stefan Olsdal",
-    "targetId": "10282"
-  }
-]
+{
+  "source": "Steve Hewitt",
+  "targets": [
+    {
+      "name": "Brian Molko",
+      "targetId": "6850"
+    },
+    {
+      "name": "Stefan Olsdal",
+      "targetId": "10282"
+    }
+  ]
+}

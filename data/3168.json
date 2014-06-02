@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Stanley Sheldon",
-    "target": "Bob Mayo",
-    "targetId": "933"
-  },
-  {
-    "source": "Stanley Sheldon",
-    "target": "Peter Frampton",
-    "targetId": "3166"
-  },
-  {
-    "source": "Stanley Sheldon",
-    "target": "John Siomos",
-    "targetId": "3167"
-  }
-]
+{
+  "source": "Stanley Sheldon",
+  "targets": [
+    {
+      "name": "Bob Mayo",
+      "targetId": "933"
+    },
+    {
+      "name": "Peter Frampton",
+      "targetId": "3166"
+    },
+    {
+      "name": "John Siomos",
+      "targetId": "3167"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Matthews",
-    "target": "Sammy Hagar",
-    "targetId": "1735"
-  },
-  {
-    "source": "Scott Matthews",
-    "target": "Bill Church",
-    "targetId": "1737"
-  },
-  {
-    "source": "Scott Matthews",
-    "target": "Alan Fitzgerald",
-    "targetId": "1738"
-  },
-  {
-    "source": "Scott Matthews",
-    "target": "David Lewark",
-    "targetId": "1742"
-  }
-]
+{
+  "source": "Scott Matthews",
+  "targets": [
+    {
+      "name": "Sammy Hagar",
+      "targetId": "1735"
+    },
+    {
+      "name": "Bill Church",
+      "targetId": "1737"
+    },
+    {
+      "name": "Alan Fitzgerald",
+      "targetId": "1738"
+    },
+    {
+      "name": "David Lewark",
+      "targetId": "1742"
+    }
+  ]
+}

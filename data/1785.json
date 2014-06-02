@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Louis Armstrong",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Ella Fitzgerald",
-    "targetId": "1786"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Barney Bigard",
-    "targetId": "1903"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Dave Brubeck",
-    "targetId": "4636"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Eugene Wright",
-    "targetId": "4638"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Joe Morello",
-    "targetId": "4639"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Roy Eldridge",
-    "targetId": "5524"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Bessie Smith",
-    "targetId": "5850"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Charlie Green",
-    "targetId": "5852"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Dave Lambert",
-    "targetId": "5911"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Annie Ross",
-    "targetId": "5912"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Jon Hendricks",
-    "targetId": "5913"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Oscar Pettiford",
-    "targetId": "6028"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Sidney Catlett",
-    "targetId": "6029"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Art Tatum",
-    "targetId": "6030"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Coleman Hawkins",
-    "targetId": "6031"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Al Casey",
-    "targetId": "6033"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Lionel Hampton",
-    "targetId": "6034"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Herb Ellis",
-    "targetId": "7153"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Sam Koki",
-    "targetId": "7549"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "George Archer",
-    "targetId": "7550"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Harry Baty",
-    "targetId": "7551"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Joe Nawahi",
-    "targetId": "7552"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Joe Darensbourg",
-    "targetId": "7670"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Trummy Young",
-    "targetId": "7671"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Billy Kyle",
-    "targetId": "7672"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Irving Manning",
-    "targetId": "7673"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Carmen McRae",
-    "targetId": "7674"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Danny Barcelona",
-    "targetId": "7675"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Howard Brubeck",
-    "targetId": "7676"
-  },
-  {
-    "source": "Louis Armstrong",
-    "target": "Buddy Rich",
-    "targetId": "8663"
-  }
-]
+{
+  "source": "Louis Armstrong",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Ella Fitzgerald",
+      "targetId": "1786"
+    },
+    {
+      "name": "Barney Bigard",
+      "targetId": "1903"
+    },
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    },
+    {
+      "name": "Dave Brubeck",
+      "targetId": "4636"
+    },
+    {
+      "name": "Eugene Wright",
+      "targetId": "4638"
+    },
+    {
+      "name": "Joe Morello",
+      "targetId": "4639"
+    },
+    {
+      "name": "Roy Eldridge",
+      "targetId": "5524"
+    },
+    {
+      "name": "Bessie Smith",
+      "targetId": "5850"
+    },
+    {
+      "name": "Charlie Green",
+      "targetId": "5852"
+    },
+    {
+      "name": "Dave Lambert",
+      "targetId": "5911"
+    },
+    {
+      "name": "Annie Ross",
+      "targetId": "5912"
+    },
+    {
+      "name": "Jon Hendricks",
+      "targetId": "5913"
+    },
+    {
+      "name": "Oscar Pettiford",
+      "targetId": "6028"
+    },
+    {
+      "name": "Sidney Catlett",
+      "targetId": "6029"
+    },
+    {
+      "name": "Art Tatum",
+      "targetId": "6030"
+    },
+    {
+      "name": "Coleman Hawkins",
+      "targetId": "6031"
+    },
+    {
+      "name": "Al Casey",
+      "targetId": "6033"
+    },
+    {
+      "name": "Lionel Hampton",
+      "targetId": "6034"
+    },
+    {
+      "name": "Herb Ellis",
+      "targetId": "7153"
+    },
+    {
+      "name": "Sam Koki",
+      "targetId": "7549"
+    },
+    {
+      "name": "George Archer",
+      "targetId": "7550"
+    },
+    {
+      "name": "Harry Baty",
+      "targetId": "7551"
+    },
+    {
+      "name": "Joe Nawahi",
+      "targetId": "7552"
+    },
+    {
+      "name": "Joe Darensbourg",
+      "targetId": "7670"
+    },
+    {
+      "name": "Trummy Young",
+      "targetId": "7671"
+    },
+    {
+      "name": "Billy Kyle",
+      "targetId": "7672"
+    },
+    {
+      "name": "Irving Manning",
+      "targetId": "7673"
+    },
+    {
+      "name": "Carmen McRae",
+      "targetId": "7674"
+    },
+    {
+      "name": "Danny Barcelona",
+      "targetId": "7675"
+    },
+    {
+      "name": "Howard Brubeck",
+      "targetId": "7676"
+    },
+    {
+      "name": "Buddy Rich",
+      "targetId": "8663"
+    }
+  ]
+}

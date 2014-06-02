@@ -1,177 +1,145 @@
-[
-  {
-    "source": "John Scanlon",
-    "target": "Matt Chamberlain",
-    "targetId": "182"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Leland Sklar",
-    "targetId": "421"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Larry Corbett",
-    "targetId": "1040"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Charlie Bisharat",
-    "targetId": "1042"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Joel Derouin",
-    "targetId": "1043"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Hugh McDonald",
-    "targetId": "1288"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Berj Garabedian",
-    "targetId": "2240"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Suzie Katayama",
-    "targetId": "2293"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Armen Garabedian",
-    "targetId": "2319"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Michelle Richards",
-    "targetId": "2327"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Eric Bazilian",
-    "targetId": "3441"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Rob Hyman",
-    "targetId": "3443"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Meja",
-    "targetId": "3960"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Ricky Martin",
-    "targetId": "3962"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Gyan",
-    "targetId": "3963"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Lee Levin",
-    "targetId": "3964"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Luis Enrique",
-    "targetId": "3965"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Denyse Buffum",
-    "targetId": "3966"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Eve Sprecher",
-    "targetId": "3968"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Sara Parkins",
-    "targetId": "4215"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Bruce Dukov",
-    "targetId": "6101"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Rusty Anderson",
-    "targetId": "7987"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Natalie Leggett",
-    "targetId": "8538"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Lisa Loeb",
-    "targetId": "8844"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Eric Gaenslen",
-    "targetId": "8846"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Cecilia Tsan",
-    "targetId": "8851"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Tiffany Yi Hu",
-    "targetId": "8852"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Murray Adler",
-    "targetId": "8853"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Endra Granat",
-    "targetId": "8854"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Clayton Haslop",
-    "targetId": "8855"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "David Low",
-    "targetId": "8856"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Brian Dembow",
-    "targetId": "8857"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Pamela Goldsmith",
-    "targetId": "8858"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Dave Bassett",
-    "targetId": "8867"
-  },
-  {
-    "source": "John Scanlon",
-    "target": "Marvin B. Gordy III",
-    "targetId": "8868"
-  }
-]
+{
+  "source": "John Scanlon",
+  "targets": [
+    {
+      "name": "Matt Chamberlain",
+      "targetId": "182"
+    },
+    {
+      "name": "Leland Sklar",
+      "targetId": "421"
+    },
+    {
+      "name": "Larry Corbett",
+      "targetId": "1040"
+    },
+    {
+      "name": "Charlie Bisharat",
+      "targetId": "1042"
+    },
+    {
+      "name": "Joel Derouin",
+      "targetId": "1043"
+    },
+    {
+      "name": "Hugh McDonald",
+      "targetId": "1288"
+    },
+    {
+      "name": "Berj Garabedian",
+      "targetId": "2240"
+    },
+    {
+      "name": "Suzie Katayama",
+      "targetId": "2293"
+    },
+    {
+      "name": "Armen Garabedian",
+      "targetId": "2319"
+    },
+    {
+      "name": "Michelle Richards",
+      "targetId": "2327"
+    },
+    {
+      "name": "Eric Bazilian",
+      "targetId": "3441"
+    },
+    {
+      "name": "Rob Hyman",
+      "targetId": "3443"
+    },
+    {
+      "name": "Meja",
+      "targetId": "3960"
+    },
+    {
+      "name": "Ricky Martin",
+      "targetId": "3962"
+    },
+    {
+      "name": "Gyan",
+      "targetId": "3963"
+    },
+    {
+      "name": "Lee Levin",
+      "targetId": "3964"
+    },
+    {
+      "name": "Luis Enrique",
+      "targetId": "3965"
+    },
+    {
+      "name": "Denyse Buffum",
+      "targetId": "3966"
+    },
+    {
+      "name": "Eve Sprecher",
+      "targetId": "3968"
+    },
+    {
+      "name": "Sara Parkins",
+      "targetId": "4215"
+    },
+    {
+      "name": "Bruce Dukov",
+      "targetId": "6101"
+    },
+    {
+      "name": "Rusty Anderson",
+      "targetId": "7987"
+    },
+    {
+      "name": "Natalie Leggett",
+      "targetId": "8538"
+    },
+    {
+      "name": "Lisa Loeb",
+      "targetId": "8844"
+    },
+    {
+      "name": "Eric Gaenslen",
+      "targetId": "8846"
+    },
+    {
+      "name": "Cecilia Tsan",
+      "targetId": "8851"
+    },
+    {
+      "name": "Tiffany Yi Hu",
+      "targetId": "8852"
+    },
+    {
+      "name": "Murray Adler",
+      "targetId": "8853"
+    },
+    {
+      "name": "Endra Granat",
+      "targetId": "8854"
+    },
+    {
+      "name": "Clayton Haslop",
+      "targetId": "8855"
+    },
+    {
+      "name": "David Low",
+      "targetId": "8856"
+    },
+    {
+      "name": "Brian Dembow",
+      "targetId": "8857"
+    },
+    {
+      "name": "Pamela Goldsmith",
+      "targetId": "8858"
+    },
+    {
+      "name": "Dave Bassett",
+      "targetId": "8867"
+    },
+    {
+      "name": "Marvin B. Gordy III",
+      "targetId": "8868"
+    }
+  ]
+}

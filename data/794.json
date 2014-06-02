@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mick Woodmansey",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Mick Woodmansey",
-    "target": "Mick Ronson",
-    "targetId": "791"
-  },
-  {
-    "source": "Mick Woodmansey",
-    "target": "Rick Wakeman",
-    "targetId": "792"
-  },
-  {
-    "source": "Mick Woodmansey",
-    "target": "Trevor Bolder",
-    "targetId": "793"
-  }
-]
+{
+  "source": "Mick Woodmansey",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Mick Ronson",
+      "targetId": "791"
+    },
+    {
+      "name": "Rick Wakeman",
+      "targetId": "792"
+    },
+    {
+      "name": "Trevor Bolder",
+      "targetId": "793"
+    }
+  ]
+}

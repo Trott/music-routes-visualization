@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Don Heffington",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Sebastian Steinberg",
-    "targetId": "37"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Steve Madaio",
-    "targetId": "412"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Madelyn Quebec",
-    "targetId": "562"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Muffy Hendrix",
-    "targetId": "563"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Annette May Thomas",
-    "targetId": "564"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Mike Campbell",
-    "targetId": "646"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Howie Epstein",
-    "targetId": "921"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Greg Leisz",
-    "targetId": "1061"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "David Watson",
-    "targetId": "2177"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Darryl Dixon",
-    "targetId": "2178"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Bashiri Johnson",
-    "targetId": "2373"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Peggi Blu",
-    "targetId": "3268"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Queen Esther Marrow",
-    "targetId": "3269"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Elisecia Wright",
-    "targetId": "3275"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Carl Sealove",
-    "targetId": "3276"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Vince Melamed",
-    "targetId": "3277"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Ira Ingber",
-    "targetId": "3278"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Kathleen Edwards",
-    "targetId": "3661"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Colin Cripps",
-    "targetId": "3663"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Jim Bryson",
-    "targetId": "3664"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Anne Lindsay",
-    "targetId": "3665"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Johann Lotter",
-    "targetId": "3666"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Kevin Fox",
-    "targetId": "3667"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Bob Packwood",
-    "targetId": "3668"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Paul Reddick",
-    "targetId": "3669"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Jim Scott",
-    "targetId": "3670"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "John Ginty",
-    "targetId": "3671"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Margaret Edwards",
-    "targetId": "3673"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Richard Scher",
-    "targetId": "10034"
-  },
-  {
-    "source": "Don Heffington",
-    "target": "Robbie Shakespeare",
-    "targetId": "10037"
-  }
-]
+{
+  "source": "Don Heffington",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Sebastian Steinberg",
+      "targetId": "37"
+    },
+    {
+      "name": "Steve Madaio",
+      "targetId": "412"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Madelyn Quebec",
+      "targetId": "562"
+    },
+    {
+      "name": "Muffy Hendrix",
+      "targetId": "563"
+    },
+    {
+      "name": "Annette May Thomas",
+      "targetId": "564"
+    },
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Mike Campbell",
+      "targetId": "646"
+    },
+    {
+      "name": "Howie Epstein",
+      "targetId": "921"
+    },
+    {
+      "name": "Greg Leisz",
+      "targetId": "1061"
+    },
+    {
+      "name": "David Watson",
+      "targetId": "2177"
+    },
+    {
+      "name": "Darryl Dixon",
+      "targetId": "2178"
+    },
+    {
+      "name": "Bashiri Johnson",
+      "targetId": "2373"
+    },
+    {
+      "name": "Peggi Blu",
+      "targetId": "3268"
+    },
+    {
+      "name": "Queen Esther Marrow",
+      "targetId": "3269"
+    },
+    {
+      "name": "Elisecia Wright",
+      "targetId": "3275"
+    },
+    {
+      "name": "Carl Sealove",
+      "targetId": "3276"
+    },
+    {
+      "name": "Vince Melamed",
+      "targetId": "3277"
+    },
+    {
+      "name": "Ira Ingber",
+      "targetId": "3278"
+    },
+    {
+      "name": "Kathleen Edwards",
+      "targetId": "3661"
+    },
+    {
+      "name": "Colin Cripps",
+      "targetId": "3663"
+    },
+    {
+      "name": "Jim Bryson",
+      "targetId": "3664"
+    },
+    {
+      "name": "Anne Lindsay",
+      "targetId": "3665"
+    },
+    {
+      "name": "Johann Lotter",
+      "targetId": "3666"
+    },
+    {
+      "name": "Kevin Fox",
+      "targetId": "3667"
+    },
+    {
+      "name": "Bob Packwood",
+      "targetId": "3668"
+    },
+    {
+      "name": "Paul Reddick",
+      "targetId": "3669"
+    },
+    {
+      "name": "Jim Scott",
+      "targetId": "3670"
+    },
+    {
+      "name": "John Ginty",
+      "targetId": "3671"
+    },
+    {
+      "name": "Margaret Edwards",
+      "targetId": "3673"
+    },
+    {
+      "name": "Richard Scher",
+      "targetId": "10034"
+    },
+    {
+      "name": "Robbie Shakespeare",
+      "targetId": "10037"
+    }
+  ]
+}

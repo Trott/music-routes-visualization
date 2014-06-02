@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Greg Ridley",
-    "target": "Peter Frampton",
-    "targetId": "3166"
-  },
-  {
-    "source": "Greg Ridley",
-    "target": "Steve Marriott",
-    "targetId": "3169"
-  },
-  {
-    "source": "Greg Ridley",
-    "target": "Jerry Shirley",
-    "targetId": "3171"
-  }
-]
+{
+  "source": "Greg Ridley",
+  "targets": [
+    {
+      "name": "Peter Frampton",
+      "targetId": "3166"
+    },
+    {
+      "name": "Steve Marriott",
+      "targetId": "3169"
+    },
+    {
+      "name": "Jerry Shirley",
+      "targetId": "3171"
+    }
+  ]
+}

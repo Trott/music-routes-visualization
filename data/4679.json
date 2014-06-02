@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Howard Ferguson",
-    "target": "John Felice",
-    "targetId": "4677"
-  },
-  {
-    "source": "Howard Ferguson",
-    "target": "Billy Borgioli",
-    "targetId": "4678"
-  },
-  {
-    "source": "Howard Ferguson",
-    "target": "Allen \"Alpo\" Paulino",
-    "targetId": "4680"
-  }
-]
+{
+  "source": "Howard Ferguson",
+  "targets": [
+    {
+      "name": "John Felice",
+      "targetId": "4677"
+    },
+    {
+      "name": "Billy Borgioli",
+      "targetId": "4678"
+    },
+    {
+      "name": "Allen \"Alpo\" Paulino",
+      "targetId": "4680"
+    }
+  ]
+}

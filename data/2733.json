@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Lightnin' Hopkins",
-    "target": "Jimmy Bond",
-    "targetId": "376"
-  },
-  {
-    "source": "Lightnin' Hopkins",
-    "target": "Sonny Terry",
-    "targetId": "2734"
-  },
-  {
-    "source": "Lightnin' Hopkins",
-    "target": "Brownie McGhee",
-    "targetId": "2735"
-  },
-  {
-    "source": "Lightnin' Hopkins",
-    "target": "Big Joe Williams",
-    "targetId": "2736"
-  }
-]
+{
+  "source": "Lightnin' Hopkins",
+  "targets": [
+    {
+      "name": "Jimmy Bond",
+      "targetId": "376"
+    },
+    {
+      "name": "Sonny Terry",
+      "targetId": "2734"
+    },
+    {
+      "name": "Brownie McGhee",
+      "targetId": "2735"
+    },
+    {
+      "name": "Big Joe Williams",
+      "targetId": "2736"
+    }
+  ]
+}

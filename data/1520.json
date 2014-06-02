@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Paul Horn",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Lyle Ritz",
-    "targetId": "373"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Glen Campbell",
-    "targetId": "524"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Ron Carter",
-    "targetId": "1201"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Brian Wilson",
-    "targetId": "1475"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Mike Love",
-    "targetId": "1477"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Al Jardine",
-    "targetId": "1478"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Ray Pohlman",
-    "targetId": "1484"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Al De Lory",
-    "targetId": "1486"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Jay Migliori",
-    "targetId": "1487"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Julius Wechter",
-    "targetId": "1492"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Tommy Morgan",
-    "targetId": "1518"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Bobby Klein",
-    "targetId": "1519"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Art Maebe",
-    "targetId": "3413"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Tony Williams",
-    "targetId": "3839"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "John Pisano",
-    "targetId": "8001"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Chico Hamilton",
-    "targetId": "8783"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Harold Gaylor",
-    "targetId": "8787"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Fred Katz",
-    "targetId": "8788"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Richard Perissi",
-    "targetId": "8880"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Buddy Collette",
-    "targetId": "8965"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Fred Dutton",
-    "targetId": "9268"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Richard Leith",
-    "targetId": "9271"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "William Hinshaw",
-    "targetId": "9272"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Marjorie Call",
-    "targetId": "9273"
-  },
-  {
-    "source": "Paul Horn",
-    "target": "Gene Cipriano",
-    "targetId": "9274"
-  }
-]
+{
+  "source": "Paul Horn",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Lyle Ritz",
+      "targetId": "373"
+    },
+    {
+      "name": "Glen Campbell",
+      "targetId": "524"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Ron Carter",
+      "targetId": "1201"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Brian Wilson",
+      "targetId": "1475"
+    },
+    {
+      "name": "Mike Love",
+      "targetId": "1477"
+    },
+    {
+      "name": "Al Jardine",
+      "targetId": "1478"
+    },
+    {
+      "name": "Ray Pohlman",
+      "targetId": "1484"
+    },
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Al De Lory",
+      "targetId": "1486"
+    },
+    {
+      "name": "Jay Migliori",
+      "targetId": "1487"
+    },
+    {
+      "name": "Julius Wechter",
+      "targetId": "1492"
+    },
+    {
+      "name": "Tommy Morgan",
+      "targetId": "1518"
+    },
+    {
+      "name": "Bobby Klein",
+      "targetId": "1519"
+    },
+    {
+      "name": "Art Maebe",
+      "targetId": "3413"
+    },
+    {
+      "name": "Tony Williams",
+      "targetId": "3839"
+    },
+    {
+      "name": "John Pisano",
+      "targetId": "8001"
+    },
+    {
+      "name": "Chico Hamilton",
+      "targetId": "8783"
+    },
+    {
+      "name": "Harold Gaylor",
+      "targetId": "8787"
+    },
+    {
+      "name": "Fred Katz",
+      "targetId": "8788"
+    },
+    {
+      "name": "Richard Perissi",
+      "targetId": "8880"
+    },
+    {
+      "name": "Buddy Collette",
+      "targetId": "8965"
+    },
+    {
+      "name": "Fred Dutton",
+      "targetId": "9268"
+    },
+    {
+      "name": "Richard Leith",
+      "targetId": "9271"
+    },
+    {
+      "name": "William Hinshaw",
+      "targetId": "9272"
+    },
+    {
+      "name": "Marjorie Call",
+      "targetId": "9273"
+    },
+    {
+      "name": "Gene Cipriano",
+      "targetId": "9274"
+    }
+  ]
+}

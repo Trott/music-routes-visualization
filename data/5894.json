@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Pete Seeger",
-    "target": "Arlo Guthrie",
-    "targetId": "5480"
-  },
-  {
-    "source": "Pete Seeger",
-    "target": "Bob Putnam",
-    "targetId": "5895"
-  },
-  {
-    "source": "Pete Seeger",
-    "target": "Steve Ide",
-    "targetId": "5896"
-  },
-  {
-    "source": "Pete Seeger",
-    "target": "Carol Ide",
-    "targetId": "5897"
-  },
-  {
-    "source": "Pete Seeger",
-    "target": "Dan Velika",
-    "targetId": "5898"
-  },
-  {
-    "source": "Pete Seeger",
-    "target": "Terry A La Berry",
-    "targetId": "5899"
-  }
-]
+{
+  "source": "Pete Seeger",
+  "targets": [
+    {
+      "name": "Arlo Guthrie",
+      "targetId": "5480"
+    },
+    {
+      "name": "Bob Putnam",
+      "targetId": "5895"
+    },
+    {
+      "name": "Steve Ide",
+      "targetId": "5896"
+    },
+    {
+      "name": "Carol Ide",
+      "targetId": "5897"
+    },
+    {
+      "name": "Dan Velika",
+      "targetId": "5898"
+    },
+    {
+      "name": "Terry A La Berry",
+      "targetId": "5899"
+    }
+  ]
+}

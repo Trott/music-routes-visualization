@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Richard Hathaway",
-    "target": "Steve Martin",
-    "targetId": "3338"
-  },
-  {
-    "source": "Richard Hathaway",
-    "target": "Michael Elias",
-    "targetId": "3339"
-  },
-  {
-    "source": "Richard Hathaway",
-    "target": "Bryan Savage",
-    "targetId": "3340"
-  },
-  {
-    "source": "Richard Hathaway",
-    "target": "Merel Bregante",
-    "targetId": "3341"
-  },
-  {
-    "source": "Richard Hathaway",
-    "target": "Jeff Hanna",
-    "targetId": "3343"
-  }
-]
+{
+  "source": "Richard Hathaway",
+  "targets": [
+    {
+      "name": "Steve Martin",
+      "targetId": "3338"
+    },
+    {
+      "name": "Michael Elias",
+      "targetId": "3339"
+    },
+    {
+      "name": "Bryan Savage",
+      "targetId": "3340"
+    },
+    {
+      "name": "Merel Bregante",
+      "targetId": "3341"
+    },
+    {
+      "name": "Jeff Hanna",
+      "targetId": "3343"
+    }
+  ]
+}

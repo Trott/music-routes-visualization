@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ron \"Pigpen\" McKernan",
-    "target": "Jerry Garcia",
-    "targetId": "918"
-  },
-  {
-    "source": "Ron \"Pigpen\" McKernan",
-    "target": "Bob Weir",
-    "targetId": "1317"
-  },
-  {
-    "source": "Ron \"Pigpen\" McKernan",
-    "target": "Bill Kreutzmann",
-    "targetId": "1872"
-  },
-  {
-    "source": "Ron \"Pigpen\" McKernan",
-    "target": "Mickey Hart",
-    "targetId": "1873"
-  },
-  {
-    "source": "Ron \"Pigpen\" McKernan",
-    "target": "Phil Lesh",
-    "targetId": "2113"
-  },
-  {
-    "source": "Ron \"Pigpen\" McKernan",
-    "target": "David Grisman",
-    "targetId": "2115"
-  }
-]
+{
+  "source": "Ron \"Pigpen\" McKernan",
+  "targets": [
+    {
+      "name": "Jerry Garcia",
+      "targetId": "918"
+    },
+    {
+      "name": "Bob Weir",
+      "targetId": "1317"
+    },
+    {
+      "name": "Bill Kreutzmann",
+      "targetId": "1872"
+    },
+    {
+      "name": "Mickey Hart",
+      "targetId": "1873"
+    },
+    {
+      "name": "Phil Lesh",
+      "targetId": "2113"
+    },
+    {
+      "name": "David Grisman",
+      "targetId": "2115"
+    }
+  ]
+}

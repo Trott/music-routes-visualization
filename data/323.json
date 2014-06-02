@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Dave Meniketti",
-    "targetId": "146"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Yngwie Malmsteen",
-    "targetId": "164"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Tony Levin",
-    "targetId": "269"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Barry Dunaway",
-    "targetId": "319"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Jens Johansson",
-    "targetId": "324"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Anders Johansson",
-    "targetId": "325"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Jerry Marotta",
-    "targetId": "661"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Michael Bolton",
-    "targetId": "2541"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Jon Bon Jovi",
-    "targetId": "3422"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Richie Sambora",
-    "targetId": "3423"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Tico Torres",
-    "targetId": "3424"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "David Bryan",
-    "targetId": "3425"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Cher",
-    "targetId": "3456"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "John McCurry",
-    "targetId": "3458"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Alec John Such",
-    "targetId": "3462"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Chuck Kentis",
-    "targetId": "3463"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Nancy Nash",
-    "targetId": "3464"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Bernie Shanahan",
-    "targetId": "3465"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Desmond Child",
-    "targetId": "3466"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Holly Knight",
-    "targetId": "3467"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Louis Merlino",
-    "targetId": "3468"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Myriam Valle",
-    "targetId": "3469"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Diana Graselli",
-    "targetId": "3470"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Elaine Caswell",
-    "targetId": "3471"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Seth Glassman",
-    "targetId": "3472"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "John Putnam",
-    "targetId": "3473"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Bette Sussman",
-    "targetId": "3474"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Gregg Mangiafico",
-    "targetId": "3476"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Diane Warren",
-    "targetId": "3477"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Jimmy Bralower",
-    "targetId": "3478"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Bonnie Tyler",
-    "targetId": "3479"
-  },
-  {
-    "source": "Joe Lynn Turner",
-    "target": "Darlene Love",
-    "targetId": "3480"
-  }
-]
+{
+  "source": "Joe Lynn Turner",
+  "targets": [
+    {
+      "name": "Dave Meniketti",
+      "targetId": "146"
+    },
+    {
+      "name": "Yngwie Malmsteen",
+      "targetId": "164"
+    },
+    {
+      "name": "Tony Levin",
+      "targetId": "269"
+    },
+    {
+      "name": "Barry Dunaway",
+      "targetId": "319"
+    },
+    {
+      "name": "Jens Johansson",
+      "targetId": "324"
+    },
+    {
+      "name": "Anders Johansson",
+      "targetId": "325"
+    },
+    {
+      "name": "Jerry Marotta",
+      "targetId": "661"
+    },
+    {
+      "name": "Michael Bolton",
+      "targetId": "2541"
+    },
+    {
+      "name": "Jon Bon Jovi",
+      "targetId": "3422"
+    },
+    {
+      "name": "Richie Sambora",
+      "targetId": "3423"
+    },
+    {
+      "name": "Tico Torres",
+      "targetId": "3424"
+    },
+    {
+      "name": "David Bryan",
+      "targetId": "3425"
+    },
+    {
+      "name": "Cher",
+      "targetId": "3456"
+    },
+    {
+      "name": "John McCurry",
+      "targetId": "3458"
+    },
+    {
+      "name": "Alec John Such",
+      "targetId": "3462"
+    },
+    {
+      "name": "Chuck Kentis",
+      "targetId": "3463"
+    },
+    {
+      "name": "Nancy Nash",
+      "targetId": "3464"
+    },
+    {
+      "name": "Bernie Shanahan",
+      "targetId": "3465"
+    },
+    {
+      "name": "Desmond Child",
+      "targetId": "3466"
+    },
+    {
+      "name": "Holly Knight",
+      "targetId": "3467"
+    },
+    {
+      "name": "Louis Merlino",
+      "targetId": "3468"
+    },
+    {
+      "name": "Myriam Valle",
+      "targetId": "3469"
+    },
+    {
+      "name": "Diana Graselli",
+      "targetId": "3470"
+    },
+    {
+      "name": "Elaine Caswell",
+      "targetId": "3471"
+    },
+    {
+      "name": "Seth Glassman",
+      "targetId": "3472"
+    },
+    {
+      "name": "John Putnam",
+      "targetId": "3473"
+    },
+    {
+      "name": "Bette Sussman",
+      "targetId": "3474"
+    },
+    {
+      "name": "Gregg Mangiafico",
+      "targetId": "3476"
+    },
+    {
+      "name": "Diane Warren",
+      "targetId": "3477"
+    },
+    {
+      "name": "Jimmy Bralower",
+      "targetId": "3478"
+    },
+    {
+      "name": "Bonnie Tyler",
+      "targetId": "3479"
+    },
+    {
+      "name": "Darlene Love",
+      "targetId": "3480"
+    }
+  ]
+}

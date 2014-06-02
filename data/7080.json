@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Pete Riley",
-    "target": "Ian Jones",
-    "targetId": "7075"
-  },
-  {
-    "source": "Pete Riley",
-    "target": "Electra Cliffton Smith",
-    "targetId": "7079"
-  }
-]
+{
+  "source": "Pete Riley",
+  "targets": [
+    {
+      "name": "Ian Jones",
+      "targetId": "7075"
+    },
+    {
+      "name": "Electra Cliffton Smith",
+      "targetId": "7079"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ronnie Dunn",
-    "target": "Billy Gibbons",
-    "targetId": "2118"
-  },
-  {
-    "source": "Ronnie Dunn",
-    "target": "Reba McEntire",
-    "targetId": "6255"
-  },
-  {
-    "source": "Ronnie Dunn",
-    "target": "Kix Brooks",
-    "targetId": "9876"
-  }
-]
+{
+  "source": "Ronnie Dunn",
+  "targets": [
+    {
+      "name": "Billy Gibbons",
+      "targetId": "2118"
+    },
+    {
+      "name": "Reba McEntire",
+      "targetId": "6255"
+    },
+    {
+      "name": "Kix Brooks",
+      "targetId": "9876"
+    }
+  ]
+}

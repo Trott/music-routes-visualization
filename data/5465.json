@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Jack Nitzsche",
-    "target": "Bill Wyman",
-    "targetId": "304"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Ry Cooder",
-    "targetId": "372"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Charlie Watts",
-    "targetId": "1994"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Billy Talbot",
-    "targetId": "3287"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Ralph Molina",
-    "targetId": "3288"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Nils Lofgren",
-    "targetId": "5631"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Danny Whitten",
-    "targetId": "7755"
-  },
-  {
-    "source": "Jack Nitzsche",
-    "target": "Gib Guilbeau",
-    "targetId": "7756"
-  }
-]
+{
+  "source": "Jack Nitzsche",
+  "targets": [
+    {
+      "name": "Bill Wyman",
+      "targetId": "304"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Ry Cooder",
+      "targetId": "372"
+    },
+    {
+      "name": "Charlie Watts",
+      "targetId": "1994"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Billy Talbot",
+      "targetId": "3287"
+    },
+    {
+      "name": "Ralph Molina",
+      "targetId": "3288"
+    },
+    {
+      "name": "Nils Lofgren",
+      "targetId": "5631"
+    },
+    {
+      "name": "Danny Whitten",
+      "targetId": "7755"
+    },
+    {
+      "name": "Gib Guilbeau",
+      "targetId": "7756"
+    }
+  ]
+}

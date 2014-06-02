@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jam-Master Jay",
-    "target": "Run",
-    "targetId": "1886"
-  },
-  {
-    "source": "Jam-Master Jay",
-    "target": "D.M.C.",
-    "targetId": "1887"
-  },
-  {
-    "source": "Jam-Master Jay",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "Jam-Master Jay",
-    "target": "Joe Perry",
-    "targetId": "1890"
-  }
-]
+{
+  "source": "Jam-Master Jay",
+  "targets": [
+    {
+      "name": "Run",
+      "targetId": "1886"
+    },
+    {
+      "name": "D.M.C.",
+      "targetId": "1887"
+    },
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "Joe Perry",
+      "targetId": "1890"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Art Blakey",
-    "target": "Milt Jackson",
-    "targetId": "1931"
-  },
-  {
-    "source": "Art Blakey",
-    "target": "Thelonious Monk",
-    "targetId": "7250"
-  },
-  {
-    "source": "Art Blakey",
-    "target": "Al McKibbon",
-    "targetId": "10692"
-  },
-  {
-    "source": "Art Blakey",
-    "target": "Sahib Shihab",
-    "targetId": "10976"
-  }
-]
+{
+  "source": "Art Blakey",
+  "targets": [
+    {
+      "name": "Milt Jackson",
+      "targetId": "1931"
+    },
+    {
+      "name": "Thelonious Monk",
+      "targetId": "7250"
+    },
+    {
+      "name": "Al McKibbon",
+      "targetId": "10692"
+    },
+    {
+      "name": "Sahib Shihab",
+      "targetId": "10976"
+    }
+  ]
+}

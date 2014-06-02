@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jason Rebello",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Jason Rebello",
-    "target": "Vinnie Colaiuta",
-    "targetId": "839"
-  },
-  {
-    "source": "Jason Rebello",
-    "target": "Tal Wilkenfeld",
-    "targetId": "9131"
-  }
-]
+{
+  "source": "Jason Rebello",
+  "targets": [
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Vinnie Colaiuta",
+      "targetId": "839"
+    },
+    {
+      "name": "Tal Wilkenfeld",
+      "targetId": "9131"
+    }
+  ]
+}

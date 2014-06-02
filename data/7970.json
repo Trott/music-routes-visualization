@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John Squire",
-    "target": "Gary \"Mani\" Mounfield",
-    "targetId": "7958"
-  },
-  {
-    "source": "John Squire",
-    "target": "Alan John \"Reni\" Wren",
-    "targetId": "7968"
-  },
-  {
-    "source": "John Squire",
-    "target": "Ian Brown",
-    "targetId": "7969"
-  }
-]
+{
+  "source": "John Squire",
+  "targets": [
+    {
+      "name": "Gary \"Mani\" Mounfield",
+      "targetId": "7958"
+    },
+    {
+      "name": "Alan John \"Reni\" Wren",
+      "targetId": "7968"
+    },
+    {
+      "name": "Ian Brown",
+      "targetId": "7969"
+    }
+  ]
+}

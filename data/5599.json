@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tim Davis",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Tim Davis",
-    "target": "Lonnie Turner",
-    "targetId": "3061"
-  },
-  {
-    "source": "Tim Davis",
-    "target": "Tim Davis",
-    "targetId": "5564"
-  },
-  {
-    "source": "Tim Davis",
-    "target": "Boz Scaggs",
-    "targetId": "5598"
-  }
-]
+{
+  "source": "Tim Davis",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Lonnie Turner",
+      "targetId": "3061"
+    },
+    {
+      "name": "Tim Davis",
+      "targetId": "5564"
+    },
+    {
+      "name": "Boz Scaggs",
+      "targetId": "5598"
+    }
+  ]
+}

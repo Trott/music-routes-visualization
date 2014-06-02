@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Paul Ill",
-    "target": "Brock Avery",
-    "targetId": "777"
-  },
-  {
-    "source": "Paul Ill",
-    "target": "Wayne Kramer",
-    "targetId": "2728"
-  },
-  {
-    "source": "Paul Ill",
-    "target": "Mick Farren",
-    "targetId": "2936"
-  },
-  {
-    "source": "Paul Ill",
-    "target": "Andy Colquhoun",
-    "targetId": "2937"
-  },
-  {
-    "source": "Paul Ill",
-    "target": "Jack Lancaster",
-    "targetId": "2938"
-  }
-]
+{
+  "source": "Paul Ill",
+  "targets": [
+    {
+      "name": "Brock Avery",
+      "targetId": "777"
+    },
+    {
+      "name": "Wayne Kramer",
+      "targetId": "2728"
+    },
+    {
+      "name": "Mick Farren",
+      "targetId": "2936"
+    },
+    {
+      "name": "Andy Colquhoun",
+      "targetId": "2937"
+    },
+    {
+      "name": "Jack Lancaster",
+      "targetId": "2938"
+    }
+  ]
+}

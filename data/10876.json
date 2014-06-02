@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Kelly Price",
-    "target": "Sean Combs",
-    "targetId": "2678"
-  },
-  {
-    "source": "Kelly Price",
-    "target": "Notorious B.I.G.",
-    "targetId": "10874"
-  },
-  {
-    "source": "Kelly Price",
-    "target": "Mase",
-    "targetId": "10875"
-  }
-]
+{
+  "source": "Kelly Price",
+  "targets": [
+    {
+      "name": "Sean Combs",
+      "targetId": "2678"
+    },
+    {
+      "name": "Notorious B.I.G.",
+      "targetId": "10874"
+    },
+    {
+      "name": "Mase",
+      "targetId": "10875"
+    }
+  ]
+}

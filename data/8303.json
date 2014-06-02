@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dave Max Crawford",
-    "target": "Jay Bennett",
-    "targetId": "1703"
-  },
-  {
-    "source": "Dave Max Crawford",
-    "target": "Jeff Tweedy",
-    "targetId": "1704"
-  },
-  {
-    "source": "Dave Max Crawford",
-    "target": "John Stirratt",
-    "targetId": "1705"
-  },
-  {
-    "source": "Dave Max Crawford",
-    "target": "Ken Coomer",
-    "targetId": "1706"
-  }
-]
+{
+  "source": "Dave Max Crawford",
+  "targets": [
+    {
+      "name": "Jay Bennett",
+      "targetId": "1703"
+    },
+    {
+      "name": "Jeff Tweedy",
+      "targetId": "1704"
+    },
+    {
+      "name": "John Stirratt",
+      "targetId": "1705"
+    },
+    {
+      "name": "Ken Coomer",
+      "targetId": "1706"
+    }
+  ]
+}

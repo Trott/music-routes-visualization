@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Steve Lindsey",
-    "target": "David Kendrick",
-    "targetId": "3040"
-  },
-  {
-    "source": "Steve Lindsey",
-    "target": "Bob Mothersbaugh",
-    "targetId": "3044"
-  },
-  {
-    "source": "Steve Lindsey",
-    "target": "Mark Mothersbaugh",
-    "targetId": "3045"
-  },
-  {
-    "source": "Steve Lindsey",
-    "target": "Gerald V. Casale",
-    "targetId": "3046"
-  },
-  {
-    "source": "Steve Lindsey",
-    "target": "Robert Casale",
-    "targetId": "3047"
-  }
-]
+{
+  "source": "Steve Lindsey",
+  "targets": [
+    {
+      "name": "David Kendrick",
+      "targetId": "3040"
+    },
+    {
+      "name": "Bob Mothersbaugh",
+      "targetId": "3044"
+    },
+    {
+      "name": "Mark Mothersbaugh",
+      "targetId": "3045"
+    },
+    {
+      "name": "Gerald V. Casale",
+      "targetId": "3046"
+    },
+    {
+      "name": "Robert Casale",
+      "targetId": "3047"
+    }
+  ]
+}

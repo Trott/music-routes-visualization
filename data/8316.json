@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Mary Travers",
-    "target": "Peter Yarrow",
-    "targetId": "8314"
-  },
-  {
-    "source": "Mary Travers",
-    "target": "Noel \"Paul\" Stookey",
-    "targetId": "8315"
-  }
-]
+{
+  "source": "Mary Travers",
+  "targets": [
+    {
+      "name": "Peter Yarrow",
+      "targetId": "8314"
+    },
+    {
+      "name": "Noel \"Paul\" Stookey",
+      "targetId": "8315"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Allan Robinson",
-    "target": "John Patatucci",
-    "targetId": "917"
-  },
-  {
-    "source": "Scott Allan Robinson",
-    "target": "Pat Martino",
-    "targetId": "8779"
-  },
-  {
-    "source": "Scott Allan Robinson",
-    "target": "David Kikoski",
-    "targetId": "8780"
-  },
-  {
-    "source": "Scott Allan Robinson",
-    "target": "Danny Sadownick",
-    "targetId": "8782"
-  }
-]
+{
+  "source": "Scott Allan Robinson",
+  "targets": [
+    {
+      "name": "John Patatucci",
+      "targetId": "917"
+    },
+    {
+      "name": "Pat Martino",
+      "targetId": "8779"
+    },
+    {
+      "name": "David Kikoski",
+      "targetId": "8780"
+    },
+    {
+      "name": "Danny Sadownick",
+      "targetId": "8782"
+    }
+  ]
+}

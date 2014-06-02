@@ -1,47 +1,41 @@
-[
-  {
-    "source": "David Robinson",
-    "target": "Jerry Harrison",
-    "targetId": "192"
-  },
-  {
-    "source": "David Robinson",
-    "target": "Jonathan Richman",
-    "targetId": "953"
-  },
-  {
-    "source": "David Robinson",
-    "target": "Ernie Brooks",
-    "targetId": "955"
-  },
-  {
-    "source": "David Robinson",
-    "target": "John Cale",
-    "targetId": "956"
-  },
-  {
-    "source": "David Robinson",
-    "target": "Elliot Easton",
-    "targetId": "957"
-  },
-  {
-    "source": "David Robinson",
-    "target": "Greg Hawkes",
-    "targetId": "958"
-  },
-  {
-    "source": "David Robinson",
-    "target": "Ric Ocasek",
-    "targetId": "959"
-  },
-  {
-    "source": "David Robinson",
-    "target": "Benjamin Orr",
-    "targetId": "960"
-  },
-  {
-    "source": "David Robinson",
-    "target": "John Felice",
-    "targetId": "4677"
-  }
-]
+{
+  "source": "David Robinson",
+  "targets": [
+    {
+      "name": "Jerry Harrison",
+      "targetId": "192"
+    },
+    {
+      "name": "Jonathan Richman",
+      "targetId": "953"
+    },
+    {
+      "name": "Ernie Brooks",
+      "targetId": "955"
+    },
+    {
+      "name": "John Cale",
+      "targetId": "956"
+    },
+    {
+      "name": "Elliot Easton",
+      "targetId": "957"
+    },
+    {
+      "name": "Greg Hawkes",
+      "targetId": "958"
+    },
+    {
+      "name": "Ric Ocasek",
+      "targetId": "959"
+    },
+    {
+      "name": "Benjamin Orr",
+      "targetId": "960"
+    },
+    {
+      "name": "John Felice",
+      "targetId": "4677"
+    }
+  ]
+}

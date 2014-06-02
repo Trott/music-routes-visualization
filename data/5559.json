@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Kyle Vincent",
-    "target": "Gilby Clarke",
-    "targetId": "2017"
-  },
-  {
-    "source": "Kyle Vincent",
-    "target": "Jonathan Daniel",
-    "targetId": "5560"
-  },
-  {
-    "source": "Kyle Vincent",
-    "target": "John Schubert",
-    "targetId": "5561"
-  }
-]
+{
+  "source": "Kyle Vincent",
+  "targets": [
+    {
+      "name": "Gilby Clarke",
+      "targetId": "2017"
+    },
+    {
+      "name": "Jonathan Daniel",
+      "targetId": "5560"
+    },
+    {
+      "name": "John Schubert",
+      "targetId": "5561"
+    }
+  ]
+}

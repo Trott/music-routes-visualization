@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Rock Deadrick",
-    "target": "Ben Harper",
-    "targetId": "828"
-  },
-  {
-    "source": "Rock Deadrick",
-    "target": "Suzie Katayama",
-    "targetId": "2293"
-  },
-  {
-    "source": "Rock Deadrick",
-    "target": "Richard Cook",
-    "targetId": "4396"
-  }
-]
+{
+  "source": "Rock Deadrick",
+  "targets": [
+    {
+      "name": "Ben Harper",
+      "targetId": "828"
+    },
+    {
+      "name": "Suzie Katayama",
+      "targetId": "2293"
+    },
+    {
+      "name": "Richard Cook",
+      "targetId": "4396"
+    }
+  ]
+}

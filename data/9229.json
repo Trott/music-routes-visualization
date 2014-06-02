@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jim Jones",
-    "target": "Garo Yellin",
-    "targetId": "3691"
-  },
-  {
-    "source": "Jim Jones",
-    "target": "David Thomas",
-    "targetId": "5240"
-  },
-  {
-    "source": "Jim Jones",
-    "target": "Scott Krauss",
-    "targetId": "9227"
-  },
-  {
-    "source": "Jim Jones",
-    "target": "Michele Temple",
-    "targetId": "9228"
-  }
-]
+{
+  "source": "Jim Jones",
+  "targets": [
+    {
+      "name": "Garo Yellin",
+      "targetId": "3691"
+    },
+    {
+      "name": "David Thomas",
+      "targetId": "5240"
+    },
+    {
+      "name": "Scott Krauss",
+      "targetId": "9227"
+    },
+    {
+      "name": "Michele Temple",
+      "targetId": "9228"
+    }
+  ]
+}

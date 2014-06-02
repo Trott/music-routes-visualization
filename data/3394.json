@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Donna Dickerson",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  },
-  {
-    "source": "Donna Dickerson",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Donna Dickerson",
-    "target": "Ray Parker, Jr.",
-    "targetId": "3391"
-  },
-  {
-    "source": "Donna Dickerson",
-    "target": "Ngoh Spencer",
-    "targetId": "3395"
-  },
-  {
-    "source": "Donna Dickerson",
-    "target": "Vicki Randle",
-    "targetId": "3396"
-  }
-]
+{
+  "source": "Donna Dickerson",
+  "targets": [
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Ray Parker, Jr.",
+      "targetId": "3391"
+    },
+    {
+      "name": "Ngoh Spencer",
+      "targetId": "3395"
+    },
+    {
+      "name": "Vicki Randle",
+      "targetId": "3396"
+    }
+  ]
+}

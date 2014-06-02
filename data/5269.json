@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Keith Levene",
-    "target": "John Lydon",
-    "targetId": "2670"
-  },
-  {
-    "source": "Keith Levene",
-    "target": "Martin Atkins",
-    "targetId": "3144"
-  },
-  {
-    "source": "Keith Levene",
-    "target": "Jah Wobble",
-    "targetId": "5270"
-  },
-  {
-    "source": "Keith Levene",
-    "target": "Jim Walker",
-    "targetId": "9491"
-  }
-]
+{
+  "source": "Keith Levene",
+  "targets": [
+    {
+      "name": "John Lydon",
+      "targetId": "2670"
+    },
+    {
+      "name": "Martin Atkins",
+      "targetId": "3144"
+    },
+    {
+      "name": "Jah Wobble",
+      "targetId": "5270"
+    },
+    {
+      "name": "Jim Walker",
+      "targetId": "9491"
+    }
+  ]
+}

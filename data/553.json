@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Flea",
-    "target": "Jewel",
-    "targetId": "552"
-  },
-  {
-    "source": "Flea",
-    "target": "Jack Sherman",
-    "targetId": "556"
-  },
-  {
-    "source": "Flea",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Flea",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Flea",
-    "target": "Carla Bozulich",
-    "targetId": "759"
-  },
-  {
-    "source": "Flea",
-    "target": "Paul Roessler",
-    "targetId": "764"
-  },
-  {
-    "source": "Flea",
-    "target": "Stephen Perkins",
-    "targetId": "768"
-  },
-  {
-    "source": "Flea",
-    "target": "John Molo",
-    "targetId": "780"
-  },
-  {
-    "source": "Flea",
-    "target": "Vince Meghrouni",
-    "targetId": "781"
-  },
-  {
-    "source": "Flea",
-    "target": "Tony Atherton",
-    "targetId": "782"
-  },
-  {
-    "source": "Flea",
-    "target": "Joe Strummer",
-    "targetId": "846"
-  },
-  {
-    "source": "Flea",
-    "target": "Nick Hexum",
-    "targetId": "847"
-  },
-  {
-    "source": "Flea",
-    "target": "Tom Morello",
-    "targetId": "848"
-  },
-  {
-    "source": "Flea",
-    "target": "D.J. Bonebrake",
-    "targetId": "849"
-  },
-  {
-    "source": "Flea",
-    "target": "Cliff Martinez",
-    "targetId": "1254"
-  },
-  {
-    "source": "Flea",
-    "target": "Mike D",
-    "targetId": "1458"
-  },
-  {
-    "source": "Flea",
-    "target": "Tricky",
-    "targetId": "1714"
-  },
-  {
-    "source": "Flea",
-    "target": "Alanis Morissette",
-    "targetId": "1720"
-  },
-  {
-    "source": "Flea",
-    "target": "John Frusciante",
-    "targetId": "1726"
-  },
-  {
-    "source": "Flea",
-    "target": "Anthony Kiedis",
-    "targetId": "1728"
-  },
-  {
-    "source": "Flea",
-    "target": "Josh Klinghoffer",
-    "targetId": "1729"
-  },
-  {
-    "source": "Flea",
-    "target": "Dave Navarro",
-    "targetId": "2572"
-  },
-  {
-    "source": "Flea",
-    "target": "Omar Rodriguez-Lopez",
-    "targetId": "4136"
-  },
-  {
-    "source": "Flea",
-    "target": "Cedric Bixler-Zavala",
-    "targetId": "4137"
-  },
-  {
-    "source": "Flea",
-    "target": "Jon Theodore",
-    "targetId": "4138"
-  },
-  {
-    "source": "Flea",
-    "target": "Jeremy Michael Ward",
-    "targetId": "4139"
-  },
-  {
-    "source": "Flea",
-    "target": "Ikey Isaiah Owens",
-    "targetId": "4140"
-  },
-  {
-    "source": "Flea",
-    "target": "Matt Laug",
-    "targetId": "4381"
-  },
-  {
-    "source": "Flea",
-    "target": "Chad Smith",
-    "targetId": "4845"
-  },
-  {
-    "source": "Flea",
-    "target": "Brendan O'Brien",
-    "targetId": "4846"
-  },
-  {
-    "source": "Flea",
-    "target": "Juan Alderete",
-    "targetId": "5688"
-  },
-  {
-    "source": "Flea",
-    "target": "Marcel Rodriguez-Lopez",
-    "targetId": "5692"
-  },
-  {
-    "source": "Flea",
-    "target": "David Ralicke",
-    "targetId": "5931"
-  },
-  {
-    "source": "Flea",
-    "target": "Greg Kurstin",
-    "targetId": "9044"
-  },
-  {
-    "source": "Flea",
-    "target": "Gary Novak",
-    "targetId": "9307"
-  }
-]
+{
+  "source": "Flea",
+  "targets": [
+    {
+      "name": "Jewel",
+      "targetId": "552"
+    },
+    {
+      "name": "Jack Sherman",
+      "targetId": "556"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Carla Bozulich",
+      "targetId": "759"
+    },
+    {
+      "name": "Paul Roessler",
+      "targetId": "764"
+    },
+    {
+      "name": "Stephen Perkins",
+      "targetId": "768"
+    },
+    {
+      "name": "John Molo",
+      "targetId": "780"
+    },
+    {
+      "name": "Vince Meghrouni",
+      "targetId": "781"
+    },
+    {
+      "name": "Tony Atherton",
+      "targetId": "782"
+    },
+    {
+      "name": "Joe Strummer",
+      "targetId": "846"
+    },
+    {
+      "name": "Nick Hexum",
+      "targetId": "847"
+    },
+    {
+      "name": "Tom Morello",
+      "targetId": "848"
+    },
+    {
+      "name": "D.J. Bonebrake",
+      "targetId": "849"
+    },
+    {
+      "name": "Cliff Martinez",
+      "targetId": "1254"
+    },
+    {
+      "name": "Mike D",
+      "targetId": "1458"
+    },
+    {
+      "name": "Tricky",
+      "targetId": "1714"
+    },
+    {
+      "name": "Alanis Morissette",
+      "targetId": "1720"
+    },
+    {
+      "name": "John Frusciante",
+      "targetId": "1726"
+    },
+    {
+      "name": "Anthony Kiedis",
+      "targetId": "1728"
+    },
+    {
+      "name": "Josh Klinghoffer",
+      "targetId": "1729"
+    },
+    {
+      "name": "Dave Navarro",
+      "targetId": "2572"
+    },
+    {
+      "name": "Omar Rodriguez-Lopez",
+      "targetId": "4136"
+    },
+    {
+      "name": "Cedric Bixler-Zavala",
+      "targetId": "4137"
+    },
+    {
+      "name": "Jon Theodore",
+      "targetId": "4138"
+    },
+    {
+      "name": "Jeremy Michael Ward",
+      "targetId": "4139"
+    },
+    {
+      "name": "Ikey Isaiah Owens",
+      "targetId": "4140"
+    },
+    {
+      "name": "Matt Laug",
+      "targetId": "4381"
+    },
+    {
+      "name": "Chad Smith",
+      "targetId": "4845"
+    },
+    {
+      "name": "Brendan O'Brien",
+      "targetId": "4846"
+    },
+    {
+      "name": "Juan Alderete",
+      "targetId": "5688"
+    },
+    {
+      "name": "Marcel Rodriguez-Lopez",
+      "targetId": "5692"
+    },
+    {
+      "name": "David Ralicke",
+      "targetId": "5931"
+    },
+    {
+      "name": "Greg Kurstin",
+      "targetId": "9044"
+    },
+    {
+      "name": "Gary Novak",
+      "targetId": "9307"
+    }
+  ]
+}

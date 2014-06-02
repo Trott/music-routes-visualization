@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Vinnie Lopez",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Vinnie Lopez",
-    "target": "Clarence Clemons",
-    "targetId": "465"
-  },
-  {
-    "source": "Vinnie Lopez",
-    "target": "Garry W. Tallent",
-    "targetId": "467"
-  },
-  {
-    "source": "Vinnie Lopez",
-    "target": "Harold Wheeler",
-    "targetId": "3876"
-  },
-  {
-    "source": "Vinnie Lopez",
-    "target": "David Sancious",
-    "targetId": "3877"
-  },
-  {
-    "source": "Vinnie Lopez",
-    "target": "Al Tellone",
-    "targetId": "10237"
-  }
-]
+{
+  "source": "Vinnie Lopez",
+  "targets": [
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Clarence Clemons",
+      "targetId": "465"
+    },
+    {
+      "name": "Garry W. Tallent",
+      "targetId": "467"
+    },
+    {
+      "name": "Harold Wheeler",
+      "targetId": "3876"
+    },
+    {
+      "name": "David Sancious",
+      "targetId": "3877"
+    },
+    {
+      "name": "Al Tellone",
+      "targetId": "10237"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Wendy Pederson",
-    "target": "Ann Curless",
-    "targetId": "6764"
-  },
-  {
-    "source": "Wendy Pederson",
-    "target": "Jeanette Jurado",
-    "targetId": "6765"
-  },
-  {
-    "source": "Wendy Pederson",
-    "target": "Gioia Bruno",
-    "targetId": "6766"
-  },
-  {
-    "source": "Wendy Pederson",
-    "target": "Davonda Simmons",
-    "targetId": "6768"
-  }
-]
+{
+  "source": "Wendy Pederson",
+  "targets": [
+    {
+      "name": "Ann Curless",
+      "targetId": "6764"
+    },
+    {
+      "name": "Jeanette Jurado",
+      "targetId": "6765"
+    },
+    {
+      "name": "Gioia Bruno",
+      "targetId": "6766"
+    },
+    {
+      "name": "Davonda Simmons",
+      "targetId": "6768"
+    }
+  ]
+}

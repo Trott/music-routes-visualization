@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jeff Martin",
-    "target": "Paul Gilbert",
-    "targetId": "5685"
-  },
-  {
-    "source": "Jeff Martin",
-    "target": "Scott Travis",
-    "targetId": "5687"
-  },
-  {
-    "source": "Jeff Martin",
-    "target": "Juan Alderete",
-    "targetId": "5688"
-  },
-  {
-    "source": "Jeff Martin",
-    "target": "Bruce Bouillet",
-    "targetId": "5689"
-  },
-  {
-    "source": "Jeff Martin",
-    "target": "Mike Mani",
-    "targetId": "5691"
-  }
-]
+{
+  "source": "Jeff Martin",
+  "targets": [
+    {
+      "name": "Paul Gilbert",
+      "targetId": "5685"
+    },
+    {
+      "name": "Scott Travis",
+      "targetId": "5687"
+    },
+    {
+      "name": "Juan Alderete",
+      "targetId": "5688"
+    },
+    {
+      "name": "Bruce Bouillet",
+      "targetId": "5689"
+    },
+    {
+      "name": "Mike Mani",
+      "targetId": "5691"
+    }
+  ]
+}

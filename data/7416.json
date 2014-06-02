@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Vern Reed",
-    "target": "Shirley Jones",
-    "targetId": "1790"
-  },
-  {
-    "source": "Vern Reed",
-    "target": "Al Shea",
-    "targetId": "7415"
-  }
-]
+{
+  "source": "Vern Reed",
+  "targets": [
+    {
+      "name": "Shirley Jones",
+      "targetId": "1790"
+    },
+    {
+      "name": "Al Shea",
+      "targetId": "7415"
+    }
+  ]
+}

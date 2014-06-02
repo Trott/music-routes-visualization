@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Pat Thrall",
-    "target": "Carmine Rojas",
-    "targetId": "4013"
-  },
-  {
-    "source": "Pat Thrall",
-    "target": "Jason Bonham",
-    "targetId": "8034"
-  },
-  {
-    "source": "Pat Thrall",
-    "target": "Joe Bonamassa",
-    "targetId": "10510"
-  },
-  {
-    "source": "Pat Thrall",
-    "target": "Rick Melick",
-    "targetId": "10511"
-  }
-]
+{
+  "source": "Pat Thrall",
+  "targets": [
+    {
+      "name": "Carmine Rojas",
+      "targetId": "4013"
+    },
+    {
+      "name": "Jason Bonham",
+      "targetId": "8034"
+    },
+    {
+      "name": "Joe Bonamassa",
+      "targetId": "10510"
+    },
+    {
+      "name": "Rick Melick",
+      "targetId": "10511"
+    }
+  ]
+}

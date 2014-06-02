@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dougie Thomson",
-    "target": "Rick Davies",
-    "targetId": "6525"
-  },
-  {
-    "source": "Dougie Thomson",
-    "target": "John Helliwell",
-    "targetId": "6526"
-  },
-  {
-    "source": "Dougie Thomson",
-    "target": "Roger Hodgson",
-    "targetId": "6527"
-  },
-  {
-    "source": "Dougie Thomson",
-    "target": "Bob Siebenberg",
-    "targetId": "6528"
-  }
-]
+{
+  "source": "Dougie Thomson",
+  "targets": [
+    {
+      "name": "Rick Davies",
+      "targetId": "6525"
+    },
+    {
+      "name": "John Helliwell",
+      "targetId": "6526"
+    },
+    {
+      "name": "Roger Hodgson",
+      "targetId": "6527"
+    },
+    {
+      "name": "Bob Siebenberg",
+      "targetId": "6528"
+    }
+  ]
+}

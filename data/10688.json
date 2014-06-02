@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Bill Barber",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Jimmy Cobb",
-    "targetId": "1045"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Paul Chambers",
-    "targetId": "1046"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Julian \"Cannonball\" Adderly",
-    "targetId": "1050"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Al Haig",
-    "targetId": "1929"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Nelson Boyd",
-    "targetId": "2946"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Max Roach",
-    "targetId": "2950"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "John Lewis",
-    "targetId": "2954"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Julius Watkins",
-    "targetId": "4601"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "J.J. Johnson",
-    "targetId": "6042"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Kai Winding",
-    "targetId": "6043"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Jerome Richardson",
-    "targetId": "6400"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Kenny Clarke",
-    "targetId": "7260"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Jimmy Cleveland",
-    "targetId": "7928"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Danny Bank",
-    "targetId": "7930"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Willie Ruff",
-    "targetId": "8097"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Lee Konitz",
-    "targetId": "8098"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Junior Collins",
-    "targetId": "10687"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Gerry Mulligan",
-    "targetId": "10689"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Joe Shulman",
-    "targetId": "10690"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Sandy Siegelstein",
-    "targetId": "10691"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Al McKibbon",
-    "targetId": "10692"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Gunther Schuller",
-    "targetId": "10693"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Kenny Hagood",
-    "targetId": "10694"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Johnny Coles",
-    "targetId": "10909"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Bernie Glow",
-    "targetId": "10910"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Ernie Royal",
-    "targetId": "10911"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Louis Mucci",
-    "targetId": "10912"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Joe Bennett",
-    "targetId": "10913"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Frank Rehak",
-    "targetId": "10914"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Dick Hixson",
-    "targetId": "10915"
-  },
-  {
-    "source": "Bill Barber",
-    "target": "Romeo Penque",
-    "targetId": "10916"
-  }
-]
+{
+  "source": "Bill Barber",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Jimmy Cobb",
+      "targetId": "1045"
+    },
+    {
+      "name": "Paul Chambers",
+      "targetId": "1046"
+    },
+    {
+      "name": "Julian \"Cannonball\" Adderly",
+      "targetId": "1050"
+    },
+    {
+      "name": "Al Haig",
+      "targetId": "1929"
+    },
+    {
+      "name": "Nelson Boyd",
+      "targetId": "2946"
+    },
+    {
+      "name": "Max Roach",
+      "targetId": "2950"
+    },
+    {
+      "name": "John Lewis",
+      "targetId": "2954"
+    },
+    {
+      "name": "Julius Watkins",
+      "targetId": "4601"
+    },
+    {
+      "name": "J.J. Johnson",
+      "targetId": "6042"
+    },
+    {
+      "name": "Kai Winding",
+      "targetId": "6043"
+    },
+    {
+      "name": "Jerome Richardson",
+      "targetId": "6400"
+    },
+    {
+      "name": "Kenny Clarke",
+      "targetId": "7260"
+    },
+    {
+      "name": "Jimmy Cleveland",
+      "targetId": "7928"
+    },
+    {
+      "name": "Danny Bank",
+      "targetId": "7930"
+    },
+    {
+      "name": "Willie Ruff",
+      "targetId": "8097"
+    },
+    {
+      "name": "Lee Konitz",
+      "targetId": "8098"
+    },
+    {
+      "name": "Junior Collins",
+      "targetId": "10687"
+    },
+    {
+      "name": "Gerry Mulligan",
+      "targetId": "10689"
+    },
+    {
+      "name": "Joe Shulman",
+      "targetId": "10690"
+    },
+    {
+      "name": "Sandy Siegelstein",
+      "targetId": "10691"
+    },
+    {
+      "name": "Al McKibbon",
+      "targetId": "10692"
+    },
+    {
+      "name": "Gunther Schuller",
+      "targetId": "10693"
+    },
+    {
+      "name": "Kenny Hagood",
+      "targetId": "10694"
+    },
+    {
+      "name": "Johnny Coles",
+      "targetId": "10909"
+    },
+    {
+      "name": "Bernie Glow",
+      "targetId": "10910"
+    },
+    {
+      "name": "Ernie Royal",
+      "targetId": "10911"
+    },
+    {
+      "name": "Louis Mucci",
+      "targetId": "10912"
+    },
+    {
+      "name": "Joe Bennett",
+      "targetId": "10913"
+    },
+    {
+      "name": "Frank Rehak",
+      "targetId": "10914"
+    },
+    {
+      "name": "Dick Hixson",
+      "targetId": "10915"
+    },
+    {
+      "name": "Romeo Penque",
+      "targetId": "10916"
+    }
+  ]
+}

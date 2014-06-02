@@ -1,142 +1,117 @@
-[
-  {
-    "source": "Max Roach",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Duke Ellington",
-    "targetId": "1912"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Dizzy Gillespie",
-    "targetId": "1928"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Al Haig",
-    "targetId": "1929"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Curly Russell",
-    "targetId": "2945"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Nelson Boyd",
-    "targetId": "2946"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Tommy Potter",
-    "targetId": "2947"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Bud Powell",
-    "targetId": "2951"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Duke Jordan",
-    "targetId": "2953"
-  },
-  {
-    "source": "Max Roach",
-    "target": "John Lewis",
-    "targetId": "2954"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Sonny Rollins",
-    "targetId": "4556"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Tommy Flanagan",
-    "targetId": "4557"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Doug Watkins",
-    "targetId": "4558"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Charles Mingus",
-    "targetId": "5881"
-  },
-  {
-    "source": "Max Roach",
-    "target": "J.J. Johnson",
-    "targetId": "6042"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Kai Winding",
-    "targetId": "6043"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Lee Konitz",
-    "targetId": "8098"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Walter Bishop",
-    "targetId": "10148"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Teddy Kotick",
-    "targetId": "10149"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Sadik Hakim",
-    "targetId": "10150"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Junior Collins",
-    "targetId": "10687"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Bill Barber",
-    "targetId": "10688"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Gerry Mulligan",
-    "targetId": "10689"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Joe Shulman",
-    "targetId": "10690"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Al McKibbon",
-    "targetId": "10692"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Gunther Schuller",
-    "targetId": "10693"
-  },
-  {
-    "source": "Max Roach",
-    "target": "Kenny Hagood",
-    "targetId": "10694"
-  }
-]
+{
+  "source": "Max Roach",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Duke Ellington",
+      "targetId": "1912"
+    },
+    {
+      "name": "Dizzy Gillespie",
+      "targetId": "1928"
+    },
+    {
+      "name": "Al Haig",
+      "targetId": "1929"
+    },
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Curly Russell",
+      "targetId": "2945"
+    },
+    {
+      "name": "Nelson Boyd",
+      "targetId": "2946"
+    },
+    {
+      "name": "Tommy Potter",
+      "targetId": "2947"
+    },
+    {
+      "name": "Bud Powell",
+      "targetId": "2951"
+    },
+    {
+      "name": "Duke Jordan",
+      "targetId": "2953"
+    },
+    {
+      "name": "John Lewis",
+      "targetId": "2954"
+    },
+    {
+      "name": "Sonny Rollins",
+      "targetId": "4556"
+    },
+    {
+      "name": "Tommy Flanagan",
+      "targetId": "4557"
+    },
+    {
+      "name": "Doug Watkins",
+      "targetId": "4558"
+    },
+    {
+      "name": "Charles Mingus",
+      "targetId": "5881"
+    },
+    {
+      "name": "J.J. Johnson",
+      "targetId": "6042"
+    },
+    {
+      "name": "Kai Winding",
+      "targetId": "6043"
+    },
+    {
+      "name": "Lee Konitz",
+      "targetId": "8098"
+    },
+    {
+      "name": "Walter Bishop",
+      "targetId": "10148"
+    },
+    {
+      "name": "Teddy Kotick",
+      "targetId": "10149"
+    },
+    {
+      "name": "Sadik Hakim",
+      "targetId": "10150"
+    },
+    {
+      "name": "Junior Collins",
+      "targetId": "10687"
+    },
+    {
+      "name": "Bill Barber",
+      "targetId": "10688"
+    },
+    {
+      "name": "Gerry Mulligan",
+      "targetId": "10689"
+    },
+    {
+      "name": "Joe Shulman",
+      "targetId": "10690"
+    },
+    {
+      "name": "Al McKibbon",
+      "targetId": "10692"
+    },
+    {
+      "name": "Gunther Schuller",
+      "targetId": "10693"
+    },
+    {
+      "name": "Kenny Hagood",
+      "targetId": "10694"
+    }
+  ]
+}

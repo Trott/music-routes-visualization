@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Olson",
-    "target": "Gretchen Gonzales",
-    "targetId": "3822"
-  },
-  {
-    "source": "John Olson",
-    "target": "Bryan Ramirez",
-    "targetId": "3824"
-  },
-  {
-    "source": "John Olson",
-    "target": "Ben Hall",
-    "targetId": "3826"
-  },
-  {
-    "source": "John Olson",
-    "target": "Hans Buetow",
-    "targetId": "3827"
-  },
-  {
-    "source": "John Olson",
-    "target": "Tovah Olson",
-    "targetId": "3828"
-  }
-]
+{
+  "source": "John Olson",
+  "targets": [
+    {
+      "name": "Gretchen Gonzales",
+      "targetId": "3822"
+    },
+    {
+      "name": "Bryan Ramirez",
+      "targetId": "3824"
+    },
+    {
+      "name": "Ben Hall",
+      "targetId": "3826"
+    },
+    {
+      "name": "Hans Buetow",
+      "targetId": "3827"
+    },
+    {
+      "name": "Tovah Olson",
+      "targetId": "3828"
+    }
+  ]
+}

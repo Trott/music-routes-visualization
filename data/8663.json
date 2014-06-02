@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Buddy Rich",
-    "target": "Louis Armstrong",
-    "targetId": "1785"
-  },
-  {
-    "source": "Buddy Rich",
-    "target": "Ella Fitzgerald",
-    "targetId": "1786"
-  },
-  {
-    "source": "Buddy Rich",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Buddy Rich",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  },
-  {
-    "source": "Buddy Rich",
-    "target": "Herb Ellis",
-    "targetId": "7153"
-  }
-]
+{
+  "source": "Buddy Rich",
+  "targets": [
+    {
+      "name": "Louis Armstrong",
+      "targetId": "1785"
+    },
+    {
+      "name": "Ella Fitzgerald",
+      "targetId": "1786"
+    },
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    },
+    {
+      "name": "Herb Ellis",
+      "targetId": "7153"
+    }
+  ]
+}

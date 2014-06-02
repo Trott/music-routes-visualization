@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Daane",
-    "target": "Andy Timmons",
-    "targetId": "4406"
-  },
-  {
-    "source": "Mike Daane",
-    "target": "Vanilla Ice",
-    "targetId": "7211"
-  },
-  {
-    "source": "Mike Daane",
-    "target": "Davis Bickston",
-    "targetId": "7213"
-  }
-]
+{
+  "source": "Mike Daane",
+  "targets": [
+    {
+      "name": "Andy Timmons",
+      "targetId": "4406"
+    },
+    {
+      "name": "Vanilla Ice",
+      "targetId": "7211"
+    },
+    {
+      "name": "Davis Bickston",
+      "targetId": "7213"
+    }
+  ]
+}

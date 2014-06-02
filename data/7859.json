@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ian Anderson",
-    "target": "Clive Bunker",
-    "targetId": "5613"
-  },
-  {
-    "source": "Ian Anderson",
-    "target": "John Evan",
-    "targetId": "7860"
-  },
-  {
-    "source": "Ian Anderson",
-    "target": "Jeffrey Hammond-Hammond",
-    "targetId": "7861"
-  }
-]
+{
+  "source": "Ian Anderson",
+  "targets": [
+    {
+      "name": "Clive Bunker",
+      "targetId": "5613"
+    },
+    {
+      "name": "John Evan",
+      "targetId": "7860"
+    },
+    {
+      "name": "Jeffrey Hammond-Hammond",
+      "targetId": "7861"
+    }
+  ]
+}

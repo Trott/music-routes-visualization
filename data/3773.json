@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Nik Green",
-    "target": "Carmine Appice",
-    "targetId": "151"
-  },
-  {
-    "source": "Nik Green",
-    "target": "Tony Franklin",
-    "targetId": "941"
-  },
-  {
-    "source": "Nik Green",
-    "target": "John Sykes",
-    "targetId": "3772"
-  }
-]
+{
+  "source": "Nik Green",
+  "targets": [
+    {
+      "name": "Carmine Appice",
+      "targetId": "151"
+    },
+    {
+      "name": "Tony Franklin",
+      "targetId": "941"
+    },
+    {
+      "name": "John Sykes",
+      "targetId": "3772"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Billy Jenkins",
-    "target": "Chris Jagger",
-    "targetId": "3000"
-  },
-  {
-    "source": "Billy Jenkins",
-    "target": "Charlie Hart",
-    "targetId": "3001"
-  },
-  {
-    "source": "Billy Jenkins",
-    "target": "Paul Emile",
-    "targetId": "3002"
-  },
-  {
-    "source": "Billy Jenkins",
-    "target": "Malcolm Mortimore",
-    "targetId": "3003"
-  },
-  {
-    "source": "Billy Jenkins",
-    "target": "Jim Mortimore",
-    "targetId": "3004"
-  }
-]
+{
+  "source": "Billy Jenkins",
+  "targets": [
+    {
+      "name": "Chris Jagger",
+      "targetId": "3000"
+    },
+    {
+      "name": "Charlie Hart",
+      "targetId": "3001"
+    },
+    {
+      "name": "Paul Emile",
+      "targetId": "3002"
+    },
+    {
+      "name": "Malcolm Mortimore",
+      "targetId": "3003"
+    },
+    {
+      "name": "Jim Mortimore",
+      "targetId": "3004"
+    }
+  ]
+}

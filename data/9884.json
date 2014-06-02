@@ -1,102 +1,85 @@
-[
-  {
-    "source": "John McFee",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "John McFee",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "John McFee",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "John McFee",
-    "target": "Emmylou Harris",
-    "targetId": "450"
-  },
-  {
-    "source": "John McFee",
-    "target": "Davey Faragher",
-    "targetId": "1023"
-  },
-  {
-    "source": "John McFee",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "John McFee",
-    "target": "Nick Lowe",
-    "targetId": "3600"
-  },
-  {
-    "source": "John McFee",
-    "target": "Bruce Thomas",
-    "targetId": "7277"
-  },
-  {
-    "source": "John McFee",
-    "target": "John Ciambotti",
-    "targetId": "8698"
-  },
-  {
-    "source": "John McFee",
-    "target": "Dolores Edgin",
-    "targetId": "9906"
-  },
-  {
-    "source": "John McFee",
-    "target": "Hershel Wiggington",
-    "targetId": "9907"
-  },
-  {
-    "source": "John McFee",
-    "target": "Joe Babcock",
-    "targetId": "9908"
-  },
-  {
-    "source": "John McFee",
-    "target": "Sean Hopper",
-    "targetId": "9915"
-  },
-  {
-    "source": "John McFee",
-    "target": "Mickey Shine",
-    "targetId": "9916"
-  },
-  {
-    "source": "John McFee",
-    "target": "Stan Shaw",
-    "targetId": "9917"
-  },
-  {
-    "source": "John McFee",
-    "target": "Mario Cipollina",
-    "targetId": "10839"
-  },
-  {
-    "source": "John McFee",
-    "target": "Johnny Colla",
-    "targetId": "10840"
-  },
-  {
-    "source": "John McFee",
-    "target": "Bill Gibson",
-    "targetId": "10841"
-  },
-  {
-    "source": "John McFee",
-    "target": "Chris Hayes",
-    "targetId": "10842"
-  },
-  {
-    "source": "John McFee",
-    "target": "Wanda Jackson",
-    "targetId": "10877"
-  }
-]
+{
+  "source": "John McFee",
+  "targets": [
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Emmylou Harris",
+      "targetId": "450"
+    },
+    {
+      "name": "Davey Faragher",
+      "targetId": "1023"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Nick Lowe",
+      "targetId": "3600"
+    },
+    {
+      "name": "Bruce Thomas",
+      "targetId": "7277"
+    },
+    {
+      "name": "John Ciambotti",
+      "targetId": "8698"
+    },
+    {
+      "name": "Dolores Edgin",
+      "targetId": "9906"
+    },
+    {
+      "name": "Hershel Wiggington",
+      "targetId": "9907"
+    },
+    {
+      "name": "Joe Babcock",
+      "targetId": "9908"
+    },
+    {
+      "name": "Sean Hopper",
+      "targetId": "9915"
+    },
+    {
+      "name": "Mickey Shine",
+      "targetId": "9916"
+    },
+    {
+      "name": "Stan Shaw",
+      "targetId": "9917"
+    },
+    {
+      "name": "Mario Cipollina",
+      "targetId": "10839"
+    },
+    {
+      "name": "Johnny Colla",
+      "targetId": "10840"
+    },
+    {
+      "name": "Bill Gibson",
+      "targetId": "10841"
+    },
+    {
+      "name": "Chris Hayes",
+      "targetId": "10842"
+    },
+    {
+      "name": "Wanda Jackson",
+      "targetId": "10877"
+    }
+  ]
+}

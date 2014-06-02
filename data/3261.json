@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Andy Paley",
-    "target": "Russ Titelman",
-    "targetId": "378"
-  },
-  {
-    "source": "Andy Paley",
-    "target": "Brian Wilson",
-    "targetId": "1475"
-  },
-  {
-    "source": "Andy Paley",
-    "target": "Terence Trent D'Arby",
-    "targetId": "3262"
-  },
-  {
-    "source": "Andy Paley",
-    "target": "Darian Sahanaja",
-    "targetId": "7953"
-  },
-  {
-    "source": "Andy Paley",
-    "target": "Jeffrey Foskett",
-    "targetId": "7954"
-  },
-  {
-    "source": "Andy Paley",
-    "target": "Scott Bennett",
-    "targetId": "7955"
-  }
-]
+{
+  "source": "Andy Paley",
+  "targets": [
+    {
+      "name": "Russ Titelman",
+      "targetId": "378"
+    },
+    {
+      "name": "Brian Wilson",
+      "targetId": "1475"
+    },
+    {
+      "name": "Terence Trent D'Arby",
+      "targetId": "3262"
+    },
+    {
+      "name": "Darian Sahanaja",
+      "targetId": "7953"
+    },
+    {
+      "name": "Jeffrey Foskett",
+      "targetId": "7954"
+    },
+    {
+      "name": "Scott Bennett",
+      "targetId": "7955"
+    }
+  ]
+}

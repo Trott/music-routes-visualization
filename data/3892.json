@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Taffy Nivert",
-    "target": "John Denver",
-    "targetId": "2523"
-  },
-  {
-    "source": "Taffy Nivert",
-    "target": "Frank Owens",
-    "targetId": "3888"
-  },
-  {
-    "source": "Taffy Nivert",
-    "target": "Gary Chester",
-    "targetId": "3890"
-  },
-  {
-    "source": "Taffy Nivert",
-    "target": "Bill Danoff",
-    "targetId": "3891"
-  },
-  {
-    "source": "Taffy Nivert",
-    "target": "Eric Weissberg",
-    "targetId": "3893"
-  },
-  {
-    "source": "Taffy Nivert",
-    "target": "Jon Carroll",
-    "targetId": "3894"
-  },
-  {
-    "source": "Taffy Nivert",
-    "target": "Margot Chapman",
-    "targetId": "3895"
-  }
-]
+{
+  "source": "Taffy Nivert",
+  "targets": [
+    {
+      "name": "John Denver",
+      "targetId": "2523"
+    },
+    {
+      "name": "Frank Owens",
+      "targetId": "3888"
+    },
+    {
+      "name": "Gary Chester",
+      "targetId": "3890"
+    },
+    {
+      "name": "Bill Danoff",
+      "targetId": "3891"
+    },
+    {
+      "name": "Eric Weissberg",
+      "targetId": "3893"
+    },
+    {
+      "name": "Jon Carroll",
+      "targetId": "3894"
+    },
+    {
+      "name": "Margot Chapman",
+      "targetId": "3895"
+    }
+  ]
+}

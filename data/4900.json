@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Tara Freedman",
-    "target": "Jerry Garcia",
-    "targetId": "918"
-  },
-  {
-    "source": "Tara Freedman",
-    "target": "Don Joyce",
-    "targetId": "4887"
-  },
-  {
-    "source": "Tara Freedman",
-    "target": "David Wills",
-    "targetId": "4888"
-  },
-  {
-    "source": "Tara Freedman",
-    "target": "Mark Hosler",
-    "targetId": "4889"
-  },
-  {
-    "source": "Tara Freedman",
-    "target": "Richard Lyons",
-    "targetId": "4890"
-  },
-  {
-    "source": "Tara Freedman",
-    "target": "Chris Grigg",
-    "targetId": "4891"
-  }
-]
+{
+  "source": "Tara Freedman",
+  "targets": [
+    {
+      "name": "Jerry Garcia",
+      "targetId": "918"
+    },
+    {
+      "name": "Don Joyce",
+      "targetId": "4887"
+    },
+    {
+      "name": "David Wills",
+      "targetId": "4888"
+    },
+    {
+      "name": "Mark Hosler",
+      "targetId": "4889"
+    },
+    {
+      "name": "Richard Lyons",
+      "targetId": "4890"
+    },
+    {
+      "name": "Chris Grigg",
+      "targetId": "4891"
+    }
+  ]
+}

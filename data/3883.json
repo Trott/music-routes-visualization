@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Phill Allan",
-    "target": "Holly Johnson",
-    "targetId": "133"
-  },
-  {
-    "source": "Phill Allan",
-    "target": "Bill Drummond",
-    "targetId": "3880"
-  },
-  {
-    "source": "Phill Allan",
-    "target": "Ian Broudie",
-    "targetId": "3881"
-  },
-  {
-    "source": "Phill Allan",
-    "target": "Jayne Casey",
-    "targetId": "3882"
-  },
-  {
-    "source": "Phill Allan",
-    "target": "Kev Ward",
-    "targetId": "3884"
-  }
-]
+{
+  "source": "Phill Allan",
+  "targets": [
+    {
+      "name": "Holly Johnson",
+      "targetId": "133"
+    },
+    {
+      "name": "Bill Drummond",
+      "targetId": "3880"
+    },
+    {
+      "name": "Ian Broudie",
+      "targetId": "3881"
+    },
+    {
+      "name": "Jayne Casey",
+      "targetId": "3882"
+    },
+    {
+      "name": "Kev Ward",
+      "targetId": "3884"
+    }
+  ]
+}

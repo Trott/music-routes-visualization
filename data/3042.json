@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Leslie Bohem",
-    "target": "Russell Mael",
-    "targetId": "3031"
-  },
-  {
-    "source": "Leslie Bohem",
-    "target": "Ron Mael",
-    "targetId": "3039"
-  },
-  {
-    "source": "Leslie Bohem",
-    "target": "David Kendrick",
-    "targetId": "3040"
-  },
-  {
-    "source": "Leslie Bohem",
-    "target": "Bob Haag",
-    "targetId": "3041"
-  },
-  {
-    "source": "Leslie Bohem",
-    "target": "Jane Wiedlin",
-    "targetId": "3043"
-  }
-]
+{
+  "source": "Leslie Bohem",
+  "targets": [
+    {
+      "name": "Russell Mael",
+      "targetId": "3031"
+    },
+    {
+      "name": "Ron Mael",
+      "targetId": "3039"
+    },
+    {
+      "name": "David Kendrick",
+      "targetId": "3040"
+    },
+    {
+      "name": "Bob Haag",
+      "targetId": "3041"
+    },
+    {
+      "name": "Jane Wiedlin",
+      "targetId": "3043"
+    }
+  ]
+}

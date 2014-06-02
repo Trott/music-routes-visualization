@@ -1,77 +1,65 @@
-[
-  {
-    "source": "Roy Orbison",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Jeff Lynne",
-    "targetId": "224"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Jerry Scheff",
-    "targetId": "287"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "T-Bone Burnett",
-    "targetId": "300"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "James Burton",
-    "targetId": "452"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Ronnie Tutt",
-    "targetId": "454"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Glen D. Hardin",
-    "targetId": "455"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Bonnie Raitt",
-    "targetId": "692"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "k.d. lang",
-    "targetId": "700"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Jennifer Warnes",
-    "targetId": "1012"
-  },
-  {
-    "source": "Roy Orbison",
-    "target": "Tom Waits",
-    "targetId": "1713"
-  }
-]
+{
+  "source": "Roy Orbison",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Jeff Lynne",
+      "targetId": "224"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Jerry Scheff",
+      "targetId": "287"
+    },
+    {
+      "name": "T-Bone Burnett",
+      "targetId": "300"
+    },
+    {
+      "name": "James Burton",
+      "targetId": "452"
+    },
+    {
+      "name": "Ronnie Tutt",
+      "targetId": "454"
+    },
+    {
+      "name": "Glen D. Hardin",
+      "targetId": "455"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "targetId": "692"
+    },
+    {
+      "name": "k.d. lang",
+      "targetId": "700"
+    },
+    {
+      "name": "Jennifer Warnes",
+      "targetId": "1012"
+    },
+    {
+      "name": "Tom Waits",
+      "targetId": "1713"
+    }
+  ]
+}

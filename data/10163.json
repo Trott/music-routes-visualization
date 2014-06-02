@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sam Bush",
-    "target": "Tom Waits",
-    "targetId": "1713"
-  },
-  {
-    "source": "Sam Bush",
-    "target": "Bob Forrest",
-    "targetId": "10160"
-  },
-  {
-    "source": "Sam Bush",
-    "target": "Martyn Lenoble",
-    "targetId": "10161"
-  },
-  {
-    "source": "Sam Bush",
-    "target": "Pete Weiss",
-    "targetId": "10162"
-  }
-]
+{
+  "source": "Sam Bush",
+  "targets": [
+    {
+      "name": "Tom Waits",
+      "targetId": "1713"
+    },
+    {
+      "name": "Bob Forrest",
+      "targetId": "10160"
+    },
+    {
+      "name": "Martyn Lenoble",
+      "targetId": "10161"
+    },
+    {
+      "name": "Pete Weiss",
+      "targetId": "10162"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Greg Howard",
-    "target": "Dave Matthews",
-    "targetId": "186"
-  },
-  {
-    "source": "Greg Howard",
-    "target": "Stefan Lessard",
-    "targetId": "4369"
-  },
-  {
-    "source": "Greg Howard",
-    "target": "Carter Beauford",
-    "targetId": "4370"
-  },
-  {
-    "source": "Greg Howard",
-    "target": "Tim Reynolds",
-    "targetId": "4371"
-  },
-  {
-    "source": "Greg Howard",
-    "target": "Leroi Moore",
-    "targetId": "4372"
-  },
-  {
-    "source": "Greg Howard",
-    "target": "Boyd Tinsley",
-    "targetId": "4373"
-  }
-]
+{
+  "source": "Greg Howard",
+  "targets": [
+    {
+      "name": "Dave Matthews",
+      "targetId": "186"
+    },
+    {
+      "name": "Stefan Lessard",
+      "targetId": "4369"
+    },
+    {
+      "name": "Carter Beauford",
+      "targetId": "4370"
+    },
+    {
+      "name": "Tim Reynolds",
+      "targetId": "4371"
+    },
+    {
+      "name": "Leroi Moore",
+      "targetId": "4372"
+    },
+    {
+      "name": "Boyd Tinsley",
+      "targetId": "4373"
+    }
+  ]
+}

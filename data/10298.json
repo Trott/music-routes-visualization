@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Allan Zavod",
-    "target": "Chad Wackerman",
-    "targetId": "803"
-  },
-  {
-    "source": "Allan Zavod",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Allan Zavod",
-    "target": "Ike Willis",
-    "targetId": "1337"
-  },
-  {
-    "source": "Allan Zavod",
-    "target": "Ray White",
-    "targetId": "1350"
-  },
-  {
-    "source": "Allan Zavod",
-    "target": "Scott Thunes",
-    "targetId": "1351"
-  },
-  {
-    "source": "Allan Zavod",
-    "target": "Bobby Martin",
-    "targetId": "1352"
-  }
-]
+{
+  "source": "Allan Zavod",
+  "targets": [
+    {
+      "name": "Chad Wackerman",
+      "targetId": "803"
+    },
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Ike Willis",
+      "targetId": "1337"
+    },
+    {
+      "name": "Ray White",
+      "targetId": "1350"
+    },
+    {
+      "name": "Scott Thunes",
+      "targetId": "1351"
+    },
+    {
+      "name": "Bobby Martin",
+      "targetId": "1352"
+    }
+  ]
+}

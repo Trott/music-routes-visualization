@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Tony Newman",
-    "target": "Herbie Flowers",
-    "targetId": "800"
-  },
-  {
-    "source": "Tony Newman",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  },
-  {
-    "source": "Tony Newman",
-    "target": "Bud Beadle",
-    "targetId": "2910"
-  },
-  {
-    "source": "Tony Newman",
-    "target": "Miller Anderson",
-    "targetId": "2912"
-  },
-  {
-    "source": "Tony Newman",
-    "target": "Dino Dines",
-    "targetId": "2913"
-  },
-  {
-    "source": "Tony Newman",
-    "target": "Chris Mercer",
-    "targetId": "2914"
-  },
-  {
-    "source": "Tony Newman",
-    "target": "Alfalpha",
-    "targetId": "2916"
-  },
-  {
-    "source": "Tony Newman",
-    "target": "Steve Harley",
-    "targetId": "2919"
-  }
-]
+{
+  "source": "Tony Newman",
+  "targets": [
+    {
+      "name": "Herbie Flowers",
+      "targetId": "800"
+    },
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    },
+    {
+      "name": "Bud Beadle",
+      "targetId": "2910"
+    },
+    {
+      "name": "Miller Anderson",
+      "targetId": "2912"
+    },
+    {
+      "name": "Dino Dines",
+      "targetId": "2913"
+    },
+    {
+      "name": "Chris Mercer",
+      "targetId": "2914"
+    },
+    {
+      "name": "Alfalpha",
+      "targetId": "2916"
+    },
+    {
+      "name": "Steve Harley",
+      "targetId": "2919"
+    }
+  ]
+}

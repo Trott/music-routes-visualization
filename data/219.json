@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Will Oldham",
-    "target": "Alex Neilson",
-    "targetId": "218"
-  },
-  {
-    "source": "Will Oldham",
-    "target": "Matt Sweeney",
-    "targetId": "220"
-  },
-  {
-    "source": "Will Oldham",
-    "target": "Paul Oldham",
-    "targetId": "221"
-  },
-  {
-    "source": "Will Oldham",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  }
-]
+{
+  "source": "Will Oldham",
+  "targets": [
+    {
+      "name": "Alex Neilson",
+      "targetId": "218"
+    },
+    {
+      "name": "Matt Sweeney",
+      "targetId": "220"
+    },
+    {
+      "name": "Paul Oldham",
+      "targetId": "221"
+    },
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Robyn",
-    "target": "Britney Spears",
-    "targetId": "2138"
-  },
-  {
-    "source": "Robyn",
-    "target": "Klas Åhlund",
-    "targetId": "5100"
-  },
-  {
-    "source": "Robyn",
-    "target": "Avant",
-    "targetId": "5101"
-  },
-  {
-    "source": "Robyn",
-    "target": "Bloodshy",
-    "targetId": "5102"
-  },
-  {
-    "source": "Robyn",
-    "target": "Henrik Jonback",
-    "targetId": "5103"
-  }
-]
+{
+  "source": "Robyn",
+  "targets": [
+    {
+      "name": "Britney Spears",
+      "targetId": "2138"
+    },
+    {
+      "name": "Klas Åhlund",
+      "targetId": "5100"
+    },
+    {
+      "name": "Avant",
+      "targetId": "5101"
+    },
+    {
+      "name": "Bloodshy",
+      "targetId": "5102"
+    },
+    {
+      "name": "Henrik Jonback",
+      "targetId": "5103"
+    }
+  ]
+}

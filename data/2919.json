@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Harley",
-    "target": "Herbie Flowers",
-    "targetId": "800"
-  },
-  {
-    "source": "Steve Harley",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  },
-  {
-    "source": "Steve Harley",
-    "target": "Tony Newman",
-    "targetId": "2909"
-  },
-  {
-    "source": "Steve Harley",
-    "target": "Dino Dines",
-    "targetId": "2913"
-  }
-]
+{
+  "source": "Steve Harley",
+  "targets": [
+    {
+      "name": "Herbie Flowers",
+      "targetId": "800"
+    },
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    },
+    {
+      "name": "Tony Newman",
+      "targetId": "2909"
+    },
+    {
+      "name": "Dino Dines",
+      "targetId": "2913"
+    }
+  ]
+}

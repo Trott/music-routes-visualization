@@ -1,152 +1,125 @@
-[
-  {
-    "source": "Bill Wyman",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Ian Stewart",
-    "targetId": "306"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Chris Winters",
-    "targetId": "307"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Ry Cooder",
-    "targetId": "372"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Bobby Keyes",
-    "targetId": "644"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Madeline Bell",
-    "targetId": "810"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Doris Troy",
-    "targetId": "994"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Merry Clayton",
-    "targetId": "1403"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Brian Jones",
-    "targetId": "1993"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Charlie Watts",
-    "targetId": "1994"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Mick Taylor",
-    "targetId": "1995"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Jimmy Miller",
-    "targetId": "1997"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Nanette Newman",
-    "targetId": "1998"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Rocky Dijon",
-    "targetId": "2000"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Peter Frampton",
-    "targetId": "3166"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Jim Price",
-    "targetId": "3197"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Sonny Rollins",
-    "targetId": "4556"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Jack Nitzsche",
-    "targetId": "5465"
-  },
-  {
-    "source": "Bill Wyman",
-    "target": "Ollie Brown",
-    "targetId": "5664"
-  }
-]
+{
+  "source": "Bill Wyman",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Ian Stewart",
+      "targetId": "306"
+    },
+    {
+      "name": "Chris Winters",
+      "targetId": "307"
+    },
+    {
+      "name": "Ry Cooder",
+      "targetId": "372"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "Bobby Keyes",
+      "targetId": "644"
+    },
+    {
+      "name": "Madeline Bell",
+      "targetId": "810"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Doris Troy",
+      "targetId": "994"
+    },
+    {
+      "name": "Merry Clayton",
+      "targetId": "1403"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    },
+    {
+      "name": "Brian Jones",
+      "targetId": "1993"
+    },
+    {
+      "name": "Charlie Watts",
+      "targetId": "1994"
+    },
+    {
+      "name": "Mick Taylor",
+      "targetId": "1995"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Jimmy Miller",
+      "targetId": "1997"
+    },
+    {
+      "name": "Nanette Newman",
+      "targetId": "1998"
+    },
+    {
+      "name": "Rocky Dijon",
+      "targetId": "2000"
+    },
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Peter Frampton",
+      "targetId": "3166"
+    },
+    {
+      "name": "Jim Price",
+      "targetId": "3197"
+    },
+    {
+      "name": "Sonny Rollins",
+      "targetId": "4556"
+    },
+    {
+      "name": "Jack Nitzsche",
+      "targetId": "5465"
+    },
+    {
+      "name": "Ollie Brown",
+      "targetId": "5664"
+    }
+  ]
+}

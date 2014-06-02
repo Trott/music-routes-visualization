@@ -1,67 +1,57 @@
-[
-  {
-    "source": "Joey Kibble",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "Neil Stubenhaus",
-    "targetId": "2440"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "David Foster",
-    "targetId": "2456"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "Alvin Chea",
-    "targetId": "4241"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "Cedric Dent",
-    "targetId": "4242"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "Claude McKnight",
-    "targetId": "4243"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "David Thomas",
-    "targetId": "4244"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "Mark Kibble",
-    "targetId": "4246"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "Mervyn Warren",
-    "targetId": "4247"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "James Moody",
-    "targetId": "4248"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "Brian McKnight",
-    "targetId": "4249"
-  },
-  {
-    "source": "Joey Kibble",
-    "target": "Rachelle Ferrell",
-    "targetId": "4250"
-  }
-]
+{
+  "source": "Joey Kibble",
+  "targets": [
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Neil Stubenhaus",
+      "targetId": "2440"
+    },
+    {
+      "name": "David Foster",
+      "targetId": "2456"
+    },
+    {
+      "name": "Alvin Chea",
+      "targetId": "4241"
+    },
+    {
+      "name": "Cedric Dent",
+      "targetId": "4242"
+    },
+    {
+      "name": "Claude McKnight",
+      "targetId": "4243"
+    },
+    {
+      "name": "David Thomas",
+      "targetId": "4244"
+    },
+    {
+      "name": "Mark Kibble",
+      "targetId": "4246"
+    },
+    {
+      "name": "Mervyn Warren",
+      "targetId": "4247"
+    },
+    {
+      "name": "James Moody",
+      "targetId": "4248"
+    },
+    {
+      "name": "Brian McKnight",
+      "targetId": "4249"
+    },
+    {
+      "name": "Rachelle Ferrell",
+      "targetId": "4250"
+    }
+  ]
+}

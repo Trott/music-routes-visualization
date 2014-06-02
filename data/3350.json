@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Thommy Price",
-    "target": "Patty Smyth",
-    "targetId": "3347"
-  },
-  {
-    "source": "Thommy Price",
-    "target": "Ivan Elias",
-    "targetId": "3348"
-  }
-]
+{
+  "source": "Thommy Price",
+  "targets": [
+    {
+      "name": "Patty Smyth",
+      "targetId": "3347"
+    },
+    {
+      "name": "Ivan Elias",
+      "targetId": "3348"
+    }
+  ]
+}

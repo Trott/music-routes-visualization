@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Susie Davis",
-    "target": "Sheila E.",
-    "targetId": "51"
-  },
-  {
-    "source": "Susie Davis",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Susie Davis",
-    "target": "Juan Escovedo",
-    "targetId": "3393"
-  },
-  {
-    "source": "Susie Davis",
-    "target": "Eddie Minnifield",
-    "targetId": "4553"
-  },
-  {
-    "source": "Susie Davis",
-    "target": "Steph Birnbaum",
-    "targetId": "4554"
-  }
-]
+{
+  "source": "Susie Davis",
+  "targets": [
+    {
+      "name": "Sheila E.",
+      "targetId": "51"
+    },
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Juan Escovedo",
+      "targetId": "3393"
+    },
+    {
+      "name": "Eddie Minnifield",
+      "targetId": "4553"
+    },
+    {
+      "name": "Steph Birnbaum",
+      "targetId": "4554"
+    }
+  ]
+}

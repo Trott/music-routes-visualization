@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Samuel Fogarino",
-    "target": "Paul Banks",
-    "targetId": "7010"
-  },
-  {
-    "source": "Samuel Fogarino",
-    "target": "Daniel Kessler",
-    "targetId": "7011"
-  },
-  {
-    "source": "Samuel Fogarino",
-    "target": "Carlos D",
-    "targetId": "7012"
-  },
-  {
-    "source": "Samuel Fogarino",
-    "target": "Adam Franklin",
-    "targetId": "7014"
-  }
-]
+{
+  "source": "Samuel Fogarino",
+  "targets": [
+    {
+      "name": "Paul Banks",
+      "targetId": "7010"
+    },
+    {
+      "name": "Daniel Kessler",
+      "targetId": "7011"
+    },
+    {
+      "name": "Carlos D",
+      "targetId": "7012"
+    },
+    {
+      "name": "Adam Franklin",
+      "targetId": "7014"
+    }
+  ]
+}

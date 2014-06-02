@@ -1,47 +1,41 @@
-[
-  {
-    "source": "John McVie",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "John McVie",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "John McVie",
-    "target": "Mick Fleetwood",
-    "targetId": "347"
-  },
-  {
-    "source": "John McVie",
-    "target": "Stevie Nicks",
-    "targetId": "355"
-  },
-  {
-    "source": "John McVie",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "John McVie",
-    "target": "Christie McVie",
-    "targetId": "407"
-  },
-  {
-    "source": "John McVie",
-    "target": "Dave Mason",
-    "targetId": "635"
-  },
-  {
-    "source": "John McVie",
-    "target": "Bekka Bramlett",
-    "targetId": "636"
-  },
-  {
-    "source": "John McVie",
-    "target": "Billy Burnette",
-    "targetId": "637"
-  }
-]
+{
+  "source": "John McVie",
+  "targets": [
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "targetId": "347"
+    },
+    {
+      "name": "Stevie Nicks",
+      "targetId": "355"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "Christie McVie",
+      "targetId": "407"
+    },
+    {
+      "name": "Dave Mason",
+      "targetId": "635"
+    },
+    {
+      "name": "Bekka Bramlett",
+      "targetId": "636"
+    },
+    {
+      "name": "Billy Burnette",
+      "targetId": "637"
+    }
+  ]
+}

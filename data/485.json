@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Glascock",
-    "target": "Lee Kerslake",
-    "targetId": "484"
-  },
-  {
-    "source": "John Glascock",
-    "target": "Cliff Bennett",
-    "targetId": "486"
-  },
-  {
-    "source": "John Glascock",
-    "target": "Ken Hensley",
-    "targetId": "487"
-  },
-  {
-    "source": "John Glascock",
-    "target": "Alan Kendall",
-    "targetId": "488"
-  },
-  {
-    "source": "John Glascock",
-    "target": "Brian Glascock",
-    "targetId": "489"
-  }
-]
+{
+  "source": "John Glascock",
+  "targets": [
+    {
+      "name": "Lee Kerslake",
+      "targetId": "484"
+    },
+    {
+      "name": "Cliff Bennett",
+      "targetId": "486"
+    },
+    {
+      "name": "Ken Hensley",
+      "targetId": "487"
+    },
+    {
+      "name": "Alan Kendall",
+      "targetId": "488"
+    },
+    {
+      "name": "Brian Glascock",
+      "targetId": "489"
+    }
+  ]
+}

@@ -1,202 +1,165 @@
-[
-  {
-    "source": "Gwen Stefani",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Michael Stipe",
-    "targetId": "341"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Ric Ocasek",
-    "targetId": "959"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Moby",
-    "targetId": "1841"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Adrian Young",
-    "targetId": "1843"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Tony Kanal",
-    "targetId": "1844"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Tom Dumont",
-    "targetId": "1845"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Britney Spears",
-    "targetId": "2138"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Alicia Keys",
-    "targetId": "2173"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Christina Aguilera",
-    "targetId": "2175"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Nas",
-    "targetId": "2184"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Sean Combs",
-    "targetId": "2678"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Justin Timberlake",
-    "targetId": "4041"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Mary J. Blige",
-    "targetId": "4043"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Fred Durst",
-    "targetId": "4385"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Aaron Lewis",
-    "targetId": "4394"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Jennifer Lopez",
-    "targetId": "5537"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Nelly Furtado",
-    "targetId": "6013"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Wyclef Jean",
-    "targetId": "6019"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Howie Dorough",
-    "targetId": "6114"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Brian Littrell",
-    "targetId": "6115"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "A.J. McLean",
-    "targetId": "6116"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Nick Carter",
-    "targetId": "6117"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Toots Hibbert",
-    "targetId": "6822"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Questlove",
-    "targetId": "6834"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Beyoncé",
-    "targetId": "8074"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Jermaine Dupri",
-    "targetId": "8234"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Eve",
-    "targetId": "8235"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Nona Gaye",
-    "targetId": "8236"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Darren Hayes",
-    "targetId": "8237"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Ja Rule",
-    "targetId": "8238"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Nelly",
-    "targetId": "8239"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Kevin Richardson",
-    "targetId": "8240"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Kelly Rowland",
-    "targetId": "8241"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Michelle Williams",
-    "targetId": "8242"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Chris Kirkpatrick",
-    "targetId": "8243"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Joey Fatone",
-    "targetId": "8244"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "Lance Bass",
-    "targetId": "8245"
-  },
-  {
-    "source": "Gwen Stefani",
-    "target": "JC Chasez",
-    "targetId": "8246"
-  }
-]
+{
+  "source": "Gwen Stefani",
+  "targets": [
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Michael Stipe",
+      "targetId": "341"
+    },
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Ric Ocasek",
+      "targetId": "959"
+    },
+    {
+      "name": "Moby",
+      "targetId": "1841"
+    },
+    {
+      "name": "Adrian Young",
+      "targetId": "1843"
+    },
+    {
+      "name": "Tony Kanal",
+      "targetId": "1844"
+    },
+    {
+      "name": "Tom Dumont",
+      "targetId": "1845"
+    },
+    {
+      "name": "Britney Spears",
+      "targetId": "2138"
+    },
+    {
+      "name": "Alicia Keys",
+      "targetId": "2173"
+    },
+    {
+      "name": "Christina Aguilera",
+      "targetId": "2175"
+    },
+    {
+      "name": "Nas",
+      "targetId": "2184"
+    },
+    {
+      "name": "Sean Combs",
+      "targetId": "2678"
+    },
+    {
+      "name": "Justin Timberlake",
+      "targetId": "4041"
+    },
+    {
+      "name": "Mary J. Blige",
+      "targetId": "4043"
+    },
+    {
+      "name": "Fred Durst",
+      "targetId": "4385"
+    },
+    {
+      "name": "Aaron Lewis",
+      "targetId": "4394"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "targetId": "5537"
+    },
+    {
+      "name": "Nelly Furtado",
+      "targetId": "6013"
+    },
+    {
+      "name": "Wyclef Jean",
+      "targetId": "6019"
+    },
+    {
+      "name": "Howie Dorough",
+      "targetId": "6114"
+    },
+    {
+      "name": "Brian Littrell",
+      "targetId": "6115"
+    },
+    {
+      "name": "A.J. McLean",
+      "targetId": "6116"
+    },
+    {
+      "name": "Nick Carter",
+      "targetId": "6117"
+    },
+    {
+      "name": "Toots Hibbert",
+      "targetId": "6822"
+    },
+    {
+      "name": "Questlove",
+      "targetId": "6834"
+    },
+    {
+      "name": "Beyoncé",
+      "targetId": "8074"
+    },
+    {
+      "name": "Jermaine Dupri",
+      "targetId": "8234"
+    },
+    {
+      "name": "Eve",
+      "targetId": "8235"
+    },
+    {
+      "name": "Nona Gaye",
+      "targetId": "8236"
+    },
+    {
+      "name": "Darren Hayes",
+      "targetId": "8237"
+    },
+    {
+      "name": "Ja Rule",
+      "targetId": "8238"
+    },
+    {
+      "name": "Nelly",
+      "targetId": "8239"
+    },
+    {
+      "name": "Kevin Richardson",
+      "targetId": "8240"
+    },
+    {
+      "name": "Kelly Rowland",
+      "targetId": "8241"
+    },
+    {
+      "name": "Michelle Williams",
+      "targetId": "8242"
+    },
+    {
+      "name": "Chris Kirkpatrick",
+      "targetId": "8243"
+    },
+    {
+      "name": "Joey Fatone",
+      "targetId": "8244"
+    },
+    {
+      "name": "Lance Bass",
+      "targetId": "8245"
+    },
+    {
+      "name": "JC Chasez",
+      "targetId": "8246"
+    }
+  ]
+}

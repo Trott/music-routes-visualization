@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Aaron Fink",
-    "target": "Billy Corgan",
-    "targetId": "2827"
-  },
-  {
-    "source": "Aaron Fink",
-    "target": "Jeremy Hummel",
-    "targetId": "7855"
-  },
-  {
-    "source": "Aaron Fink",
-    "target": "Markus James",
-    "targetId": "7856"
-  },
-  {
-    "source": "Aaron Fink",
-    "target": "Ben Burnley",
-    "targetId": "7858"
-  }
-]
+{
+  "source": "Aaron Fink",
+  "targets": [
+    {
+      "name": "Billy Corgan",
+      "targetId": "2827"
+    },
+    {
+      "name": "Jeremy Hummel",
+      "targetId": "7855"
+    },
+    {
+      "name": "Markus James",
+      "targetId": "7856"
+    },
+    {
+      "name": "Ben Burnley",
+      "targetId": "7858"
+    }
+  ]
+}

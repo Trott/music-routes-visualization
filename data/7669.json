@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bruce Ducheneaux",
-    "target": "Gary Floyd",
-    "targetId": "7615"
-  },
-  {
-    "source": "Bruce Ducheneaux",
-    "target": "Danny Roman",
-    "targetId": "7626"
-  },
-  {
-    "source": "Bruce Ducheneaux",
-    "target": "Matt Margolin",
-    "targetId": "7667"
-  },
-  {
-    "source": "Bruce Ducheneaux",
-    "target": "Ed Ivey",
-    "targetId": "7668"
-  }
-]
+{
+  "source": "Bruce Ducheneaux",
+  "targets": [
+    {
+      "name": "Gary Floyd",
+      "targetId": "7615"
+    },
+    {
+      "name": "Danny Roman",
+      "targetId": "7626"
+    },
+    {
+      "name": "Matt Margolin",
+      "targetId": "7667"
+    },
+    {
+      "name": "Ed Ivey",
+      "targetId": "7668"
+    }
+  ]
+}

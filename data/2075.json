@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Vincent Di Fiore",
-    "target": "Todd Roper",
-    "targetId": "1242"
-  },
-  {
-    "source": "Vincent Di Fiore",
-    "target": "John McCrea",
-    "targetId": "2072"
-  },
-  {
-    "source": "Vincent Di Fiore",
-    "target": "Victor Damiani",
-    "targetId": "2073"
-  },
-  {
-    "source": "Vincent Di Fiore",
-    "target": "Greg Brown",
-    "targetId": "2074"
-  },
-  {
-    "source": "Vincent Di Fiore",
-    "target": "Greg Vincent",
-    "targetId": "2076"
-  },
-  {
-    "source": "Vincent Di Fiore",
-    "target": "Gabriel Nelson",
-    "targetId": "2605"
-  },
-  {
-    "source": "Vincent Di Fiore",
-    "target": "Xan McCurdy",
-    "targetId": "2606"
-  },
-  {
-    "source": "Vincent Di Fiore",
-    "target": "Tyler Pope",
-    "targetId": "2607"
-  }
-]
+{
+  "source": "Vincent Di Fiore",
+  "targets": [
+    {
+      "name": "Todd Roper",
+      "targetId": "1242"
+    },
+    {
+      "name": "John McCrea",
+      "targetId": "2072"
+    },
+    {
+      "name": "Victor Damiani",
+      "targetId": "2073"
+    },
+    {
+      "name": "Greg Brown",
+      "targetId": "2074"
+    },
+    {
+      "name": "Greg Vincent",
+      "targetId": "2076"
+    },
+    {
+      "name": "Gabriel Nelson",
+      "targetId": "2605"
+    },
+    {
+      "name": "Xan McCurdy",
+      "targetId": "2606"
+    },
+    {
+      "name": "Tyler Pope",
+      "targetId": "2607"
+    }
+  ]
+}

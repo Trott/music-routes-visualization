@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Michael Giles",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Michael Giles",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Michael Giles",
-    "target": "Keith Tippett",
-    "targetId": "537"
-  },
-  {
-    "source": "Michael Giles",
-    "target": "Greg Lake",
-    "targetId": "541"
-  },
-  {
-    "source": "Michael Giles",
-    "target": "Peter Giles",
-    "targetId": "542"
-  },
-  {
-    "source": "Michael Giles",
-    "target": "Ian McDonald",
-    "targetId": "544"
-  }
-]
+{
+  "source": "Michael Giles",
+  "targets": [
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Keith Tippett",
+      "targetId": "537"
+    },
+    {
+      "name": "Greg Lake",
+      "targetId": "541"
+    },
+    {
+      "name": "Peter Giles",
+      "targetId": "542"
+    },
+    {
+      "name": "Ian McDonald",
+      "targetId": "544"
+    }
+  ]
+}

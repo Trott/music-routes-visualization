@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Paul Logus",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Paul Logus",
-    "target": "Tom Morello",
-    "targetId": "848"
-  },
-  {
-    "source": "Paul Logus",
-    "target": "Sean Combs",
-    "targetId": "2678"
-  },
-  {
-    "source": "Paul Logus",
-    "target": "Kenny Hicks",
-    "targetId": "2680"
-  },
-  {
-    "source": "Paul Logus",
-    "target": "Monique Walker",
-    "targetId": "2681"
-  },
-  {
-    "source": "Paul Logus",
-    "target": "Mario Winans",
-    "targetId": "2683"
-  },
-  {
-    "source": "Paul Logus",
-    "target": "Jeffrey Walker",
-    "targetId": "2684"
-  }
-]
+{
+  "source": "Paul Logus",
+  "targets": [
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Tom Morello",
+      "targetId": "848"
+    },
+    {
+      "name": "Sean Combs",
+      "targetId": "2678"
+    },
+    {
+      "name": "Kenny Hicks",
+      "targetId": "2680"
+    },
+    {
+      "name": "Monique Walker",
+      "targetId": "2681"
+    },
+    {
+      "name": "Mario Winans",
+      "targetId": "2683"
+    },
+    {
+      "name": "Jeffrey Walker",
+      "targetId": "2684"
+    }
+  ]
+}

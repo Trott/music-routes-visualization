@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Todd Baechle",
-    "target": "Mike Mogis",
-    "targetId": "1680"
-  },
-  {
-    "source": "Todd Baechle",
-    "target": "Conor Oberst",
-    "targetId": "3101"
-  },
-  {
-    "source": "Todd Baechle",
-    "target": "Andy Lemaster",
-    "targetId": "3249"
-  },
-  {
-    "source": "Todd Baechle",
-    "target": "Matt Maginn",
-    "targetId": "3253"
-  },
-  {
-    "source": "Todd Baechle",
-    "target": "Joe Knapp",
-    "targetId": "3254"
-  }
-]
+{
+  "source": "Todd Baechle",
+  "targets": [
+    {
+      "name": "Mike Mogis",
+      "targetId": "1680"
+    },
+    {
+      "name": "Conor Oberst",
+      "targetId": "3101"
+    },
+    {
+      "name": "Andy Lemaster",
+      "targetId": "3249"
+    },
+    {
+      "name": "Matt Maginn",
+      "targetId": "3253"
+    },
+    {
+      "name": "Joe Knapp",
+      "targetId": "3254"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sabrina Johnston",
-    "target": "Carlos Santana",
-    "targetId": "1081"
-  },
-  {
-    "source": "Sabrina Johnston",
-    "target": "Lauryn Hill",
-    "targetId": "6249"
-  },
-  {
-    "source": "Sabrina Johnston",
-    "target": "James Poyser",
-    "targetId": "6250"
-  },
-  {
-    "source": "Sabrina Johnston",
-    "target": "Kenny Bobien",
-    "targetId": "6252"
-  }
-]
+{
+  "source": "Sabrina Johnston",
+  "targets": [
+    {
+      "name": "Carlos Santana",
+      "targetId": "1081"
+    },
+    {
+      "name": "Lauryn Hill",
+      "targetId": "6249"
+    },
+    {
+      "name": "James Poyser",
+      "targetId": "6250"
+    },
+    {
+      "name": "Kenny Bobien",
+      "targetId": "6252"
+    }
+  ]
+}

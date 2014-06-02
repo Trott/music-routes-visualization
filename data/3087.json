@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dave Alexander",
-    "target": "John Cale",
-    "targetId": "956"
-  },
-  {
-    "source": "Dave Alexander",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Dave Alexander",
-    "target": "Steve Mackay",
-    "targetId": "3086"
-  },
-  {
-    "source": "Dave Alexander",
-    "target": "Ron Asheton",
-    "targetId": "3088"
-  },
-  {
-    "source": "Dave Alexander",
-    "target": "Scott Asheton",
-    "targetId": "3089"
-  }
-]
+{
+  "source": "Dave Alexander",
+  "targets": [
+    {
+      "name": "John Cale",
+      "targetId": "956"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Steve Mackay",
+      "targetId": "3086"
+    },
+    {
+      "name": "Ron Asheton",
+      "targetId": "3088"
+    },
+    {
+      "name": "Scott Asheton",
+      "targetId": "3089"
+    }
+  ]
+}

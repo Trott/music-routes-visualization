@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Yma Sumac",
-    "target": "Chuck Cowan",
-    "targetId": "2050"
-  },
-  {
-    "source": "Yma Sumac",
-    "target": "Richard Person",
-    "targetId": "2052"
-  },
-  {
-    "source": "Yma Sumac",
-    "target": "Roger Cowan",
-    "targetId": "2053"
-  },
-  {
-    "source": "Yma Sumac",
-    "target": "Skip Switzer",
-    "targetId": "2054"
-  }
-]
+{
+  "source": "Yma Sumac",
+  "targets": [
+    {
+      "name": "Chuck Cowan",
+      "targetId": "2050"
+    },
+    {
+      "name": "Richard Person",
+      "targetId": "2052"
+    },
+    {
+      "name": "Roger Cowan",
+      "targetId": "2053"
+    },
+    {
+      "name": "Skip Switzer",
+      "targetId": "2054"
+    }
+  ]
+}

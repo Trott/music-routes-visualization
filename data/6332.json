@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Pigpen",
-    "target": "Jerry Garcia",
-    "targetId": "918"
-  },
-  {
-    "source": "Pigpen",
-    "target": "Bob Weir",
-    "targetId": "1317"
-  },
-  {
-    "source": "Pigpen",
-    "target": "Bill Kreutzmann",
-    "targetId": "1872"
-  },
-  {
-    "source": "Pigpen",
-    "target": "Phil Lesh",
-    "targetId": "2113"
-  },
-  {
-    "source": "Pigpen",
-    "target": "Keith Godchaux",
-    "targetId": "5082"
-  },
-  {
-    "source": "Pigpen",
-    "target": "Bo Diddley",
-    "targetId": "6327"
-  }
-]
+{
+  "source": "Pigpen",
+  "targets": [
+    {
+      "name": "Jerry Garcia",
+      "targetId": "918"
+    },
+    {
+      "name": "Bob Weir",
+      "targetId": "1317"
+    },
+    {
+      "name": "Bill Kreutzmann",
+      "targetId": "1872"
+    },
+    {
+      "name": "Phil Lesh",
+      "targetId": "2113"
+    },
+    {
+      "name": "Keith Godchaux",
+      "targetId": "5082"
+    },
+    {
+      "name": "Bo Diddley",
+      "targetId": "6327"
+    }
+  ]
+}

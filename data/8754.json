@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Alice Russell",
-    "target": "David Byrne",
-    "targetId": "193"
-  },
-  {
-    "source": "Alice Russell",
-    "target": "Norman Cook",
-    "targetId": "8720"
-  },
-  {
-    "source": "Alice Russell",
-    "target": "Tom Gandey",
-    "targetId": "8724"
-  },
-  {
-    "source": "Alice Russell",
-    "target": "Paul Frazier",
-    "targetId": "8733"
-  },
-  {
-    "source": "Alice Russell",
-    "target": "Mauro Refosco",
-    "targetId": "8734"
-  }
-]
+{
+  "source": "Alice Russell",
+  "targets": [
+    {
+      "name": "David Byrne",
+      "targetId": "193"
+    },
+    {
+      "name": "Norman Cook",
+      "targetId": "8720"
+    },
+    {
+      "name": "Tom Gandey",
+      "targetId": "8724"
+    },
+    {
+      "name": "Paul Frazier",
+      "targetId": "8733"
+    },
+    {
+      "name": "Mauro Refosco",
+      "targetId": "8734"
+    }
+  ]
+}

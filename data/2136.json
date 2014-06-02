@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Nate Mendel",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Nate Mendel",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Nate Mendel",
-    "target": "Pat Smear",
-    "targetId": "784"
-  },
-  {
-    "source": "Nate Mendel",
-    "target": "Chris Shiflett",
-    "targetId": "2135"
-  },
-  {
-    "source": "Nate Mendel",
-    "target": "Taylor Hawkins",
-    "targetId": "2137"
-  }
-]
+{
+  "source": "Nate Mendel",
+  "targets": [
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Pat Smear",
+      "targetId": "784"
+    },
+    {
+      "name": "Chris Shiflett",
+      "targetId": "2135"
+    },
+    {
+      "name": "Taylor Hawkins",
+      "targetId": "2137"
+    }
+  ]
+}

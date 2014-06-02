@@ -1,187 +1,153 @@
-[
-  {
-    "source": "A.J. McLean",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Michael Stipe",
-    "targetId": "341"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Vinnie Colaiuta",
-    "targetId": "839"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "John Shanks",
-    "targetId": "1063"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Gwen Stefani",
-    "targetId": "1842"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Britney Spears",
-    "targetId": "2138"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Alicia Keys",
-    "targetId": "2173"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Christina Aguilera",
-    "targetId": "2175"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Nas",
-    "targetId": "2184"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Sean Combs",
-    "targetId": "2678"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Justin Timberlake",
-    "targetId": "4041"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Mary J. Blige",
-    "targetId": "4043"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Fred Durst",
-    "targetId": "4385"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Aaron Lewis",
-    "targetId": "4394"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Jennifer Lopez",
-    "targetId": "5537"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Nelly Furtado",
-    "targetId": "6013"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Wyclef Jean",
-    "targetId": "6019"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Paul Bushnell",
-    "targetId": "6113"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Howie Dorough",
-    "targetId": "6114"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Brian Littrell",
-    "targetId": "6115"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Nick Carter",
-    "targetId": "6117"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Questlove",
-    "targetId": "6834"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Beyoncé",
-    "targetId": "8074"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Jermaine Dupri",
-    "targetId": "8234"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Eve",
-    "targetId": "8235"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Nona Gaye",
-    "targetId": "8236"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Darren Hayes",
-    "targetId": "8237"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Ja Rule",
-    "targetId": "8238"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Nelly",
-    "targetId": "8239"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Kevin Richardson",
-    "targetId": "8240"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Kelly Rowland",
-    "targetId": "8241"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Michelle Williams",
-    "targetId": "8242"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Chris Kirkpatrick",
-    "targetId": "8243"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Joey Fatone",
-    "targetId": "8244"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "Lance Bass",
-    "targetId": "8245"
-  },
-  {
-    "source": "A.J. McLean",
-    "target": "JC Chasez",
-    "targetId": "8246"
-  }
-]
+{
+  "source": "A.J. McLean",
+  "targets": [
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Michael Stipe",
+      "targetId": "341"
+    },
+    {
+      "name": "Vinnie Colaiuta",
+      "targetId": "839"
+    },
+    {
+      "name": "John Shanks",
+      "targetId": "1063"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Gwen Stefani",
+      "targetId": "1842"
+    },
+    {
+      "name": "Britney Spears",
+      "targetId": "2138"
+    },
+    {
+      "name": "Alicia Keys",
+      "targetId": "2173"
+    },
+    {
+      "name": "Christina Aguilera",
+      "targetId": "2175"
+    },
+    {
+      "name": "Nas",
+      "targetId": "2184"
+    },
+    {
+      "name": "Sean Combs",
+      "targetId": "2678"
+    },
+    {
+      "name": "Justin Timberlake",
+      "targetId": "4041"
+    },
+    {
+      "name": "Mary J. Blige",
+      "targetId": "4043"
+    },
+    {
+      "name": "Fred Durst",
+      "targetId": "4385"
+    },
+    {
+      "name": "Aaron Lewis",
+      "targetId": "4394"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "targetId": "5537"
+    },
+    {
+      "name": "Nelly Furtado",
+      "targetId": "6013"
+    },
+    {
+      "name": "Wyclef Jean",
+      "targetId": "6019"
+    },
+    {
+      "name": "Paul Bushnell",
+      "targetId": "6113"
+    },
+    {
+      "name": "Howie Dorough",
+      "targetId": "6114"
+    },
+    {
+      "name": "Brian Littrell",
+      "targetId": "6115"
+    },
+    {
+      "name": "Nick Carter",
+      "targetId": "6117"
+    },
+    {
+      "name": "Questlove",
+      "targetId": "6834"
+    },
+    {
+      "name": "Beyoncé",
+      "targetId": "8074"
+    },
+    {
+      "name": "Jermaine Dupri",
+      "targetId": "8234"
+    },
+    {
+      "name": "Eve",
+      "targetId": "8235"
+    },
+    {
+      "name": "Nona Gaye",
+      "targetId": "8236"
+    },
+    {
+      "name": "Darren Hayes",
+      "targetId": "8237"
+    },
+    {
+      "name": "Ja Rule",
+      "targetId": "8238"
+    },
+    {
+      "name": "Nelly",
+      "targetId": "8239"
+    },
+    {
+      "name": "Kevin Richardson",
+      "targetId": "8240"
+    },
+    {
+      "name": "Kelly Rowland",
+      "targetId": "8241"
+    },
+    {
+      "name": "Michelle Williams",
+      "targetId": "8242"
+    },
+    {
+      "name": "Chris Kirkpatrick",
+      "targetId": "8243"
+    },
+    {
+      "name": "Joey Fatone",
+      "targetId": "8244"
+    },
+    {
+      "name": "Lance Bass",
+      "targetId": "8245"
+    },
+    {
+      "name": "JC Chasez",
+      "targetId": "8246"
+    }
+  ]
+}

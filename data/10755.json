@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Bill Goodwin",
-    "target": "Phil Woods",
-    "targetId": "7253"
-  },
-  {
-    "source": "Bill Goodwin",
-    "target": "Dave Frishberg",
-    "targetId": "10753"
-  },
-  {
-    "source": "Bill Goodwin",
-    "target": "Steve Gilmore",
-    "targetId": "10754"
-  },
-  {
-    "source": "Bill Goodwin",
-    "target": "Brian Lynch",
-    "targetId": "10756"
-  },
-  {
-    "source": "Bill Goodwin",
-    "target": "Jim McNeely",
-    "targetId": "10757"
-  }
-]
+{
+  "source": "Bill Goodwin",
+  "targets": [
+    {
+      "name": "Phil Woods",
+      "targetId": "7253"
+    },
+    {
+      "name": "Dave Frishberg",
+      "targetId": "10753"
+    },
+    {
+      "name": "Steve Gilmore",
+      "targetId": "10754"
+    },
+    {
+      "name": "Brian Lynch",
+      "targetId": "10756"
+    },
+    {
+      "name": "Jim McNeely",
+      "targetId": "10757"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Echols",
-    "target": "Ken Forssi",
-    "targetId": "2506"
-  },
-  {
-    "source": "John Echols",
-    "target": "Michael Stuart",
-    "targetId": "2507"
-  },
-  {
-    "source": "John Echols",
-    "target": "Bryan Maclean",
-    "targetId": "2509"
-  },
-  {
-    "source": "John Echols",
-    "target": "Arthur Lee",
-    "targetId": "2510"
-  }
-]
+{
+  "source": "John Echols",
+  "targets": [
+    {
+      "name": "Ken Forssi",
+      "targetId": "2506"
+    },
+    {
+      "name": "Michael Stuart",
+      "targetId": "2507"
+    },
+    {
+      "name": "Bryan Maclean",
+      "targetId": "2509"
+    },
+    {
+      "name": "Arthur Lee",
+      "targetId": "2510"
+    }
+  ]
+}

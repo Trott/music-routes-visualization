@@ -1,27 +1,25 @@
-[
-  {
-    "source": "José Pasillas",
-    "target": "John Molo",
-    "targetId": "780"
-  },
-  {
-    "source": "José Pasillas",
-    "target": "Mike Elizondo",
-    "targetId": "1067"
-  },
-  {
-    "source": "José Pasillas",
-    "target": "David Ralicke",
-    "targetId": "5931"
-  },
-  {
-    "source": "José Pasillas",
-    "target": "Greg Kurstin",
-    "targetId": "9044"
-  },
-  {
-    "source": "José Pasillas",
-    "target": "Yogi",
-    "targetId": "9301"
-  }
-]
+{
+  "source": "José Pasillas",
+  "targets": [
+    {
+      "name": "John Molo",
+      "targetId": "780"
+    },
+    {
+      "name": "Mike Elizondo",
+      "targetId": "1067"
+    },
+    {
+      "name": "David Ralicke",
+      "targetId": "5931"
+    },
+    {
+      "name": "Greg Kurstin",
+      "targetId": "9044"
+    },
+    {
+      "name": "Yogi",
+      "targetId": "9301"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Suzanne Vega",
-    "target": "Joe Jackson",
-    "targetId": "204"
-  },
-  {
-    "source": "Suzanne Vega",
-    "target": "Mark Linkous",
-    "targetId": "6972"
-  },
-  {
-    "source": "Suzanne Vega",
-    "target": "Danger Mouse",
-    "targetId": "6977"
-  },
-  {
-    "source": "Suzanne Vega",
-    "target": "Mike Mesaros",
-    "targetId": "7113"
-  },
-  {
-    "source": "Suzanne Vega",
-    "target": "Dennis Diken",
-    "targetId": "7114"
-  },
-  {
-    "source": "Suzanne Vega",
-    "target": "Pat DiNizio",
-    "targetId": "7115"
-  },
-  {
-    "source": "Suzanne Vega",
-    "target": "Jeffrey Berman",
-    "targetId": "7116"
-  },
-  {
-    "source": "Suzanne Vega",
-    "target": "Frank Christian",
-    "targetId": "7117"
-  }
-]
+{
+  "source": "Suzanne Vega",
+  "targets": [
+    {
+      "name": "Joe Jackson",
+      "targetId": "204"
+    },
+    {
+      "name": "Mark Linkous",
+      "targetId": "6972"
+    },
+    {
+      "name": "Danger Mouse",
+      "targetId": "6977"
+    },
+    {
+      "name": "Mike Mesaros",
+      "targetId": "7113"
+    },
+    {
+      "name": "Dennis Diken",
+      "targetId": "7114"
+    },
+    {
+      "name": "Pat DiNizio",
+      "targetId": "7115"
+    },
+    {
+      "name": "Jeffrey Berman",
+      "targetId": "7116"
+    },
+    {
+      "name": "Frank Christian",
+      "targetId": "7117"
+    }
+  ]
+}

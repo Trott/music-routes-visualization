@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ludacris",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Ludacris",
-    "target": "Justin Bieber",
-    "targetId": "8443"
-  }
-]
+{
+  "source": "Ludacris",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "Justin Bieber",
+      "targetId": "8443"
+    }
+  ]
+}

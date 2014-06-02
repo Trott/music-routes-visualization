@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Peter Blegvad",
-    "target": "Danny Thompson",
-    "targetId": "903"
-  },
-  {
-    "source": "Peter Blegvad",
-    "target": "Pandit Dinesh",
-    "targetId": "3534"
-  },
-  {
-    "source": "Peter Blegvad",
-    "target": "Jakko Jakszyk",
-    "targetId": "3535"
-  },
-  {
-    "source": "Peter Blegvad",
-    "target": "Gavin Harrison",
-    "targetId": "3536"
-  }
-]
+{
+  "source": "Peter Blegvad",
+  "targets": [
+    {
+      "name": "Danny Thompson",
+      "targetId": "903"
+    },
+    {
+      "name": "Pandit Dinesh",
+      "targetId": "3534"
+    },
+    {
+      "name": "Jakko Jakszyk",
+      "targetId": "3535"
+    },
+    {
+      "name": "Gavin Harrison",
+      "targetId": "3536"
+    }
+  ]
+}

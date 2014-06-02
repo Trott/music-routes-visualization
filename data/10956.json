@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Caine Carruthers",
-    "target": "Mike Alonso",
-    "targetId": "10952"
-  },
-  {
-    "source": "Caine Carruthers",
-    "target": "Dave King",
-    "targetId": "10957"
-  },
-  {
-    "source": "Caine Carruthers",
-    "target": "Mandy Meyer",
-    "targetId": "10958"
-  }
-]
+{
+  "source": "Caine Carruthers",
+  "targets": [
+    {
+      "name": "Mike Alonso",
+      "targetId": "10952"
+    },
+    {
+      "name": "Dave King",
+      "targetId": "10957"
+    },
+    {
+      "name": "Mandy Meyer",
+      "targetId": "10958"
+    }
+  ]
+}

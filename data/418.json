@@ -1,147 +1,121 @@
-[
-  {
-    "source": "Mark Knopfler",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Guy Fletcher",
-    "targetId": "417"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Roy Bittan",
-    "targetId": "463"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "John Illsley",
-    "targetId": "472"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Alan Clark",
-    "targetId": "473"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Terry Williams",
-    "targetId": "474"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Omar Hakim",
-    "targetId": "475"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "B.B. King",
-    "targetId": "565"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Seán Keane",
-    "targetId": "598"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Kevin Conneff",
-    "targetId": "599"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Matt Molloy",
-    "targetId": "600"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Paddy Moloney",
-    "targetId": "601"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Martin Fay",
-    "targetId": "602"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Derek Bell",
-    "targetId": "603"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "\"Weird Al\" Yankovic",
-    "targetId": "685"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Barry Beckett",
-    "targetId": "1099"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Mick Taylor",
-    "targetId": "1995"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Tim Drummond",
-    "targetId": "3289"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Helena Springs",
-    "targetId": "3617"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Scott Walker",
-    "targetId": "6466"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Pick Withers",
-    "targetId": "8281"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "David Knopfler",
-    "targetId": "8283"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Sly Dunbar",
-    "targetId": "10036"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Robbie Shakespeare",
-    "targetId": "10037"
-  },
-  {
-    "source": "Mark Knopfler",
-    "target": "Regina Havis",
-    "targetId": "10043"
-  }
-]
+{
+  "source": "Mark Knopfler",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Guy Fletcher",
+      "targetId": "417"
+    },
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    },
+    {
+      "name": "Roy Bittan",
+      "targetId": "463"
+    },
+    {
+      "name": "John Illsley",
+      "targetId": "472"
+    },
+    {
+      "name": "Alan Clark",
+      "targetId": "473"
+    },
+    {
+      "name": "Terry Williams",
+      "targetId": "474"
+    },
+    {
+      "name": "Omar Hakim",
+      "targetId": "475"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "B.B. King",
+      "targetId": "565"
+    },
+    {
+      "name": "Seán Keane",
+      "targetId": "598"
+    },
+    {
+      "name": "Kevin Conneff",
+      "targetId": "599"
+    },
+    {
+      "name": "Matt Molloy",
+      "targetId": "600"
+    },
+    {
+      "name": "Paddy Moloney",
+      "targetId": "601"
+    },
+    {
+      "name": "Martin Fay",
+      "targetId": "602"
+    },
+    {
+      "name": "Derek Bell",
+      "targetId": "603"
+    },
+    {
+      "name": "\"Weird Al\" Yankovic",
+      "targetId": "685"
+    },
+    {
+      "name": "Barry Beckett",
+      "targetId": "1099"
+    },
+    {
+      "name": "Mick Taylor",
+      "targetId": "1995"
+    },
+    {
+      "name": "Tim Drummond",
+      "targetId": "3289"
+    },
+    {
+      "name": "Helena Springs",
+      "targetId": "3617"
+    },
+    {
+      "name": "Scott Walker",
+      "targetId": "6466"
+    },
+    {
+      "name": "Pick Withers",
+      "targetId": "8281"
+    },
+    {
+      "name": "David Knopfler",
+      "targetId": "8283"
+    },
+    {
+      "name": "Sly Dunbar",
+      "targetId": "10036"
+    },
+    {
+      "name": "Robbie Shakespeare",
+      "targetId": "10037"
+    },
+    {
+      "name": "Regina Havis",
+      "targetId": "10043"
+    }
+  ]
+}

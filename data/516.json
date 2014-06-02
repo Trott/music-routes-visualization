@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Johnny Strike",
-    "target": "Hank Rank",
-    "targetId": "513"
-  },
-  {
-    "source": "Johnny Strike",
-    "target": "Mickey Tractor",
-    "targetId": "514"
-  },
-  {
-    "source": "Johnny Strike",
-    "target": "Count Fink",
-    "targetId": "515"
-  },
-  {
-    "source": "Johnny Strike",
-    "target": "Frankie Fix",
-    "targetId": "518"
-  },
-  {
-    "source": "Johnny Strike",
-    "target": "Ron \"The Ripper\" Greco",
-    "targetId": "519"
-  },
-  {
-    "source": "Johnny Strike",
-    "target": "Ricky Tractor",
-    "targetId": "520"
-  }
-]
+{
+  "source": "Johnny Strike",
+  "targets": [
+    {
+      "name": "Hank Rank",
+      "targetId": "513"
+    },
+    {
+      "name": "Mickey Tractor",
+      "targetId": "514"
+    },
+    {
+      "name": "Count Fink",
+      "targetId": "515"
+    },
+    {
+      "name": "Frankie Fix",
+      "targetId": "518"
+    },
+    {
+      "name": "Ron \"The Ripper\" Greco",
+      "targetId": "519"
+    },
+    {
+      "name": "Ricky Tractor",
+      "targetId": "520"
+    }
+  ]
+}

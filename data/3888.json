@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Frank Owens",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Frank Owens",
-    "target": "John Denver",
-    "targetId": "2523"
-  },
-  {
-    "source": "Frank Owens",
-    "target": "Gary Chester",
-    "targetId": "3890"
-  },
-  {
-    "source": "Frank Owens",
-    "target": "Bill Danoff",
-    "targetId": "3891"
-  },
-  {
-    "source": "Frank Owens",
-    "target": "Taffy Nivert",
-    "targetId": "3892"
-  },
-  {
-    "source": "Frank Owens",
-    "target": "Eric Weissberg",
-    "targetId": "3893"
-  },
-  {
-    "source": "Frank Owens",
-    "target": "Bobby Gregg",
-    "targetId": "6325"
-  }
-]
+{
+  "source": "Frank Owens",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "John Denver",
+      "targetId": "2523"
+    },
+    {
+      "name": "Gary Chester",
+      "targetId": "3890"
+    },
+    {
+      "name": "Bill Danoff",
+      "targetId": "3891"
+    },
+    {
+      "name": "Taffy Nivert",
+      "targetId": "3892"
+    },
+    {
+      "name": "Eric Weissberg",
+      "targetId": "3893"
+    },
+    {
+      "name": "Bobby Gregg",
+      "targetId": "6325"
+    }
+  ]
+}

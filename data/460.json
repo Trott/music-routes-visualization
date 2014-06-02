@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jeff Berlin",
-    "target": "Bill Bruford",
-    "targetId": "340"
-  },
-  {
-    "source": "Jeff Berlin",
-    "target": "Allan Holdsworth",
-    "targetId": "461"
-  },
-  {
-    "source": "Jeff Berlin",
-    "target": "Dave Stewart",
-    "targetId": "462"
-  }
-]
+{
+  "source": "Jeff Berlin",
+  "targets": [
+    {
+      "name": "Bill Bruford",
+      "targetId": "340"
+    },
+    {
+      "name": "Allan Holdsworth",
+      "targetId": "461"
+    },
+    {
+      "name": "Dave Stewart",
+      "targetId": "462"
+    }
+  ]
+}

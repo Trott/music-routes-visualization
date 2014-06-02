@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Count Fink",
-    "target": "Hank Rank",
-    "targetId": "513"
-  },
-  {
-    "source": "Count Fink",
-    "target": "Mickey Tractor",
-    "targetId": "514"
-  },
-  {
-    "source": "Count Fink",
-    "target": "Johnny Strike",
-    "targetId": "516"
-  }
-]
+{
+  "source": "Count Fink",
+  "targets": [
+    {
+      "name": "Hank Rank",
+      "targetId": "513"
+    },
+    {
+      "name": "Mickey Tractor",
+      "targetId": "514"
+    },
+    {
+      "name": "Johnny Strike",
+      "targetId": "516"
+    }
+  ]
+}

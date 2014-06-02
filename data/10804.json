@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Fred Gray",
-    "target": "Marty Mattern",
-    "targetId": "10803"
-  },
-  {
-    "source": "Fred Gray",
-    "target": "Andy Runyon",
-    "targetId": "10805"
-  }
-]
+{
+  "source": "Fred Gray",
+  "targets": [
+    {
+      "name": "Marty Mattern",
+      "targetId": "10803"
+    },
+    {
+      "name": "Andy Runyon",
+      "targetId": "10805"
+    }
+  ]
+}

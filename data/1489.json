@@ -1,222 +1,181 @@
-[
-  {
-    "source": "Roy Caton",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Bruce Johnston",
-    "targetId": "232"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Carl Wilson",
-    "targetId": "233"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Lyle Ritz",
-    "targetId": "373"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Jack Nimitz",
-    "targetId": "436"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Carol Kaye",
-    "targetId": "521"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Brian Wilson",
-    "targetId": "1475"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Dennis Wilson",
-    "targetId": "1476"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Mike Love",
-    "targetId": "1477"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Al Jardine",
-    "targetId": "1478"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Carl Fortina",
-    "targetId": "1479"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Frank Capp",
-    "targetId": "1481"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Bill Pitman",
-    "targetId": "1482"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Jerry Cole",
-    "targetId": "1483"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Ray Pohlman",
-    "targetId": "1484"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Al De Lory",
-    "targetId": "1486"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Jay Migliori",
-    "targetId": "1487"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Billy Strange",
-    "targetId": "1490"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Julius Wechter",
-    "targetId": "1492"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Bill Green",
-    "targetId": "1493"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Joseph Saxon",
-    "targetId": "1497"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Arnold Belnick",
-    "targetId": "1499"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Ralph Schaeffer",
-    "targetId": "1500"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Tibor Zelig",
-    "targetId": "1501"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Sid Sharp",
-    "targetId": "1502"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Justin DiTullio",
-    "targetId": "1503"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Harry Hyams",
-    "targetId": "1505"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Leonard Malarsky",
-    "targetId": "1506"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "William Kurasch",
-    "targetId": "1507"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Jules Jacob",
-    "targetId": "1508"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Al Casey",
-    "targetId": "1509"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Joseph DiFiore",
-    "targetId": "1510"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "James Getzoff",
-    "targetId": "1511"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Jerome Reisler",
-    "targetId": "1512"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Frank Marocco",
-    "targetId": "1513"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Tommy Tedesco",
-    "targetId": "1529"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Ritchie Frost",
-    "targetId": "1530"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Leon Russell",
-    "targetId": "1999"
-  },
-  {
-    "source": "Roy Caton",
-    "target": "Howard Roberts",
-    "targetId": "10097"
-  }
-]
+{
+  "source": "Roy Caton",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Bruce Johnston",
+      "targetId": "232"
+    },
+    {
+      "name": "Carl Wilson",
+      "targetId": "233"
+    },
+    {
+      "name": "Lyle Ritz",
+      "targetId": "373"
+    },
+    {
+      "name": "Jack Nimitz",
+      "targetId": "436"
+    },
+    {
+      "name": "Carol Kaye",
+      "targetId": "521"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Brian Wilson",
+      "targetId": "1475"
+    },
+    {
+      "name": "Dennis Wilson",
+      "targetId": "1476"
+    },
+    {
+      "name": "Mike Love",
+      "targetId": "1477"
+    },
+    {
+      "name": "Al Jardine",
+      "targetId": "1478"
+    },
+    {
+      "name": "Carl Fortina",
+      "targetId": "1479"
+    },
+    {
+      "name": "Frank Capp",
+      "targetId": "1481"
+    },
+    {
+      "name": "Bill Pitman",
+      "targetId": "1482"
+    },
+    {
+      "name": "Jerry Cole",
+      "targetId": "1483"
+    },
+    {
+      "name": "Ray Pohlman",
+      "targetId": "1484"
+    },
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Al De Lory",
+      "targetId": "1486"
+    },
+    {
+      "name": "Jay Migliori",
+      "targetId": "1487"
+    },
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Billy Strange",
+      "targetId": "1490"
+    },
+    {
+      "name": "Julius Wechter",
+      "targetId": "1492"
+    },
+    {
+      "name": "Bill Green",
+      "targetId": "1493"
+    },
+    {
+      "name": "Joseph Saxon",
+      "targetId": "1497"
+    },
+    {
+      "name": "Arnold Belnick",
+      "targetId": "1499"
+    },
+    {
+      "name": "Ralph Schaeffer",
+      "targetId": "1500"
+    },
+    {
+      "name": "Tibor Zelig",
+      "targetId": "1501"
+    },
+    {
+      "name": "Sid Sharp",
+      "targetId": "1502"
+    },
+    {
+      "name": "Justin DiTullio",
+      "targetId": "1503"
+    },
+    {
+      "name": "Harry Hyams",
+      "targetId": "1505"
+    },
+    {
+      "name": "Leonard Malarsky",
+      "targetId": "1506"
+    },
+    {
+      "name": "William Kurasch",
+      "targetId": "1507"
+    },
+    {
+      "name": "Jules Jacob",
+      "targetId": "1508"
+    },
+    {
+      "name": "Al Casey",
+      "targetId": "1509"
+    },
+    {
+      "name": "Joseph DiFiore",
+      "targetId": "1510"
+    },
+    {
+      "name": "James Getzoff",
+      "targetId": "1511"
+    },
+    {
+      "name": "Jerome Reisler",
+      "targetId": "1512"
+    },
+    {
+      "name": "Frank Marocco",
+      "targetId": "1513"
+    },
+    {
+      "name": "Tommy Tedesco",
+      "targetId": "1529"
+    },
+    {
+      "name": "Ritchie Frost",
+      "targetId": "1530"
+    },
+    {
+      "name": "Leon Russell",
+      "targetId": "1999"
+    },
+    {
+      "name": "Howard Roberts",
+      "targetId": "10097"
+    }
+  ]
+}

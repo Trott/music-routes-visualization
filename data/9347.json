@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Eric Regert",
-    "target": "Nicolas Godin",
-    "targetId": "9344"
-  },
-  {
-    "source": "Eric Regert",
-    "target": "Jean-Benoît Dunckel",
-    "targetId": "9345"
-  },
-  {
-    "source": "Eric Regert",
-    "target": "Caroline Legroux",
-    "targetId": "9348"
-  },
-  {
-    "source": "Eric Regert",
-    "target": "Stéphane \"Alf\" Briat",
-    "targetId": "9349"
-  }
-]
+{
+  "source": "Eric Regert",
+  "targets": [
+    {
+      "name": "Nicolas Godin",
+      "targetId": "9344"
+    },
+    {
+      "name": "Jean-Benoît Dunckel",
+      "targetId": "9345"
+    },
+    {
+      "name": "Caroline Legroux",
+      "targetId": "9348"
+    },
+    {
+      "name": "Stéphane \"Alf\" Briat",
+      "targetId": "9349"
+    }
+  ]
+}

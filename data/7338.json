@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jack Barakat",
-    "target": "Fred Cimato",
-    "targetId": "7333"
-  },
-  {
-    "source": "Jack Barakat",
-    "target": "Tom Falcone",
-    "targetId": "7334"
-  },
-  {
-    "source": "Jack Barakat",
-    "target": "Jeff Czum",
-    "targetId": "7335"
-  },
-  {
-    "source": "Jack Barakat",
-    "target": "Shaant",
-    "targetId": "7336"
-  },
-  {
-    "source": "Jack Barakat",
-    "target": "Alex Gaskarth",
-    "targetId": "7337"
-  },
-  {
-    "source": "Jack Barakat",
-    "target": "Rian Dawson",
-    "targetId": "7339"
-  },
-  {
-    "source": "Jack Barakat",
-    "target": "Zack Merrick",
-    "targetId": "7340"
-  }
-]
+{
+  "source": "Jack Barakat",
+  "targets": [
+    {
+      "name": "Fred Cimato",
+      "targetId": "7333"
+    },
+    {
+      "name": "Tom Falcone",
+      "targetId": "7334"
+    },
+    {
+      "name": "Jeff Czum",
+      "targetId": "7335"
+    },
+    {
+      "name": "Shaant",
+      "targetId": "7336"
+    },
+    {
+      "name": "Alex Gaskarth",
+      "targetId": "7337"
+    },
+    {
+      "name": "Rian Dawson",
+      "targetId": "7339"
+    },
+    {
+      "name": "Zack Merrick",
+      "targetId": "7340"
+    }
+  ]
+}

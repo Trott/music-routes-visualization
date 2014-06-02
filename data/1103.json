@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Weldon Myrick",
-    "target": "Cat Stevens",
-    "targetId": "1088"
-  },
-  {
-    "source": "Weldon Myrick",
-    "target": "Bruce Lynch",
-    "targetId": "1089"
-  },
-  {
-    "source": "Weldon Myrick",
-    "target": "Jean Roussel",
-    "targetId": "1090"
-  },
-  {
-    "source": "Weldon Myrick",
-    "target": "Bill Berg",
-    "targetId": "1093"
-  },
-  {
-    "source": "Weldon Myrick",
-    "target": "Reggie Young",
-    "targetId": "1102"
-  }
-]
+{
+  "source": "Weldon Myrick",
+  "targets": [
+    {
+      "name": "Cat Stevens",
+      "targetId": "1088"
+    },
+    {
+      "name": "Bruce Lynch",
+      "targetId": "1089"
+    },
+    {
+      "name": "Jean Roussel",
+      "targetId": "1090"
+    },
+    {
+      "name": "Bill Berg",
+      "targetId": "1093"
+    },
+    {
+      "name": "Reggie Young",
+      "targetId": "1102"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tom Hensley",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Tom Hensley",
-    "target": "Carl Fortina",
-    "targetId": "1479"
-  },
-  {
-    "source": "Tom Hensley",
-    "target": "Richard Bennett",
-    "targetId": "3136"
-  },
-  {
-    "source": "Tom Hensley",
-    "target": "Lon Van Eaton",
-    "targetId": "4577"
-  },
-  {
-    "source": "Tom Hensley",
-    "target": "Vini Poncia",
-    "targetId": "4583"
-  }
-]
+{
+  "source": "Tom Hensley",
+  "targets": [
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Carl Fortina",
+      "targetId": "1479"
+    },
+    {
+      "name": "Richard Bennett",
+      "targetId": "3136"
+    },
+    {
+      "name": "Lon Van Eaton",
+      "targetId": "4577"
+    },
+    {
+      "name": "Vini Poncia",
+      "targetId": "4583"
+    }
+  ]
+}

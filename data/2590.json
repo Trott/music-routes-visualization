@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dieter Moebius",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Dieter Moebius",
-    "target": "Hans-Joachim Roedelius",
-    "targetId": "2591"
-  },
-  {
-    "source": "Dieter Moebius",
-    "target": "Holger Czukay",
-    "targetId": "2592"
-  },
-  {
-    "source": "Dieter Moebius",
-    "target": "Michael Rother",
-    "targetId": "2593"
-  }
-]
+{
+  "source": "Dieter Moebius",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "Hans-Joachim Roedelius",
+      "targetId": "2591"
+    },
+    {
+      "name": "Holger Czukay",
+      "targetId": "2592"
+    },
+    {
+      "name": "Michael Rother",
+      "targetId": "2593"
+    }
+  ]
+}

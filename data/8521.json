@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Wally Stocker",
-    "target": "Jonathan Cain",
-    "targetId": "1745"
-  },
-  {
-    "source": "Wally Stocker",
-    "target": "John Waite",
-    "targetId": "2890"
-  },
-  {
-    "source": "Wally Stocker",
-    "target": "Ricky Phillips",
-    "targetId": "2891"
-  },
-  {
-    "source": "Wally Stocker",
-    "target": "Anne Marie Leclerc",
-    "targetId": "8520"
-  },
-  {
-    "source": "Wally Stocker",
-    "target": "Tony Brock",
-    "targetId": "8522"
-  }
-]
+{
+  "source": "Wally Stocker",
+  "targets": [
+    {
+      "name": "Jonathan Cain",
+      "targetId": "1745"
+    },
+    {
+      "name": "John Waite",
+      "targetId": "2890"
+    },
+    {
+      "name": "Ricky Phillips",
+      "targetId": "2891"
+    },
+    {
+      "name": "Anne Marie Leclerc",
+      "targetId": "8520"
+    },
+    {
+      "name": "Tony Brock",
+      "targetId": "8522"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Randy Bachman",
-    "target": "Burton Cummings",
-    "targetId": "2464"
-  },
-  {
-    "source": "Randy Bachman",
-    "target": "Jim Kale",
-    "targetId": "3491"
-  },
-  {
-    "source": "Randy Bachman",
-    "target": "Garry Peterson",
-    "targetId": "3492"
-  },
-  {
-    "source": "Randy Bachman",
-    "target": "C.F. Turner",
-    "targetId": "9552"
-  },
-  {
-    "source": "Randy Bachman",
-    "target": "Blair Thornton",
-    "targetId": "9553"
-  },
-  {
-    "source": "Randy Bachman",
-    "target": "Rob Bachman",
-    "targetId": "9554"
-  }
-]
+{
+  "source": "Randy Bachman",
+  "targets": [
+    {
+      "name": "Burton Cummings",
+      "targetId": "2464"
+    },
+    {
+      "name": "Jim Kale",
+      "targetId": "3491"
+    },
+    {
+      "name": "Garry Peterson",
+      "targetId": "3492"
+    },
+    {
+      "name": "C.F. Turner",
+      "targetId": "9552"
+    },
+    {
+      "name": "Blair Thornton",
+      "targetId": "9553"
+    },
+    {
+      "name": "Rob Bachman",
+      "targetId": "9554"
+    }
+  ]
+}

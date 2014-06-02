@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Alicia Engley",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Tom Fowler",
-    "targetId": "1325"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Natalie Cole",
-    "targetId": "1770"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Ray Brinker",
-    "targetId": "2217"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Irv Kramer",
-    "targetId": "2218"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Randy Waldman",
-    "targetId": "2221"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "George Doering",
-    "targetId": "2227"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Michael Thompson",
-    "targetId": "2262"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Alan Pasqua",
-    "targetId": "2263"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "John Acosta",
-    "targetId": "2264"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Rudolph Stein",
-    "targetId": "2265"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Steve Richards",
-    "targetId": "2266"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Yao Zhao",
-    "targetId": "2267"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Carolyn Riley",
-    "targetId": "2268"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Ed Persi",
-    "targetId": "2269"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Maria Newman",
-    "targetId": "2270"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Sam Formicola",
-    "targetId": "2271"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Alan Ellsworth",
-    "targetId": "2272"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Amy Wickman-Guerra",
-    "targetId": "2274"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Dennis Molchan",
-    "targetId": "2275"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Edmund Stein",
-    "targetId": "2276"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Gerry Hilera",
-    "targetId": "2277"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Igor Pandurski",
-    "targetId": "2278"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Kathleen Robertson",
-    "targetId": "2279"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Nick Grant",
-    "targetId": "2280"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Paul Manaster",
-    "targetId": "2281"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Reginald Clews",
-    "targetId": "2282"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Sai Ly Acosta",
-    "targetId": "2283"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Todor Pelev",
-    "targetId": "2284"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Xiao Niu He",
-    "targetId": "2285"
-  },
-  {
-    "source": "Alicia Engley",
-    "target": "Zheng Wang",
-    "targetId": "2286"
-  }
-]
+{
+  "source": "Alicia Engley",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Tom Fowler",
+      "targetId": "1325"
+    },
+    {
+      "name": "Natalie Cole",
+      "targetId": "1770"
+    },
+    {
+      "name": "Ray Brinker",
+      "targetId": "2217"
+    },
+    {
+      "name": "Irv Kramer",
+      "targetId": "2218"
+    },
+    {
+      "name": "Randy Waldman",
+      "targetId": "2221"
+    },
+    {
+      "name": "George Doering",
+      "targetId": "2227"
+    },
+    {
+      "name": "Michael Thompson",
+      "targetId": "2262"
+    },
+    {
+      "name": "Alan Pasqua",
+      "targetId": "2263"
+    },
+    {
+      "name": "John Acosta",
+      "targetId": "2264"
+    },
+    {
+      "name": "Rudolph Stein",
+      "targetId": "2265"
+    },
+    {
+      "name": "Steve Richards",
+      "targetId": "2266"
+    },
+    {
+      "name": "Yao Zhao",
+      "targetId": "2267"
+    },
+    {
+      "name": "Carolyn Riley",
+      "targetId": "2268"
+    },
+    {
+      "name": "Ed Persi",
+      "targetId": "2269"
+    },
+    {
+      "name": "Maria Newman",
+      "targetId": "2270"
+    },
+    {
+      "name": "Sam Formicola",
+      "targetId": "2271"
+    },
+    {
+      "name": "Alan Ellsworth",
+      "targetId": "2272"
+    },
+    {
+      "name": "Amy Wickman-Guerra",
+      "targetId": "2274"
+    },
+    {
+      "name": "Dennis Molchan",
+      "targetId": "2275"
+    },
+    {
+      "name": "Edmund Stein",
+      "targetId": "2276"
+    },
+    {
+      "name": "Gerry Hilera",
+      "targetId": "2277"
+    },
+    {
+      "name": "Igor Pandurski",
+      "targetId": "2278"
+    },
+    {
+      "name": "Kathleen Robertson",
+      "targetId": "2279"
+    },
+    {
+      "name": "Nick Grant",
+      "targetId": "2280"
+    },
+    {
+      "name": "Paul Manaster",
+      "targetId": "2281"
+    },
+    {
+      "name": "Reginald Clews",
+      "targetId": "2282"
+    },
+    {
+      "name": "Sai Ly Acosta",
+      "targetId": "2283"
+    },
+    {
+      "name": "Todor Pelev",
+      "targetId": "2284"
+    },
+    {
+      "name": "Xiao Niu He",
+      "targetId": "2285"
+    },
+    {
+      "name": "Zheng Wang",
+      "targetId": "2286"
+    }
+  ]
+}

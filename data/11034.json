@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Emily Hughes",
-    "target": "Arin Hanson",
-    "targetId": "11030"
-  },
-  {
-    "source": "Emily Hughes",
-    "target": "Leigh Daniel Avidan",
-    "targetId": "11031"
-  },
-  {
-    "source": "Emily Hughes",
-    "target": "Brian Wecht",
-    "targetId": "11032"
-  }
-]
+{
+  "source": "Emily Hughes",
+  "targets": [
+    {
+      "name": "Arin Hanson",
+      "targetId": "11030"
+    },
+    {
+      "name": "Leigh Daniel Avidan",
+      "targetId": "11031"
+    },
+    {
+      "name": "Brian Wecht",
+      "targetId": "11032"
+    }
+  ]
+}

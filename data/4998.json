@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Matt Brinkman",
-    "target": "Brian Chippendale",
-    "targetId": "4997"
-  },
-  {
-    "source": "Matt Brinkman",
-    "target": "Neil Burke",
-    "targetId": "4999"
-  },
-  {
-    "source": "Matt Brinkman",
-    "target": "Fast Forward",
-    "targetId": "5000"
-  }
-]
+{
+  "source": "Matt Brinkman",
+  "targets": [
+    {
+      "name": "Brian Chippendale",
+      "targetId": "4997"
+    },
+    {
+      "name": "Neil Burke",
+      "targetId": "4999"
+    },
+    {
+      "name": "Fast Forward",
+      "targetId": "5000"
+    }
+  ]
+}

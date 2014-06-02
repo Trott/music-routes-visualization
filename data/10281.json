@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Simon McCarty",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Simon McCarty",
-    "target": "Chris Dreja",
-    "targetId": "10276"
-  },
-  {
-    "source": "Simon McCarty",
-    "target": "Jim McCarty",
-    "targetId": "10277"
-  },
-  {
-    "source": "Simon McCarty",
-    "target": "John Idan",
-    "targetId": "10280"
-  }
-]
+{
+  "source": "Simon McCarty",
+  "targets": [
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Chris Dreja",
+      "targetId": "10276"
+    },
+    {
+      "name": "Jim McCarty",
+      "targetId": "10277"
+    },
+    {
+      "name": "John Idan",
+      "targetId": "10280"
+    }
+  ]
+}

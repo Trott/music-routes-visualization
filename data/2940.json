@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Larry Wallis",
-    "target": "Lemmy Kilmister",
-    "targetId": "2550"
-  },
-  {
-    "source": "Larry Wallis",
-    "target": "Wayne Kramer",
-    "targetId": "2728"
-  },
-  {
-    "source": "Larry Wallis",
-    "target": "Mick Farren",
-    "targetId": "2936"
-  },
-  {
-    "source": "Larry Wallis",
-    "target": "Duncan Sanderson",
-    "targetId": "2941"
-  },
-  {
-    "source": "Larry Wallis",
-    "target": "George Butler",
-    "targetId": "2942"
-  },
-  {
-    "source": "Larry Wallis",
-    "target": "Lucas Fox",
-    "targetId": "3108"
-  },
-  {
-    "source": "Larry Wallis",
-    "target": "Phil Taylor",
-    "targetId": "3109"
-  }
-]
+{
+  "source": "Larry Wallis",
+  "targets": [
+    {
+      "name": "Lemmy Kilmister",
+      "targetId": "2550"
+    },
+    {
+      "name": "Wayne Kramer",
+      "targetId": "2728"
+    },
+    {
+      "name": "Mick Farren",
+      "targetId": "2936"
+    },
+    {
+      "name": "Duncan Sanderson",
+      "targetId": "2941"
+    },
+    {
+      "name": "George Butler",
+      "targetId": "2942"
+    },
+    {
+      "name": "Lucas Fox",
+      "targetId": "3108"
+    },
+    {
+      "name": "Phil Taylor",
+      "targetId": "3109"
+    }
+  ]
+}

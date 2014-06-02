@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Gabe Katz",
-    "target": "Bill Laswell",
-    "targetId": "2205"
-  },
-  {
-    "source": "Gabe Katz",
-    "target": "Sly Dunbar",
-    "targetId": "10036"
-  },
-  {
-    "source": "Gabe Katz",
-    "target": "DJ Spooky",
-    "targetId": "10288"
-  }
-]
+{
+  "source": "Gabe Katz",
+  "targets": [
+    {
+      "name": "Bill Laswell",
+      "targetId": "2205"
+    },
+    {
+      "name": "Sly Dunbar",
+      "targetId": "10036"
+    },
+    {
+      "name": "DJ Spooky",
+      "targetId": "10288"
+    }
+  ]
+}

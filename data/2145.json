@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Harden Harrison",
-    "target": "Mike Scaccia",
-    "targetId": "2023"
-  },
-  {
-    "source": "Harden Harrison",
-    "target": "Casey Orr",
-    "targetId": "2140"
-  },
-  {
-    "source": "Harden Harrison",
-    "target": "Bruce Corbitt",
-    "targetId": "2144"
-  }
-]
+{
+  "source": "Harden Harrison",
+  "targets": [
+    {
+      "name": "Mike Scaccia",
+      "targetId": "2023"
+    },
+    {
+      "name": "Casey Orr",
+      "targetId": "2140"
+    },
+    {
+      "name": "Bruce Corbitt",
+      "targetId": "2144"
+    }
+  ]
+}

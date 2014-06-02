@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Doug Bare",
-    "target": "Paul Davis",
-    "targetId": "318"
-  },
-  {
-    "source": "Doug Bare",
-    "target": "Barry Dunaway",
-    "targetId": "319"
-  },
-  {
-    "source": "Doug Bare",
-    "target": "Benny Rappa",
-    "targetId": "321"
-  },
-  {
-    "source": "Doug Bare",
-    "target": "Steve Hardwick",
-    "targetId": "322"
-  }
-]
+{
+  "source": "Doug Bare",
+  "targets": [
+    {
+      "name": "Paul Davis",
+      "targetId": "318"
+    },
+    {
+      "name": "Barry Dunaway",
+      "targetId": "319"
+    },
+    {
+      "name": "Benny Rappa",
+      "targetId": "321"
+    },
+    {
+      "name": "Steve Hardwick",
+      "targetId": "322"
+    }
+  ]
+}

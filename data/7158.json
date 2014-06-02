@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Red Mitchell",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Red Mitchell",
-    "target": "Billie Holiday",
-    "targetId": "2704"
-  },
-  {
-    "source": "Red Mitchell",
-    "target": "Alvin Stoller",
-    "targetId": "2706"
-  },
-  {
-    "source": "Red Mitchell",
-    "target": "Harry \"Sweets\" Edison",
-    "targetId": "7155"
-  },
-  {
-    "source": "Red Mitchell",
-    "target": "Ben Webster",
-    "targetId": "7156"
-  },
-  {
-    "source": "Red Mitchell",
-    "target": "Jimmy Rowles",
-    "targetId": "7157"
-  }
-]
+{
+  "source": "Red Mitchell",
+  "targets": [
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Billie Holiday",
+      "targetId": "2704"
+    },
+    {
+      "name": "Alvin Stoller",
+      "targetId": "2706"
+    },
+    {
+      "name": "Harry \"Sweets\" Edison",
+      "targetId": "7155"
+    },
+    {
+      "name": "Ben Webster",
+      "targetId": "7156"
+    },
+    {
+      "name": "Jimmy Rowles",
+      "targetId": "7157"
+    }
+  ]
+}

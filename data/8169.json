@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Kerry Marx",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  },
-  {
-    "source": "Kerry Marx",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Kerry Marx",
-    "target": "Mickey Raphael",
-    "targetId": "654"
-  },
-  {
-    "source": "Kerry Marx",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "Kerry Marx",
-    "target": "June Carter Cash",
-    "targetId": "8159"
-  },
-  {
-    "source": "Kerry Marx",
-    "target": "G.E. Smith",
-    "targetId": "8167"
-  }
-]
+{
+  "source": "Kerry Marx",
+  "targets": [
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Mickey Raphael",
+      "targetId": "654"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "June Carter Cash",
+      "targetId": "8159"
+    },
+    {
+      "name": "G.E. Smith",
+      "targetId": "8167"
+    }
+  ]
+}

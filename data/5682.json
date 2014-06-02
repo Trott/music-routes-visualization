@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jason McMaster",
-    "target": "Mike Portnoy",
-    "targetId": "4200"
-  },
-  {
-    "source": "Jason McMaster",
-    "target": "Mike Watson",
-    "targetId": "5680"
-  },
-  {
-    "source": "Jason McMaster",
-    "target": "Mark Geary",
-    "targetId": "5681"
-  },
-  {
-    "source": "Jason McMaster",
-    "target": "Scott Dalhover",
-    "targetId": "5683"
-  },
-  {
-    "source": "Jason McMaster",
-    "target": "Paula Salvatore",
-    "targetId": "5684"
-  },
-  {
-    "source": "Jason McMaster",
-    "target": "Paul Gilbert",
-    "targetId": "5685"
-  },
-  {
-    "source": "Jason McMaster",
-    "target": "Sean Malone",
-    "targetId": "5686"
-  }
-]
+{
+  "source": "Jason McMaster",
+  "targets": [
+    {
+      "name": "Mike Portnoy",
+      "targetId": "4200"
+    },
+    {
+      "name": "Mike Watson",
+      "targetId": "5680"
+    },
+    {
+      "name": "Mark Geary",
+      "targetId": "5681"
+    },
+    {
+      "name": "Scott Dalhover",
+      "targetId": "5683"
+    },
+    {
+      "name": "Paula Salvatore",
+      "targetId": "5684"
+    },
+    {
+      "name": "Paul Gilbert",
+      "targetId": "5685"
+    },
+    {
+      "name": "Sean Malone",
+      "targetId": "5686"
+    }
+  ]
+}

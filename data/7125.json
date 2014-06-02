@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Nick Batt",
-    "target": "Will Gregory",
-    "targetId": "2436"
-  },
-  {
-    "source": "Nick Batt",
-    "target": "Stuart Gordon",
-    "targetId": "2437"
-  },
-  {
-    "source": "Nick Batt",
-    "target": "Adrian Utley",
-    "targetId": "2546"
-  },
-  {
-    "source": "Nick Batt",
-    "target": "Alison Goldfrapp",
-    "targetId": "7126"
-  },
-  {
-    "source": "Nick Batt",
-    "target": "John Parish",
-    "targetId": "7127"
-  }
-]
+{
+  "source": "Nick Batt",
+  "targets": [
+    {
+      "name": "Will Gregory",
+      "targetId": "2436"
+    },
+    {
+      "name": "Stuart Gordon",
+      "targetId": "2437"
+    },
+    {
+      "name": "Adrian Utley",
+      "targetId": "2546"
+    },
+    {
+      "name": "Alison Goldfrapp",
+      "targetId": "7126"
+    },
+    {
+      "name": "John Parish",
+      "targetId": "7127"
+    }
+  ]
+}

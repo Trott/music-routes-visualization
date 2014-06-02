@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paul Robinson",
-    "target": "Geoff Downes",
-    "targetId": "3639"
-  },
-  {
-    "source": "Paul Robinson",
-    "target": "Trevor Horn",
-    "targetId": "4429"
-  },
-  {
-    "source": "Paul Robinson",
-    "target": "Debi Doss",
-    "targetId": "10438"
-  },
-  {
-    "source": "Paul Robinson",
-    "target": "Linda Jardim",
-    "targetId": "10439"
-  }
-]
+{
+  "source": "Paul Robinson",
+  "targets": [
+    {
+      "name": "Geoff Downes",
+      "targetId": "3639"
+    },
+    {
+      "name": "Trevor Horn",
+      "targetId": "4429"
+    },
+    {
+      "name": "Debi Doss",
+      "targetId": "10438"
+    },
+    {
+      "name": "Linda Jardim",
+      "targetId": "10439"
+    }
+  ]
+}

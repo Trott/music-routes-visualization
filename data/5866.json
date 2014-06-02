@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Tupac Shakur",
-    "target": "Ice-T",
-    "targetId": "2798"
-  },
-  {
-    "source": "Tupac Shakur",
-    "target": "Ice Cube",
-    "targetId": "5867"
-  }
-]
+{
+  "source": "Tupac Shakur",
+  "targets": [
+    {
+      "name": "Ice-T",
+      "targetId": "2798"
+    },
+    {
+      "name": "Ice Cube",
+      "targetId": "5867"
+    }
+  ]
+}

@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Charlie Rouse",
-    "target": "Bob Northern",
-    "targetId": "4600"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Thelonious Monk",
-    "targetId": "7250"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Sam Jones",
-    "targetId": "7251"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Art Taylor",
-    "targetId": "7252"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Phil Woods",
-    "targetId": "7253"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Pepper Adams",
-    "targetId": "7254"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Eddie Bert",
-    "targetId": "7256"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Donald Byrd",
-    "targetId": "7257"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Jay McAllister",
-    "targetId": "7258"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Larry Gales",
-    "targetId": "9556"
-  },
-  {
-    "source": "Charlie Rouse",
-    "target": "Ben Riley",
-    "targetId": "9557"
-  }
-]
+{
+  "source": "Charlie Rouse",
+  "targets": [
+    {
+      "name": "Bob Northern",
+      "targetId": "4600"
+    },
+    {
+      "name": "Thelonious Monk",
+      "targetId": "7250"
+    },
+    {
+      "name": "Sam Jones",
+      "targetId": "7251"
+    },
+    {
+      "name": "Art Taylor",
+      "targetId": "7252"
+    },
+    {
+      "name": "Phil Woods",
+      "targetId": "7253"
+    },
+    {
+      "name": "Pepper Adams",
+      "targetId": "7254"
+    },
+    {
+      "name": "Eddie Bert",
+      "targetId": "7256"
+    },
+    {
+      "name": "Donald Byrd",
+      "targetId": "7257"
+    },
+    {
+      "name": "Jay McAllister",
+      "targetId": "7258"
+    },
+    {
+      "name": "Larry Gales",
+      "targetId": "9556"
+    },
+    {
+      "name": "Ben Riley",
+      "targetId": "9557"
+    }
+  ]
+}

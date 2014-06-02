@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Ben Folds",
-    "target": "Sebastian Steinberg",
-    "targetId": "37"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "William Shatner",
-    "targetId": "179"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Aimee Mann",
-    "targetId": "181"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Matt Chamberlain",
-    "targetId": "182"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "John Mark Painter",
-    "targetId": "183"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Joe Jackson",
-    "targetId": "204"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Lindsay Jamieson",
-    "targetId": "205"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "East Bay Ray",
-    "targetId": "2122"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Frank London",
-    "targetId": "3074"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Jon Auer",
-    "targetId": "3626"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Carmella Ramsey",
-    "targetId": "3627"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Jared Reynolds",
-    "targetId": "3628"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "John Davis",
-    "targetId": "3629"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Kim Richey",
-    "targetId": "3630"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Webb Wilder",
-    "targetId": "3631"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Ben Kweller",
-    "targetId": "4673"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Ben Lee",
-    "targetId": "4674"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "David Davidson",
-    "targetId": "6491"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "John Catchings",
-    "targetId": "6495"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Darren Jessee",
-    "targetId": "6799"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Robert Sledge",
-    "targetId": "6802"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Caleb Southern",
-    "targetId": "6803"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Christian Teale",
-    "targetId": "6804"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Kristin Wilkinson",
-    "targetId": "6805"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Matt Darriau",
-    "targetId": "6806"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Alicia Svigals",
-    "targetId": "6807"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Benita Hill",
-    "targetId": "6809"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Curt Bol",
-    "targetId": "6810"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Laurie Wheeler",
-    "targetId": "6811"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Rick Wheeler",
-    "targetId": "6812"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Brad Paisley",
-    "targetId": "6813"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Amanda Palmer",
-    "targetId": "8531"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Sam Bass",
-    "targetId": "8544"
-  },
-  {
-    "source": "Ben Folds",
-    "target": "Laura Dean",
-    "targetId": "8545"
-  }
-]
+{
+  "source": "Ben Folds",
+  "targets": [
+    {
+      "name": "Sebastian Steinberg",
+      "targetId": "37"
+    },
+    {
+      "name": "William Shatner",
+      "targetId": "179"
+    },
+    {
+      "name": "Aimee Mann",
+      "targetId": "181"
+    },
+    {
+      "name": "Matt Chamberlain",
+      "targetId": "182"
+    },
+    {
+      "name": "John Mark Painter",
+      "targetId": "183"
+    },
+    {
+      "name": "Joe Jackson",
+      "targetId": "204"
+    },
+    {
+      "name": "Lindsay Jamieson",
+      "targetId": "205"
+    },
+    {
+      "name": "East Bay Ray",
+      "targetId": "2122"
+    },
+    {
+      "name": "Frank London",
+      "targetId": "3074"
+    },
+    {
+      "name": "Jon Auer",
+      "targetId": "3626"
+    },
+    {
+      "name": "Carmella Ramsey",
+      "targetId": "3627"
+    },
+    {
+      "name": "Jared Reynolds",
+      "targetId": "3628"
+    },
+    {
+      "name": "John Davis",
+      "targetId": "3629"
+    },
+    {
+      "name": "Kim Richey",
+      "targetId": "3630"
+    },
+    {
+      "name": "Webb Wilder",
+      "targetId": "3631"
+    },
+    {
+      "name": "Ben Kweller",
+      "targetId": "4673"
+    },
+    {
+      "name": "Ben Lee",
+      "targetId": "4674"
+    },
+    {
+      "name": "David Davidson",
+      "targetId": "6491"
+    },
+    {
+      "name": "John Catchings",
+      "targetId": "6495"
+    },
+    {
+      "name": "Darren Jessee",
+      "targetId": "6799"
+    },
+    {
+      "name": "Robert Sledge",
+      "targetId": "6802"
+    },
+    {
+      "name": "Caleb Southern",
+      "targetId": "6803"
+    },
+    {
+      "name": "Christian Teale",
+      "targetId": "6804"
+    },
+    {
+      "name": "Kristin Wilkinson",
+      "targetId": "6805"
+    },
+    {
+      "name": "Matt Darriau",
+      "targetId": "6806"
+    },
+    {
+      "name": "Alicia Svigals",
+      "targetId": "6807"
+    },
+    {
+      "name": "Benita Hill",
+      "targetId": "6809"
+    },
+    {
+      "name": "Curt Bol",
+      "targetId": "6810"
+    },
+    {
+      "name": "Laurie Wheeler",
+      "targetId": "6811"
+    },
+    {
+      "name": "Rick Wheeler",
+      "targetId": "6812"
+    },
+    {
+      "name": "Brad Paisley",
+      "targetId": "6813"
+    },
+    {
+      "name": "Amanda Palmer",
+      "targetId": "8531"
+    },
+    {
+      "name": "Sam Bass",
+      "targetId": "8544"
+    },
+    {
+      "name": "Laura Dean",
+      "targetId": "8545"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Spencer Smith",
-    "target": "Ryan Ross",
-    "targetId": "4341"
-  },
-  {
-    "source": "Spencer Smith",
-    "target": "Brendon Urie",
-    "targetId": "4342"
-  },
-  {
-    "source": "Spencer Smith",
-    "target": "Jon Walker",
-    "targetId": "4343"
-  }
-]
+{
+  "source": "Spencer Smith",
+  "targets": [
+    {
+      "name": "Ryan Ross",
+      "targetId": "4341"
+    },
+    {
+      "name": "Brendon Urie",
+      "targetId": "4342"
+    },
+    {
+      "name": "Jon Walker",
+      "targetId": "4343"
+    }
+  ]
+}

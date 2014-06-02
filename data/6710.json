@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Billy Kilson",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Billy Kilson",
-    "target": "Robert Hurst III",
-    "targetId": "5584"
-  },
-  {
-    "source": "Billy Kilson",
-    "target": "Jill Scott",
-    "targetId": "6698"
-  },
-  {
-    "source": "Billy Kilson",
-    "target": "Chris Botti",
-    "targetId": "6709"
-  },
-  {
-    "source": "Billy Kilson",
-    "target": "Anthony Wilson",
-    "targetId": "6711"
-  },
-  {
-    "source": "Billy Kilson",
-    "target": "Billy Childs",
-    "targetId": "6712"
-  }
-]
+{
+  "source": "Billy Kilson",
+  "targets": [
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "Robert Hurst III",
+      "targetId": "5584"
+    },
+    {
+      "name": "Jill Scott",
+      "targetId": "6698"
+    },
+    {
+      "name": "Chris Botti",
+      "targetId": "6709"
+    },
+    {
+      "name": "Anthony Wilson",
+      "targetId": "6711"
+    },
+    {
+      "name": "Billy Childs",
+      "targetId": "6712"
+    }
+  ]
+}

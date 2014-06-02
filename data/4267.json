@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Randy Kerber",
-    "targetId": "419"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Paul Jackson",
-    "targetId": "892"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Kim Hutchcroft",
-    "targetId": "1324"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Siedah Garrett",
-    "targetId": "2081"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Patti Austin",
-    "targetId": "4229"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Rod Temperton",
-    "targetId": "4235"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Mervyn Warren",
-    "targetId": "4247"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Will Wheaton",
-    "targetId": "4251"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Eric Kirkland",
-    "targetId": "4252"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Irving Washington III",
-    "targetId": "4253"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Kurt Jackson",
-    "targetId": "4254"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Michael Angelo Saulsberry",
-    "targetId": "4255"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Andre Scott",
-    "targetId": "4256"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Reginald Bell",
-    "targetId": "4257"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Richard Redd",
-    "targetId": "4258"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Rodney Chambers",
-    "targetId": "4259"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Carl Smith",
-    "targetId": "4260"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Everett Bradley",
-    "targetId": "4261"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Fiona Wilkes",
-    "targetId": "4262"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Fraser Morrison",
-    "targetId": "4263"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Luke Cresswell",
-    "targetId": "4264"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Coolio",
-    "targetId": "4265"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Luniz",
-    "targetId": "4266"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Yo-Yo",
-    "targetId": "4268"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Chaka Khan",
-    "targetId": "4269"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Charlie Wilson",
-    "targetId": "4270"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Mr. X",
-    "targetId": "4271"
-  },
-  {
-    "source": "Shaquille O'Neal",
-    "target": "Melle Mel",
-    "targetId": "4272"
-  }
-]
+{
+  "source": "Shaquille O'Neal",
+  "targets": [
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Randy Kerber",
+      "targetId": "419"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Paul Jackson",
+      "targetId": "892"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Kim Hutchcroft",
+      "targetId": "1324"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Siedah Garrett",
+      "targetId": "2081"
+    },
+    {
+      "name": "Patti Austin",
+      "targetId": "4229"
+    },
+    {
+      "name": "Rod Temperton",
+      "targetId": "4235"
+    },
+    {
+      "name": "Mervyn Warren",
+      "targetId": "4247"
+    },
+    {
+      "name": "Will Wheaton",
+      "targetId": "4251"
+    },
+    {
+      "name": "Eric Kirkland",
+      "targetId": "4252"
+    },
+    {
+      "name": "Irving Washington III",
+      "targetId": "4253"
+    },
+    {
+      "name": "Kurt Jackson",
+      "targetId": "4254"
+    },
+    {
+      "name": "Michael Angelo Saulsberry",
+      "targetId": "4255"
+    },
+    {
+      "name": "Andre Scott",
+      "targetId": "4256"
+    },
+    {
+      "name": "Reginald Bell",
+      "targetId": "4257"
+    },
+    {
+      "name": "Richard Redd",
+      "targetId": "4258"
+    },
+    {
+      "name": "Rodney Chambers",
+      "targetId": "4259"
+    },
+    {
+      "name": "Carl Smith",
+      "targetId": "4260"
+    },
+    {
+      "name": "Everett Bradley",
+      "targetId": "4261"
+    },
+    {
+      "name": "Fiona Wilkes",
+      "targetId": "4262"
+    },
+    {
+      "name": "Fraser Morrison",
+      "targetId": "4263"
+    },
+    {
+      "name": "Luke Cresswell",
+      "targetId": "4264"
+    },
+    {
+      "name": "Coolio",
+      "targetId": "4265"
+    },
+    {
+      "name": "Luniz",
+      "targetId": "4266"
+    },
+    {
+      "name": "Yo-Yo",
+      "targetId": "4268"
+    },
+    {
+      "name": "Chaka Khan",
+      "targetId": "4269"
+    },
+    {
+      "name": "Charlie Wilson",
+      "targetId": "4270"
+    },
+    {
+      "name": "Mr. X",
+      "targetId": "4271"
+    },
+    {
+      "name": "Melle Mel",
+      "targetId": "4272"
+    }
+  ]
+}

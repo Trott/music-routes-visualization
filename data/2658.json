@@ -1,187 +1,153 @@
-[
-  {
-    "source": "Sheena Easton",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Kenny Rogers",
-    "targetId": "77"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Midge Ure",
-    "targetId": "96"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Chris Cross",
-    "targetId": "100"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Martin Drover",
-    "targetId": "834"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Jeff Daly",
-    "targetId": "835"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Mark Isham",
-    "targetId": "924"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Doreen Chanter",
-    "targetId": "1959"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "David Foster",
-    "targetId": "2456"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Micky Moody",
-    "targetId": "2521"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Michael Baird",
-    "targetId": "2659"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Marty Walsh",
-    "targetId": "2660"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Chas Jankel",
-    "targetId": "3373"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "John Altman",
-    "targetId": "3374"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Digby Fairweather",
-    "targetId": "3375"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Malcolm Griffiths",
-    "targetId": "3376"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Michael Henry",
-    "targetId": "3377"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Paul Cosh",
-    "targetId": "3378"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Donovan",
-    "targetId": "3379"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Mo Foster",
-    "targetId": "3380"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Neil Murray",
-    "targetId": "3381"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Linda Taylor",
-    "targetId": "3382"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Sharon Campbell",
-    "targetId": "3384"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Tom Robinson",
-    "targetId": "3385"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "John Etheridge",
-    "targetId": "3387"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Neil Innes",
-    "targetId": "3388"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Ray Russell",
-    "targetId": "3389"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Peter van Hooke",
-    "targetId": "6467"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Andy Brown",
-    "targetId": "10321"
-  },
-  {
-    "source": "Sheena Easton",
-    "target": "Tony Hall",
-    "targetId": "10322"
-  }
-]
+{
+  "source": "Sheena Easton",
+  "targets": [
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Kenny Rogers",
+      "targetId": "77"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Midge Ure",
+      "targetId": "96"
+    },
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Chris Cross",
+      "targetId": "100"
+    },
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Martin Drover",
+      "targetId": "834"
+    },
+    {
+      "name": "Jeff Daly",
+      "targetId": "835"
+    },
+    {
+      "name": "Mark Isham",
+      "targetId": "924"
+    },
+    {
+      "name": "Doreen Chanter",
+      "targetId": "1959"
+    },
+    {
+      "name": "David Foster",
+      "targetId": "2456"
+    },
+    {
+      "name": "Micky Moody",
+      "targetId": "2521"
+    },
+    {
+      "name": "Michael Baird",
+      "targetId": "2659"
+    },
+    {
+      "name": "Marty Walsh",
+      "targetId": "2660"
+    },
+    {
+      "name": "Chas Jankel",
+      "targetId": "3373"
+    },
+    {
+      "name": "John Altman",
+      "targetId": "3374"
+    },
+    {
+      "name": "Digby Fairweather",
+      "targetId": "3375"
+    },
+    {
+      "name": "Malcolm Griffiths",
+      "targetId": "3376"
+    },
+    {
+      "name": "Michael Henry",
+      "targetId": "3377"
+    },
+    {
+      "name": "Paul Cosh",
+      "targetId": "3378"
+    },
+    {
+      "name": "Donovan",
+      "targetId": "3379"
+    },
+    {
+      "name": "Mo Foster",
+      "targetId": "3380"
+    },
+    {
+      "name": "Neil Murray",
+      "targetId": "3381"
+    },
+    {
+      "name": "Linda Taylor",
+      "targetId": "3382"
+    },
+    {
+      "name": "Sharon Campbell",
+      "targetId": "3384"
+    },
+    {
+      "name": "Tom Robinson",
+      "targetId": "3385"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "John Etheridge",
+      "targetId": "3387"
+    },
+    {
+      "name": "Neil Innes",
+      "targetId": "3388"
+    },
+    {
+      "name": "Ray Russell",
+      "targetId": "3389"
+    },
+    {
+      "name": "Peter van Hooke",
+      "targetId": "6467"
+    },
+    {
+      "name": "Andy Brown",
+      "targetId": "10321"
+    },
+    {
+      "name": "Tony Hall",
+      "targetId": "10322"
+    }
+  ]
+}

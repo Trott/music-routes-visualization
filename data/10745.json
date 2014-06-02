@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Steve Missal",
-    "target": "Billy Idol",
-    "targetId": "10743"
-  },
-  {
-    "source": "Steve Missal",
-    "target": "Steve Stevens",
-    "targetId": "10744"
-  },
-  {
-    "source": "Steve Missal",
-    "target": "Phil Feit",
-    "targetId": "10746"
-  }
-]
+{
+  "source": "Steve Missal",
+  "targets": [
+    {
+      "name": "Billy Idol",
+      "targetId": "10743"
+    },
+    {
+      "name": "Steve Stevens",
+      "targetId": "10744"
+    },
+    {
+      "name": "Phil Feit",
+      "targetId": "10746"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dave Hower",
-    "target": "Brian Akey",
-    "targetId": "9434"
-  },
-  {
-    "source": "Dave Hower",
-    "target": "Dennis Crommett",
-    "targetId": "9435"
-  },
-  {
-    "source": "Dave Hower",
-    "target": "Philip Price",
-    "targetId": "9437"
-  },
-  {
-    "source": "Dave Hower",
-    "target": "Flora Reed",
-    "targetId": "9438"
-  }
-]
+{
+  "source": "Dave Hower",
+  "targets": [
+    {
+      "name": "Brian Akey",
+      "targetId": "9434"
+    },
+    {
+      "name": "Dennis Crommett",
+      "targetId": "9435"
+    },
+    {
+      "name": "Philip Price",
+      "targetId": "9437"
+    },
+    {
+      "name": "Flora Reed",
+      "targetId": "9438"
+    }
+  ]
+}

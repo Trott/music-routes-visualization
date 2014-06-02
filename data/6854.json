@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Michael Galinsky",
-    "target": "James McNew",
-    "targetId": "2840"
-  },
-  {
-    "source": "Michael Galinsky",
-    "target": "Rachel McNally",
-    "targetId": "6855"
-  },
-  {
-    "source": "Michael Galinsky",
-    "target": "Chris O'Rourke",
-    "targetId": "6856"
-  },
-  {
-    "source": "Michael Galinsky",
-    "target": "Peter Phillips",
-    "targetId": "6857"
-  }
-]
+{
+  "source": "Michael Galinsky",
+  "targets": [
+    {
+      "name": "James McNew",
+      "targetId": "2840"
+    },
+    {
+      "name": "Rachel McNally",
+      "targetId": "6855"
+    },
+    {
+      "name": "Chris O'Rourke",
+      "targetId": "6856"
+    },
+    {
+      "name": "Peter Phillips",
+      "targetId": "6857"
+    }
+  ]
+}

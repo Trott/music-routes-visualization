@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Neil Peart",
-    "target": "Aimee Mann",
-    "targetId": "181"
-  },
-  {
-    "source": "Neil Peart",
-    "target": "Geddy Lee",
-    "targetId": "2450"
-  },
-  {
-    "source": "Neil Peart",
-    "target": "Alex Lifeson",
-    "targetId": "2451"
-  },
-  {
-    "source": "Neil Peart",
-    "target": "Hugh Syme",
-    "targetId": "2503"
-  }
-]
+{
+  "source": "Neil Peart",
+  "targets": [
+    {
+      "name": "Aimee Mann",
+      "targetId": "181"
+    },
+    {
+      "name": "Geddy Lee",
+      "targetId": "2450"
+    },
+    {
+      "name": "Alex Lifeson",
+      "targetId": "2451"
+    },
+    {
+      "name": "Hugh Syme",
+      "targetId": "2503"
+    }
+  ]
+}

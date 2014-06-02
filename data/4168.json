@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tony Fernandez",
-    "target": "Rick Wakeman",
-    "targetId": "792"
-  },
-  {
-    "source": "Tony Fernandez",
-    "target": "Adam Wakeman",
-    "targetId": "4167"
-  },
-  {
-    "source": "Tony Fernandez",
-    "target": "Damian Wilson",
-    "targetId": "4169"
-  },
-  {
-    "source": "Tony Fernandez",
-    "target": "Ant Glynne",
-    "targetId": "4170"
-  },
-  {
-    "source": "Tony Fernandez",
-    "target": "Lee Pomeroy",
-    "targetId": "4171"
-  }
-]
+{
+  "source": "Tony Fernandez",
+  "targets": [
+    {
+      "name": "Rick Wakeman",
+      "targetId": "792"
+    },
+    {
+      "name": "Adam Wakeman",
+      "targetId": "4167"
+    },
+    {
+      "name": "Damian Wilson",
+      "targetId": "4169"
+    },
+    {
+      "name": "Ant Glynne",
+      "targetId": "4170"
+    },
+    {
+      "name": "Lee Pomeroy",
+      "targetId": "4171"
+    }
+  ]
+}

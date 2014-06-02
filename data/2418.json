@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Jim Helms",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "James Burton",
-    "targetId": "452"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "Glen Campbell",
-    "targetId": "524"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "Gary Coleman",
-    "targetId": "727"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "Bill Pitman",
-    "targetId": "1482"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "Al Casey",
-    "targetId": "1509"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "Micky Dolenz",
-    "targetId": "2415"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "Peter Tork",
-    "targetId": "2416"
-  },
-  {
-    "source": "Jim Helms",
-    "target": "Michael Nesmith",
-    "targetId": "2417"
-  }
-]
+{
+  "source": "Jim Helms",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "James Burton",
+      "targetId": "452"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Glen Campbell",
+      "targetId": "524"
+    },
+    {
+      "name": "Gary Coleman",
+      "targetId": "727"
+    },
+    {
+      "name": "Bill Pitman",
+      "targetId": "1482"
+    },
+    {
+      "name": "Al Casey",
+      "targetId": "1509"
+    },
+    {
+      "name": "Micky Dolenz",
+      "targetId": "2415"
+    },
+    {
+      "name": "Peter Tork",
+      "targetId": "2416"
+    },
+    {
+      "name": "Michael Nesmith",
+      "targetId": "2417"
+    }
+  ]
+}

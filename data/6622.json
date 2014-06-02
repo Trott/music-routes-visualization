@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Martin Sheen",
-    "target": "Clifford Lane",
-    "targetId": "6598"
-  },
-  {
-    "source": "Martin Sheen",
-    "target": "Jonathan Elias",
-    "targetId": "6600"
-  },
-  {
-    "source": "Martin Sheen",
-    "target": "Sherman Foote",
-    "targetId": "6602"
-  },
-  {
-    "source": "Martin Sheen",
-    "target": "Ray Foote",
-    "targetId": "6603"
-  },
-  {
-    "source": "Martin Sheen",
-    "target": "Charlie Sheen",
-    "targetId": "6621"
-  }
-]
+{
+  "source": "Martin Sheen",
+  "targets": [
+    {
+      "name": "Clifford Lane",
+      "targetId": "6598"
+    },
+    {
+      "name": "Jonathan Elias",
+      "targetId": "6600"
+    },
+    {
+      "name": "Sherman Foote",
+      "targetId": "6602"
+    },
+    {
+      "name": "Ray Foote",
+      "targetId": "6603"
+    },
+    {
+      "name": "Charlie Sheen",
+      "targetId": "6621"
+    }
+  ]
+}

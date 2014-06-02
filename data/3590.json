@@ -1,17 +1,17 @@
-[
-  {
-    "source": "James Collette",
-    "target": "Roger Miret",
-    "targetId": "3587"
-  },
-  {
-    "source": "James Collette",
-    "target": "Vinny Stigma",
-    "targetId": "3589"
-  },
-  {
-    "source": "James Collette",
-    "target": "Mike Gallo",
-    "targetId": "3591"
-  }
-]
+{
+  "source": "James Collette",
+  "targets": [
+    {
+      "name": "Roger Miret",
+      "targetId": "3587"
+    },
+    {
+      "name": "Vinny Stigma",
+      "targetId": "3589"
+    },
+    {
+      "name": "Mike Gallo",
+      "targetId": "3591"
+    }
+  ]
+}

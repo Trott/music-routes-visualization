@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Nate Wooley",
-    "target": "Ben Hall",
-    "targetId": "3826"
-  },
-  {
-    "source": "Nate Wooley",
-    "target": "Hans Buetow",
-    "targetId": "3827"
-  },
-  {
-    "source": "Nate Wooley",
-    "target": "Ken Filiano",
-    "targetId": "3830"
-  },
-  {
-    "source": "Nate Wooley",
-    "target": "Lou Grassi",
-    "targetId": "3831"
-  },
-  {
-    "source": "Nate Wooley",
-    "target": "Stephen Gauci",
-    "targetId": "3832"
-  }
-]
+{
+  "source": "Nate Wooley",
+  "targets": [
+    {
+      "name": "Ben Hall",
+      "targetId": "3826"
+    },
+    {
+      "name": "Hans Buetow",
+      "targetId": "3827"
+    },
+    {
+      "name": "Ken Filiano",
+      "targetId": "3830"
+    },
+    {
+      "name": "Lou Grassi",
+      "targetId": "3831"
+    },
+    {
+      "name": "Stephen Gauci",
+      "targetId": "3832"
+    }
+  ]
+}

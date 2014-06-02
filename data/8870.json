@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mark Spencer",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Mark Spencer",
-    "target": "Lisa Loeb",
-    "targetId": "8844"
-  },
-  {
-    "source": "Mark Spencer",
-    "target": "Ronny Crawford",
-    "targetId": "8866"
-  },
-  {
-    "source": "Mark Spencer",
-    "target": "Joe Quigley",
-    "targetId": "8869"
-  }
-]
+{
+  "source": "Mark Spencer",
+  "targets": [
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Lisa Loeb",
+      "targetId": "8844"
+    },
+    {
+      "name": "Ronny Crawford",
+      "targetId": "8866"
+    },
+    {
+      "name": "Joe Quigley",
+      "targetId": "8869"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bob Ezrin",
-    "target": "Peter Criss",
-    "targetId": "967"
-  },
-  {
-    "source": "Bob Ezrin",
-    "target": "Gene Simmons",
-    "targetId": "968"
-  },
-  {
-    "source": "Bob Ezrin",
-    "target": "Paul Stanley",
-    "targetId": "969"
-  },
-  {
-    "source": "Bob Ezrin",
-    "target": "Ace Frehley",
-    "targetId": "970"
-  }
-]
+{
+  "source": "Bob Ezrin",
+  "targets": [
+    {
+      "name": "Peter Criss",
+      "targetId": "967"
+    },
+    {
+      "name": "Gene Simmons",
+      "targetId": "968"
+    },
+    {
+      "name": "Paul Stanley",
+      "targetId": "969"
+    },
+    {
+      "name": "Ace Frehley",
+      "targetId": "970"
+    }
+  ]
+}

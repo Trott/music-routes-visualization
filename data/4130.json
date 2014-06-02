@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Paul Simonon",
-    "target": "Joe Strummer",
-    "targetId": "846"
-  },
-  {
-    "source": "Paul Simonon",
-    "target": "Mick Jones",
-    "targetId": "4129"
-  },
-  {
-    "source": "Paul Simonon",
-    "target": "Topper Headon",
-    "targetId": "4131"
-  }
-]
+{
+  "source": "Paul Simonon",
+  "targets": [
+    {
+      "name": "Joe Strummer",
+      "targetId": "846"
+    },
+    {
+      "name": "Mick Jones",
+      "targetId": "4129"
+    },
+    {
+      "name": "Topper Headon",
+      "targetId": "4131"
+    }
+  ]
+}

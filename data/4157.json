@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Matthew Fisher",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Matthew Fisher",
-    "target": "Tommy Eyre",
-    "targetId": "3190"
-  },
-  {
-    "source": "Matthew Fisher",
-    "target": "Joe Cocker",
-    "targetId": "4141"
-  },
-  {
-    "source": "Matthew Fisher",
-    "target": "Chris Stainton",
-    "targetId": "4149"
-  },
-  {
-    "source": "Matthew Fisher",
-    "target": "B.J. Wilson",
-    "targetId": "4156"
-  }
-]
+{
+  "source": "Matthew Fisher",
+  "targets": [
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Tommy Eyre",
+      "targetId": "3190"
+    },
+    {
+      "name": "Joe Cocker",
+      "targetId": "4141"
+    },
+    {
+      "name": "Chris Stainton",
+      "targetId": "4149"
+    },
+    {
+      "name": "B.J. Wilson",
+      "targetId": "4156"
+    }
+  ]
+}

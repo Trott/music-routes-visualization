@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ninotchka",
-    "target": "Paul Roessler",
-    "targetId": "764"
-  },
-  {
-    "source": "Ninotchka",
-    "target": "Jello Biafra",
-    "targetId": "2120"
-  },
-  {
-    "source": "Ninotchka",
-    "target": "Ted",
-    "targetId": "2121"
-  },
-  {
-    "source": "Ninotchka",
-    "target": "East Bay Ray",
-    "targetId": "2122"
-  },
-  {
-    "source": "Ninotchka",
-    "target": "Klaus Flouride",
-    "targetId": "2123"
-  }
-]
+{
+  "source": "Ninotchka",
+  "targets": [
+    {
+      "name": "Paul Roessler",
+      "targetId": "764"
+    },
+    {
+      "name": "Jello Biafra",
+      "targetId": "2120"
+    },
+    {
+      "name": "Ted",
+      "targetId": "2121"
+    },
+    {
+      "name": "East Bay Ray",
+      "targetId": "2122"
+    },
+    {
+      "name": "Klaus Flouride",
+      "targetId": "2123"
+    }
+  ]
+}

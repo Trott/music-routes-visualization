@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Patrick Dubar",
-    "target": "Louis Svitek",
-    "targetId": "2026"
-  },
-  {
-    "source": "Patrick Dubar",
-    "target": "Frank Ciampi",
-    "targetId": "7142"
-  },
-  {
-    "source": "Patrick Dubar",
-    "target": "Shawn Johnson",
-    "targetId": "7143"
-  }
-]
+{
+  "source": "Patrick Dubar",
+  "targets": [
+    {
+      "name": "Louis Svitek",
+      "targetId": "2026"
+    },
+    {
+      "name": "Frank Ciampi",
+      "targetId": "7142"
+    },
+    {
+      "name": "Shawn Johnson",
+      "targetId": "7143"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Carl Spann",
-    "target": "Jon Blondell",
-    "targetId": "4331"
-  },
-  {
-    "source": "Carl Spann",
-    "target": "Dean Clean",
-    "targetId": "7294"
-  },
-  {
-    "source": "Carl Spann",
-    "target": "Rodney Anonymous",
-    "targetId": "7300"
-  },
-  {
-    "source": "Carl Spann",
-    "target": "Dave \"Blood\" Schulthise",
-    "targetId": "7301"
-  },
-  {
-    "source": "Carl Spann",
-    "target": "Joe \"Jack Talcum\" Genaro",
-    "targetId": "7302"
-  }
-]
+{
+  "source": "Carl Spann",
+  "targets": [
+    {
+      "name": "Jon Blondell",
+      "targetId": "4331"
+    },
+    {
+      "name": "Dean Clean",
+      "targetId": "7294"
+    },
+    {
+      "name": "Rodney Anonymous",
+      "targetId": "7300"
+    },
+    {
+      "name": "Dave \"Blood\" Schulthise",
+      "targetId": "7301"
+    },
+    {
+      "name": "Joe \"Jack Talcum\" Genaro",
+      "targetId": "7302"
+    }
+  ]
+}

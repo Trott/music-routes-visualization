@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Terry Sylvester",
-    "target": "Tony Hicks",
-    "targetId": "10414"
-  },
-  {
-    "source": "Terry Sylvester",
-    "target": "Allan Clarke",
-    "targetId": "10416"
-  },
-  {
-    "source": "Terry Sylvester",
-    "target": "Bobby Elliot",
-    "targetId": "10417"
-  },
-  {
-    "source": "Terry Sylvester",
-    "target": "Bernie Calvert",
-    "targetId": "10418"
-  }
-]
+{
+  "source": "Terry Sylvester",
+  "targets": [
+    {
+      "name": "Tony Hicks",
+      "targetId": "10414"
+    },
+    {
+      "name": "Allan Clarke",
+      "targetId": "10416"
+    },
+    {
+      "name": "Bobby Elliot",
+      "targetId": "10417"
+    },
+    {
+      "name": "Bernie Calvert",
+      "targetId": "10418"
+    }
+  ]
+}

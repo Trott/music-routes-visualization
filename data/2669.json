@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Paul Cook",
-    "target": "Steve Jones",
-    "targetId": "1630"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "John Lydon",
-    "targetId": "2670"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "Sid Vicious",
-    "targetId": "2671"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "Glen Matlock",
-    "targetId": "2672"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "Phil Lynott",
-    "targetId": "2690"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "Brian Downey",
-    "targetId": "2691"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "Scott Gorham",
-    "targetId": "2692"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "Matthew Ashman",
-    "targetId": "7713"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "Lance Burman",
-    "targetId": "8068"
-  },
-  {
-    "source": "Paul Cook",
-    "target": "Duncan Greig",
-    "targetId": "8069"
-  }
-]
+{
+  "source": "Paul Cook",
+  "targets": [
+    {
+      "name": "Steve Jones",
+      "targetId": "1630"
+    },
+    {
+      "name": "John Lydon",
+      "targetId": "2670"
+    },
+    {
+      "name": "Sid Vicious",
+      "targetId": "2671"
+    },
+    {
+      "name": "Glen Matlock",
+      "targetId": "2672"
+    },
+    {
+      "name": "Phil Lynott",
+      "targetId": "2690"
+    },
+    {
+      "name": "Brian Downey",
+      "targetId": "2691"
+    },
+    {
+      "name": "Scott Gorham",
+      "targetId": "2692"
+    },
+    {
+      "name": "Matthew Ashman",
+      "targetId": "7713"
+    },
+    {
+      "name": "Lance Burman",
+      "targetId": "8068"
+    },
+    {
+      "name": "Duncan Greig",
+      "targetId": "8069"
+    }
+  ]
+}

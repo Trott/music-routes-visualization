@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Paul Harvey",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Paul Harvey",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Paul Harvey",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Paul Harvey",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Paul Harvey",
-    "target": "David Mason",
-    "targetId": "9699"
-  }
-]
+{
+  "source": "Paul Harvey",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "David Mason",
+      "targetId": "9699"
+    }
+  ]
+}

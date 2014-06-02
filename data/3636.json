@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Scott Jarvis",
-    "target": "Kramer",
-    "targetId": "1436"
-  },
-  {
-    "source": "Scott Jarvis",
-    "target": "Jad Fair",
-    "targetId": "3633"
-  },
-  {
-    "source": "Scott Jarvis",
-    "target": "Don Fleming",
-    "targetId": "3634"
-  },
-  {
-    "source": "Scott Jarvis",
-    "target": "Mark Jickling",
-    "targetId": "3635"
-  },
-  {
-    "source": "Scott Jarvis",
-    "target": "Rob Kennedy",
-    "targetId": "3637"
-  },
-  {
-    "source": "Scott Jarvis",
-    "target": "John Zorn",
-    "targetId": "3638"
-  }
-]
+{
+  "source": "Scott Jarvis",
+  "targets": [
+    {
+      "name": "Kramer",
+      "targetId": "1436"
+    },
+    {
+      "name": "Jad Fair",
+      "targetId": "3633"
+    },
+    {
+      "name": "Don Fleming",
+      "targetId": "3634"
+    },
+    {
+      "name": "Mark Jickling",
+      "targetId": "3635"
+    },
+    {
+      "name": "Rob Kennedy",
+      "targetId": "3637"
+    },
+    {
+      "name": "John Zorn",
+      "targetId": "3638"
+    }
+  ]
+}

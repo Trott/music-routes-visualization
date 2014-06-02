@@ -1,187 +1,153 @@
-[
-  {
-    "source": "Joe Farrell",
-    "target": "Daryl Hall",
-    "targetId": "53"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "John Oates",
-    "targetId": "69"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Hugh McCracken",
-    "targetId": "268"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Tony Levin",
-    "targetId": "269"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Randy Brecker",
-    "targetId": "469"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Wayne Andre",
-    "targetId": "470"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Chick Corea",
-    "targetId": "919"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Ron Carter",
-    "targetId": "1201"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Mike Manieri",
-    "targetId": "1204"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Airto Moreira",
-    "targetId": "1207"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Herb Bushler",
-    "targetId": "1260"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Joe Beck",
-    "targetId": "1263"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Michael Longo",
-    "targetId": "1265"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Mickey Roker",
-    "targetId": "1266"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "George Davis",
-    "targetId": "1267"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Stanley Clarke",
-    "targetId": "1882"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Flora Purim",
-    "targetId": "1883"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Frank Wess",
-    "targetId": "2758"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Steve \"Fontz\" Gelfand",
-    "targetId": "4690"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Chris Bond",
-    "targetId": "4691"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Gap Mangione",
-    "targetId": "6392"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Snooky Young",
-    "targetId": "6393"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Marv Stamm",
-    "targetId": "6394"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Clark Terry",
-    "targetId": "6395"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Tony Studd",
-    "targetId": "6396"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Paul Faulise",
-    "targetId": "6397"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "James Buffington",
-    "targetId": "6398"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Earl Chapin",
-    "targetId": "6399"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Jerome Richardson",
-    "targetId": "6400"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Ned Corman",
-    "targetId": "6401"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Ray Beckenstein",
-    "targetId": "6402"
-  },
-  {
-    "source": "Joe Farrell",
-    "target": "Sam Brown",
-    "targetId": "6403"
-  }
-]
+{
+  "source": "Joe Farrell",
+  "targets": [
+    {
+      "name": "Daryl Hall",
+      "targetId": "53"
+    },
+    {
+      "name": "John Oates",
+      "targetId": "69"
+    },
+    {
+      "name": "Hugh McCracken",
+      "targetId": "268"
+    },
+    {
+      "name": "Tony Levin",
+      "targetId": "269"
+    },
+    {
+      "name": "Randy Brecker",
+      "targetId": "469"
+    },
+    {
+      "name": "Wayne Andre",
+      "targetId": "470"
+    },
+    {
+      "name": "Chick Corea",
+      "targetId": "919"
+    },
+    {
+      "name": "Ron Carter",
+      "targetId": "1201"
+    },
+    {
+      "name": "Mike Manieri",
+      "targetId": "1204"
+    },
+    {
+      "name": "Airto Moreira",
+      "targetId": "1207"
+    },
+    {
+      "name": "Herb Bushler",
+      "targetId": "1260"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Joe Beck",
+      "targetId": "1263"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Michael Longo",
+      "targetId": "1265"
+    },
+    {
+      "name": "Mickey Roker",
+      "targetId": "1266"
+    },
+    {
+      "name": "George Davis",
+      "targetId": "1267"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Stanley Clarke",
+      "targetId": "1882"
+    },
+    {
+      "name": "Flora Purim",
+      "targetId": "1883"
+    },
+    {
+      "name": "Frank Wess",
+      "targetId": "2758"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Steve \"Fontz\" Gelfand",
+      "targetId": "4690"
+    },
+    {
+      "name": "Chris Bond",
+      "targetId": "4691"
+    },
+    {
+      "name": "Gap Mangione",
+      "targetId": "6392"
+    },
+    {
+      "name": "Snooky Young",
+      "targetId": "6393"
+    },
+    {
+      "name": "Marv Stamm",
+      "targetId": "6394"
+    },
+    {
+      "name": "Clark Terry",
+      "targetId": "6395"
+    },
+    {
+      "name": "Tony Studd",
+      "targetId": "6396"
+    },
+    {
+      "name": "Paul Faulise",
+      "targetId": "6397"
+    },
+    {
+      "name": "James Buffington",
+      "targetId": "6398"
+    },
+    {
+      "name": "Earl Chapin",
+      "targetId": "6399"
+    },
+    {
+      "name": "Jerome Richardson",
+      "targetId": "6400"
+    },
+    {
+      "name": "Ned Corman",
+      "targetId": "6401"
+    },
+    {
+      "name": "Ray Beckenstein",
+      "targetId": "6402"
+    },
+    {
+      "name": "Sam Brown",
+      "targetId": "6403"
+    }
+  ]
+}

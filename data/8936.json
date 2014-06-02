@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Guru",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Guru",
-    "target": "DJ Premier",
-    "targetId": "6657"
-  },
-  {
-    "source": "Guru",
-    "target": "Lil' Fame",
-    "targetId": "8929"
-  },
-  {
-    "source": "Guru",
-    "target": "Billy Danze",
-    "targetId": "8930"
-  },
-  {
-    "source": "Guru",
-    "target": "Uncle Reo",
-    "targetId": "8937"
-  },
-  {
-    "source": "Guru",
-    "target": "Fat Joe",
-    "targetId": "8938"
-  }
-]
+{
+  "source": "Guru",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "DJ Premier",
+      "targetId": "6657"
+    },
+    {
+      "name": "Lil' Fame",
+      "targetId": "8929"
+    },
+    {
+      "name": "Billy Danze",
+      "targetId": "8930"
+    },
+    {
+      "name": "Uncle Reo",
+      "targetId": "8937"
+    },
+    {
+      "name": "Fat Joe",
+      "targetId": "8938"
+    }
+  ]
+}

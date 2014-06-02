@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Phil Taylor",
-    "target": "Lemmy Kilmister",
-    "targetId": "2550"
-  },
-  {
-    "source": "Phil Taylor",
-    "target": "Larry Wallis",
-    "targetId": "2940"
-  }
-]
+{
+  "source": "Phil Taylor",
+  "targets": [
+    {
+      "name": "Lemmy Kilmister",
+      "targetId": "2550"
+    },
+    {
+      "name": "Larry Wallis",
+      "targetId": "2940"
+    }
+  ]
+}

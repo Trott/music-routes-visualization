@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Jackson Smith",
-    "target": "Jack Lawrence",
-    "targetId": "3812"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Carl Broemel",
-    "targetId": "4037"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Patrick Keeler",
-    "targetId": "6318"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Wanda Jackson",
-    "targetId": "10877"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Leif Shires",
-    "targetId": "10899"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Olivia Jean",
-    "targetId": "10900"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Joe Gillis",
-    "targetId": "10901"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Craig Swift",
-    "targetId": "10902"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Justin Carpenter",
-    "targetId": "10903"
-  },
-  {
-    "source": "Jackson Smith",
-    "target": "Dominic Davis",
-    "targetId": "10905"
-  }
-]
+{
+  "source": "Jackson Smith",
+  "targets": [
+    {
+      "name": "Jack Lawrence",
+      "targetId": "3812"
+    },
+    {
+      "name": "Carl Broemel",
+      "targetId": "4037"
+    },
+    {
+      "name": "Patrick Keeler",
+      "targetId": "6318"
+    },
+    {
+      "name": "Wanda Jackson",
+      "targetId": "10877"
+    },
+    {
+      "name": "Leif Shires",
+      "targetId": "10899"
+    },
+    {
+      "name": "Olivia Jean",
+      "targetId": "10900"
+    },
+    {
+      "name": "Joe Gillis",
+      "targetId": "10901"
+    },
+    {
+      "name": "Craig Swift",
+      "targetId": "10902"
+    },
+    {
+      "name": "Justin Carpenter",
+      "targetId": "10903"
+    },
+    {
+      "name": "Dominic Davis",
+      "targetId": "10905"
+    }
+  ]
+}

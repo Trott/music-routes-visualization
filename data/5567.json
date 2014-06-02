@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Buddy Spicher",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Buddy Spicher",
-    "target": "Charlie McCoy",
-    "targetId": "1211"
-  },
-  {
-    "source": "Buddy Spicher",
-    "target": "Tim Davis",
-    "targetId": "5564"
-  },
-  {
-    "source": "Buddy Spicher",
-    "target": "Bobby Winkelman",
-    "targetId": "5565"
-  }
-]
+{
+  "source": "Buddy Spicher",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Charlie McCoy",
+      "targetId": "1211"
+    },
+    {
+      "name": "Tim Davis",
+      "targetId": "5564"
+    },
+    {
+      "name": "Bobby Winkelman",
+      "targetId": "5565"
+    }
+  ]
+}

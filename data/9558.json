@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Stan Ridgway",
-    "target": "Marc Moreland",
-    "targetId": "9559"
-  },
-  {
-    "source": "Stan Ridgway",
-    "target": "Chas T. Gray",
-    "targetId": "9560"
-  },
-  {
-    "source": "Stan Ridgway",
-    "target": "Joe Nanini",
-    "targetId": "9561"
-  }
-]
+{
+  "source": "Stan Ridgway",
+  "targets": [
+    {
+      "name": "Marc Moreland",
+      "targetId": "9559"
+    },
+    {
+      "name": "Chas T. Gray",
+      "targetId": "9560"
+    },
+    {
+      "name": "Joe Nanini",
+      "targetId": "9561"
+    }
+  ]
+}

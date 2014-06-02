@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Sonny Stitt",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Sonny Stitt",
-    "target": "Dizzy Gillespie",
-    "targetId": "1928"
-  },
-  {
-    "source": "Sonny Stitt",
-    "target": "Stan Levey",
-    "targetId": "1932"
-  },
-  {
-    "source": "Sonny Stitt",
-    "target": "John Lewis",
-    "targetId": "2954"
-  },
-  {
-    "source": "Sonny Stitt",
-    "target": "Stan Getz",
-    "targetId": "4089"
-  },
-  {
-    "source": "Sonny Stitt",
-    "target": "Herb Ellis",
-    "targetId": "7153"
-  }
-]
+{
+  "source": "Sonny Stitt",
+  "targets": [
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Dizzy Gillespie",
+      "targetId": "1928"
+    },
+    {
+      "name": "Stan Levey",
+      "targetId": "1932"
+    },
+    {
+      "name": "John Lewis",
+      "targetId": "2954"
+    },
+    {
+      "name": "Stan Getz",
+      "targetId": "4089"
+    },
+    {
+      "name": "Herb Ellis",
+      "targetId": "7153"
+    }
+  ]
+}

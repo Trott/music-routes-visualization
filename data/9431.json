@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Howard Leese",
-    "target": "Ann Wilson",
-    "targetId": "4039"
-  },
-  {
-    "source": "Howard Leese",
-    "target": "Nancy Wilson",
-    "targetId": "9429"
-  },
-  {
-    "source": "Howard Leese",
-    "target": "Michael Derosier",
-    "targetId": "9430"
-  },
-  {
-    "source": "Howard Leese",
-    "target": "Steve Fossen",
-    "targetId": "9432"
-  },
-  {
-    "source": "Howard Leese",
-    "target": "Roger Fisher",
-    "targetId": "9433"
-  }
-]
+{
+  "source": "Howard Leese",
+  "targets": [
+    {
+      "name": "Ann Wilson",
+      "targetId": "4039"
+    },
+    {
+      "name": "Nancy Wilson",
+      "targetId": "9429"
+    },
+    {
+      "name": "Michael Derosier",
+      "targetId": "9430"
+    },
+    {
+      "name": "Steve Fossen",
+      "targetId": "9432"
+    },
+    {
+      "name": "Roger Fisher",
+      "targetId": "9433"
+    }
+  ]
+}

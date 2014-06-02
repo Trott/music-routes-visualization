@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Johnny Jenkins",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Johnny Jenkins",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Johnny Jenkins",
-    "target": "Al Jackson, Jr.",
-    "targetId": "1806"
-  },
-  {
-    "source": "Johnny Jenkins",
-    "target": "Otis Redding",
-    "targetId": "6244"
-  },
-  {
-    "source": "Johnny Jenkins",
-    "target": "Booker T. Jones",
-    "targetId": "6245"
-  }
-]
+{
+  "source": "Johnny Jenkins",
+  "targets": [
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Al Jackson, Jr.",
+      "targetId": "1806"
+    },
+    {
+      "name": "Otis Redding",
+      "targetId": "6244"
+    },
+    {
+      "name": "Booker T. Jones",
+      "targetId": "6245"
+    }
+  ]
+}

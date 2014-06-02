@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Hannon Lane",
-    "target": "Justin Timberlake",
-    "targetId": "4041"
-  },
-  {
-    "source": "Hannon Lane",
-    "target": "Timbaland",
-    "targetId": "4042"
-  },
-  {
-    "source": "Hannon Lane",
-    "target": "Rihanna",
-    "targetId": "5908"
-  },
-  {
-    "source": "Hannon Lane",
-    "target": "Stevie Blackie",
-    "targetId": "5910"
-  },
-  {
-    "source": "Hannon Lane",
-    "target": "Flo Rida",
-    "targetId": "6002"
-  }
-]
+{
+  "source": "Hannon Lane",
+  "targets": [
+    {
+      "name": "Justin Timberlake",
+      "targetId": "4041"
+    },
+    {
+      "name": "Timbaland",
+      "targetId": "4042"
+    },
+    {
+      "name": "Rihanna",
+      "targetId": "5908"
+    },
+    {
+      "name": "Stevie Blackie",
+      "targetId": "5910"
+    },
+    {
+      "name": "Flo Rida",
+      "targetId": "6002"
+    }
+  ]
+}

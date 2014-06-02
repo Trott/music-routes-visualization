@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Kelley Deal",
-    "target": "Kim Deal",
-    "targetId": "607"
-  },
-  {
-    "source": "Kelley Deal",
-    "target": "Robert Pollard",
-    "targetId": "3236"
-  },
-  {
-    "source": "Kelley Deal",
-    "target": "Tobin Sprout",
-    "targetId": "3237"
-  },
-  {
-    "source": "Kelley Deal",
-    "target": "Jim Greer",
-    "targetId": "8680"
-  },
-  {
-    "source": "Kelley Deal",
-    "target": "Jim Pollard",
-    "targetId": "8681"
-  },
-  {
-    "source": "Kelley Deal",
-    "target": "Josephine Wiggs",
-    "targetId": "9078"
-  },
-  {
-    "source": "Kelley Deal",
-    "target": "Jim MacPherson",
-    "targetId": "9080"
-  }
-]
+{
+  "source": "Kelley Deal",
+  "targets": [
+    {
+      "name": "Kim Deal",
+      "targetId": "607"
+    },
+    {
+      "name": "Robert Pollard",
+      "targetId": "3236"
+    },
+    {
+      "name": "Tobin Sprout",
+      "targetId": "3237"
+    },
+    {
+      "name": "Jim Greer",
+      "targetId": "8680"
+    },
+    {
+      "name": "Jim Pollard",
+      "targetId": "8681"
+    },
+    {
+      "name": "Josephine Wiggs",
+      "targetId": "9078"
+    },
+    {
+      "name": "Jim MacPherson",
+      "targetId": "9080"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "\"Philly\" Joe Jones",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "\"Philly\" Joe Jones",
-    "target": "Paul Chambers",
-    "targetId": "1046"
-  },
-  {
-    "source": "\"Philly\" Joe Jones",
-    "target": "John Coltrane",
-    "targetId": "1049"
-  },
-  {
-    "source": "\"Philly\" Joe Jones",
-    "target": "Julian \"Cannonball\" Adderly",
-    "targetId": "1050"
-  },
-  {
-    "source": "\"Philly\" Joe Jones",
-    "target": "Red Garland",
-    "targetId": "7068"
-  },
-  {
-    "source": "\"Philly\" Joe Jones",
-    "target": "Donald Byrd",
-    "targetId": "7257"
-  },
-  {
-    "source": "\"Philly\" Joe Jones",
-    "target": "Horace Silver",
-    "targetId": "7261"
-  },
-  {
-    "source": "\"Philly\" Joe Jones",
-    "target": "Kenny Burrell",
-    "targetId": "7926"
-  }
-]
+{
+  "source": "\"Philly\" Joe Jones",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Paul Chambers",
+      "targetId": "1046"
+    },
+    {
+      "name": "John Coltrane",
+      "targetId": "1049"
+    },
+    {
+      "name": "Julian \"Cannonball\" Adderly",
+      "targetId": "1050"
+    },
+    {
+      "name": "Red Garland",
+      "targetId": "7068"
+    },
+    {
+      "name": "Donald Byrd",
+      "targetId": "7257"
+    },
+    {
+      "name": "Horace Silver",
+      "targetId": "7261"
+    },
+    {
+      "name": "Kenny Burrell",
+      "targetId": "7926"
+    }
+  ]
+}

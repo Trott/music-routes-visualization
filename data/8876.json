@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Derek Holt",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Derek Holt",
-    "target": "Lisa Loeb",
-    "targetId": "8844"
-  },
-  {
-    "source": "Derek Holt",
-    "target": "Thom Schuyler",
-    "targetId": "8877"
-  }
-]
+{
+  "source": "Derek Holt",
+  "targets": [
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Lisa Loeb",
+      "targetId": "8844"
+    },
+    {
+      "name": "Thom Schuyler",
+      "targetId": "8877"
+    }
+  ]
+}

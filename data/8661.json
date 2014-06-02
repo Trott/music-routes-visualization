@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jack Johnson",
-    "target": "Alice Cooper",
-    "targetId": "1285"
-  },
-  {
-    "source": "Jack Johnson",
-    "target": "Joey Kramer",
-    "targetId": "1891"
-  },
-  {
-    "source": "Jack Johnson",
-    "target": "Tom Hamilton",
-    "targetId": "1893"
-  },
-  {
-    "source": "Jack Johnson",
-    "target": "Jon Bon Jovi",
-    "targetId": "3422"
-  },
-  {
-    "source": "Jack Johnson",
-    "target": "Mark Frazier",
-    "targetId": "8662"
-  }
-]
+{
+  "source": "Jack Johnson",
+  "targets": [
+    {
+      "name": "Alice Cooper",
+      "targetId": "1285"
+    },
+    {
+      "name": "Joey Kramer",
+      "targetId": "1891"
+    },
+    {
+      "name": "Tom Hamilton",
+      "targetId": "1893"
+    },
+    {
+      "name": "Jon Bon Jovi",
+      "targetId": "3422"
+    },
+    {
+      "name": "Mark Frazier",
+      "targetId": "8662"
+    }
+  ]
+}

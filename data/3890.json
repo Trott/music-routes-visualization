@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Gary Chester",
-    "target": "John Denver",
-    "targetId": "2523"
-  },
-  {
-    "source": "Gary Chester",
-    "target": "Frank Owens",
-    "targetId": "3888"
-  },
-  {
-    "source": "Gary Chester",
-    "target": "Bill Danoff",
-    "targetId": "3891"
-  },
-  {
-    "source": "Gary Chester",
-    "target": "Taffy Nivert",
-    "targetId": "3892"
-  },
-  {
-    "source": "Gary Chester",
-    "target": "Eric Weissberg",
-    "targetId": "3893"
-  }
-]
+{
+  "source": "Gary Chester",
+  "targets": [
+    {
+      "name": "John Denver",
+      "targetId": "2523"
+    },
+    {
+      "name": "Frank Owens",
+      "targetId": "3888"
+    },
+    {
+      "name": "Bill Danoff",
+      "targetId": "3891"
+    },
+    {
+      "name": "Taffy Nivert",
+      "targetId": "3892"
+    },
+    {
+      "name": "Eric Weissberg",
+      "targetId": "3893"
+    }
+  ]
+}

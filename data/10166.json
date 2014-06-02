@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jennifer Charles",
-    "target": "Mike Patton",
-    "targetId": "3213"
-  },
-  {
-    "source": "Jennifer Charles",
-    "target": "Dan The Automator",
-    "targetId": "10164"
-  }
-]
+{
+  "source": "Jennifer Charles",
+  "targets": [
+    {
+      "name": "Mike Patton",
+      "targetId": "3213"
+    },
+    {
+      "name": "Dan The Automator",
+      "targetId": "10164"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Marky Ramone",
-    "target": "Dez Cadena",
-    "targetId": "1625"
-  },
-  {
-    "source": "Marky Ramone",
-    "target": "John Cafiero",
-    "targetId": "2104"
-  },
-  {
-    "source": "Marky Ramone",
-    "target": "Jerry Only",
-    "targetId": "2105"
-  },
-  {
-    "source": "Marky Ramone",
-    "target": "Ivan Julian",
-    "targetId": "2106"
-  },
-  {
-    "source": "Marky Ramone",
-    "target": "Joey Ramone",
-    "targetId": "2108"
-  },
-  {
-    "source": "Marky Ramone",
-    "target": "Johnny Ramone",
-    "targetId": "2109"
-  },
-  {
-    "source": "Marky Ramone",
-    "target": "Dee Dee Ramone",
-    "targetId": "2110"
-  },
-  {
-    "source": "Marky Ramone",
-    "target": "Lemmy Kilmister",
-    "targetId": "2550"
-  }
-]
+{
+  "source": "Marky Ramone",
+  "targets": [
+    {
+      "name": "Dez Cadena",
+      "targetId": "1625"
+    },
+    {
+      "name": "John Cafiero",
+      "targetId": "2104"
+    },
+    {
+      "name": "Jerry Only",
+      "targetId": "2105"
+    },
+    {
+      "name": "Ivan Julian",
+      "targetId": "2106"
+    },
+    {
+      "name": "Joey Ramone",
+      "targetId": "2108"
+    },
+    {
+      "name": "Johnny Ramone",
+      "targetId": "2109"
+    },
+    {
+      "name": "Dee Dee Ramone",
+      "targetId": "2110"
+    },
+    {
+      "name": "Lemmy Kilmister",
+      "targetId": "2550"
+    }
+  ]
+}

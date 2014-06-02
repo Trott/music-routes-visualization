@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jim Simpson",
-    "target": "Tommy McClendon",
-    "targetId": "5014"
-  },
-  {
-    "source": "Jim Simpson",
-    "target": "Phil Mogg",
-    "targetId": "5016"
-  },
-  {
-    "source": "Jim Simpson",
-    "target": "Paul Gray",
-    "targetId": "5017"
-  },
-  {
-    "source": "Jim Simpson",
-    "target": "Paul Raymond",
-    "targetId": "5018"
-  }
-]
+{
+  "source": "Jim Simpson",
+  "targets": [
+    {
+      "name": "Tommy McClendon",
+      "targetId": "5014"
+    },
+    {
+      "name": "Phil Mogg",
+      "targetId": "5016"
+    },
+    {
+      "name": "Paul Gray",
+      "targetId": "5017"
+    },
+    {
+      "name": "Paul Raymond",
+      "targetId": "5018"
+    }
+  ]
+}

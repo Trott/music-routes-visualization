@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Joe Newman",
-    "target": "Albert Ayler",
-    "targetId": "1074"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Ella Fitzgerald",
-    "targetId": "1786"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Billie Holiday",
-    "targetId": "2704"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Count Basie",
-    "targetId": "2745"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Joe Williams",
-    "targetId": "2746"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Wendell Culley",
-    "targetId": "2747"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Thad Jones",
-    "targetId": "2748"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Reunald Jones",
-    "targetId": "2749"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Henry Coker",
-    "targetId": "2751"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Bill Hughes",
-    "targetId": "2752"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Benny Powell",
-    "targetId": "2753"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Frank Foster",
-    "targetId": "2754"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Charlie Fowlkes",
-    "targetId": "2755"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Bill Graham",
-    "targetId": "2756"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Freddie Green",
-    "targetId": "2757"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Frank Wess",
-    "targetId": "2758"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Sonny Payne",
-    "targetId": "2759"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Marshall Royal",
-    "targetId": "2760"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Eddie Jones",
-    "targetId": "2761"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Gus Johnson",
-    "targetId": "7162"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Paul Quinichette",
-    "targetId": "7163"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Seldon Powell",
-    "targetId": "8394"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Bill Folwell",
-    "targetId": "8395"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Buddy Lucas",
-    "targetId": "8396"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Garnett Brown",
-    "targetId": "8397"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Burt Collins",
-    "targetId": "8398"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Call Cobbs",
-    "targetId": "8399"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Rose Marie McCoy",
-    "targetId": "8400"
-  },
-  {
-    "source": "Joe Newman",
-    "target": "Mary Maria Parks",
-    "targetId": "8401"
-  }
-]
+{
+  "source": "Joe Newman",
+  "targets": [
+    {
+      "name": "Albert Ayler",
+      "targetId": "1074"
+    },
+    {
+      "name": "Ella Fitzgerald",
+      "targetId": "1786"
+    },
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    },
+    {
+      "name": "Billie Holiday",
+      "targetId": "2704"
+    },
+    {
+      "name": "Count Basie",
+      "targetId": "2745"
+    },
+    {
+      "name": "Joe Williams",
+      "targetId": "2746"
+    },
+    {
+      "name": "Wendell Culley",
+      "targetId": "2747"
+    },
+    {
+      "name": "Thad Jones",
+      "targetId": "2748"
+    },
+    {
+      "name": "Reunald Jones",
+      "targetId": "2749"
+    },
+    {
+      "name": "Henry Coker",
+      "targetId": "2751"
+    },
+    {
+      "name": "Bill Hughes",
+      "targetId": "2752"
+    },
+    {
+      "name": "Benny Powell",
+      "targetId": "2753"
+    },
+    {
+      "name": "Frank Foster",
+      "targetId": "2754"
+    },
+    {
+      "name": "Charlie Fowlkes",
+      "targetId": "2755"
+    },
+    {
+      "name": "Bill Graham",
+      "targetId": "2756"
+    },
+    {
+      "name": "Freddie Green",
+      "targetId": "2757"
+    },
+    {
+      "name": "Frank Wess",
+      "targetId": "2758"
+    },
+    {
+      "name": "Sonny Payne",
+      "targetId": "2759"
+    },
+    {
+      "name": "Marshall Royal",
+      "targetId": "2760"
+    },
+    {
+      "name": "Eddie Jones",
+      "targetId": "2761"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Gus Johnson",
+      "targetId": "7162"
+    },
+    {
+      "name": "Paul Quinichette",
+      "targetId": "7163"
+    },
+    {
+      "name": "Seldon Powell",
+      "targetId": "8394"
+    },
+    {
+      "name": "Bill Folwell",
+      "targetId": "8395"
+    },
+    {
+      "name": "Buddy Lucas",
+      "targetId": "8396"
+    },
+    {
+      "name": "Garnett Brown",
+      "targetId": "8397"
+    },
+    {
+      "name": "Burt Collins",
+      "targetId": "8398"
+    },
+    {
+      "name": "Call Cobbs",
+      "targetId": "8399"
+    },
+    {
+      "name": "Rose Marie McCoy",
+      "targetId": "8400"
+    },
+    {
+      "name": "Mary Maria Parks",
+      "targetId": "8401"
+    }
+  ]
+}

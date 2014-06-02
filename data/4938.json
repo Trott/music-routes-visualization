@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jerry Vessel",
-    "target": "Anthony Koutsos",
-    "targetId": "4936"
-  },
-  {
-    "source": "Jerry Vessel",
-    "target": "Mark Kozelek",
-    "targetId": "4937"
-  },
-  {
-    "source": "Jerry Vessel",
-    "target": "Phil Carney",
-    "targetId": "4939"
-  }
-]
+{
+  "source": "Jerry Vessel",
+  "targets": [
+    {
+      "name": "Anthony Koutsos",
+      "targetId": "4936"
+    },
+    {
+      "name": "Mark Kozelek",
+      "targetId": "4937"
+    },
+    {
+      "name": "Phil Carney",
+      "targetId": "4939"
+    }
+  ]
+}

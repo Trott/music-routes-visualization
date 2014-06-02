@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Joe Henderson",
-    "target": "Chick Corea",
-    "targetId": "919"
-  },
-  {
-    "source": "Joe Henderson",
-    "target": "Gary Peacock",
-    "targetId": "1071"
-  },
-  {
-    "source": "Joe Henderson",
-    "target": "Roy Haynes",
-    "targetId": "1073"
-  }
-]
+{
+  "source": "Joe Henderson",
+  "targets": [
+    {
+      "name": "Chick Corea",
+      "targetId": "919"
+    },
+    {
+      "name": "Gary Peacock",
+      "targetId": "1071"
+    },
+    {
+      "name": "Roy Haynes",
+      "targetId": "1073"
+    }
+  ]
+}

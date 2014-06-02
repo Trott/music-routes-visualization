@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Margo Buchanan",
-    "target": "Shirley Bassey",
-    "targetId": "4525"
-  },
-  {
-    "source": "Margo Buchanan",
-    "target": "Catherine Feeney",
-    "targetId": "4526"
-  },
-  {
-    "source": "Margo Buchanan",
-    "target": "Nikki Lamborn",
-    "targetId": "4528"
-  },
-  {
-    "source": "Margo Buchanan",
-    "target": "Rietta Austin",
-    "targetId": "4529"
-  },
-  {
-    "source": "Margo Buchanan",
-    "target": "Murray Gould",
-    "targetId": "4530"
-  }
-]
+{
+  "source": "Margo Buchanan",
+  "targets": [
+    {
+      "name": "Shirley Bassey",
+      "targetId": "4525"
+    },
+    {
+      "name": "Catherine Feeney",
+      "targetId": "4526"
+    },
+    {
+      "name": "Nikki Lamborn",
+      "targetId": "4528"
+    },
+    {
+      "name": "Rietta Austin",
+      "targetId": "4529"
+    },
+    {
+      "name": "Murray Gould",
+      "targetId": "4530"
+    }
+  ]
+}

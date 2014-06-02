@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jean Smegma",
-    "target": "Mary Mammary",
-    "targetId": "9381"
-  },
-  {
-    "source": "Jean Smegma",
-    "target": "Tina Bulimia",
-    "targetId": "9382"
-  },
-  {
-    "source": "Jean Smegma",
-    "target": "Buni Lamor",
-    "targetId": "9383"
-  }
-]
+{
+  "source": "Jean Smegma",
+  "targets": [
+    {
+      "name": "Mary Mammary",
+      "targetId": "9381"
+    },
+    {
+      "name": "Tina Bulimia",
+      "targetId": "9382"
+    },
+    {
+      "name": "Buni Lamor",
+      "targetId": "9383"
+    }
+  ]
+}

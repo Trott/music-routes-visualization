@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Larry Faucette",
-    "target": "Fred Smith",
-    "targetId": "1539"
-  },
-  {
-    "source": "Larry Faucette",
-    "target": "Jimi Hendrix",
-    "targetId": "2689"
-  },
-  {
-    "source": "Larry Faucette",
-    "target": "Mike Finnigan",
-    "targetId": "4730"
-  },
-  {
-    "source": "Larry Faucette",
-    "target": "Buddy Miles",
-    "targetId": "6278"
-  }
-]
+{
+  "source": "Larry Faucette",
+  "targets": [
+    {
+      "name": "Fred Smith",
+      "targetId": "1539"
+    },
+    {
+      "name": "Jimi Hendrix",
+      "targetId": "2689"
+    },
+    {
+      "name": "Mike Finnigan",
+      "targetId": "4730"
+    },
+    {
+      "name": "Buddy Miles",
+      "targetId": "6278"
+    }
+  ]
+}

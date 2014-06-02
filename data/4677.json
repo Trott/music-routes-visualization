@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Felice",
-    "target": "Jerry Harrison",
-    "targetId": "192"
-  },
-  {
-    "source": "John Felice",
-    "target": "Jonathan Richman",
-    "targetId": "953"
-  },
-  {
-    "source": "John Felice",
-    "target": "David Robinson",
-    "targetId": "954"
-  },
-  {
-    "source": "John Felice",
-    "target": "Ernie Brooks",
-    "targetId": "955"
-  },
-  {
-    "source": "John Felice",
-    "target": "Billy Borgioli",
-    "targetId": "4678"
-  },
-  {
-    "source": "John Felice",
-    "target": "Howard Ferguson",
-    "targetId": "4679"
-  },
-  {
-    "source": "John Felice",
-    "target": "Allen \"Alpo\" Paulino",
-    "targetId": "4680"
-  }
-]
+{
+  "source": "John Felice",
+  "targets": [
+    {
+      "name": "Jerry Harrison",
+      "targetId": "192"
+    },
+    {
+      "name": "Jonathan Richman",
+      "targetId": "953"
+    },
+    {
+      "name": "David Robinson",
+      "targetId": "954"
+    },
+    {
+      "name": "Ernie Brooks",
+      "targetId": "955"
+    },
+    {
+      "name": "Billy Borgioli",
+      "targetId": "4678"
+    },
+    {
+      "name": "Howard Ferguson",
+      "targetId": "4679"
+    },
+    {
+      "name": "Allen \"Alpo\" Paulino",
+      "targetId": "4680"
+    }
+  ]
+}

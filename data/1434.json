@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Bill Ward",
-    "target": "Rob Halford",
-    "targetId": "145"
-  },
-  {
-    "source": "Bill Ward",
-    "target": "Tony Iommi",
-    "targetId": "335"
-  },
-  {
-    "source": "Bill Ward",
-    "target": "Ozzy Osbourne",
-    "targetId": "482"
-  },
-  {
-    "source": "Bill Ward",
-    "target": "Geezer Butler",
-    "targetId": "1433"
-  },
-  {
-    "source": "Bill Ward",
-    "target": "Scott \"Wino\" Weinrich",
-    "targetId": "5322"
-  },
-  {
-    "source": "Bill Ward",
-    "target": "Brian Tilse",
-    "targetId": "5324"
-  },
-  {
-    "source": "Bill Ward",
-    "target": "Jimmy Wood",
-    "targetId": "5325"
-  }
-]
+{
+  "source": "Bill Ward",
+  "targets": [
+    {
+      "name": "Rob Halford",
+      "targetId": "145"
+    },
+    {
+      "name": "Tony Iommi",
+      "targetId": "335"
+    },
+    {
+      "name": "Ozzy Osbourne",
+      "targetId": "482"
+    },
+    {
+      "name": "Geezer Butler",
+      "targetId": "1433"
+    },
+    {
+      "name": "Scott \"Wino\" Weinrich",
+      "targetId": "5322"
+    },
+    {
+      "name": "Brian Tilse",
+      "targetId": "5324"
+    },
+    {
+      "name": "Jimmy Wood",
+      "targetId": "5325"
+    }
+  ]
+}

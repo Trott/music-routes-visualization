@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Darius Rucker",
-    "target": "David Crosby",
-    "targetId": "511"
-  },
-  {
-    "source": "Darius Rucker",
-    "target": "Jill Scott",
-    "targetId": "6698"
-  },
-  {
-    "source": "Darius Rucker",
-    "target": "Vidal Davis",
-    "targetId": "6723"
-  },
-  {
-    "source": "Darius Rucker",
-    "target": "Andre Harris",
-    "targetId": "6724"
-  },
-  {
-    "source": "Darius Rucker",
-    "target": "Jim \"Soni\" Sonefeld",
-    "targetId": "10335"
-  },
-  {
-    "source": "Darius Rucker",
-    "target": "Dean Felber",
-    "targetId": "10336"
-  },
-  {
-    "source": "Darius Rucker",
-    "target": "Mark Bryan",
-    "targetId": "10337"
-  }
-]
+{
+  "source": "Darius Rucker",
+  "targets": [
+    {
+      "name": "David Crosby",
+      "targetId": "511"
+    },
+    {
+      "name": "Jill Scott",
+      "targetId": "6698"
+    },
+    {
+      "name": "Vidal Davis",
+      "targetId": "6723"
+    },
+    {
+      "name": "Andre Harris",
+      "targetId": "6724"
+    },
+    {
+      "name": "Jim \"Soni\" Sonefeld",
+      "targetId": "10335"
+    },
+    {
+      "name": "Dean Felber",
+      "targetId": "10336"
+    },
+    {
+      "name": "Mark Bryan",
+      "targetId": "10337"
+    }
+  ]
+}

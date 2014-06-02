@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Larry Gales",
-    "target": "Thelonious Monk",
-    "targetId": "7250"
-  },
-  {
-    "source": "Larry Gales",
-    "target": "Charlie Rouse",
-    "targetId": "7255"
-  },
-  {
-    "source": "Larry Gales",
-    "target": "Ben Riley",
-    "targetId": "9557"
-  }
-]
+{
+  "source": "Larry Gales",
+  "targets": [
+    {
+      "name": "Thelonious Monk",
+      "targetId": "7250"
+    },
+    {
+      "name": "Charlie Rouse",
+      "targetId": "7255"
+    },
+    {
+      "name": "Ben Riley",
+      "targetId": "9557"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Peter Visser",
-    "target": "Carol van Dyk",
-    "targetId": "6370"
-  },
-  {
-    "source": "Peter Visser",
-    "target": "Herman Bunskoeke",
-    "targetId": "6372"
-  },
-  {
-    "source": "Peter Visser",
-    "target": "Jeroen Blankert",
-    "targetId": "6373"
-  }
-]
+{
+  "source": "Peter Visser",
+  "targets": [
+    {
+      "name": "Carol van Dyk",
+      "targetId": "6370"
+    },
+    {
+      "name": "Herman Bunskoeke",
+      "targetId": "6372"
+    },
+    {
+      "name": "Jeroen Blankert",
+      "targetId": "6373"
+    }
+  ]
+}

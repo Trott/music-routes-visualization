@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Matt Freeman",
-    "target": "Travis Barker",
-    "targetId": "1559"
-  },
-  {
-    "source": "Matt Freeman",
-    "target": "Tim Armstrong",
-    "targetId": "2551"
-  },
-  {
-    "source": "Matt Freeman",
-    "target": "Rob Aston",
-    "targetId": "8922"
-  }
-]
+{
+  "source": "Matt Freeman",
+  "targets": [
+    {
+      "name": "Travis Barker",
+      "targetId": "1559"
+    },
+    {
+      "name": "Tim Armstrong",
+      "targetId": "2551"
+    },
+    {
+      "name": "Rob Aston",
+      "targetId": "8922"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jon Erickson",
-    "target": "Xan McCurdy",
-    "targetId": "2606"
-  },
-  {
-    "source": "Jon Erickson",
-    "target": "Marc Capelle",
-    "targetId": "2640"
-  },
-  {
-    "source": "Jon Erickson",
-    "target": "Bart Davenport",
-    "targetId": "6864"
-  },
-  {
-    "source": "Jon Erickson",
-    "target": "Ben Wayne",
-    "targetId": "6866"
-  }
-]
+{
+  "source": "Jon Erickson",
+  "targets": [
+    {
+      "name": "Xan McCurdy",
+      "targetId": "2606"
+    },
+    {
+      "name": "Marc Capelle",
+      "targetId": "2640"
+    },
+    {
+      "name": "Bart Davenport",
+      "targetId": "6864"
+    },
+    {
+      "name": "Ben Wayne",
+      "targetId": "6866"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "John Barnes",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "John Barnes",
-    "target": "Slash",
-    "targetId": "1287"
-  },
-  {
-    "source": "John Barnes",
-    "target": "Terry Jackson",
-    "targetId": "1300"
-  },
-  {
-    "source": "John Barnes",
-    "target": "Tim Pierce",
-    "targetId": "1718"
-  },
-  {
-    "source": "John Barnes",
-    "target": "Bryan Loren",
-    "targetId": "6268"
-  },
-  {
-    "source": "John Barnes",
-    "target": "Jasun Martz",
-    "targetId": "6269"
-  },
-  {
-    "source": "John Barnes",
-    "target": "Bill Bottrell",
-    "targetId": "6271"
-  },
-  {
-    "source": "John Barnes",
-    "target": "Brad Buxer",
-    "targetId": "6272"
-  }
-]
+{
+  "source": "John Barnes",
+  "targets": [
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Slash",
+      "targetId": "1287"
+    },
+    {
+      "name": "Terry Jackson",
+      "targetId": "1300"
+    },
+    {
+      "name": "Tim Pierce",
+      "targetId": "1718"
+    },
+    {
+      "name": "Bryan Loren",
+      "targetId": "6268"
+    },
+    {
+      "name": "Jasun Martz",
+      "targetId": "6269"
+    },
+    {
+      "name": "Bill Bottrell",
+      "targetId": "6271"
+    },
+    {
+      "name": "Brad Buxer",
+      "targetId": "6272"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Del Palmer",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Del Palmer",
-    "target": "Kate Bush",
-    "targetId": "2197"
-  },
-  {
-    "source": "Del Palmer",
-    "target": "Andrew Fairweather-Low",
-    "targetId": "3184"
-  },
-  {
-    "source": "Del Palmer",
-    "target": "John Giblin",
-    "targetId": "8312"
-  },
-  {
-    "source": "Del Palmer",
-    "target": "Albert McIntosh",
-    "targetId": "10727"
-  },
-  {
-    "source": "Del Palmer",
-    "target": "Dan McIntosh",
-    "targetId": "10729"
-  }
-]
+{
+  "source": "Del Palmer",
+  "targets": [
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Kate Bush",
+      "targetId": "2197"
+    },
+    {
+      "name": "Andrew Fairweather-Low",
+      "targetId": "3184"
+    },
+    {
+      "name": "John Giblin",
+      "targetId": "8312"
+    },
+    {
+      "name": "Albert McIntosh",
+      "targetId": "10727"
+    },
+    {
+      "name": "Dan McIntosh",
+      "targetId": "10729"
+    }
+  ]
+}

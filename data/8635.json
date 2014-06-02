@@ -1,42 +1,37 @@
-[
-  {
-    "source": "John Hall",
-    "target": "Bill Payne",
-    "targetId": "280"
-  },
-  {
-    "source": "John Hall",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "John Hall",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "John Hall",
-    "target": "Jackson Browne",
-    "targetId": "669"
-  },
-  {
-    "source": "John Hall",
-    "target": "Bonnie Raitt",
-    "targetId": "692"
-  },
-  {
-    "source": "John Hall",
-    "target": "Rosemary Butler",
-    "targetId": "1015"
-  },
-  {
-    "source": "John Hall",
-    "target": "Michael Utley",
-    "targetId": "3057"
-  },
-  {
-    "source": "John Hall",
-    "target": "Fred Tackett",
-    "targetId": "3412"
-  }
-]
+{
+  "source": "John Hall",
+  "targets": [
+    {
+      "name": "Bill Payne",
+      "targetId": "280"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Jackson Browne",
+      "targetId": "669"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "targetId": "692"
+    },
+    {
+      "name": "Rosemary Butler",
+      "targetId": "1015"
+    },
+    {
+      "name": "Michael Utley",
+      "targetId": "3057"
+    },
+    {
+      "name": "Fred Tackett",
+      "targetId": "3412"
+    }
+  ]
+}

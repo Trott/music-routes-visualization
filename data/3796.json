@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Nick Ward",
-    "target": "Peter Koppes",
-    "targetId": "3793"
-  },
-  {
-    "source": "Nick Ward",
-    "target": "Marty Willson-Piper",
-    "targetId": "3794"
-  },
-  {
-    "source": "Nick Ward",
-    "target": "Steve Kilbey",
-    "targetId": "3797"
-  }
-]
+{
+  "source": "Nick Ward",
+  "targets": [
+    {
+      "name": "Peter Koppes",
+      "targetId": "3793"
+    },
+    {
+      "name": "Marty Willson-Piper",
+      "targetId": "3794"
+    },
+    {
+      "name": "Steve Kilbey",
+      "targetId": "3797"
+    }
+  ]
+}

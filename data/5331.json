@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Bobby Whitlock",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Jim Price",
-    "targetId": "3197"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Gary Wright",
-    "targetId": "3199"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Duane Allman",
-    "targetId": "5303"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Carl Radle",
-    "targetId": "5332"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Gary Brooker",
-    "targetId": "6635"
-  },
-  {
-    "source": "Bobby Whitlock",
-    "target": "Mike Gibbins",
-    "targetId": "6636"
-  }
-]
+{
+  "source": "Bobby Whitlock",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Jim Price",
+      "targetId": "3197"
+    },
+    {
+      "name": "Gary Wright",
+      "targetId": "3199"
+    },
+    {
+      "name": "Duane Allman",
+      "targetId": "5303"
+    },
+    {
+      "name": "Carl Radle",
+      "targetId": "5332"
+    },
+    {
+      "name": "Gary Brooker",
+      "targetId": "6635"
+    },
+    {
+      "name": "Mike Gibbins",
+      "targetId": "6636"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paul Fenton",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  },
-  {
-    "source": "Paul Fenton",
-    "target": "Steve Currie",
-    "targetId": "1827"
-  },
-  {
-    "source": "Paul Fenton",
-    "target": "Davey Lutton",
-    "targetId": "2907"
-  },
-  {
-    "source": "Paul Fenton",
-    "target": "Dino Dines",
-    "targetId": "2913"
-  }
-]
+{
+  "source": "Paul Fenton",
+  "targets": [
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    },
+    {
+      "name": "Steve Currie",
+      "targetId": "1827"
+    },
+    {
+      "name": "Davey Lutton",
+      "targetId": "2907"
+    },
+    {
+      "name": "Dino Dines",
+      "targetId": "2913"
+    }
+  ]
+}

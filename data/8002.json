@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Bob Edmondson",
-    "target": "Julius Wechter",
-    "targetId": "1492"
-  },
-  {
-    "source": "Bob Edmondson",
-    "target": "Lew McCreary",
-    "targetId": "4511"
-  },
-  {
-    "source": "Bob Edmondson",
-    "target": "Herb Alpert",
-    "targetId": "7999"
-  },
-  {
-    "source": "Bob Edmondson",
-    "target": "Lou Pagani",
-    "targetId": "8000"
-  },
-  {
-    "source": "Bob Edmondson",
-    "target": "John Pisano",
-    "targetId": "8001"
-  },
-  {
-    "source": "Bob Edmondson",
-    "target": "Tonni Kalash",
-    "targetId": "8003"
-  },
-  {
-    "source": "Bob Edmondson",
-    "target": "Nick Ceroli",
-    "targetId": "8004"
-  },
-  {
-    "source": "Bob Edmondson",
-    "target": "Pat Senatore",
-    "targetId": "8005"
-  },
-  {
-    "source": "Bob Edmondson",
-    "target": "Pete Jolly",
-    "targetId": "8006"
-  }
-]
+{
+  "source": "Bob Edmondson",
+  "targets": [
+    {
+      "name": "Julius Wechter",
+      "targetId": "1492"
+    },
+    {
+      "name": "Lew McCreary",
+      "targetId": "4511"
+    },
+    {
+      "name": "Herb Alpert",
+      "targetId": "7999"
+    },
+    {
+      "name": "Lou Pagani",
+      "targetId": "8000"
+    },
+    {
+      "name": "John Pisano",
+      "targetId": "8001"
+    },
+    {
+      "name": "Tonni Kalash",
+      "targetId": "8003"
+    },
+    {
+      "name": "Nick Ceroli",
+      "targetId": "8004"
+    },
+    {
+      "name": "Pat Senatore",
+      "targetId": "8005"
+    },
+    {
+      "name": "Pete Jolly",
+      "targetId": "8006"
+    }
+  ]
+}

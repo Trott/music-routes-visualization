@@ -1,147 +1,121 @@
-[
-  {
-    "source": "Bruce Thomas",
-    "target": "Daryl Hall",
-    "targetId": "53"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Cait O'Riordan",
-    "targetId": "311"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Roy Babbington",
-    "targetId": "1950"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Nick Lowe",
-    "targetId": "3600"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Dave Edmunds",
-    "targetId": "3734"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Mick Jones",
-    "targetId": "4129"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Gary Barnacle",
-    "targetId": "4499"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Caron Wheeler",
-    "targetId": "6733"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Glenn Tilbrook",
-    "targetId": "7275"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Martin Belmont",
-    "targetId": "7276"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Chet Baker",
-    "targetId": "8133"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "John McFee",
-    "targetId": "9884"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Jim Paterson",
-    "targetId": "9900"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Jeff Blythe",
-    "targetId": "9901"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Paul Speare",
-    "targetId": "9902"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Dave Plews",
-    "targetId": "9903"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Claudia Fontaine",
-    "targetId": "9904"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Stuart Robson",
-    "targetId": "9905"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Dolores Edgin",
-    "targetId": "9906"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Hershel Wiggington",
-    "targetId": "9907"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Joe Babcock",
-    "targetId": "9908"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Tommy Millar",
-    "targetId": "9909"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Davey Payne",
-    "targetId": "9910"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Jimmy Cliff",
-    "targetId": "9911"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Green Gartside",
-    "targetId": "9936"
-  },
-  {
-    "source": "Bruce Thomas",
-    "target": "Pete Whyman",
-    "targetId": "9937"
-  }
-]
+{
+  "source": "Bruce Thomas",
+  "targets": [
+    {
+      "name": "Daryl Hall",
+      "targetId": "53"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Cait O'Riordan",
+      "targetId": "311"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Roy Babbington",
+      "targetId": "1950"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Nick Lowe",
+      "targetId": "3600"
+    },
+    {
+      "name": "Dave Edmunds",
+      "targetId": "3734"
+    },
+    {
+      "name": "Mick Jones",
+      "targetId": "4129"
+    },
+    {
+      "name": "Gary Barnacle",
+      "targetId": "4499"
+    },
+    {
+      "name": "Caron Wheeler",
+      "targetId": "6733"
+    },
+    {
+      "name": "Glenn Tilbrook",
+      "targetId": "7275"
+    },
+    {
+      "name": "Martin Belmont",
+      "targetId": "7276"
+    },
+    {
+      "name": "Chet Baker",
+      "targetId": "8133"
+    },
+    {
+      "name": "John McFee",
+      "targetId": "9884"
+    },
+    {
+      "name": "Jim Paterson",
+      "targetId": "9900"
+    },
+    {
+      "name": "Jeff Blythe",
+      "targetId": "9901"
+    },
+    {
+      "name": "Paul Speare",
+      "targetId": "9902"
+    },
+    {
+      "name": "Dave Plews",
+      "targetId": "9903"
+    },
+    {
+      "name": "Claudia Fontaine",
+      "targetId": "9904"
+    },
+    {
+      "name": "Stuart Robson",
+      "targetId": "9905"
+    },
+    {
+      "name": "Dolores Edgin",
+      "targetId": "9906"
+    },
+    {
+      "name": "Hershel Wiggington",
+      "targetId": "9907"
+    },
+    {
+      "name": "Joe Babcock",
+      "targetId": "9908"
+    },
+    {
+      "name": "Tommy Millar",
+      "targetId": "9909"
+    },
+    {
+      "name": "Davey Payne",
+      "targetId": "9910"
+    },
+    {
+      "name": "Jimmy Cliff",
+      "targetId": "9911"
+    },
+    {
+      "name": "Green Gartside",
+      "targetId": "9936"
+    },
+    {
+      "name": "Pete Whyman",
+      "targetId": "9937"
+    }
+  ]
+}

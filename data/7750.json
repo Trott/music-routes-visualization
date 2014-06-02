@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ethan James",
-    "target": "David Roback",
-    "targetId": "7745"
-  },
-  {
-    "source": "Ethan James",
-    "target": "Dennis Duck",
-    "targetId": "7746"
-  },
-  {
-    "source": "Ethan James",
-    "target": "Michael Quercio",
-    "targetId": "7749"
-  },
-  {
-    "source": "Ethan James",
-    "target": "Karl Precoda",
-    "targetId": "7753"
-  }
-]
+{
+  "source": "Ethan James",
+  "targets": [
+    {
+      "name": "David Roback",
+      "targetId": "7745"
+    },
+    {
+      "name": "Dennis Duck",
+      "targetId": "7746"
+    },
+    {
+      "name": "Michael Quercio",
+      "targetId": "7749"
+    },
+    {
+      "name": "Karl Precoda",
+      "targetId": "7753"
+    }
+  ]
+}

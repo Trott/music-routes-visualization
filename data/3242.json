@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Mike Edwards",
-    "target": "Jeff Lynne",
-    "targetId": "224"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Michael de Albuquerque",
-    "targetId": "3239"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Bev Bevan",
-    "targetId": "3240"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Colin Walker",
-    "targetId": "3241"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Richard Tandy",
-    "targetId": "3243"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Mik Kaminski",
-    "targetId": "3244"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Wilf Gibson",
-    "targetId": "3245"
-  }
-]
+{
+  "source": "Mike Edwards",
+  "targets": [
+    {
+      "name": "Jeff Lynne",
+      "targetId": "224"
+    },
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    },
+    {
+      "name": "Michael de Albuquerque",
+      "targetId": "3239"
+    },
+    {
+      "name": "Bev Bevan",
+      "targetId": "3240"
+    },
+    {
+      "name": "Colin Walker",
+      "targetId": "3241"
+    },
+    {
+      "name": "Richard Tandy",
+      "targetId": "3243"
+    },
+    {
+      "name": "Mik Kaminski",
+      "targetId": "3244"
+    },
+    {
+      "name": "Wilf Gibson",
+      "targetId": "3245"
+    }
+  ]
+}

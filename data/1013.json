@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Michael Wolff",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "Michael Wolff",
-    "target": "Sheldon Gomberg",
-    "targetId": "1035"
-  },
-  {
-    "source": "Michael Wolff",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  }
-]
+{
+  "source": "Michael Wolff",
+  "targets": [
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Sheldon Gomberg",
+      "targetId": "1035"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    }
+  ]
+}

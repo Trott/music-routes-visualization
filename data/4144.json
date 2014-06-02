@@ -1,42 +1,37 @@
-[
-  {
-    "source": "David Cohen",
-    "target": "Carol Kaye",
-    "targetId": "521"
-  },
-  {
-    "source": "David Cohen",
-    "target": "Paul Humphrey",
-    "targetId": "820"
-  },
-  {
-    "source": "David Cohen",
-    "target": "Merry Clayton",
-    "targetId": "1403"
-  },
-  {
-    "source": "David Cohen",
-    "target": "Joe Cocker",
-    "targetId": "4141"
-  },
-  {
-    "source": "David Cohen",
-    "target": "Brenda Holloway",
-    "targetId": "4142"
-  },
-  {
-    "source": "David Cohen",
-    "target": "Patrice Holloway",
-    "targetId": "4143"
-  },
-  {
-    "source": "David Cohen",
-    "target": "Laudir de Oliveira",
-    "targetId": "4145"
-  },
-  {
-    "source": "David Cohen",
-    "target": "Artie Butler",
-    "targetId": "4146"
-  }
-]
+{
+  "source": "David Cohen",
+  "targets": [
+    {
+      "name": "Carol Kaye",
+      "targetId": "521"
+    },
+    {
+      "name": "Paul Humphrey",
+      "targetId": "820"
+    },
+    {
+      "name": "Merry Clayton",
+      "targetId": "1403"
+    },
+    {
+      "name": "Joe Cocker",
+      "targetId": "4141"
+    },
+    {
+      "name": "Brenda Holloway",
+      "targetId": "4142"
+    },
+    {
+      "name": "Patrice Holloway",
+      "targetId": "4143"
+    },
+    {
+      "name": "Laudir de Oliveira",
+      "targetId": "4145"
+    },
+    {
+      "name": "Artie Butler",
+      "targetId": "4146"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bill Mays",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Bill Mays",
-    "target": "Chuck Domanico",
-    "targetId": "6063"
-  },
-  {
-    "source": "Bill Mays",
-    "target": "Dennis Budimir",
-    "targetId": "8786"
-  },
-  {
-    "source": "Bill Mays",
-    "target": "Marlena Shaw",
-    "targetId": "10965"
-  }
-]
+{
+  "source": "Bill Mays",
+  "targets": [
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Chuck Domanico",
+      "targetId": "6063"
+    },
+    {
+      "name": "Dennis Budimir",
+      "targetId": "8786"
+    },
+    {
+      "name": "Marlena Shaw",
+      "targetId": "10965"
+    }
+  ]
+}

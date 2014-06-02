@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dave Lawson",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Dave Lawson",
-    "target": "Tommy Eyre",
-    "targetId": "3190"
-  },
-  {
-    "source": "Dave Lawson",
-    "target": "John Martyn",
-    "targetId": "8311"
-  },
-  {
-    "source": "Dave Lawson",
-    "target": "John Giblin",
-    "targetId": "8312"
-  }
-]
+{
+  "source": "Dave Lawson",
+  "targets": [
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Tommy Eyre",
+      "targetId": "3190"
+    },
+    {
+      "name": "John Martyn",
+      "targetId": "8311"
+    },
+    {
+      "name": "John Giblin",
+      "targetId": "8312"
+    }
+  ]
+}

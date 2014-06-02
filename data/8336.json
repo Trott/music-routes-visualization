@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Amy Kanter",
-    "target": "Allen Lanier",
-    "targetId": "4738"
-  },
-  {
-    "source": "Amy Kanter",
-    "target": "Jim Carroll",
-    "targetId": "8331"
-  },
-  {
-    "source": "Amy Kanter",
-    "target": "Steve Linsley",
-    "targetId": "8332"
-  },
-  {
-    "source": "Amy Kanter",
-    "target": "Wayne Woods",
-    "targetId": "8333"
-  },
-  {
-    "source": "Amy Kanter",
-    "target": "Brian Linsley",
-    "targetId": "8334"
-  },
-  {
-    "source": "Amy Kanter",
-    "target": "Terrell Winn",
-    "targetId": "8335"
-  }
-]
+{
+  "source": "Amy Kanter",
+  "targets": [
+    {
+      "name": "Allen Lanier",
+      "targetId": "4738"
+    },
+    {
+      "name": "Jim Carroll",
+      "targetId": "8331"
+    },
+    {
+      "name": "Steve Linsley",
+      "targetId": "8332"
+    },
+    {
+      "name": "Wayne Woods",
+      "targetId": "8333"
+    },
+    {
+      "name": "Brian Linsley",
+      "targetId": "8334"
+    },
+    {
+      "name": "Terrell Winn",
+      "targetId": "8335"
+    }
+  ]
+}

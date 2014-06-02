@@ -1,182 +1,149 @@
-[
-  {
-    "source": "Martin Drover",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Midge Ure",
-    "targetId": "96"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Chris Cross",
-    "targetId": "100"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Marco Pirroni",
-    "targetId": "831"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Adam Ant",
-    "targetId": "832"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Bogdan Wiczling",
-    "targetId": "833"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Jeff Daly",
-    "targetId": "835"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Mark Isham",
-    "targetId": "924"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Doreen Chanter",
-    "targetId": "1959"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Micky Moody",
-    "targetId": "2521"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Sheena Easton",
-    "targetId": "2658"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Chas Jankel",
-    "targetId": "3373"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "John Altman",
-    "targetId": "3374"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Digby Fairweather",
-    "targetId": "3375"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Malcolm Griffiths",
-    "targetId": "3376"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Michael Henry",
-    "targetId": "3377"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Paul Cosh",
-    "targetId": "3378"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Donovan",
-    "targetId": "3379"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Mo Foster",
-    "targetId": "3380"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Neil Murray",
-    "targetId": "3381"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Linda Taylor",
-    "targetId": "3382"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Sharon Campbell",
-    "targetId": "3384"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Tom Robinson",
-    "targetId": "3385"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "John Etheridge",
-    "targetId": "3387"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Neil Innes",
-    "targetId": "3388"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Ray Russell",
-    "targetId": "3389"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Richard Sinclair",
-    "targetId": "4412"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Andy Ward",
-    "targetId": "4413"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Andy Latimer",
-    "targetId": "4414"
-  },
-  {
-    "source": "Martin Drover",
-    "target": "Peter Bardens",
-    "targetId": "4415"
-  }
-]
+{
+  "source": "Martin Drover",
+  "targets": [
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Midge Ure",
+      "targetId": "96"
+    },
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Chris Cross",
+      "targetId": "100"
+    },
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Marco Pirroni",
+      "targetId": "831"
+    },
+    {
+      "name": "Adam Ant",
+      "targetId": "832"
+    },
+    {
+      "name": "Bogdan Wiczling",
+      "targetId": "833"
+    },
+    {
+      "name": "Jeff Daly",
+      "targetId": "835"
+    },
+    {
+      "name": "Mark Isham",
+      "targetId": "924"
+    },
+    {
+      "name": "Doreen Chanter",
+      "targetId": "1959"
+    },
+    {
+      "name": "Micky Moody",
+      "targetId": "2521"
+    },
+    {
+      "name": "Sheena Easton",
+      "targetId": "2658"
+    },
+    {
+      "name": "Chas Jankel",
+      "targetId": "3373"
+    },
+    {
+      "name": "John Altman",
+      "targetId": "3374"
+    },
+    {
+      "name": "Digby Fairweather",
+      "targetId": "3375"
+    },
+    {
+      "name": "Malcolm Griffiths",
+      "targetId": "3376"
+    },
+    {
+      "name": "Michael Henry",
+      "targetId": "3377"
+    },
+    {
+      "name": "Paul Cosh",
+      "targetId": "3378"
+    },
+    {
+      "name": "Donovan",
+      "targetId": "3379"
+    },
+    {
+      "name": "Mo Foster",
+      "targetId": "3380"
+    },
+    {
+      "name": "Neil Murray",
+      "targetId": "3381"
+    },
+    {
+      "name": "Linda Taylor",
+      "targetId": "3382"
+    },
+    {
+      "name": "Sharon Campbell",
+      "targetId": "3384"
+    },
+    {
+      "name": "Tom Robinson",
+      "targetId": "3385"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "John Etheridge",
+      "targetId": "3387"
+    },
+    {
+      "name": "Neil Innes",
+      "targetId": "3388"
+    },
+    {
+      "name": "Ray Russell",
+      "targetId": "3389"
+    },
+    {
+      "name": "Richard Sinclair",
+      "targetId": "4412"
+    },
+    {
+      "name": "Andy Ward",
+      "targetId": "4413"
+    },
+    {
+      "name": "Andy Latimer",
+      "targetId": "4414"
+    },
+    {
+      "name": "Peter Bardens",
+      "targetId": "4415"
+    }
+  ]
+}

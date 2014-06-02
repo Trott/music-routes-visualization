@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Rick Lazar",
-    "target": "Manu Katché",
-    "targetId": "621"
-  },
-  {
-    "source": "Rick Lazar",
-    "target": "Loreena McKennitt",
-    "targetId": "7048"
-  },
-  {
-    "source": "Rick Lazar",
-    "target": "Brian Hughes",
-    "targetId": "7049"
-  },
-  {
-    "source": "Rick Lazar",
-    "target": "Stuart Bruce",
-    "targetId": "7050"
-  },
-  {
-    "source": "Rick Lazar",
-    "target": "Donald Quan",
-    "targetId": "7051"
-  }
-]
+{
+  "source": "Rick Lazar",
+  "targets": [
+    {
+      "name": "Manu Katché",
+      "targetId": "621"
+    },
+    {
+      "name": "Loreena McKennitt",
+      "targetId": "7048"
+    },
+    {
+      "name": "Brian Hughes",
+      "targetId": "7049"
+    },
+    {
+      "name": "Stuart Bruce",
+      "targetId": "7050"
+    },
+    {
+      "name": "Donald Quan",
+      "targetId": "7051"
+    }
+  ]
+}

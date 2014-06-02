@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dave Arbus",
-    "target": "Roger Daltrey",
-    "targetId": "1982"
-  },
-  {
-    "source": "Dave Arbus",
-    "target": "John Entwistle",
-    "targetId": "1983"
-  },
-  {
-    "source": "Dave Arbus",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "Dave Arbus",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  }
-]
+{
+  "source": "Dave Arbus",
+  "targets": [
+    {
+      "name": "Roger Daltrey",
+      "targetId": "1982"
+    },
+    {
+      "name": "John Entwistle",
+      "targetId": "1983"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    }
+  ]
+}

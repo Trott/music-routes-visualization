@@ -1,72 +1,61 @@
-[
-  {
-    "source": "John Best",
-    "target": "Red Callender",
-    "targetId": "382"
-  },
-  {
-    "source": "John Best",
-    "target": "Bill Douglass",
-    "targetId": "1941"
-  },
-  {
-    "source": "John Best",
-    "target": "Pete Pumiglio",
-    "targetId": "7949"
-  },
-  {
-    "source": "John Best",
-    "target": "Ray Linn",
-    "targetId": "8881"
-  },
-  {
-    "source": "John Best",
-    "target": "Al Hendrickson",
-    "targetId": "8891"
-  },
-  {
-    "source": "John Best",
-    "target": "Herb Harper",
-    "targetId": "9036"
-  },
-  {
-    "source": "John Best",
-    "target": "John Kelson",
-    "targetId": "11001"
-  },
-  {
-    "source": "John Best",
-    "target": "Mel Powell",
-    "targetId": "11002"
-  },
-  {
-    "source": "John Best",
-    "target": "Bumps Myers",
-    "targetId": "11003"
-  },
-  {
-    "source": "John Best",
-    "target": "Vito Mumulo",
-    "targetId": "11004"
-  },
-  {
-    "source": "John Best",
-    "target": "Hoyt Bohannon",
-    "targetId": "11005"
-  },
-  {
-    "source": "John Best",
-    "target": "Tommy Pederson",
-    "targetId": "11006"
-  },
-  {
-    "source": "John Best",
-    "target": "Irving Goodman",
-    "targetId": "11007"
-  },
-  {
-    "source": "John Best",
-    "target": "Jake Porter",
-    "targetId": "11008"
-  }
-]
+{
+  "source": "John Best",
+  "targets": [
+    {
+      "name": "Red Callender",
+      "targetId": "382"
+    },
+    {
+      "name": "Bill Douglass",
+      "targetId": "1941"
+    },
+    {
+      "name": "Pete Pumiglio",
+      "targetId": "7949"
+    },
+    {
+      "name": "Ray Linn",
+      "targetId": "8881"
+    },
+    {
+      "name": "Al Hendrickson",
+      "targetId": "8891"
+    },
+    {
+      "name": "Herb Harper",
+      "targetId": "9036"
+    },
+    {
+      "name": "John Kelson",
+      "targetId": "11001"
+    },
+    {
+      "name": "Mel Powell",
+      "targetId": "11002"
+    },
+    {
+      "name": "Bumps Myers",
+      "targetId": "11003"
+    },
+    {
+      "name": "Vito Mumulo",
+      "targetId": "11004"
+    },
+    {
+      "name": "Hoyt Bohannon",
+      "targetId": "11005"
+    },
+    {
+      "name": "Tommy Pederson",
+      "targetId": "11006"
+    },
+    {
+      "name": "Irving Goodman",
+      "targetId": "11007"
+    },
+    {
+      "name": "Jake Porter",
+      "targetId": "11008"
+    }
+  ]
+}

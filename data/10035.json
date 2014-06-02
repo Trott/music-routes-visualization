@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Ted Perlman",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Ted Perlman",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "Ted Perlman",
-    "target": "Mick Taylor",
-    "targetId": "1995"
-  },
-  {
-    "source": "Ted Perlman",
-    "target": "Peggi Blu",
-    "targetId": "3268"
-  },
-  {
-    "source": "Ted Perlman",
-    "target": "Queen Esther Marrow",
-    "targetId": "3269"
-  },
-  {
-    "source": "Ted Perlman",
-    "target": "Richard Scher",
-    "targetId": "10034"
-  },
-  {
-    "source": "Ted Perlman",
-    "target": "Sly Dunbar",
-    "targetId": "10036"
-  },
-  {
-    "source": "Ted Perlman",
-    "target": "Robbie Shakespeare",
-    "targetId": "10037"
-  }
-]
+{
+  "source": "Ted Perlman",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Mick Taylor",
+      "targetId": "1995"
+    },
+    {
+      "name": "Peggi Blu",
+      "targetId": "3268"
+    },
+    {
+      "name": "Queen Esther Marrow",
+      "targetId": "3269"
+    },
+    {
+      "name": "Richard Scher",
+      "targetId": "10034"
+    },
+    {
+      "name": "Sly Dunbar",
+      "targetId": "10036"
+    },
+    {
+      "name": "Robbie Shakespeare",
+      "targetId": "10037"
+    }
+  ]
+}

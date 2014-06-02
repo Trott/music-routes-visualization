@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Wayne Moss",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Charlie McCoy",
-    "targetId": "1211"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Fred Carter, Jr.",
-    "targetId": "1813"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Jerry Reed",
-    "targetId": "2625"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Roy Huskey, Jr.",
-    "targetId": "2627"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Jerry Carrigan",
-    "targetId": "2628"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Jerry Smith",
-    "targetId": "2629"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Bobby Thompson",
-    "targetId": "2633"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Tim Davis",
-    "targetId": "5564"
-  },
-  {
-    "source": "Wayne Moss",
-    "target": "Bobby Winkelman",
-    "targetId": "5565"
-  }
-]
+{
+  "source": "Wayne Moss",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Charlie McCoy",
+      "targetId": "1211"
+    },
+    {
+      "name": "Fred Carter, Jr.",
+      "targetId": "1813"
+    },
+    {
+      "name": "Jerry Reed",
+      "targetId": "2625"
+    },
+    {
+      "name": "Roy Huskey, Jr.",
+      "targetId": "2627"
+    },
+    {
+      "name": "Jerry Carrigan",
+      "targetId": "2628"
+    },
+    {
+      "name": "Jerry Smith",
+      "targetId": "2629"
+    },
+    {
+      "name": "Bobby Thompson",
+      "targetId": "2633"
+    },
+    {
+      "name": "Tim Davis",
+      "targetId": "5564"
+    },
+    {
+      "name": "Bobby Winkelman",
+      "targetId": "5565"
+    }
+  ]
+}

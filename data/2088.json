@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jerry DiRienzo",
-    "target": "Peaches",
-    "targetId": "1831"
-  },
-  {
-    "source": "Jerry DiRienzo",
-    "target": "Samantha Maloney",
-    "targetId": "5392"
-  },
-  {
-    "source": "Jerry DiRienzo",
-    "target": "Brian O'Connor",
-    "targetId": "5393"
-  }
-]
+{
+  "source": "Jerry DiRienzo",
+  "targets": [
+    {
+      "name": "Peaches",
+      "targetId": "1831"
+    },
+    {
+      "name": "Samantha Maloney",
+      "targetId": "5392"
+    },
+    {
+      "name": "Brian O'Connor",
+      "targetId": "5393"
+    }
+  ]
+}

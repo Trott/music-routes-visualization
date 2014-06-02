@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ernie Isley",
-    "target": "Ronald Isley",
-    "targetId": "4283"
-  },
-  {
-    "source": "Ernie Isley",
-    "target": "Jill Scott",
-    "targetId": "6698"
-  }
-]
+{
+  "source": "Ernie Isley",
+  "targets": [
+    {
+      "name": "Ronald Isley",
+      "targetId": "4283"
+    },
+    {
+      "name": "Jill Scott",
+      "targetId": "6698"
+    }
+  ]
+}

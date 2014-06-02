@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ivan Elias",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Ivan Elias",
-    "target": "Pat Mastelotto",
-    "targetId": "525"
-  },
-  {
-    "source": "Ivan Elias",
-    "target": "Patty Smyth",
-    "targetId": "3347"
-  },
-  {
-    "source": "Ivan Elias",
-    "target": "Frankie LaRocka",
-    "targetId": "3349"
-  },
-  {
-    "source": "Ivan Elias",
-    "target": "Thommy Price",
-    "targetId": "3350"
-  }
-]
+{
+  "source": "Ivan Elias",
+  "targets": [
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "Pat Mastelotto",
+      "targetId": "525"
+    },
+    {
+      "name": "Patty Smyth",
+      "targetId": "3347"
+    },
+    {
+      "name": "Frankie LaRocka",
+      "targetId": "3349"
+    },
+    {
+      "name": "Thommy Price",
+      "targetId": "3350"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bon Scott",
-    "target": "Angus Young",
-    "targetId": "942"
-  },
-  {
-    "source": "Bon Scott",
-    "target": "Malcolm Young",
-    "targetId": "943"
-  },
-  {
-    "source": "Bon Scott",
-    "target": "Cliff Williams",
-    "targetId": "945"
-  },
-  {
-    "source": "Bon Scott",
-    "target": "Phil Rudd",
-    "targetId": "946"
-  }
-]
+{
+  "source": "Bon Scott",
+  "targets": [
+    {
+      "name": "Angus Young",
+      "targetId": "942"
+    },
+    {
+      "name": "Malcolm Young",
+      "targetId": "943"
+    },
+    {
+      "name": "Cliff Williams",
+      "targetId": "945"
+    },
+    {
+      "name": "Phil Rudd",
+      "targetId": "946"
+    }
+  ]
+}

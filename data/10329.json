@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Steve Hogarth",
-    "target": "Pete Trewavas",
-    "targetId": "5573"
-  },
-  {
-    "source": "Steve Hogarth",
-    "target": "Ian Mosley",
-    "targetId": "10326"
-  },
-  {
-    "source": "Steve Hogarth",
-    "target": "Steve Rothery",
-    "targetId": "10327"
-  },
-  {
-    "source": "Steve Hogarth",
-    "target": "Mark Kelly",
-    "targetId": "10328"
-  },
-  {
-    "source": "Steve Hogarth",
-    "target": "Sam Morris",
-    "targetId": "10330"
-  }
-]
+{
+  "source": "Steve Hogarth",
+  "targets": [
+    {
+      "name": "Pete Trewavas",
+      "targetId": "5573"
+    },
+    {
+      "name": "Ian Mosley",
+      "targetId": "10326"
+    },
+    {
+      "name": "Steve Rothery",
+      "targetId": "10327"
+    },
+    {
+      "name": "Mark Kelly",
+      "targetId": "10328"
+    },
+    {
+      "name": "Sam Morris",
+      "targetId": "10330"
+    }
+  ]
+}

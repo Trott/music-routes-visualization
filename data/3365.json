@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Alf Bicknell",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "Marianne Faithfull",
-    "targetId": "604"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "Mal Evans",
-    "targetId": "630"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "Brian Jones",
-    "targetId": "1993"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "Patti Harrison",
-    "targetId": "3363"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "Geoff Emerick",
-    "targetId": "3364"
-  },
-  {
-    "source": "Alf Bicknell",
-    "target": "Neil Aspinall",
-    "targetId": "3366"
-  }
-]
+{
+  "source": "Alf Bicknell",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Marianne Faithfull",
+      "targetId": "604"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Mal Evans",
+      "targetId": "630"
+    },
+    {
+      "name": "Brian Jones",
+      "targetId": "1993"
+    },
+    {
+      "name": "Patti Harrison",
+      "targetId": "3363"
+    },
+    {
+      "name": "Geoff Emerick",
+      "targetId": "3364"
+    },
+    {
+      "name": "Neil Aspinall",
+      "targetId": "3366"
+    }
+  ]
+}

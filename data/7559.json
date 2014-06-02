@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Alex Turner",
-    "target": "Andy Nicholson",
-    "targetId": "7557"
-  },
-  {
-    "source": "Alex Turner",
-    "target": "Matt Helders",
-    "targetId": "7558"
-  },
-  {
-    "source": "Alex Turner",
-    "target": "Jamie Cook",
-    "targetId": "7560"
-  },
-  {
-    "source": "Alex Turner",
-    "target": "Nick O'Malley",
-    "targetId": "7561"
-  },
-  {
-    "source": "Alex Turner",
-    "target": "John Ashton",
-    "targetId": "7562"
-  },
-  {
-    "source": "Alex Turner",
-    "target": "Alison Mosshart",
-    "targetId": "7563"
-  }
-]
+{
+  "source": "Alex Turner",
+  "targets": [
+    {
+      "name": "Andy Nicholson",
+      "targetId": "7557"
+    },
+    {
+      "name": "Matt Helders",
+      "targetId": "7558"
+    },
+    {
+      "name": "Jamie Cook",
+      "targetId": "7560"
+    },
+    {
+      "name": "Nick O'Malley",
+      "targetId": "7561"
+    },
+    {
+      "name": "John Ashton",
+      "targetId": "7562"
+    },
+    {
+      "name": "Alison Mosshart",
+      "targetId": "7563"
+    }
+  ]
+}

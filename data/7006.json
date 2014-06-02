@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Martyn Swain",
-    "target": "Guy Chambers",
-    "targetId": "6515"
-  },
-  {
-    "source": "Martyn Swain",
-    "target": "Karl Wallinger",
-    "targetId": "7000"
-  }
-]
+{
+  "source": "Martyn Swain",
+  "targets": [
+    {
+      "name": "Guy Chambers",
+      "targetId": "6515"
+    },
+    {
+      "name": "Karl Wallinger",
+      "targetId": "7000"
+    }
+  ]
+}

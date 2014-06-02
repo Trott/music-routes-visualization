@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Eric Erlandson",
-    "target": "Pat Smear",
-    "targetId": "784"
-  },
-  {
-    "source": "Eric Erlandson",
-    "target": "Patty Schemel",
-    "targetId": "5345"
-  },
-  {
-    "source": "Eric Erlandson",
-    "target": "Courtney Love",
-    "targetId": "5347"
-  },
-  {
-    "source": "Eric Erlandson",
-    "target": "Jill Emery",
-    "targetId": "5348"
-  },
-  {
-    "source": "Eric Erlandson",
-    "target": "Caroline Rue",
-    "targetId": "5349"
-  }
-]
+{
+  "source": "Eric Erlandson",
+  "targets": [
+    {
+      "name": "Pat Smear",
+      "targetId": "784"
+    },
+    {
+      "name": "Patty Schemel",
+      "targetId": "5345"
+    },
+    {
+      "name": "Courtney Love",
+      "targetId": "5347"
+    },
+    {
+      "name": "Jill Emery",
+      "targetId": "5348"
+    },
+    {
+      "name": "Caroline Rue",
+      "targetId": "5349"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jack Lawrence",
-    "target": "David Grisman",
-    "targetId": "2115"
-  },
-  {
-    "source": "Jack Lawrence",
-    "target": "Doc Watson",
-    "targetId": "3328"
-  }
-]
+{
+  "source": "Jack Lawrence",
+  "targets": [
+    {
+      "name": "David Grisman",
+      "targetId": "2115"
+    },
+    {
+      "name": "Doc Watson",
+      "targetId": "3328"
+    }
+  ]
+}

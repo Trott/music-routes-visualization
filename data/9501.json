@@ -1,52 +1,45 @@
-[
-  {
-    "source": "David Campbell",
-    "target": "James Taylor",
-    "targetId": "991"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Danny Kortchmar",
-    "targetId": "1006"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Merry Clayton",
-    "targetId": "1403"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Carole King",
-    "targetId": "1673"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Charles Larkey",
-    "targetId": "8055"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Curtis Amy",
-    "targetId": "8058"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Joel O'Brien",
-    "targetId": "8059"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Perry Steinberg",
-    "targetId": "9499"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Barry Socher",
-    "targetId": "9500"
-  },
-  {
-    "source": "David Campbell",
-    "target": "Terry King",
-    "targetId": "9502"
-  }
-]
+{
+  "source": "David Campbell",
+  "targets": [
+    {
+      "name": "James Taylor",
+      "targetId": "991"
+    },
+    {
+      "name": "Danny Kortchmar",
+      "targetId": "1006"
+    },
+    {
+      "name": "Merry Clayton",
+      "targetId": "1403"
+    },
+    {
+      "name": "Carole King",
+      "targetId": "1673"
+    },
+    {
+      "name": "Charles Larkey",
+      "targetId": "8055"
+    },
+    {
+      "name": "Curtis Amy",
+      "targetId": "8058"
+    },
+    {
+      "name": "Joel O'Brien",
+      "targetId": "8059"
+    },
+    {
+      "name": "Perry Steinberg",
+      "targetId": "9499"
+    },
+    {
+      "name": "Barry Socher",
+      "targetId": "9500"
+    },
+    {
+      "name": "Terry King",
+      "targetId": "9502"
+    }
+  ]
+}

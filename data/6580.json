@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Miles Pritchett",
-    "target": "Mitchell Connelly",
-    "targetId": "6569"
-  },
-  {
-    "source": "Miles Pritchett",
-    "target": "Angus Stone",
-    "targetId": "6570"
-  },
-  {
-    "source": "Miles Pritchett",
-    "target": "Julia Stone",
-    "targetId": "6571"
-  }
-]
+{
+  "source": "Miles Pritchett",
+  "targets": [
+    {
+      "name": "Mitchell Connelly",
+      "targetId": "6569"
+    },
+    {
+      "name": "Angus Stone",
+      "targetId": "6570"
+    },
+    {
+      "name": "Julia Stone",
+      "targetId": "6571"
+    }
+  ]
+}

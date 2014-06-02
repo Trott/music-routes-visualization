@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Pierre de Reeder",
-    "target": "Jackson Browne",
-    "targetId": "669"
-  },
-  {
-    "source": "Pierre de Reeder",
-    "target": "Jenny Lewis",
-    "targetId": "3025"
-  },
-  {
-    "source": "Pierre de Reeder",
-    "target": "Blake Sennett",
-    "targetId": "3026"
-  },
-  {
-    "source": "Pierre de Reeder",
-    "target": "Jason Boesel",
-    "targetId": "6167"
-  }
-]
+{
+  "source": "Pierre de Reeder",
+  "targets": [
+    {
+      "name": "Jackson Browne",
+      "targetId": "669"
+    },
+    {
+      "name": "Jenny Lewis",
+      "targetId": "3025"
+    },
+    {
+      "name": "Blake Sennett",
+      "targetId": "3026"
+    },
+    {
+      "name": "Jason Boesel",
+      "targetId": "6167"
+    }
+  ]
+}

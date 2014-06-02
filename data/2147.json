@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Russ Rankin",
-    "target": "Bill Stevenson",
-    "targetId": "733"
-  },
-  {
-    "source": "Russ Rankin",
-    "target": "Zach Blair",
-    "targetId": "2143"
-  },
-  {
-    "source": "Russ Rankin",
-    "target": "Donivan Blair",
-    "targetId": "2146"
-  },
-  {
-    "source": "Russ Rankin",
-    "target": "Aaron Dalbec",
-    "targetId": "2148"
-  }
-]
+{
+  "source": "Russ Rankin",
+  "targets": [
+    {
+      "name": "Bill Stevenson",
+      "targetId": "733"
+    },
+    {
+      "name": "Zach Blair",
+      "targetId": "2143"
+    },
+    {
+      "name": "Donivan Blair",
+      "targetId": "2146"
+    },
+    {
+      "name": "Aaron Dalbec",
+      "targetId": "2148"
+    }
+  ]
+}

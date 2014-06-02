@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Rico Reyes",
-    "target": "Gregg Rolie",
-    "targetId": "263"
-  },
-  {
-    "source": "Rico Reyes",
-    "target": "Carlos Santana",
-    "targetId": "1081"
-  },
-  {
-    "source": "Rico Reyes",
-    "target": "Dave Brown",
-    "targetId": "1082"
-  },
-  {
-    "source": "Rico Reyes",
-    "target": "José Areas",
-    "targetId": "1083"
-  },
-  {
-    "source": "Rico Reyes",
-    "target": "Mike Carabello",
-    "targetId": "1084"
-  },
-  {
-    "source": "Rico Reyes",
-    "target": "Michael Shrieve",
-    "targetId": "1085"
-  }
-]
+{
+  "source": "Rico Reyes",
+  "targets": [
+    {
+      "name": "Gregg Rolie",
+      "targetId": "263"
+    },
+    {
+      "name": "Carlos Santana",
+      "targetId": "1081"
+    },
+    {
+      "name": "Dave Brown",
+      "targetId": "1082"
+    },
+    {
+      "name": "José Areas",
+      "targetId": "1083"
+    },
+    {
+      "name": "Mike Carabello",
+      "targetId": "1084"
+    },
+    {
+      "name": "Michael Shrieve",
+      "targetId": "1085"
+    }
+  ]
+}

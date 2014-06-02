@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Mike Lang",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Larry Carlton",
-    "targetId": "506"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Chuck Rainey",
-    "targetId": "722"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Robert Drasnin",
-    "targetId": "836"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Paul Anka",
-    "targetId": "838"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Vinnie Colaiuta",
-    "targetId": "839"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Mike Valerio",
-    "targetId": "840"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Harvey Mason",
-    "targetId": "1320"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "David T. Walker",
-    "targetId": "7817"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Marlena Shaw",
-    "targetId": "10965"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "Larry Nash",
-    "targetId": "10967"
-  },
-  {
-    "source": "Mike Lang",
-    "target": "King Errisson",
-    "targetId": "10968"
-  }
-]
+{
+  "source": "Mike Lang",
+  "targets": [
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Larry Carlton",
+      "targetId": "506"
+    },
+    {
+      "name": "Chuck Rainey",
+      "targetId": "722"
+    },
+    {
+      "name": "Robert Drasnin",
+      "targetId": "836"
+    },
+    {
+      "name": "Paul Anka",
+      "targetId": "838"
+    },
+    {
+      "name": "Vinnie Colaiuta",
+      "targetId": "839"
+    },
+    {
+      "name": "Mike Valerio",
+      "targetId": "840"
+    },
+    {
+      "name": "Harvey Mason",
+      "targetId": "1320"
+    },
+    {
+      "name": "David T. Walker",
+      "targetId": "7817"
+    },
+    {
+      "name": "Marlena Shaw",
+      "targetId": "10965"
+    },
+    {
+      "name": "Larry Nash",
+      "targetId": "10967"
+    },
+    {
+      "name": "King Errisson",
+      "targetId": "10968"
+    }
+  ]
+}

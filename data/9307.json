@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Gary Novak",
-    "target": "Flea",
-    "targetId": "553"
-  },
-  {
-    "source": "Gary Novak",
-    "target": "David Ralicke",
-    "targetId": "5931"
-  },
-  {
-    "source": "Gary Novak",
-    "target": "Greg Kurstin",
-    "targetId": "9044"
-  }
-]
+{
+  "source": "Gary Novak",
+  "targets": [
+    {
+      "name": "Flea",
+      "targetId": "553"
+    },
+    {
+      "name": "David Ralicke",
+      "targetId": "5931"
+    },
+    {
+      "name": "Greg Kurstin",
+      "targetId": "9044"
+    }
+  ]
+}

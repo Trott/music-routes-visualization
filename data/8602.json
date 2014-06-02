@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jeff Ballard",
-    "target": "Matt Chamberlain",
-    "targetId": "182"
-  },
-  {
-    "source": "Jeff Ballard",
-    "target": "Joshua Redman",
-    "targetId": "4232"
-  },
-  {
-    "source": "Jeff Ballard",
-    "target": "Brad Mehldau",
-    "targetId": "8600"
-  },
-  {
-    "source": "Jeff Ballard",
-    "target": "Larry Grenadier",
-    "targetId": "8601"
-  }
-]
+{
+  "source": "Jeff Ballard",
+  "targets": [
+    {
+      "name": "Matt Chamberlain",
+      "targetId": "182"
+    },
+    {
+      "name": "Joshua Redman",
+      "targetId": "4232"
+    },
+    {
+      "name": "Brad Mehldau",
+      "targetId": "8600"
+    },
+    {
+      "name": "Larry Grenadier",
+      "targetId": "8601"
+    }
+  ]
+}

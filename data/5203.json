@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jenny Reeve",
-    "target": "John Cummings",
-    "targetId": "5198"
-  },
-  {
-    "source": "Jenny Reeve",
-    "target": "Gareth Russell",
-    "targetId": "5204"
-  },
-  {
-    "source": "Jenny Reeve",
-    "target": "Jonny Quinn",
-    "targetId": "5205"
-  },
-  {
-    "source": "Jenny Reeve",
-    "target": "Bill Kildea",
-    "targetId": "5206"
-  },
-  {
-    "source": "Jenny Reeve",
-    "target": "Gary Lightbody",
-    "targetId": "5207"
-  },
-  {
-    "source": "Jenny Reeve",
-    "target": "Michael Bannister",
-    "targetId": "5208"
-  }
-]
+{
+  "source": "Jenny Reeve",
+  "targets": [
+    {
+      "name": "John Cummings",
+      "targetId": "5198"
+    },
+    {
+      "name": "Gareth Russell",
+      "targetId": "5204"
+    },
+    {
+      "name": "Jonny Quinn",
+      "targetId": "5205"
+    },
+    {
+      "name": "Bill Kildea",
+      "targetId": "5206"
+    },
+    {
+      "name": "Gary Lightbody",
+      "targetId": "5207"
+    },
+    {
+      "name": "Michael Bannister",
+      "targetId": "5208"
+    }
+  ]
+}

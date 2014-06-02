@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Larrie Londin",
-    "target": "Randy Jackson",
-    "targetId": "59"
-  },
-  {
-    "source": "Larrie Londin",
-    "target": "Steve Perry",
-    "targetId": "71"
-  },
-  {
-    "source": "Larrie Londin",
-    "target": "Neal Schon",
-    "targetId": "174"
-  },
-  {
-    "source": "Larrie Londin",
-    "target": "Jonathan Cain",
-    "targetId": "1745"
-  }
-]
+{
+  "source": "Larrie Londin",
+  "targets": [
+    {
+      "name": "Randy Jackson",
+      "targetId": "59"
+    },
+    {
+      "name": "Steve Perry",
+      "targetId": "71"
+    },
+    {
+      "name": "Neal Schon",
+      "targetId": "174"
+    },
+    {
+      "name": "Jonathan Cain",
+      "targetId": "1745"
+    }
+  ]
+}

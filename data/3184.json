@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Ray Cooper",
-    "targetId": "981"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Liza Strike",
-    "targetId": "983"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Steve Ferrone",
-    "targetId": "1420"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Irene Chanter",
-    "targetId": "1956"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Doreen Chanter",
-    "targetId": "1959"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "John \"Rabbit\" Bundrick",
-    "targetId": "1960"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Barry St. John",
-    "targetId": "2006"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Kate Bush",
-    "targetId": "2197"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Bud Beadle",
-    "targetId": "2910"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Steve Gregory",
-    "targetId": "2911"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Gerry Rafferty",
-    "targetId": "3172"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Gary Taylor",
-    "targetId": "3175"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Glen LeFleur",
-    "targetId": "3181"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Henry Spinetti",
-    "targetId": "3182"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Graham Preskett",
-    "targetId": "3183"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Hugh Burns",
-    "targetId": "3185"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Brian \"BJ\" Cole",
-    "targetId": "3188"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Tommy Eyre",
-    "targetId": "3190"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Eddie Thornton",
-    "targetId": "3368"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Dave Mattacks",
-    "targetId": "5786"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Chuck Leavell",
-    "targetId": "6200"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Jim Jewell",
-    "targetId": "8117"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "John Giblin",
-    "targetId": "8312"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "John David",
-    "targetId": "8627"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Joanne Williams",
-    "targetId": "8628"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Bruce Rowland",
-    "targetId": "8629"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Katie Kissoon",
-    "targetId": "10522"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Del Palmer",
-    "targetId": "10728"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Dan McIntosh",
-    "targetId": "10729"
-  },
-  {
-    "source": "Andrew Fairweather-Low",
-    "target": "Tessa Niles",
-    "targetId": "10859"
-  }
-]
+{
+  "source": "Andrew Fairweather-Low",
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Ray Cooper",
+      "targetId": "981"
+    },
+    {
+      "name": "Liza Strike",
+      "targetId": "983"
+    },
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Steve Ferrone",
+      "targetId": "1420"
+    },
+    {
+      "name": "Irene Chanter",
+      "targetId": "1956"
+    },
+    {
+      "name": "Doreen Chanter",
+      "targetId": "1959"
+    },
+    {
+      "name": "John \"Rabbit\" Bundrick",
+      "targetId": "1960"
+    },
+    {
+      "name": "Barry St. John",
+      "targetId": "2006"
+    },
+    {
+      "name": "Kate Bush",
+      "targetId": "2197"
+    },
+    {
+      "name": "Bud Beadle",
+      "targetId": "2910"
+    },
+    {
+      "name": "Steve Gregory",
+      "targetId": "2911"
+    },
+    {
+      "name": "Gerry Rafferty",
+      "targetId": "3172"
+    },
+    {
+      "name": "Gary Taylor",
+      "targetId": "3175"
+    },
+    {
+      "name": "Glen LeFleur",
+      "targetId": "3181"
+    },
+    {
+      "name": "Henry Spinetti",
+      "targetId": "3182"
+    },
+    {
+      "name": "Graham Preskett",
+      "targetId": "3183"
+    },
+    {
+      "name": "Hugh Burns",
+      "targetId": "3185"
+    },
+    {
+      "name": "Brian \"BJ\" Cole",
+      "targetId": "3188"
+    },
+    {
+      "name": "Tommy Eyre",
+      "targetId": "3190"
+    },
+    {
+      "name": "Eddie Thornton",
+      "targetId": "3368"
+    },
+    {
+      "name": "Dave Mattacks",
+      "targetId": "5786"
+    },
+    {
+      "name": "Chuck Leavell",
+      "targetId": "6200"
+    },
+    {
+      "name": "Jim Jewell",
+      "targetId": "8117"
+    },
+    {
+      "name": "John Giblin",
+      "targetId": "8312"
+    },
+    {
+      "name": "John David",
+      "targetId": "8627"
+    },
+    {
+      "name": "Joanne Williams",
+      "targetId": "8628"
+    },
+    {
+      "name": "Bruce Rowland",
+      "targetId": "8629"
+    },
+    {
+      "name": "Katie Kissoon",
+      "targetId": "10522"
+    },
+    {
+      "name": "Del Palmer",
+      "targetId": "10728"
+    },
+    {
+      "name": "Dan McIntosh",
+      "targetId": "10729"
+    },
+    {
+      "name": "Tessa Niles",
+      "targetId": "10859"
+    }
+  ]
+}

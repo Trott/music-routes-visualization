@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Steve Ramsey",
-    "target": "Brian Ross",
-    "targetId": "7070"
-  },
-  {
-    "source": "Steve Ramsey",
-    "target": "Russ Tippins",
-    "targetId": "7071"
-  },
-  {
-    "source": "Steve Ramsey",
-    "target": "Graeme English",
-    "targetId": "7073"
-  },
-  {
-    "source": "Steve Ramsey",
-    "target": "Sean Taylor",
-    "targetId": "7074"
-  },
-  {
-    "source": "Steve Ramsey",
-    "target": "Keith Baxter",
-    "targetId": "7081"
-  },
-  {
-    "source": "Steve Ramsey",
-    "target": "Dave Pugh",
-    "targetId": "7082"
-  },
-  {
-    "source": "Steve Ramsey",
-    "target": "Fritha Jenkins",
-    "targetId": "7083"
-  },
-  {
-    "source": "Steve Ramsey",
-    "target": "Martin Walkyier",
-    "targetId": "7084"
-  }
-]
+{
+  "source": "Steve Ramsey",
+  "targets": [
+    {
+      "name": "Brian Ross",
+      "targetId": "7070"
+    },
+    {
+      "name": "Russ Tippins",
+      "targetId": "7071"
+    },
+    {
+      "name": "Graeme English",
+      "targetId": "7073"
+    },
+    {
+      "name": "Sean Taylor",
+      "targetId": "7074"
+    },
+    {
+      "name": "Keith Baxter",
+      "targetId": "7081"
+    },
+    {
+      "name": "Dave Pugh",
+      "targetId": "7082"
+    },
+    {
+      "name": "Fritha Jenkins",
+      "targetId": "7083"
+    },
+    {
+      "name": "Martin Walkyier",
+      "targetId": "7084"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jack Ellory",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Jack Ellory",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Jack Ellory",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Jack Ellory",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Jack Ellory",
-    "target": "Christopher Taylor",
-    "targetId": "9720"
-  },
-  {
-    "source": "Jack Ellory",
-    "target": "Richard Taylor",
-    "targetId": "9721"
-  }
-]
+{
+  "source": "Jack Ellory",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Christopher Taylor",
+      "targetId": "9720"
+    },
+    {
+      "name": "Richard Taylor",
+      "targetId": "9721"
+    }
+  ]
+}

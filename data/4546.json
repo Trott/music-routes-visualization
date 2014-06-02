@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Richard Norris",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Richard Norris",
-    "target": "Andrew Mackay",
-    "targetId": "492"
-  },
-  {
-    "source": "Richard Norris",
-    "target": "Steve Sidelnyk",
-    "targetId": "2976"
-  },
-  {
-    "source": "Richard Norris",
-    "target": "Alex Gifford",
-    "targetId": "4538"
-  },
-  {
-    "source": "Richard Norris",
-    "target": "Dave Ball",
-    "targetId": "4542"
-  },
-  {
-    "source": "Richard Norris",
-    "target": "Sacha Souter",
-    "targetId": "4544"
-  },
-  {
-    "source": "Richard Norris",
-    "target": "Dagmar Krause",
-    "targetId": "4545"
-  }
-]
+{
+  "source": "Richard Norris",
+  "targets": [
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Andrew Mackay",
+      "targetId": "492"
+    },
+    {
+      "name": "Steve Sidelnyk",
+      "targetId": "2976"
+    },
+    {
+      "name": "Alex Gifford",
+      "targetId": "4538"
+    },
+    {
+      "name": "Dave Ball",
+      "targetId": "4542"
+    },
+    {
+      "name": "Sacha Souter",
+      "targetId": "4544"
+    },
+    {
+      "name": "Dagmar Krause",
+      "targetId": "4545"
+    }
+  ]
+}

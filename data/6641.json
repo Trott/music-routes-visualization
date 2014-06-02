@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dougie Payne",
-    "target": "Fran Healy",
-    "targetId": "3977"
-  },
-  {
-    "source": "Dougie Payne",
-    "target": "Grant Nicholas",
-    "targetId": "6638"
-  },
-  {
-    "source": "Dougie Payne",
-    "target": "Taka Hirose",
-    "targetId": "6639"
-  },
-  {
-    "source": "Dougie Payne",
-    "target": "Mark Richardson",
-    "targetId": "6640"
-  }
-]
+{
+  "source": "Dougie Payne",
+  "targets": [
+    {
+      "name": "Fran Healy",
+      "targetId": "3977"
+    },
+    {
+      "name": "Grant Nicholas",
+      "targetId": "6638"
+    },
+    {
+      "name": "Taka Hirose",
+      "targetId": "6639"
+    },
+    {
+      "name": "Mark Richardson",
+      "targetId": "6640"
+    }
+  ]
+}

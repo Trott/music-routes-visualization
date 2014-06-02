@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ernie Brooks",
-    "target": "Jerry Harrison",
-    "targetId": "192"
-  },
-  {
-    "source": "Ernie Brooks",
-    "target": "Jonathan Richman",
-    "targetId": "953"
-  },
-  {
-    "source": "Ernie Brooks",
-    "target": "David Robinson",
-    "targetId": "954"
-  },
-  {
-    "source": "Ernie Brooks",
-    "target": "John Cale",
-    "targetId": "956"
-  },
-  {
-    "source": "Ernie Brooks",
-    "target": "John Felice",
-    "targetId": "4677"
-  }
-]
+{
+  "source": "Ernie Brooks",
+  "targets": [
+    {
+      "name": "Jerry Harrison",
+      "targetId": "192"
+    },
+    {
+      "name": "Jonathan Richman",
+      "targetId": "953"
+    },
+    {
+      "name": "David Robinson",
+      "targetId": "954"
+    },
+    {
+      "name": "John Cale",
+      "targetId": "956"
+    },
+    {
+      "name": "John Felice",
+      "targetId": "4677"
+    }
+  ]
+}

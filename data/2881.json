@@ -1,32 +1,29 @@
-[
-  {
-    "source": "James Booker",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "James Booker",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "James Booker",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "James Booker",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "James Booker",
-    "target": "Milt Holland",
-    "targetId": "388"
-  },
-  {
-    "source": "James Booker",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  }
-]
+{
+  "source": "James Booker",
+  "targets": [
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Milt Holland",
+      "targetId": "388"
+    },
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ian Hill",
-    "target": "Rob Halford",
-    "targetId": "145"
-  },
-  {
-    "source": "Ian Hill",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Ian Hill",
-    "target": "K.K. Downing",
-    "targetId": "6020"
-  },
-  {
-    "source": "Ian Hill",
-    "target": "Glenn Tipton",
-    "targetId": "6021"
-  },
-  {
-    "source": "Ian Hill",
-    "target": "Dave Holland",
-    "targetId": "6023"
-  },
-  {
-    "source": "Ian Hill",
-    "target": "Les Binks",
-    "targetId": "7980"
-  }
-]
+{
+  "source": "Ian Hill",
+  "targets": [
+    {
+      "name": "Rob Halford",
+      "targetId": "145"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "K.K. Downing",
+      "targetId": "6020"
+    },
+    {
+      "name": "Glenn Tipton",
+      "targetId": "6021"
+    },
+    {
+      "name": "Dave Holland",
+      "targetId": "6023"
+    },
+    {
+      "name": "Les Binks",
+      "targetId": "7980"
+    }
+  ]
+}

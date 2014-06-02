@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ralph Hammer",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Ralph Hammer",
-    "target": "Larry \"Nastee\" Latimer",
-    "targetId": "7448"
-  },
-  {
-    "source": "Ralph Hammer",
-    "target": "Clarence Bell",
-    "targetId": "10918"
-  }
-]
+{
+  "source": "Ralph Hammer",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Larry \"Nastee\" Latimer",
+      "targetId": "7448"
+    },
+    {
+      "name": "Clarence Bell",
+      "targetId": "10918"
+    }
+  ]
+}

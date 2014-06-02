@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Bobby Elliot",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "Bobby Elliot",
-    "target": "Tony Hicks",
-    "targetId": "10414"
-  },
-  {
-    "source": "Bobby Elliot",
-    "target": "Terry Sylvester",
-    "targetId": "10415"
-  },
-  {
-    "source": "Bobby Elliot",
-    "target": "Allan Clarke",
-    "targetId": "10416"
-  },
-  {
-    "source": "Bobby Elliot",
-    "target": "Bernie Calvert",
-    "targetId": "10418"
-  },
-  {
-    "source": "Bobby Elliot",
-    "target": "Eric Haydock",
-    "targetId": "10419"
-  }
-]
+{
+  "source": "Bobby Elliot",
+  "targets": [
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "Tony Hicks",
+      "targetId": "10414"
+    },
+    {
+      "name": "Terry Sylvester",
+      "targetId": "10415"
+    },
+    {
+      "name": "Allan Clarke",
+      "targetId": "10416"
+    },
+    {
+      "name": "Bernie Calvert",
+      "targetId": "10418"
+    },
+    {
+      "name": "Eric Haydock",
+      "targetId": "10419"
+    }
+  ]
+}

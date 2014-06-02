@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Troy Luccketta",
-    "target": "Jeff Keith",
-    "targetId": "5008"
-  },
-  {
-    "source": "Troy Luccketta",
-    "target": "Brian Wheat",
-    "targetId": "5009"
-  },
-  {
-    "source": "Troy Luccketta",
-    "target": "Frank Hannon",
-    "targetId": "5010"
-  },
-  {
-    "source": "Troy Luccketta",
-    "target": "Tommy Skeoch",
-    "targetId": "5012"
-  }
-]
+{
+  "source": "Troy Luccketta",
+  "targets": [
+    {
+      "name": "Jeff Keith",
+      "targetId": "5008"
+    },
+    {
+      "name": "Brian Wheat",
+      "targetId": "5009"
+    },
+    {
+      "name": "Frank Hannon",
+      "targetId": "5010"
+    },
+    {
+      "name": "Tommy Skeoch",
+      "targetId": "5012"
+    }
+  ]
+}

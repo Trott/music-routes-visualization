@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Bill Pursell",
-    "target": "Scotty Moore",
-    "targetId": "2"
-  },
-  {
-    "source": "Bill Pursell",
-    "target": "D.J. Fontana",
-    "targetId": "8"
-  },
-  {
-    "source": "Bill Pursell",
-    "target": "Buddy Harman",
-    "targetId": "1131"
-  },
-  {
-    "source": "Bill Pursell",
-    "target": "Bob Moore",
-    "targetId": "1135"
-  },
-  {
-    "source": "Bill Pursell",
-    "target": "Boots Randolph",
-    "targetId": "4399"
-  },
-  {
-    "source": "Bill Pursell",
-    "target": "Jerry Kennedy",
-    "targetId": "4400"
-  }
-]
+{
+  "source": "Bill Pursell",
+  "targets": [
+    {
+      "name": "Scotty Moore",
+      "targetId": "2"
+    },
+    {
+      "name": "D.J. Fontana",
+      "targetId": "8"
+    },
+    {
+      "name": "Buddy Harman",
+      "targetId": "1131"
+    },
+    {
+      "name": "Bob Moore",
+      "targetId": "1135"
+    },
+    {
+      "name": "Boots Randolph",
+      "targetId": "4399"
+    },
+    {
+      "name": "Jerry Kennedy",
+      "targetId": "4400"
+    }
+  ]
+}

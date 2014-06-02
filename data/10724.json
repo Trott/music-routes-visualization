@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Perry Farrell",
-    "target": "Stephen Perkins",
-    "targetId": "768"
-  },
-  {
-    "source": "Perry Farrell",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Perry Farrell",
-    "target": "Dave Navarro",
-    "targetId": "2572"
-  },
-  {
-    "source": "Perry Farrell",
-    "target": "David Andrew Sitek",
-    "targetId": "2985"
-  },
-  {
-    "source": "Perry Farrell",
-    "target": "Chris Chaney",
-    "targetId": "5985"
-  }
-]
+{
+  "source": "Perry Farrell",
+  "targets": [
+    {
+      "name": "Stephen Perkins",
+      "targetId": "768"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Dave Navarro",
+      "targetId": "2572"
+    },
+    {
+      "name": "David Andrew Sitek",
+      "targetId": "2985"
+    },
+    {
+      "name": "Chris Chaney",
+      "targetId": "5985"
+    }
+  ]
+}

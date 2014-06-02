@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Eric Bemberger",
-    "target": "A.J. Mogis",
-    "targetId": "3252"
-  },
-  {
-    "source": "Eric Bemberger",
-    "target": "Katie Muth",
-    "targetId": "9440"
-  },
-  {
-    "source": "Eric Bemberger",
-    "target": "Mike Sweeney",
-    "targetId": "9441"
-  },
-  {
-    "source": "Eric Bemberger",
-    "target": "Chris Hughes",
-    "targetId": "9443"
-  },
-  {
-    "source": "Eric Bemberger",
-    "target": "Joel Petersen",
-    "targetId": "9444"
-  }
-]
+{
+  "source": "Eric Bemberger",
+  "targets": [
+    {
+      "name": "A.J. Mogis",
+      "targetId": "3252"
+    },
+    {
+      "name": "Katie Muth",
+      "targetId": "9440"
+    },
+    {
+      "name": "Mike Sweeney",
+      "targetId": "9441"
+    },
+    {
+      "name": "Chris Hughes",
+      "targetId": "9443"
+    },
+    {
+      "name": "Joel Petersen",
+      "targetId": "9444"
+    }
+  ]
+}

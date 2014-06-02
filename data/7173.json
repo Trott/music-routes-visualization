@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jorge Fernando",
-    "target": "Cristina Branco",
-    "targetId": "6541"
-  },
-  {
-    "source": "Jorge Fernando",
-    "target": "José Fontes Rocha",
-    "targetId": "7172"
-  },
-  {
-    "source": "Jorge Fernando",
-    "target": "Joel Pina",
-    "targetId": "7174"
-  }
-]
+{
+  "source": "Jorge Fernando",
+  "targets": [
+    {
+      "name": "Cristina Branco",
+      "targetId": "6541"
+    },
+    {
+      "name": "José Fontes Rocha",
+      "targetId": "7172"
+    },
+    {
+      "name": "Joel Pina",
+      "targetId": "7174"
+    }
+  ]
+}

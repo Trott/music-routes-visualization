@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paul Brainerd",
-    "target": "M. Ward",
-    "targetId": "1677"
-  },
-  {
-    "source": "Paul Brainerd",
-    "target": "Mike Coykendall",
-    "targetId": "1678"
-  },
-  {
-    "source": "Paul Brainerd",
-    "target": "Tom Hagerman",
-    "targetId": "8905"
-  },
-  {
-    "source": "Paul Brainerd",
-    "target": "Zooey Deschanel",
-    "targetId": "8906"
-  }
-]
+{
+  "source": "Paul Brainerd",
+  "targets": [
+    {
+      "name": "M. Ward",
+      "targetId": "1677"
+    },
+    {
+      "name": "Mike Coykendall",
+      "targetId": "1678"
+    },
+    {
+      "name": "Tom Hagerman",
+      "targetId": "8905"
+    },
+    {
+      "name": "Zooey Deschanel",
+      "targetId": "8906"
+    }
+  ]
+}

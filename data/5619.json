@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Geoff Whitehorn",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Geoff Whitehorn",
-    "target": "Stevie Lange",
-    "targetId": "5616"
-  },
-  {
-    "source": "Geoff Whitehorn",
-    "target": "Billy Kristian",
-    "targetId": "5617"
-  },
-  {
-    "source": "Geoff Whitehorn",
-    "target": "Mike Walker",
-    "targetId": "5618"
-  },
-  {
-    "source": "Geoff Whitehorn",
-    "target": "Clive Edwards",
-    "targetId": "5620"
-  }
-]
+{
+  "source": "Geoff Whitehorn",
+  "targets": [
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Stevie Lange",
+      "targetId": "5616"
+    },
+    {
+      "name": "Billy Kristian",
+      "targetId": "5617"
+    },
+    {
+      "name": "Mike Walker",
+      "targetId": "5618"
+    },
+    {
+      "name": "Clive Edwards",
+      "targetId": "5620"
+    }
+  ]
+}

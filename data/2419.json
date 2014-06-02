@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Bob West",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Bob West",
-    "target": "James Burton",
-    "targetId": "452"
-  },
-  {
-    "source": "Bob West",
-    "target": "Glen Campbell",
-    "targetId": "524"
-  },
-  {
-    "source": "Bob West",
-    "target": "Gary Coleman",
-    "targetId": "727"
-  },
-  {
-    "source": "Bob West",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Bob West",
-    "target": "Al Casey",
-    "targetId": "1509"
-  },
-  {
-    "source": "Bob West",
-    "target": "Mike Deasy",
-    "targetId": "1522"
-  },
-  {
-    "source": "Bob West",
-    "target": "Micky Dolenz",
-    "targetId": "2415"
-  },
-  {
-    "source": "Bob West",
-    "target": "Peter Tork",
-    "targetId": "2416"
-  },
-  {
-    "source": "Bob West",
-    "target": "Michael Nesmith",
-    "targetId": "2417"
-  },
-  {
-    "source": "Bob West",
-    "target": "Jimmy Bryant",
-    "targetId": "2420"
-  },
-  {
-    "source": "Bob West",
-    "target": "Frank DeVito",
-    "targetId": "2421"
-  }
-]
+{
+  "source": "Bob West",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "James Burton",
+      "targetId": "452"
+    },
+    {
+      "name": "Glen Campbell",
+      "targetId": "524"
+    },
+    {
+      "name": "Gary Coleman",
+      "targetId": "727"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Al Casey",
+      "targetId": "1509"
+    },
+    {
+      "name": "Mike Deasy",
+      "targetId": "1522"
+    },
+    {
+      "name": "Micky Dolenz",
+      "targetId": "2415"
+    },
+    {
+      "name": "Peter Tork",
+      "targetId": "2416"
+    },
+    {
+      "name": "Michael Nesmith",
+      "targetId": "2417"
+    },
+    {
+      "name": "Jimmy Bryant",
+      "targetId": "2420"
+    },
+    {
+      "name": "Frank DeVito",
+      "targetId": "2421"
+    }
+  ]
+}

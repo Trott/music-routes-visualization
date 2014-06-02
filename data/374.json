@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Gene Parsons",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Gene Parsons",
-    "target": "Clarence White",
-    "targetId": "371"
-  },
-  {
-    "source": "Gene Parsons",
-    "target": "Ry Cooder",
-    "targetId": "372"
-  },
-  {
-    "source": "Gene Parsons",
-    "target": "Lyle Ritz",
-    "targetId": "373"
-  }
-]
+{
+  "source": "Gene Parsons",
+  "targets": [
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Clarence White",
+      "targetId": "371"
+    },
+    {
+      "name": "Ry Cooder",
+      "targetId": "372"
+    },
+    {
+      "name": "Lyle Ritz",
+      "targetId": "373"
+    }
+  ]
+}

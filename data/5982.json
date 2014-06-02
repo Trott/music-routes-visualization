@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Steve Taylor",
-    "target": "Kramer",
-    "targetId": "1436"
-  },
-  {
-    "source": "Steve Taylor",
-    "target": "Vinny Leary",
-    "targetId": "5978"
-  },
-  {
-    "source": "Steve Taylor",
-    "target": "Ed Sanders",
-    "targetId": "5979"
-  },
-  {
-    "source": "Steve Taylor",
-    "target": "Tuli Kupferberg",
-    "targetId": "5980"
-  },
-  {
-    "source": "Steve Taylor",
-    "target": "Coby Batty",
-    "targetId": "5981"
-  }
-]
+{
+  "source": "Steve Taylor",
+  "targets": [
+    {
+      "name": "Kramer",
+      "targetId": "1436"
+    },
+    {
+      "name": "Vinny Leary",
+      "targetId": "5978"
+    },
+    {
+      "name": "Ed Sanders",
+      "targetId": "5979"
+    },
+    {
+      "name": "Tuli Kupferberg",
+      "targetId": "5980"
+    },
+    {
+      "name": "Coby Batty",
+      "targetId": "5981"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tom Heyman",
-    "target": "Larry Dekker",
-    "targetId": "3149"
-  },
-  {
-    "source": "Tom Heyman",
-    "target": "John Stuart",
-    "targetId": "3152"
-  },
-  {
-    "source": "Tom Heyman",
-    "target": "Dale Duncan",
-    "targetId": "3154"
-  },
-  {
-    "source": "Tom Heyman",
-    "target": "Chris von Sneidern",
-    "targetId": "3155"
-  }
-]
+{
+  "source": "Tom Heyman",
+  "targets": [
+    {
+      "name": "Larry Dekker",
+      "targetId": "3149"
+    },
+    {
+      "name": "John Stuart",
+      "targetId": "3152"
+    },
+    {
+      "name": "Dale Duncan",
+      "targetId": "3154"
+    },
+    {
+      "name": "Chris von Sneidern",
+      "targetId": "3155"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "David Bielanko",
-    "target": "Jonathan Segel",
-    "targetId": "1605"
-  },
-  {
-    "source": "David Bielanko",
-    "target": "Andrew Chalfen",
-    "targetId": "7292"
-  },
-  {
-    "source": "David Bielanko",
-    "target": "Eden Daniels",
-    "targetId": "7297"
-  },
-  {
-    "source": "David Bielanko",
-    "target": "Ronnie Vance",
-    "targetId": "7299"
-  }
-]
+{
+  "source": "David Bielanko",
+  "targets": [
+    {
+      "name": "Jonathan Segel",
+      "targetId": "1605"
+    },
+    {
+      "name": "Andrew Chalfen",
+      "targetId": "7292"
+    },
+    {
+      "name": "Eden Daniels",
+      "targetId": "7297"
+    },
+    {
+      "name": "Ronnie Vance",
+      "targetId": "7299"
+    }
+  ]
+}

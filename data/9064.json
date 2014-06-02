@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Robert Heaton",
-    "target": "Dave Brock",
-    "targetId": "4470"
-  },
-  {
-    "source": "Robert Heaton",
-    "target": "Justin Sullivan",
-    "targetId": "9065"
-  },
-  {
-    "source": "Robert Heaton",
-    "target": "Joolz Denby",
-    "targetId": "9066"
-  },
-  {
-    "source": "Robert Heaton",
-    "target": "Harvey Bainbridge",
-    "targetId": "9067"
-  },
-  {
-    "source": "Robert Heaton",
-    "target": "Huw Lloyd-Langton",
-    "targetId": "9068"
-  }
-]
+{
+  "source": "Robert Heaton",
+  "targets": [
+    {
+      "name": "Dave Brock",
+      "targetId": "4470"
+    },
+    {
+      "name": "Justin Sullivan",
+      "targetId": "9065"
+    },
+    {
+      "name": "Joolz Denby",
+      "targetId": "9066"
+    },
+    {
+      "name": "Harvey Bainbridge",
+      "targetId": "9067"
+    },
+    {
+      "name": "Huw Lloyd-Langton",
+      "targetId": "9068"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Strong Bad",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Strong Bad",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Strong Bad",
-    "target": "Matt Chapman",
-    "targetId": "7743"
-  }
-]
+{
+  "source": "Strong Bad",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Matt Chapman",
+      "targetId": "7743"
+    }
+  ]
+}

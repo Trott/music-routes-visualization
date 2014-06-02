@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Louisa Michaels",
-    "target": "Don Joyce",
-    "targetId": "4887"
-  },
-  {
-    "source": "Louisa Michaels",
-    "target": "David Wills",
-    "targetId": "4888"
-  },
-  {
-    "source": "Louisa Michaels",
-    "target": "Mark Hosler",
-    "targetId": "4889"
-  },
-  {
-    "source": "Louisa Michaels",
-    "target": "Richard Lyons",
-    "targetId": "4890"
-  },
-  {
-    "source": "Louisa Michaels",
-    "target": "Chris Grigg",
-    "targetId": "4891"
-  }
-]
+{
+  "source": "Louisa Michaels",
+  "targets": [
+    {
+      "name": "Don Joyce",
+      "targetId": "4887"
+    },
+    {
+      "name": "David Wills",
+      "targetId": "4888"
+    },
+    {
+      "name": "Mark Hosler",
+      "targetId": "4889"
+    },
+    {
+      "name": "Richard Lyons",
+      "targetId": "4890"
+    },
+    {
+      "name": "Chris Grigg",
+      "targetId": "4891"
+    }
+  ]
+}

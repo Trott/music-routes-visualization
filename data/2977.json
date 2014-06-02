@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Arthur Baker",
-    "target": "Johnny Marr",
-    "targetId": "2966"
-  },
-  {
-    "source": "Arthur Baker",
-    "target": "Bernard Sumner",
-    "targetId": "2967"
-  },
-  {
-    "source": "Arthur Baker",
-    "target": "Ged Lynch",
-    "targetId": "2968"
-  },
-  {
-    "source": "Arthur Baker",
-    "target": "Jimi Goodwin",
-    "targetId": "2974"
-  },
-  {
-    "source": "Arthur Baker",
-    "target": "Merv De Peyer",
-    "targetId": "2975"
-  }
-]
+{
+  "source": "Arthur Baker",
+  "targets": [
+    {
+      "name": "Johnny Marr",
+      "targetId": "2966"
+    },
+    {
+      "name": "Bernard Sumner",
+      "targetId": "2967"
+    },
+    {
+      "name": "Ged Lynch",
+      "targetId": "2968"
+    },
+    {
+      "name": "Jimi Goodwin",
+      "targetId": "2974"
+    },
+    {
+      "name": "Merv De Peyer",
+      "targetId": "2975"
+    }
+  ]
+}

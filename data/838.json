@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Paul Anka",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Paul Anka",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Paul Anka",
-    "target": "Mike Lang",
-    "targetId": "837"
-  },
-  {
-    "source": "Paul Anka",
-    "target": "Vinnie Colaiuta",
-    "targetId": "839"
-  },
-  {
-    "source": "Paul Anka",
-    "target": "Mike Valerio",
-    "targetId": "840"
-  },
-  {
-    "source": "Paul Anka",
-    "target": "Shirley Brewer",
-    "targetId": "7442"
-  },
-  {
-    "source": "Paul Anka",
-    "target": "Larry \"Nastee\" Latimer",
-    "targetId": "7448"
-  },
-  {
-    "source": "Paul Anka",
-    "target": "Syreeta Wright",
-    "targetId": "7456"
-  }
-]
+{
+  "source": "Paul Anka",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Mike Lang",
+      "targetId": "837"
+    },
+    {
+      "name": "Vinnie Colaiuta",
+      "targetId": "839"
+    },
+    {
+      "name": "Mike Valerio",
+      "targetId": "840"
+    },
+    {
+      "name": "Shirley Brewer",
+      "targetId": "7442"
+    },
+    {
+      "name": "Larry \"Nastee\" Latimer",
+      "targetId": "7448"
+    },
+    {
+      "name": "Syreeta Wright",
+      "targetId": "7456"
+    }
+  ]
+}

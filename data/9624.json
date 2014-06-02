@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Andy Leigh",
-    "target": "Mark Griffiths",
-    "targetId": "9620"
-  },
-  {
-    "source": "Andy Leigh",
-    "target": "Carl Barnwell",
-    "targetId": "9621"
-  },
-  {
-    "source": "Andy Leigh",
-    "target": "Iain Matthews",
-    "targetId": "9622"
-  },
-  {
-    "source": "Andy Leigh",
-    "target": "Raymond Duffy",
-    "targetId": "9623"
-  },
-  {
-    "source": "Andy Leigh",
-    "target": "Gordon Huntley",
-    "targetId": "9625"
-  }
-]
+{
+  "source": "Andy Leigh",
+  "targets": [
+    {
+      "name": "Mark Griffiths",
+      "targetId": "9620"
+    },
+    {
+      "name": "Carl Barnwell",
+      "targetId": "9621"
+    },
+    {
+      "name": "Iain Matthews",
+      "targetId": "9622"
+    },
+    {
+      "name": "Raymond Duffy",
+      "targetId": "9623"
+    },
+    {
+      "name": "Gordon Huntley",
+      "targetId": "9625"
+    }
+  ]
+}

@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Gene Parker",
-    "target": "Isaac Hayes",
-    "targetId": "1802"
-  },
-  {
-    "source": "Gene Parker",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Gene Parker",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Gene Parker",
-    "target": "Al Jackson, Jr.",
-    "targetId": "1806"
-  },
-  {
-    "source": "Gene Parker",
-    "target": "Wayne Jackson",
-    "targetId": "1807"
-  },
-  {
-    "source": "Gene Parker",
-    "target": "Andrew Love",
-    "targetId": "1808"
-  },
-  {
-    "source": "Gene Parker",
-    "target": "Floyd Newman",
-    "targetId": "1809"
-  }
-]
+{
+  "source": "Gene Parker",
+  "targets": [
+    {
+      "name": "Isaac Hayes",
+      "targetId": "1802"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Al Jackson, Jr.",
+      "targetId": "1806"
+    },
+    {
+      "name": "Wayne Jackson",
+      "targetId": "1807"
+    },
+    {
+      "name": "Andrew Love",
+      "targetId": "1808"
+    },
+    {
+      "name": "Floyd Newman",
+      "targetId": "1809"
+    }
+  ]
+}

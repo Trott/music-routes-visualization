@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Brent Mydland",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Brent Mydland",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Brent Mydland",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "Brent Mydland",
-    "target": "Madelyn Quebec",
-    "targetId": "562"
-  },
-  {
-    "source": "Brent Mydland",
-    "target": "Jerry Garcia",
-    "targetId": "918"
-  },
-  {
-    "source": "Brent Mydland",
-    "target": "Bob Weir",
-    "targetId": "1317"
-  },
-  {
-    "source": "Brent Mydland",
-    "target": "Michael Baird",
-    "targetId": "2659"
-  }
-]
+{
+  "source": "Brent Mydland",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Madelyn Quebec",
+      "targetId": "562"
+    },
+    {
+      "name": "Jerry Garcia",
+      "targetId": "918"
+    },
+    {
+      "name": "Bob Weir",
+      "targetId": "1317"
+    },
+    {
+      "name": "Michael Baird",
+      "targetId": "2659"
+    }
+  ]
+}

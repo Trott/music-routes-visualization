@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Peter Hook",
-    "target": "Bernard Sumner",
-    "targetId": "2967"
-  },
-  {
-    "source": "Peter Hook",
-    "target": "Ian Curtis",
-    "targetId": "2980"
-  },
-  {
-    "source": "Peter Hook",
-    "target": "Stephen Morris",
-    "targetId": "2982"
-  },
-  {
-    "source": "Peter Hook",
-    "target": "Ken Jordan",
-    "targetId": "7309"
-  },
-  {
-    "source": "Peter Hook",
-    "target": "Scott Kirkland",
-    "targetId": "7310"
-  }
-]
+{
+  "source": "Peter Hook",
+  "targets": [
+    {
+      "name": "Bernard Sumner",
+      "targetId": "2967"
+    },
+    {
+      "name": "Ian Curtis",
+      "targetId": "2980"
+    },
+    {
+      "name": "Stephen Morris",
+      "targetId": "2982"
+    },
+    {
+      "name": "Ken Jordan",
+      "targetId": "7309"
+    },
+    {
+      "name": "Scott Kirkland",
+      "targetId": "7310"
+    }
+  ]
+}

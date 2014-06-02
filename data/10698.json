@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Banfield",
-    "target": "Matt Jencik",
-    "targetId": "10695"
-  },
-  {
-    "source": "Mike Banfield",
-    "target": "Damon Che",
-    "targetId": "10696"
-  },
-  {
-    "source": "Mike Banfield",
-    "target": "Ian Williams",
-    "targetId": "10697"
-  }
-]
+{
+  "source": "Mike Banfield",
+  "targets": [
+    {
+      "name": "Matt Jencik",
+      "targetId": "10695"
+    },
+    {
+      "name": "Damon Che",
+      "targetId": "10696"
+    },
+    {
+      "name": "Ian Williams",
+      "targetId": "10697"
+    }
+  ]
+}

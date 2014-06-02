@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Hans Buetow",
-    "target": "John Olson",
-    "targetId": "3825"
-  },
-  {
-    "source": "Hans Buetow",
-    "target": "Ben Hall",
-    "targetId": "3826"
-  },
-  {
-    "source": "Hans Buetow",
-    "target": "Tovah Olson",
-    "targetId": "3828"
-  },
-  {
-    "source": "Hans Buetow",
-    "target": "Nate Wooley",
-    "targetId": "3829"
-  }
-]
+{
+  "source": "Hans Buetow",
+  "targets": [
+    {
+      "name": "John Olson",
+      "targetId": "3825"
+    },
+    {
+      "name": "Ben Hall",
+      "targetId": "3826"
+    },
+    {
+      "name": "Tovah Olson",
+      "targetId": "3828"
+    },
+    {
+      "name": "Nate Wooley",
+      "targetId": "3829"
+    }
+  ]
+}

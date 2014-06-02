@@ -1,197 +1,161 @@
-[
-  {
-    "source": "Steven Bernstein",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Smokey Hormel",
-    "targetId": "2562"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Robert Quine",
-    "targetId": "2770"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Tony Maimone",
-    "targetId": "2921"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Graham Maby",
-    "targetId": "3069"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Brian Doherty",
-    "targetId": "3070"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Kurt Hoffman",
-    "targetId": "3072"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Kevin Osborne",
-    "targetId": "3073"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Frank London",
-    "targetId": "3074"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Dan Levine",
-    "targetId": "3686"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Carla Bley",
-    "targetId": "4604"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Claude Deppa",
-    "targetId": "4621"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Guy Barker",
-    "targetId": "4622"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Lew Soloff",
-    "targetId": "4623"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Ashley Slater",
-    "targetId": "4624"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Fayyaz Virji",
-    "targetId": "4625"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Gary Valente",
-    "targetId": "4626"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Richard Edwards",
-    "targetId": "4627"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Andy Sheppard",
-    "targetId": "4628"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Pete Hurt",
-    "targetId": "4629"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Roger Janotta",
-    "targetId": "4630"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Pablo Calogero",
-    "targetId": "4631"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Wolfgang Puschnig",
-    "targetId": "4632"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Karen Mantler",
-    "targetId": "4633"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Victor Lewis",
-    "targetId": "4634"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Steve Swallow",
-    "targetId": "4635"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Perry Montague-Mason",
-    "targetId": "5376"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "John Medeski",
-    "targetId": "5886"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Rufus Wainwright",
-    "targetId": "6046"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Barry Danielian",
-    "targetId": "6047"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Paul Shapiro",
-    "targetId": "6048"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Briggan Krauss",
-    "targetId": "6049"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Rob Burger",
-    "targetId": "6050"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Kenny Wollesen",
-    "targetId": "6051"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Tony Scherr",
-    "targetId": "6052"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Sharon Jones",
-    "targetId": "6053"
-  },
-  {
-    "source": "Steven Bernstein",
-    "target": "Lygia Forrest",
-    "targetId": "6054"
-  }
-]
+{
+  "source": "Steven Bernstein",
+  "targets": [
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Smokey Hormel",
+      "targetId": "2562"
+    },
+    {
+      "name": "Robert Quine",
+      "targetId": "2770"
+    },
+    {
+      "name": "Tony Maimone",
+      "targetId": "2921"
+    },
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Graham Maby",
+      "targetId": "3069"
+    },
+    {
+      "name": "Brian Doherty",
+      "targetId": "3070"
+    },
+    {
+      "name": "Kurt Hoffman",
+      "targetId": "3072"
+    },
+    {
+      "name": "Kevin Osborne",
+      "targetId": "3073"
+    },
+    {
+      "name": "Frank London",
+      "targetId": "3074"
+    },
+    {
+      "name": "Dan Levine",
+      "targetId": "3686"
+    },
+    {
+      "name": "Carla Bley",
+      "targetId": "4604"
+    },
+    {
+      "name": "Claude Deppa",
+      "targetId": "4621"
+    },
+    {
+      "name": "Guy Barker",
+      "targetId": "4622"
+    },
+    {
+      "name": "Lew Soloff",
+      "targetId": "4623"
+    },
+    {
+      "name": "Ashley Slater",
+      "targetId": "4624"
+    },
+    {
+      "name": "Fayyaz Virji",
+      "targetId": "4625"
+    },
+    {
+      "name": "Gary Valente",
+      "targetId": "4626"
+    },
+    {
+      "name": "Richard Edwards",
+      "targetId": "4627"
+    },
+    {
+      "name": "Andy Sheppard",
+      "targetId": "4628"
+    },
+    {
+      "name": "Pete Hurt",
+      "targetId": "4629"
+    },
+    {
+      "name": "Roger Janotta",
+      "targetId": "4630"
+    },
+    {
+      "name": "Pablo Calogero",
+      "targetId": "4631"
+    },
+    {
+      "name": "Wolfgang Puschnig",
+      "targetId": "4632"
+    },
+    {
+      "name": "Karen Mantler",
+      "targetId": "4633"
+    },
+    {
+      "name": "Victor Lewis",
+      "targetId": "4634"
+    },
+    {
+      "name": "Steve Swallow",
+      "targetId": "4635"
+    },
+    {
+      "name": "Perry Montague-Mason",
+      "targetId": "5376"
+    },
+    {
+      "name": "John Medeski",
+      "targetId": "5886"
+    },
+    {
+      "name": "Rufus Wainwright",
+      "targetId": "6046"
+    },
+    {
+      "name": "Barry Danielian",
+      "targetId": "6047"
+    },
+    {
+      "name": "Paul Shapiro",
+      "targetId": "6048"
+    },
+    {
+      "name": "Briggan Krauss",
+      "targetId": "6049"
+    },
+    {
+      "name": "Rob Burger",
+      "targetId": "6050"
+    },
+    {
+      "name": "Kenny Wollesen",
+      "targetId": "6051"
+    },
+    {
+      "name": "Tony Scherr",
+      "targetId": "6052"
+    },
+    {
+      "name": "Sharon Jones",
+      "targetId": "6053"
+    },
+    {
+      "name": "Lygia Forrest",
+      "targetId": "6054"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Garth Brooks",
-    "target": "Billy Joel",
-    "targetId": "63"
-  },
-  {
-    "source": "Garth Brooks",
-    "target": "Faith Hill",
-    "targetId": "695"
-  },
-  {
-    "source": "Garth Brooks",
-    "target": "Billy Dean",
-    "targetId": "714"
-  },
-  {
-    "source": "Garth Brooks",
-    "target": "Olivia Newton-John",
-    "targetId": "715"
-  },
-  {
-    "source": "Garth Brooks",
-    "target": "Neal McCoy",
-    "targetId": "716"
-  },
-  {
-    "source": "Garth Brooks",
-    "target": "Michael McDonald",
-    "targetId": "717"
-  },
-  {
-    "source": "Garth Brooks",
-    "target": "Victoria Shaw",
-    "targetId": "718"
-  },
-  {
-    "source": "Garth Brooks",
-    "target": "Bryan White",
-    "targetId": "719"
-  }
-]
+{
+  "source": "Garth Brooks",
+  "targets": [
+    {
+      "name": "Billy Joel",
+      "targetId": "63"
+    },
+    {
+      "name": "Faith Hill",
+      "targetId": "695"
+    },
+    {
+      "name": "Billy Dean",
+      "targetId": "714"
+    },
+    {
+      "name": "Olivia Newton-John",
+      "targetId": "715"
+    },
+    {
+      "name": "Neal McCoy",
+      "targetId": "716"
+    },
+    {
+      "name": "Michael McDonald",
+      "targetId": "717"
+    },
+    {
+      "name": "Victoria Shaw",
+      "targetId": "718"
+    },
+    {
+      "name": "Bryan White",
+      "targetId": "719"
+    }
+  ]
+}

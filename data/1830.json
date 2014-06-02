@@ -1,182 +1,149 @@
-[
-  {
-    "source": "Mark Volman",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Aynsley Dunbar",
-    "targetId": "264"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Peter Buck",
-    "targetId": "342"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Roy Bittan",
-    "targetId": "463"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Clarence Clemons",
-    "targetId": "465"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Danny Federici",
-    "targetId": "466"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Garry W. Tallent",
-    "targetId": "467"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Max Weinberg",
-    "targetId": "468"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Ian McDonald",
-    "targetId": "544"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Rick Wakeman",
-    "targetId": "792"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Ian Underwood",
-    "targetId": "816"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "George Duke",
-    "targetId": "1327"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Todd Rundgren",
-    "targetId": "1817"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Mickey Finn",
-    "targetId": "1826"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Steve Currie",
-    "targetId": "1827"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Bill Legend",
-    "targetId": "1828"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Howard Kaylan",
-    "targetId": "1829"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Yoko Ono",
-    "targetId": "2686"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Steve Wynn",
-    "targetId": "3494"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "John Wesley Harding",
-    "targetId": "3515"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Susan Cowsill",
-    "targetId": "3516"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Jeff Simmons",
-    "targetId": "4403"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Steve Van Zandt",
-    "targetId": "5079"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Tim Butler",
-    "targetId": "6462"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Vince Ely",
-    "targetId": "6463"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "John Ashton",
-    "targetId": "6464"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Richard Butler",
-    "targetId": "6465"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Don Preston",
-    "targetId": "6586"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Jimmy Carl Black",
-    "targetId": "6591"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Don Preston",
-    "targetId": "7421"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Jim Pons",
-    "targetId": "7547"
-  },
-  {
-    "source": "Mark Volman",
-    "target": "Bob Harris",
-    "targetId": "7548"
-  }
-]
+{
+  "source": "Mark Volman",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Aynsley Dunbar",
+      "targetId": "264"
+    },
+    {
+      "name": "Peter Buck",
+      "targetId": "342"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Roy Bittan",
+      "targetId": "463"
+    },
+    {
+      "name": "Clarence Clemons",
+      "targetId": "465"
+    },
+    {
+      "name": "Danny Federici",
+      "targetId": "466"
+    },
+    {
+      "name": "Garry W. Tallent",
+      "targetId": "467"
+    },
+    {
+      "name": "Max Weinberg",
+      "targetId": "468"
+    },
+    {
+      "name": "Ian McDonald",
+      "targetId": "544"
+    },
+    {
+      "name": "Rick Wakeman",
+      "targetId": "792"
+    },
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Ian Underwood",
+      "targetId": "816"
+    },
+    {
+      "name": "George Duke",
+      "targetId": "1327"
+    },
+    {
+      "name": "Todd Rundgren",
+      "targetId": "1817"
+    },
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    },
+    {
+      "name": "Mickey Finn",
+      "targetId": "1826"
+    },
+    {
+      "name": "Steve Currie",
+      "targetId": "1827"
+    },
+    {
+      "name": "Bill Legend",
+      "targetId": "1828"
+    },
+    {
+      "name": "Howard Kaylan",
+      "targetId": "1829"
+    },
+    {
+      "name": "Yoko Ono",
+      "targetId": "2686"
+    },
+    {
+      "name": "Steve Wynn",
+      "targetId": "3494"
+    },
+    {
+      "name": "John Wesley Harding",
+      "targetId": "3515"
+    },
+    {
+      "name": "Susan Cowsill",
+      "targetId": "3516"
+    },
+    {
+      "name": "Jeff Simmons",
+      "targetId": "4403"
+    },
+    {
+      "name": "Steve Van Zandt",
+      "targetId": "5079"
+    },
+    {
+      "name": "Tim Butler",
+      "targetId": "6462"
+    },
+    {
+      "name": "Vince Ely",
+      "targetId": "6463"
+    },
+    {
+      "name": "John Ashton",
+      "targetId": "6464"
+    },
+    {
+      "name": "Richard Butler",
+      "targetId": "6465"
+    },
+    {
+      "name": "Don Preston",
+      "targetId": "6586"
+    },
+    {
+      "name": "Jimmy Carl Black",
+      "targetId": "6591"
+    },
+    {
+      "name": "Don Preston",
+      "targetId": "7421"
+    },
+    {
+      "name": "Jim Pons",
+      "targetId": "7547"
+    },
+    {
+      "name": "Bob Harris",
+      "targetId": "7548"
+    }
+  ]
+}

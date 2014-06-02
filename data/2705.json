@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Charlie Shavers",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Charlie Shavers",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Charlie Shavers",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  },
-  {
-    "source": "Charlie Shavers",
-    "target": "Billie Holiday",
-    "targetId": "2704"
-  },
-  {
-    "source": "Charlie Shavers",
-    "target": "Alvin Stoller",
-    "targetId": "2706"
-  },
-  {
-    "source": "Charlie Shavers",
-    "target": "Ed Shaughnessy",
-    "targetId": "5526"
-  },
-  {
-    "source": "Charlie Shavers",
-    "target": "Herb Ellis",
-    "targetId": "7153"
-  }
-]
+{
+  "source": "Charlie Shavers",
+  "targets": [
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    },
+    {
+      "name": "Billie Holiday",
+      "targetId": "2704"
+    },
+    {
+      "name": "Alvin Stoller",
+      "targetId": "2706"
+    },
+    {
+      "name": "Ed Shaughnessy",
+      "targetId": "5526"
+    },
+    {
+      "name": "Herb Ellis",
+      "targetId": "7153"
+    }
+  ]
+}

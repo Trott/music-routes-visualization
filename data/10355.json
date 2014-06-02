@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ralph Eppel",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Ralph Eppel",
-    "target": "Bryan Adams",
-    "targetId": "2449"
-  },
-  {
-    "source": "Ralph Eppel",
-    "target": "Nancy Nash",
-    "targetId": "3464"
-  },
-  {
-    "source": "Ralph Eppel",
-    "target": "Bruce Fairbairn",
-    "targetId": "10338"
-  },
-  {
-    "source": "Ralph Eppel",
-    "target": "Tom Keenlyside",
-    "targetId": "10340"
-  },
-  {
-    "source": "Ralph Eppel",
-    "target": "Peter Bjerring",
-    "targetId": "10354"
-  }
-]
+{
+  "source": "Ralph Eppel",
+  "targets": [
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "Bryan Adams",
+      "targetId": "2449"
+    },
+    {
+      "name": "Nancy Nash",
+      "targetId": "3464"
+    },
+    {
+      "name": "Bruce Fairbairn",
+      "targetId": "10338"
+    },
+    {
+      "name": "Tom Keenlyside",
+      "targetId": "10340"
+    },
+    {
+      "name": "Peter Bjerring",
+      "targetId": "10354"
+    }
+  ]
+}

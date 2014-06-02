@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Kirk Whalum",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Chuck Findley",
-    "targetId": "397"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Oscar Brashear",
-    "targetId": "431"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Jack Nimitz",
-    "targetId": "436"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Dan Higgins",
-    "targetId": "1080"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Kim Hutchcroft",
-    "targetId": "1324"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Barry White",
-    "targetId": "2078"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Siedah Garrett",
-    "targetId": "2081"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Richard Todd",
-    "targetId": "2307"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Melvin \"Wah Wah\" Watson",
-    "targetId": "3402"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "George Bohanon",
-    "targetId": "3415"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Charles Loper",
-    "targetId": "4222"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Reggie Young",
-    "targetId": "4223"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Pete Christlieb",
-    "targetId": "4224"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Jeff Clayton",
-    "targetId": "4226"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Sekou Bunch",
-    "targetId": "4228"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Patti Austin",
-    "targetId": "4229"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Brandy",
-    "targetId": "4240"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Mervyn Warren",
-    "targetId": "4247"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Will Wheaton",
-    "targetId": "4251"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Chaka Khan",
-    "targetId": "4269"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Charlie Wilson",
-    "targetId": "4270"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Gregory Williams",
-    "targetId": "4273"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Brad Warnaar",
-    "targetId": "4274"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Bob Watt",
-    "targetId": "4275"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Tommy Johnson",
-    "targetId": "4276"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Nickolas Ashford",
-    "targetId": "4284"
-  },
-  {
-    "source": "Kirk Whalum",
-    "target": "Valerie Simpson",
-    "targetId": "4285"
-  }
-]
+{
+  "source": "Kirk Whalum",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Chuck Findley",
+      "targetId": "397"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Oscar Brashear",
+      "targetId": "431"
+    },
+    {
+      "name": "Jack Nimitz",
+      "targetId": "436"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "Dan Higgins",
+      "targetId": "1080"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Kim Hutchcroft",
+      "targetId": "1324"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Barry White",
+      "targetId": "2078"
+    },
+    {
+      "name": "Siedah Garrett",
+      "targetId": "2081"
+    },
+    {
+      "name": "Richard Todd",
+      "targetId": "2307"
+    },
+    {
+      "name": "Melvin \"Wah Wah\" Watson",
+      "targetId": "3402"
+    },
+    {
+      "name": "George Bohanon",
+      "targetId": "3415"
+    },
+    {
+      "name": "Charles Loper",
+      "targetId": "4222"
+    },
+    {
+      "name": "Reggie Young",
+      "targetId": "4223"
+    },
+    {
+      "name": "Pete Christlieb",
+      "targetId": "4224"
+    },
+    {
+      "name": "Jeff Clayton",
+      "targetId": "4226"
+    },
+    {
+      "name": "Sekou Bunch",
+      "targetId": "4228"
+    },
+    {
+      "name": "Patti Austin",
+      "targetId": "4229"
+    },
+    {
+      "name": "Brandy",
+      "targetId": "4240"
+    },
+    {
+      "name": "Mervyn Warren",
+      "targetId": "4247"
+    },
+    {
+      "name": "Will Wheaton",
+      "targetId": "4251"
+    },
+    {
+      "name": "Chaka Khan",
+      "targetId": "4269"
+    },
+    {
+      "name": "Charlie Wilson",
+      "targetId": "4270"
+    },
+    {
+      "name": "Gregory Williams",
+      "targetId": "4273"
+    },
+    {
+      "name": "Brad Warnaar",
+      "targetId": "4274"
+    },
+    {
+      "name": "Bob Watt",
+      "targetId": "4275"
+    },
+    {
+      "name": "Tommy Johnson",
+      "targetId": "4276"
+    },
+    {
+      "name": "Nickolas Ashford",
+      "targetId": "4284"
+    },
+    {
+      "name": "Valerie Simpson",
+      "targetId": "4285"
+    }
+  ]
+}

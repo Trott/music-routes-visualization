@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Rik Kenton",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Rik Kenton",
-    "target": "Bryan Ferry",
-    "targetId": "490"
-  },
-  {
-    "source": "Rik Kenton",
-    "target": "Paul Thompson",
-    "targetId": "491"
-  },
-  {
-    "source": "Rik Kenton",
-    "target": "Andrew Mackay",
-    "targetId": "492"
-  },
-  {
-    "source": "Rik Kenton",
-    "target": "Phil Manzanera",
-    "targetId": "493"
-  }
-]
+{
+  "source": "Rik Kenton",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "Bryan Ferry",
+      "targetId": "490"
+    },
+    {
+      "name": "Paul Thompson",
+      "targetId": "491"
+    },
+    {
+      "name": "Andrew Mackay",
+      "targetId": "492"
+    },
+    {
+      "name": "Phil Manzanera",
+      "targetId": "493"
+    }
+  ]
+}

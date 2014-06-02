@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Duncan Sanderson",
-    "target": "Wayne Kramer",
-    "targetId": "2728"
-  },
-  {
-    "source": "Duncan Sanderson",
-    "target": "Mick Farren",
-    "targetId": "2936"
-  },
-  {
-    "source": "Duncan Sanderson",
-    "target": "Larry Wallis",
-    "targetId": "2940"
-  },
-  {
-    "source": "Duncan Sanderson",
-    "target": "George Butler",
-    "targetId": "2942"
-  }
-]
+{
+  "source": "Duncan Sanderson",
+  "targets": [
+    {
+      "name": "Wayne Kramer",
+      "targetId": "2728"
+    },
+    {
+      "name": "Mick Farren",
+      "targetId": "2936"
+    },
+    {
+      "name": "Larry Wallis",
+      "targetId": "2940"
+    },
+    {
+      "name": "George Butler",
+      "targetId": "2942"
+    }
+  ]
+}

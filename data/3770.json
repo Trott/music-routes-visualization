@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Wayne Hood",
-    "target": "Pink",
-    "targetId": "705"
-  },
-  {
-    "source": "Wayne Hood",
-    "target": "Jim Cox",
-    "targetId": "804"
-  },
-  {
-    "source": "Wayne Hood",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "Wayne Hood",
-    "target": "Richie Sambora",
-    "targetId": "3423"
-  },
-  {
-    "source": "Wayne Hood",
-    "target": "Marti Frederiksen",
-    "targetId": "3771"
-  }
-]
+{
+  "source": "Wayne Hood",
+  "targets": [
+    {
+      "name": "Pink",
+      "targetId": "705"
+    },
+    {
+      "name": "Jim Cox",
+      "targetId": "804"
+    },
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "Richie Sambora",
+      "targetId": "3423"
+    },
+    {
+      "name": "Marti Frederiksen",
+      "targetId": "3771"
+    }
+  ]
+}

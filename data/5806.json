@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Norum",
-    "target": "Don Dokken",
-    "targetId": "143"
-  },
-  {
-    "source": "John Norum",
-    "target": "Mick Brown",
-    "targetId": "154"
-  },
-  {
-    "source": "John Norum",
-    "target": "Mic Michaeli",
-    "targetId": "5802"
-  },
-  {
-    "source": "John Norum",
-    "target": "Ian Haugland",
-    "targetId": "5803"
-  },
-  {
-    "source": "John Norum",
-    "target": "Joey Tempest",
-    "targetId": "5804"
-  },
-  {
-    "source": "John Norum",
-    "target": "John Levén",
-    "targetId": "5805"
-  },
-  {
-    "source": "John Norum",
-    "target": "Barry Sparks",
-    "targetId": "5807"
-  }
-]
+{
+  "source": "John Norum",
+  "targets": [
+    {
+      "name": "Don Dokken",
+      "targetId": "143"
+    },
+    {
+      "name": "Mick Brown",
+      "targetId": "154"
+    },
+    {
+      "name": "Mic Michaeli",
+      "targetId": "5802"
+    },
+    {
+      "name": "Ian Haugland",
+      "targetId": "5803"
+    },
+    {
+      "name": "Joey Tempest",
+      "targetId": "5804"
+    },
+    {
+      "name": "John Levén",
+      "targetId": "5805"
+    },
+    {
+      "name": "Barry Sparks",
+      "targetId": "5807"
+    }
+  ]
+}

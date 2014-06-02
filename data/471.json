@@ -1,162 +1,133 @@
-[
-  {
-    "source": "David Sanborn",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Jaco Pastorius",
-    "targetId": "345"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Roy Bittan",
-    "targetId": "463"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Clarence Clemons",
-    "targetId": "465"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Danny Federici",
-    "targetId": "466"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Garry W. Tallent",
-    "targetId": "467"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Max Weinberg",
-    "targetId": "468"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Randy Brecker",
-    "targetId": "469"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Wayne Andre",
-    "targetId": "470"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Jerry LaCroix",
-    "targetId": "1269"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Richard Crooks",
-    "targetId": "1270"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Stu Woods",
-    "targetId": "1271"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Bob Rose",
-    "targetId": "1272"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "David Spinozza",
-    "targetId": "1273"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Lewis Del Gatto",
-    "targetId": "1274"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Robert Millikan",
-    "targetId": "1275"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Howard Johnson",
-    "targetId": "1811"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Marcus Miller",
-    "targetId": "4720"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Shirley Brewer",
-    "targetId": "7442"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Deniece Williams",
-    "targetId": "7450"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Joe Sample",
-    "targetId": "8451"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Narada Michael Walden",
-    "targetId": "8678"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Ron Tooley",
-    "targetId": "9409"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Peter Graves",
-    "targetId": "9410"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Sam Moore",
-    "targetId": "9411"
-  },
-  {
-    "source": "David Sanborn",
-    "target": "Dave Prater",
-    "targetId": "9412"
-  }
-]
+{
+  "source": "David Sanborn",
+  "targets": [
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Jaco Pastorius",
+      "targetId": "345"
+    },
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    },
+    {
+      "name": "Roy Bittan",
+      "targetId": "463"
+    },
+    {
+      "name": "Clarence Clemons",
+      "targetId": "465"
+    },
+    {
+      "name": "Danny Federici",
+      "targetId": "466"
+    },
+    {
+      "name": "Garry W. Tallent",
+      "targetId": "467"
+    },
+    {
+      "name": "Max Weinberg",
+      "targetId": "468"
+    },
+    {
+      "name": "Randy Brecker",
+      "targetId": "469"
+    },
+    {
+      "name": "Wayne Andre",
+      "targetId": "470"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Jerry LaCroix",
+      "targetId": "1269"
+    },
+    {
+      "name": "Richard Crooks",
+      "targetId": "1270"
+    },
+    {
+      "name": "Stu Woods",
+      "targetId": "1271"
+    },
+    {
+      "name": "Bob Rose",
+      "targetId": "1272"
+    },
+    {
+      "name": "David Spinozza",
+      "targetId": "1273"
+    },
+    {
+      "name": "Lewis Del Gatto",
+      "targetId": "1274"
+    },
+    {
+      "name": "Robert Millikan",
+      "targetId": "1275"
+    },
+    {
+      "name": "Howard Johnson",
+      "targetId": "1811"
+    },
+    {
+      "name": "Marcus Miller",
+      "targetId": "4720"
+    },
+    {
+      "name": "Shirley Brewer",
+      "targetId": "7442"
+    },
+    {
+      "name": "Deniece Williams",
+      "targetId": "7450"
+    },
+    {
+      "name": "Joe Sample",
+      "targetId": "8451"
+    },
+    {
+      "name": "Narada Michael Walden",
+      "targetId": "8678"
+    },
+    {
+      "name": "Ron Tooley",
+      "targetId": "9409"
+    },
+    {
+      "name": "Peter Graves",
+      "targetId": "9410"
+    },
+    {
+      "name": "Sam Moore",
+      "targetId": "9411"
+    },
+    {
+      "name": "Dave Prater",
+      "targetId": "9412"
+    }
+  ]
+}

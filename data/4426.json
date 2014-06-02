@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bob Lozaga",
-    "target": "Allan Holdsworth",
-    "targetId": "461"
-  },
-  {
-    "source": "Bob Lozaga",
-    "target": "Hansford Rowe",
-    "targetId": "4424"
-  },
-  {
-    "source": "Bob Lozaga",
-    "target": "Pierre Moerlen",
-    "targetId": "4425"
-  },
-  {
-    "source": "Bob Lozaga",
-    "target": "Peter Lemer",
-    "targetId": "4427"
-  }
-]
+{
+  "source": "Bob Lozaga",
+  "targets": [
+    {
+      "name": "Allan Holdsworth",
+      "targetId": "461"
+    },
+    {
+      "name": "Hansford Rowe",
+      "targetId": "4424"
+    },
+    {
+      "name": "Pierre Moerlen",
+      "targetId": "4425"
+    },
+    {
+      "name": "Peter Lemer",
+      "targetId": "4427"
+    }
+  ]
+}

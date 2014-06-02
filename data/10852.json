@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Lodge",
-    "target": "Justin Hayward",
-    "targetId": "4184"
-  },
-  {
-    "source": "John Lodge",
-    "target": "Michael Pinder",
-    "targetId": "10853"
-  },
-  {
-    "source": "John Lodge",
-    "target": "Ray Thomas",
-    "targetId": "10854"
-  },
-  {
-    "source": "John Lodge",
-    "target": "Graeme Edge",
-    "targetId": "10855"
-  }
-]
+{
+  "source": "John Lodge",
+  "targets": [
+    {
+      "name": "Justin Hayward",
+      "targetId": "4184"
+    },
+    {
+      "name": "Michael Pinder",
+      "targetId": "10853"
+    },
+    {
+      "name": "Ray Thomas",
+      "targetId": "10854"
+    },
+    {
+      "name": "Graeme Edge",
+      "targetId": "10855"
+    }
+  ]
+}

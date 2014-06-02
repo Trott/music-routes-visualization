@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tony Babylon",
-    "target": "Anu Kirk",
-    "targetId": "92"
-  },
-  {
-    "source": "Tony Babylon",
-    "target": "Bobby Diaz",
-    "targetId": "4471"
-  },
-  {
-    "source": "Tony Babylon",
-    "target": "Kevin Bombay",
-    "targetId": "4472"
-  },
-  {
-    "source": "Tony Babylon",
-    "target": "Marc Poland",
-    "targetId": "4473"
-  }
-]
+{
+  "source": "Tony Babylon",
+  "targets": [
+    {
+      "name": "Anu Kirk",
+      "targetId": "92"
+    },
+    {
+      "name": "Bobby Diaz",
+      "targetId": "4471"
+    },
+    {
+      "name": "Kevin Bombay",
+      "targetId": "4472"
+    },
+    {
+      "name": "Marc Poland",
+      "targetId": "4473"
+    }
+  ]
+}

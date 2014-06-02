@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Shane Keister",
-    "target": "Crystal Gayle",
-    "targetId": "241"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "David Hungate",
-    "targetId": "591"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Sheldon Gomberg",
-    "targetId": "1035"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Dennis Molchan",
-    "targetId": "2275"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Kenny Malone",
-    "targetId": "4826"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Gregg Wattenberg",
-    "targetId": "5380"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "John Ondrasik",
-    "targetId": "5381"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Victor Lawrence",
-    "targetId": "5382"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Dorian Crozier",
-    "targetId": "5383"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Ralph Farris",
-    "targetId": "5385"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Carl Gorodetzky",
-    "targetId": "6486"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Gary Vanosdale",
-    "targetId": "6493"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Christian Teale",
-    "targetId": "6804"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Chris Leuzinger",
-    "targetId": "7578"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Donna Sheridan",
-    "targetId": "7579"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Hurshel Wiginton",
-    "targetId": "7580"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Judy Rodman",
-    "targetId": "7581"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Louis Nunley",
-    "targetId": "7582"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Charles Cochran",
-    "targetId": "7583"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "John David Boyle",
-    "targetId": "7584"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Roy Christensen",
-    "targetId": "7585"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Marvin Chantry",
-    "targetId": "7586"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "George Binkley",
-    "targetId": "7587"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Lenny Haight",
-    "targetId": "7588"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Pam VanOsdale",
-    "targetId": "7589"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Phyllis E. Hiltz",
-    "targetId": "7590"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Stephanie Woolf",
-    "targetId": "7591"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Virginia Christensen",
-    "targetId": "7592"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Walter Schwede",
-    "targetId": "7593"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Michael Johnson",
-    "targetId": "8976"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Jack Williams",
-    "targetId": "8977"
-  },
-  {
-    "source": "Shane Keister",
-    "target": "Farrell Morris",
-    "targetId": "8978"
-  }
-]
+{
+  "source": "Shane Keister",
+  "targets": [
+    {
+      "name": "Crystal Gayle",
+      "targetId": "241"
+    },
+    {
+      "name": "David Hungate",
+      "targetId": "591"
+    },
+    {
+      "name": "Sheldon Gomberg",
+      "targetId": "1035"
+    },
+    {
+      "name": "Dennis Molchan",
+      "targetId": "2275"
+    },
+    {
+      "name": "Kenny Malone",
+      "targetId": "4826"
+    },
+    {
+      "name": "Gregg Wattenberg",
+      "targetId": "5380"
+    },
+    {
+      "name": "John Ondrasik",
+      "targetId": "5381"
+    },
+    {
+      "name": "Victor Lawrence",
+      "targetId": "5382"
+    },
+    {
+      "name": "Dorian Crozier",
+      "targetId": "5383"
+    },
+    {
+      "name": "Ralph Farris",
+      "targetId": "5385"
+    },
+    {
+      "name": "Carl Gorodetzky",
+      "targetId": "6486"
+    },
+    {
+      "name": "Gary Vanosdale",
+      "targetId": "6493"
+    },
+    {
+      "name": "Christian Teale",
+      "targetId": "6804"
+    },
+    {
+      "name": "Chris Leuzinger",
+      "targetId": "7578"
+    },
+    {
+      "name": "Donna Sheridan",
+      "targetId": "7579"
+    },
+    {
+      "name": "Hurshel Wiginton",
+      "targetId": "7580"
+    },
+    {
+      "name": "Judy Rodman",
+      "targetId": "7581"
+    },
+    {
+      "name": "Louis Nunley",
+      "targetId": "7582"
+    },
+    {
+      "name": "Charles Cochran",
+      "targetId": "7583"
+    },
+    {
+      "name": "John David Boyle",
+      "targetId": "7584"
+    },
+    {
+      "name": "Roy Christensen",
+      "targetId": "7585"
+    },
+    {
+      "name": "Marvin Chantry",
+      "targetId": "7586"
+    },
+    {
+      "name": "George Binkley",
+      "targetId": "7587"
+    },
+    {
+      "name": "Lenny Haight",
+      "targetId": "7588"
+    },
+    {
+      "name": "Pam VanOsdale",
+      "targetId": "7589"
+    },
+    {
+      "name": "Phyllis E. Hiltz",
+      "targetId": "7590"
+    },
+    {
+      "name": "Stephanie Woolf",
+      "targetId": "7591"
+    },
+    {
+      "name": "Virginia Christensen",
+      "targetId": "7592"
+    },
+    {
+      "name": "Walter Schwede",
+      "targetId": "7593"
+    },
+    {
+      "name": "Michael Johnson",
+      "targetId": "8976"
+    },
+    {
+      "name": "Jack Williams",
+      "targetId": "8977"
+    },
+    {
+      "name": "Farrell Morris",
+      "targetId": "8978"
+    }
+  ]
+}

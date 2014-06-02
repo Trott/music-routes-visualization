@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Maureen Starkey",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Maureen Starkey",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Maureen Starkey",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Maureen Starkey",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Maureen Starkey",
-    "target": "Yoko Ono",
-    "targetId": "2686"
-  },
-  {
-    "source": "Maureen Starkey",
-    "target": "Chris Thomas",
-    "targetId": "8639"
-  }
-]
+{
+  "source": "Maureen Starkey",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Yoko Ono",
+      "targetId": "2686"
+    },
+    {
+      "name": "Chris Thomas",
+      "targetId": "8639"
+    }
+  ]
+}

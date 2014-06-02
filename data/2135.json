@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Chris Shiflett",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Chris Shiflett",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Chris Shiflett",
-    "target": "Fat Mike",
-    "targetId": "2131"
-  },
-  {
-    "source": "Chris Shiflett",
-    "target": "Spike Slawson",
-    "targetId": "2132"
-  },
-  {
-    "source": "Chris Shiflett",
-    "target": "Joey Cape",
-    "targetId": "2133"
-  },
-  {
-    "source": "Chris Shiflett",
-    "target": "Dave Raun",
-    "targetId": "2134"
-  },
-  {
-    "source": "Chris Shiflett",
-    "target": "Nate Mendel",
-    "targetId": "2136"
-  },
-  {
-    "source": "Chris Shiflett",
-    "target": "Taylor Hawkins",
-    "targetId": "2137"
-  }
-]
+{
+  "source": "Chris Shiflett",
+  "targets": [
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Fat Mike",
+      "targetId": "2131"
+    },
+    {
+      "name": "Spike Slawson",
+      "targetId": "2132"
+    },
+    {
+      "name": "Joey Cape",
+      "targetId": "2133"
+    },
+    {
+      "name": "Dave Raun",
+      "targetId": "2134"
+    },
+    {
+      "name": "Nate Mendel",
+      "targetId": "2136"
+    },
+    {
+      "name": "Taylor Hawkins",
+      "targetId": "2137"
+    }
+  ]
+}

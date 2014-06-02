@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Alex Darqui",
-    "target": "Jaco Pastorius",
-    "targetId": "345"
-  },
-  {
-    "source": "Alex Darqui",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Alex Darqui",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Alex Darqui",
-    "target": "Lenny White",
-    "targetId": "1636"
-  }
-]
+{
+  "source": "Alex Darqui",
+  "targets": [
+    {
+      "name": "Jaco Pastorius",
+      "targetId": "345"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Lenny White",
+      "targetId": "1636"
+    }
+  ]
+}

@@ -1,202 +1,165 @@
-[
-  {
-    "source": "Rex Morris",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Marianne Faithfull",
-    "targetId": "604"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Harry Klein",
-    "targetId": "1988"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Bill Povey",
-    "targetId": "1989"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Patti Harrison",
-    "targetId": "3363"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Gary Leeds",
-    "targetId": "9577"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Derek Watkins",
-    "targetId": "9690"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Freddy Clayton",
-    "targetId": "9696"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "David Mason",
-    "targetId": "9699"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Hunter Davies",
-    "targetId": "9703"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Mike McCartney",
-    "targetId": "9704"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Jane Asher",
-    "targetId": "9705"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Jack Emblow",
-    "targetId": "9706"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Evan Watkins",
-    "targetId": "9707"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Harry Spain",
-    "targetId": "9708"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Stanley Woods",
-    "targetId": "9709"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Don Honeywill",
-    "targetId": "9711"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Lionel Ross",
-    "targetId": "9712"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Jack Holmes",
-    "targetId": "9713"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Patrick Halling",
-    "targetId": "9714"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Eric Bowie",
-    "targetId": "9715"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "John Ronayne",
-    "targetId": "9716"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Francie Schwartz",
-    "targetId": "9849"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Don Lang",
-    "targetId": "9850"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "J. Power",
-    "targetId": "9851"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Raymond Newman",
-    "targetId": "9852"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "David Smith",
-    "targetId": "9853"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Dennis Walton",
-    "targetId": "9854"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Ronald Chamberlain",
-    "targetId": "9855"
-  },
-  {
-    "source": "Rex Morris",
-    "target": "Jim Chester",
-    "targetId": "9856"
-  }
-]
+{
+  "source": "Rex Morris",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Marianne Faithfull",
+      "targetId": "604"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Harry Klein",
+      "targetId": "1988"
+    },
+    {
+      "name": "Bill Povey",
+      "targetId": "1989"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "Patti Harrison",
+      "targetId": "3363"
+    },
+    {
+      "name": "Gary Leeds",
+      "targetId": "9577"
+    },
+    {
+      "name": "Derek Watkins",
+      "targetId": "9690"
+    },
+    {
+      "name": "Freddy Clayton",
+      "targetId": "9696"
+    },
+    {
+      "name": "David Mason",
+      "targetId": "9699"
+    },
+    {
+      "name": "Hunter Davies",
+      "targetId": "9703"
+    },
+    {
+      "name": "Mike McCartney",
+      "targetId": "9704"
+    },
+    {
+      "name": "Jane Asher",
+      "targetId": "9705"
+    },
+    {
+      "name": "Jack Emblow",
+      "targetId": "9706"
+    },
+    {
+      "name": "Evan Watkins",
+      "targetId": "9707"
+    },
+    {
+      "name": "Harry Spain",
+      "targetId": "9708"
+    },
+    {
+      "name": "Stanley Woods",
+      "targetId": "9709"
+    },
+    {
+      "name": "Don Honeywill",
+      "targetId": "9711"
+    },
+    {
+      "name": "Lionel Ross",
+      "targetId": "9712"
+    },
+    {
+      "name": "Jack Holmes",
+      "targetId": "9713"
+    },
+    {
+      "name": "Patrick Halling",
+      "targetId": "9714"
+    },
+    {
+      "name": "Eric Bowie",
+      "targetId": "9715"
+    },
+    {
+      "name": "John Ronayne",
+      "targetId": "9716"
+    },
+    {
+      "name": "Francie Schwartz",
+      "targetId": "9849"
+    },
+    {
+      "name": "Don Lang",
+      "targetId": "9850"
+    },
+    {
+      "name": "J. Power",
+      "targetId": "9851"
+    },
+    {
+      "name": "Raymond Newman",
+      "targetId": "9852"
+    },
+    {
+      "name": "David Smith",
+      "targetId": "9853"
+    },
+    {
+      "name": "Dennis Walton",
+      "targetId": "9854"
+    },
+    {
+      "name": "Ronald Chamberlain",
+      "targetId": "9855"
+    },
+    {
+      "name": "Jim Chester",
+      "targetId": "9856"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "David Devita",
-    "target": "Paul Bushnell",
-    "targetId": "6113"
-  },
-  {
-    "source": "David Devita",
-    "target": "Josh Freese",
-    "targetId": "6296"
-  },
-  {
-    "source": "David Devita",
-    "target": "Katy Perry",
-    "targetId": "6947"
-  },
-  {
-    "source": "David Devita",
-    "target": "Scott Cutler",
-    "targetId": "6954"
-  }
-]
+{
+  "source": "David Devita",
+  "targets": [
+    {
+      "name": "Paul Bushnell",
+      "targetId": "6113"
+    },
+    {
+      "name": "Josh Freese",
+      "targetId": "6296"
+    },
+    {
+      "name": "Katy Perry",
+      "targetId": "6947"
+    },
+    {
+      "name": "Scott Cutler",
+      "targetId": "6954"
+    }
+  ]
+}

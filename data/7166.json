@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Vinnie Amico",
-    "target": "Rob Derhak",
-    "targetId": "6889"
-  },
-  {
-    "source": "Vinnie Amico",
-    "target": "Chuck Garvey",
-    "targetId": "6890"
-  },
-  {
-    "source": "Vinnie Amico",
-    "target": "Al Schnier",
-    "targetId": "6891"
-  },
-  {
-    "source": "Vinnie Amico",
-    "target": "Jane Scarpantoni",
-    "targetId": "6980"
-  },
-  {
-    "source": "Vinnie Amico",
-    "target": "Lorenza Ponce",
-    "targetId": "7164"
-  },
-  {
-    "source": "Vinnie Amico",
-    "target": "Steve Young",
-    "targetId": "7165"
-  }
-]
+{
+  "source": "Vinnie Amico",
+  "targets": [
+    {
+      "name": "Rob Derhak",
+      "targetId": "6889"
+    },
+    {
+      "name": "Chuck Garvey",
+      "targetId": "6890"
+    },
+    {
+      "name": "Al Schnier",
+      "targetId": "6891"
+    },
+    {
+      "name": "Jane Scarpantoni",
+      "targetId": "6980"
+    },
+    {
+      "name": "Lorenza Ponce",
+      "targetId": "7164"
+    },
+    {
+      "name": "Steve Young",
+      "targetId": "7165"
+    }
+  ]
+}

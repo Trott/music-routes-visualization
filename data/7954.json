@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jeffrey Foskett",
-    "target": "Brian Wilson",
-    "targetId": "1475"
-  },
-  {
-    "source": "Jeffrey Foskett",
-    "target": "Andy Paley",
-    "targetId": "3261"
-  },
-  {
-    "source": "Jeffrey Foskett",
-    "target": "Darian Sahanaja",
-    "targetId": "7953"
-  },
-  {
-    "source": "Jeffrey Foskett",
-    "target": "Scott Bennett",
-    "targetId": "7955"
-  }
-]
+{
+  "source": "Jeffrey Foskett",
+  "targets": [
+    {
+      "name": "Brian Wilson",
+      "targetId": "1475"
+    },
+    {
+      "name": "Andy Paley",
+      "targetId": "3261"
+    },
+    {
+      "name": "Darian Sahanaja",
+      "targetId": "7953"
+    },
+    {
+      "name": "Scott Bennett",
+      "targetId": "7955"
+    }
+  ]
+}

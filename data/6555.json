@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Eric \"Von Ravenson\" Johnson",
-    "target": "Greg Ashley",
-    "targetId": "1590"
-  },
-  {
-    "source": "Eric \"Von Ravenson\" Johnson",
-    "target": "Chris Stroffolino",
-    "targetId": "5936"
-  },
-  {
-    "source": "Eric \"Von Ravenson\" Johnson",
-    "target": "Jay \"Bronzo\" Bronzini",
-    "targetId": "6556"
-  },
-  {
-    "source": "Eric \"Von Ravenson\" Johnson",
-    "target": "Jenny Raven",
-    "targetId": "6557"
-  }
-]
+{
+  "source": "Eric \"Von Ravenson\" Johnson",
+  "targets": [
+    {
+      "name": "Greg Ashley",
+      "targetId": "1590"
+    },
+    {
+      "name": "Chris Stroffolino",
+      "targetId": "5936"
+    },
+    {
+      "name": "Jay \"Bronzo\" Bronzini",
+      "targetId": "6556"
+    },
+    {
+      "name": "Jenny Raven",
+      "targetId": "6557"
+    }
+  ]
+}

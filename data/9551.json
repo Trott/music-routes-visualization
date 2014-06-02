@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Nigel Harrison",
-    "target": "Steve Jones",
-    "targetId": "1630"
-  },
-  {
-    "source": "Nigel Harrison",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Nigel Harrison",
-    "target": "Clem Burke",
-    "targetId": "3280"
-  }
-]
+{
+  "source": "Nigel Harrison",
+  "targets": [
+    {
+      "name": "Steve Jones",
+      "targetId": "1630"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Clem Burke",
+      "targetId": "3280"
+    }
+  ]
+}

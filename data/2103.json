@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Andy Summers",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "Andy Summers",
-    "target": "Stewart Copeland",
-    "targetId": "2102"
-  },
-  {
-    "source": "Andy Summers",
-    "target": "Mike Howlett",
-    "targetId": "4430"
-  }
-]
+{
+  "source": "Andy Summers",
+  "targets": [
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Stewart Copeland",
+      "targetId": "2102"
+    },
+    {
+      "name": "Mike Howlett",
+      "targetId": "4430"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sally Norvell",
-    "target": "Eugene Hütz",
-    "targetId": "10544"
-  },
-  {
-    "source": "Sally Norvell",
-    "target": "Sasha Kazatchkoff",
-    "targetId": "10545"
-  },
-  {
-    "source": "Sally Norvell",
-    "target": "Vlad Solovar",
-    "targetId": "10546"
-  },
-  {
-    "source": "Sally Norvell",
-    "target": "Eliot Ferguson",
-    "targetId": "10547"
-  }
-]
+{
+  "source": "Sally Norvell",
+  "targets": [
+    {
+      "name": "Eugene Hütz",
+      "targetId": "10544"
+    },
+    {
+      "name": "Sasha Kazatchkoff",
+      "targetId": "10545"
+    },
+    {
+      "name": "Vlad Solovar",
+      "targetId": "10546"
+    },
+    {
+      "name": "Eliot Ferguson",
+      "targetId": "10547"
+    }
+  ]
+}

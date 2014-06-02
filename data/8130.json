@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jay Sean",
-    "target": "Lil Wayne",
-    "targetId": "3859"
-  },
-  {
-    "source": "Jay Sean",
-    "target": "Lil Jon",
-    "targetId": "7318"
-  },
-  {
-    "source": "Jay Sean",
-    "target": "Sean Paul",
-    "targetId": "8131"
-  },
-  {
-    "source": "Jay Sean",
-    "target": "Jared Cotter",
-    "targetId": "8132"
-  }
-]
+{
+  "source": "Jay Sean",
+  "targets": [
+    {
+      "name": "Lil Wayne",
+      "targetId": "3859"
+    },
+    {
+      "name": "Lil Jon",
+      "targetId": "7318"
+    },
+    {
+      "name": "Sean Paul",
+      "targetId": "8131"
+    },
+    {
+      "name": "Jared Cotter",
+      "targetId": "8132"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Gary Levitt",
-    "target": "Erica Quitzow",
-    "targetId": "7139"
-  },
-  {
-    "source": "Gary Levitt",
-    "target": "Lawrence Roper",
-    "targetId": "7140"
-  },
-  {
-    "source": "Gary Levitt",
-    "target": "Jeff Raffensperger",
-    "targetId": "7141"
-  },
-  {
-    "source": "Gary Levitt",
-    "target": "Frank Ciampi",
-    "targetId": "7142"
-  }
-]
+{
+  "source": "Gary Levitt",
+  "targets": [
+    {
+      "name": "Erica Quitzow",
+      "targetId": "7139"
+    },
+    {
+      "name": "Lawrence Roper",
+      "targetId": "7140"
+    },
+    {
+      "name": "Jeff Raffensperger",
+      "targetId": "7141"
+    },
+    {
+      "name": "Frank Ciampi",
+      "targetId": "7142"
+    }
+  ]
+}

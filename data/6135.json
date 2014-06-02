@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mikey Graham",
-    "target": "Luciano Pavarotti",
-    "targetId": "823"
-  },
-  {
-    "source": "Mikey Graham",
-    "target": "Keith Duffy",
-    "targetId": "6134"
-  },
-  {
-    "source": "Mikey Graham",
-    "target": "Ronan Keating",
-    "targetId": "6136"
-  },
-  {
-    "source": "Mikey Graham",
-    "target": "Shane Lynch",
-    "targetId": "6137"
-  },
-  {
-    "source": "Mikey Graham",
-    "target": "Stephen Gately",
-    "targetId": "6138"
-  }
-]
+{
+  "source": "Mikey Graham",
+  "targets": [
+    {
+      "name": "Luciano Pavarotti",
+      "targetId": "823"
+    },
+    {
+      "name": "Keith Duffy",
+      "targetId": "6134"
+    },
+    {
+      "name": "Ronan Keating",
+      "targetId": "6136"
+    },
+    {
+      "name": "Shane Lynch",
+      "targetId": "6137"
+    },
+    {
+      "name": "Stephen Gately",
+      "targetId": "6138"
+    }
+  ]
+}

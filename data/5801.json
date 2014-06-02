@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paul Hutchinson",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Paul Hutchinson",
-    "target": "Elliot Easton",
-    "targetId": "957"
-  },
-  {
-    "source": "Paul Hutchinson",
-    "target": "Tommy Lee",
-    "targetId": "1357"
-  },
-  {
-    "source": "Paul Hutchinson",
-    "target": "Chazz Coghlan",
-    "targetId": "5800"
-  }
-]
+{
+  "source": "Paul Hutchinson",
+  "targets": [
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Elliot Easton",
+      "targetId": "957"
+    },
+    {
+      "name": "Tommy Lee",
+      "targetId": "1357"
+    },
+    {
+      "name": "Chazz Coghlan",
+      "targetId": "5800"
+    }
+  ]
+}

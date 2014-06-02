@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Steve Lawrence",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Steve Lawrence",
-    "target": "Eydie Gormé",
-    "targetId": "1779"
-  }
-]
+{
+  "source": "Steve Lawrence",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Eydie Gormé",
+      "targetId": "1779"
+    }
+  ]
+}

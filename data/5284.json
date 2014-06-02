@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rachel Devine",
-    "target": "Richard Youngs",
-    "targetId": "217"
-  },
-  {
-    "source": "Rachel Devine",
-    "target": "David Keenan",
-    "targetId": "5282"
-  },
-  {
-    "source": "Rachel Devine",
-    "target": "Gavin Laird",
-    "targetId": "5283"
-  },
-  {
-    "source": "Rachel Devine",
-    "target": "Brendan O'Hare",
-    "targetId": "5285"
-  }
-]
+{
+  "source": "Rachel Devine",
+  "targets": [
+    {
+      "name": "Richard Youngs",
+      "targetId": "217"
+    },
+    {
+      "name": "David Keenan",
+      "targetId": "5282"
+    },
+    {
+      "name": "Gavin Laird",
+      "targetId": "5283"
+    },
+    {
+      "name": "Brendan O'Hare",
+      "targetId": "5285"
+    }
+  ]
+}

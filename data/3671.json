@@ -1,52 +1,45 @@
-[
-  {
-    "source": "John Ginty",
-    "target": "Sebastian Steinberg",
-    "targetId": "37"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Greg Leisz",
-    "targetId": "1061"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Don Heffington",
-    "targetId": "3274"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Kathleen Edwards",
-    "targetId": "3661"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Jim Bryson",
-    "targetId": "3664"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Anne Lindsay",
-    "targetId": "3665"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Johann Lotter",
-    "targetId": "3666"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Kevin Fox",
-    "targetId": "3667"
-  },
-  {
-    "source": "John Ginty",
-    "target": "Paul Reddick",
-    "targetId": "3669"
-  }
-]
+{
+  "source": "John Ginty",
+  "targets": [
+    {
+      "name": "Sebastian Steinberg",
+      "targetId": "37"
+    },
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Greg Leisz",
+      "targetId": "1061"
+    },
+    {
+      "name": "Don Heffington",
+      "targetId": "3274"
+    },
+    {
+      "name": "Kathleen Edwards",
+      "targetId": "3661"
+    },
+    {
+      "name": "Jim Bryson",
+      "targetId": "3664"
+    },
+    {
+      "name": "Anne Lindsay",
+      "targetId": "3665"
+    },
+    {
+      "name": "Johann Lotter",
+      "targetId": "3666"
+    },
+    {
+      "name": "Kevin Fox",
+      "targetId": "3667"
+    },
+    {
+      "name": "Paul Reddick",
+      "targetId": "3669"
+    }
+  ]
+}

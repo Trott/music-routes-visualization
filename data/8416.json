@@ -1,47 +1,41 @@
-[
-  {
-    "source": "John Lilley",
-    "target": "Rick Danko",
-    "targetId": "29"
-  },
-  {
-    "source": "John Lilley",
-    "target": "Levon Helm",
-    "targetId": "32"
-  },
-  {
-    "source": "John Lilley",
-    "target": "Garth Hudson",
-    "targetId": "33"
-  },
-  {
-    "source": "John Lilley",
-    "target": "Sinéad O'Connor",
-    "targetId": "596"
-  },
-  {
-    "source": "John Lilley",
-    "target": "Roger Waters",
-    "targetId": "2003"
-  },
-  {
-    "source": "John Lilley",
-    "target": "Eric Bazilian",
-    "targetId": "3441"
-  },
-  {
-    "source": "John Lilley",
-    "target": "Rob Hyman",
-    "targetId": "3443"
-  },
-  {
-    "source": "John Lilley",
-    "target": "Fran Smith, Jr.",
-    "targetId": "8417"
-  },
-  {
-    "source": "John Lilley",
-    "target": "Dave Uosikkinen",
-    "targetId": "8418"
-  }
-]
+{
+  "source": "John Lilley",
+  "targets": [
+    {
+      "name": "Rick Danko",
+      "targetId": "29"
+    },
+    {
+      "name": "Levon Helm",
+      "targetId": "32"
+    },
+    {
+      "name": "Garth Hudson",
+      "targetId": "33"
+    },
+    {
+      "name": "Sinéad O'Connor",
+      "targetId": "596"
+    },
+    {
+      "name": "Roger Waters",
+      "targetId": "2003"
+    },
+    {
+      "name": "Eric Bazilian",
+      "targetId": "3441"
+    },
+    {
+      "name": "Rob Hyman",
+      "targetId": "3443"
+    },
+    {
+      "name": "Fran Smith, Jr.",
+      "targetId": "8417"
+    },
+    {
+      "name": "Dave Uosikkinen",
+      "targetId": "8418"
+    }
+  ]
+}

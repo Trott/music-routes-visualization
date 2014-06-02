@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Don Letts",
-    "target": "Mick Jones",
-    "targetId": "4129"
-  },
-  {
-    "source": "Don Letts",
-    "target": "Leo Williams",
-    "targetId": "8064"
-  },
-  {
-    "source": "Don Letts",
-    "target": "Greg Roberts",
-    "targetId": "8065"
-  },
-  {
-    "source": "Don Letts",
-    "target": "Dan Donovan",
-    "targetId": "8066"
-  }
-]
+{
+  "source": "Don Letts",
+  "targets": [
+    {
+      "name": "Mick Jones",
+      "targetId": "4129"
+    },
+    {
+      "name": "Leo Williams",
+      "targetId": "8064"
+    },
+    {
+      "name": "Greg Roberts",
+      "targetId": "8065"
+    },
+    {
+      "name": "Dan Donovan",
+      "targetId": "8066"
+    }
+  ]
+}

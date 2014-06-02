@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Curley Cooke",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Curley Cooke",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Curley Cooke",
-    "target": "Tim Davis",
-    "targetId": "5564"
-  },
-  {
-    "source": "Curley Cooke",
-    "target": "Bobby Winkelman",
-    "targetId": "5565"
-  },
-  {
-    "source": "Curley Cooke",
-    "target": "Bud Billings",
-    "targetId": "5569"
-  },
-  {
-    "source": "Curley Cooke",
-    "target": "Lee Michaels",
-    "targetId": "5570"
-  }
-]
+{
+  "source": "Curley Cooke",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Tim Davis",
+      "targetId": "5564"
+    },
+    {
+      "name": "Bobby Winkelman",
+      "targetId": "5565"
+    },
+    {
+      "name": "Bud Billings",
+      "targetId": "5569"
+    },
+    {
+      "name": "Lee Michaels",
+      "targetId": "5570"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jean Smith",
-    "target": "Peter Jefferies",
-    "targetId": "10935"
-  },
-  {
-    "source": "Jean Smith",
-    "target": "Michael Morley",
-    "targetId": "10936"
-  }
-]
+{
+  "source": "Jean Smith",
+  "targets": [
+    {
+      "name": "Peter Jefferies",
+      "targetId": "10935"
+    },
+    {
+      "name": "Michael Morley",
+      "targetId": "10936"
+    }
+  ]
+}

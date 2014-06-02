@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jim Volentine",
-    "target": "John Mark Painter",
-    "targetId": "183"
-  },
-  {
-    "source": "Jim Volentine",
-    "target": "Britt Daniel",
-    "targetId": "9654"
-  },
-  {
-    "source": "Jim Volentine",
-    "target": "Eric Harvey",
-    "targetId": "9655"
-  },
-  {
-    "source": "Jim Volentine",
-    "target": "Jim Eno",
-    "targetId": "9656"
-  },
-  {
-    "source": "Jim Volentine",
-    "target": "Mike McCarthy",
-    "targetId": "9667"
-  },
-  {
-    "source": "Jim Volentine",
-    "target": "Josh Zarbo",
-    "targetId": "9672"
-  }
-]
+{
+  "source": "Jim Volentine",
+  "targets": [
+    {
+      "name": "John Mark Painter",
+      "targetId": "183"
+    },
+    {
+      "name": "Britt Daniel",
+      "targetId": "9654"
+    },
+    {
+      "name": "Eric Harvey",
+      "targetId": "9655"
+    },
+    {
+      "name": "Jim Eno",
+      "targetId": "9656"
+    },
+    {
+      "name": "Mike McCarthy",
+      "targetId": "9667"
+    },
+    {
+      "name": "Josh Zarbo",
+      "targetId": "9672"
+    }
+  ]
+}

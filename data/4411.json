@@ -1,27 +1,25 @@
-[
-  {
-    "source": "George Cintron",
-    "target": "Al Pitrelli",
-    "targetId": "3643"
-  },
-  {
-    "source": "George Cintron",
-    "target": "Ted Poley",
-    "targetId": "4404"
-  },
-  {
-    "source": "George Cintron",
-    "target": "Kasey Smith",
-    "targetId": "4407"
-  },
-  {
-    "source": "George Cintron",
-    "target": "Bruno Ravel",
-    "targetId": "4408"
-  },
-  {
-    "source": "George Cintron",
-    "target": "Steve West",
-    "targetId": "4409"
-  }
-]
+{
+  "source": "George Cintron",
+  "targets": [
+    {
+      "name": "Al Pitrelli",
+      "targetId": "3643"
+    },
+    {
+      "name": "Ted Poley",
+      "targetId": "4404"
+    },
+    {
+      "name": "Kasey Smith",
+      "targetId": "4407"
+    },
+    {
+      "name": "Bruno Ravel",
+      "targetId": "4408"
+    },
+    {
+      "name": "Steve West",
+      "targetId": "4409"
+    }
+  ]
+}

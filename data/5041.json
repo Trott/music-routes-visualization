@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Morris Acevedo",
-    "target": "Chris Grady",
-    "targetId": "996"
-  },
-  {
-    "source": "Morris Acevedo",
-    "target": "Emily Bezar",
-    "targetId": "5037"
-  },
-  {
-    "source": "Morris Acevedo",
-    "target": "David Barret",
-    "targetId": "5038"
-  },
-  {
-    "source": "Morris Acevedo",
-    "target": "Andrew Higgins",
-    "targetId": "5039"
-  },
-  {
-    "source": "Morris Acevedo",
-    "target": "Steve Rossi",
-    "targetId": "5040"
-  }
-]
+{
+  "source": "Morris Acevedo",
+  "targets": [
+    {
+      "name": "Chris Grady",
+      "targetId": "996"
+    },
+    {
+      "name": "Emily Bezar",
+      "targetId": "5037"
+    },
+    {
+      "name": "David Barret",
+      "targetId": "5038"
+    },
+    {
+      "name": "Andrew Higgins",
+      "targetId": "5039"
+    },
+    {
+      "name": "Steve Rossi",
+      "targetId": "5040"
+    }
+  ]
+}

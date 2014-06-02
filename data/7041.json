@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Milo Aukerman",
-    "target": "Bill Stevenson",
-    "targetId": "733"
-  },
-  {
-    "source": "Milo Aukerman",
-    "target": "Karl Alvarez",
-    "targetId": "734"
-  },
-  {
-    "source": "Milo Aukerman",
-    "target": "Stephen Egerton",
-    "targetId": "7042"
-  }
-]
+{
+  "source": "Milo Aukerman",
+  "targets": [
+    {
+      "name": "Bill Stevenson",
+      "targetId": "733"
+    },
+    {
+      "name": "Karl Alvarez",
+      "targetId": "734"
+    },
+    {
+      "name": "Stephen Egerton",
+      "targetId": "7042"
+    }
+  ]
+}

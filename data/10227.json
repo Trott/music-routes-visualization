@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dave Rosenthal",
-    "target": "Steve Vai",
-    "targetId": "1293"
-  },
-  {
-    "source": "Dave Rosenthal",
-    "target": "Tris Imboden",
-    "targetId": "2512"
-  },
-  {
-    "source": "Dave Rosenthal",
-    "target": "Stuart Hamm",
-    "targetId": "8032"
-  },
-  {
-    "source": "Dave Rosenthal",
-    "target": "Chris Frazier",
-    "targetId": "10226"
-  }
-]
+{
+  "source": "Dave Rosenthal",
+  "targets": [
+    {
+      "name": "Steve Vai",
+      "targetId": "1293"
+    },
+    {
+      "name": "Tris Imboden",
+      "targetId": "2512"
+    },
+    {
+      "name": "Stuart Hamm",
+      "targetId": "8032"
+    },
+    {
+      "name": "Chris Frazier",
+      "targetId": "10226"
+    }
+  ]
+}

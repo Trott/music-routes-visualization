@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rick Wartell",
-    "target": "Bruce Franklin",
-    "targetId": "2036"
-  },
-  {
-    "source": "Rick Wartell",
-    "target": "Ron Holzner",
-    "targetId": "2037"
-  },
-  {
-    "source": "Rick Wartell",
-    "target": "Barry Stern",
-    "targetId": "2038"
-  },
-  {
-    "source": "Rick Wartell",
-    "target": "Eric Wagner",
-    "targetId": "2040"
-  }
-]
+{
+  "source": "Rick Wartell",
+  "targets": [
+    {
+      "name": "Bruce Franklin",
+      "targetId": "2036"
+    },
+    {
+      "name": "Ron Holzner",
+      "targetId": "2037"
+    },
+    {
+      "name": "Barry Stern",
+      "targetId": "2038"
+    },
+    {
+      "name": "Eric Wagner",
+      "targetId": "2040"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Andy Wood",
-    "target": "Rob Swire",
-    "targetId": "10557"
-  },
-  {
-    "source": "Andy Wood",
-    "target": "Adrian Revell",
-    "targetId": "10559"
-  },
-  {
-    "source": "Andy Wood",
-    "target": "Andy Greenwood",
-    "targetId": "10560"
-  },
-  {
-    "source": "Andy Wood",
-    "target": "Craig Wild",
-    "targetId": "10562"
-  },
-  {
-    "source": "Andy Wood",
-    "target": "Martin Williams",
-    "targetId": "10563"
-  }
-]
+{
+  "source": "Andy Wood",
+  "targets": [
+    {
+      "name": "Rob Swire",
+      "targetId": "10557"
+    },
+    {
+      "name": "Adrian Revell",
+      "targetId": "10559"
+    },
+    {
+      "name": "Andy Greenwood",
+      "targetId": "10560"
+    },
+    {
+      "name": "Craig Wild",
+      "targetId": "10562"
+    },
+    {
+      "name": "Martin Williams",
+      "targetId": "10563"
+    }
+  ]
+}

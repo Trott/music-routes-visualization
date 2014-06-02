@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Adam Miller",
-    "target": "Johnny Whitney",
-    "targetId": "5752"
-  },
-  {
-    "source": "Adam Miller",
-    "target": "Devin Welch",
-    "targetId": "5767"
-  },
-  {
-    "source": "Adam Miller",
-    "target": "Hannah Blilie",
-    "targetId": "5768"
-  }
-]
+{
+  "source": "Adam Miller",
+  "targets": [
+    {
+      "name": "Johnny Whitney",
+      "targetId": "5752"
+    },
+    {
+      "name": "Devin Welch",
+      "targetId": "5767"
+    },
+    {
+      "name": "Hannah Blilie",
+      "targetId": "5768"
+    }
+  ]
+}

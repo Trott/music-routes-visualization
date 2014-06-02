@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Richie Waits",
-    "target": "Bob Ostertag",
-    "targetId": "3201"
-  },
-  {
-    "source": "Richie Waits",
-    "target": "Fred Frith",
-    "targetId": "3202"
-  },
-  {
-    "source": "Richie Waits",
-    "target": "Andrea Lewis",
-    "targetId": "3211"
-  },
-  {
-    "source": "Richie Waits",
-    "target": "JD Reilly",
-    "targetId": "3214"
-  },
-  {
-    "source": "Richie Waits",
-    "target": "Annie Toone",
-    "targetId": "3215"
-  }
-]
+{
+  "source": "Richie Waits",
+  "targets": [
+    {
+      "name": "Bob Ostertag",
+      "targetId": "3201"
+    },
+    {
+      "name": "Fred Frith",
+      "targetId": "3202"
+    },
+    {
+      "name": "Andrea Lewis",
+      "targetId": "3211"
+    },
+    {
+      "name": "JD Reilly",
+      "targetId": "3214"
+    },
+    {
+      "name": "Annie Toone",
+      "targetId": "3215"
+    }
+  ]
+}

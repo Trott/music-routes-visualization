@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Stuart Johnson",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Stuart Johnson",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Stuart Johnson",
-    "target": "Madelyn Quebec",
-    "targetId": "562"
-  },
-  {
-    "source": "Stuart Johnson",
-    "target": "Bashiri Johnson",
-    "targetId": "2373"
-  },
-  {
-    "source": "Stuart Johnson",
-    "target": "Richard Scher",
-    "targetId": "10034"
-  },
-  {
-    "source": "Stuart Johnson",
-    "target": "Sly Dunbar",
-    "targetId": "10036"
-  },
-  {
-    "source": "Stuart Johnson",
-    "target": "Robbie Shakespeare",
-    "targetId": "10037"
-  }
-]
+{
+  "source": "Stuart Johnson",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "Madelyn Quebec",
+      "targetId": "562"
+    },
+    {
+      "name": "Bashiri Johnson",
+      "targetId": "2373"
+    },
+    {
+      "name": "Richard Scher",
+      "targetId": "10034"
+    },
+    {
+      "name": "Sly Dunbar",
+      "targetId": "10036"
+    },
+    {
+      "name": "Robbie Shakespeare",
+      "targetId": "10037"
+    }
+  ]
+}

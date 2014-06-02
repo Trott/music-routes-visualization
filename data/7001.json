@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jerod Minnies",
-    "target": "Jeff Trott",
-    "targetId": "1022"
-  },
-  {
-    "source": "Jerod Minnies",
-    "target": "Guy Chambers",
-    "targetId": "6515"
-  },
-  {
-    "source": "Jerod Minnies",
-    "target": "Karl Wallinger",
-    "targetId": "7000"
-  }
-]
+{
+  "source": "Jerod Minnies",
+  "targets": [
+    {
+      "name": "Jeff Trott",
+      "targetId": "1022"
+    },
+    {
+      "name": "Guy Chambers",
+      "targetId": "6515"
+    },
+    {
+      "name": "Karl Wallinger",
+      "targetId": "7000"
+    }
+  ]
+}

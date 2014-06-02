@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Barry Gibb",
-    "target": "Alan Kendall",
-    "targetId": "488"
-  },
-  {
-    "source": "Barry Gibb",
-    "target": "Robin Gibb",
-    "targetId": "1279"
-  },
-  {
-    "source": "Barry Gibb",
-    "target": "Maurice Gibb",
-    "targetId": "2383"
-  },
-  {
-    "source": "Barry Gibb",
-    "target": "Blue Weaver",
-    "targetId": "2384"
-  },
-  {
-    "source": "Barry Gibb",
-    "target": "Joe Lala",
-    "targetId": "2385"
-  },
-  {
-    "source": "Barry Gibb",
-    "target": "Dennis Bryon",
-    "targetId": "2386"
-  }
-]
+{
+  "source": "Barry Gibb",
+  "targets": [
+    {
+      "name": "Alan Kendall",
+      "targetId": "488"
+    },
+    {
+      "name": "Robin Gibb",
+      "targetId": "1279"
+    },
+    {
+      "name": "Maurice Gibb",
+      "targetId": "2383"
+    },
+    {
+      "name": "Blue Weaver",
+      "targetId": "2384"
+    },
+    {
+      "name": "Joe Lala",
+      "targetId": "2385"
+    },
+    {
+      "name": "Dennis Bryon",
+      "targetId": "2386"
+    }
+  ]
+}

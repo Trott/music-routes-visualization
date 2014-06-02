@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Justin Chancellor",
-    "target": "Maynard James Keenan",
-    "targetId": "8028"
-  },
-  {
-    "source": "Justin Chancellor",
-    "target": "Adam Jones",
-    "targetId": "8029"
-  },
-  {
-    "source": "Justin Chancellor",
-    "target": "Danny Carey",
-    "targetId": "8030"
-  }
-]
+{
+  "source": "Justin Chancellor",
+  "targets": [
+    {
+      "name": "Maynard James Keenan",
+      "targetId": "8028"
+    },
+    {
+      "name": "Adam Jones",
+      "targetId": "8029"
+    },
+    {
+      "name": "Danny Carey",
+      "targetId": "8030"
+    }
+  ]
+}

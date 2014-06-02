@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Tanya Tucker",
-    "target": "Big Bird",
-    "targetId": "240"
-  },
-  {
-    "source": "Tanya Tucker",
-    "target": "Glen Campbell",
-    "targetId": "524"
-  },
-  {
-    "source": "Tanya Tucker",
-    "target": "Dolly Parton",
-    "targetId": "569"
-  },
-  {
-    "source": "Tanya Tucker",
-    "target": "Billy Ray Cyrus",
-    "targetId": "574"
-  },
-  {
-    "source": "Tanya Tucker",
-    "target": "Kathy Mattea",
-    "targetId": "575"
-  },
-  {
-    "source": "Tanya Tucker",
-    "target": "Mary Chapin Carpenter",
-    "targetId": "576"
-  },
-  {
-    "source": "Tanya Tucker",
-    "target": "Pam Tillis",
-    "targetId": "577"
-  }
-]
+{
+  "source": "Tanya Tucker",
+  "targets": [
+    {
+      "name": "Big Bird",
+      "targetId": "240"
+    },
+    {
+      "name": "Glen Campbell",
+      "targetId": "524"
+    },
+    {
+      "name": "Dolly Parton",
+      "targetId": "569"
+    },
+    {
+      "name": "Billy Ray Cyrus",
+      "targetId": "574"
+    },
+    {
+      "name": "Kathy Mattea",
+      "targetId": "575"
+    },
+    {
+      "name": "Mary Chapin Carpenter",
+      "targetId": "576"
+    },
+    {
+      "name": "Pam Tillis",
+      "targetId": "577"
+    }
+  ]
+}

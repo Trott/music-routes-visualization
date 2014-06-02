@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Dave Palmer",
-    "target": "Neneh Cherry",
-    "targetId": "2405"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "Matt Johnson",
-    "targetId": "2957"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "Dave Clayton",
-    "targetId": "2958"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "Warne Livesey",
-    "targetId": "2960"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "Jamie Talbot",
-    "targetId": "2961"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "John Thirkell",
-    "targetId": "2962"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "Johnny Marr",
-    "targetId": "2966"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "Bernard Sumner",
-    "targetId": "2967"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "Neil Tennant",
-    "targetId": "2971"
-  },
-  {
-    "source": "Dave Palmer",
-    "target": "Donald Johnson",
-    "targetId": "2972"
-  }
-]
+{
+  "source": "Dave Palmer",
+  "targets": [
+    {
+      "name": "Neneh Cherry",
+      "targetId": "2405"
+    },
+    {
+      "name": "Matt Johnson",
+      "targetId": "2957"
+    },
+    {
+      "name": "Dave Clayton",
+      "targetId": "2958"
+    },
+    {
+      "name": "Warne Livesey",
+      "targetId": "2960"
+    },
+    {
+      "name": "Jamie Talbot",
+      "targetId": "2961"
+    },
+    {
+      "name": "John Thirkell",
+      "targetId": "2962"
+    },
+    {
+      "name": "Johnny Marr",
+      "targetId": "2966"
+    },
+    {
+      "name": "Bernard Sumner",
+      "targetId": "2967"
+    },
+    {
+      "name": "Neil Tennant",
+      "targetId": "2971"
+    },
+    {
+      "name": "Donald Johnson",
+      "targetId": "2972"
+    }
+  ]
+}

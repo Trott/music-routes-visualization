@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Shaggy",
-    "target": "Toots Hibbert",
-    "targetId": "6822"
-  },
-  {
-    "source": "Shaggy",
-    "target": "Rahzel",
-    "targetId": "6833"
-  }
-]
+{
+  "source": "Shaggy",
+  "targets": [
+    {
+      "name": "Toots Hibbert",
+      "targetId": "6822"
+    },
+    {
+      "name": "Rahzel",
+      "targetId": "6833"
+    }
+  ]
+}

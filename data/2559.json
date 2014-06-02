@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Louie Pérez",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "Louie Pérez",
-    "target": "David Hidalgo",
-    "targetId": "285"
-  },
-  {
-    "source": "Louie Pérez",
-    "target": "Mitchell Froom",
-    "targetId": "289"
-  },
-  {
-    "source": "Louie Pérez",
-    "target": "Cesar Rosas",
-    "targetId": "2556"
-  },
-  {
-    "source": "Louie Pérez",
-    "target": "Steve Berlin",
-    "targetId": "2557"
-  },
-  {
-    "source": "Louie Pérez",
-    "target": "Conrad Lozano",
-    "targetId": "2558"
-  },
-  {
-    "source": "Louie Pérez",
-    "target": "Tchad Blake",
-    "targetId": "2560"
-  }
-]
+{
+  "source": "Louie Pérez",
+  "targets": [
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "David Hidalgo",
+      "targetId": "285"
+    },
+    {
+      "name": "Mitchell Froom",
+      "targetId": "289"
+    },
+    {
+      "name": "Cesar Rosas",
+      "targetId": "2556"
+    },
+    {
+      "name": "Steve Berlin",
+      "targetId": "2557"
+    },
+    {
+      "name": "Conrad Lozano",
+      "targetId": "2558"
+    },
+    {
+      "name": "Tchad Blake",
+      "targetId": "2560"
+    }
+  ]
+}

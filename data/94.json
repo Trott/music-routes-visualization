@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Doug Martsch",
-    "target": "Sam Coomes",
-    "targetId": "23"
-  },
-  {
-    "source": "Doug Martsch",
-    "target": "Scott Plouf",
-    "targetId": "95"
-  }
-]
+{
+  "source": "Doug Martsch",
+  "targets": [
+    {
+      "name": "Sam Coomes",
+      "targetId": "23"
+    },
+    {
+      "name": "Scott Plouf",
+      "targetId": "95"
+    }
+  ]
+}

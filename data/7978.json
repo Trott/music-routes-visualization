@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jon Joyce",
-    "target": "Bruce Johnston",
-    "targetId": "232"
-  },
-  {
-    "source": "Jon Joyce",
-    "target": "Russ Kunkel",
-    "targetId": "458"
-  },
-  {
-    "source": "Jon Joyce",
-    "target": "Joe Osborn",
-    "targetId": "1209"
-  },
-  {
-    "source": "Jon Joyce",
-    "target": "Art Garfunkel",
-    "targetId": "1474"
-  },
-  {
-    "source": "Jon Joyce",
-    "target": "Andrew Gold",
-    "targetId": "7972"
-  },
-  {
-    "source": "Jon Joyce",
-    "target": "Toni Tennille",
-    "targetId": "7977"
-  }
-]
+{
+  "source": "Jon Joyce",
+  "targets": [
+    {
+      "name": "Bruce Johnston",
+      "targetId": "232"
+    },
+    {
+      "name": "Russ Kunkel",
+      "targetId": "458"
+    },
+    {
+      "name": "Joe Osborn",
+      "targetId": "1209"
+    },
+    {
+      "name": "Art Garfunkel",
+      "targetId": "1474"
+    },
+    {
+      "name": "Andrew Gold",
+      "targetId": "7972"
+    },
+    {
+      "name": "Toni Tennille",
+      "targetId": "7977"
+    }
+  ]
+}

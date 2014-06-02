@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Brian Wheat",
-    "target": "Jeff Keith",
-    "targetId": "5008"
-  },
-  {
-    "source": "Brian Wheat",
-    "target": "Frank Hannon",
-    "targetId": "5010"
-  },
-  {
-    "source": "Brian Wheat",
-    "target": "Troy Luccketta",
-    "targetId": "5011"
-  },
-  {
-    "source": "Brian Wheat",
-    "target": "Tommy Skeoch",
-    "targetId": "5012"
-  },
-  {
-    "source": "Brian Wheat",
-    "target": "Darin Wood",
-    "targetId": "5013"
-  },
-  {
-    "source": "Brian Wheat",
-    "target": "Tommy McClendon",
-    "targetId": "5014"
-  },
-  {
-    "source": "Brian Wheat",
-    "target": "Mike Vanderhule",
-    "targetId": "5015"
-  }
-]
+{
+  "source": "Brian Wheat",
+  "targets": [
+    {
+      "name": "Jeff Keith",
+      "targetId": "5008"
+    },
+    {
+      "name": "Frank Hannon",
+      "targetId": "5010"
+    },
+    {
+      "name": "Troy Luccketta",
+      "targetId": "5011"
+    },
+    {
+      "name": "Tommy Skeoch",
+      "targetId": "5012"
+    },
+    {
+      "name": "Darin Wood",
+      "targetId": "5013"
+    },
+    {
+      "name": "Tommy McClendon",
+      "targetId": "5014"
+    },
+    {
+      "name": "Mike Vanderhule",
+      "targetId": "5015"
+    }
+  ]
+}

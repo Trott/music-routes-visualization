@@ -1,232 +1,189 @@
-[
-  {
-    "source": "Walter Becker",
-    "target": "Hugh McCracken",
-    "targetId": "268"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Timothy B. Schmit",
-    "targetId": "391"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Rick Marotta",
-    "targetId": "393"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Victor Feldman",
-    "targetId": "396"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Chuck Findley",
-    "targetId": "397"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "David Paich",
-    "targetId": "401"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Ernie Watts",
-    "targetId": "413"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Larry Carlton",
-    "targetId": "506"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Michael McDonald",
-    "targetId": "717"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Donald Fagen",
-    "targetId": "720"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Chuck Rainey",
-    "targetId": "722"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Paul Griffin",
-    "targetId": "723"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Wayne Shorter",
-    "targetId": "1631"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Ed Greene",
-    "targetId": "2432"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Michael Omartian",
-    "targetId": "3247"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Dick Hyde",
-    "targetId": "3414"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Myrna Matthews",
-    "targetId": "3553"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Pete Christlieb",
-    "targetId": "4224"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Lew McCreary",
-    "targetId": "4511"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Clydie King",
-    "targetId": "4580"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Lee Ritenour",
-    "targetId": "5905"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Jeff \"Skunk\" Baxter",
-    "targetId": "7533"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Frank Floyd",
-    "targetId": "7774"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Johnny Rotella",
-    "targetId": "7938"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Joe Sample",
-    "targetId": "8451"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Venetta Fields",
-    "targetId": "8452"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Sherlie Matthews",
-    "targetId": "8453"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Rebecca Louis",
-    "targetId": "8454"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Denny Dias",
-    "targetId": "8455"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Bill Perkins",
-    "targetId": "9023"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "David Palmer",
-    "targetId": "10173"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Jim Hodder",
-    "targetId": "10174"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Elliott Randall",
-    "targetId": "10175"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Jackie Kelso",
-    "targetId": "10176"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Zachary Sanders",
-    "targetId": "10177"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Patricia Hall",
-    "targetId": "10178"
-  },
-  {
-    "source": "Walter Becker",
-    "target": "Lanny Morgan",
-    "targetId": "10179"
-  }
-]
+{
+  "source": "Walter Becker",
+  "targets": [
+    {
+      "name": "Hugh McCracken",
+      "targetId": "268"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Timothy B. Schmit",
+      "targetId": "391"
+    },
+    {
+      "name": "Rick Marotta",
+      "targetId": "393"
+    },
+    {
+      "name": "Victor Feldman",
+      "targetId": "396"
+    },
+    {
+      "name": "Chuck Findley",
+      "targetId": "397"
+    },
+    {
+      "name": "David Paich",
+      "targetId": "401"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Ernie Watts",
+      "targetId": "413"
+    },
+    {
+      "name": "Larry Carlton",
+      "targetId": "506"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Michael McDonald",
+      "targetId": "717"
+    },
+    {
+      "name": "Donald Fagen",
+      "targetId": "720"
+    },
+    {
+      "name": "Chuck Rainey",
+      "targetId": "722"
+    },
+    {
+      "name": "Paul Griffin",
+      "targetId": "723"
+    },
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Wayne Shorter",
+      "targetId": "1631"
+    },
+    {
+      "name": "Ed Greene",
+      "targetId": "2432"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Michael Omartian",
+      "targetId": "3247"
+    },
+    {
+      "name": "Dick Hyde",
+      "targetId": "3414"
+    },
+    {
+      "name": "Myrna Matthews",
+      "targetId": "3553"
+    },
+    {
+      "name": "Pete Christlieb",
+      "targetId": "4224"
+    },
+    {
+      "name": "Lew McCreary",
+      "targetId": "4511"
+    },
+    {
+      "name": "Clydie King",
+      "targetId": "4580"
+    },
+    {
+      "name": "Lee Ritenour",
+      "targetId": "5905"
+    },
+    {
+      "name": "Jeff \"Skunk\" Baxter",
+      "targetId": "7533"
+    },
+    {
+      "name": "Frank Floyd",
+      "targetId": "7774"
+    },
+    {
+      "name": "Johnny Rotella",
+      "targetId": "7938"
+    },
+    {
+      "name": "Joe Sample",
+      "targetId": "8451"
+    },
+    {
+      "name": "Venetta Fields",
+      "targetId": "8452"
+    },
+    {
+      "name": "Sherlie Matthews",
+      "targetId": "8453"
+    },
+    {
+      "name": "Rebecca Louis",
+      "targetId": "8454"
+    },
+    {
+      "name": "Denny Dias",
+      "targetId": "8455"
+    },
+    {
+      "name": "Bill Perkins",
+      "targetId": "9023"
+    },
+    {
+      "name": "David Palmer",
+      "targetId": "10173"
+    },
+    {
+      "name": "Jim Hodder",
+      "targetId": "10174"
+    },
+    {
+      "name": "Elliott Randall",
+      "targetId": "10175"
+    },
+    {
+      "name": "Jackie Kelso",
+      "targetId": "10176"
+    },
+    {
+      "name": "Zachary Sanders",
+      "targetId": "10177"
+    },
+    {
+      "name": "Patricia Hall",
+      "targetId": "10178"
+    },
+    {
+      "name": "Lanny Morgan",
+      "targetId": "10179"
+    }
+  ]
+}

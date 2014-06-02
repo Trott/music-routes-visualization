@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Victor Montanez",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "Victor Montanez",
-    "target": "Joe Osborn",
-    "targetId": "1209"
-  }
-]
+{
+  "source": "Victor Montanez",
+  "targets": [
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "Joe Osborn",
+      "targetId": "1209"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sandy Chila",
-    "target": "Ethan Johns",
-    "targetId": "5237"
-  },
-  {
-    "source": "Sandy Chila",
-    "target": "Glen Phillips",
-    "targetId": "5952"
-  },
-  {
-    "source": "Sandy Chila",
-    "target": "Richard Causon",
-    "targetId": "5956"
-  },
-  {
-    "source": "Sandy Chila",
-    "target": "Jen Condos",
-    "targetId": "5957"
-  }
-]
+{
+  "source": "Sandy Chila",
+  "targets": [
+    {
+      "name": "Ethan Johns",
+      "targetId": "5237"
+    },
+    {
+      "name": "Glen Phillips",
+      "targetId": "5952"
+    },
+    {
+      "name": "Richard Causon",
+      "targetId": "5956"
+    },
+    {
+      "name": "Jen Condos",
+      "targetId": "5957"
+    }
+  ]
+}

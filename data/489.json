@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brian Glascock",
-    "target": "John Glascock",
-    "targetId": "485"
-  },
-  {
-    "source": "Brian Glascock",
-    "target": "Cliff Bennett",
-    "targetId": "486"
-  },
-  {
-    "source": "Brian Glascock",
-    "target": "Alan Kendall",
-    "targetId": "488"
-  }
-]
+{
+  "source": "Brian Glascock",
+  "targets": [
+    {
+      "name": "John Glascock",
+      "targetId": "485"
+    },
+    {
+      "name": "Cliff Bennett",
+      "targetId": "486"
+    },
+    {
+      "name": "Alan Kendall",
+      "targetId": "488"
+    }
+  ]
+}

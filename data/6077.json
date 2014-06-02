@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jerry Nolan",
-    "target": "Johnny Thunders",
-    "targetId": "5254"
-  },
-  {
-    "source": "Jerry Nolan",
-    "target": "David Johansen",
-    "targetId": "6074"
-  },
-  {
-    "source": "Jerry Nolan",
-    "target": "Sylvain Sylvain",
-    "targetId": "6075"
-  },
-  {
-    "source": "Jerry Nolan",
-    "target": "Arthur \"Killer\" Kane",
-    "targetId": "6076"
-  },
-  {
-    "source": "Jerry Nolan",
-    "target": "Walter Lure",
-    "targetId": "6078"
-  },
-  {
-    "source": "Jerry Nolan",
-    "target": "Billy Rath",
-    "targetId": "6079"
-  }
-]
+{
+  "source": "Jerry Nolan",
+  "targets": [
+    {
+      "name": "Johnny Thunders",
+      "targetId": "5254"
+    },
+    {
+      "name": "David Johansen",
+      "targetId": "6074"
+    },
+    {
+      "name": "Sylvain Sylvain",
+      "targetId": "6075"
+    },
+    {
+      "name": "Arthur \"Killer\" Kane",
+      "targetId": "6076"
+    },
+    {
+      "name": "Walter Lure",
+      "targetId": "6078"
+    },
+    {
+      "name": "Billy Rath",
+      "targetId": "6079"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Paul Wright",
-    "target": "Carl McCoy",
-    "targetId": "9069"
-  },
-  {
-    "source": "Paul Wright",
-    "target": "Nod Wright",
-    "targetId": "9070"
-  },
-  {
-    "source": "Paul Wright",
-    "target": "Tony Pettitt",
-    "targetId": "9072"
-  },
-  {
-    "source": "Paul Wright",
-    "target": "Peter Yates",
-    "targetId": "9073"
-  },
-  {
-    "source": "Paul Wright",
-    "target": "Alison Pate",
-    "targetId": "9074"
-  },
-  {
-    "source": "Paul Wright",
-    "target": "Phil Parfitt",
-    "targetId": "9075"
-  }
-]
+{
+  "source": "Paul Wright",
+  "targets": [
+    {
+      "name": "Carl McCoy",
+      "targetId": "9069"
+    },
+    {
+      "name": "Nod Wright",
+      "targetId": "9070"
+    },
+    {
+      "name": "Tony Pettitt",
+      "targetId": "9072"
+    },
+    {
+      "name": "Peter Yates",
+      "targetId": "9073"
+    },
+    {
+      "name": "Alison Pate",
+      "targetId": "9074"
+    },
+    {
+      "name": "Phil Parfitt",
+      "targetId": "9075"
+    }
+  ]
+}

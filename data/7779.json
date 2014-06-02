@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Kenny Wheeler",
-    "target": "Richard Barbieri",
-    "targetId": "3539"
-  },
-  {
-    "source": "Kenny Wheeler",
-    "target": "David Sylvian",
-    "targetId": "4964"
-  },
-  {
-    "source": "Kenny Wheeler",
-    "target": "Steve Jansen",
-    "targetId": "4965"
-  },
-  {
-    "source": "Kenny Wheeler",
-    "target": "Bill Nelson",
-    "targetId": "7573"
-  },
-  {
-    "source": "Kenny Wheeler",
-    "target": "John Taylor",
-    "targetId": "7780"
-  }
-]
+{
+  "source": "Kenny Wheeler",
+  "targets": [
+    {
+      "name": "Richard Barbieri",
+      "targetId": "3539"
+    },
+    {
+      "name": "David Sylvian",
+      "targetId": "4964"
+    },
+    {
+      "name": "Steve Jansen",
+      "targetId": "4965"
+    },
+    {
+      "name": "Bill Nelson",
+      "targetId": "7573"
+    },
+    {
+      "name": "John Taylor",
+      "targetId": "7780"
+    }
+  ]
+}

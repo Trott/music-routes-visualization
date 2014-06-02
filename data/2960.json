@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Warne Livesey",
-    "target": "Neneh Cherry",
-    "targetId": "2405"
-  },
-  {
-    "source": "Warne Livesey",
-    "target": "Matt Johnson",
-    "targetId": "2957"
-  },
-  {
-    "source": "Warne Livesey",
-    "target": "Dave Clayton",
-    "targetId": "2958"
-  },
-  {
-    "source": "Warne Livesey",
-    "target": "Dave Palmer",
-    "targetId": "2959"
-  },
-  {
-    "source": "Warne Livesey",
-    "target": "Jamie Talbot",
-    "targetId": "2961"
-  },
-  {
-    "source": "Warne Livesey",
-    "target": "John Thirkell",
-    "targetId": "2962"
-  }
-]
+{
+  "source": "Warne Livesey",
+  "targets": [
+    {
+      "name": "Neneh Cherry",
+      "targetId": "2405"
+    },
+    {
+      "name": "Matt Johnson",
+      "targetId": "2957"
+    },
+    {
+      "name": "Dave Clayton",
+      "targetId": "2958"
+    },
+    {
+      "name": "Dave Palmer",
+      "targetId": "2959"
+    },
+    {
+      "name": "Jamie Talbot",
+      "targetId": "2961"
+    },
+    {
+      "name": "John Thirkell",
+      "targetId": "2962"
+    }
+  ]
+}

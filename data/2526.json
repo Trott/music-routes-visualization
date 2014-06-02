@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Tom Petersson",
-    "target": "Evan Dando",
-    "targetId": "730"
-  },
-  {
-    "source": "Tom Petersson",
-    "target": "Rick Nielsen",
-    "targetId": "2119"
-  },
-  {
-    "source": "Tom Petersson",
-    "target": "Robin Zander",
-    "targetId": "2524"
-  },
-  {
-    "source": "Tom Petersson",
-    "target": "Bun E. Carlos",
-    "targetId": "2525"
-  },
-  {
-    "source": "Tom Petersson",
-    "target": "Ben Lee",
-    "targetId": "4674"
-  },
-  {
-    "source": "Tom Petersson",
-    "target": "Jason Schwartzman",
-    "targetId": "5670"
-  }
-]
+{
+  "source": "Tom Petersson",
+  "targets": [
+    {
+      "name": "Evan Dando",
+      "targetId": "730"
+    },
+    {
+      "name": "Rick Nielsen",
+      "targetId": "2119"
+    },
+    {
+      "name": "Robin Zander",
+      "targetId": "2524"
+    },
+    {
+      "name": "Bun E. Carlos",
+      "targetId": "2525"
+    },
+    {
+      "name": "Ben Lee",
+      "targetId": "4674"
+    },
+    {
+      "name": "Jason Schwartzman",
+      "targetId": "5670"
+    }
+  ]
+}

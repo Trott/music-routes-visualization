@@ -1,157 +1,129 @@
-[
-  {
-    "source": "Davey Faragher",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Emmylou Harris",
-    "targetId": "450"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Sheryl Crow",
-    "targetId": "1018"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Jeff Trott",
-    "targetId": "1022"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Todd Wolfe",
-    "targetId": "1024"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Brian MacLeod",
-    "targetId": "1025"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Michael Urbano",
-    "targetId": "1026"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "David Lowery",
-    "targetId": "1614"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Johnny Hickman",
-    "targetId": "1618"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Jenny Lewis",
-    "targetId": "3025"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Curtis Fowlkes",
-    "targetId": "6936"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Jay Rodriguez",
-    "targetId": "6938"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Allen Toussaint",
-    "targetId": "7899"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Lucinda Williams",
-    "targetId": "8696"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "John McFee",
-    "targetId": "9884"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Sam \"Big Sam\" Williams",
-    "targetId": "9890"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Joe \"Foxx\" Smith",
-    "targetId": "9891"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Amadee Castenell",
-    "targetId": "9892"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Anthony \"AB\" Brown",
-    "targetId": "9893"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Brian \"Breeze\" Cayolle",
-    "targetId": "9894"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Carl Blouin",
-    "targetId": "9895"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Johnathan Rice",
-    "targetId": "9919"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "\"Farmer\" Dave Scher",
-    "targetId": "9920"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Jonathan Wilson",
-    "targetId": "9921"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Roy Nathanson",
-    "targetId": "9963"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Steven Kennedy",
-    "targetId": "9968"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Ku-umba Frank Lacy",
-    "targetId": "9969"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Leo Pearson",
-    "targetId": "9970"
-  },
-  {
-    "source": "Davey Faragher",
-    "target": "Wanda Jackson",
-    "targetId": "10877"
-  }
-]
+{
+  "source": "Davey Faragher",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Emmylou Harris",
+      "targetId": "450"
+    },
+    {
+      "name": "Sheryl Crow",
+      "targetId": "1018"
+    },
+    {
+      "name": "Jeff Trott",
+      "targetId": "1022"
+    },
+    {
+      "name": "Todd Wolfe",
+      "targetId": "1024"
+    },
+    {
+      "name": "Brian MacLeod",
+      "targetId": "1025"
+    },
+    {
+      "name": "Michael Urbano",
+      "targetId": "1026"
+    },
+    {
+      "name": "David Lowery",
+      "targetId": "1614"
+    },
+    {
+      "name": "Johnny Hickman",
+      "targetId": "1618"
+    },
+    {
+      "name": "Jenny Lewis",
+      "targetId": "3025"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Curtis Fowlkes",
+      "targetId": "6936"
+    },
+    {
+      "name": "Jay Rodriguez",
+      "targetId": "6938"
+    },
+    {
+      "name": "Allen Toussaint",
+      "targetId": "7899"
+    },
+    {
+      "name": "Lucinda Williams",
+      "targetId": "8696"
+    },
+    {
+      "name": "John McFee",
+      "targetId": "9884"
+    },
+    {
+      "name": "Sam \"Big Sam\" Williams",
+      "targetId": "9890"
+    },
+    {
+      "name": "Joe \"Foxx\" Smith",
+      "targetId": "9891"
+    },
+    {
+      "name": "Amadee Castenell",
+      "targetId": "9892"
+    },
+    {
+      "name": "Anthony \"AB\" Brown",
+      "targetId": "9893"
+    },
+    {
+      "name": "Brian \"Breeze\" Cayolle",
+      "targetId": "9894"
+    },
+    {
+      "name": "Carl Blouin",
+      "targetId": "9895"
+    },
+    {
+      "name": "Johnathan Rice",
+      "targetId": "9919"
+    },
+    {
+      "name": "\"Farmer\" Dave Scher",
+      "targetId": "9920"
+    },
+    {
+      "name": "Jonathan Wilson",
+      "targetId": "9921"
+    },
+    {
+      "name": "Roy Nathanson",
+      "targetId": "9963"
+    },
+    {
+      "name": "Steven Kennedy",
+      "targetId": "9968"
+    },
+    {
+      "name": "Ku-umba Frank Lacy",
+      "targetId": "9969"
+    },
+    {
+      "name": "Leo Pearson",
+      "targetId": "9970"
+    },
+    {
+      "name": "Wanda Jackson",
+      "targetId": "10877"
+    }
+  ]
+}

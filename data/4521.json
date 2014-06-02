@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Hugh Grundy",
-    "target": "Colin Blunstone",
-    "targetId": "4518"
-  },
-  {
-    "source": "Hugh Grundy",
-    "target": "Rod Argent",
-    "targetId": "4519"
-  },
-  {
-    "source": "Hugh Grundy",
-    "target": "Paul Atkinson",
-    "targetId": "4520"
-  },
-  {
-    "source": "Hugh Grundy",
-    "target": "Chris White",
-    "targetId": "4522"
-  }
-]
+{
+  "source": "Hugh Grundy",
+  "targets": [
+    {
+      "name": "Colin Blunstone",
+      "targetId": "4518"
+    },
+    {
+      "name": "Rod Argent",
+      "targetId": "4519"
+    },
+    {
+      "name": "Paul Atkinson",
+      "targetId": "4520"
+    },
+    {
+      "name": "Chris White",
+      "targetId": "4522"
+    }
+  ]
+}

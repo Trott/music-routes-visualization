@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Peter Gordon",
-    "target": "Jaco Pastorius",
-    "targetId": "345"
-  },
-  {
-    "source": "Peter Gordon",
-    "target": "Don Alias",
-    "targetId": "1261"
-  }
-]
+{
+  "source": "Peter Gordon",
+  "targets": [
+    {
+      "name": "Jaco Pastorius",
+      "targetId": "345"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    }
+  ]
+}

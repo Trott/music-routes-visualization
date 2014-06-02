@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Joanna Bolme",
-    "target": "Janet Weiss",
-    "targetId": "26"
-  },
-  {
-    "source": "Joanna Bolme",
-    "target": "Stephen Malkmus",
-    "targetId": "1834"
-  },
-  {
-    "source": "Joanna Bolme",
-    "target": "Mike Clark",
-    "targetId": "1836"
-  }
-]
+{
+  "source": "Joanna Bolme",
+  "targets": [
+    {
+      "name": "Janet Weiss",
+      "targetId": "26"
+    },
+    {
+      "name": "Stephen Malkmus",
+      "targetId": "1834"
+    },
+    {
+      "name": "Mike Clark",
+      "targetId": "1836"
+    }
+  ]
+}

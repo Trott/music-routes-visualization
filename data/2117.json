@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mark Baker",
-    "target": "Al Jourgensen",
-    "targetId": "1581"
-  },
-  {
-    "source": "Mark Baker",
-    "target": "Phildo Owen",
-    "targetId": "2116"
-  },
-  {
-    "source": "Mark Baker",
-    "target": "Billy Gibbons",
-    "targetId": "2118"
-  },
-  {
-    "source": "Mark Baker",
-    "target": "Rick Nielsen",
-    "targetId": "2119"
-  },
-  {
-    "source": "Mark Baker",
-    "target": "Jello Biafra",
-    "targetId": "2120"
-  }
-]
+{
+  "source": "Mark Baker",
+  "targets": [
+    {
+      "name": "Al Jourgensen",
+      "targetId": "1581"
+    },
+    {
+      "name": "Phildo Owen",
+      "targetId": "2116"
+    },
+    {
+      "name": "Billy Gibbons",
+      "targetId": "2118"
+    },
+    {
+      "name": "Rick Nielsen",
+      "targetId": "2119"
+    },
+    {
+      "name": "Jello Biafra",
+      "targetId": "2120"
+    }
+  ]
+}

@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Chuck Cowan",
-    "target": "Mike Thompson",
-    "targetId": "2047"
-  },
-  {
-    "source": "Chuck Cowan",
-    "target": "Michael Parks",
-    "targetId": "2048"
-  },
-  {
-    "source": "Chuck Cowan",
-    "target": "Russ Long",
-    "targetId": "2049"
-  },
-  {
-    "source": "Chuck Cowan",
-    "target": "Yma Sumac",
-    "targetId": "2051"
-  },
-  {
-    "source": "Chuck Cowan",
-    "target": "Richard Person",
-    "targetId": "2052"
-  },
-  {
-    "source": "Chuck Cowan",
-    "target": "Roger Cowan",
-    "targetId": "2053"
-  },
-  {
-    "source": "Chuck Cowan",
-    "target": "Skip Switzer",
-    "targetId": "2054"
-  }
-]
+{
+  "source": "Chuck Cowan",
+  "targets": [
+    {
+      "name": "Mike Thompson",
+      "targetId": "2047"
+    },
+    {
+      "name": "Michael Parks",
+      "targetId": "2048"
+    },
+    {
+      "name": "Russ Long",
+      "targetId": "2049"
+    },
+    {
+      "name": "Yma Sumac",
+      "targetId": "2051"
+    },
+    {
+      "name": "Richard Person",
+      "targetId": "2052"
+    },
+    {
+      "name": "Roger Cowan",
+      "targetId": "2053"
+    },
+    {
+      "name": "Skip Switzer",
+      "targetId": "2054"
+    }
+  ]
+}

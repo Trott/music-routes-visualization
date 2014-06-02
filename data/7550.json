@@ -1,27 +1,25 @@
-[
-  {
-    "source": "George Archer",
-    "target": "Louis Armstrong",
-    "targetId": "1785"
-  },
-  {
-    "source": "George Archer",
-    "target": "Lionel Hampton",
-    "targetId": "6034"
-  },
-  {
-    "source": "George Archer",
-    "target": "Sam Koki",
-    "targetId": "7549"
-  },
-  {
-    "source": "George Archer",
-    "target": "Harry Baty",
-    "targetId": "7551"
-  },
-  {
-    "source": "George Archer",
-    "target": "Joe Nawahi",
-    "targetId": "7552"
-  }
-]
+{
+  "source": "George Archer",
+  "targets": [
+    {
+      "name": "Louis Armstrong",
+      "targetId": "1785"
+    },
+    {
+      "name": "Lionel Hampton",
+      "targetId": "6034"
+    },
+    {
+      "name": "Sam Koki",
+      "targetId": "7549"
+    },
+    {
+      "name": "Harry Baty",
+      "targetId": "7551"
+    },
+    {
+      "name": "Joe Nawahi",
+      "targetId": "7552"
+    }
+  ]
+}

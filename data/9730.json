@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Bram Martin",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Neil Sanders",
-    "targetId": "8684"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Lionel Ross",
-    "targetId": "9712"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Tony Tunstall",
-    "targetId": "9726"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Morris Miller",
-    "targetId": "9727"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Gordon Lewin",
-    "targetId": "9728"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Terry Weil",
-    "targetId": "9729"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Eldon Fox",
-    "targetId": "9731"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Jack Rothstein",
-    "targetId": "9732"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Ralph Elman",
-    "targetId": "9733"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Andrew McGee",
-    "targetId": "9734"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Jack Greene",
-    "targetId": "9735"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Louis Stevens",
-    "targetId": "9736"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "John Jezzard",
-    "targetId": "9737"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Jack Richards",
-    "targetId": "9738"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Peggie Allen",
-    "targetId": "9739"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Wendy Horan",
-    "targetId": "9740"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Pat Whitmore",
-    "targetId": "9741"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Jill Utting",
-    "targetId": "9742"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "June Day",
-    "targetId": "9743"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Sylvia King",
-    "targetId": "9744"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Irene King",
-    "targetId": "9745"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "G. Mallen",
-    "targetId": "9746"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Fred Lucas",
-    "targetId": "9747"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Mike Redway",
-    "targetId": "9748"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "John O'Neill",
-    "targetId": "9749"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "F. Dachtler",
-    "targetId": "9750"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "Allan Grant",
-    "targetId": "9751"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "D. Griffiths",
-    "targetId": "9752"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "J. Smith",
-    "targetId": "9753"
-  },
-  {
-    "source": "Bram Martin",
-    "target": "J. Fraser",
-    "targetId": "9754"
-  }
-]
+{
+  "source": "Bram Martin",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "Neil Sanders",
+      "targetId": "8684"
+    },
+    {
+      "name": "Lionel Ross",
+      "targetId": "9712"
+    },
+    {
+      "name": "Tony Tunstall",
+      "targetId": "9726"
+    },
+    {
+      "name": "Morris Miller",
+      "targetId": "9727"
+    },
+    {
+      "name": "Gordon Lewin",
+      "targetId": "9728"
+    },
+    {
+      "name": "Terry Weil",
+      "targetId": "9729"
+    },
+    {
+      "name": "Eldon Fox",
+      "targetId": "9731"
+    },
+    {
+      "name": "Jack Rothstein",
+      "targetId": "9732"
+    },
+    {
+      "name": "Ralph Elman",
+      "targetId": "9733"
+    },
+    {
+      "name": "Andrew McGee",
+      "targetId": "9734"
+    },
+    {
+      "name": "Jack Greene",
+      "targetId": "9735"
+    },
+    {
+      "name": "Louis Stevens",
+      "targetId": "9736"
+    },
+    {
+      "name": "John Jezzard",
+      "targetId": "9737"
+    },
+    {
+      "name": "Jack Richards",
+      "targetId": "9738"
+    },
+    {
+      "name": "Peggie Allen",
+      "targetId": "9739"
+    },
+    {
+      "name": "Wendy Horan",
+      "targetId": "9740"
+    },
+    {
+      "name": "Pat Whitmore",
+      "targetId": "9741"
+    },
+    {
+      "name": "Jill Utting",
+      "targetId": "9742"
+    },
+    {
+      "name": "June Day",
+      "targetId": "9743"
+    },
+    {
+      "name": "Sylvia King",
+      "targetId": "9744"
+    },
+    {
+      "name": "Irene King",
+      "targetId": "9745"
+    },
+    {
+      "name": "G. Mallen",
+      "targetId": "9746"
+    },
+    {
+      "name": "Fred Lucas",
+      "targetId": "9747"
+    },
+    {
+      "name": "Mike Redway",
+      "targetId": "9748"
+    },
+    {
+      "name": "John O'Neill",
+      "targetId": "9749"
+    },
+    {
+      "name": "F. Dachtler",
+      "targetId": "9750"
+    },
+    {
+      "name": "Allan Grant",
+      "targetId": "9751"
+    },
+    {
+      "name": "D. Griffiths",
+      "targetId": "9752"
+    },
+    {
+      "name": "J. Smith",
+      "targetId": "9753"
+    },
+    {
+      "name": "J. Fraser",
+      "targetId": "9754"
+    }
+  ]
+}

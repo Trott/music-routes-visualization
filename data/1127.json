@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mike Garson",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Mike Garson",
-    "target": "Aynsley Dunbar",
-    "targetId": "264"
-  },
-  {
-    "source": "Mike Garson",
-    "target": "Mick Ronson",
-    "targetId": "791"
-  },
-  {
-    "source": "Mike Garson",
-    "target": "Trevor Bolder",
-    "targetId": "793"
-  },
-  {
-    "source": "Mike Garson",
-    "target": "Lulu",
-    "targetId": "1126"
-  }
-]
+{
+  "source": "Mike Garson",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Aynsley Dunbar",
+      "targetId": "264"
+    },
+    {
+      "name": "Mick Ronson",
+      "targetId": "791"
+    },
+    {
+      "name": "Trevor Bolder",
+      "targetId": "793"
+    },
+    {
+      "name": "Lulu",
+      "targetId": "1126"
+    }
+  ]
+}

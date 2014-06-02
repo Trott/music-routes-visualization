@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Louis Stevens",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Neil Sanders",
-    "targetId": "8684"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Lionel Ross",
-    "targetId": "9712"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Tony Tunstall",
-    "targetId": "9726"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Morris Miller",
-    "targetId": "9727"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Gordon Lewin",
-    "targetId": "9728"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Terry Weil",
-    "targetId": "9729"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Bram Martin",
-    "targetId": "9730"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Eldon Fox",
-    "targetId": "9731"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Jack Rothstein",
-    "targetId": "9732"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Ralph Elman",
-    "targetId": "9733"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Andrew McGee",
-    "targetId": "9734"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Jack Greene",
-    "targetId": "9735"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "John Jezzard",
-    "targetId": "9737"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Jack Richards",
-    "targetId": "9738"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Peggie Allen",
-    "targetId": "9739"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Wendy Horan",
-    "targetId": "9740"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Pat Whitmore",
-    "targetId": "9741"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Jill Utting",
-    "targetId": "9742"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "June Day",
-    "targetId": "9743"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Sylvia King",
-    "targetId": "9744"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Irene King",
-    "targetId": "9745"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "G. Mallen",
-    "targetId": "9746"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Fred Lucas",
-    "targetId": "9747"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Mike Redway",
-    "targetId": "9748"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "John O'Neill",
-    "targetId": "9749"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "F. Dachtler",
-    "targetId": "9750"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "Allan Grant",
-    "targetId": "9751"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "D. Griffiths",
-    "targetId": "9752"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "J. Smith",
-    "targetId": "9753"
-  },
-  {
-    "source": "Louis Stevens",
-    "target": "J. Fraser",
-    "targetId": "9754"
-  }
-]
+{
+  "source": "Louis Stevens",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "Neil Sanders",
+      "targetId": "8684"
+    },
+    {
+      "name": "Lionel Ross",
+      "targetId": "9712"
+    },
+    {
+      "name": "Tony Tunstall",
+      "targetId": "9726"
+    },
+    {
+      "name": "Morris Miller",
+      "targetId": "9727"
+    },
+    {
+      "name": "Gordon Lewin",
+      "targetId": "9728"
+    },
+    {
+      "name": "Terry Weil",
+      "targetId": "9729"
+    },
+    {
+      "name": "Bram Martin",
+      "targetId": "9730"
+    },
+    {
+      "name": "Eldon Fox",
+      "targetId": "9731"
+    },
+    {
+      "name": "Jack Rothstein",
+      "targetId": "9732"
+    },
+    {
+      "name": "Ralph Elman",
+      "targetId": "9733"
+    },
+    {
+      "name": "Andrew McGee",
+      "targetId": "9734"
+    },
+    {
+      "name": "Jack Greene",
+      "targetId": "9735"
+    },
+    {
+      "name": "John Jezzard",
+      "targetId": "9737"
+    },
+    {
+      "name": "Jack Richards",
+      "targetId": "9738"
+    },
+    {
+      "name": "Peggie Allen",
+      "targetId": "9739"
+    },
+    {
+      "name": "Wendy Horan",
+      "targetId": "9740"
+    },
+    {
+      "name": "Pat Whitmore",
+      "targetId": "9741"
+    },
+    {
+      "name": "Jill Utting",
+      "targetId": "9742"
+    },
+    {
+      "name": "June Day",
+      "targetId": "9743"
+    },
+    {
+      "name": "Sylvia King",
+      "targetId": "9744"
+    },
+    {
+      "name": "Irene King",
+      "targetId": "9745"
+    },
+    {
+      "name": "G. Mallen",
+      "targetId": "9746"
+    },
+    {
+      "name": "Fred Lucas",
+      "targetId": "9747"
+    },
+    {
+      "name": "Mike Redway",
+      "targetId": "9748"
+    },
+    {
+      "name": "John O'Neill",
+      "targetId": "9749"
+    },
+    {
+      "name": "F. Dachtler",
+      "targetId": "9750"
+    },
+    {
+      "name": "Allan Grant",
+      "targetId": "9751"
+    },
+    {
+      "name": "D. Griffiths",
+      "targetId": "9752"
+    },
+    {
+      "name": "J. Smith",
+      "targetId": "9753"
+    },
+    {
+      "name": "J. Fraser",
+      "targetId": "9754"
+    }
+  ]
+}

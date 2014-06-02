@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Joe Bouchard",
-    "target": "Eric Bloom",
-    "targetId": "142"
-  },
-  {
-    "source": "Joe Bouchard",
-    "target": "Donald \"Buck Dharma\" Roeser",
-    "targetId": "157"
-  },
-  {
-    "source": "Joe Bouchard",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  },
-  {
-    "source": "Joe Bouchard",
-    "target": "Randy Brecker",
-    "targetId": "469"
-  },
-  {
-    "source": "Joe Bouchard",
-    "target": "Patti Smith",
-    "targetId": "2744"
-  },
-  {
-    "source": "Joe Bouchard",
-    "target": "Albert Bouchard",
-    "targetId": "4737"
-  },
-  {
-    "source": "Joe Bouchard",
-    "target": "Allen Lanier",
-    "targetId": "4738"
-  }
-]
+{
+  "source": "Joe Bouchard",
+  "targets": [
+    {
+      "name": "Eric Bloom",
+      "targetId": "142"
+    },
+    {
+      "name": "Donald \"Buck Dharma\" Roeser",
+      "targetId": "157"
+    },
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    },
+    {
+      "name": "Randy Brecker",
+      "targetId": "469"
+    },
+    {
+      "name": "Patti Smith",
+      "targetId": "2744"
+    },
+    {
+      "name": "Albert Bouchard",
+      "targetId": "4737"
+    },
+    {
+      "name": "Allen Lanier",
+      "targetId": "4738"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "John Siegler",
-    "target": "Jerry Marotta",
-    "targetId": "661"
-  },
-  {
-    "source": "John Siegler",
-    "target": "Cher",
-    "targetId": "3456"
-  },
-  {
-    "source": "John Siegler",
-    "target": "John McCurry",
-    "targetId": "3458"
-  },
-  {
-    "source": "John Siegler",
-    "target": "Chuck Kentis",
-    "targetId": "3463"
-  },
-  {
-    "source": "John Siegler",
-    "target": "Louis Merlino",
-    "targetId": "3468"
-  },
-  {
-    "source": "John Siegler",
-    "target": "Myriam Valle",
-    "targetId": "3469"
-  },
-  {
-    "source": "John Siegler",
-    "target": "Elaine Caswell",
-    "targetId": "3471"
-  },
-  {
-    "source": "John Siegler",
-    "target": "Gregg Mangiafico",
-    "targetId": "3476"
-  }
-]
+{
+  "source": "John Siegler",
+  "targets": [
+    {
+      "name": "Jerry Marotta",
+      "targetId": "661"
+    },
+    {
+      "name": "Cher",
+      "targetId": "3456"
+    },
+    {
+      "name": "John McCurry",
+      "targetId": "3458"
+    },
+    {
+      "name": "Chuck Kentis",
+      "targetId": "3463"
+    },
+    {
+      "name": "Louis Merlino",
+      "targetId": "3468"
+    },
+    {
+      "name": "Myriam Valle",
+      "targetId": "3469"
+    },
+    {
+      "name": "Elaine Caswell",
+      "targetId": "3471"
+    },
+    {
+      "name": "Gregg Mangiafico",
+      "targetId": "3476"
+    }
+  ]
+}

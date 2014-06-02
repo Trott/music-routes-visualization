@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Joe Strummer",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  },
-  {
-    "source": "Joe Strummer",
-    "target": "Flea",
-    "targetId": "553"
-  },
-  {
-    "source": "Joe Strummer",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Joe Strummer",
-    "target": "Nick Hexum",
-    "targetId": "847"
-  },
-  {
-    "source": "Joe Strummer",
-    "target": "Tom Morello",
-    "targetId": "848"
-  },
-  {
-    "source": "Joe Strummer",
-    "target": "D.J. Bonebrake",
-    "targetId": "849"
-  },
-  {
-    "source": "Joe Strummer",
-    "target": "Mick Jones",
-    "targetId": "4129"
-  },
-  {
-    "source": "Joe Strummer",
-    "target": "Paul Simonon",
-    "targetId": "4130"
-  },
-  {
-    "source": "Joe Strummer",
-    "target": "Topper Headon",
-    "targetId": "4131"
-  }
-]
+{
+  "source": "Joe Strummer",
+  "targets": [
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    },
+    {
+      "name": "Flea",
+      "targetId": "553"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Nick Hexum",
+      "targetId": "847"
+    },
+    {
+      "name": "Tom Morello",
+      "targetId": "848"
+    },
+    {
+      "name": "D.J. Bonebrake",
+      "targetId": "849"
+    },
+    {
+      "name": "Mick Jones",
+      "targetId": "4129"
+    },
+    {
+      "name": "Paul Simonon",
+      "targetId": "4130"
+    },
+    {
+      "name": "Topper Headon",
+      "targetId": "4131"
+    }
+  ]
+}

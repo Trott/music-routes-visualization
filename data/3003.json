@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Malcolm Mortimore",
-    "target": "David Gilmour",
-    "targetId": "275"
-  },
-  {
-    "source": "Malcolm Mortimore",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Malcolm Mortimore",
-    "target": "Chris Jagger",
-    "targetId": "3000"
-  },
-  {
-    "source": "Malcolm Mortimore",
-    "target": "Charlie Hart",
-    "targetId": "3001"
-  },
-  {
-    "source": "Malcolm Mortimore",
-    "target": "Paul Emile",
-    "targetId": "3002"
-  },
-  {
-    "source": "Malcolm Mortimore",
-    "target": "Jim Mortimore",
-    "targetId": "3004"
-  },
-  {
-    "source": "Malcolm Mortimore",
-    "target": "Sam Brown",
-    "targetId": "3005"
-  },
-  {
-    "source": "Malcolm Mortimore",
-    "target": "Billy Jenkins",
-    "targetId": "3006"
-  }
-]
+{
+  "source": "Malcolm Mortimore",
+  "targets": [
+    {
+      "name": "David Gilmour",
+      "targetId": "275"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Chris Jagger",
+      "targetId": "3000"
+    },
+    {
+      "name": "Charlie Hart",
+      "targetId": "3001"
+    },
+    {
+      "name": "Paul Emile",
+      "targetId": "3002"
+    },
+    {
+      "name": "Jim Mortimore",
+      "targetId": "3004"
+    },
+    {
+      "name": "Sam Brown",
+      "targetId": "3005"
+    },
+    {
+      "name": "Billy Jenkins",
+      "targetId": "3006"
+    }
+  ]
+}

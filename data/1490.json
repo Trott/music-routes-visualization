@@ -1,227 +1,185 @@
-[
-  {
-    "source": "Billy Strange",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Bruce Johnston",
-    "targetId": "232"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Carl Wilson",
-    "targetId": "233"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Lyle Ritz",
-    "targetId": "373"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Jack Nimitz",
-    "targetId": "436"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Carol Kaye",
-    "targetId": "521"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Glen Campbell",
-    "targetId": "524"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Brian Wilson",
-    "targetId": "1475"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Dennis Wilson",
-    "targetId": "1476"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Mike Love",
-    "targetId": "1477"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Al Jardine",
-    "targetId": "1478"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Frank Capp",
-    "targetId": "1481"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Bill Pitman",
-    "targetId": "1482"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Jerry Cole",
-    "targetId": "1483"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Al De Lory",
-    "targetId": "1486"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Jay Migliori",
-    "targetId": "1487"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Roy Caton",
-    "targetId": "1489"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Jerry Williams",
-    "targetId": "1491"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Julius Wechter",
-    "targetId": "1492"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Bill Green",
-    "targetId": "1493"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Joseph Saxon",
-    "targetId": "1497"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Norman Botnick",
-    "targetId": "1498"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Arnold Belnick",
-    "targetId": "1499"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Ralph Schaeffer",
-    "targetId": "1500"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Tibor Zelig",
-    "targetId": "1501"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Sid Sharp",
-    "targetId": "1502"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Harry Hyams",
-    "targetId": "1505"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Leonard Malarsky",
-    "targetId": "1506"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Al Casey",
-    "targetId": "1509"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Joseph DiFiore",
-    "targetId": "1510"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "James Getzoff",
-    "targetId": "1511"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Don Randi",
-    "targetId": "1516"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Tommy Tedesco",
-    "targetId": "1529"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Ritchie Frost",
-    "targetId": "1530"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Leon Russell",
-    "targetId": "1999"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Arthur Lee",
-    "targetId": "2510"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "William Hinshaw",
-    "targetId": "9272"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Howard Roberts",
-    "targetId": "10097"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Israel Baker",
-    "targetId": "10099"
-  },
-  {
-    "source": "Billy Strange",
-    "target": "Bernard Kundell",
-    "targetId": "10100"
-  }
-]
+{
+  "source": "Billy Strange",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Bruce Johnston",
+      "targetId": "232"
+    },
+    {
+      "name": "Carl Wilson",
+      "targetId": "233"
+    },
+    {
+      "name": "Lyle Ritz",
+      "targetId": "373"
+    },
+    {
+      "name": "Jack Nimitz",
+      "targetId": "436"
+    },
+    {
+      "name": "Carol Kaye",
+      "targetId": "521"
+    },
+    {
+      "name": "Glen Campbell",
+      "targetId": "524"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Brian Wilson",
+      "targetId": "1475"
+    },
+    {
+      "name": "Dennis Wilson",
+      "targetId": "1476"
+    },
+    {
+      "name": "Mike Love",
+      "targetId": "1477"
+    },
+    {
+      "name": "Al Jardine",
+      "targetId": "1478"
+    },
+    {
+      "name": "Frank Capp",
+      "targetId": "1481"
+    },
+    {
+      "name": "Bill Pitman",
+      "targetId": "1482"
+    },
+    {
+      "name": "Jerry Cole",
+      "targetId": "1483"
+    },
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Al De Lory",
+      "targetId": "1486"
+    },
+    {
+      "name": "Jay Migliori",
+      "targetId": "1487"
+    },
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Roy Caton",
+      "targetId": "1489"
+    },
+    {
+      "name": "Jerry Williams",
+      "targetId": "1491"
+    },
+    {
+      "name": "Julius Wechter",
+      "targetId": "1492"
+    },
+    {
+      "name": "Bill Green",
+      "targetId": "1493"
+    },
+    {
+      "name": "Joseph Saxon",
+      "targetId": "1497"
+    },
+    {
+      "name": "Norman Botnick",
+      "targetId": "1498"
+    },
+    {
+      "name": "Arnold Belnick",
+      "targetId": "1499"
+    },
+    {
+      "name": "Ralph Schaeffer",
+      "targetId": "1500"
+    },
+    {
+      "name": "Tibor Zelig",
+      "targetId": "1501"
+    },
+    {
+      "name": "Sid Sharp",
+      "targetId": "1502"
+    },
+    {
+      "name": "Harry Hyams",
+      "targetId": "1505"
+    },
+    {
+      "name": "Leonard Malarsky",
+      "targetId": "1506"
+    },
+    {
+      "name": "Al Casey",
+      "targetId": "1509"
+    },
+    {
+      "name": "Joseph DiFiore",
+      "targetId": "1510"
+    },
+    {
+      "name": "James Getzoff",
+      "targetId": "1511"
+    },
+    {
+      "name": "Don Randi",
+      "targetId": "1516"
+    },
+    {
+      "name": "Tommy Tedesco",
+      "targetId": "1529"
+    },
+    {
+      "name": "Ritchie Frost",
+      "targetId": "1530"
+    },
+    {
+      "name": "Leon Russell",
+      "targetId": "1999"
+    },
+    {
+      "name": "Arthur Lee",
+      "targetId": "2510"
+    },
+    {
+      "name": "William Hinshaw",
+      "targetId": "9272"
+    },
+    {
+      "name": "Howard Roberts",
+      "targetId": "10097"
+    },
+    {
+      "name": "Israel Baker",
+      "targetId": "10099"
+    },
+    {
+      "name": "Bernard Kundell",
+      "targetId": "10100"
+    }
+  ]
+}

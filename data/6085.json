@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Glenn Scott",
-    "target": "Heather Nova",
-    "targetId": "6081"
-  },
-  {
-    "source": "Glenn Scott",
-    "target": "Bastian Juel",
-    "targetId": "6082"
-  },
-  {
-    "source": "Glenn Scott",
-    "target": "Laurie Jenkins",
-    "targetId": "6083"
-  },
-  {
-    "source": "Glenn Scott",
-    "target": "David Ayers",
-    "targetId": "6084"
-  },
-  {
-    "source": "Glenn Scott",
-    "target": "Berit Fridahl",
-    "targetId": "6086"
-  }
-]
+{
+  "source": "Glenn Scott",
+  "targets": [
+    {
+      "name": "Heather Nova",
+      "targetId": "6081"
+    },
+    {
+      "name": "Bastian Juel",
+      "targetId": "6082"
+    },
+    {
+      "name": "Laurie Jenkins",
+      "targetId": "6083"
+    },
+    {
+      "name": "David Ayers",
+      "targetId": "6084"
+    },
+    {
+      "name": "Berit Fridahl",
+      "targetId": "6086"
+    }
+  ]
+}

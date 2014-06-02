@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Liam Lynch",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Liam Lynch",
-    "target": "Jack Black",
-    "targetId": "4217"
-  },
-  {
-    "source": "Liam Lynch",
-    "target": "Kyle Gass",
-    "targetId": "4218"
-  },
-  {
-    "source": "Liam Lynch",
-    "target": "John Konesky",
-    "targetId": "4220"
-  }
-]
+{
+  "source": "Liam Lynch",
+  "targets": [
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Jack Black",
+      "targetId": "4217"
+    },
+    {
+      "name": "Kyle Gass",
+      "targetId": "4218"
+    },
+    {
+      "name": "John Konesky",
+      "targetId": "4220"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Wengren",
-    "target": "David Draiman",
-    "targetId": "6319"
-  },
-  {
-    "source": "Mike Wengren",
-    "target": "Dan Donegan",
-    "targetId": "6320"
-  },
-  {
-    "source": "Mike Wengren",
-    "target": "Steve \"Fuzz\" Kmak",
-    "targetId": "6321"
-  }
-]
+{
+  "source": "Mike Wengren",
+  "targets": [
+    {
+      "name": "David Draiman",
+      "targetId": "6319"
+    },
+    {
+      "name": "Dan Donegan",
+      "targetId": "6320"
+    },
+    {
+      "name": "Steve \"Fuzz\" Kmak",
+      "targetId": "6321"
+    }
+  ]
+}

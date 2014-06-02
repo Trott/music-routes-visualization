@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dave Itow",
-    "target": "Mike Hartsfield",
-    "targetId": "7873"
-  },
-  {
-    "source": "Dave Itow",
-    "target": "Isaaco Golub",
-    "targetId": "7875"
-  },
-  {
-    "source": "Dave Itow",
-    "target": "Steve Insted",
-    "targetId": "7876"
-  }
-]
+{
+  "source": "Dave Itow",
+  "targets": [
+    {
+      "name": "Mike Hartsfield",
+      "targetId": "7873"
+    },
+    {
+      "name": "Isaaco Golub",
+      "targetId": "7875"
+    },
+    {
+      "name": "Steve Insted",
+      "targetId": "7876"
+    }
+  ]
+}

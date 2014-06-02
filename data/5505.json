@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Luke Calzonetti",
-    "target": "Oran Canfield",
-    "targetId": "5502"
-  },
-  {
-    "source": "Luke Calzonetti",
-    "target": "Tim Dahl",
-    "targetId": "5504"
-  }
-]
+{
+  "source": "Luke Calzonetti",
+  "targets": [
+    {
+      "name": "Oran Canfield",
+      "targetId": "5502"
+    },
+    {
+      "name": "Tim Dahl",
+      "targetId": "5504"
+    }
+  ]
+}

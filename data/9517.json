@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Alan Bezozi",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Alan Bezozi",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Alan Bezozi",
-    "target": "Arto Lindsay",
-    "targetId": "9518"
-  }
-]
+{
+  "source": "Alan Bezozi",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Arto Lindsay",
+      "targetId": "9518"
+    }
+  ]
+}

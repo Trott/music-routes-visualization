@@ -1,187 +1,153 @@
-[
-  {
-    "source": "Joshua Redman",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Matt Chamberlain",
-    "targetId": "182"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Chuck Findley",
-    "targetId": "397"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Jack Nimitz",
-    "targetId": "436"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Dan Higgins",
-    "targetId": "1080"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Kim Hutchcroft",
-    "targetId": "1324"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Paul Jackson, Jr.",
-    "targetId": "1536"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Siedah Garrett",
-    "targetId": "2081"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Michael Thompson",
-    "targetId": "2262"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Richard Todd",
-    "targetId": "2307"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Neil Stubenhaus",
-    "targetId": "2440"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Tone Loc",
-    "targetId": "2797"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Melvin \"Wah Wah\" Watson",
-    "targetId": "3402"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "George Bohanon",
-    "targetId": "3415"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Charles Loper",
-    "targetId": "4222"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Reggie Young",
-    "targetId": "4223"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Pete Christlieb",
-    "targetId": "4224"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Fred Jackson",
-    "targetId": "4225"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Jeff Clayton",
-    "targetId": "4226"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Patti Austin",
-    "targetId": "4229"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Hubert Laws",
-    "targetId": "4230"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Queen Latifah",
-    "targetId": "4231"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Nancy Wilson",
-    "targetId": "4233"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Gregory Williams",
-    "targetId": "4273"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Brad Warnaar",
-    "targetId": "4274"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Bob Watt",
-    "targetId": "4275"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Tommy Johnson",
-    "targetId": "4276"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Brad Mehldau",
-    "targetId": "8600"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Larry Grenadier",
-    "targetId": "8601"
-  },
-  {
-    "source": "Joshua Redman",
-    "target": "Jeff Ballard",
-    "targetId": "8602"
-  }
-]
+{
+  "source": "Joshua Redman",
+  "targets": [
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Matt Chamberlain",
+      "targetId": "182"
+    },
+    {
+      "name": "Chuck Findley",
+      "targetId": "397"
+    },
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Jack Nimitz",
+      "targetId": "436"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Dan Higgins",
+      "targetId": "1080"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Kim Hutchcroft",
+      "targetId": "1324"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Paul Jackson, Jr.",
+      "targetId": "1536"
+    },
+    {
+      "name": "Siedah Garrett",
+      "targetId": "2081"
+    },
+    {
+      "name": "Michael Thompson",
+      "targetId": "2262"
+    },
+    {
+      "name": "Richard Todd",
+      "targetId": "2307"
+    },
+    {
+      "name": "Neil Stubenhaus",
+      "targetId": "2440"
+    },
+    {
+      "name": "Tone Loc",
+      "targetId": "2797"
+    },
+    {
+      "name": "Melvin \"Wah Wah\" Watson",
+      "targetId": "3402"
+    },
+    {
+      "name": "George Bohanon",
+      "targetId": "3415"
+    },
+    {
+      "name": "Charles Loper",
+      "targetId": "4222"
+    },
+    {
+      "name": "Reggie Young",
+      "targetId": "4223"
+    },
+    {
+      "name": "Pete Christlieb",
+      "targetId": "4224"
+    },
+    {
+      "name": "Fred Jackson",
+      "targetId": "4225"
+    },
+    {
+      "name": "Jeff Clayton",
+      "targetId": "4226"
+    },
+    {
+      "name": "Patti Austin",
+      "targetId": "4229"
+    },
+    {
+      "name": "Hubert Laws",
+      "targetId": "4230"
+    },
+    {
+      "name": "Queen Latifah",
+      "targetId": "4231"
+    },
+    {
+      "name": "Nancy Wilson",
+      "targetId": "4233"
+    },
+    {
+      "name": "Gregory Williams",
+      "targetId": "4273"
+    },
+    {
+      "name": "Brad Warnaar",
+      "targetId": "4274"
+    },
+    {
+      "name": "Bob Watt",
+      "targetId": "4275"
+    },
+    {
+      "name": "Tommy Johnson",
+      "targetId": "4276"
+    },
+    {
+      "name": "Brad Mehldau",
+      "targetId": "8600"
+    },
+    {
+      "name": "Larry Grenadier",
+      "targetId": "8601"
+    },
+    {
+      "name": "Jeff Ballard",
+      "targetId": "8602"
+    }
+  ]
+}

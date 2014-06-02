@@ -1,152 +1,125 @@
-[
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Flea",
-    "targetId": "553"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Joe Strummer",
-    "targetId": "846"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Nick Hexum",
-    "targetId": "847"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Tom Morello",
-    "targetId": "848"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Ray Manzarek",
-    "targetId": "1552"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Howe Gelb",
-    "targetId": "1694"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Mel Bergman",
-    "targetId": "2089"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Billy Zoom",
-    "targetId": "2090"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Chris Barfield",
-    "targetId": "2091"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Eric Williams",
-    "targetId": "2434"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Steve Berlin",
-    "targetId": "2557"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Johnette Napolitano",
-    "targetId": "2650"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Steve Wynn",
-    "targetId": "3494"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Fernando Saunders",
-    "targetId": "3495"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Denny Fongheiser",
-    "targetId": "3496"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Robert Mache",
-    "targetId": "3497"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Jim Lang",
-    "targetId": "3498"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Stephen McCarthy",
-    "targetId": "3500"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Mark Walton",
-    "targetId": "3501"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Richard Greene",
-    "targetId": "3502"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Chris Cacavas",
-    "targetId": "3503"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Tim Landers",
-    "targetId": "3504"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Robert Lloyd",
-    "targetId": "3505"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Julie Christensen",
-    "targetId": "3506"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Joe Barresi",
-    "targetId": "3507"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "John Doe",
-    "targetId": "3508"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Exene Cervenka",
-    "targetId": "3509"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Jonny Ray Bartel",
-    "targetId": "3624"
-  },
-  {
-    "source": "D.J. Bonebrake",
-    "target": "Dave Alvin",
-    "targetId": "3625"
-  }
-]
+{
+  "source": "D.J. Bonebrake",
+  "targets": [
+    {
+      "name": "Flea",
+      "targetId": "553"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Joe Strummer",
+      "targetId": "846"
+    },
+    {
+      "name": "Nick Hexum",
+      "targetId": "847"
+    },
+    {
+      "name": "Tom Morello",
+      "targetId": "848"
+    },
+    {
+      "name": "Ray Manzarek",
+      "targetId": "1552"
+    },
+    {
+      "name": "Howe Gelb",
+      "targetId": "1694"
+    },
+    {
+      "name": "Mel Bergman",
+      "targetId": "2089"
+    },
+    {
+      "name": "Billy Zoom",
+      "targetId": "2090"
+    },
+    {
+      "name": "Chris Barfield",
+      "targetId": "2091"
+    },
+    {
+      "name": "Eric Williams",
+      "targetId": "2434"
+    },
+    {
+      "name": "Steve Berlin",
+      "targetId": "2557"
+    },
+    {
+      "name": "Johnette Napolitano",
+      "targetId": "2650"
+    },
+    {
+      "name": "Steve Wynn",
+      "targetId": "3494"
+    },
+    {
+      "name": "Fernando Saunders",
+      "targetId": "3495"
+    },
+    {
+      "name": "Denny Fongheiser",
+      "targetId": "3496"
+    },
+    {
+      "name": "Robert Mache",
+      "targetId": "3497"
+    },
+    {
+      "name": "Jim Lang",
+      "targetId": "3498"
+    },
+    {
+      "name": "Stephen McCarthy",
+      "targetId": "3500"
+    },
+    {
+      "name": "Mark Walton",
+      "targetId": "3501"
+    },
+    {
+      "name": "Richard Greene",
+      "targetId": "3502"
+    },
+    {
+      "name": "Chris Cacavas",
+      "targetId": "3503"
+    },
+    {
+      "name": "Tim Landers",
+      "targetId": "3504"
+    },
+    {
+      "name": "Robert Lloyd",
+      "targetId": "3505"
+    },
+    {
+      "name": "Julie Christensen",
+      "targetId": "3506"
+    },
+    {
+      "name": "Joe Barresi",
+      "targetId": "3507"
+    },
+    {
+      "name": "John Doe",
+      "targetId": "3508"
+    },
+    {
+      "name": "Exene Cervenka",
+      "targetId": "3509"
+    },
+    {
+      "name": "Jonny Ray Bartel",
+      "targetId": "3624"
+    },
+    {
+      "name": "Dave Alvin",
+      "targetId": "3625"
+    }
+  ]
+}

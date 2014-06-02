@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Markus Barth",
-    "target": "Clarence Clemons",
-    "targetId": "465"
-  },
-  {
-    "source": "Markus Barth",
-    "target": "Nick Clemons",
-    "targetId": "7406"
-  },
-  {
-    "source": "Markus Barth",
-    "target": "Jim Keegan",
-    "targetId": "7411"
-  },
-  {
-    "source": "Markus Barth",
-    "target": "Dave DeSantis",
-    "targetId": "7413"
-  }
-]
+{
+  "source": "Markus Barth",
+  "targets": [
+    {
+      "name": "Clarence Clemons",
+      "targetId": "465"
+    },
+    {
+      "name": "Nick Clemons",
+      "targetId": "7406"
+    },
+    {
+      "name": "Jim Keegan",
+      "targetId": "7411"
+    },
+    {
+      "name": "Dave DeSantis",
+      "targetId": "7413"
+    }
+  ]
+}

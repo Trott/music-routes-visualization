@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Bob Kulick",
-    "target": "George Lynch",
-    "targetId": "163"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Jeff Pilson",
-    "targetId": "170"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Meat Loaf",
-    "targetId": "1803"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Rory Dodd",
-    "targetId": "1816"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Jim Steinman",
-    "targetId": "1818"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Dee Snider",
-    "targetId": "5290"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Bruce Kulick",
-    "targetId": "7773"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Jason Bonham",
-    "targetId": "8034"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Karla DeVito",
-    "targetId": "10426"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Steve Buslowe",
-    "targetId": "10427"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Joe Stefko",
-    "targetId": "10428"
-  },
-  {
-    "source": "Bob Kulick",
-    "target": "Paul Glanz",
-    "targetId": "10429"
-  }
-]
+{
+  "source": "Bob Kulick",
+  "targets": [
+    {
+      "name": "George Lynch",
+      "targetId": "163"
+    },
+    {
+      "name": "Jeff Pilson",
+      "targetId": "170"
+    },
+    {
+      "name": "Meat Loaf",
+      "targetId": "1803"
+    },
+    {
+      "name": "Rory Dodd",
+      "targetId": "1816"
+    },
+    {
+      "name": "Jim Steinman",
+      "targetId": "1818"
+    },
+    {
+      "name": "Dee Snider",
+      "targetId": "5290"
+    },
+    {
+      "name": "Bruce Kulick",
+      "targetId": "7773"
+    },
+    {
+      "name": "Jason Bonham",
+      "targetId": "8034"
+    },
+    {
+      "name": "Karla DeVito",
+      "targetId": "10426"
+    },
+    {
+      "name": "Steve Buslowe",
+      "targetId": "10427"
+    },
+    {
+      "name": "Joe Stefko",
+      "targetId": "10428"
+    },
+    {
+      "name": "Paul Glanz",
+      "targetId": "10429"
+    }
+  ]
+}

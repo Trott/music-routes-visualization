@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jim Morrison",
-    "target": "Jerry Scheff",
-    "targetId": "287"
-  },
-  {
-    "source": "Jim Morrison",
-    "target": "Robby Krieger",
-    "targetId": "1551"
-  },
-  {
-    "source": "Jim Morrison",
-    "target": "Ray Manzarek",
-    "targetId": "1552"
-  },
-  {
-    "source": "Jim Morrison",
-    "target": "John Densmore",
-    "targetId": "1553"
-  },
-  {
-    "source": "Jim Morrison",
-    "target": "Lonnie Mack",
-    "targetId": "1554"
-  },
-  {
-    "source": "Jim Morrison",
-    "target": "John Sebastian",
-    "targetId": "1555"
-  },
-  {
-    "source": "Jim Morrison",
-    "target": "Marc Benno",
-    "targetId": "1556"
-  }
-]
+{
+  "source": "Jim Morrison",
+  "targets": [
+    {
+      "name": "Jerry Scheff",
+      "targetId": "287"
+    },
+    {
+      "name": "Robby Krieger",
+      "targetId": "1551"
+    },
+    {
+      "name": "Ray Manzarek",
+      "targetId": "1552"
+    },
+    {
+      "name": "John Densmore",
+      "targetId": "1553"
+    },
+    {
+      "name": "Lonnie Mack",
+      "targetId": "1554"
+    },
+    {
+      "name": "John Sebastian",
+      "targetId": "1555"
+    },
+    {
+      "name": "Marc Benno",
+      "targetId": "1556"
+    }
+  ]
+}

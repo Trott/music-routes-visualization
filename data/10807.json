@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tim Holmes",
-    "target": "Simon Hanson",
-    "targetId": "4181"
-  },
-  {
-    "source": "Tim Holmes",
-    "target": "Richard Fearless",
-    "targetId": "10806"
-  },
-  {
-    "source": "Tim Holmes",
-    "target": "Dot Allison",
-    "targetId": "10808"
-  },
-  {
-    "source": "Tim Holmes",
-    "target": "Mat Flint",
-    "targetId": "10809"
-  },
-  {
-    "source": "Tim Holmes",
-    "target": "Ian Button",
-    "targetId": "10810"
-  }
-]
+{
+  "source": "Tim Holmes",
+  "targets": [
+    {
+      "name": "Simon Hanson",
+      "targetId": "4181"
+    },
+    {
+      "name": "Richard Fearless",
+      "targetId": "10806"
+    },
+    {
+      "name": "Dot Allison",
+      "targetId": "10808"
+    },
+    {
+      "name": "Mat Flint",
+      "targetId": "10809"
+    },
+    {
+      "name": "Ian Button",
+      "targetId": "10810"
+    }
+  ]
+}

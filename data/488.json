@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Alan Kendall",
-    "target": "John Glascock",
-    "targetId": "485"
-  },
-  {
-    "source": "Alan Kendall",
-    "target": "Cliff Bennett",
-    "targetId": "486"
-  },
-  {
-    "source": "Alan Kendall",
-    "target": "Brian Glascock",
-    "targetId": "489"
-  },
-  {
-    "source": "Alan Kendall",
-    "target": "Robin Gibb",
-    "targetId": "1279"
-  },
-  {
-    "source": "Alan Kendall",
-    "target": "Barry Gibb",
-    "targetId": "2382"
-  },
-  {
-    "source": "Alan Kendall",
-    "target": "Maurice Gibb",
-    "targetId": "2383"
-  },
-  {
-    "source": "Alan Kendall",
-    "target": "Blue Weaver",
-    "targetId": "2384"
-  },
-  {
-    "source": "Alan Kendall",
-    "target": "Joe Lala",
-    "targetId": "2385"
-  },
-  {
-    "source": "Alan Kendall",
-    "target": "Dennis Bryon",
-    "targetId": "2386"
-  }
-]
+{
+  "source": "Alan Kendall",
+  "targets": [
+    {
+      "name": "John Glascock",
+      "targetId": "485"
+    },
+    {
+      "name": "Cliff Bennett",
+      "targetId": "486"
+    },
+    {
+      "name": "Brian Glascock",
+      "targetId": "489"
+    },
+    {
+      "name": "Robin Gibb",
+      "targetId": "1279"
+    },
+    {
+      "name": "Barry Gibb",
+      "targetId": "2382"
+    },
+    {
+      "name": "Maurice Gibb",
+      "targetId": "2383"
+    },
+    {
+      "name": "Blue Weaver",
+      "targetId": "2384"
+    },
+    {
+      "name": "Joe Lala",
+      "targetId": "2385"
+    },
+    {
+      "name": "Dennis Bryon",
+      "targetId": "2386"
+    }
+  ]
+}

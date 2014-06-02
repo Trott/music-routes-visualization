@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Gruff Rhys",
-    "target": "Mark Linkous",
-    "targetId": "6972"
-  },
-  {
-    "source": "Gruff Rhys",
-    "target": "Danger Mouse",
-    "targetId": "6977"
-  }
-]
+{
+  "source": "Gruff Rhys",
+  "targets": [
+    {
+      "name": "Mark Linkous",
+      "targetId": "6972"
+    },
+    {
+      "name": "Danger Mouse",
+      "targetId": "6977"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ricky Tractor",
-    "target": "Johnny Strike",
-    "targetId": "516"
-  },
-  {
-    "source": "Ricky Tractor",
-    "target": "Frankie Fix",
-    "targetId": "518"
-  },
-  {
-    "source": "Ricky Tractor",
-    "target": "Ron \"The Ripper\" Greco",
-    "targetId": "519"
-  }
-]
+{
+  "source": "Ricky Tractor",
+  "targets": [
+    {
+      "name": "Johnny Strike",
+      "targetId": "516"
+    },
+    {
+      "name": "Frankie Fix",
+      "targetId": "518"
+    },
+    {
+      "name": "Ron \"The Ripper\" Greco",
+      "targetId": "519"
+    }
+  ]
+}

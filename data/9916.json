@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mickey Shine",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Mickey Shine",
-    "target": "Nick Lowe",
-    "targetId": "3600"
-  },
-  {
-    "source": "Mickey Shine",
-    "target": "John Ciambotti",
-    "targetId": "8698"
-  },
-  {
-    "source": "Mickey Shine",
-    "target": "John McFee",
-    "targetId": "9884"
-  },
-  {
-    "source": "Mickey Shine",
-    "target": "Sean Hopper",
-    "targetId": "9915"
-  },
-  {
-    "source": "Mickey Shine",
-    "target": "Stan Shaw",
-    "targetId": "9917"
-  }
-]
+{
+  "source": "Mickey Shine",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Nick Lowe",
+      "targetId": "3600"
+    },
+    {
+      "name": "John Ciambotti",
+      "targetId": "8698"
+    },
+    {
+      "name": "John McFee",
+      "targetId": "9884"
+    },
+    {
+      "name": "Sean Hopper",
+      "targetId": "9915"
+    },
+    {
+      "name": "Stan Shaw",
+      "targetId": "9917"
+    }
+  ]
+}

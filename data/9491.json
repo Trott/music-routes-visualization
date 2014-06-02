@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jim Walker",
-    "target": "John Lydon",
-    "targetId": "2670"
-  },
-  {
-    "source": "Jim Walker",
-    "target": "Keith Levene",
-    "targetId": "5269"
-  },
-  {
-    "source": "Jim Walker",
-    "target": "Jah Wobble",
-    "targetId": "5270"
-  }
-]
+{
+  "source": "Jim Walker",
+  "targets": [
+    {
+      "name": "John Lydon",
+      "targetId": "2670"
+    },
+    {
+      "name": "Keith Levene",
+      "targetId": "5269"
+    },
+    {
+      "name": "Jah Wobble",
+      "targetId": "5270"
+    }
+  ]
+}

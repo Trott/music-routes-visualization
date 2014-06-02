@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Tony Ashton",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Tony Ashton",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Tony Ashton",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Tony Ashton",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Tony Ashton",
-    "target": "Gary Wright",
-    "targetId": "3199"
-  },
-  {
-    "source": "Tony Ashton",
-    "target": "Mike Gibbins",
-    "targetId": "6636"
-  }
-]
+{
+  "source": "Tony Ashton",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Gary Wright",
+      "targetId": "3199"
+    },
+    {
+      "name": "Mike Gibbins",
+      "targetId": "6636"
+    }
+  ]
+}

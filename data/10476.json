@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Greg Attonito",
-    "target": "Huey",
-    "targetId": "10469"
-  },
-  {
-    "source": "Greg Attonito",
-    "target": "Spooney",
-    "targetId": "10470"
-  },
-  {
-    "source": "Greg Attonito",
-    "target": "Ricky",
-    "targetId": "10471"
-  },
-  {
-    "source": "Greg Attonito",
-    "target": "Surly",
-    "targetId": "10472"
-  }
-]
+{
+  "source": "Greg Attonito",
+  "targets": [
+    {
+      "name": "Huey",
+      "targetId": "10469"
+    },
+    {
+      "name": "Spooney",
+      "targetId": "10470"
+    },
+    {
+      "name": "Ricky",
+      "targetId": "10471"
+    },
+    {
+      "name": "Surly",
+      "targetId": "10472"
+    }
+  ]
+}

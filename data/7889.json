@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Michael Ruff",
-    "target": "Marty Walsh",
-    "targetId": "2660"
-  },
-  {
-    "source": "Michael Ruff",
-    "target": "Billy Sherwood",
-    "targetId": "6279"
-  },
-  {
-    "source": "Michael Ruff",
-    "target": "Mark Williams",
-    "targetId": "7884"
-  },
-  {
-    "source": "Michael Ruff",
-    "target": "Russell Hitchcock",
-    "targetId": "7886"
-  },
-  {
-    "source": "Michael Ruff",
-    "target": "Graham Russell",
-    "targetId": "7887"
-  }
-]
+{
+  "source": "Michael Ruff",
+  "targets": [
+    {
+      "name": "Marty Walsh",
+      "targetId": "2660"
+    },
+    {
+      "name": "Billy Sherwood",
+      "targetId": "6279"
+    },
+    {
+      "name": "Mark Williams",
+      "targetId": "7884"
+    },
+    {
+      "name": "Russell Hitchcock",
+      "targetId": "7886"
+    },
+    {
+      "name": "Graham Russell",
+      "targetId": "7887"
+    }
+  ]
+}

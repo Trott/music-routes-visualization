@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Elkie Brooks",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Elkie Brooks",
-    "target": "Cat Stevens",
-    "targetId": "1088"
-  },
-  {
-    "source": "Elkie Brooks",
-    "target": "Bruce Lynch",
-    "targetId": "1089"
-  },
-  {
-    "source": "Elkie Brooks",
-    "target": "Jean Roussel",
-    "targetId": "1090"
-  },
-  {
-    "source": "Elkie Brooks",
-    "target": "Suzanne Lynch",
-    "targetId": "1092"
-  }
-]
+{
+  "source": "Elkie Brooks",
+  "targets": [
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "Cat Stevens",
+      "targetId": "1088"
+    },
+    {
+      "name": "Bruce Lynch",
+      "targetId": "1089"
+    },
+    {
+      "name": "Jean Roussel",
+      "targetId": "1090"
+    },
+    {
+      "name": "Suzanne Lynch",
+      "targetId": "1092"
+    }
+  ]
+}

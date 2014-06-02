@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tom Rothrock",
-    "target": "James Blunt",
-    "targetId": "6506"
-  },
-  {
-    "source": "Tom Rothrock",
-    "target": "Sasha Kristov",
-    "targetId": "6508"
-  },
-  {
-    "source": "Tom Rothrock",
-    "target": "Charlie Paxon",
-    "targetId": "6509"
-  },
-  {
-    "source": "Tom Rothrock",
-    "target": "John Nau",
-    "targetId": "6510"
-  },
-  {
-    "source": "Tom Rothrock",
-    "target": "John \"Gumby\" Goodwin",
-    "targetId": "6512"
-  }
-]
+{
+  "source": "Tom Rothrock",
+  "targets": [
+    {
+      "name": "James Blunt",
+      "targetId": "6506"
+    },
+    {
+      "name": "Sasha Kristov",
+      "targetId": "6508"
+    },
+    {
+      "name": "Charlie Paxon",
+      "targetId": "6509"
+    },
+    {
+      "name": "John Nau",
+      "targetId": "6510"
+    },
+    {
+      "name": "John \"Gumby\" Goodwin",
+      "targetId": "6512"
+    }
+  ]
+}

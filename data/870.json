@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Daniel Miller",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Daniel Miller",
-    "target": "Akiko Yano",
-    "targetId": "869"
-  },
-  {
-    "source": "Daniel Miller",
-    "target": "David Gahan",
-    "targetId": "3429"
-  },
-  {
-    "source": "Daniel Miller",
-    "target": "Martin Gore",
-    "targetId": "3430"
-  },
-  {
-    "source": "Daniel Miller",
-    "target": "Andrew Fletcher",
-    "targetId": "3431"
-  }
-]
+{
+  "source": "Daniel Miller",
+  "targets": [
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Akiko Yano",
+      "targetId": "869"
+    },
+    {
+      "name": "David Gahan",
+      "targetId": "3429"
+    },
+    {
+      "name": "Martin Gore",
+      "targetId": "3430"
+    },
+    {
+      "name": "Andrew Fletcher",
+      "targetId": "3431"
+    }
+  ]
+}

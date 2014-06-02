@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rick McCollum",
-    "target": "Greg Dulli",
-    "targetId": "1641"
-  },
-  {
-    "source": "Rick McCollum",
-    "target": "Steve Earle",
-    "targetId": "1656"
-  },
-  {
-    "source": "Rick McCollum",
-    "target": "John Curley",
-    "targetId": "1658"
-  },
-  {
-    "source": "Rick McCollum",
-    "target": "Michael Horrigan",
-    "targetId": "1659"
-  }
-]
+{
+  "source": "Rick McCollum",
+  "targets": [
+    {
+      "name": "Greg Dulli",
+      "targetId": "1641"
+    },
+    {
+      "name": "Steve Earle",
+      "targetId": "1656"
+    },
+    {
+      "name": "John Curley",
+      "targetId": "1658"
+    },
+    {
+      "name": "Michael Horrigan",
+      "targetId": "1659"
+    }
+  ]
+}

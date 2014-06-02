@@ -1,207 +1,169 @@
-[
-  {
-    "source": "Chriss Laurence",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Jeff Lynne",
-    "targetId": "224"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Linda McCartney",
-    "targetId": "631"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Tony Pleeth",
-    "targetId": "4485"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Richard Edwards",
-    "targetId": "4627"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Michael Thompson",
-    "targetId": "5130"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Richard Watkins",
-    "targetId": "5132"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Keith Pascoe",
-    "targetId": "5137"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Jackie Hartley",
-    "targetId": "5138"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Rita Manning",
-    "targetId": "5139"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Martin Loveday",
-    "targetId": "5142"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Levine Andade",
-    "targetId": "5144"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "John Barclay",
-    "targetId": "5150"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Andrew Crowley",
-    "targetId": "5151"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Mark Bennett",
-    "targetId": "5152"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Andy Fawbert",
-    "targetId": "5153"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Nigel Black",
-    "targetId": "5154"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Bernard Partridge",
-    "targetId": "5155"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Belinda Bunt",
-    "targetId": "5156"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Adrian Levine",
-    "targetId": "5157"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Marcia Crayford",
-    "targetId": "5158"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "David Woodcock",
-    "targetId": "5159"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Roger Garland",
-    "targetId": "5160"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Julian Tear",
-    "targetId": "5161"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Briony Shaw",
-    "targetId": "5162"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Jeremy Williams",
-    "targetId": "5163"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "David Ogden",
-    "targetId": "5164"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Boguslaw Kostecki",
-    "targetId": "5165"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Maciej Rakowski",
-    "targetId": "5166"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Jonathan Rees",
-    "targetId": "5167"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Robert Smissen",
-    "targetId": "5168"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Stephen Tees",
-    "targetId": "5169"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Philip Dukey",
-    "targetId": "5170"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Ivo Van Der Werff",
-    "targetId": "5171"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Graeme Scott",
-    "targetId": "5172"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Stephen Orton",
-    "targetId": "5173"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Robert Bailey",
-    "targetId": "5174"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Robin McGee",
-    "targetId": "5176"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "Susan Milan",
-    "targetId": "5177"
-  },
-  {
-    "source": "Chriss Laurence",
-    "target": "David Theodore",
-    "targetId": "5178"
-  }
-]
+{
+  "source": "Chriss Laurence",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Jeff Lynne",
+      "targetId": "224"
+    },
+    {
+      "name": "Linda McCartney",
+      "targetId": "631"
+    },
+    {
+      "name": "Tony Pleeth",
+      "targetId": "4485"
+    },
+    {
+      "name": "Richard Edwards",
+      "targetId": "4627"
+    },
+    {
+      "name": "Michael Thompson",
+      "targetId": "5130"
+    },
+    {
+      "name": "Richard Watkins",
+      "targetId": "5132"
+    },
+    {
+      "name": "Keith Pascoe",
+      "targetId": "5137"
+    },
+    {
+      "name": "Jackie Hartley",
+      "targetId": "5138"
+    },
+    {
+      "name": "Rita Manning",
+      "targetId": "5139"
+    },
+    {
+      "name": "Martin Loveday",
+      "targetId": "5142"
+    },
+    {
+      "name": "Levine Andade",
+      "targetId": "5144"
+    },
+    {
+      "name": "John Barclay",
+      "targetId": "5150"
+    },
+    {
+      "name": "Andrew Crowley",
+      "targetId": "5151"
+    },
+    {
+      "name": "Mark Bennett",
+      "targetId": "5152"
+    },
+    {
+      "name": "Andy Fawbert",
+      "targetId": "5153"
+    },
+    {
+      "name": "Nigel Black",
+      "targetId": "5154"
+    },
+    {
+      "name": "Bernard Partridge",
+      "targetId": "5155"
+    },
+    {
+      "name": "Belinda Bunt",
+      "targetId": "5156"
+    },
+    {
+      "name": "Adrian Levine",
+      "targetId": "5157"
+    },
+    {
+      "name": "Marcia Crayford",
+      "targetId": "5158"
+    },
+    {
+      "name": "David Woodcock",
+      "targetId": "5159"
+    },
+    {
+      "name": "Roger Garland",
+      "targetId": "5160"
+    },
+    {
+      "name": "Julian Tear",
+      "targetId": "5161"
+    },
+    {
+      "name": "Briony Shaw",
+      "targetId": "5162"
+    },
+    {
+      "name": "Jeremy Williams",
+      "targetId": "5163"
+    },
+    {
+      "name": "David Ogden",
+      "targetId": "5164"
+    },
+    {
+      "name": "Boguslaw Kostecki",
+      "targetId": "5165"
+    },
+    {
+      "name": "Maciej Rakowski",
+      "targetId": "5166"
+    },
+    {
+      "name": "Jonathan Rees",
+      "targetId": "5167"
+    },
+    {
+      "name": "Robert Smissen",
+      "targetId": "5168"
+    },
+    {
+      "name": "Stephen Tees",
+      "targetId": "5169"
+    },
+    {
+      "name": "Philip Dukey",
+      "targetId": "5170"
+    },
+    {
+      "name": "Ivo Van Der Werff",
+      "targetId": "5171"
+    },
+    {
+      "name": "Graeme Scott",
+      "targetId": "5172"
+    },
+    {
+      "name": "Stephen Orton",
+      "targetId": "5173"
+    },
+    {
+      "name": "Robert Bailey",
+      "targetId": "5174"
+    },
+    {
+      "name": "Robin McGee",
+      "targetId": "5176"
+    },
+    {
+      "name": "Susan Milan",
+      "targetId": "5177"
+    },
+    {
+      "name": "David Theodore",
+      "targetId": "5178"
+    }
+  ]
+}

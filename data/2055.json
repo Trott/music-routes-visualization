@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dean Schlabowske",
-    "target": "Mark Durante",
-    "targetId": "886"
-  },
-  {
-    "source": "Dean Schlabowske",
-    "target": "Tracy Dear",
-    "targetId": "2056"
-  },
-  {
-    "source": "Dean Schlabowske",
-    "target": "Steven Goulding",
-    "targetId": "2057"
-  },
-  {
-    "source": "Dean Schlabowske",
-    "target": "Jon Langford",
-    "targetId": "2058"
-  },
-  {
-    "source": "Dean Schlabowske",
-    "target": "Alan Doughty",
-    "targetId": "2059"
-  }
-]
+{
+  "source": "Dean Schlabowske",
+  "targets": [
+    {
+      "name": "Mark Durante",
+      "targetId": "886"
+    },
+    {
+      "name": "Tracy Dear",
+      "targetId": "2056"
+    },
+    {
+      "name": "Steven Goulding",
+      "targetId": "2057"
+    },
+    {
+      "name": "Jon Langford",
+      "targetId": "2058"
+    },
+    {
+      "name": "Alan Doughty",
+      "targetId": "2059"
+    }
+  ]
+}

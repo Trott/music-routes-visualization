@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Sonny Truitt",
-    "target": "Phil Woods",
-    "targetId": "7253"
-  },
-  {
-    "source": "Sonny Truitt",
-    "target": "Billy Byers",
-    "targetId": "7934"
-  },
-  {
-    "source": "Sonny Truitt",
-    "target": "Jim Chapin",
-    "targetId": "7940"
-  },
-  {
-    "source": "Sonny Truitt",
-    "target": "Don Stratton",
-    "targetId": "7941"
-  },
-  {
-    "source": "Sonny Truitt",
-    "target": "Charles Andrus",
-    "targetId": "7943"
-  }
-]
+{
+  "source": "Sonny Truitt",
+  "targets": [
+    {
+      "name": "Phil Woods",
+      "targetId": "7253"
+    },
+    {
+      "name": "Billy Byers",
+      "targetId": "7934"
+    },
+    {
+      "name": "Jim Chapin",
+      "targetId": "7940"
+    },
+    {
+      "name": "Don Stratton",
+      "targetId": "7941"
+    },
+    {
+      "name": "Charles Andrus",
+      "targetId": "7943"
+    }
+  ]
+}

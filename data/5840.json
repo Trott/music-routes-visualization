@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Spike Jones",
-    "target": "Mel Blanc",
-    "targetId": "5839"
-  },
-  {
-    "source": "Spike Jones",
-    "target": "Del Porter",
-    "targetId": "5841"
-  }
-]
+{
+  "source": "Spike Jones",
+  "targets": [
+    {
+      "name": "Mel Blanc",
+      "targetId": "5839"
+    },
+    {
+      "name": "Del Porter",
+      "targetId": "5841"
+    }
+  ]
+}

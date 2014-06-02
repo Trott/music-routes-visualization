@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Chuck Ruff",
-    "target": "Steve Perry",
-    "targetId": "71"
-  },
-  {
-    "source": "Chuck Ruff",
-    "target": "Neal Schon",
-    "targetId": "174"
-  },
-  {
-    "source": "Chuck Ruff",
-    "target": "Sammy Hagar",
-    "targetId": "1735"
-  },
-  {
-    "source": "Chuck Ruff",
-    "target": "Bill Church",
-    "targetId": "1737"
-  },
-  {
-    "source": "Chuck Ruff",
-    "target": "Gary Pihl",
-    "targetId": "1739"
-  },
-  {
-    "source": "Chuck Ruff",
-    "target": "Geoff Workman",
-    "targetId": "1740"
-  }
-]
+{
+  "source": "Chuck Ruff",
+  "targets": [
+    {
+      "name": "Steve Perry",
+      "targetId": "71"
+    },
+    {
+      "name": "Neal Schon",
+      "targetId": "174"
+    },
+    {
+      "name": "Sammy Hagar",
+      "targetId": "1735"
+    },
+    {
+      "name": "Bill Church",
+      "targetId": "1737"
+    },
+    {
+      "name": "Gary Pihl",
+      "targetId": "1739"
+    },
+    {
+      "name": "Geoff Workman",
+      "targetId": "1740"
+    }
+  ]
+}

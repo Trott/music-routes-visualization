@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Mark Leonard",
-    "target": "Charlie Judge",
-    "targetId": "1371"
-  },
-  {
-    "source": "Mark Leonard",
-    "target": "Tamara Champlin",
-    "targetId": "5797"
-  },
-  {
-    "source": "Mark Leonard",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Mark Leonard",
-    "target": "Don Johnson",
-    "targetId": "10485"
-  },
-  {
-    "source": "Mark Leonard",
-    "target": "Bill Champlin",
-    "targetId": "10486"
-  },
-  {
-    "source": "Mark Leonard",
-    "target": "Curly Smith",
-    "targetId": "10487"
-  },
-  {
-    "source": "Mark Leonard",
-    "target": "Chris Sandford",
-    "targetId": "10489"
-  }
-]
+{
+  "source": "Mark Leonard",
+  "targets": [
+    {
+      "name": "Charlie Judge",
+      "targetId": "1371"
+    },
+    {
+      "name": "Tamara Champlin",
+      "targetId": "5797"
+    },
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Don Johnson",
+      "targetId": "10485"
+    },
+    {
+      "name": "Bill Champlin",
+      "targetId": "10486"
+    },
+    {
+      "name": "Curly Smith",
+      "targetId": "10487"
+    },
+    {
+      "name": "Chris Sandford",
+      "targetId": "10489"
+    }
+  ]
+}

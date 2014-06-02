@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Terry Cox",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Terry Cox",
-    "target": "Rick Wakeman",
-    "targetId": "792"
-  },
-  {
-    "source": "Terry Cox",
-    "target": "Herbie Flowers",
-    "targetId": "800"
-  }
-]
+{
+  "source": "Terry Cox",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Rick Wakeman",
+      "targetId": "792"
+    },
+    {
+      "name": "Herbie Flowers",
+      "targetId": "800"
+    }
+  ]
+}

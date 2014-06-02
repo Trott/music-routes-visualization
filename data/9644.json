@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Pierre Tubbs",
-    "target": "Michael de Albuquerque",
-    "targetId": "3239"
-  },
-  {
-    "source": "Pierre Tubbs",
-    "target": "Peter Hughes",
-    "targetId": "9639"
-  },
-  {
-    "source": "Pierre Tubbs",
-    "target": "Pete Kirshaw",
-    "targetId": "9640"
-  },
-  {
-    "source": "Pierre Tubbs",
-    "target": "Al Mathews",
-    "targetId": "9641"
-  },
-  {
-    "source": "Pierre Tubbs",
-    "target": "J. Vincent Edwards",
-    "targetId": "9642"
-  },
-  {
-    "source": "Pierre Tubbs",
-    "target": "Maxine Nightingale",
-    "targetId": "9643"
-  }
-]
+{
+  "source": "Pierre Tubbs",
+  "targets": [
+    {
+      "name": "Michael de Albuquerque",
+      "targetId": "3239"
+    },
+    {
+      "name": "Peter Hughes",
+      "targetId": "9639"
+    },
+    {
+      "name": "Pete Kirshaw",
+      "targetId": "9640"
+    },
+    {
+      "name": "Al Mathews",
+      "targetId": "9641"
+    },
+    {
+      "name": "J. Vincent Edwards",
+      "targetId": "9642"
+    },
+    {
+      "name": "Maxine Nightingale",
+      "targetId": "9643"
+    }
+  ]
+}

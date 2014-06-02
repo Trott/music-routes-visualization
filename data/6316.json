@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Adele",
-    "target": "Jack White",
-    "targetId": "256"
-  },
-  {
-    "source": "Adele",
-    "target": "Jack Lawrence",
-    "targetId": "3812"
-  },
-  {
-    "source": "Adele",
-    "target": "Brendan Benson",
-    "targetId": "6317"
-  },
-  {
-    "source": "Adele",
-    "target": "Patrick Keeler",
-    "targetId": "6318"
-  }
-]
+{
+  "source": "Adele",
+  "targets": [
+    {
+      "name": "Jack White",
+      "targetId": "256"
+    },
+    {
+      "name": "Jack Lawrence",
+      "targetId": "3812"
+    },
+    {
+      "name": "Brendan Benson",
+      "targetId": "6317"
+    },
+    {
+      "name": "Patrick Keeler",
+      "targetId": "6318"
+    }
+  ]
+}

@@ -1,237 +1,193 @@
-[
-  {
-    "source": "Scott Brown",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Timothy B. Schmit",
-    "targetId": "391"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Joe Walsh",
-    "targetId": "392"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Jim Cox",
-    "targetId": "804"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Daniel Lanois",
-    "targetId": "2195"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Doug Fieger",
-    "targetId": "4366"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Scott Weiland",
-    "targetId": "4382"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Nils Lofgren",
-    "targetId": "5631"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Michael Gurley",
-    "targetId": "7495"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Joie Calio",
-    "targetId": "7496"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Phil Leavitt",
-    "targetId": "7497"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Mark Hudson",
-    "targetId": "7498"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Steve Dudas",
-    "targetId": "7499"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Barbara Bach Starkey",
-    "targetId": "7500"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Keith Allison",
-    "targetId": "7501"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Astrid Barber",
-    "targetId": "7502"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "James Barber",
-    "targetId": "7503"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Blake V. Brown",
-    "targetId": "7504"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Vincent Brown",
-    "targetId": "7506"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Jim Cushinery",
-    "targetId": "7507"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Eric Gardner",
-    "targetId": "7508"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Scott Gordon",
-    "targetId": "7509"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Bruce Grakal",
-    "targetId": "7510"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Christopher Grakal",
-    "targetId": "7511"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Dean Grakal",
-    "targetId": "7512"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Ronni Grakal",
-    "targetId": "7513"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Eric Stitt Greedy",
-    "targetId": "7514"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Steve Greenberg",
-    "targetId": "7515"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Kay Harrison",
-    "targetId": "7516"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Tommy Harrison",
-    "targetId": "7517"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Dawn Hoenie",
-    "targetId": "7518"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Sarah Hudson",
-    "targetId": "7519"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Stuart Lerner, M.D.",
-    "targetId": "7520"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Gabriella Paglia",
-    "targetId": "7521"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Van Dyke Parks",
-    "targetId": "7522"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Sally Parks",
-    "targetId": "7523"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Elizabeth Parks",
-    "targetId": "7524"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Christina Rasch",
-    "targetId": "7525"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Lady Marjorie Rufus-Isaacs",
-    "targetId": "7526"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Jean Schmit",
-    "targetId": "7527"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Lee Starkey",
-    "targetId": "7528"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Tina Stem",
-    "targetId": "7529"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Jennifer Sylvor",
-    "targetId": "7530"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Barbara Vander Linde",
-    "targetId": "7531"
-  },
-  {
-    "source": "Scott Brown",
-    "target": "Tatiana Von Furstenberg",
-    "targetId": "7532"
-  }
-]
+{
+  "source": "Scott Brown",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Timothy B. Schmit",
+      "targetId": "391"
+    },
+    {
+      "name": "Joe Walsh",
+      "targetId": "392"
+    },
+    {
+      "name": "Jim Cox",
+      "targetId": "804"
+    },
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "Daniel Lanois",
+      "targetId": "2195"
+    },
+    {
+      "name": "Doug Fieger",
+      "targetId": "4366"
+    },
+    {
+      "name": "Scott Weiland",
+      "targetId": "4382"
+    },
+    {
+      "name": "Nils Lofgren",
+      "targetId": "5631"
+    },
+    {
+      "name": "Michael Gurley",
+      "targetId": "7495"
+    },
+    {
+      "name": "Joie Calio",
+      "targetId": "7496"
+    },
+    {
+      "name": "Phil Leavitt",
+      "targetId": "7497"
+    },
+    {
+      "name": "Mark Hudson",
+      "targetId": "7498"
+    },
+    {
+      "name": "Steve Dudas",
+      "targetId": "7499"
+    },
+    {
+      "name": "Barbara Bach Starkey",
+      "targetId": "7500"
+    },
+    {
+      "name": "Keith Allison",
+      "targetId": "7501"
+    },
+    {
+      "name": "Astrid Barber",
+      "targetId": "7502"
+    },
+    {
+      "name": "James Barber",
+      "targetId": "7503"
+    },
+    {
+      "name": "Blake V. Brown",
+      "targetId": "7504"
+    },
+    {
+      "name": "Vincent Brown",
+      "targetId": "7506"
+    },
+    {
+      "name": "Jim Cushinery",
+      "targetId": "7507"
+    },
+    {
+      "name": "Eric Gardner",
+      "targetId": "7508"
+    },
+    {
+      "name": "Scott Gordon",
+      "targetId": "7509"
+    },
+    {
+      "name": "Bruce Grakal",
+      "targetId": "7510"
+    },
+    {
+      "name": "Christopher Grakal",
+      "targetId": "7511"
+    },
+    {
+      "name": "Dean Grakal",
+      "targetId": "7512"
+    },
+    {
+      "name": "Ronni Grakal",
+      "targetId": "7513"
+    },
+    {
+      "name": "Eric Stitt Greedy",
+      "targetId": "7514"
+    },
+    {
+      "name": "Steve Greenberg",
+      "targetId": "7515"
+    },
+    {
+      "name": "Kay Harrison",
+      "targetId": "7516"
+    },
+    {
+      "name": "Tommy Harrison",
+      "targetId": "7517"
+    },
+    {
+      "name": "Dawn Hoenie",
+      "targetId": "7518"
+    },
+    {
+      "name": "Sarah Hudson",
+      "targetId": "7519"
+    },
+    {
+      "name": "Stuart Lerner, M.D.",
+      "targetId": "7520"
+    },
+    {
+      "name": "Gabriella Paglia",
+      "targetId": "7521"
+    },
+    {
+      "name": "Van Dyke Parks",
+      "targetId": "7522"
+    },
+    {
+      "name": "Sally Parks",
+      "targetId": "7523"
+    },
+    {
+      "name": "Elizabeth Parks",
+      "targetId": "7524"
+    },
+    {
+      "name": "Christina Rasch",
+      "targetId": "7525"
+    },
+    {
+      "name": "Lady Marjorie Rufus-Isaacs",
+      "targetId": "7526"
+    },
+    {
+      "name": "Jean Schmit",
+      "targetId": "7527"
+    },
+    {
+      "name": "Lee Starkey",
+      "targetId": "7528"
+    },
+    {
+      "name": "Tina Stem",
+      "targetId": "7529"
+    },
+    {
+      "name": "Jennifer Sylvor",
+      "targetId": "7530"
+    },
+    {
+      "name": "Barbara Vander Linde",
+      "targetId": "7531"
+    },
+    {
+      "name": "Tatiana Von Furstenberg",
+      "targetId": "7532"
+    }
+  ]
+}

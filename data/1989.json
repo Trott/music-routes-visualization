@@ -1,67 +1,57 @@
-[
-  {
-    "source": "Bill Povey",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Ronnie Scott",
-    "targetId": "1987"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Harry Klein",
-    "targetId": "1988"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Bill Jackman",
-    "targetId": "1990"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Derek Watkins",
-    "targetId": "9690"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Freddy Clayton",
-    "targetId": "9696"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Rex Morris",
-    "targetId": "9710"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Francie Schwartz",
-    "targetId": "9849"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "Don Lang",
-    "targetId": "9850"
-  },
-  {
-    "source": "Bill Povey",
-    "target": "J. Power",
-    "targetId": "9851"
-  }
-]
+{
+  "source": "Bill Povey",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Ronnie Scott",
+      "targetId": "1987"
+    },
+    {
+      "name": "Harry Klein",
+      "targetId": "1988"
+    },
+    {
+      "name": "Bill Jackman",
+      "targetId": "1990"
+    },
+    {
+      "name": "Derek Watkins",
+      "targetId": "9690"
+    },
+    {
+      "name": "Freddy Clayton",
+      "targetId": "9696"
+    },
+    {
+      "name": "Rex Morris",
+      "targetId": "9710"
+    },
+    {
+      "name": "Francie Schwartz",
+      "targetId": "9849"
+    },
+    {
+      "name": "Don Lang",
+      "targetId": "9850"
+    },
+    {
+      "name": "J. Power",
+      "targetId": "9851"
+    }
+  ]
+}

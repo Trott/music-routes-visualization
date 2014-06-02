@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Dalhover",
-    "target": "Mike Watson",
-    "targetId": "5680"
-  },
-  {
-    "source": "Scott Dalhover",
-    "target": "Mark Geary",
-    "targetId": "5681"
-  },
-  {
-    "source": "Scott Dalhover",
-    "target": "Jason McMaster",
-    "targetId": "5682"
-  },
-  {
-    "source": "Scott Dalhover",
-    "target": "Paula Salvatore",
-    "targetId": "5684"
-  }
-]
+{
+  "source": "Scott Dalhover",
+  "targets": [
+    {
+      "name": "Mike Watson",
+      "targetId": "5680"
+    },
+    {
+      "name": "Mark Geary",
+      "targetId": "5681"
+    },
+    {
+      "name": "Jason McMaster",
+      "targetId": "5682"
+    },
+    {
+      "name": "Paula Salvatore",
+      "targetId": "5684"
+    }
+  ]
+}

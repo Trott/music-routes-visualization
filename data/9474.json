@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Nigel Price",
-    "target": "Neil Bogart",
-    "targetId": "9471"
-  },
-  {
-    "source": "Nigel Price",
-    "target": "Neil Combstock",
-    "targetId": "9472"
-  },
-  {
-    "source": "Nigel Price",
-    "target": "Monica Vasconcelos",
-    "targetId": "9473"
-  }
-]
+{
+  "source": "Nigel Price",
+  "targets": [
+    {
+      "name": "Neil Bogart",
+      "targetId": "9471"
+    },
+    {
+      "name": "Neil Combstock",
+      "targetId": "9472"
+    },
+    {
+      "name": "Monica Vasconcelos",
+      "targetId": "9473"
+    }
+  ]
+}

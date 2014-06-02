@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Gordon Stone",
-    "target": "Trey Anastasio",
-    "targetId": "4731"
-  },
-  {
-    "source": "Gordon Stone",
-    "target": "Mike Gordon",
-    "targetId": "4733"
-  },
-  {
-    "source": "Gordon Stone",
-    "target": "Jonathan Fishman",
-    "targetId": "4734"
-  },
-  {
-    "source": "Gordon Stone",
-    "target": "Page McConnell",
-    "targetId": "4735"
-  }
-]
+{
+  "source": "Gordon Stone",
+  "targets": [
+    {
+      "name": "Trey Anastasio",
+      "targetId": "4731"
+    },
+    {
+      "name": "Mike Gordon",
+      "targetId": "4733"
+    },
+    {
+      "name": "Jonathan Fishman",
+      "targetId": "4734"
+    },
+    {
+      "name": "Page McConnell",
+      "targetId": "4735"
+    }
+  ]
+}

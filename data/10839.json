@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mario Cipollina",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "Mario Cipollina",
-    "target": "John McFee",
-    "targetId": "9884"
-  },
-  {
-    "source": "Mario Cipollina",
-    "target": "Sean Hopper",
-    "targetId": "9915"
-  },
-  {
-    "source": "Mario Cipollina",
-    "target": "Johnny Colla",
-    "targetId": "10840"
-  },
-  {
-    "source": "Mario Cipollina",
-    "target": "Bill Gibson",
-    "targetId": "10841"
-  },
-  {
-    "source": "Mario Cipollina",
-    "target": "Chris Hayes",
-    "targetId": "10842"
-  }
-]
+{
+  "source": "Mario Cipollina",
+  "targets": [
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "John McFee",
+      "targetId": "9884"
+    },
+    {
+      "name": "Sean Hopper",
+      "targetId": "9915"
+    },
+    {
+      "name": "Johnny Colla",
+      "targetId": "10840"
+    },
+    {
+      "name": "Bill Gibson",
+      "targetId": "10841"
+    },
+    {
+      "name": "Chris Hayes",
+      "targetId": "10842"
+    }
+  ]
+}

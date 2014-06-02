@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Warren Haynes",
-    "target": "Billy Gibbons",
-    "targetId": "2118"
-  },
-  {
-    "source": "Warren Haynes",
-    "target": "Matt Abts",
-    "targetId": "9878"
-  },
-  {
-    "source": "Warren Haynes",
-    "target": "Jorgen Carlsson",
-    "targetId": "9879"
-  }
-]
+{
+  "source": "Warren Haynes",
+  "targets": [
+    {
+      "name": "Billy Gibbons",
+      "targetId": "2118"
+    },
+    {
+      "name": "Matt Abts",
+      "targetId": "9878"
+    },
+    {
+      "name": "Jorgen Carlsson",
+      "targetId": "9879"
+    }
+  ]
+}

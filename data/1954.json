@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Nico",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Nico",
-    "target": "John Cale",
-    "targetId": "956"
-  },
-  {
-    "source": "Nico",
-    "target": "Maureen \"Moe\" Tucker",
-    "targetId": "2741"
-  },
-  {
-    "source": "Nico",
-    "target": "Sterling Morrison",
-    "targetId": "2742"
-  },
-  {
-    "source": "Nico",
-    "target": "Lou Reed",
-    "targetId": "2743"
-  }
-]
+{
+  "source": "Nico",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "John Cale",
+      "targetId": "956"
+    },
+    {
+      "name": "Maureen \"Moe\" Tucker",
+      "targetId": "2741"
+    },
+    {
+      "name": "Sterling Morrison",
+      "targetId": "2742"
+    },
+    {
+      "name": "Lou Reed",
+      "targetId": "2743"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Andrea Lewis",
-    "target": "Bob Ostertag",
-    "targetId": "3201"
-  },
-  {
-    "source": "Andrea Lewis",
-    "target": "Fred Frith",
-    "targetId": "3202"
-  },
-  {
-    "source": "Andrea Lewis",
-    "target": "Trevor Dunn",
-    "targetId": "3207"
-  },
-  {
-    "source": "Andrea Lewis",
-    "target": "Jim Hedges",
-    "targetId": "3208"
-  },
-  {
-    "source": "Andrea Lewis",
-    "target": "Christian Huygen",
-    "targetId": "3210"
-  },
-  {
-    "source": "Andrea Lewis",
-    "target": "JD Reilly",
-    "targetId": "3214"
-  },
-  {
-    "source": "Andrea Lewis",
-    "target": "Annie Toone",
-    "targetId": "3215"
-  },
-  {
-    "source": "Andrea Lewis",
-    "target": "Richie Waits",
-    "targetId": "3216"
-  }
-]
+{
+  "source": "Andrea Lewis",
+  "targets": [
+    {
+      "name": "Bob Ostertag",
+      "targetId": "3201"
+    },
+    {
+      "name": "Fred Frith",
+      "targetId": "3202"
+    },
+    {
+      "name": "Trevor Dunn",
+      "targetId": "3207"
+    },
+    {
+      "name": "Jim Hedges",
+      "targetId": "3208"
+    },
+    {
+      "name": "Christian Huygen",
+      "targetId": "3210"
+    },
+    {
+      "name": "JD Reilly",
+      "targetId": "3214"
+    },
+    {
+      "name": "Annie Toone",
+      "targetId": "3215"
+    },
+    {
+      "name": "Richie Waits",
+      "targetId": "3216"
+    }
+  ]
+}

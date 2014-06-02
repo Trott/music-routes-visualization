@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Patrick Woodcock",
-    "target": "Nicolas Godin",
-    "targetId": "9344"
-  },
-  {
-    "source": "Patrick Woodcock",
-    "target": "Jean-Benoît Dunckel",
-    "targetId": "9345"
-  },
-  {
-    "source": "Patrick Woodcock",
-    "target": "Beth Hirsch",
-    "targetId": "9351"
-  }
-]
+{
+  "source": "Patrick Woodcock",
+  "targets": [
+    {
+      "name": "Nicolas Godin",
+      "targetId": "9344"
+    },
+    {
+      "name": "Jean-Benoît Dunckel",
+      "targetId": "9345"
+    },
+    {
+      "name": "Beth Hirsch",
+      "targetId": "9351"
+    }
+  ]
+}

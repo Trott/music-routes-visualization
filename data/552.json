@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jewel",
-    "target": "Flea",
-    "targetId": "553"
-  },
-  {
-    "source": "Jewel",
-    "target": "Merle Haggard",
-    "targetId": "6243"
-  }
-]
+{
+  "source": "Jewel",
+  "targets": [
+    {
+      "name": "Flea",
+      "targetId": "553"
+    },
+    {
+      "name": "Merle Haggard",
+      "targetId": "6243"
+    }
+  ]
+}

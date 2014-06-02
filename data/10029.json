@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Sam Lay",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Sam Lay",
-    "target": "Mike Bloomfield",
-    "targetId": "6326"
-  }
-]
+{
+  "source": "Sam Lay",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Mike Bloomfield",
+      "targetId": "6326"
+    }
+  ]
+}

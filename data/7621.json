@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Tim Carroll",
-    "target": "Gary Floyd",
-    "targetId": "7615"
-  },
-  {
-    "source": "Tim Carroll",
-    "target": "Sebastian Fuchs",
-    "targetId": "7619"
-  },
-  {
-    "source": "Tim Carroll",
-    "target": "Lynn Perko",
-    "targetId": "7620"
-  }
-]
+{
+  "source": "Tim Carroll",
+  "targets": [
+    {
+      "name": "Gary Floyd",
+      "targetId": "7615"
+    },
+    {
+      "name": "Sebastian Fuchs",
+      "targetId": "7619"
+    },
+    {
+      "name": "Lynn Perko",
+      "targetId": "7620"
+    }
+  ]
+}

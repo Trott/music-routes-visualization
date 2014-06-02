@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Nate Denver",
-    "target": "John Dwyer",
-    "targetId": "5309"
-  },
-  {
-    "source": "Nate Denver",
-    "target": "Oran Canfield",
-    "targetId": "5502"
-  }
-]
+{
+  "source": "Nate Denver",
+  "targets": [
+    {
+      "name": "John Dwyer",
+      "targetId": "5309"
+    },
+    {
+      "name": "Oran Canfield",
+      "targetId": "5502"
+    }
+  ]
+}

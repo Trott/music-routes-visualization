@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Keith John",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Keith John",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Keith John",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "Keith John",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Keith John",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Keith John",
-    "target": "Booker T. Jones",
-    "targetId": "6245"
-  },
-  {
-    "source": "Keith John",
-    "target": "G.E. Smith",
-    "targetId": "8167"
-  }
-]
+{
+  "source": "Keith John",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Booker T. Jones",
+      "targetId": "6245"
+    },
+    {
+      "name": "G.E. Smith",
+      "targetId": "8167"
+    }
+  ]
+}

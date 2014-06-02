@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Squires",
-    "target": "Duff McKagan",
-    "targetId": "1570"
-  },
-  {
-    "source": "Mike Squires",
-    "target": "Jeff Rouse",
-    "targetId": "10822"
-  },
-  {
-    "source": "Mike Squires",
-    "target": "Isaac Carpenter",
-    "targetId": "10824"
-  }
-]
+{
+  "source": "Mike Squires",
+  "targets": [
+    {
+      "name": "Duff McKagan",
+      "targetId": "1570"
+    },
+    {
+      "name": "Jeff Rouse",
+      "targetId": "10822"
+    },
+    {
+      "name": "Isaac Carpenter",
+      "targetId": "10824"
+    }
+  ]
+}

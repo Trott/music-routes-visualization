@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paul D'Amour",
-    "target": "Henry Rollins",
-    "targetId": "185"
-  },
-  {
-    "source": "Paul D'Amour",
-    "target": "Maynard James Keenan",
-    "targetId": "8028"
-  },
-  {
-    "source": "Paul D'Amour",
-    "target": "Adam Jones",
-    "targetId": "8029"
-  },
-  {
-    "source": "Paul D'Amour",
-    "target": "Danny Carey",
-    "targetId": "8030"
-  }
-]
+{
+  "source": "Paul D'Amour",
+  "targets": [
+    {
+      "name": "Henry Rollins",
+      "targetId": "185"
+    },
+    {
+      "name": "Maynard James Keenan",
+      "targetId": "8028"
+    },
+    {
+      "name": "Adam Jones",
+      "targetId": "8029"
+    },
+    {
+      "name": "Danny Carey",
+      "targetId": "8030"
+    }
+  ]
+}

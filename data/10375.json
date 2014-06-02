@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jack Lavin",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Jack Lavin",
-    "target": "David Sinclair",
-    "targetId": "2453"
-  },
-  {
-    "source": "Jack Lavin",
-    "target": "Bruce Fairbairn",
-    "targetId": "10338"
-  },
-  {
-    "source": "Jack Lavin",
-    "target": "Peter Bjerring",
-    "targetId": "10354"
-  },
-  {
-    "source": "Jack Lavin",
-    "target": "Ron Tabak",
-    "targetId": "10367"
-  },
-  {
-    "source": "Jack Lavin",
-    "target": "Lindsay Mitchell",
-    "targetId": "10368"
-  },
-  {
-    "source": "Jack Lavin",
-    "target": "Graeme Coleman",
-    "targetId": "10374"
-  }
-]
+{
+  "source": "Jack Lavin",
+  "targets": [
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "David Sinclair",
+      "targetId": "2453"
+    },
+    {
+      "name": "Bruce Fairbairn",
+      "targetId": "10338"
+    },
+    {
+      "name": "Peter Bjerring",
+      "targetId": "10354"
+    },
+    {
+      "name": "Ron Tabak",
+      "targetId": "10367"
+    },
+    {
+      "name": "Lindsay Mitchell",
+      "targetId": "10368"
+    },
+    {
+      "name": "Graeme Coleman",
+      "targetId": "10374"
+    }
+  ]
+}

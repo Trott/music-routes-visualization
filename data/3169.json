@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Steve Marriott",
-    "target": "Ronnie Lane",
-    "targetId": "3162"
-  },
-  {
-    "source": "Steve Marriott",
-    "target": "Ian McLagan",
-    "targetId": "3163"
-  },
-  {
-    "source": "Steve Marriott",
-    "target": "Kenney Jones",
-    "targetId": "3164"
-  },
-  {
-    "source": "Steve Marriott",
-    "target": "Peter Frampton",
-    "targetId": "3166"
-  },
-  {
-    "source": "Steve Marriott",
-    "target": "Greg Ridley",
-    "targetId": "3170"
-  },
-  {
-    "source": "Steve Marriott",
-    "target": "Jerry Shirley",
-    "targetId": "3171"
-  }
-]
+{
+  "source": "Steve Marriott",
+  "targets": [
+    {
+      "name": "Ronnie Lane",
+      "targetId": "3162"
+    },
+    {
+      "name": "Ian McLagan",
+      "targetId": "3163"
+    },
+    {
+      "name": "Kenney Jones",
+      "targetId": "3164"
+    },
+    {
+      "name": "Peter Frampton",
+      "targetId": "3166"
+    },
+    {
+      "name": "Greg Ridley",
+      "targetId": "3170"
+    },
+    {
+      "name": "Jerry Shirley",
+      "targetId": "3171"
+    }
+  ]
+}

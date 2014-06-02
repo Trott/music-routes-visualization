@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Greg Reeves",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "Greg Reeves",
-    "target": "David Crosby",
-    "targetId": "511"
-  },
-  {
-    "source": "Greg Reeves",
-    "target": "Stephen Stills",
-    "targetId": "638"
-  },
-  {
-    "source": "Greg Reeves",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "Greg Reeves",
-    "target": "John Sebastian",
-    "targetId": "1555"
-  },
-  {
-    "source": "Greg Reeves",
-    "target": "Dallas Taylor",
-    "targetId": "10421"
-  }
-]
+{
+  "source": "Greg Reeves",
+  "targets": [
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "David Crosby",
+      "targetId": "511"
+    },
+    {
+      "name": "Stephen Stills",
+      "targetId": "638"
+    },
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "John Sebastian",
+      "targetId": "1555"
+    },
+    {
+      "name": "Dallas Taylor",
+      "targetId": "10421"
+    }
+  ]
+}

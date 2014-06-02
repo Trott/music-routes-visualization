@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Joan Armatrading",
-    "target": "Freddie Mercury",
-    "targetId": "212"
-  },
-  {
-    "source": "Joan Armatrading",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Joan Armatrading",
-    "target": "John Deacon",
-    "targetId": "214"
-  },
-  {
-    "source": "Joan Armatrading",
-    "target": "Roger Taylor",
-    "targetId": "215"
-  }
-]
+{
+  "source": "Joan Armatrading",
+  "targets": [
+    {
+      "name": "Freddie Mercury",
+      "targetId": "212"
+    },
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "John Deacon",
+      "targetId": "214"
+    },
+    {
+      "name": "Roger Taylor",
+      "targetId": "215"
+    }
+  ]
+}

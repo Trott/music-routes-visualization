@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Michelle Bell",
-    "target": "James Poyser",
-    "targetId": "6250"
-  },
-  {
-    "source": "Michelle Bell",
-    "target": "Owen Biddle",
-    "targetId": "7282"
-  },
-  {
-    "source": "Michelle Bell",
-    "target": "Taylor Dayne",
-    "targetId": "7284"
-  },
-  {
-    "source": "Michelle Bell",
-    "target": "Kevin Hanson",
-    "targetId": "7286"
-  }
-]
+{
+  "source": "Michelle Bell",
+  "targets": [
+    {
+      "name": "James Poyser",
+      "targetId": "6250"
+    },
+    {
+      "name": "Owen Biddle",
+      "targetId": "7282"
+    },
+    {
+      "name": "Taylor Dayne",
+      "targetId": "7284"
+    },
+    {
+      "name": "Kevin Hanson",
+      "targetId": "7286"
+    }
+  ]
+}

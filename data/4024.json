@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Gunnar Hallin",
-    "target": "Magnus Uggla",
-    "targetId": "4020"
-  },
-  {
-    "source": "Gunnar Hallin",
-    "target": "Stanley Larsson",
-    "targetId": "4021"
-  },
-  {
-    "source": "Gunnar Hallin",
-    "target": "Pluten Larson",
-    "targetId": "4022"
-  },
-  {
-    "source": "Gunnar Hallin",
-    "target": "Reg Ward",
-    "targetId": "4023"
-  }
-]
+{
+  "source": "Gunnar Hallin",
+  "targets": [
+    {
+      "name": "Magnus Uggla",
+      "targetId": "4020"
+    },
+    {
+      "name": "Stanley Larsson",
+      "targetId": "4021"
+    },
+    {
+      "name": "Pluten Larson",
+      "targetId": "4022"
+    },
+    {
+      "name": "Reg Ward",
+      "targetId": "4023"
+    }
+  ]
+}

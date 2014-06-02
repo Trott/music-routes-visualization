@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Bollinger",
-    "target": "Boy George",
-    "targetId": "52"
-  },
-  {
-    "source": "John Bollinger",
-    "target": "Devendra Banhart",
-    "targetId": "2882"
-  },
-  {
-    "source": "John Bollinger",
-    "target": "Joan Wasser",
-    "targetId": "6982"
-  },
-  {
-    "source": "John Bollinger",
-    "target": "Antony Hegarty",
-    "targetId": "10241"
-  },
-  {
-    "source": "John Bollinger",
-    "target": "Jeff Langston",
-    "targetId": "10242"
-  },
-  {
-    "source": "John Bollinger",
-    "target": "Maxim Moston",
-    "targetId": "10244"
-  },
-  {
-    "source": "John Bollinger",
-    "target": "Julia Kent",
-    "targetId": "10245"
-  }
-]
+{
+  "source": "John Bollinger",
+  "targets": [
+    {
+      "name": "Boy George",
+      "targetId": "52"
+    },
+    {
+      "name": "Devendra Banhart",
+      "targetId": "2882"
+    },
+    {
+      "name": "Joan Wasser",
+      "targetId": "6982"
+    },
+    {
+      "name": "Antony Hegarty",
+      "targetId": "10241"
+    },
+    {
+      "name": "Jeff Langston",
+      "targetId": "10242"
+    },
+    {
+      "name": "Maxim Moston",
+      "targetId": "10244"
+    },
+    {
+      "name": "Julia Kent",
+      "targetId": "10245"
+    }
+  ]
+}

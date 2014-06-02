@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Chris Ross",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "Chris Ross",
-    "target": "Andrew Stockdale",
-    "targetId": "1076"
-  },
-  {
-    "source": "Chris Ross",
-    "target": "Myles Heskett",
-    "targetId": "1078"
-  },
-  {
-    "source": "Chris Ross",
-    "target": "D. Sardy",
-    "targetId": "1079"
-  },
-  {
-    "source": "Chris Ross",
-    "target": "Dan Higgins",
-    "targetId": "1080"
-  }
-]
+{
+  "source": "Chris Ross",
+  "targets": [
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "Andrew Stockdale",
+      "targetId": "1076"
+    },
+    {
+      "name": "Myles Heskett",
+      "targetId": "1078"
+    },
+    {
+      "name": "D. Sardy",
+      "targetId": "1079"
+    },
+    {
+      "name": "Dan Higgins",
+      "targetId": "1080"
+    }
+  ]
+}

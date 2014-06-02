@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Charles Calvin",
-    "target": "Willie Exon",
-    "targetId": "9426"
-  },
-  {
-    "source": "Charles Calvin",
-    "target": "Billy Harper",
-    "targetId": "9427"
-  },
-  {
-    "source": "Charles Calvin",
-    "target": "James Calvin",
-    "targetId": "9428"
-  }
-]
+{
+  "source": "Charles Calvin",
+  "targets": [
+    {
+      "name": "Willie Exon",
+      "targetId": "9426"
+    },
+    {
+      "name": "Billy Harper",
+      "targetId": "9427"
+    },
+    {
+      "name": "James Calvin",
+      "targetId": "9428"
+    }
+  ]
+}

@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Ginger Baker",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Bernie Worrell",
-    "targetId": "199"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Steve Winwood",
-    "targetId": "905"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Ric Grech",
-    "targetId": "916"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Steve Vai",
-    "targetId": "1293"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Jack Bruce",
-    "targetId": "1733"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Felix Pappalardi",
-    "targetId": "1734"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Bill Laswell",
-    "targetId": "2205"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "John Lydon",
-    "targetId": "2670"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Dave Brock",
-    "targetId": "4470"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Felat Kuti",
-    "targetId": "5914"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Henry Koffi",
-    "targetId": "5915"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Friday Jumbo",
-    "targetId": "5916"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Akwei Korranting",
-    "targetId": "5917"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Tony Allen",
-    "targetId": "5918"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Maurice Ekpo",
-    "targetId": "5919"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Peter Animashaun",
-    "targetId": "5920"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Issac Olaleye",
-    "targetId": "5921"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Tony Abayomi",
-    "targetId": "5922"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Lekan Animashaun",
-    "targetId": "5923"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Igo Chico",
-    "targetId": "5924"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Tunde Williams",
-    "targetId": "5925"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Eddie Faychum",
-    "targetId": "5926"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Bernard Fowler",
-    "targetId": "6747"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Ryuichi Sakamoto",
-    "targetId": "7799"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Tim Blake",
-    "targetId": "8517"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Harvey Bainbridge",
-    "targetId": "9067"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Huw Lloyd-Langton",
-    "targetId": "9068"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Jonas Hellborg",
-    "targetId": "9086"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Nicky Skopelitis",
-    "targetId": "10235"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Foday Musa Suso",
-    "targetId": "10286"
-  },
-  {
-    "source": "Ginger Baker",
-    "target": "Aiyb Dieng",
-    "targetId": "10287"
-  }
-]
+{
+  "source": "Ginger Baker",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Bernie Worrell",
+      "targetId": "199"
+    },
+    {
+      "name": "Steve Winwood",
+      "targetId": "905"
+    },
+    {
+      "name": "Ric Grech",
+      "targetId": "916"
+    },
+    {
+      "name": "Steve Vai",
+      "targetId": "1293"
+    },
+    {
+      "name": "Jack Bruce",
+      "targetId": "1733"
+    },
+    {
+      "name": "Felix Pappalardi",
+      "targetId": "1734"
+    },
+    {
+      "name": "Bill Laswell",
+      "targetId": "2205"
+    },
+    {
+      "name": "John Lydon",
+      "targetId": "2670"
+    },
+    {
+      "name": "Dave Brock",
+      "targetId": "4470"
+    },
+    {
+      "name": "Felat Kuti",
+      "targetId": "5914"
+    },
+    {
+      "name": "Henry Koffi",
+      "targetId": "5915"
+    },
+    {
+      "name": "Friday Jumbo",
+      "targetId": "5916"
+    },
+    {
+      "name": "Akwei Korranting",
+      "targetId": "5917"
+    },
+    {
+      "name": "Tony Allen",
+      "targetId": "5918"
+    },
+    {
+      "name": "Maurice Ekpo",
+      "targetId": "5919"
+    },
+    {
+      "name": "Peter Animashaun",
+      "targetId": "5920"
+    },
+    {
+      "name": "Issac Olaleye",
+      "targetId": "5921"
+    },
+    {
+      "name": "Tony Abayomi",
+      "targetId": "5922"
+    },
+    {
+      "name": "Lekan Animashaun",
+      "targetId": "5923"
+    },
+    {
+      "name": "Igo Chico",
+      "targetId": "5924"
+    },
+    {
+      "name": "Tunde Williams",
+      "targetId": "5925"
+    },
+    {
+      "name": "Eddie Faychum",
+      "targetId": "5926"
+    },
+    {
+      "name": "Bernard Fowler",
+      "targetId": "6747"
+    },
+    {
+      "name": "Ryuichi Sakamoto",
+      "targetId": "7799"
+    },
+    {
+      "name": "Tim Blake",
+      "targetId": "8517"
+    },
+    {
+      "name": "Harvey Bainbridge",
+      "targetId": "9067"
+    },
+    {
+      "name": "Huw Lloyd-Langton",
+      "targetId": "9068"
+    },
+    {
+      "name": "Jonas Hellborg",
+      "targetId": "9086"
+    },
+    {
+      "name": "Nicky Skopelitis",
+      "targetId": "10235"
+    },
+    {
+      "name": "Foday Musa Suso",
+      "targetId": "10286"
+    },
+    {
+      "name": "Aiyb Dieng",
+      "targetId": "10287"
+    }
+  ]
+}

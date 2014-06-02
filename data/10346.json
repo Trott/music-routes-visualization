@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Gary Breit",
-    "target": "Mickey Curry",
-    "targetId": "1289"
-  },
-  {
-    "source": "Gary Breit",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Gary Breit",
-    "target": "Bryan Adams",
-    "targetId": "2449"
-  },
-  {
-    "source": "Gary Breit",
-    "target": "Colin Cripps",
-    "targetId": "3663"
-  },
-  {
-    "source": "Gary Breit",
-    "target": "Eliot Kennedy",
-    "targetId": "10347"
-  }
-]
+{
+  "source": "Gary Breit",
+  "targets": [
+    {
+      "name": "Mickey Curry",
+      "targetId": "1289"
+    },
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "Bryan Adams",
+      "targetId": "2449"
+    },
+    {
+      "name": "Colin Cripps",
+      "targetId": "3663"
+    },
+    {
+      "name": "Eliot Kennedy",
+      "targetId": "10347"
+    }
+  ]
+}

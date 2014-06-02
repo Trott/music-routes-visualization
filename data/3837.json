@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Warren Smith",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Warren Smith",
-    "target": "Larry Young",
-    "targetId": "1639"
-  },
-  {
-    "source": "Warren Smith",
-    "target": "Jack Bruce",
-    "targetId": "1733"
-  },
-  {
-    "source": "Warren Smith",
-    "target": "Rob Brown",
-    "targetId": "3833"
-  },
-  {
-    "source": "Warren Smith",
-    "target": "William Parker",
-    "targetId": "3836"
-  },
-  {
-    "source": "Warren Smith",
-    "target": "Ted Dunbar",
-    "targetId": "3838"
-  },
-  {
-    "source": "Warren Smith",
-    "target": "Tony Williams",
-    "targetId": "3839"
-  }
-]
+{
+  "source": "Warren Smith",
+  "targets": [
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Larry Young",
+      "targetId": "1639"
+    },
+    {
+      "name": "Jack Bruce",
+      "targetId": "1733"
+    },
+    {
+      "name": "Rob Brown",
+      "targetId": "3833"
+    },
+    {
+      "name": "William Parker",
+      "targetId": "3836"
+    },
+    {
+      "name": "Ted Dunbar",
+      "targetId": "3838"
+    },
+    {
+      "name": "Tony Williams",
+      "targetId": "3839"
+    }
+  ]
+}

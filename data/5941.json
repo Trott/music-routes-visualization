@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bob Gumbrecht",
-    "target": "Chris Stroffolino",
-    "targetId": "5936"
-  },
-  {
-    "source": "Bob Gumbrecht",
-    "target": "Mia Lipman",
-    "targetId": "5939"
-  },
-  {
-    "source": "Bob Gumbrecht",
-    "target": "Peter Nochisaki",
-    "targetId": "5940"
-  },
-  {
-    "source": "Bob Gumbrecht",
-    "target": "Brandon Watson",
-    "targetId": "5942"
-  }
-]
+{
+  "source": "Bob Gumbrecht",
+  "targets": [
+    {
+      "name": "Chris Stroffolino",
+      "targetId": "5936"
+    },
+    {
+      "name": "Mia Lipman",
+      "targetId": "5939"
+    },
+    {
+      "name": "Peter Nochisaki",
+      "targetId": "5940"
+    },
+    {
+      "name": "Brandon Watson",
+      "targetId": "5942"
+    }
+  ]
+}

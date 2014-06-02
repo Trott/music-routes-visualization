@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Rick Chertoff",
-    "target": "Joan Osborne",
-    "targetId": "3438"
-  },
-  {
-    "source": "Rick Chertoff",
-    "target": "Mark Egan",
-    "targetId": "3439"
-  },
-  {
-    "source": "Rick Chertoff",
-    "target": "Andy Kravitz",
-    "targetId": "3440"
-  },
-  {
-    "source": "Rick Chertoff",
-    "target": "Eric Bazilian",
-    "targetId": "3441"
-  },
-  {
-    "source": "Rick Chertoff",
-    "target": "Rob Hyman",
-    "targetId": "3443"
-  }
-]
+{
+  "source": "Rick Chertoff",
+  "targets": [
+    {
+      "name": "Joan Osborne",
+      "targetId": "3438"
+    },
+    {
+      "name": "Mark Egan",
+      "targetId": "3439"
+    },
+    {
+      "name": "Andy Kravitz",
+      "targetId": "3440"
+    },
+    {
+      "name": "Eric Bazilian",
+      "targetId": "3441"
+    },
+    {
+      "name": "Rob Hyman",
+      "targetId": "3443"
+    }
+  ]
+}

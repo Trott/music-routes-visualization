@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Roger Gupton",
-    "target": "Mark Price",
-    "targetId": "6783"
-  },
-  {
-    "source": "Roger Gupton",
-    "target": "Darren Jessee",
-    "targetId": "6799"
-  },
-  {
-    "source": "Roger Gupton",
-    "target": "Chris Badger",
-    "targetId": "6801"
-  }
-]
+{
+  "source": "Roger Gupton",
+  "targets": [
+    {
+      "name": "Mark Price",
+      "targetId": "6783"
+    },
+    {
+      "name": "Darren Jessee",
+      "targetId": "6799"
+    },
+    {
+      "name": "Chris Badger",
+      "targetId": "6801"
+    }
+  ]
+}

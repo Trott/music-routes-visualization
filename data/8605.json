@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Herb Prestidge",
-    "target": "Bud Beadle",
-    "targetId": "2910"
-  },
-  {
-    "source": "Herb Prestidge",
-    "target": "Geno Washington",
-    "targetId": "8603"
-  },
-  {
-    "source": "Herb Prestidge",
-    "target": "Jeff Wright",
-    "targetId": "8604"
-  },
-  {
-    "source": "Herb Prestidge",
-    "target": "Lionel Kingham",
-    "targetId": "8606"
-  },
-  {
-    "source": "Herb Prestidge",
-    "target": "Pete Carney",
-    "targetId": "8607"
-  },
-  {
-    "source": "Herb Prestidge",
-    "target": "Pete Gage",
-    "targetId": "8608"
-  }
-]
+{
+  "source": "Herb Prestidge",
+  "targets": [
+    {
+      "name": "Bud Beadle",
+      "targetId": "2910"
+    },
+    {
+      "name": "Geno Washington",
+      "targetId": "8603"
+    },
+    {
+      "name": "Jeff Wright",
+      "targetId": "8604"
+    },
+    {
+      "name": "Lionel Kingham",
+      "targetId": "8606"
+    },
+    {
+      "name": "Pete Carney",
+      "targetId": "8607"
+    },
+    {
+      "name": "Pete Gage",
+      "targetId": "8608"
+    }
+  ]
+}

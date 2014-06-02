@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Bill Frisell",
-    "target": "Robbie Robertson",
-    "targetId": "31"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Dr. John",
-    "targetId": "58"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Henry Rollins",
-    "targetId": "185"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Chuck D",
-    "targetId": "349"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Gregory Cohen",
-    "targetId": "428"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Michael Blair",
-    "targetId": "662"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Petra Haden",
-    "targetId": "774"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Gary Lucas",
-    "targetId": "1252"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Leonard Cohen",
-    "targetId": "2125"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Norah Jones",
-    "targetId": "2219"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Ray Davies",
-    "targetId": "2516"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Robert Quine",
-    "targetId": "2770"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Marc Ribot",
-    "targetId": "3588"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Kenny Wollesen",
-    "targetId": "6051"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Diamanda Galás",
-    "targetId": "8229"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Don McGreevy",
-    "targetId": "8247"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Adrienne Davies",
-    "targetId": "8248"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Steve Moore",
-    "targetId": "8249"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Dylan Carlson",
-    "targetId": "8250"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Art Baron",
-    "targetId": "8429"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Francis Thumm",
-    "targetId": "8430"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Henry Threadgill",
-    "targetId": "8431"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Vernon Reid",
-    "targetId": "8432"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Don Byron",
-    "targetId": "8433"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Geri Allen",
-    "targetId": "8434"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Hal Willner",
-    "targetId": "8435"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Hubert Selby, Jr.",
-    "targetId": "8441"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Jesse Harris",
-    "targetId": "8845"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Lee Alexander",
-    "targetId": "10315"
-  },
-  {
-    "source": "Bill Frisell",
-    "target": "Kevin Breit",
-    "targetId": "10316"
-  }
-]
+{
+  "source": "Bill Frisell",
+  "targets": [
+    {
+      "name": "Robbie Robertson",
+      "targetId": "31"
+    },
+    {
+      "name": "Dr. John",
+      "targetId": "58"
+    },
+    {
+      "name": "Henry Rollins",
+      "targetId": "185"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Chuck D",
+      "targetId": "349"
+    },
+    {
+      "name": "Gregory Cohen",
+      "targetId": "428"
+    },
+    {
+      "name": "Michael Blair",
+      "targetId": "662"
+    },
+    {
+      "name": "Petra Haden",
+      "targetId": "774"
+    },
+    {
+      "name": "Gary Lucas",
+      "targetId": "1252"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Leonard Cohen",
+      "targetId": "2125"
+    },
+    {
+      "name": "Norah Jones",
+      "targetId": "2219"
+    },
+    {
+      "name": "Ray Davies",
+      "targetId": "2516"
+    },
+    {
+      "name": "Robert Quine",
+      "targetId": "2770"
+    },
+    {
+      "name": "Marc Ribot",
+      "targetId": "3588"
+    },
+    {
+      "name": "Kenny Wollesen",
+      "targetId": "6051"
+    },
+    {
+      "name": "Diamanda Galás",
+      "targetId": "8229"
+    },
+    {
+      "name": "Don McGreevy",
+      "targetId": "8247"
+    },
+    {
+      "name": "Adrienne Davies",
+      "targetId": "8248"
+    },
+    {
+      "name": "Steve Moore",
+      "targetId": "8249"
+    },
+    {
+      "name": "Dylan Carlson",
+      "targetId": "8250"
+    },
+    {
+      "name": "Art Baron",
+      "targetId": "8429"
+    },
+    {
+      "name": "Francis Thumm",
+      "targetId": "8430"
+    },
+    {
+      "name": "Henry Threadgill",
+      "targetId": "8431"
+    },
+    {
+      "name": "Vernon Reid",
+      "targetId": "8432"
+    },
+    {
+      "name": "Don Byron",
+      "targetId": "8433"
+    },
+    {
+      "name": "Geri Allen",
+      "targetId": "8434"
+    },
+    {
+      "name": "Hal Willner",
+      "targetId": "8435"
+    },
+    {
+      "name": "Hubert Selby, Jr.",
+      "targetId": "8441"
+    },
+    {
+      "name": "Jesse Harris",
+      "targetId": "8845"
+    },
+    {
+      "name": "Lee Alexander",
+      "targetId": "10315"
+    },
+    {
+      "name": "Kevin Breit",
+      "targetId": "10316"
+    }
+  ]
+}

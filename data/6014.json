@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Esther Dean",
-    "target": "Travis Barker",
-    "targetId": "1559"
-  },
-  {
-    "source": "Esther Dean",
-    "target": "Flo Rida",
-    "targetId": "6002"
-  },
-  {
-    "source": "Esther Dean",
-    "target": "Nelly Furtado",
-    "targetId": "6013"
-  }
-]
+{
+  "source": "Esther Dean",
+  "targets": [
+    {
+      "name": "Travis Barker",
+      "targetId": "1559"
+    },
+    {
+      "name": "Flo Rida",
+      "targetId": "6002"
+    },
+    {
+      "name": "Nelly Furtado",
+      "targetId": "6013"
+    }
+  ]
+}

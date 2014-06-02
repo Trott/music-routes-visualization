@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Rod Stewart",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Rod Stewart",
-    "target": "Ronnie Lane",
-    "targetId": "3162"
-  },
-  {
-    "source": "Rod Stewart",
-    "target": "Ian McLagan",
-    "targetId": "3163"
-  },
-  {
-    "source": "Rod Stewart",
-    "target": "Kenney Jones",
-    "targetId": "3164"
-  },
-  {
-    "source": "Rod Stewart",
-    "target": "Harry Fowler",
-    "targetId": "3165"
-  }
-]
+{
+  "source": "Rod Stewart",
+  "targets": [
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Ronnie Lane",
+      "targetId": "3162"
+    },
+    {
+      "name": "Ian McLagan",
+      "targetId": "3163"
+    },
+    {
+      "name": "Kenney Jones",
+      "targetId": "3164"
+    },
+    {
+      "name": "Harry Fowler",
+      "targetId": "3165"
+    }
+  ]
+}

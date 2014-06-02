@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Helen O'Connell",
-    "target": "Bing Crosby",
-    "targetId": "1791"
-  },
-  {
-    "source": "Helen O'Connell",
-    "target": "Liam Clancy",
-    "targetId": "8154"
-  },
-  {
-    "source": "Helen O'Connell",
-    "target": "Tommy Makem",
-    "targetId": "8155"
-  },
-  {
-    "source": "Helen O'Connell",
-    "target": "Bobby Clancy",
-    "targetId": "8160"
-  },
-  {
-    "source": "Helen O'Connell",
-    "target": "Paddy Clancy",
-    "targetId": "8161"
-  },
-  {
-    "source": "Helen O'Connell",
-    "target": "G.E. Smith",
-    "targetId": "8167"
-  }
-]
+{
+  "source": "Helen O'Connell",
+  "targets": [
+    {
+      "name": "Bing Crosby",
+      "targetId": "1791"
+    },
+    {
+      "name": "Liam Clancy",
+      "targetId": "8154"
+    },
+    {
+      "name": "Tommy Makem",
+      "targetId": "8155"
+    },
+    {
+      "name": "Bobby Clancy",
+      "targetId": "8160"
+    },
+    {
+      "name": "Paddy Clancy",
+      "targetId": "8161"
+    },
+    {
+      "name": "G.E. Smith",
+      "targetId": "8167"
+    }
+  ]
+}

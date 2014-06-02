@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Dan Wilson",
-    "target": "Mike Doughty",
-    "targetId": "36"
-  },
-  {
-    "source": "Dan Wilson",
-    "target": "Dave Matthews",
-    "targetId": "186"
-  },
-  {
-    "source": "Dan Wilson",
-    "target": "Eric Fawcett",
-    "targetId": "188"
-  },
-  {
-    "source": "Dan Wilson",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Dan Wilson",
-    "target": "Jacob Slichter",
-    "targetId": "5819"
-  },
-  {
-    "source": "Dan Wilson",
-    "target": "Sean Watkins",
-    "targetId": "5820"
-  },
-  {
-    "source": "Dan Wilson",
-    "target": "Joe Savage",
-    "targetId": "5821"
-  },
-  {
-    "source": "Dan Wilson",
-    "target": "Amy Jennings",
-    "targetId": "5822"
-  }
-]
+{
+  "source": "Dan Wilson",
+  "targets": [
+    {
+      "name": "Mike Doughty",
+      "targetId": "36"
+    },
+    {
+      "name": "Dave Matthews",
+      "targetId": "186"
+    },
+    {
+      "name": "Eric Fawcett",
+      "targetId": "188"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Jacob Slichter",
+      "targetId": "5819"
+    },
+    {
+      "name": "Sean Watkins",
+      "targetId": "5820"
+    },
+    {
+      "name": "Joe Savage",
+      "targetId": "5821"
+    },
+    {
+      "name": "Amy Jennings",
+      "targetId": "5822"
+    }
+  ]
+}

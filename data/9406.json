@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Othello Molineaux",
-    "target": "Jaco Pastorius",
-    "targetId": "345"
-  },
-  {
-    "source": "Othello Molineaux",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Othello Molineaux",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Othello Molineaux",
-    "target": "Wayne Shorter",
-    "targetId": "1631"
-  },
-  {
-    "source": "Othello Molineaux",
-    "target": "Lenny White",
-    "targetId": "1636"
-  },
-  {
-    "source": "Othello Molineaux",
-    "target": "Leroy Williams",
-    "targetId": "9407"
-  }
-]
+{
+  "source": "Othello Molineaux",
+  "targets": [
+    {
+      "name": "Jaco Pastorius",
+      "targetId": "345"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Wayne Shorter",
+      "targetId": "1631"
+    },
+    {
+      "name": "Lenny White",
+      "targetId": "1636"
+    },
+    {
+      "name": "Leroy Williams",
+      "targetId": "9407"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Carrie Brownstein",
-    "target": "Janet Weiss",
-    "targetId": "26"
-  },
-  {
-    "source": "Carrie Brownstein",
-    "target": "Corin Tucker",
-    "targetId": "28"
-  },
-  {
-    "source": "Carrie Brownstein",
-    "target": "Mary Timony",
-    "targetId": "476"
-  },
-  {
-    "source": "Carrie Brownstein",
-    "target": "Rebecca C. Cole",
-    "targetId": "10733"
-  }
-]
+{
+  "source": "Carrie Brownstein",
+  "targets": [
+    {
+      "name": "Janet Weiss",
+      "targetId": "26"
+    },
+    {
+      "name": "Corin Tucker",
+      "targetId": "28"
+    },
+    {
+      "name": "Mary Timony",
+      "targetId": "476"
+    },
+    {
+      "name": "Rebecca C. Cole",
+      "targetId": "10733"
+    }
+  ]
+}

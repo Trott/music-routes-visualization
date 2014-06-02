@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Robert Darlington",
-    "target": "Dave Scheff",
-    "targetId": "3147"
-  },
-  {
-    "source": "Robert Darlington",
-    "target": "Larry Dekker",
-    "targetId": "3149"
-  },
-  {
-    "source": "Robert Darlington",
-    "target": "Steve Barton",
-    "targetId": "3151"
-  }
-]
+{
+  "source": "Robert Darlington",
+  "targets": [
+    {
+      "name": "Dave Scheff",
+      "targetId": "3147"
+    },
+    {
+      "name": "Larry Dekker",
+      "targetId": "3149"
+    },
+    {
+      "name": "Steve Barton",
+      "targetId": "3151"
+    }
+  ]
+}

@@ -1,197 +1,161 @@
-[
-  {
-    "source": "David Paich",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "David Paich",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "David Paich",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "David Paich",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "David Paich",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "David Paich",
-    "target": "Don Henley",
-    "targetId": "380"
-  },
-  {
-    "source": "David Paich",
-    "target": "Michael Boddicker",
-    "targetId": "385"
-  },
-  {
-    "source": "David Paich",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "David Paich",
-    "target": "Timothy B. Schmit",
-    "targetId": "391"
-  },
-  {
-    "source": "David Paich",
-    "target": "Arno Lucas",
-    "targetId": "400"
-  },
-  {
-    "source": "David Paich",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "David Paich",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "David Paich",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "David Paich",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "David Paich",
-    "target": "Christie McVie",
-    "targetId": "407"
-  },
-  {
-    "source": "David Paich",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "David Paich",
-    "target": "Rickie Lee Jones",
-    "targetId": "409"
-  },
-  {
-    "source": "David Paich",
-    "target": "Leslie Smith",
-    "targetId": "410"
-  },
-  {
-    "source": "David Paich",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "David Paich",
-    "target": "Steve Madaio",
-    "targetId": "412"
-  },
-  {
-    "source": "David Paich",
-    "target": "Ernie Watts",
-    "targetId": "413"
-  },
-  {
-    "source": "David Paich",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "David Paich",
-    "target": "Bob Seger",
-    "targetId": "415"
-  },
-  {
-    "source": "David Paich",
-    "target": "David Hungate",
-    "targetId": "591"
-  },
-  {
-    "source": "David Paich",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "David Paich",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "David Paich",
-    "target": "Michael McDonald",
-    "targetId": "717"
-  },
-  {
-    "source": "David Paich",
-    "target": "Donald Fagen",
-    "targetId": "720"
-  },
-  {
-    "source": "David Paich",
-    "target": "Walter Becker",
-    "targetId": "721"
-  },
-  {
-    "source": "David Paich",
-    "target": "Steve Porcaro",
-    "targetId": "895"
-  },
-  {
-    "source": "David Paich",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "David Paich",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "David Paich",
-    "target": "David Foster",
-    "targetId": "2456"
-  },
-  {
-    "source": "David Paich",
-    "target": "Tom Kelly",
-    "targetId": "2530"
-  },
-  {
-    "source": "David Paich",
-    "target": "Michael Omartian",
-    "targetId": "3247"
-  },
-  {
-    "source": "David Paich",
-    "target": "Louis Johnson",
-    "targetId": "3397"
-  },
-  {
-    "source": "David Paich",
-    "target": "Bobby Kimball",
-    "targetId": "5045"
-  },
-  {
-    "source": "David Paich",
-    "target": "Joe Porcaro",
-    "targetId": "5046"
-  },
-  {
-    "source": "David Paich",
-    "target": "Jerry Vinci",
-    "targetId": "8519"
-  }
-]
+{
+  "source": "David Paich",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Don Henley",
+      "targetId": "380"
+    },
+    {
+      "name": "Michael Boddicker",
+      "targetId": "385"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "Timothy B. Schmit",
+      "targetId": "391"
+    },
+    {
+      "name": "Arno Lucas",
+      "targetId": "400"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "Christie McVie",
+      "targetId": "407"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Rickie Lee Jones",
+      "targetId": "409"
+    },
+    {
+      "name": "Leslie Smith",
+      "targetId": "410"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "Steve Madaio",
+      "targetId": "412"
+    },
+    {
+      "name": "Ernie Watts",
+      "targetId": "413"
+    },
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Bob Seger",
+      "targetId": "415"
+    },
+    {
+      "name": "David Hungate",
+      "targetId": "591"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Michael McDonald",
+      "targetId": "717"
+    },
+    {
+      "name": "Donald Fagen",
+      "targetId": "720"
+    },
+    {
+      "name": "Walter Becker",
+      "targetId": "721"
+    },
+    {
+      "name": "Steve Porcaro",
+      "targetId": "895"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "David Foster",
+      "targetId": "2456"
+    },
+    {
+      "name": "Tom Kelly",
+      "targetId": "2530"
+    },
+    {
+      "name": "Michael Omartian",
+      "targetId": "3247"
+    },
+    {
+      "name": "Louis Johnson",
+      "targetId": "3397"
+    },
+    {
+      "name": "Bobby Kimball",
+      "targetId": "5045"
+    },
+    {
+      "name": "Joe Porcaro",
+      "targetId": "5046"
+    },
+    {
+      "name": "Jerry Vinci",
+      "targetId": "8519"
+    }
+  ]
+}

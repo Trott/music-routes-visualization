@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jim Kale",
-    "target": "Burton Cummings",
-    "targetId": "2464"
-  },
-  {
-    "source": "Jim Kale",
-    "target": "Randy Bachman",
-    "targetId": "3490"
-  },
-  {
-    "source": "Jim Kale",
-    "target": "Garry Peterson",
-    "targetId": "3492"
-  }
-]
+{
+  "source": "Jim Kale",
+  "targets": [
+    {
+      "name": "Burton Cummings",
+      "targetId": "2464"
+    },
+    {
+      "name": "Randy Bachman",
+      "targetId": "3490"
+    },
+    {
+      "name": "Garry Peterson",
+      "targetId": "3492"
+    }
+  ]
+}

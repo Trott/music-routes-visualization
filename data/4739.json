@@ -1,37 +1,33 @@
-[
-  {
-    "source": "James Brown",
-    "target": "Bootsy Collins",
-    "targetId": "207"
-  },
-  {
-    "source": "James Brown",
-    "target": "Bobby Byrd",
-    "targetId": "4740"
-  },
-  {
-    "source": "James Brown",
-    "target": "John Jabo Starks",
-    "targetId": "4741"
-  },
-  {
-    "source": "James Brown",
-    "target": "Catfish Collins",
-    "targetId": "4742"
-  },
-  {
-    "source": "James Brown",
-    "target": "Robert Chopper McCullough",
-    "targetId": "4743"
-  },
-  {
-    "source": "James Brown",
-    "target": "Clayton Gunnells",
-    "targetId": "4744"
-  },
-  {
-    "source": "James Brown",
-    "target": "Darryl Hassan Jamison",
-    "targetId": "4745"
-  }
-]
+{
+  "source": "James Brown",
+  "targets": [
+    {
+      "name": "Bootsy Collins",
+      "targetId": "207"
+    },
+    {
+      "name": "Bobby Byrd",
+      "targetId": "4740"
+    },
+    {
+      "name": "John Jabo Starks",
+      "targetId": "4741"
+    },
+    {
+      "name": "Catfish Collins",
+      "targetId": "4742"
+    },
+    {
+      "name": "Robert Chopper McCullough",
+      "targetId": "4743"
+    },
+    {
+      "name": "Clayton Gunnells",
+      "targetId": "4744"
+    },
+    {
+      "name": "Darryl Hassan Jamison",
+      "targetId": "4745"
+    }
+  ]
+}

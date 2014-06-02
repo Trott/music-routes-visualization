@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Oran Canfield",
-    "target": "John Dwyer",
-    "targetId": "5309"
-  },
-  {
-    "source": "Oran Canfield",
-    "target": "Nate Denver",
-    "targetId": "5503"
-  },
-  {
-    "source": "Oran Canfield",
-    "target": "Tim Dahl",
-    "targetId": "5504"
-  },
-  {
-    "source": "Oran Canfield",
-    "target": "Luke Calzonetti",
-    "targetId": "5505"
-  }
-]
+{
+  "source": "Oran Canfield",
+  "targets": [
+    {
+      "name": "John Dwyer",
+      "targetId": "5309"
+    },
+    {
+      "name": "Nate Denver",
+      "targetId": "5503"
+    },
+    {
+      "name": "Tim Dahl",
+      "targetId": "5504"
+    },
+    {
+      "name": "Luke Calzonetti",
+      "targetId": "5505"
+    }
+  ]
+}

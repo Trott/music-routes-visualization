@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Kimya Dawson",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Kimya Dawson",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Kimya Dawson",
-    "target": "Ben Kweller",
-    "targetId": "4673"
-  }
-]
+{
+  "source": "Kimya Dawson",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Ben Kweller",
+      "targetId": "4673"
+    }
+  ]
+}

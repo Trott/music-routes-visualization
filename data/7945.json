@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Knobby Totah",
-    "target": "Phil Woods",
-    "targetId": "7253"
-  },
-  {
-    "source": "Knobby Totah",
-    "target": "Donald Byrd",
-    "targetId": "7257"
-  },
-  {
-    "source": "Knobby Totah",
-    "target": "George Wallington",
-    "targetId": "7944"
-  },
-  {
-    "source": "Knobby Totah",
-    "target": "Nick Stabulas",
-    "targetId": "7946"
-  }
-]
+{
+  "source": "Knobby Totah",
+  "targets": [
+    {
+      "name": "Phil Woods",
+      "targetId": "7253"
+    },
+    {
+      "name": "Donald Byrd",
+      "targetId": "7257"
+    },
+    {
+      "name": "George Wallington",
+      "targetId": "7944"
+    },
+    {
+      "name": "Nick Stabulas",
+      "targetId": "7946"
+    }
+  ]
+}

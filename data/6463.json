@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Vince Ely",
-    "target": "Todd Rundgren",
-    "targetId": "1817"
-  },
-  {
-    "source": "Vince Ely",
-    "target": "Howard Kaylan",
-    "targetId": "1829"
-  },
-  {
-    "source": "Vince Ely",
-    "target": "Mark Volman",
-    "targetId": "1830"
-  },
-  {
-    "source": "Vince Ely",
-    "target": "Tim Butler",
-    "targetId": "6462"
-  },
-  {
-    "source": "Vince Ely",
-    "target": "John Ashton",
-    "targetId": "6464"
-  },
-  {
-    "source": "Vince Ely",
-    "target": "Richard Butler",
-    "targetId": "6465"
-  }
-]
+{
+  "source": "Vince Ely",
+  "targets": [
+    {
+      "name": "Todd Rundgren",
+      "targetId": "1817"
+    },
+    {
+      "name": "Howard Kaylan",
+      "targetId": "1829"
+    },
+    {
+      "name": "Mark Volman",
+      "targetId": "1830"
+    },
+    {
+      "name": "Tim Butler",
+      "targetId": "6462"
+    },
+    {
+      "name": "John Ashton",
+      "targetId": "6464"
+    },
+    {
+      "name": "Richard Butler",
+      "targetId": "6465"
+    }
+  ]
+}

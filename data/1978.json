@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Drew Lawrence",
-    "target": "Mike D",
-    "targetId": "1458"
-  },
-  {
-    "source": "Drew Lawrence",
-    "target": "Ad-Rock",
-    "targetId": "1459"
-  },
-  {
-    "source": "Drew Lawrence",
-    "target": "MCA",
-    "targetId": "1460"
-  }
-]
+{
+  "source": "Drew Lawrence",
+  "targets": [
+    {
+      "name": "Mike D",
+      "targetId": "1458"
+    },
+    {
+      "name": "Ad-Rock",
+      "targetId": "1459"
+    },
+    {
+      "name": "MCA",
+      "targetId": "1460"
+    }
+  ]
+}

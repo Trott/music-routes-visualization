@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Rob Wright",
-    "target": "Jello Biafra",
-    "targetId": "2120"
-  },
-  {
-    "source": "Rob Wright",
-    "target": "John Wright",
-    "targetId": "4922"
-  },
-  {
-    "source": "Rob Wright",
-    "target": "Tom Holliston",
-    "targetId": "4924"
-  },
-  {
-    "source": "Rob Wright",
-    "target": "Mark Critchley",
-    "targetId": "4925"
-  },
-  {
-    "source": "Rob Wright",
-    "target": "David McNulty",
-    "targetId": "4926"
-  },
-  {
-    "source": "Rob Wright",
-    "target": "Andy Kerr",
-    "targetId": "4927"
-  }
-]
+{
+  "source": "Rob Wright",
+  "targets": [
+    {
+      "name": "Jello Biafra",
+      "targetId": "2120"
+    },
+    {
+      "name": "John Wright",
+      "targetId": "4922"
+    },
+    {
+      "name": "Tom Holliston",
+      "targetId": "4924"
+    },
+    {
+      "name": "Mark Critchley",
+      "targetId": "4925"
+    },
+    {
+      "name": "David McNulty",
+      "targetId": "4926"
+    },
+    {
+      "name": "Andy Kerr",
+      "targetId": "4927"
+    }
+  ]
+}

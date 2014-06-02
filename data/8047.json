@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Lisa \"Left Eye\" Lopes",
-    "target": "Will Smith",
-    "targetId": "5877"
-  },
-  {
-    "source": "Lisa \"Left Eye\" Lopes",
-    "target": "Lanar \"Kern\" Brantley",
-    "targetId": "8046"
-  },
-  {
-    "source": "Lisa \"Left Eye\" Lopes",
-    "target": "David Foreman",
-    "targetId": "8048"
-  },
-  {
-    "source": "Lisa \"Left Eye\" Lopes",
-    "target": "Timothy \"Tyme\" Riley",
-    "targetId": "8049"
-  }
-]
+{
+  "source": "Lisa \"Left Eye\" Lopes",
+  "targets": [
+    {
+      "name": "Will Smith",
+      "targetId": "5877"
+    },
+    {
+      "name": "Lanar \"Kern\" Brantley",
+      "targetId": "8046"
+    },
+    {
+      "name": "David Foreman",
+      "targetId": "8048"
+    },
+    {
+      "name": "Timothy \"Tyme\" Riley",
+      "targetId": "8049"
+    }
+  ]
+}

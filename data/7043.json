@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tim Foreman",
-    "target": "Jonathan Foreman",
-    "targetId": "6971"
-  },
-  {
-    "source": "Tim Foreman",
-    "target": "Chad Butler",
-    "targetId": "7044"
-  },
-  {
-    "source": "Tim Foreman",
-    "target": "Drew Shirley",
-    "targetId": "7045"
-  },
-  {
-    "source": "Tim Foreman",
-    "target": "Jerome Fontamillas",
-    "targetId": "7046"
-  },
-  {
-    "source": "Tim Foreman",
-    "target": "Andy Sturmer",
-    "targetId": "7047"
-  }
-]
+{
+  "source": "Tim Foreman",
+  "targets": [
+    {
+      "name": "Jonathan Foreman",
+      "targetId": "6971"
+    },
+    {
+      "name": "Chad Butler",
+      "targetId": "7044"
+    },
+    {
+      "name": "Drew Shirley",
+      "targetId": "7045"
+    },
+    {
+      "name": "Jerome Fontamillas",
+      "targetId": "7046"
+    },
+    {
+      "name": "Andy Sturmer",
+      "targetId": "7047"
+    }
+  ]
+}

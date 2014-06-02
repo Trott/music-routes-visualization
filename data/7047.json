@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Andy Sturmer",
-    "target": "Roger Manning",
-    "targetId": "1069"
-  },
-  {
-    "source": "Andy Sturmer",
-    "target": "Jason Falkner",
-    "targetId": "6045"
-  },
-  {
-    "source": "Andy Sturmer",
-    "target": "Jonathan Foreman",
-    "targetId": "6971"
-  },
-  {
-    "source": "Andy Sturmer",
-    "target": "Tim Foreman",
-    "targetId": "7043"
-  },
-  {
-    "source": "Andy Sturmer",
-    "target": "Chad Butler",
-    "targetId": "7044"
-  },
-  {
-    "source": "Andy Sturmer",
-    "target": "Drew Shirley",
-    "targetId": "7045"
-  },
-  {
-    "source": "Andy Sturmer",
-    "target": "Jerome Fontamillas",
-    "targetId": "7046"
-  }
-]
+{
+  "source": "Andy Sturmer",
+  "targets": [
+    {
+      "name": "Roger Manning",
+      "targetId": "1069"
+    },
+    {
+      "name": "Jason Falkner",
+      "targetId": "6045"
+    },
+    {
+      "name": "Jonathan Foreman",
+      "targetId": "6971"
+    },
+    {
+      "name": "Tim Foreman",
+      "targetId": "7043"
+    },
+    {
+      "name": "Chad Butler",
+      "targetId": "7044"
+    },
+    {
+      "name": "Drew Shirley",
+      "targetId": "7045"
+    },
+    {
+      "name": "Jerome Fontamillas",
+      "targetId": "7046"
+    }
+  ]
+}

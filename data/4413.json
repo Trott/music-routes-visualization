@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Andy Ward",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Andy Ward",
-    "target": "Martin Drover",
-    "targetId": "834"
-  },
-  {
-    "source": "Andy Ward",
-    "target": "Malcolm Griffiths",
-    "targetId": "3376"
-  },
-  {
-    "source": "Andy Ward",
-    "target": "Richard Sinclair",
-    "targetId": "4412"
-  },
-  {
-    "source": "Andy Ward",
-    "target": "Andy Latimer",
-    "targetId": "4414"
-  },
-  {
-    "source": "Andy Ward",
-    "target": "Peter Bardens",
-    "targetId": "4415"
-  }
-]
+{
+  "source": "Andy Ward",
+  "targets": [
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Martin Drover",
+      "targetId": "834"
+    },
+    {
+      "name": "Malcolm Griffiths",
+      "targetId": "3376"
+    },
+    {
+      "name": "Richard Sinclair",
+      "targetId": "4412"
+    },
+    {
+      "name": "Andy Latimer",
+      "targetId": "4414"
+    },
+    {
+      "name": "Peter Bardens",
+      "targetId": "4415"
+    }
+  ]
+}

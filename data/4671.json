@@ -1,17 +1,17 @@
-[
-  {
-    "source": "David James",
-    "target": "Joan Osborne",
-    "targetId": "3438"
-  },
-  {
-    "source": "David James",
-    "target": "Michael Franti",
-    "targetId": "4670"
-  },
-  {
-    "source": "David James",
-    "target": "Carl Young",
-    "targetId": "4672"
-  }
-]
+{
+  "source": "David James",
+  "targets": [
+    {
+      "name": "Joan Osborne",
+      "targetId": "3438"
+    },
+    {
+      "name": "Michael Franti",
+      "targetId": "4670"
+    },
+    {
+      "name": "Carl Young",
+      "targetId": "4672"
+    }
+  ]
+}

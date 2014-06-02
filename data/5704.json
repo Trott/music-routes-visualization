@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Greg Steele",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Greg Steele",
-    "target": "Taime Downe",
-    "targetId": "5699"
-  },
-  {
-    "source": "Greg Steele",
-    "target": "Chuck Kavooras",
-    "targetId": "5701"
-  },
-  {
-    "source": "Greg Steele",
-    "target": "Eric Stacy",
-    "targetId": "5702"
-  },
-  {
-    "source": "Greg Steele",
-    "target": "Brett Bradshaw",
-    "targetId": "5703"
-  },
-  {
-    "source": "Greg Steele",
-    "target": "Brent Muscat",
-    "targetId": "5705"
-  }
-]
+{
+  "source": "Greg Steele",
+  "targets": [
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Taime Downe",
+      "targetId": "5699"
+    },
+    {
+      "name": "Chuck Kavooras",
+      "targetId": "5701"
+    },
+    {
+      "name": "Eric Stacy",
+      "targetId": "5702"
+    },
+    {
+      "name": "Brett Bradshaw",
+      "targetId": "5703"
+    },
+    {
+      "name": "Brent Muscat",
+      "targetId": "5705"
+    }
+  ]
+}

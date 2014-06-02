@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Davey Faragher",
-    "targetId": "1023"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Allen Toussaint",
-    "targetId": "7899"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Sam \"Big Sam\" Williams",
-    "targetId": "9890"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Amadee Castenell",
-    "targetId": "9892"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Anthony \"AB\" Brown",
-    "targetId": "9893"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Brian \"Breeze\" Cayolle",
-    "targetId": "9894"
-  },
-  {
-    "source": "Joe \"Foxx\" Smith",
-    "target": "Carl Blouin",
-    "targetId": "9895"
-  }
-]
+{
+  "source": "Joe \"Foxx\" Smith",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Davey Faragher",
+      "targetId": "1023"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Allen Toussaint",
+      "targetId": "7899"
+    },
+    {
+      "name": "Sam \"Big Sam\" Williams",
+      "targetId": "9890"
+    },
+    {
+      "name": "Amadee Castenell",
+      "targetId": "9892"
+    },
+    {
+      "name": "Anthony \"AB\" Brown",
+      "targetId": "9893"
+    },
+    {
+      "name": "Brian \"Breeze\" Cayolle",
+      "targetId": "9894"
+    },
+    {
+      "name": "Carl Blouin",
+      "targetId": "9895"
+    }
+  ]
+}

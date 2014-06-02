@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Sean Paul",
-    "target": "Lil Jon",
-    "targetId": "7318"
-  },
-  {
-    "source": "Sean Paul",
-    "target": "Jay Sean",
-    "targetId": "8130"
-  }
-]
+{
+  "source": "Sean Paul",
+  "targets": [
+    {
+      "name": "Lil Jon",
+      "targetId": "7318"
+    },
+    {
+      "name": "Jay Sean",
+      "targetId": "8130"
+    }
+  ]
+}

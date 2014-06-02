@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Nancy Fagan",
-    "target": "Steve Vai",
-    "targetId": "1293"
-  },
-  {
-    "source": "Nancy Fagan",
-    "target": "Chris Frazier",
-    "targetId": "10226"
-  },
-  {
-    "source": "Nancy Fagan",
-    "target": "Jamie Firlotte",
-    "targetId": "10229"
-  }
-]
+{
+  "source": "Nancy Fagan",
+  "targets": [
+    {
+      "name": "Steve Vai",
+      "targetId": "1293"
+    },
+    {
+      "name": "Chris Frazier",
+      "targetId": "10226"
+    },
+    {
+      "name": "Jamie Firlotte",
+      "targetId": "10229"
+    }
+  ]
+}

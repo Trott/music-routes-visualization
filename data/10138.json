@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jimmy Bunn",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Jimmy Bunn",
-    "target": "Howard McGhee",
-    "targetId": "10139"
-  },
-  {
-    "source": "Jimmy Bunn",
-    "target": "Bob Kesterson",
-    "targetId": "10140"
-  },
-  {
-    "source": "Jimmy Bunn",
-    "target": "Roy Porter",
-    "targetId": "10141"
-  }
-]
+{
+  "source": "Jimmy Bunn",
+  "targets": [
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Howard McGhee",
+      "targetId": "10139"
+    },
+    {
+      "name": "Bob Kesterson",
+      "targetId": "10140"
+    },
+    {
+      "name": "Roy Porter",
+      "targetId": "10141"
+    }
+  ]
+}

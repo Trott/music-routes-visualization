@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Neil O'Brien",
-    "target": "Brian Maryansky",
-    "targetId": "5221"
-  },
-  {
-    "source": "Neil O'Brien",
-    "target": "Chris Leo",
-    "targetId": "5222"
-  },
-  {
-    "source": "Neil O'Brien",
-    "target": "Sean P. Greene",
-    "targetId": "5224"
-  }
-]
+{
+  "source": "Neil O'Brien",
+  "targets": [
+    {
+      "name": "Brian Maryansky",
+      "targetId": "5221"
+    },
+    {
+      "name": "Chris Leo",
+      "targetId": "5222"
+    },
+    {
+      "name": "Sean P. Greene",
+      "targetId": "5224"
+    }
+  ]
+}

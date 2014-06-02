@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Laurence Cottle",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Laurence Cottle",
-    "target": "Phil Anselmo",
-    "targetId": "334"
-  },
-  {
-    "source": "Laurence Cottle",
-    "target": "Tony Iommi",
-    "targetId": "335"
-  },
-  {
-    "source": "Laurence Cottle",
-    "target": "Matt Cameron",
-    "targetId": "337"
-  },
-  {
-    "source": "Laurence Cottle",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  }
-]
+{
+  "source": "Laurence Cottle",
+  "targets": [
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Phil Anselmo",
+      "targetId": "334"
+    },
+    {
+      "name": "Tony Iommi",
+      "targetId": "335"
+    },
+    {
+      "name": "Matt Cameron",
+      "targetId": "337"
+    },
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    }
+  ]
+}

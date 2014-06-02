@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Robert Drasnin",
-    "target": "Mike Lang",
-    "targetId": "837"
-  },
-  {
-    "source": "Robert Drasnin",
-    "target": "Red Norvo",
-    "targetId": "1933"
-  },
-  {
-    "source": "Robert Drasnin",
-    "target": "Jimmy Wyble",
-    "targetId": "1939"
-  },
-  {
-    "source": "Robert Drasnin",
-    "target": "Buddy Clark",
-    "targetId": "1940"
-  },
-  {
-    "source": "Robert Drasnin",
-    "target": "Bill Douglass",
-    "targetId": "1941"
-  }
-]
+{
+  "source": "Robert Drasnin",
+  "targets": [
+    {
+      "name": "Mike Lang",
+      "targetId": "837"
+    },
+    {
+      "name": "Red Norvo",
+      "targetId": "1933"
+    },
+    {
+      "name": "Jimmy Wyble",
+      "targetId": "1939"
+    },
+    {
+      "name": "Buddy Clark",
+      "targetId": "1940"
+    },
+    {
+      "name": "Bill Douglass",
+      "targetId": "1941"
+    }
+  ]
+}

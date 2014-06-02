@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Clive Bunker",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Clive Bunker",
-    "target": "Mick Rogers",
-    "targetId": "5607"
-  },
-  {
-    "source": "Clive Bunker",
-    "target": "Steve Kinch",
-    "targetId": "5611"
-  },
-  {
-    "source": "Clive Bunker",
-    "target": "Noel McCalla",
-    "targetId": "5614"
-  },
-  {
-    "source": "Clive Bunker",
-    "target": "Ian Anderson",
-    "targetId": "7859"
-  },
-  {
-    "source": "Clive Bunker",
-    "target": "John Evan",
-    "targetId": "7860"
-  },
-  {
-    "source": "Clive Bunker",
-    "target": "Jeffrey Hammond-Hammond",
-    "targetId": "7861"
-  }
-]
+{
+  "source": "Clive Bunker",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Mick Rogers",
+      "targetId": "5607"
+    },
+    {
+      "name": "Steve Kinch",
+      "targetId": "5611"
+    },
+    {
+      "name": "Noel McCalla",
+      "targetId": "5614"
+    },
+    {
+      "name": "Ian Anderson",
+      "targetId": "7859"
+    },
+    {
+      "name": "John Evan",
+      "targetId": "7860"
+    },
+    {
+      "name": "Jeffrey Hammond-Hammond",
+      "targetId": "7861"
+    }
+  ]
+}

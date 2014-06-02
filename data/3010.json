@@ -1,237 +1,193 @@
-[
-  {
-    "source": "Win Butler",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Thurston Moore",
-    "targetId": "772"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Anna Waronker",
-    "targetId": "966"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Joey Waronker",
-    "targetId": "1053"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Beck",
-    "targetId": "1057"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Peaches",
-    "targetId": "1831"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Leslie Feist",
-    "targetId": "2083"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Devendra Banhart",
-    "targetId": "2882"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Nick Diamonds",
-    "targetId": "3007"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Adam Gollner",
-    "targetId": "3008"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Steve McDonald",
-    "targetId": "3009"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Régine Chassagne",
-    "targetId": "3011"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Buck 65",
-    "targetId": "3012"
-  },
-  {
-    "source": "Win Butler",
-    "target": "David Cross",
-    "targetId": "3013"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Liane Balaban",
-    "targetId": "3014"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Noah Georgeson",
-    "targetId": "3015"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Jona Bechtolt",
-    "targetId": "3016"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Luckey Remington",
-    "targetId": "3017"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Elvira, Mistress Of The Dark",
-    "targetId": "3018"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Gino Washington",
-    "targetId": "3019"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Syd Butler",
-    "targetId": "3020"
-  },
-  {
-    "source": "Win Butler",
-    "target": "J'aime Tambeur",
-    "targetId": "3021"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Malcolm McLaren",
-    "targetId": "3022"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Nardwuar The Human Serviette",
-    "targetId": "3023"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Jimmy Tamborello",
-    "targetId": "3024"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Jenny Lewis",
-    "targetId": "3025"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Blake Sennett",
-    "targetId": "3026"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Roky Erickson",
-    "targetId": "3027"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Chris Murphy",
-    "targetId": "3028"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Asya",
-    "targetId": "3029"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Chloe",
-    "targetId": "3030"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Russell Mael",
-    "targetId": "3031"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Subtitle",
-    "targetId": "3032"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Steve Jocz",
-    "targetId": "3033"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Tagaq",
-    "targetId": "3034"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Dan Boeckner",
-    "targetId": "3035"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Spencer Krug",
-    "targetId": "3036"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Karen O",
-    "targetId": "3037"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Liza Rey",
-    "targetId": "3038"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Owen Pallett",
-    "targetId": "5779"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Will Butler",
-    "targetId": "10491"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Jeremy Gara",
-    "targetId": "10492"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Tim Kingsbury",
-    "targetId": "10493"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Sarah Neufeld",
-    "targetId": "10494"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Richard Reed Parry",
-    "targetId": "10495"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Pietro Amato",
-    "targetId": "10496"
-  },
-  {
-    "source": "Win Butler",
-    "target": "Colin Stetson",
-    "targetId": "10497"
-  }
-]
+{
+  "source": "Win Butler",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Thurston Moore",
+      "targetId": "772"
+    },
+    {
+      "name": "Anna Waronker",
+      "targetId": "966"
+    },
+    {
+      "name": "Joey Waronker",
+      "targetId": "1053"
+    },
+    {
+      "name": "Beck",
+      "targetId": "1057"
+    },
+    {
+      "name": "Peaches",
+      "targetId": "1831"
+    },
+    {
+      "name": "Leslie Feist",
+      "targetId": "2083"
+    },
+    {
+      "name": "Devendra Banhart",
+      "targetId": "2882"
+    },
+    {
+      "name": "Nick Diamonds",
+      "targetId": "3007"
+    },
+    {
+      "name": "Adam Gollner",
+      "targetId": "3008"
+    },
+    {
+      "name": "Steve McDonald",
+      "targetId": "3009"
+    },
+    {
+      "name": "Régine Chassagne",
+      "targetId": "3011"
+    },
+    {
+      "name": "Buck 65",
+      "targetId": "3012"
+    },
+    {
+      "name": "David Cross",
+      "targetId": "3013"
+    },
+    {
+      "name": "Liane Balaban",
+      "targetId": "3014"
+    },
+    {
+      "name": "Noah Georgeson",
+      "targetId": "3015"
+    },
+    {
+      "name": "Jona Bechtolt",
+      "targetId": "3016"
+    },
+    {
+      "name": "Luckey Remington",
+      "targetId": "3017"
+    },
+    {
+      "name": "Elvira, Mistress Of The Dark",
+      "targetId": "3018"
+    },
+    {
+      "name": "Gino Washington",
+      "targetId": "3019"
+    },
+    {
+      "name": "Syd Butler",
+      "targetId": "3020"
+    },
+    {
+      "name": "J'aime Tambeur",
+      "targetId": "3021"
+    },
+    {
+      "name": "Malcolm McLaren",
+      "targetId": "3022"
+    },
+    {
+      "name": "Nardwuar The Human Serviette",
+      "targetId": "3023"
+    },
+    {
+      "name": "Jimmy Tamborello",
+      "targetId": "3024"
+    },
+    {
+      "name": "Jenny Lewis",
+      "targetId": "3025"
+    },
+    {
+      "name": "Blake Sennett",
+      "targetId": "3026"
+    },
+    {
+      "name": "Roky Erickson",
+      "targetId": "3027"
+    },
+    {
+      "name": "Chris Murphy",
+      "targetId": "3028"
+    },
+    {
+      "name": "Asya",
+      "targetId": "3029"
+    },
+    {
+      "name": "Chloe",
+      "targetId": "3030"
+    },
+    {
+      "name": "Russell Mael",
+      "targetId": "3031"
+    },
+    {
+      "name": "Subtitle",
+      "targetId": "3032"
+    },
+    {
+      "name": "Steve Jocz",
+      "targetId": "3033"
+    },
+    {
+      "name": "Tagaq",
+      "targetId": "3034"
+    },
+    {
+      "name": "Dan Boeckner",
+      "targetId": "3035"
+    },
+    {
+      "name": "Spencer Krug",
+      "targetId": "3036"
+    },
+    {
+      "name": "Karen O",
+      "targetId": "3037"
+    },
+    {
+      "name": "Liza Rey",
+      "targetId": "3038"
+    },
+    {
+      "name": "Owen Pallett",
+      "targetId": "5779"
+    },
+    {
+      "name": "Will Butler",
+      "targetId": "10491"
+    },
+    {
+      "name": "Jeremy Gara",
+      "targetId": "10492"
+    },
+    {
+      "name": "Tim Kingsbury",
+      "targetId": "10493"
+    },
+    {
+      "name": "Sarah Neufeld",
+      "targetId": "10494"
+    },
+    {
+      "name": "Richard Reed Parry",
+      "targetId": "10495"
+    },
+    {
+      "name": "Pietro Amato",
+      "targetId": "10496"
+    },
+    {
+      "name": "Colin Stetson",
+      "targetId": "10497"
+    }
+  ]
+}

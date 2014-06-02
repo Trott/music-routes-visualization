@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Yoshi Nakamoto",
-    "target": "Jen Cohen Gunst",
-    "targetId": "3103"
-  },
-  {
-    "source": "Yoshi Nakamoto",
-    "target": "Wyatt Cusick",
-    "targetId": "3104"
-  },
-  {
-    "source": "Yoshi Nakamoto",
-    "target": "Alicia Van den Heuvel",
-    "targetId": "3106"
-  },
-  {
-    "source": "Yoshi Nakamoto",
-    "target": "Amy Linton",
-    "targetId": "3107"
-  }
-]
+{
+  "source": "Yoshi Nakamoto",
+  "targets": [
+    {
+      "name": "Jen Cohen Gunst",
+      "targetId": "3103"
+    },
+    {
+      "name": "Wyatt Cusick",
+      "targetId": "3104"
+    },
+    {
+      "name": "Alicia Van den Heuvel",
+      "targetId": "3106"
+    },
+    {
+      "name": "Amy Linton",
+      "targetId": "3107"
+    }
+  ]
+}

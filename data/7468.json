@@ -1,47 +1,41 @@
-[
-  {
-    "source": "John Fischbach",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "John Fischbach",
-    "target": "Marietta Waters",
-    "targetId": "2816"
-  },
-  {
-    "source": "John Fischbach",
-    "target": "Nathan Watts",
-    "targetId": "7438"
-  },
-  {
-    "source": "John Fischbach",
-    "target": "Shirley Brewer",
-    "targetId": "7442"
-  },
-  {
-    "source": "John Fischbach",
-    "target": "Renee Hardaway",
-    "targetId": "7446"
-  },
-  {
-    "source": "John Fischbach",
-    "target": "Josette Valentino",
-    "targetId": "7463"
-  },
-  {
-    "source": "John Fischbach",
-    "target": "Nelson Hayes",
-    "targetId": "7464"
-  },
-  {
-    "source": "John Fischbach",
-    "target": "Amale Matthews",
-    "targetId": "7466"
-  },
-  {
-    "source": "John Fischbach",
-    "target": "Charles Brewer",
-    "targetId": "7467"
-  }
-]
+{
+  "source": "John Fischbach",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Marietta Waters",
+      "targetId": "2816"
+    },
+    {
+      "name": "Nathan Watts",
+      "targetId": "7438"
+    },
+    {
+      "name": "Shirley Brewer",
+      "targetId": "7442"
+    },
+    {
+      "name": "Renee Hardaway",
+      "targetId": "7446"
+    },
+    {
+      "name": "Josette Valentino",
+      "targetId": "7463"
+    },
+    {
+      "name": "Nelson Hayes",
+      "targetId": "7464"
+    },
+    {
+      "name": "Amale Matthews",
+      "targetId": "7466"
+    },
+    {
+      "name": "Charles Brewer",
+      "targetId": "7467"
+    }
+  ]
+}

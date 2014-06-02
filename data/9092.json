@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Matt Snell",
-    "target": "Darrell Roberts",
-    "targetId": "9087"
-  },
-  {
-    "source": "Matt Snell",
-    "target": "Zoltan Bathory",
-    "targetId": "9089"
-  },
-  {
-    "source": "Matt Snell",
-    "target": "Ivan Moody",
-    "targetId": "9090"
-  },
-  {
-    "source": "Matt Snell",
-    "target": "Jeremy Spencer",
-    "targetId": "9091"
-  }
-]
+{
+  "source": "Matt Snell",
+  "targets": [
+    {
+      "name": "Darrell Roberts",
+      "targetId": "9087"
+    },
+    {
+      "name": "Zoltan Bathory",
+      "targetId": "9089"
+    },
+    {
+      "name": "Ivan Moody",
+      "targetId": "9090"
+    },
+    {
+      "name": "Jeremy Spencer",
+      "targetId": "9091"
+    }
+  ]
+}

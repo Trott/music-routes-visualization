@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Lukas Rossi",
-    "target": "Tommy Lee",
-    "targetId": "1357"
-  },
-  {
-    "source": "Lukas Rossi",
-    "target": "Gilby Clarke",
-    "targetId": "2017"
-  },
-  {
-    "source": "Lukas Rossi",
-    "target": "Jason Newsted",
-    "targetId": "6264"
-  }
-]
+{
+  "source": "Lukas Rossi",
+  "targets": [
+    {
+      "name": "Tommy Lee",
+      "targetId": "1357"
+    },
+    {
+      "name": "Gilby Clarke",
+      "targetId": "2017"
+    },
+    {
+      "name": "Jason Newsted",
+      "targetId": "6264"
+    }
+  ]
+}

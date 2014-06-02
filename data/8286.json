@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Pharoah Sanders",
-    "target": "John Coltrane",
-    "targetId": "1049"
-  },
-  {
-    "source": "Pharoah Sanders",
-    "target": "Jimmy Garrison",
-    "targetId": "8284"
-  },
-  {
-    "source": "Pharoah Sanders",
-    "target": "Rashied Ali",
-    "targetId": "8285"
-  },
-  {
-    "source": "Pharoah Sanders",
-    "target": "Elvin Jones",
-    "targetId": "8287"
-  },
-  {
-    "source": "Pharoah Sanders",
-    "target": "McCoy Tyner",
-    "targetId": "8288"
-  }
-]
+{
+  "source": "Pharoah Sanders",
+  "targets": [
+    {
+      "name": "John Coltrane",
+      "targetId": "1049"
+    },
+    {
+      "name": "Jimmy Garrison",
+      "targetId": "8284"
+    },
+    {
+      "name": "Rashied Ali",
+      "targetId": "8285"
+    },
+    {
+      "name": "Elvin Jones",
+      "targetId": "8287"
+    },
+    {
+      "name": "McCoy Tyner",
+      "targetId": "8288"
+    }
+  ]
+}

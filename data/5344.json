@@ -1,17 +1,17 @@
-[
-  {
-    "source": "James Eller",
-    "target": "Brix Smith",
-    "targetId": "2656"
-  },
-  {
-    "source": "James Eller",
-    "target": "Clem Burke",
-    "targetId": "3280"
-  },
-  {
-    "source": "James Eller",
-    "target": "Craig Gannon",
-    "targetId": "5342"
-  }
-]
+{
+  "source": "James Eller",
+  "targets": [
+    {
+      "name": "Brix Smith",
+      "targetId": "2656"
+    },
+    {
+      "name": "Clem Burke",
+      "targetId": "3280"
+    },
+    {
+      "name": "Craig Gannon",
+      "targetId": "5342"
+    }
+  ]
+}

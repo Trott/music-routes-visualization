@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sandy West",
-    "target": "Joan Jett",
-    "targetId": "2087"
-  },
-  {
-    "source": "Sandy West",
-    "target": "Lita Ford",
-    "targetId": "5289"
-  },
-  {
-    "source": "Sandy West",
-    "target": "Jackie Fox",
-    "targetId": "5294"
-  },
-  {
-    "source": "Sandy West",
-    "target": "Cherie Currie",
-    "targetId": "5296"
-  }
-]
+{
+  "source": "Sandy West",
+  "targets": [
+    {
+      "name": "Joan Jett",
+      "targetId": "2087"
+    },
+    {
+      "name": "Lita Ford",
+      "targetId": "5289"
+    },
+    {
+      "name": "Jackie Fox",
+      "targetId": "5294"
+    },
+    {
+      "name": "Cherie Currie",
+      "targetId": "5296"
+    }
+  ]
+}

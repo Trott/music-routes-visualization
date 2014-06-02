@@ -1,157 +1,129 @@
-[
-  {
-    "source": "Linda Lawrence",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Robbie Robertson",
-    "targetId": "31"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Dr. John",
-    "targetId": "58"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Chuck Findley",
-    "targetId": "397"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Steve Madaio",
-    "targetId": "412"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Bobby Keyes",
-    "targetId": "644"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "James Newton Howard",
-    "targetId": "650"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Richard Perry",
-    "targetId": "987"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Lew McCreary",
-    "targetId": "4511"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Trevor Lawrence",
-    "targetId": "4579"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Clydie King",
-    "targetId": "4580"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Joe Greene",
-    "targetId": "4581"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Vini Poncia",
-    "targetId": "4583"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Alvin Robinson",
-    "targetId": "4586"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Mike Sembello",
-    "targetId": "7437"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Shirley Brewer",
-    "targetId": "7442"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Hank Redd",
-    "targetId": "7444"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Charity McCrary",
-    "targetId": "7449"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Deniece Williams",
-    "targetId": "7450"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Linda McCrary",
-    "targetId": "7451"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Madelaine \"Gypsy\" Jones",
-    "targetId": "7452"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Mary Lee Whitney",
-    "targetId": "7453"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Minnie Riperton",
-    "targetId": "7454"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Sundray Tucker",
-    "targetId": "7455"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Syreeta Wright",
-    "targetId": "7456"
-  },
-  {
-    "source": "Linda Lawrence",
-    "target": "Terry Hendricks",
-    "targetId": "7457"
-  }
-]
+{
+  "source": "Linda Lawrence",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Robbie Robertson",
+      "targetId": "31"
+    },
+    {
+      "name": "Dr. John",
+      "targetId": "58"
+    },
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Chuck Findley",
+      "targetId": "397"
+    },
+    {
+      "name": "Steve Madaio",
+      "targetId": "412"
+    },
+    {
+      "name": "Bobby Keyes",
+      "targetId": "644"
+    },
+    {
+      "name": "James Newton Howard",
+      "targetId": "650"
+    },
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Richard Perry",
+      "targetId": "987"
+    },
+    {
+      "name": "Lew McCreary",
+      "targetId": "4511"
+    },
+    {
+      "name": "Trevor Lawrence",
+      "targetId": "4579"
+    },
+    {
+      "name": "Clydie King",
+      "targetId": "4580"
+    },
+    {
+      "name": "Joe Greene",
+      "targetId": "4581"
+    },
+    {
+      "name": "Vini Poncia",
+      "targetId": "4583"
+    },
+    {
+      "name": "Alvin Robinson",
+      "targetId": "4586"
+    },
+    {
+      "name": "Mike Sembello",
+      "targetId": "7437"
+    },
+    {
+      "name": "Shirley Brewer",
+      "targetId": "7442"
+    },
+    {
+      "name": "Hank Redd",
+      "targetId": "7444"
+    },
+    {
+      "name": "Charity McCrary",
+      "targetId": "7449"
+    },
+    {
+      "name": "Deniece Williams",
+      "targetId": "7450"
+    },
+    {
+      "name": "Linda McCrary",
+      "targetId": "7451"
+    },
+    {
+      "name": "Madelaine \"Gypsy\" Jones",
+      "targetId": "7452"
+    },
+    {
+      "name": "Mary Lee Whitney",
+      "targetId": "7453"
+    },
+    {
+      "name": "Minnie Riperton",
+      "targetId": "7454"
+    },
+    {
+      "name": "Sundray Tucker",
+      "targetId": "7455"
+    },
+    {
+      "name": "Syreeta Wright",
+      "targetId": "7456"
+    },
+    {
+      "name": "Terry Hendricks",
+      "targetId": "7457"
+    }
+  ]
+}

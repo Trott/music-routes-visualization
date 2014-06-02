@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Alex Harvey",
-    "target": "Ted McKenna",
-    "targetId": "8797"
-  },
-  {
-    "source": "Alex Harvey",
-    "target": "Chris Glen",
-    "targetId": "8798"
-  },
-  {
-    "source": "Alex Harvey",
-    "target": "Hugh McKenna",
-    "targetId": "8800"
-  },
-  {
-    "source": "Alex Harvey",
-    "target": "Zal Cleminson",
-    "targetId": "8801"
-  }
-]
+{
+  "source": "Alex Harvey",
+  "targets": [
+    {
+      "name": "Ted McKenna",
+      "targetId": "8797"
+    },
+    {
+      "name": "Chris Glen",
+      "targetId": "8798"
+    },
+    {
+      "name": "Hugh McKenna",
+      "targetId": "8800"
+    },
+    {
+      "name": "Zal Cleminson",
+      "targetId": "8801"
+    }
+  ]
+}

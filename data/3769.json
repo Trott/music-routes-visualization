@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bobby Chouinard",
-    "target": "Alice Cooper",
-    "targetId": "1285"
-  },
-  {
-    "source": "Bobby Chouinard",
-    "target": "Hugh McDonald",
-    "targetId": "1288"
-  },
-  {
-    "source": "Bobby Chouinard",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "Bobby Chouinard",
-    "target": "John McCurry",
-    "targetId": "3458"
-  }
-]
+{
+  "source": "Bobby Chouinard",
+  "targets": [
+    {
+      "name": "Alice Cooper",
+      "targetId": "1285"
+    },
+    {
+      "name": "Hugh McDonald",
+      "targetId": "1288"
+    },
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "John McCurry",
+      "targetId": "3458"
+    }
+  ]
+}

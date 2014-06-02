@@ -1,32 +1,29 @@
-[
-  {
-    "source": "John Wolters",
-    "target": "Jance Garfat",
-    "targetId": "5062"
-  },
-  {
-    "source": "John Wolters",
-    "target": "Bob \"Willard\" Henke",
-    "targetId": "5064"
-  },
-  {
-    "source": "John Wolters",
-    "target": "Rik Elswit",
-    "targetId": "5065"
-  },
-  {
-    "source": "John Wolters",
-    "target": "Billy Francis",
-    "targetId": "5066"
-  },
-  {
-    "source": "John Wolters",
-    "target": "Ray Sawyer",
-    "targetId": "5067"
-  },
-  {
-    "source": "John Wolters",
-    "target": "Dennis Locorriere",
-    "targetId": "5068"
-  }
-]
+{
+  "source": "John Wolters",
+  "targets": [
+    {
+      "name": "Jance Garfat",
+      "targetId": "5062"
+    },
+    {
+      "name": "Bob \"Willard\" Henke",
+      "targetId": "5064"
+    },
+    {
+      "name": "Rik Elswit",
+      "targetId": "5065"
+    },
+    {
+      "name": "Billy Francis",
+      "targetId": "5066"
+    },
+    {
+      "name": "Ray Sawyer",
+      "targetId": "5067"
+    },
+    {
+      "name": "Dennis Locorriere",
+      "targetId": "5068"
+    }
+  ]
+}

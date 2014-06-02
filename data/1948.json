@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mike Ratledge",
-    "target": "Allan Holdsworth",
-    "targetId": "461"
-  },
-  {
-    "source": "Mike Ratledge",
-    "target": "Karl Jenkins",
-    "targetId": "1949"
-  },
-  {
-    "source": "Mike Ratledge",
-    "target": "Roy Babbington",
-    "targetId": "1950"
-  },
-  {
-    "source": "Mike Ratledge",
-    "target": "John Marshall",
-    "targetId": "1951"
-  },
-  {
-    "source": "Mike Ratledge",
-    "target": "Kevin Ayers",
-    "targetId": "1952"
-  },
-  {
-    "source": "Mike Ratledge",
-    "target": "Robert Wyatt",
-    "targetId": "1953"
-  }
-]
+{
+  "source": "Mike Ratledge",
+  "targets": [
+    {
+      "name": "Allan Holdsworth",
+      "targetId": "461"
+    },
+    {
+      "name": "Karl Jenkins",
+      "targetId": "1949"
+    },
+    {
+      "name": "Roy Babbington",
+      "targetId": "1950"
+    },
+    {
+      "name": "John Marshall",
+      "targetId": "1951"
+    },
+    {
+      "name": "Kevin Ayers",
+      "targetId": "1952"
+    },
+    {
+      "name": "Robert Wyatt",
+      "targetId": "1953"
+    }
+  ]
+}

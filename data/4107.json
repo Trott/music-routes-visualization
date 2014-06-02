@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Brian Baker",
-    "target": "Ian MacKaye",
-    "targetId": "3156"
-  },
-  {
-    "source": "Brian Baker",
-    "target": "Lyle Preslar",
-    "targetId": "4108"
-  },
-  {
-    "source": "Brian Baker",
-    "target": "Jeff Nelson",
-    "targetId": "4109"
-  },
-  {
-    "source": "Brian Baker",
-    "target": "Steve Hansgen",
-    "targetId": "4110"
-  }
-]
+{
+  "source": "Brian Baker",
+  "targets": [
+    {
+      "name": "Ian MacKaye",
+      "targetId": "3156"
+    },
+    {
+      "name": "Lyle Preslar",
+      "targetId": "4108"
+    },
+    {
+      "name": "Jeff Nelson",
+      "targetId": "4109"
+    },
+    {
+      "name": "Steve Hansgen",
+      "targetId": "4110"
+    }
+  ]
+}

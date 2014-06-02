@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Tintweiss",
-    "target": "Albert Ayler",
-    "targetId": "1074"
-  },
-  {
-    "source": "Steve Tintweiss",
-    "target": "Rashied Ali",
-    "targetId": "8285"
-  },
-  {
-    "source": "Steve Tintweiss",
-    "target": "Burton Greene",
-    "targetId": "8289"
-  },
-  {
-    "source": "Steve Tintweiss",
-    "target": "Frank Smith",
-    "targetId": "8290"
-  }
-]
+{
+  "source": "Steve Tintweiss",
+  "targets": [
+    {
+      "name": "Albert Ayler",
+      "targetId": "1074"
+    },
+    {
+      "name": "Rashied Ali",
+      "targetId": "8285"
+    },
+    {
+      "name": "Burton Greene",
+      "targetId": "8289"
+    },
+    {
+      "name": "Frank Smith",
+      "targetId": "8290"
+    }
+  ]
+}

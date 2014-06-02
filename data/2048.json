@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Michael Parks",
-    "target": "Mike Thompson",
-    "targetId": "2047"
-  },
-  {
-    "source": "Michael Parks",
-    "target": "Russ Long",
-    "targetId": "2049"
-  },
-  {
-    "source": "Michael Parks",
-    "target": "Chuck Cowan",
-    "targetId": "2050"
-  }
-]
+{
+  "source": "Michael Parks",
+  "targets": [
+    {
+      "name": "Mike Thompson",
+      "targetId": "2047"
+    },
+    {
+      "name": "Russ Long",
+      "targetId": "2049"
+    },
+    {
+      "name": "Chuck Cowan",
+      "targetId": "2050"
+    }
+  ]
+}

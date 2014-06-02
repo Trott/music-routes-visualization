@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Doug Kershaw",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Doug Kershaw",
-    "target": "Charlie McCoy",
-    "targetId": "1211"
-  },
-  {
-    "source": "Doug Kershaw",
-    "target": "Kenny Buttrey",
-    "targetId": "10032"
-  },
-  {
-    "source": "Doug Kershaw",
-    "target": "Robert S. Wilson",
-    "targetId": "10052"
-  }
-]
+{
+  "source": "Doug Kershaw",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Charlie McCoy",
+      "targetId": "1211"
+    },
+    {
+      "name": "Kenny Buttrey",
+      "targetId": "10032"
+    },
+    {
+      "name": "Robert S. Wilson",
+      "targetId": "10052"
+    }
+  ]
+}

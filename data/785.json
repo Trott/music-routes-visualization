@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Todd Tigione",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Todd Tigione",
-    "target": "John Molo",
-    "targetId": "780"
-  },
-  {
-    "source": "Todd Tigione",
-    "target": "Dave Pirner",
-    "targetId": "786"
-  }
-]
+{
+  "source": "Todd Tigione",
+  "targets": [
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "John Molo",
+      "targetId": "780"
+    },
+    {
+      "name": "Dave Pirner",
+      "targetId": "786"
+    }
+  ]
+}

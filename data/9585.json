@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Brian Minato",
-    "target": "Sarah McLachlan",
-    "targetId": "706"
-  },
-  {
-    "source": "Brian Minato",
-    "target": "Pierre Marchand",
-    "targetId": "9584"
-  },
-  {
-    "source": "Brian Minato",
-    "target": "Ashwin Sood",
-    "targetId": "9586"
-  },
-  {
-    "source": "Brian Minato",
-    "target": "Michel Pepin",
-    "targetId": "9587"
-  }
-]
+{
+  "source": "Brian Minato",
+  "targets": [
+    {
+      "name": "Sarah McLachlan",
+      "targetId": "706"
+    },
+    {
+      "name": "Pierre Marchand",
+      "targetId": "9584"
+    },
+    {
+      "name": "Ashwin Sood",
+      "targetId": "9586"
+    },
+    {
+      "name": "Michel Pepin",
+      "targetId": "9587"
+    }
+  ]
+}

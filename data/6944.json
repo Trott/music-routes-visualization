@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Natalie Portman",
-    "target": "Andy Samberg",
-    "targetId": "6928"
-  },
-  {
-    "source": "Natalie Portman",
-    "target": "Akiva Schaffer",
-    "targetId": "6929"
-  },
-  {
-    "source": "Natalie Portman",
-    "target": "Jorma Taccone",
-    "targetId": "6930"
-  },
-  {
-    "source": "Natalie Portman",
-    "target": "Chris Parnell",
-    "targetId": "6939"
-  }
-]
+{
+  "source": "Natalie Portman",
+  "targets": [
+    {
+      "name": "Andy Samberg",
+      "targetId": "6928"
+    },
+    {
+      "name": "Akiva Schaffer",
+      "targetId": "6929"
+    },
+    {
+      "name": "Jorma Taccone",
+      "targetId": "6930"
+    },
+    {
+      "name": "Chris Parnell",
+      "targetId": "6939"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Manu Chao",
-    "target": "Jane Birkin",
-    "targetId": "2722"
-  },
-  {
-    "source": "Manu Chao",
-    "target": "Toots Hibbert",
-    "targetId": "6822"
-  }
-]
+{
+  "source": "Manu Chao",
+  "targets": [
+    {
+      "name": "Jane Birkin",
+      "targetId": "2722"
+    },
+    {
+      "name": "Toots Hibbert",
+      "targetId": "6822"
+    }
+  ]
+}

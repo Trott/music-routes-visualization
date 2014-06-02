@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Mick Hucknall",
-    "target": "Joe Perry",
-    "targetId": "1890"
-  },
-  {
-    "source": "Mick Hucknall",
-    "target": "Les Paul",
-    "targetId": "6561"
-  }
-]
+{
+  "source": "Mick Hucknall",
+  "targets": [
+    {
+      "name": "Joe Perry",
+      "targetId": "1890"
+    },
+    {
+      "name": "Les Paul",
+      "targetId": "6561"
+    }
+  ]
+}

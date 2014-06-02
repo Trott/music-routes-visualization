@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Paul Fox",
-    "target": "Simon House",
-    "targetId": "866"
-  },
-  {
-    "source": "Paul Fox",
-    "target": "Tommy Grenas",
-    "targetId": "4455"
-  },
-  {
-    "source": "Paul Fox",
-    "target": "Len Del Rio",
-    "targetId": "4456"
-  },
-  {
-    "source": "Paul Fox",
-    "target": "Brandon LaBelle",
-    "targetId": "4464"
-  },
-  {
-    "source": "Paul Fox",
-    "target": "Nik Turner",
-    "targetId": "4466"
-  },
-  {
-    "source": "Paul Fox",
-    "target": "Dorian Shelley",
-    "targetId": "4467"
-  },
-  {
-    "source": "Paul Fox",
-    "target": "Del Dettmar",
-    "targetId": "4469"
-  }
-]
+{
+  "source": "Paul Fox",
+  "targets": [
+    {
+      "name": "Simon House",
+      "targetId": "866"
+    },
+    {
+      "name": "Tommy Grenas",
+      "targetId": "4455"
+    },
+    {
+      "name": "Len Del Rio",
+      "targetId": "4456"
+    },
+    {
+      "name": "Brandon LaBelle",
+      "targetId": "4464"
+    },
+    {
+      "name": "Nik Turner",
+      "targetId": "4466"
+    },
+    {
+      "name": "Dorian Shelley",
+      "targetId": "4467"
+    },
+    {
+      "name": "Del Dettmar",
+      "targetId": "4469"
+    }
+  ]
+}

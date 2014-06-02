@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Brian Johnson",
-    "target": "Chris Slade",
-    "targetId": "940"
-  },
-  {
-    "source": "Brian Johnson",
-    "target": "Angus Young",
-    "targetId": "942"
-  },
-  {
-    "source": "Brian Johnson",
-    "target": "Malcolm Young",
-    "targetId": "943"
-  },
-  {
-    "source": "Brian Johnson",
-    "target": "Cliff Williams",
-    "targetId": "945"
-  },
-  {
-    "source": "Brian Johnson",
-    "target": "Phil Rudd",
-    "targetId": "946"
-  }
-]
+{
+  "source": "Brian Johnson",
+  "targets": [
+    {
+      "name": "Chris Slade",
+      "targetId": "940"
+    },
+    {
+      "name": "Angus Young",
+      "targetId": "942"
+    },
+    {
+      "name": "Malcolm Young",
+      "targetId": "943"
+    },
+    {
+      "name": "Cliff Williams",
+      "targetId": "945"
+    },
+    {
+      "name": "Phil Rudd",
+      "targetId": "946"
+    }
+  ]
+}

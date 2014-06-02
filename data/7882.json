@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Daniel Rossen",
-    "target": "Michael McDonald",
-    "targetId": "717"
-  },
-  {
-    "source": "Daniel Rossen",
-    "target": "Chris Taylor",
-    "targetId": "2997"
-  },
-  {
-    "source": "Daniel Rossen",
-    "target": "Edward Droste",
-    "targetId": "3093"
-  },
-  {
-    "source": "Daniel Rossen",
-    "target": "Chris Bear",
-    "targetId": "7881"
-  }
-]
+{
+  "source": "Daniel Rossen",
+  "targets": [
+    {
+      "name": "Michael McDonald",
+      "targetId": "717"
+    },
+    {
+      "name": "Chris Taylor",
+      "targetId": "2997"
+    },
+    {
+      "name": "Edward Droste",
+      "targetId": "3093"
+    },
+    {
+      "name": "Chris Bear",
+      "targetId": "7881"
+    }
+  ]
+}

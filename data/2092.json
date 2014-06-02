@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Lucas",
-    "target": "Mel Bergman",
-    "targetId": "2089"
-  },
-  {
-    "source": "Mike Lucas",
-    "target": "Maz Kattuah",
-    "targetId": "2093"
-  },
-  {
-    "source": "Mike Lucas",
-    "target": "Russell Quan",
-    "targetId": "2094"
-  }
-]
+{
+  "source": "Mike Lucas",
+  "targets": [
+    {
+      "name": "Mel Bergman",
+      "targetId": "2089"
+    },
+    {
+      "name": "Maz Kattuah",
+      "targetId": "2093"
+    },
+    {
+      "name": "Russell Quan",
+      "targetId": "2094"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "David Berman",
-    "target": "Stephen Malkmus",
-    "targetId": "1834"
-  },
-  {
-    "source": "David Berman",
-    "target": "Chris Stroffolino",
-    "targetId": "5936"
-  },
-  {
-    "source": "David Berman",
-    "target": "Tim Barnes",
-    "targetId": "5937"
-  },
-  {
-    "source": "David Berman",
-    "target": "Mike Fellows",
-    "targetId": "5938"
-  }
-]
+{
+  "source": "David Berman",
+  "targets": [
+    {
+      "name": "Stephen Malkmus",
+      "targetId": "1834"
+    },
+    {
+      "name": "Chris Stroffolino",
+      "targetId": "5936"
+    },
+    {
+      "name": "Tim Barnes",
+      "targetId": "5937"
+    },
+    {
+      "name": "Mike Fellows",
+      "targetId": "5938"
+    }
+  ]
+}

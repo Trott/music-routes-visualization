@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Sid Bos",
-    "target": "Pepe Raphael",
-    "targetId": "1223"
-  },
-  {
-    "source": "Sid Bos",
-    "target": "Justin Durrie",
-    "targetId": "1225"
-  }
-]
+{
+  "source": "Sid Bos",
+  "targets": [
+    {
+      "name": "Pepe Raphael",
+      "targetId": "1223"
+    },
+    {
+      "name": "Justin Durrie",
+      "targetId": "1225"
+    }
+  ]
+}

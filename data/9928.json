@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Paul De Lisle",
-    "target": "Gregory Camp",
-    "targetId": "9925"
-  },
-  {
-    "source": "Paul De Lisle",
-    "target": "Kevin Coleman",
-    "targetId": "9926"
-  },
-  {
-    "source": "Paul De Lisle",
-    "target": "Steve Harwell",
-    "targetId": "9927"
-  }
-]
+{
+  "source": "Paul De Lisle",
+  "targets": [
+    {
+      "name": "Gregory Camp",
+      "targetId": "9925"
+    },
+    {
+      "name": "Kevin Coleman",
+      "targetId": "9926"
+    },
+    {
+      "name": "Steve Harwell",
+      "targetId": "9927"
+    }
+  ]
+}

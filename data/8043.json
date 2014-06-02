@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ida Pearle",
-    "target": "Stephin Merritt",
-    "targetId": "2850"
-  },
-  {
-    "source": "Ida Pearle",
-    "target": "John Woo",
-    "targetId": "2862"
-  },
-  {
-    "source": "Ida Pearle",
-    "target": "Sam Davol",
-    "targetId": "2863"
-  },
-  {
-    "source": "Ida Pearle",
-    "target": "Dominique A.",
-    "targetId": "3605"
-  },
-  {
-    "source": "Ida Pearle",
-    "target": "Claudia Gonson",
-    "targetId": "8042"
-  }
-]
+{
+  "source": "Ida Pearle",
+  "targets": [
+    {
+      "name": "Stephin Merritt",
+      "targetId": "2850"
+    },
+    {
+      "name": "John Woo",
+      "targetId": "2862"
+    },
+    {
+      "name": "Sam Davol",
+      "targetId": "2863"
+    },
+    {
+      "name": "Dominique A.",
+      "targetId": "3605"
+    },
+    {
+      "name": "Claudia Gonson",
+      "targetId": "8042"
+    }
+  ]
+}

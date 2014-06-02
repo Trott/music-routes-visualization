@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Jerry Vinci",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Jerry Vinci",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Jerry Vinci",
-    "target": "David Paich",
-    "targetId": "401"
-  },
-  {
-    "source": "Jerry Vinci",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Jerry Vinci",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Jerry Vinci",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Jerry Vinci",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Jerry Vinci",
-    "target": "David Foster",
-    "targetId": "2456"
-  },
-  {
-    "source": "Jerry Vinci",
-    "target": "Louis Johnson",
-    "targetId": "3397"
-  }
-]
+{
+  "source": "Jerry Vinci",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "David Paich",
+      "targetId": "401"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "David Foster",
+      "targetId": "2456"
+    },
+    {
+      "name": "Louis Johnson",
+      "targetId": "3397"
+    }
+  ]
+}

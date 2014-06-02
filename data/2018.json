@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Eric Dover",
-    "target": "Slash",
-    "targetId": "1287"
-  },
-  {
-    "source": "Eric Dover",
-    "target": "Matt Sorum",
-    "targetId": "1569"
-  },
-  {
-    "source": "Eric Dover",
-    "target": "Mike Inez",
-    "targetId": "2016"
-  },
-  {
-    "source": "Eric Dover",
-    "target": "Gilby Clarke",
-    "targetId": "2017"
-  }
-]
+{
+  "source": "Eric Dover",
+  "targets": [
+    {
+      "name": "Slash",
+      "targetId": "1287"
+    },
+    {
+      "name": "Matt Sorum",
+      "targetId": "1569"
+    },
+    {
+      "name": "Mike Inez",
+      "targetId": "2016"
+    },
+    {
+      "name": "Gilby Clarke",
+      "targetId": "2017"
+    }
+  ]
+}

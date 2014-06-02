@@ -1,202 +1,165 @@
-[
-  {
-    "source": "Blake Sennett",
-    "target": "Jackson Browne",
-    "targetId": "669"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Thurston Moore",
-    "targetId": "772"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Anna Waronker",
-    "targetId": "966"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Joey Waronker",
-    "targetId": "1053"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Beck",
-    "targetId": "1057"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Peaches",
-    "targetId": "1831"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Leslie Feist",
-    "targetId": "2083"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Devendra Banhart",
-    "targetId": "2882"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Nick Diamonds",
-    "targetId": "3007"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Adam Gollner",
-    "targetId": "3008"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Steve McDonald",
-    "targetId": "3009"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Win Butler",
-    "targetId": "3010"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Régine Chassagne",
-    "targetId": "3011"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Buck 65",
-    "targetId": "3012"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "David Cross",
-    "targetId": "3013"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Liane Balaban",
-    "targetId": "3014"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Noah Georgeson",
-    "targetId": "3015"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Jona Bechtolt",
-    "targetId": "3016"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Luckey Remington",
-    "targetId": "3017"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Elvira, Mistress Of The Dark",
-    "targetId": "3018"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Gino Washington",
-    "targetId": "3019"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Syd Butler",
-    "targetId": "3020"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "J'aime Tambeur",
-    "targetId": "3021"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Malcolm McLaren",
-    "targetId": "3022"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Nardwuar The Human Serviette",
-    "targetId": "3023"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Jimmy Tamborello",
-    "targetId": "3024"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Jenny Lewis",
-    "targetId": "3025"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Roky Erickson",
-    "targetId": "3027"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Chris Murphy",
-    "targetId": "3028"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Asya",
-    "targetId": "3029"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Chloe",
-    "targetId": "3030"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Russell Mael",
-    "targetId": "3031"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Subtitle",
-    "targetId": "3032"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Steve Jocz",
-    "targetId": "3033"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Tagaq",
-    "targetId": "3034"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Dan Boeckner",
-    "targetId": "3035"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Spencer Krug",
-    "targetId": "3036"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Karen O",
-    "targetId": "3037"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Jason Boesel",
-    "targetId": "6167"
-  },
-  {
-    "source": "Blake Sennett",
-    "target": "Pierre de Reeder",
-    "targetId": "6168"
-  }
-]
+{
+  "source": "Blake Sennett",
+  "targets": [
+    {
+      "name": "Jackson Browne",
+      "targetId": "669"
+    },
+    {
+      "name": "Thurston Moore",
+      "targetId": "772"
+    },
+    {
+      "name": "Anna Waronker",
+      "targetId": "966"
+    },
+    {
+      "name": "Joey Waronker",
+      "targetId": "1053"
+    },
+    {
+      "name": "Beck",
+      "targetId": "1057"
+    },
+    {
+      "name": "Peaches",
+      "targetId": "1831"
+    },
+    {
+      "name": "Leslie Feist",
+      "targetId": "2083"
+    },
+    {
+      "name": "Devendra Banhart",
+      "targetId": "2882"
+    },
+    {
+      "name": "Nick Diamonds",
+      "targetId": "3007"
+    },
+    {
+      "name": "Adam Gollner",
+      "targetId": "3008"
+    },
+    {
+      "name": "Steve McDonald",
+      "targetId": "3009"
+    },
+    {
+      "name": "Win Butler",
+      "targetId": "3010"
+    },
+    {
+      "name": "Régine Chassagne",
+      "targetId": "3011"
+    },
+    {
+      "name": "Buck 65",
+      "targetId": "3012"
+    },
+    {
+      "name": "David Cross",
+      "targetId": "3013"
+    },
+    {
+      "name": "Liane Balaban",
+      "targetId": "3014"
+    },
+    {
+      "name": "Noah Georgeson",
+      "targetId": "3015"
+    },
+    {
+      "name": "Jona Bechtolt",
+      "targetId": "3016"
+    },
+    {
+      "name": "Luckey Remington",
+      "targetId": "3017"
+    },
+    {
+      "name": "Elvira, Mistress Of The Dark",
+      "targetId": "3018"
+    },
+    {
+      "name": "Gino Washington",
+      "targetId": "3019"
+    },
+    {
+      "name": "Syd Butler",
+      "targetId": "3020"
+    },
+    {
+      "name": "J'aime Tambeur",
+      "targetId": "3021"
+    },
+    {
+      "name": "Malcolm McLaren",
+      "targetId": "3022"
+    },
+    {
+      "name": "Nardwuar The Human Serviette",
+      "targetId": "3023"
+    },
+    {
+      "name": "Jimmy Tamborello",
+      "targetId": "3024"
+    },
+    {
+      "name": "Jenny Lewis",
+      "targetId": "3025"
+    },
+    {
+      "name": "Roky Erickson",
+      "targetId": "3027"
+    },
+    {
+      "name": "Chris Murphy",
+      "targetId": "3028"
+    },
+    {
+      "name": "Asya",
+      "targetId": "3029"
+    },
+    {
+      "name": "Chloe",
+      "targetId": "3030"
+    },
+    {
+      "name": "Russell Mael",
+      "targetId": "3031"
+    },
+    {
+      "name": "Subtitle",
+      "targetId": "3032"
+    },
+    {
+      "name": "Steve Jocz",
+      "targetId": "3033"
+    },
+    {
+      "name": "Tagaq",
+      "targetId": "3034"
+    },
+    {
+      "name": "Dan Boeckner",
+      "targetId": "3035"
+    },
+    {
+      "name": "Spencer Krug",
+      "targetId": "3036"
+    },
+    {
+      "name": "Karen O",
+      "targetId": "3037"
+    },
+    {
+      "name": "Jason Boesel",
+      "targetId": "6167"
+    },
+    {
+      "name": "Pierre de Reeder",
+      "targetId": "6168"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Gary Brooker",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Gary Brooker",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Gary Brooker",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Gary Brooker",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Gary Brooker",
-    "target": "Jim Price",
-    "targetId": "3197"
-  },
-  {
-    "source": "Gary Brooker",
-    "target": "Gary Wright",
-    "targetId": "3199"
-  },
-  {
-    "source": "Gary Brooker",
-    "target": "Bobby Whitlock",
-    "targetId": "5331"
-  },
-  {
-    "source": "Gary Brooker",
-    "target": "Carl Radle",
-    "targetId": "5332"
-  }
-]
+{
+  "source": "Gary Brooker",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Jim Price",
+      "targetId": "3197"
+    },
+    {
+      "name": "Gary Wright",
+      "targetId": "3199"
+    },
+    {
+      "name": "Bobby Whitlock",
+      "targetId": "5331"
+    },
+    {
+      "name": "Carl Radle",
+      "targetId": "5332"
+    }
+  ]
+}

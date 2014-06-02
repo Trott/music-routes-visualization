@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Martin Belmont",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Martin Belmont",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Martin Belmont",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Martin Belmont",
-    "target": "Glenn Tilbrook",
-    "targetId": "7275"
-  },
-  {
-    "source": "Martin Belmont",
-    "target": "Bruce Thomas",
-    "targetId": "7277"
-  }
-]
+{
+  "source": "Martin Belmont",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Glenn Tilbrook",
+      "targetId": "7275"
+    },
+    {
+      "name": "Bruce Thomas",
+      "targetId": "7277"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tim Morris",
-    "target": "Ed Mazzucco",
-    "targetId": "10791"
-  },
-  {
-    "source": "Tim Morris",
-    "target": "Dwayne Palasek",
-    "targetId": "10792"
-  },
-  {
-    "source": "Tim Morris",
-    "target": "Laura Watling",
-    "targetId": "10793"
-  },
-  {
-    "source": "Tim Morris",
-    "target": "Jon Chaikin",
-    "targetId": "10795"
-  }
-]
+{
+  "source": "Tim Morris",
+  "targets": [
+    {
+      "name": "Ed Mazzucco",
+      "targetId": "10791"
+    },
+    {
+      "name": "Dwayne Palasek",
+      "targetId": "10792"
+    },
+    {
+      "name": "Laura Watling",
+      "targetId": "10793"
+    },
+    {
+      "name": "Jon Chaikin",
+      "targetId": "10795"
+    }
+  ]
+}

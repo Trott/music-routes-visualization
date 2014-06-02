@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Simon Townshend",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  },
-  {
-    "source": "Simon Townshend",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Simon Townshend",
-    "target": "Chucho Merchan",
-    "targetId": "10516"
-  }
-]
+{
+  "source": "Simon Townshend",
+  "targets": [
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "Chucho Merchan",
+      "targetId": "10516"
+    }
+  ]
+}

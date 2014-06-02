@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Richard Youngs",
-    "target": "Jandek",
-    "targetId": "216"
-  },
-  {
-    "source": "Richard Youngs",
-    "target": "Alex Neilson",
-    "targetId": "218"
-  },
-  {
-    "source": "Richard Youngs",
-    "target": "David Keenan",
-    "targetId": "5282"
-  },
-  {
-    "source": "Richard Youngs",
-    "target": "Gavin Laird",
-    "targetId": "5283"
-  },
-  {
-    "source": "Richard Youngs",
-    "target": "Rachel Devine",
-    "targetId": "5284"
-  },
-  {
-    "source": "Richard Youngs",
-    "target": "Brendan O'Hare",
-    "targetId": "5285"
-  }
-]
+{
+  "source": "Richard Youngs",
+  "targets": [
+    {
+      "name": "Jandek",
+      "targetId": "216"
+    },
+    {
+      "name": "Alex Neilson",
+      "targetId": "218"
+    },
+    {
+      "name": "David Keenan",
+      "targetId": "5282"
+    },
+    {
+      "name": "Gavin Laird",
+      "targetId": "5283"
+    },
+    {
+      "name": "Rachel Devine",
+      "targetId": "5284"
+    },
+    {
+      "name": "Brendan O'Hare",
+      "targetId": "5285"
+    }
+  ]
+}

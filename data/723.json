@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Paul Griffin",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Rick Marotta",
-    "targetId": "393"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Victor Feldman",
-    "targetId": "396"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Larry Carlton",
-    "targetId": "506"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "John Simon",
-    "targetId": "629"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Michael McDonald",
-    "targetId": "717"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Donald Fagen",
-    "targetId": "720"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Walter Becker",
-    "targetId": "721"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Chuck Rainey",
-    "targetId": "722"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Don Grolnick",
-    "targetId": "724"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Steve Khan",
-    "targetId": "725"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Jay Graydon",
-    "targetId": "726"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Gary Coleman",
-    "targetId": "727"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Dennis Collins",
-    "targetId": "1030"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Harvey Brooks",
-    "targetId": "1635"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Clydie King",
-    "targetId": "4580"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Lani Groves",
-    "targetId": "4687"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Bobby Gregg",
-    "targetId": "6325"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Mike Bloomfield",
-    "targetId": "6326"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Frank Floyd",
-    "targetId": "7774"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "James Grant",
-    "targetId": "7775"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Bobby Paterson",
-    "targetId": "7776"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Paul McGeechan",
-    "targetId": "7777"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Ronnie Goodman",
-    "targetId": "7778"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Peter Yarrow",
-    "targetId": "8314"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Venetta Fields",
-    "targetId": "8452"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Sherlie Matthews",
-    "targetId": "8453"
-  },
-  {
-    "source": "Paul Griffin",
-    "target": "Bill Crow",
-    "targetId": "8983"
-  }
-]
+{
+  "source": "Paul Griffin",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Rick Marotta",
+      "targetId": "393"
+    },
+    {
+      "name": "Victor Feldman",
+      "targetId": "396"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Larry Carlton",
+      "targetId": "506"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "John Simon",
+      "targetId": "629"
+    },
+    {
+      "name": "Michael McDonald",
+      "targetId": "717"
+    },
+    {
+      "name": "Donald Fagen",
+      "targetId": "720"
+    },
+    {
+      "name": "Walter Becker",
+      "targetId": "721"
+    },
+    {
+      "name": "Chuck Rainey",
+      "targetId": "722"
+    },
+    {
+      "name": "Don Grolnick",
+      "targetId": "724"
+    },
+    {
+      "name": "Steve Khan",
+      "targetId": "725"
+    },
+    {
+      "name": "Jay Graydon",
+      "targetId": "726"
+    },
+    {
+      "name": "Gary Coleman",
+      "targetId": "727"
+    },
+    {
+      "name": "Dennis Collins",
+      "targetId": "1030"
+    },
+    {
+      "name": "Harvey Brooks",
+      "targetId": "1635"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Clydie King",
+      "targetId": "4580"
+    },
+    {
+      "name": "Lani Groves",
+      "targetId": "4687"
+    },
+    {
+      "name": "Bobby Gregg",
+      "targetId": "6325"
+    },
+    {
+      "name": "Mike Bloomfield",
+      "targetId": "6326"
+    },
+    {
+      "name": "Frank Floyd",
+      "targetId": "7774"
+    },
+    {
+      "name": "James Grant",
+      "targetId": "7775"
+    },
+    {
+      "name": "Bobby Paterson",
+      "targetId": "7776"
+    },
+    {
+      "name": "Paul McGeechan",
+      "targetId": "7777"
+    },
+    {
+      "name": "Ronnie Goodman",
+      "targetId": "7778"
+    },
+    {
+      "name": "Peter Yarrow",
+      "targetId": "8314"
+    },
+    {
+      "name": "Venetta Fields",
+      "targetId": "8452"
+    },
+    {
+      "name": "Sherlie Matthews",
+      "targetId": "8453"
+    },
+    {
+      "name": "Bill Crow",
+      "targetId": "8983"
+    }
+  ]
+}

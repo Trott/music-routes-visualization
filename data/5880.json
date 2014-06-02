@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dexter Moore",
-    "target": "Mary J. Blige",
-    "targetId": "4043"
-  },
-  {
-    "source": "Dexter Moore",
-    "target": "Will Smith",
-    "targetId": "5877"
-  },
-  {
-    "source": "Dexter Moore",
-    "target": "PNutt",
-    "targetId": "5878"
-  },
-  {
-    "source": "Dexter Moore",
-    "target": "Damien DeSandies",
-    "targetId": "5879"
-  }
-]
+{
+  "source": "Dexter Moore",
+  "targets": [
+    {
+      "name": "Mary J. Blige",
+      "targetId": "4043"
+    },
+    {
+      "name": "Will Smith",
+      "targetId": "5877"
+    },
+    {
+      "name": "PNutt",
+      "targetId": "5878"
+    },
+    {
+      "name": "Damien DeSandies",
+      "targetId": "5879"
+    }
+  ]
+}

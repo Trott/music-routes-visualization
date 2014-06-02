@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Lori Goldston",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Lori Goldston",
-    "target": "Kurt Cobain",
-    "targetId": "683"
-  },
-  {
-    "source": "Lori Goldston",
-    "target": "Krist Novoselic",
-    "targetId": "684"
-  },
-  {
-    "source": "Lori Goldston",
-    "target": "Pat Smear",
-    "targetId": "784"
-  }
-]
+{
+  "source": "Lori Goldston",
+  "targets": [
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Kurt Cobain",
+      "targetId": "683"
+    },
+    {
+      "name": "Krist Novoselic",
+      "targetId": "684"
+    },
+    {
+      "name": "Pat Smear",
+      "targetId": "784"
+    }
+  ]
+}

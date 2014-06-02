@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Brian Allen",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Brian Allen",
-    "target": "Gary Lalonde",
-    "targetId": "10376"
-  },
-  {
-    "source": "Brian Allen",
-    "target": "Scott Kreyer",
-    "targetId": "10377"
-  },
-  {
-    "source": "Brian Allen",
-    "target": "Sheron Alton",
-    "targetId": "10379"
-  },
-  {
-    "source": "Brian Allen",
-    "target": "Holly Woods",
-    "targetId": "10380"
-  }
-]
+{
+  "source": "Brian Allen",
+  "targets": [
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "Gary Lalonde",
+      "targetId": "10376"
+    },
+    {
+      "name": "Scott Kreyer",
+      "targetId": "10377"
+    },
+    {
+      "name": "Sheron Alton",
+      "targetId": "10379"
+    },
+    {
+      "name": "Holly Woods",
+      "targetId": "10380"
+    }
+  ]
+}

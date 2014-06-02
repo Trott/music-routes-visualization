@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Kennedy",
-    "target": "Rick Froberg",
-    "targetId": "5789"
-  },
-  {
-    "source": "Mike Kennedy",
-    "target": "John Reis",
-    "targetId": "5790"
-  },
-  {
-    "source": "Mike Kennedy",
-    "target": "Mark Trombino",
-    "targetId": "5791"
-  }
-]
+{
+  "source": "Mike Kennedy",
+  "targets": [
+    {
+      "name": "Rick Froberg",
+      "targetId": "5789"
+    },
+    {
+      "name": "John Reis",
+      "targetId": "5790"
+    },
+    {
+      "name": "Mark Trombino",
+      "targetId": "5791"
+    }
+  ]
+}

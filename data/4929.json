@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Philip Glass",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Philip Glass",
-    "target": "Allen Ginsberg",
-    "targetId": "2126"
-  },
-  {
-    "source": "Philip Glass",
-    "target": "Marc Ribot",
-    "targetId": "3588"
-  },
-  {
-    "source": "Philip Glass",
-    "target": "David Mansfield",
-    "targetId": "3619"
-  },
-  {
-    "source": "Philip Glass",
-    "target": "Lenny Kaye",
-    "targetId": "4930"
-  }
-]
+{
+  "source": "Philip Glass",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Allen Ginsberg",
+      "targetId": "2126"
+    },
+    {
+      "name": "Marc Ribot",
+      "targetId": "3588"
+    },
+    {
+      "name": "David Mansfield",
+      "targetId": "3619"
+    },
+    {
+      "name": "Lenny Kaye",
+      "targetId": "4930"
+    }
+  ]
+}

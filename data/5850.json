@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Bessie Smith",
-    "target": "Louis Armstrong",
-    "targetId": "1785"
-  },
-  {
-    "source": "Bessie Smith",
-    "target": "Charlie Green",
-    "targetId": "5852"
-  }
-]
+{
+  "source": "Bessie Smith",
+  "targets": [
+    {
+      "name": "Louis Armstrong",
+      "targetId": "1785"
+    },
+    {
+      "name": "Charlie Green",
+      "targetId": "5852"
+    }
+  ]
+}

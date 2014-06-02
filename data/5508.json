@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Fran Battaglia",
-    "target": "Andy Seven",
-    "targetId": "4458"
-  },
-  {
-    "source": "Fran Battaglia",
-    "target": "Rebecca Seven",
-    "targetId": "5506"
-  },
-  {
-    "source": "Fran Battaglia",
-    "target": "Bo Kjaer",
-    "targetId": "5507"
-  }
-]
+{
+  "source": "Fran Battaglia",
+  "targets": [
+    {
+      "name": "Andy Seven",
+      "targetId": "4458"
+    },
+    {
+      "name": "Rebecca Seven",
+      "targetId": "5506"
+    },
+    {
+      "name": "Bo Kjaer",
+      "targetId": "5507"
+    }
+  ]
+}

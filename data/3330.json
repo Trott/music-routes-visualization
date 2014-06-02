@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Curley Sechler",
-    "target": "David Grisman",
-    "targetId": "2115"
-  },
-  {
-    "source": "Curley Sechler",
-    "target": "Doc Watson",
-    "targetId": "3328"
-  }
-]
+{
+  "source": "Curley Sechler",
+  "targets": [
+    {
+      "name": "David Grisman",
+      "targetId": "2115"
+    },
+    {
+      "name": "Doc Watson",
+      "targetId": "3328"
+    }
+  ]
+}

@@ -1,147 +1,121 @@
-[
-  {
-    "source": "Tim Pierce",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Ozzy Osbourne",
-    "targetId": "482"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Abe Laboriel, Jr.",
-    "targetId": "1064"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Slash",
-    "targetId": "1287"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Terry Jackson",
-    "targetId": "1300"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Scott Thunes",
-    "targetId": "1351"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Tricky",
-    "targetId": "1714"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Mark Gemini Thwaite",
-    "targetId": "1715"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Ambersunshower",
-    "targetId": "1716"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Rob Cavallo",
-    "targetId": "1719"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Alanis Morissette",
-    "targetId": "1720"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Stephanie McKay",
-    "targetId": "1721"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Zakk Wylde",
-    "targetId": "4198"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Nuno Bettencourt",
-    "targetId": "4419"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Paul Bushnell",
-    "targetId": "6113"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Bryan Loren",
-    "targetId": "6268"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Jasun Martz",
-    "targetId": "6269"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "John Barnes",
-    "targetId": "6270"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Bill Bottrell",
-    "targetId": "6271"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Brad Buxer",
-    "targetId": "6272"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Avril Lavigne",
-    "targetId": "6292"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Josh Freese",
-    "targetId": "6296"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Greg Suran",
-    "targetId": "6298"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Warren DeMartini",
-    "targetId": "7215"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Mike Keneally",
-    "targetId": "7216"
-  },
-  {
-    "source": "Tim Pierce",
-    "target": "Donny Osmond",
-    "targetId": "7217"
-  }
-]
+{
+  "source": "Tim Pierce",
+  "targets": [
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Ozzy Osbourne",
+      "targetId": "482"
+    },
+    {
+      "name": "Abe Laboriel, Jr.",
+      "targetId": "1064"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Slash",
+      "targetId": "1287"
+    },
+    {
+      "name": "Terry Jackson",
+      "targetId": "1300"
+    },
+    {
+      "name": "Scott Thunes",
+      "targetId": "1351"
+    },
+    {
+      "name": "Tricky",
+      "targetId": "1714"
+    },
+    {
+      "name": "Mark Gemini Thwaite",
+      "targetId": "1715"
+    },
+    {
+      "name": "Ambersunshower",
+      "targetId": "1716"
+    },
+    {
+      "name": "Rob Cavallo",
+      "targetId": "1719"
+    },
+    {
+      "name": "Alanis Morissette",
+      "targetId": "1720"
+    },
+    {
+      "name": "Stephanie McKay",
+      "targetId": "1721"
+    },
+    {
+      "name": "Zakk Wylde",
+      "targetId": "4198"
+    },
+    {
+      "name": "Nuno Bettencourt",
+      "targetId": "4419"
+    },
+    {
+      "name": "Paul Bushnell",
+      "targetId": "6113"
+    },
+    {
+      "name": "Bryan Loren",
+      "targetId": "6268"
+    },
+    {
+      "name": "Jasun Martz",
+      "targetId": "6269"
+    },
+    {
+      "name": "John Barnes",
+      "targetId": "6270"
+    },
+    {
+      "name": "Bill Bottrell",
+      "targetId": "6271"
+    },
+    {
+      "name": "Brad Buxer",
+      "targetId": "6272"
+    },
+    {
+      "name": "Avril Lavigne",
+      "targetId": "6292"
+    },
+    {
+      "name": "Josh Freese",
+      "targetId": "6296"
+    },
+    {
+      "name": "Greg Suran",
+      "targetId": "6298"
+    },
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Warren DeMartini",
+      "targetId": "7215"
+    },
+    {
+      "name": "Mike Keneally",
+      "targetId": "7216"
+    },
+    {
+      "name": "Donny Osmond",
+      "targetId": "7217"
+    }
+  ]
+}

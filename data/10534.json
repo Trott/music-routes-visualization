@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Sherman",
-    "target": "Chris Funk",
-    "targetId": "6377"
-  },
-  {
-    "source": "John Sherman",
-    "target": "Anita Robinson",
-    "targetId": "6381"
-  },
-  {
-    "source": "John Sherman",
-    "target": "Jenny Conlee",
-    "targetId": "6441"
-  },
-  {
-    "source": "John Sherman",
-    "target": "Maurice Bryan Giles",
-    "targetId": "10531"
-  },
-  {
-    "source": "John Sherman",
-    "target": "Aaron Beam",
-    "targetId": "10532"
-  },
-  {
-    "source": "John Sherman",
-    "target": "David Sullivan",
-    "targetId": "10533"
-  },
-  {
-    "source": "John Sherman",
-    "target": "Kevin Robinson",
-    "targetId": "10535"
-  }
-]
+{
+  "source": "John Sherman",
+  "targets": [
+    {
+      "name": "Chris Funk",
+      "targetId": "6377"
+    },
+    {
+      "name": "Anita Robinson",
+      "targetId": "6381"
+    },
+    {
+      "name": "Jenny Conlee",
+      "targetId": "6441"
+    },
+    {
+      "name": "Maurice Bryan Giles",
+      "targetId": "10531"
+    },
+    {
+      "name": "Aaron Beam",
+      "targetId": "10532"
+    },
+    {
+      "name": "David Sullivan",
+      "targetId": "10533"
+    },
+    {
+      "name": "Kevin Robinson",
+      "targetId": "10535"
+    }
+  ]
+}

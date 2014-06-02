@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Sam Brown",
-    "target": "Chris Jagger",
-    "targetId": "3000"
-  },
-  {
-    "source": "Sam Brown",
-    "target": "Charlie Hart",
-    "targetId": "3001"
-  },
-  {
-    "source": "Sam Brown",
-    "target": "Paul Emile",
-    "targetId": "3002"
-  },
-  {
-    "source": "Sam Brown",
-    "target": "Malcolm Mortimore",
-    "targetId": "3003"
-  },
-  {
-    "source": "Sam Brown",
-    "target": "Jim Mortimore",
-    "targetId": "3004"
-  }
-]
+{
+  "source": "Sam Brown",
+  "targets": [
+    {
+      "name": "Chris Jagger",
+      "targetId": "3000"
+    },
+    {
+      "name": "Charlie Hart",
+      "targetId": "3001"
+    },
+    {
+      "name": "Paul Emile",
+      "targetId": "3002"
+    },
+    {
+      "name": "Malcolm Mortimore",
+      "targetId": "3003"
+    },
+    {
+      "name": "Jim Mortimore",
+      "targetId": "3004"
+    }
+  ]
+}

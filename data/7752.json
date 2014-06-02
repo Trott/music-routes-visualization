@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Steven Roback",
-    "target": "Kendra Smith",
-    "targetId": "3518"
-  },
-  {
-    "source": "Steven Roback",
-    "target": "David Roback",
-    "targetId": "7745"
-  },
-  {
-    "source": "Steven Roback",
-    "target": "Will Glenn",
-    "targetId": "7748"
-  }
-]
+{
+  "source": "Steven Roback",
+  "targets": [
+    {
+      "name": "Kendra Smith",
+      "targetId": "3518"
+    },
+    {
+      "name": "David Roback",
+      "targetId": "7745"
+    },
+    {
+      "name": "Will Glenn",
+      "targetId": "7748"
+    }
+  ]
+}

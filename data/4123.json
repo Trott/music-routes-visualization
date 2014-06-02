@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Matt Pike",
-    "target": "Joe Preston",
-    "targetId": "4121"
-  },
-  {
-    "source": "Matt Pike",
-    "target": "Des Kensel",
-    "targetId": "4122"
-  },
-  {
-    "source": "Matt Pike",
-    "target": "Al Cisneros",
-    "targetId": "4124"
-  },
-  {
-    "source": "Matt Pike",
-    "target": "Chris Hakius",
-    "targetId": "4125"
-  }
-]
+{
+  "source": "Matt Pike",
+  "targets": [
+    {
+      "name": "Joe Preston",
+      "targetId": "4121"
+    },
+    {
+      "name": "Des Kensel",
+      "targetId": "4122"
+    },
+    {
+      "name": "Al Cisneros",
+      "targetId": "4124"
+    },
+    {
+      "name": "Chris Hakius",
+      "targetId": "4125"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jason Everman",
-    "target": "Matt Cameron",
-    "targetId": "337"
-  },
-  {
-    "source": "Jason Everman",
-    "target": "Kurt Cobain",
-    "targetId": "683"
-  },
-  {
-    "source": "Jason Everman",
-    "target": "Krist Novoselic",
-    "targetId": "684"
-  },
-  {
-    "source": "Jason Everman",
-    "target": "Chris Cornell",
-    "targetId": "2019"
-  },
-  {
-    "source": "Jason Everman",
-    "target": "Kim Thayil",
-    "targetId": "2020"
-  },
-  {
-    "source": "Jason Everman",
-    "target": "Chad Channing",
-    "targetId": "2022"
-  }
-]
+{
+  "source": "Jason Everman",
+  "targets": [
+    {
+      "name": "Matt Cameron",
+      "targetId": "337"
+    },
+    {
+      "name": "Kurt Cobain",
+      "targetId": "683"
+    },
+    {
+      "name": "Krist Novoselic",
+      "targetId": "684"
+    },
+    {
+      "name": "Chris Cornell",
+      "targetId": "2019"
+    },
+    {
+      "name": "Kim Thayil",
+      "targetId": "2020"
+    },
+    {
+      "name": "Chad Channing",
+      "targetId": "2022"
+    }
+  ]
+}

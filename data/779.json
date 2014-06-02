@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Mark Lanegan",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "J Mascis",
-    "targetId": "737"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Petra Haden",
-    "targetId": "774"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Brock Avery",
-    "targetId": "777"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Todd Rigione",
-    "targetId": "778"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Greg Dulli",
-    "targetId": "1641"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Jon Skibic",
-    "targetId": "1642"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Scott Ford",
-    "targetId": "1644"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Michael Sullivan",
-    "targetId": "1649"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Hoss",
-    "targetId": "1650"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Jesse Tobias",
-    "targetId": "1651"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Richard Ford",
-    "targetId": "1654"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Rick Steff",
-    "targetId": "1655"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Bobby MacIntyre",
-    "targetId": "1661"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Josh Homme",
-    "targetId": "1847"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Troy Van Leeuwen",
-    "targetId": "1848"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Joey Castillo",
-    "targetId": "1851"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Nick Oliveri",
-    "targetId": "1852"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Alain Johannes",
-    "targetId": "1853"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Natasha Shneider",
-    "targetId": "1854"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Dean Ween",
-    "targetId": "1855"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Paz Lenchantin",
-    "targetId": "1856"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Anna Lenchantin",
-    "targetId": "1857"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Molly McGuire",
-    "targetId": "1858"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Brendon McNichol",
-    "targetId": "1859"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "John Gove",
-    "targetId": "1860"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Kevin Porter",
-    "targetId": "1861"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Brad Kintscher",
-    "targetId": "1862"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Billy Gibbons",
-    "targetId": "2118"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "John Nooney",
-    "targetId": "3563"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Dave Hills",
-    "targetId": "3564"
-  },
-  {
-    "source": "Mark Lanegan",
-    "target": "Helen Storer",
-    "targetId": "3565"
-  }
-]
+{
+  "source": "Mark Lanegan",
+  "targets": [
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "J Mascis",
+      "targetId": "737"
+    },
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Petra Haden",
+      "targetId": "774"
+    },
+    {
+      "name": "Brock Avery",
+      "targetId": "777"
+    },
+    {
+      "name": "Todd Rigione",
+      "targetId": "778"
+    },
+    {
+      "name": "Greg Dulli",
+      "targetId": "1641"
+    },
+    {
+      "name": "Jon Skibic",
+      "targetId": "1642"
+    },
+    {
+      "name": "Scott Ford",
+      "targetId": "1644"
+    },
+    {
+      "name": "Michael Sullivan",
+      "targetId": "1649"
+    },
+    {
+      "name": "Hoss",
+      "targetId": "1650"
+    },
+    {
+      "name": "Jesse Tobias",
+      "targetId": "1651"
+    },
+    {
+      "name": "Richard Ford",
+      "targetId": "1654"
+    },
+    {
+      "name": "Rick Steff",
+      "targetId": "1655"
+    },
+    {
+      "name": "Bobby MacIntyre",
+      "targetId": "1661"
+    },
+    {
+      "name": "Josh Homme",
+      "targetId": "1847"
+    },
+    {
+      "name": "Troy Van Leeuwen",
+      "targetId": "1848"
+    },
+    {
+      "name": "Joey Castillo",
+      "targetId": "1851"
+    },
+    {
+      "name": "Nick Oliveri",
+      "targetId": "1852"
+    },
+    {
+      "name": "Alain Johannes",
+      "targetId": "1853"
+    },
+    {
+      "name": "Natasha Shneider",
+      "targetId": "1854"
+    },
+    {
+      "name": "Dean Ween",
+      "targetId": "1855"
+    },
+    {
+      "name": "Paz Lenchantin",
+      "targetId": "1856"
+    },
+    {
+      "name": "Anna Lenchantin",
+      "targetId": "1857"
+    },
+    {
+      "name": "Molly McGuire",
+      "targetId": "1858"
+    },
+    {
+      "name": "Brendon McNichol",
+      "targetId": "1859"
+    },
+    {
+      "name": "John Gove",
+      "targetId": "1860"
+    },
+    {
+      "name": "Kevin Porter",
+      "targetId": "1861"
+    },
+    {
+      "name": "Brad Kintscher",
+      "targetId": "1862"
+    },
+    {
+      "name": "Billy Gibbons",
+      "targetId": "2118"
+    },
+    {
+      "name": "John Nooney",
+      "targetId": "3563"
+    },
+    {
+      "name": "Dave Hills",
+      "targetId": "3564"
+    },
+    {
+      "name": "Helen Storer",
+      "targetId": "3565"
+    }
+  ]
+}

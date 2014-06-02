@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Josh Klinghoffer",
-    "target": "Flea",
-    "targetId": "553"
-  },
-  {
-    "source": "Josh Klinghoffer",
-    "target": "Tricky",
-    "targetId": "1714"
-  },
-  {
-    "source": "Josh Klinghoffer",
-    "target": "John Frusciante",
-    "targetId": "1726"
-  },
-  {
-    "source": "Josh Klinghoffer",
-    "target": "Omar Rodriguez-Lopez",
-    "targetId": "4136"
-  },
-  {
-    "source": "Josh Klinghoffer",
-    "target": "PJ Harvey",
-    "targetId": "5676"
-  },
-  {
-    "source": "Josh Klinghoffer",
-    "target": "Joe Lally",
-    "targetId": "5677"
-  }
-]
+{
+  "source": "Josh Klinghoffer",
+  "targets": [
+    {
+      "name": "Flea",
+      "targetId": "553"
+    },
+    {
+      "name": "Tricky",
+      "targetId": "1714"
+    },
+    {
+      "name": "John Frusciante",
+      "targetId": "1726"
+    },
+    {
+      "name": "Omar Rodriguez-Lopez",
+      "targetId": "4136"
+    },
+    {
+      "name": "PJ Harvey",
+      "targetId": "5676"
+    },
+    {
+      "name": "Joe Lally",
+      "targetId": "5677"
+    }
+  ]
+}

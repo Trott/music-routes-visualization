@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Rod Argent",
-    "target": "Russ Ballard",
-    "targetId": "317"
-  },
-  {
-    "source": "Rod Argent",
-    "target": "Colin Blunstone",
-    "targetId": "4518"
-  },
-  {
-    "source": "Rod Argent",
-    "target": "Paul Atkinson",
-    "targetId": "4520"
-  },
-  {
-    "source": "Rod Argent",
-    "target": "Hugh Grundy",
-    "targetId": "4521"
-  },
-  {
-    "source": "Rod Argent",
-    "target": "Chris White",
-    "targetId": "4522"
-  },
-  {
-    "source": "Rod Argent",
-    "target": "Bob Henrit",
-    "targetId": "4523"
-  },
-  {
-    "source": "Rod Argent",
-    "target": "Jim Rodford",
-    "targetId": "4524"
-  }
-]
+{
+  "source": "Rod Argent",
+  "targets": [
+    {
+      "name": "Russ Ballard",
+      "targetId": "317"
+    },
+    {
+      "name": "Colin Blunstone",
+      "targetId": "4518"
+    },
+    {
+      "name": "Paul Atkinson",
+      "targetId": "4520"
+    },
+    {
+      "name": "Hugh Grundy",
+      "targetId": "4521"
+    },
+    {
+      "name": "Chris White",
+      "targetId": "4522"
+    },
+    {
+      "name": "Bob Henrit",
+      "targetId": "4523"
+    },
+    {
+      "name": "Jim Rodford",
+      "targetId": "4524"
+    }
+  ]
+}

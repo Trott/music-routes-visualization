@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Harriet Wheeler",
-    "target": "Lindsay Jamieson",
-    "targetId": "205"
-  },
-  {
-    "source": "Harriet Wheeler",
-    "target": "David Gavurin",
-    "targetId": "7225"
-  },
-  {
-    "source": "Harriet Wheeler",
-    "target": "Paul Brindley",
-    "targetId": "7226"
-  },
-  {
-    "source": "Harriet Wheeler",
-    "target": "Patrick Hannan",
-    "targetId": "7227"
-  }
-]
+{
+  "source": "Harriet Wheeler",
+  "targets": [
+    {
+      "name": "Lindsay Jamieson",
+      "targetId": "205"
+    },
+    {
+      "name": "David Gavurin",
+      "targetId": "7225"
+    },
+    {
+      "name": "Paul Brindley",
+      "targetId": "7226"
+    },
+    {
+      "name": "Patrick Hannan",
+      "targetId": "7227"
+    }
+  ]
+}

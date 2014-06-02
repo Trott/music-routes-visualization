@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Stevie Blackie",
-    "target": "Justin Timberlake",
-    "targetId": "4041"
-  },
-  {
-    "source": "Stevie Blackie",
-    "target": "Rihanna",
-    "targetId": "5908"
-  },
-  {
-    "source": "Stevie Blackie",
-    "target": "Hannon Lane",
-    "targetId": "5909"
-  }
-]
+{
+  "source": "Stevie Blackie",
+  "targets": [
+    {
+      "name": "Justin Timberlake",
+      "targetId": "4041"
+    },
+    {
+      "name": "Rihanna",
+      "targetId": "5908"
+    },
+    {
+      "name": "Hannon Lane",
+      "targetId": "5909"
+    }
+  ]
+}

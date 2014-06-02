@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Joe Lala",
-    "target": "Alan Kendall",
-    "targetId": "488"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Dave Mason",
-    "targetId": "635"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Don Felder",
-    "targetId": "668"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Robin Gibb",
-    "targetId": "1279"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Barry Gibb",
-    "targetId": "2382"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Maurice Gibb",
-    "targetId": "2383"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Blue Weaver",
-    "targetId": "2384"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Dennis Bryon",
-    "targetId": "2386"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "George Hawkins",
-    "targetId": "2511"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Tris Imboden",
-    "targetId": "2512"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "James Pankow",
-    "targetId": "2513"
-  },
-  {
-    "source": "Joe Lala",
-    "target": "Lee Loughnane",
-    "targetId": "2514"
-  }
-]
+{
+  "source": "Joe Lala",
+  "targets": [
+    {
+      "name": "Alan Kendall",
+      "targetId": "488"
+    },
+    {
+      "name": "Dave Mason",
+      "targetId": "635"
+    },
+    {
+      "name": "Don Felder",
+      "targetId": "668"
+    },
+    {
+      "name": "Robin Gibb",
+      "targetId": "1279"
+    },
+    {
+      "name": "Barry Gibb",
+      "targetId": "2382"
+    },
+    {
+      "name": "Maurice Gibb",
+      "targetId": "2383"
+    },
+    {
+      "name": "Blue Weaver",
+      "targetId": "2384"
+    },
+    {
+      "name": "Dennis Bryon",
+      "targetId": "2386"
+    },
+    {
+      "name": "George Hawkins",
+      "targetId": "2511"
+    },
+    {
+      "name": "Tris Imboden",
+      "targetId": "2512"
+    },
+    {
+      "name": "James Pankow",
+      "targetId": "2513"
+    },
+    {
+      "name": "Lee Loughnane",
+      "targetId": "2514"
+    }
+  ]
+}

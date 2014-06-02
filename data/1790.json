@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Shirley Jones",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Shirley Jones",
-    "target": "Pert Kelton",
-    "targetId": "7414"
-  },
-  {
-    "source": "Shirley Jones",
-    "target": "Al Shea",
-    "targetId": "7415"
-  },
-  {
-    "source": "Shirley Jones",
-    "target": "Vern Reed",
-    "targetId": "7416"
-  },
-  {
-    "source": "Shirley Jones",
-    "target": "Robert Preston",
-    "targetId": "7417"
-  }
-]
+{
+  "source": "Shirley Jones",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Pert Kelton",
+      "targetId": "7414"
+    },
+    {
+      "name": "Al Shea",
+      "targetId": "7415"
+    },
+    {
+      "name": "Vern Reed",
+      "targetId": "7416"
+    },
+    {
+      "name": "Robert Preston",
+      "targetId": "7417"
+    }
+  ]
+}

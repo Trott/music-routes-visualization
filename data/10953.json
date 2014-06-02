@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Johnny Hentch",
-    "target": "James Diamond",
-    "targetId": "10950"
-  },
-  {
-    "source": "Johnny Hentch",
-    "target": "Thomas Potter",
-    "targetId": "10951"
-  },
-  {
-    "source": "Johnny Hentch",
-    "target": "Mike Alonso",
-    "targetId": "10952"
-  },
-  {
-    "source": "Johnny Hentch",
-    "target": "Dave Buck",
-    "targetId": "10954"
-  },
-  {
-    "source": "Johnny Hentch",
-    "target": "Greg Simensz",
-    "targetId": "10955"
-  }
-]
+{
+  "source": "Johnny Hentch",
+  "targets": [
+    {
+      "name": "James Diamond",
+      "targetId": "10950"
+    },
+    {
+      "name": "Thomas Potter",
+      "targetId": "10951"
+    },
+    {
+      "name": "Mike Alonso",
+      "targetId": "10952"
+    },
+    {
+      "name": "Dave Buck",
+      "targetId": "10954"
+    },
+    {
+      "name": "Greg Simensz",
+      "targetId": "10955"
+    }
+  ]
+}

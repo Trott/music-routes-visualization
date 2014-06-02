@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Trey Gunn",
-    "target": "Adrian Belew",
-    "targetId": "184"
-  },
-  {
-    "source": "Trey Gunn",
-    "target": "Tony Levin",
-    "targetId": "269"
-  },
-  {
-    "source": "Trey Gunn",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Trey Gunn",
-    "target": "Bill Bruford",
-    "targetId": "340"
-  },
-  {
-    "source": "Trey Gunn",
-    "target": "Pat Mastelotto",
-    "targetId": "525"
-  },
-  {
-    "source": "Trey Gunn",
-    "target": "Bill Rieflin",
-    "targetId": "889"
-  }
-]
+{
+  "source": "Trey Gunn",
+  "targets": [
+    {
+      "name": "Adrian Belew",
+      "targetId": "184"
+    },
+    {
+      "name": "Tony Levin",
+      "targetId": "269"
+    },
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Bill Bruford",
+      "targetId": "340"
+    },
+    {
+      "name": "Pat Mastelotto",
+      "targetId": "525"
+    },
+    {
+      "name": "Bill Rieflin",
+      "targetId": "889"
+    }
+  ]
+}

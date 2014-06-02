@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Charlie Sepulveda",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Charlie Sepulveda",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Charlie Sepulveda",
-    "target": "Mark Feldman",
-    "targetId": "9513"
-  }
-]
+{
+  "source": "Charlie Sepulveda",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Mark Feldman",
+      "targetId": "9513"
+    }
+  ]
+}

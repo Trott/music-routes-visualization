@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Greg Hawkes",
-    "target": "David Robinson",
-    "targetId": "954"
-  },
-  {
-    "source": "Greg Hawkes",
-    "target": "Elliot Easton",
-    "targetId": "957"
-  },
-  {
-    "source": "Greg Hawkes",
-    "target": "Ric Ocasek",
-    "targetId": "959"
-  },
-  {
-    "source": "Greg Hawkes",
-    "target": "Benjamin Orr",
-    "targetId": "960"
-  }
-]
+{
+  "source": "Greg Hawkes",
+  "targets": [
+    {
+      "name": "David Robinson",
+      "targetId": "954"
+    },
+    {
+      "name": "Elliot Easton",
+      "targetId": "957"
+    },
+    {
+      "name": "Ric Ocasek",
+      "targetId": "959"
+    },
+    {
+      "name": "Benjamin Orr",
+      "targetId": "960"
+    }
+  ]
+}

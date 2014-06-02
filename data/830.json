@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Eric Sarafin",
-    "target": "Juan Nelson",
-    "targetId": "825"
-  },
-  {
-    "source": "Eric Sarafin",
-    "target": "Dean Butterworth",
-    "targetId": "826"
-  },
-  {
-    "source": "Eric Sarafin",
-    "target": "David Leach",
-    "targetId": "827"
-  },
-  {
-    "source": "Eric Sarafin",
-    "target": "Ben Harper",
-    "targetId": "828"
-  }
-]
+{
+  "source": "Eric Sarafin",
+  "targets": [
+    {
+      "name": "Juan Nelson",
+      "targetId": "825"
+    },
+    {
+      "name": "Dean Butterworth",
+      "targetId": "826"
+    },
+    {
+      "name": "David Leach",
+      "targetId": "827"
+    },
+    {
+      "name": "Ben Harper",
+      "targetId": "828"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jacob Slichter",
-    "target": "Dan Wilson",
-    "targetId": "187"
-  },
-  {
-    "source": "Jacob Slichter",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Jacob Slichter",
-    "target": "Sean Watkins",
-    "targetId": "5820"
-  },
-  {
-    "source": "Jacob Slichter",
-    "target": "Joe Savage",
-    "targetId": "5821"
-  },
-  {
-    "source": "Jacob Slichter",
-    "target": "Amy Jennings",
-    "targetId": "5822"
-  }
-]
+{
+  "source": "Jacob Slichter",
+  "targets": [
+    {
+      "name": "Dan Wilson",
+      "targetId": "187"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Sean Watkins",
+      "targetId": "5820"
+    },
+    {
+      "name": "Joe Savage",
+      "targetId": "5821"
+    },
+    {
+      "name": "Amy Jennings",
+      "targetId": "5822"
+    }
+  ]
+}

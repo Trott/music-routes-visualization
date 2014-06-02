@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Chuck Billy",
-    "target": "Dave Lombardo",
-    "targetId": "1456"
-  },
-  {
-    "source": "Chuck Billy",
-    "target": "James Murphy",
-    "targetId": "2155"
-  },
-  {
-    "source": "Chuck Billy",
-    "target": "Eric Peterson",
-    "targetId": "2157"
-  },
-  {
-    "source": "Chuck Billy",
-    "target": "Steve DiGiorgio",
-    "targetId": "2158"
-  }
-]
+{
+  "source": "Chuck Billy",
+  "targets": [
+    {
+      "name": "Dave Lombardo",
+      "targetId": "1456"
+    },
+    {
+      "name": "James Murphy",
+      "targetId": "2155"
+    },
+    {
+      "name": "Eric Peterson",
+      "targetId": "2157"
+    },
+    {
+      "name": "Steve DiGiorgio",
+      "targetId": "2158"
+    }
+  ]
+}

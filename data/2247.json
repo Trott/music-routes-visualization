@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Bruce Otto",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Carmen Twillie",
-    "targetId": "282"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Steve Madaio",
-    "targetId": "412"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Yvonne Williams",
-    "targetId": "426"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Mike Melvoin",
-    "targetId": "1527"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Richard Dodd",
-    "targetId": "1660"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Leah Katz",
-    "targetId": "1662"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Daphne Chen",
-    "targetId": "1663"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Eric Gorfain",
-    "targetId": "1664"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Charles Davis",
-    "targetId": "2226"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Tim Presley",
-    "targetId": "2241"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Rob Barbato",
-    "targetId": "2242"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Will Canzoneri",
-    "targetId": "2243"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Jared Everett",
-    "targetId": "2244"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Andy Granelli",
-    "targetId": "2245"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Stephanie O'Keefe",
-    "targetId": "2246"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Clydene Jackson",
-    "targetId": "2349"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Dick Hyde",
-    "targetId": "3414"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Myrna Matthews",
-    "targetId": "3553"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Pete Christlieb",
-    "targetId": "4224"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Pat Boone",
-    "targetId": "4504"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Dave Siebels",
-    "targetId": "4505"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Andy Simpkins",
-    "targetId": "4506"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Gregg Bissonette",
-    "targetId": "4507"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Mitch Holder",
-    "targetId": "4508"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Frank Szabo",
-    "targetId": "4509"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Chris Tedesco",
-    "targetId": "4510"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Lew McCreary",
-    "targetId": "4511"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Dana Hughes",
-    "targetId": "4512"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Don Menza",
-    "targetId": "4513"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Joel Peskin",
-    "targetId": "4514"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Mona Lisa Young",
-    "targetId": "4515"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Maxie Anderson",
-    "targetId": "4516"
-  },
-  {
-    "source": "Bruce Otto",
-    "target": "Alfie Silas",
-    "targetId": "4517"
-  }
-]
+{
+  "source": "Bruce Otto",
+  "targets": [
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Carmen Twillie",
+      "targetId": "282"
+    },
+    {
+      "name": "Steve Madaio",
+      "targetId": "412"
+    },
+    {
+      "name": "Yvonne Williams",
+      "targetId": "426"
+    },
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Mike Melvoin",
+      "targetId": "1527"
+    },
+    {
+      "name": "Richard Dodd",
+      "targetId": "1660"
+    },
+    {
+      "name": "Leah Katz",
+      "targetId": "1662"
+    },
+    {
+      "name": "Daphne Chen",
+      "targetId": "1663"
+    },
+    {
+      "name": "Eric Gorfain",
+      "targetId": "1664"
+    },
+    {
+      "name": "Charles Davis",
+      "targetId": "2226"
+    },
+    {
+      "name": "Tim Presley",
+      "targetId": "2241"
+    },
+    {
+      "name": "Rob Barbato",
+      "targetId": "2242"
+    },
+    {
+      "name": "Will Canzoneri",
+      "targetId": "2243"
+    },
+    {
+      "name": "Jared Everett",
+      "targetId": "2244"
+    },
+    {
+      "name": "Andy Granelli",
+      "targetId": "2245"
+    },
+    {
+      "name": "Stephanie O'Keefe",
+      "targetId": "2246"
+    },
+    {
+      "name": "Clydene Jackson",
+      "targetId": "2349"
+    },
+    {
+      "name": "Dick Hyde",
+      "targetId": "3414"
+    },
+    {
+      "name": "Myrna Matthews",
+      "targetId": "3553"
+    },
+    {
+      "name": "Pete Christlieb",
+      "targetId": "4224"
+    },
+    {
+      "name": "Pat Boone",
+      "targetId": "4504"
+    },
+    {
+      "name": "Dave Siebels",
+      "targetId": "4505"
+    },
+    {
+      "name": "Andy Simpkins",
+      "targetId": "4506"
+    },
+    {
+      "name": "Gregg Bissonette",
+      "targetId": "4507"
+    },
+    {
+      "name": "Mitch Holder",
+      "targetId": "4508"
+    },
+    {
+      "name": "Frank Szabo",
+      "targetId": "4509"
+    },
+    {
+      "name": "Chris Tedesco",
+      "targetId": "4510"
+    },
+    {
+      "name": "Lew McCreary",
+      "targetId": "4511"
+    },
+    {
+      "name": "Dana Hughes",
+      "targetId": "4512"
+    },
+    {
+      "name": "Don Menza",
+      "targetId": "4513"
+    },
+    {
+      "name": "Joel Peskin",
+      "targetId": "4514"
+    },
+    {
+      "name": "Mona Lisa Young",
+      "targetId": "4515"
+    },
+    {
+      "name": "Maxie Anderson",
+      "targetId": "4516"
+    },
+    {
+      "name": "Alfie Silas",
+      "targetId": "4517"
+    }
+  ]
+}

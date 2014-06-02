@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Marty Friedman",
-    "target": "Dave Mustaine",
-    "targetId": "1362"
-  },
-  {
-    "source": "Marty Friedman",
-    "target": "David Ellefson",
-    "targetId": "1365"
-  },
-  {
-    "source": "Marty Friedman",
-    "target": "Nick Menza",
-    "targetId": "1367"
-  },
-  {
-    "source": "Marty Friedman",
-    "target": "Ted Kirkpatrick",
-    "targetId": "2033"
-  },
-  {
-    "source": "Marty Friedman",
-    "target": "Luke Easter",
-    "targetId": "2034"
-  },
-  {
-    "source": "Marty Friedman",
-    "target": "Steve Andino",
-    "targetId": "2035"
-  }
-]
+{
+  "source": "Marty Friedman",
+  "targets": [
+    {
+      "name": "Dave Mustaine",
+      "targetId": "1362"
+    },
+    {
+      "name": "David Ellefson",
+      "targetId": "1365"
+    },
+    {
+      "name": "Nick Menza",
+      "targetId": "1367"
+    },
+    {
+      "name": "Ted Kirkpatrick",
+      "targetId": "2033"
+    },
+    {
+      "name": "Luke Easter",
+      "targetId": "2034"
+    },
+    {
+      "name": "Steve Andino",
+      "targetId": "2035"
+    }
+  ]
+}

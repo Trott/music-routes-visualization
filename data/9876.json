@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Kix Brooks",
-    "target": "Billy Gibbons",
-    "targetId": "2118"
-  },
-  {
-    "source": "Kix Brooks",
-    "target": "Ronnie Dunn",
-    "targetId": "6257"
-  }
-]
+{
+  "source": "Kix Brooks",
+  "targets": [
+    {
+      "name": "Billy Gibbons",
+      "targetId": "2118"
+    },
+    {
+      "name": "Ronnie Dunn",
+      "targetId": "6257"
+    }
+  ]
+}

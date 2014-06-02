@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Wilkinson",
-    "target": "Elvis Presley",
-    "targetId": "1"
-  },
-  {
-    "source": "John Wilkinson",
-    "target": "Jerry Scheff",
-    "targetId": "287"
-  },
-  {
-    "source": "John Wilkinson",
-    "target": "James Burton",
-    "targetId": "452"
-  },
-  {
-    "source": "John Wilkinson",
-    "target": "Ronnie Tutt",
-    "targetId": "454"
-  },
-  {
-    "source": "John Wilkinson",
-    "target": "Glen D. Hardin",
-    "targetId": "455"
-  }
-]
+{
+  "source": "John Wilkinson",
+  "targets": [
+    {
+      "name": "Elvis Presley",
+      "targetId": "1"
+    },
+    {
+      "name": "Jerry Scheff",
+      "targetId": "287"
+    },
+    {
+      "name": "James Burton",
+      "targetId": "452"
+    },
+    {
+      "name": "Ronnie Tutt",
+      "targetId": "454"
+    },
+    {
+      "name": "Glen D. Hardin",
+      "targetId": "455"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ernie Wise",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Ernie Wise",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Ernie Wise",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Ernie Wise",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Ernie Wise",
-    "target": "Eric Morecambe",
-    "targetId": "10238"
-  },
-  {
-    "source": "Ernie Wise",
-    "target": "Kenny Powell",
-    "targetId": "10240"
-  }
-]
+{
+  "source": "Ernie Wise",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Eric Morecambe",
+      "targetId": "10238"
+    },
+    {
+      "name": "Kenny Powell",
+      "targetId": "10240"
+    }
+  ]
+}

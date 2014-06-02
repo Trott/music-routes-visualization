@@ -1,177 +1,145 @@
-[
-  {
-    "source": "William Smith",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "William Smith",
-    "target": "Bruce Willis",
-    "targetId": "1382"
-  },
-  {
-    "source": "William Smith",
-    "target": "Greg Smith",
-    "targetId": "1383"
-  },
-  {
-    "source": "William Smith",
-    "target": "Beverly Dahike-Smith",
-    "targetId": "1384"
-  },
-  {
-    "source": "William Smith",
-    "target": "Robben Ford",
-    "targetId": "1385"
-  },
-  {
-    "source": "William Smith",
-    "target": "Garrett Adkins",
-    "targetId": "1386"
-  },
-  {
-    "source": "William Smith",
-    "target": "John Thomas",
-    "targetId": "1387"
-  },
-  {
-    "source": "William Smith",
-    "target": "Roscoe Beck",
-    "targetId": "1388"
-  },
-  {
-    "source": "William Smith",
-    "target": "Tom Brechtlein",
-    "targetId": "1389"
-  },
-  {
-    "source": "William Smith",
-    "target": "David Grissom",
-    "targetId": "1390"
-  },
-  {
-    "source": "William Smith",
-    "target": "Joe Sublett",
-    "targetId": "1392"
-  },
-  {
-    "source": "William Smith",
-    "target": "Darrel Leonard",
-    "targetId": "1393"
-  },
-  {
-    "source": "William Smith",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "William Smith",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "William Smith",
-    "target": "Gary Herbig",
-    "targetId": "1396"
-  },
-  {
-    "source": "William Smith",
-    "target": "Marc Russo",
-    "targetId": "1397"
-  },
-  {
-    "source": "William Smith",
-    "target": "Willie T. Green",
-    "targetId": "1398"
-  },
-  {
-    "source": "William Smith",
-    "target": "Terry Evans",
-    "targetId": "1399"
-  },
-  {
-    "source": "William Smith",
-    "target": "Bobby King",
-    "targetId": "1400"
-  },
-  {
-    "source": "William Smith",
-    "target": "Julia Waters",
-    "targetId": "1401"
-  },
-  {
-    "source": "William Smith",
-    "target": "Maxine Waters",
-    "targetId": "1402"
-  },
-  {
-    "source": "William Smith",
-    "target": "Merry Clayton",
-    "targetId": "1403"
-  },
-  {
-    "source": "William Smith",
-    "target": "Oren Waters",
-    "targetId": "1404"
-  },
-  {
-    "source": "William Smith",
-    "target": "Dave Chamberlain",
-    "targetId": "1405"
-  },
-  {
-    "source": "William Smith",
-    "target": "Marty Fera",
-    "targetId": "1406"
-  },
-  {
-    "source": "William Smith",
-    "target": "Buzzy Feiten",
-    "targetId": "1407"
-  },
-  {
-    "source": "William Smith",
-    "target": "Danny Grenier",
-    "targetId": "1408"
-  },
-  {
-    "source": "William Smith",
-    "target": "Steve Thoma",
-    "targetId": "1409"
-  },
-  {
-    "source": "William Smith",
-    "target": "Chris Mostert",
-    "targetId": "1410"
-  },
-  {
-    "source": "William Smith",
-    "target": "Robert Kraft",
-    "targetId": "1411"
-  },
-  {
-    "source": "William Smith",
-    "target": "John Berry",
-    "targetId": "1412"
-  },
-  {
-    "source": "William Smith",
-    "target": "Johnny Winter",
-    "targetId": "1413"
-  },
-  {
-    "source": "William Smith",
-    "target": "Russell Ferrante",
-    "targetId": "1414"
-  },
-  {
-    "source": "William Smith",
-    "target": "Edgar Winter",
-    "targetId": "1423"
-  },
-  {
-    "source": "William Smith",
-    "target": "Demi Moore",
-    "targetId": "1424"
-  }
-]
+{
+  "source": "William Smith",
+  "targets": [
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Bruce Willis",
+      "targetId": "1382"
+    },
+    {
+      "name": "Greg Smith",
+      "targetId": "1383"
+    },
+    {
+      "name": "Beverly Dahike-Smith",
+      "targetId": "1384"
+    },
+    {
+      "name": "Robben Ford",
+      "targetId": "1385"
+    },
+    {
+      "name": "Garrett Adkins",
+      "targetId": "1386"
+    },
+    {
+      "name": "John Thomas",
+      "targetId": "1387"
+    },
+    {
+      "name": "Roscoe Beck",
+      "targetId": "1388"
+    },
+    {
+      "name": "Tom Brechtlein",
+      "targetId": "1389"
+    },
+    {
+      "name": "David Grissom",
+      "targetId": "1390"
+    },
+    {
+      "name": "Joe Sublett",
+      "targetId": "1392"
+    },
+    {
+      "name": "Darrel Leonard",
+      "targetId": "1393"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Gary Herbig",
+      "targetId": "1396"
+    },
+    {
+      "name": "Marc Russo",
+      "targetId": "1397"
+    },
+    {
+      "name": "Willie T. Green",
+      "targetId": "1398"
+    },
+    {
+      "name": "Terry Evans",
+      "targetId": "1399"
+    },
+    {
+      "name": "Bobby King",
+      "targetId": "1400"
+    },
+    {
+      "name": "Julia Waters",
+      "targetId": "1401"
+    },
+    {
+      "name": "Maxine Waters",
+      "targetId": "1402"
+    },
+    {
+      "name": "Merry Clayton",
+      "targetId": "1403"
+    },
+    {
+      "name": "Oren Waters",
+      "targetId": "1404"
+    },
+    {
+      "name": "Dave Chamberlain",
+      "targetId": "1405"
+    },
+    {
+      "name": "Marty Fera",
+      "targetId": "1406"
+    },
+    {
+      "name": "Buzzy Feiten",
+      "targetId": "1407"
+    },
+    {
+      "name": "Danny Grenier",
+      "targetId": "1408"
+    },
+    {
+      "name": "Steve Thoma",
+      "targetId": "1409"
+    },
+    {
+      "name": "Chris Mostert",
+      "targetId": "1410"
+    },
+    {
+      "name": "Robert Kraft",
+      "targetId": "1411"
+    },
+    {
+      "name": "John Berry",
+      "targetId": "1412"
+    },
+    {
+      "name": "Johnny Winter",
+      "targetId": "1413"
+    },
+    {
+      "name": "Russell Ferrante",
+      "targetId": "1414"
+    },
+    {
+      "name": "Edgar Winter",
+      "targetId": "1423"
+    },
+    {
+      "name": "Demi Moore",
+      "targetId": "1424"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bud Billings",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Bud Billings",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Bud Billings",
-    "target": "Tim Davis",
-    "targetId": "5564"
-  },
-  {
-    "source": "Bud Billings",
-    "target": "Curley Cooke",
-    "targetId": "5568"
-  }
-]
+{
+  "source": "Bud Billings",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Tim Davis",
+      "targetId": "5564"
+    },
+    {
+      "name": "Curley Cooke",
+      "targetId": "5568"
+    }
+  ]
+}

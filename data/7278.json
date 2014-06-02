@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Bentley",
-    "target": "Paul Young",
-    "targetId": "102"
-  },
-  {
-    "source": "John Bentley",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "John Bentley",
-    "target": "Gilson Lavis",
-    "targetId": "3752"
-  },
-  {
-    "source": "John Bentley",
-    "target": "Paul Carrack",
-    "targetId": "6098"
-  },
-  {
-    "source": "John Bentley",
-    "target": "Glenn Tilbrook",
-    "targetId": "7275"
-  },
-  {
-    "source": "John Bentley",
-    "target": "Chris Difford",
-    "targetId": "7279"
-  },
-  {
-    "source": "John Bentley",
-    "target": "Don Snow",
-    "targetId": "7280"
-  }
-]
+{
+  "source": "John Bentley",
+  "targets": [
+    {
+      "name": "Paul Young",
+      "targetId": "102"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Gilson Lavis",
+      "targetId": "3752"
+    },
+    {
+      "name": "Paul Carrack",
+      "targetId": "6098"
+    },
+    {
+      "name": "Glenn Tilbrook",
+      "targetId": "7275"
+    },
+    {
+      "name": "Chris Difford",
+      "targetId": "7279"
+    },
+    {
+      "name": "Don Snow",
+      "targetId": "7280"
+    }
+  ]
+}

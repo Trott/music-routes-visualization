@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dan Seta",
-    "target": "Jeff Martin",
-    "targetId": "1051"
-  },
-  {
-    "source": "Dan Seta",
-    "target": "Joey Waronker",
-    "targetId": "1053"
-  },
-  {
-    "source": "Dan Seta",
-    "target": "Melissa Auf Der Maur",
-    "targetId": "1054"
-  },
-  {
-    "source": "Dan Seta",
-    "target": "Claudia Parducci",
-    "targetId": "1055"
-  },
-  {
-    "source": "Dan Seta",
-    "target": "Ron Jannelli",
-    "targetId": "1056"
-  }
-]
+{
+  "source": "Dan Seta",
+  "targets": [
+    {
+      "name": "Jeff Martin",
+      "targetId": "1051"
+    },
+    {
+      "name": "Joey Waronker",
+      "targetId": "1053"
+    },
+    {
+      "name": "Melissa Auf Der Maur",
+      "targetId": "1054"
+    },
+    {
+      "name": "Claudia Parducci",
+      "targetId": "1055"
+    },
+    {
+      "name": "Ron Jannelli",
+      "targetId": "1056"
+    }
+  ]
+}

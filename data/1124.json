@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Yo-Yo Ma",
-    "target": "James Taylor",
-    "targetId": "991"
-  },
-  {
-    "source": "Yo-Yo Ma",
-    "target": "Bobby McFerrin",
-    "targetId": "1125"
-  },
-  {
-    "source": "Yo-Yo Ma",
-    "target": "Diana Krall",
-    "targetId": "2228"
-  },
-  {
-    "source": "Yo-Yo Ma",
-    "target": "Dave Brubeck",
-    "targetId": "4636"
-  },
-  {
-    "source": "Yo-Yo Ma",
-    "target": "Matthew Brubeck",
-    "targetId": "8762"
-  },
-  {
-    "source": "Yo-Yo Ma",
-    "target": "John Clayton",
-    "targetId": "10857"
-  },
-  {
-    "source": "Yo-Yo Ma",
-    "target": "Paquito D'Rivera",
-    "targetId": "10858"
-  }
-]
+{
+  "source": "Yo-Yo Ma",
+  "targets": [
+    {
+      "name": "James Taylor",
+      "targetId": "991"
+    },
+    {
+      "name": "Bobby McFerrin",
+      "targetId": "1125"
+    },
+    {
+      "name": "Diana Krall",
+      "targetId": "2228"
+    },
+    {
+      "name": "Dave Brubeck",
+      "targetId": "4636"
+    },
+    {
+      "name": "Matthew Brubeck",
+      "targetId": "8762"
+    },
+    {
+      "name": "John Clayton",
+      "targetId": "10857"
+    },
+    {
+      "name": "Paquito D'Rivera",
+      "targetId": "10858"
+    }
+  ]
+}

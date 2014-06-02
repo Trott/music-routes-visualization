@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Les Pattinson",
-    "target": "Will Sergeant",
-    "targetId": "5047"
-  },
-  {
-    "source": "Les Pattinson",
-    "target": "Ian McCulloch",
-    "targetId": "5048"
-  },
-  {
-    "source": "Les Pattinson",
-    "target": "Pete De Freitas",
-    "targetId": "5050"
-  }
-]
+{
+  "source": "Les Pattinson",
+  "targets": [
+    {
+      "name": "Will Sergeant",
+      "targetId": "5047"
+    },
+    {
+      "name": "Ian McCulloch",
+      "targetId": "5048"
+    },
+    {
+      "name": "Pete De Freitas",
+      "targetId": "5050"
+    }
+  ]
+}

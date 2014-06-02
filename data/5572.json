@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jimmy Tillman",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Jimmy Tillman",
-    "target": "Ben Sidran",
-    "targetId": "5571"
-  }
-]
+{
+  "source": "Jimmy Tillman",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Ben Sidran",
+      "targetId": "5571"
+    }
+  ]
+}

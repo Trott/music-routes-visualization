@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Denise Johnson",
-    "target": "Johnny Marr",
-    "targetId": "2966"
-  },
-  {
-    "source": "Denise Johnson",
-    "target": "Bernard Sumner",
-    "targetId": "2967"
-  },
-  {
-    "source": "Denise Johnson",
-    "target": "Ged Lynch",
-    "targetId": "2968"
-  },
-  {
-    "source": "Denise Johnson",
-    "target": "Karl Bartos",
-    "targetId": "2970"
-  }
-]
+{
+  "source": "Denise Johnson",
+  "targets": [
+    {
+      "name": "Johnny Marr",
+      "targetId": "2966"
+    },
+    {
+      "name": "Bernard Sumner",
+      "targetId": "2967"
+    },
+    {
+      "name": "Ged Lynch",
+      "targetId": "2968"
+    },
+    {
+      "name": "Karl Bartos",
+      "targetId": "2970"
+    }
+  ]
+}

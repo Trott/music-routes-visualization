@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dee Dee Scott",
-    "target": "Lisa Lisa",
-    "targetId": "8818"
-  },
-  {
-    "source": "Dee Dee Scott",
-    "target": "Spanador",
-    "targetId": "8819"
-  },
-  {
-    "source": "Dee Dee Scott",
-    "target": "Mike Hughes",
-    "targetId": "8820"
-  }
-]
+{
+  "source": "Dee Dee Scott",
+  "targets": [
+    {
+      "name": "Lisa Lisa",
+      "targetId": "8818"
+    },
+    {
+      "name": "Spanador",
+      "targetId": "8819"
+    },
+    {
+      "name": "Mike Hughes",
+      "targetId": "8820"
+    }
+  ]
+}

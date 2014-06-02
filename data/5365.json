@@ -1,182 +1,149 @@
-[
-  {
-    "source": "Mike Smith",
-    "target": "Jamie Talbot",
-    "targetId": "2961"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Chris Tombling",
-    "targetId": "3786"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Tony Pleeth",
-    "targetId": "4485"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Richard Edwards",
-    "targetId": "4627"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Dave Bishop",
-    "targetId": "5136"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Boguslaw Kostecki",
-    "targetId": "5165"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Jonathan Rees",
-    "targetId": "5167"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Amy Winehouse",
-    "targetId": "5350"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Nick Movshon",
-    "targetId": "5351"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Joely Koos",
-    "targetId": "5352"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "John Heley",
-    "targetId": "5353"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Homer Steinweiss",
-    "targetId": "5354"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Binky Griptite",
-    "targetId": "5355"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Thomas Brenneck",
-    "targetId": "5356"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Mark Ronson",
-    "targetId": "5357"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Vaughan Merrick",
-    "targetId": "5358"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Helen Tunstall",
-    "targetId": "5359"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Frank Ricotti",
-    "targetId": "5360"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Victor Axelrod",
-    "targetId": "5361"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Andy Macintosh",
-    "targetId": "5362"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Snake Davis",
-    "targetId": "5363"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Ian Hendrickson-Smith",
-    "targetId": "5364"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Neal Sugarman",
-    "targetId": "5366"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Dave Guy",
-    "targetId": "5367"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Steve Sidwell",
-    "targetId": "5368"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Bruce White",
-    "targetId": "5369"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Jon Thorne",
-    "targetId": "5370"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Katie Wilkinson",
-    "targetId": "5371"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Rachel Bolt",
-    "targetId": "5372"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Elizabeth Edwards",
-    "targetId": "5373"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Everton Nelson",
-    "targetId": "5374"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Mark Berrow",
-    "targetId": "5375"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Perry Montague-Mason",
-    "targetId": "5376"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Peter Hanson",
-    "targetId": "5377"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Tom Pigott-Smith",
-    "targetId": "5378"
-  },
-  {
-    "source": "Mike Smith",
-    "target": "Warren Zielinski",
-    "targetId": "5379"
-  }
-]
+{
+  "source": "Mike Smith",
+  "targets": [
+    {
+      "name": "Jamie Talbot",
+      "targetId": "2961"
+    },
+    {
+      "name": "Chris Tombling",
+      "targetId": "3786"
+    },
+    {
+      "name": "Tony Pleeth",
+      "targetId": "4485"
+    },
+    {
+      "name": "Richard Edwards",
+      "targetId": "4627"
+    },
+    {
+      "name": "Dave Bishop",
+      "targetId": "5136"
+    },
+    {
+      "name": "Boguslaw Kostecki",
+      "targetId": "5165"
+    },
+    {
+      "name": "Jonathan Rees",
+      "targetId": "5167"
+    },
+    {
+      "name": "Amy Winehouse",
+      "targetId": "5350"
+    },
+    {
+      "name": "Nick Movshon",
+      "targetId": "5351"
+    },
+    {
+      "name": "Joely Koos",
+      "targetId": "5352"
+    },
+    {
+      "name": "John Heley",
+      "targetId": "5353"
+    },
+    {
+      "name": "Homer Steinweiss",
+      "targetId": "5354"
+    },
+    {
+      "name": "Binky Griptite",
+      "targetId": "5355"
+    },
+    {
+      "name": "Thomas Brenneck",
+      "targetId": "5356"
+    },
+    {
+      "name": "Mark Ronson",
+      "targetId": "5357"
+    },
+    {
+      "name": "Vaughan Merrick",
+      "targetId": "5358"
+    },
+    {
+      "name": "Helen Tunstall",
+      "targetId": "5359"
+    },
+    {
+      "name": "Frank Ricotti",
+      "targetId": "5360"
+    },
+    {
+      "name": "Victor Axelrod",
+      "targetId": "5361"
+    },
+    {
+      "name": "Andy Macintosh",
+      "targetId": "5362"
+    },
+    {
+      "name": "Snake Davis",
+      "targetId": "5363"
+    },
+    {
+      "name": "Ian Hendrickson-Smith",
+      "targetId": "5364"
+    },
+    {
+      "name": "Neal Sugarman",
+      "targetId": "5366"
+    },
+    {
+      "name": "Dave Guy",
+      "targetId": "5367"
+    },
+    {
+      "name": "Steve Sidwell",
+      "targetId": "5368"
+    },
+    {
+      "name": "Bruce White",
+      "targetId": "5369"
+    },
+    {
+      "name": "Jon Thorne",
+      "targetId": "5370"
+    },
+    {
+      "name": "Katie Wilkinson",
+      "targetId": "5371"
+    },
+    {
+      "name": "Rachel Bolt",
+      "targetId": "5372"
+    },
+    {
+      "name": "Elizabeth Edwards",
+      "targetId": "5373"
+    },
+    {
+      "name": "Everton Nelson",
+      "targetId": "5374"
+    },
+    {
+      "name": "Mark Berrow",
+      "targetId": "5375"
+    },
+    {
+      "name": "Perry Montague-Mason",
+      "targetId": "5376"
+    },
+    {
+      "name": "Peter Hanson",
+      "targetId": "5377"
+    },
+    {
+      "name": "Tom Pigott-Smith",
+      "targetId": "5378"
+    },
+    {
+      "name": "Warren Zielinski",
+      "targetId": "5379"
+    }
+  ]
+}

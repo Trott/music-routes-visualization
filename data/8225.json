@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Robert Musso",
-    "target": "Michael Blair",
-    "targetId": "662"
-  },
-  {
-    "source": "Robert Musso",
-    "target": "Tom Waits",
-    "targetId": "1713"
-  },
-  {
-    "source": "Robert Musso",
-    "target": "Larry Taylor",
-    "targetId": "2567"
-  },
-  {
-    "source": "Robert Musso",
-    "target": "Marc Ribot",
-    "targetId": "3588"
-  }
-]
+{
+  "source": "Robert Musso",
+  "targets": [
+    {
+      "name": "Michael Blair",
+      "targetId": "662"
+    },
+    {
+      "name": "Tom Waits",
+      "targetId": "1713"
+    },
+    {
+      "name": "Larry Taylor",
+      "targetId": "2567"
+    },
+    {
+      "name": "Marc Ribot",
+      "targetId": "3588"
+    }
+  ]
+}

@@ -1,202 +1,165 @@
-[
-  {
-    "source": "Sherman Foote",
-    "target": "John Taylor",
-    "targetId": "101"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Simon Le Bon",
-    "targetId": "105"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Nick Rhodes",
-    "targetId": "130"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Tony Levin",
-    "targetId": "269"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Jon Anderson",
-    "targetId": "536"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Ian Lloyd",
-    "targetId": "931"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Warren Cuccurullo",
-    "targetId": "1339"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Steve Ferrone",
-    "targetId": "1420"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Stewart Copeland",
-    "targetId": "2102"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "John Waite",
-    "targetId": "2890"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Mark Egan",
-    "targetId": "3439"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Jimmy Bralower",
-    "targetId": "3478"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Ira Siegel",
-    "targetId": "3487"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Patti Scialfa",
-    "targetId": "5628"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Grace Jones",
-    "targetId": "6593"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Clifford Lane",
-    "targetId": "6598"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Gary Barlough",
-    "targetId": "6599"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Jonathan Elias",
-    "targetId": "6600"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Gordon Gottlieb",
-    "targetId": "6601"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Ray Foote",
-    "targetId": "6603"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Toni Childs",
-    "targetId": "6604"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Paul Seymour",
-    "targetId": "6605"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Dan Reed",
-    "targetId": "6606"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Maxine Neuman",
-    "targetId": "6607"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Belen Pena Magena",
-    "targetId": "6608"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Jesus Ibanez Ramiezz",
-    "targetId": "6609"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Lazaro Arvizu",
-    "targetId": "6610"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Pedro Ruiz",
-    "targetId": "6611"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Sergio Ruiz",
-    "targetId": "6612"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Alex Lasarenko",
-    "targetId": "6613"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Daniel C. Hill",
-    "targetId": "6614"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Ernie Longwalker",
-    "targetId": "6615"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Susanna Hoffs",
-    "targetId": "6616"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Allan Schwartzberg",
-    "targetId": "6617"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Harvey Estrin",
-    "targetId": "6618"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Chip Jenkins",
-    "targetId": "6619"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Liam Ó Maonlai",
-    "targetId": "6620"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Charlie Sheen",
-    "targetId": "6621"
-  },
-  {
-    "source": "Sherman Foote",
-    "target": "Martin Sheen",
-    "targetId": "6622"
-  }
-]
+{
+  "source": "Sherman Foote",
+  "targets": [
+    {
+      "name": "John Taylor",
+      "targetId": "101"
+    },
+    {
+      "name": "Simon Le Bon",
+      "targetId": "105"
+    },
+    {
+      "name": "Nick Rhodes",
+      "targetId": "130"
+    },
+    {
+      "name": "Tony Levin",
+      "targetId": "269"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Jon Anderson",
+      "targetId": "536"
+    },
+    {
+      "name": "Ian Lloyd",
+      "targetId": "931"
+    },
+    {
+      "name": "Warren Cuccurullo",
+      "targetId": "1339"
+    },
+    {
+      "name": "Steve Ferrone",
+      "targetId": "1420"
+    },
+    {
+      "name": "Stewart Copeland",
+      "targetId": "2102"
+    },
+    {
+      "name": "John Waite",
+      "targetId": "2890"
+    },
+    {
+      "name": "Mark Egan",
+      "targetId": "3439"
+    },
+    {
+      "name": "Jimmy Bralower",
+      "targetId": "3478"
+    },
+    {
+      "name": "Ira Siegel",
+      "targetId": "3487"
+    },
+    {
+      "name": "Patti Scialfa",
+      "targetId": "5628"
+    },
+    {
+      "name": "Grace Jones",
+      "targetId": "6593"
+    },
+    {
+      "name": "Clifford Lane",
+      "targetId": "6598"
+    },
+    {
+      "name": "Gary Barlough",
+      "targetId": "6599"
+    },
+    {
+      "name": "Jonathan Elias",
+      "targetId": "6600"
+    },
+    {
+      "name": "Gordon Gottlieb",
+      "targetId": "6601"
+    },
+    {
+      "name": "Ray Foote",
+      "targetId": "6603"
+    },
+    {
+      "name": "Toni Childs",
+      "targetId": "6604"
+    },
+    {
+      "name": "Paul Seymour",
+      "targetId": "6605"
+    },
+    {
+      "name": "Dan Reed",
+      "targetId": "6606"
+    },
+    {
+      "name": "Maxine Neuman",
+      "targetId": "6607"
+    },
+    {
+      "name": "Belen Pena Magena",
+      "targetId": "6608"
+    },
+    {
+      "name": "Jesus Ibanez Ramiezz",
+      "targetId": "6609"
+    },
+    {
+      "name": "Lazaro Arvizu",
+      "targetId": "6610"
+    },
+    {
+      "name": "Pedro Ruiz",
+      "targetId": "6611"
+    },
+    {
+      "name": "Sergio Ruiz",
+      "targetId": "6612"
+    },
+    {
+      "name": "Alex Lasarenko",
+      "targetId": "6613"
+    },
+    {
+      "name": "Daniel C. Hill",
+      "targetId": "6614"
+    },
+    {
+      "name": "Ernie Longwalker",
+      "targetId": "6615"
+    },
+    {
+      "name": "Susanna Hoffs",
+      "targetId": "6616"
+    },
+    {
+      "name": "Allan Schwartzberg",
+      "targetId": "6617"
+    },
+    {
+      "name": "Harvey Estrin",
+      "targetId": "6618"
+    },
+    {
+      "name": "Chip Jenkins",
+      "targetId": "6619"
+    },
+    {
+      "name": "Liam Ó Maonlai",
+      "targetId": "6620"
+    },
+    {
+      "name": "Charlie Sheen",
+      "targetId": "6621"
+    },
+    {
+      "name": "Martin Sheen",
+      "targetId": "6622"
+    }
+  ]
+}

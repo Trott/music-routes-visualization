@@ -1,147 +1,121 @@
-[
-  {
-    "source": "John Waite",
-    "target": "Neal Schon",
-    "targetId": "174"
-  },
-  {
-    "source": "John Waite",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "John Waite",
-    "target": "Jorge Calderón",
-    "targetId": "663"
-  },
-  {
-    "source": "John Waite",
-    "target": "Ian Lloyd",
-    "targetId": "931"
-  },
-  {
-    "source": "John Waite",
-    "target": "Jonathan Cain",
-    "targetId": "1745"
-  },
-  {
-    "source": "John Waite",
-    "target": "Tommy Shaw",
-    "targetId": "2889"
-  },
-  {
-    "source": "John Waite",
-    "target": "Ricky Phillips",
-    "targetId": "2891"
-  },
-  {
-    "source": "John Waite",
-    "target": "Deen Castronovo",
-    "targetId": "2892"
-  },
-  {
-    "source": "John Waite",
-    "target": "Ira Siegel",
-    "targetId": "3487"
-  },
-  {
-    "source": "John Waite",
-    "target": "Billy Bob Thornton",
-    "targetId": "4074"
-  },
-  {
-    "source": "John Waite",
-    "target": "Brad Davis",
-    "targetId": "4075"
-  },
-  {
-    "source": "John Waite",
-    "target": "Randy Mitchell",
-    "targetId": "4076"
-  },
-  {
-    "source": "John Waite",
-    "target": "Steve Gorman",
-    "targetId": "4077"
-  },
-  {
-    "source": "John Waite",
-    "target": "Clifford Lane",
-    "targetId": "6598"
-  },
-  {
-    "source": "John Waite",
-    "target": "Jonathan Elias",
-    "targetId": "6600"
-  },
-  {
-    "source": "John Waite",
-    "target": "Sherman Foote",
-    "targetId": "6602"
-  },
-  {
-    "source": "John Waite",
-    "target": "Ray Foote",
-    "targetId": "6603"
-  },
-  {
-    "source": "John Waite",
-    "target": "Dan Reed",
-    "targetId": "6606"
-  },
-  {
-    "source": "John Waite",
-    "target": "Maxine Neuman",
-    "targetId": "6607"
-  },
-  {
-    "source": "John Waite",
-    "target": "Belen Pena Magena",
-    "targetId": "6608"
-  },
-  {
-    "source": "John Waite",
-    "target": "Jesus Ibanez Ramiezz",
-    "targetId": "6609"
-  },
-  {
-    "source": "John Waite",
-    "target": "Lazaro Arvizu",
-    "targetId": "6610"
-  },
-  {
-    "source": "John Waite",
-    "target": "Pedro Ruiz",
-    "targetId": "6611"
-  },
-  {
-    "source": "John Waite",
-    "target": "Sergio Ruiz",
-    "targetId": "6612"
-  },
-  {
-    "source": "John Waite",
-    "target": "Alex Lasarenko",
-    "targetId": "6613"
-  },
-  {
-    "source": "John Waite",
-    "target": "Daniel C. Hill",
-    "targetId": "6614"
-  },
-  {
-    "source": "John Waite",
-    "target": "Anne Marie Leclerc",
-    "targetId": "8520"
-  },
-  {
-    "source": "John Waite",
-    "target": "Wally Stocker",
-    "targetId": "8521"
-  },
-  {
-    "source": "John Waite",
-    "target": "Tony Brock",
-    "targetId": "8522"
-  }
-]
+{
+  "source": "John Waite",
+  "targets": [
+    {
+      "name": "Neal Schon",
+      "targetId": "174"
+    },
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Jorge Calderón",
+      "targetId": "663"
+    },
+    {
+      "name": "Ian Lloyd",
+      "targetId": "931"
+    },
+    {
+      "name": "Jonathan Cain",
+      "targetId": "1745"
+    },
+    {
+      "name": "Tommy Shaw",
+      "targetId": "2889"
+    },
+    {
+      "name": "Ricky Phillips",
+      "targetId": "2891"
+    },
+    {
+      "name": "Deen Castronovo",
+      "targetId": "2892"
+    },
+    {
+      "name": "Ira Siegel",
+      "targetId": "3487"
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "targetId": "4074"
+    },
+    {
+      "name": "Brad Davis",
+      "targetId": "4075"
+    },
+    {
+      "name": "Randy Mitchell",
+      "targetId": "4076"
+    },
+    {
+      "name": "Steve Gorman",
+      "targetId": "4077"
+    },
+    {
+      "name": "Clifford Lane",
+      "targetId": "6598"
+    },
+    {
+      "name": "Jonathan Elias",
+      "targetId": "6600"
+    },
+    {
+      "name": "Sherman Foote",
+      "targetId": "6602"
+    },
+    {
+      "name": "Ray Foote",
+      "targetId": "6603"
+    },
+    {
+      "name": "Dan Reed",
+      "targetId": "6606"
+    },
+    {
+      "name": "Maxine Neuman",
+      "targetId": "6607"
+    },
+    {
+      "name": "Belen Pena Magena",
+      "targetId": "6608"
+    },
+    {
+      "name": "Jesus Ibanez Ramiezz",
+      "targetId": "6609"
+    },
+    {
+      "name": "Lazaro Arvizu",
+      "targetId": "6610"
+    },
+    {
+      "name": "Pedro Ruiz",
+      "targetId": "6611"
+    },
+    {
+      "name": "Sergio Ruiz",
+      "targetId": "6612"
+    },
+    {
+      "name": "Alex Lasarenko",
+      "targetId": "6613"
+    },
+    {
+      "name": "Daniel C. Hill",
+      "targetId": "6614"
+    },
+    {
+      "name": "Anne Marie Leclerc",
+      "targetId": "8520"
+    },
+    {
+      "name": "Wally Stocker",
+      "targetId": "8521"
+    },
+    {
+      "name": "Tony Brock",
+      "targetId": "8522"
+    }
+  ]
+}

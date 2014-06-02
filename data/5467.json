@@ -1,152 +1,125 @@
-[
-  {
-    "source": "Brenday Bryant",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Jimmy Johnson",
-    "targetId": "1095"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "David Hood",
-    "targetId": "1096"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Roger Hawkins",
-    "targetId": "1097"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Wayne Jackson",
-    "targetId": "1807"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Andrew Love",
-    "targetId": "1808"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Michael Utley",
-    "targetId": "3057"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Jack Hale",
-    "targetId": "3813"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Jerry Jemmott",
-    "targetId": "4695"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Pancho Morales",
-    "targetId": "4696"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Cornell Dupree",
-    "targetId": "4697"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "King Curtis",
-    "targetId": "4700"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Roger Hopps",
-    "targetId": "4701"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Duane Allman",
-    "targetId": "5303"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Almeda Lattimore",
-    "targetId": "5466"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Margaret Branch",
-    "targetId": "5469"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Harold Cowart",
-    "targetId": "5472"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Tommy McClure",
-    "targetId": "5473"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Sammy Creason",
-    "targetId": "5474"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Charlie Freeman",
-    "targetId": "5475"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Eddie Hinton",
-    "targetId": "5476"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Dave Crawford",
-    "targetId": "5477"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Ray Lucas",
-    "targetId": "5478"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Lou Collins",
-    "targetId": "7804"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Jimmy Mitchell",
-    "targetId": "7805"
-  },
-  {
-    "source": "Brenday Bryant",
-    "target": "Pat Smith",
-    "targetId": "7806"
-  }
-]
+{
+  "source": "Brenday Bryant",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Jimmy Johnson",
+      "targetId": "1095"
+    },
+    {
+      "name": "David Hood",
+      "targetId": "1096"
+    },
+    {
+      "name": "Roger Hawkins",
+      "targetId": "1097"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "Wayne Jackson",
+      "targetId": "1807"
+    },
+    {
+      "name": "Andrew Love",
+      "targetId": "1808"
+    },
+    {
+      "name": "Michael Utley",
+      "targetId": "3057"
+    },
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Jack Hale",
+      "targetId": "3813"
+    },
+    {
+      "name": "Jerry Jemmott",
+      "targetId": "4695"
+    },
+    {
+      "name": "Pancho Morales",
+      "targetId": "4696"
+    },
+    {
+      "name": "Cornell Dupree",
+      "targetId": "4697"
+    },
+    {
+      "name": "King Curtis",
+      "targetId": "4700"
+    },
+    {
+      "name": "Roger Hopps",
+      "targetId": "4701"
+    },
+    {
+      "name": "Duane Allman",
+      "targetId": "5303"
+    },
+    {
+      "name": "Almeda Lattimore",
+      "targetId": "5466"
+    },
+    {
+      "name": "Margaret Branch",
+      "targetId": "5469"
+    },
+    {
+      "name": "Harold Cowart",
+      "targetId": "5472"
+    },
+    {
+      "name": "Tommy McClure",
+      "targetId": "5473"
+    },
+    {
+      "name": "Sammy Creason",
+      "targetId": "5474"
+    },
+    {
+      "name": "Charlie Freeman",
+      "targetId": "5475"
+    },
+    {
+      "name": "Eddie Hinton",
+      "targetId": "5476"
+    },
+    {
+      "name": "Dave Crawford",
+      "targetId": "5477"
+    },
+    {
+      "name": "Ray Lucas",
+      "targetId": "5478"
+    },
+    {
+      "name": "Lou Collins",
+      "targetId": "7804"
+    },
+    {
+      "name": "Jimmy Mitchell",
+      "targetId": "7805"
+    },
+    {
+      "name": "Pat Smith",
+      "targetId": "7806"
+    }
+  ]
+}

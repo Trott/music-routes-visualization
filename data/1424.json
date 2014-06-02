@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Demi Moore",
-    "target": "Bruce Willis",
-    "targetId": "1382"
-  },
-  {
-    "source": "Demi Moore",
-    "target": "Robben Ford",
-    "targetId": "1385"
-  },
-  {
-    "source": "Demi Moore",
-    "target": "Roscoe Beck",
-    "targetId": "1388"
-  },
-  {
-    "source": "Demi Moore",
-    "target": "Tom Brechtlein",
-    "targetId": "1389"
-  },
-  {
-    "source": "Demi Moore",
-    "target": "David Grissom",
-    "targetId": "1390"
-  },
-  {
-    "source": "Demi Moore",
-    "target": "William Smith",
-    "targetId": "1391"
-  },
-  {
-    "source": "Demi Moore",
-    "target": "Russell Ferrante",
-    "targetId": "1414"
-  },
-  {
-    "source": "Demi Moore",
-    "target": "Edgar Winter",
-    "targetId": "1423"
-  }
-]
+{
+  "source": "Demi Moore",
+  "targets": [
+    {
+      "name": "Bruce Willis",
+      "targetId": "1382"
+    },
+    {
+      "name": "Robben Ford",
+      "targetId": "1385"
+    },
+    {
+      "name": "Roscoe Beck",
+      "targetId": "1388"
+    },
+    {
+      "name": "Tom Brechtlein",
+      "targetId": "1389"
+    },
+    {
+      "name": "David Grissom",
+      "targetId": "1390"
+    },
+    {
+      "name": "William Smith",
+      "targetId": "1391"
+    },
+    {
+      "name": "Russell Ferrante",
+      "targetId": "1414"
+    },
+    {
+      "name": "Edgar Winter",
+      "targetId": "1423"
+    }
+  ]
+}

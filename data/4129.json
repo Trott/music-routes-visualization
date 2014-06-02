@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Mick Jones",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Joe Strummer",
-    "targetId": "846"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Paul Simonon",
-    "targetId": "4130"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Topper Headon",
-    "targetId": "4131"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Bruce Thomas",
-    "targetId": "7277"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Don Letts",
-    "targetId": "8063"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Leo Williams",
-    "targetId": "8064"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Greg Roberts",
-    "targetId": "8065"
-  },
-  {
-    "source": "Mick Jones",
-    "target": "Dan Donovan",
-    "targetId": "8066"
-  }
-]
+{
+  "source": "Mick Jones",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Joe Strummer",
+      "targetId": "846"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Paul Simonon",
+      "targetId": "4130"
+    },
+    {
+      "name": "Topper Headon",
+      "targetId": "4131"
+    },
+    {
+      "name": "Bruce Thomas",
+      "targetId": "7277"
+    },
+    {
+      "name": "Don Letts",
+      "targetId": "8063"
+    },
+    {
+      "name": "Leo Williams",
+      "targetId": "8064"
+    },
+    {
+      "name": "Greg Roberts",
+      "targetId": "8065"
+    },
+    {
+      "name": "Dan Donovan",
+      "targetId": "8066"
+    }
+  ]
+}

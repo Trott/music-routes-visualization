@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Grizzy",
-    "target": "Oscar the Grouch",
-    "targetId": "242"
-  },
-  {
-    "source": "Grizzy",
-    "target": "Elmo",
-    "targetId": "254"
-  }
-]
+{
+  "source": "Grizzy",
+  "targets": [
+    {
+      "name": "Oscar the Grouch",
+      "targetId": "242"
+    },
+    {
+      "name": "Elmo",
+      "targetId": "254"
+    }
+  ]
+}

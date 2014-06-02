@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jen Wood",
-    "target": "Jimmy Tamborello",
-    "targetId": "3024"
-  },
-  {
-    "source": "Jen Wood",
-    "target": "Ben Gibbard",
-    "targetId": "6919"
-  },
-  {
-    "source": "Jen Wood",
-    "target": "Chris Walla",
-    "targetId": "6921"
-  }
-]
+{
+  "source": "Jen Wood",
+  "targets": [
+    {
+      "name": "Jimmy Tamborello",
+      "targetId": "3024"
+    },
+    {
+      "name": "Ben Gibbard",
+      "targetId": "6919"
+    },
+    {
+      "name": "Chris Walla",
+      "targetId": "6921"
+    }
+  ]
+}

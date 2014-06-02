@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Emmanuel Soudieux",
-    "target": "Joseph Reinhardt",
-    "targetId": "1145"
-  },
-  {
-    "source": "Emmanuel Soudieux",
-    "target": "Django Reinhardt",
-    "targetId": "1156"
-  },
-  {
-    "source": "Emmanuel Soudieux",
-    "target": "Stéphane Grappelli",
-    "targetId": "1160"
-  },
-  {
-    "source": "Emmanuel Soudieux",
-    "target": "Eugéne Vées",
-    "targetId": "1162"
-  },
-  {
-    "source": "Emmanuel Soudieux",
-    "target": "Perre \"Barot\" Ferret",
-    "targetId": "1165"
-  }
-]
+{
+  "source": "Emmanuel Soudieux",
+  "targets": [
+    {
+      "name": "Joseph Reinhardt",
+      "targetId": "1145"
+    },
+    {
+      "name": "Django Reinhardt",
+      "targetId": "1156"
+    },
+    {
+      "name": "Stéphane Grappelli",
+      "targetId": "1160"
+    },
+    {
+      "name": "Eugéne Vées",
+      "targetId": "1162"
+    },
+    {
+      "name": "Perre \"Barot\" Ferret",
+      "targetId": "1165"
+    }
+  ]
+}

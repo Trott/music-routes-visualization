@@ -1,22 +1,21 @@
-[
-  {
-    "source": "George Coleman",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "George Coleman",
-    "target": "Ron Carter",
-    "targetId": "1201"
-  },
-  {
-    "source": "George Coleman",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "George Coleman",
-    "target": "Tony Williams",
-    "targetId": "3839"
-  }
-]
+{
+  "source": "George Coleman",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Ron Carter",
+      "targetId": "1201"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Tony Williams",
+      "targetId": "3839"
+    }
+  ]
+}

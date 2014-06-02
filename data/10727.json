@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Albert McIntosh",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Albert McIntosh",
-    "target": "Kate Bush",
-    "targetId": "2197"
-  },
-  {
-    "source": "Albert McIntosh",
-    "target": "Del Palmer",
-    "targetId": "10728"
-  },
-  {
-    "source": "Albert McIntosh",
-    "target": "Dan McIntosh",
-    "targetId": "10729"
-  }
-]
+{
+  "source": "Albert McIntosh",
+  "targets": [
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Kate Bush",
+      "targetId": "2197"
+    },
+    {
+      "name": "Del Palmer",
+      "targetId": "10728"
+    },
+    {
+      "name": "Dan McIntosh",
+      "targetId": "10729"
+    }
+  ]
+}

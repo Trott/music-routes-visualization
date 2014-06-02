@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jon Chaikin",
-    "target": "Ed Mazzucco",
-    "targetId": "10791"
-  },
-  {
-    "source": "Jon Chaikin",
-    "target": "Dwayne Palasek",
-    "targetId": "10792"
-  },
-  {
-    "source": "Jon Chaikin",
-    "target": "Laura Watling",
-    "targetId": "10793"
-  },
-  {
-    "source": "Jon Chaikin",
-    "target": "Tim Morris",
-    "targetId": "10794"
-  },
-  {
-    "source": "Jon Chaikin",
-    "target": "Ann Yu",
-    "targetId": "10797"
-  },
-  {
-    "source": "Jon Chaikin",
-    "target": "Matthew Bice",
-    "targetId": "10798"
-  }
-]
+{
+  "source": "Jon Chaikin",
+  "targets": [
+    {
+      "name": "Ed Mazzucco",
+      "targetId": "10791"
+    },
+    {
+      "name": "Dwayne Palasek",
+      "targetId": "10792"
+    },
+    {
+      "name": "Laura Watling",
+      "targetId": "10793"
+    },
+    {
+      "name": "Tim Morris",
+      "targetId": "10794"
+    },
+    {
+      "name": "Ann Yu",
+      "targetId": "10797"
+    },
+    {
+      "name": "Matthew Bice",
+      "targetId": "10798"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Fred Maher",
-    "target": "Greg Leisz",
-    "targetId": "1061"
-  },
-  {
-    "source": "Fred Maher",
-    "target": "Matthew Sweet",
-    "targetId": "2765"
-  },
-  {
-    "source": "Fred Maher",
-    "target": "Robert Quine",
-    "targetId": "2770"
-  }
-]
+{
+  "source": "Fred Maher",
+  "targets": [
+    {
+      "name": "Greg Leisz",
+      "targetId": "1061"
+    },
+    {
+      "name": "Matthew Sweet",
+      "targetId": "2765"
+    },
+    {
+      "name": "Robert Quine",
+      "targetId": "2770"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ron Sexsmith",
-    "target": "Mitchell Froom",
-    "targetId": "289"
-  },
-  {
-    "source": "Ron Sexsmith",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Ron Sexsmith",
-    "target": "Ane Brun",
-    "targetId": "6091"
-  }
-]
+{
+  "source": "Ron Sexsmith",
+  "targets": [
+    {
+      "name": "Mitchell Froom",
+      "targetId": "289"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Ane Brun",
+      "targetId": "6091"
+    }
+  ]
+}

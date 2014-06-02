@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Patatucci",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "John Patatucci",
-    "target": "Richie Hayward",
-    "targetId": "648"
-  },
-  {
-    "source": "John Patatucci",
-    "target": "Jerry Garcia",
-    "targetId": "918"
-  },
-  {
-    "source": "John Patatucci",
-    "target": "Pat Martino",
-    "targetId": "8779"
-  },
-  {
-    "source": "John Patatucci",
-    "target": "David Kikoski",
-    "targetId": "8780"
-  },
-  {
-    "source": "John Patatucci",
-    "target": "Scott Allan Robinson",
-    "targetId": "8781"
-  },
-  {
-    "source": "John Patatucci",
-    "target": "Danny Sadownick",
-    "targetId": "8782"
-  }
-]
+{
+  "source": "John Patatucci",
+  "targets": [
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Richie Hayward",
+      "targetId": "648"
+    },
+    {
+      "name": "Jerry Garcia",
+      "targetId": "918"
+    },
+    {
+      "name": "Pat Martino",
+      "targetId": "8779"
+    },
+    {
+      "name": "David Kikoski",
+      "targetId": "8780"
+    },
+    {
+      "name": "Scott Allan Robinson",
+      "targetId": "8781"
+    },
+    {
+      "name": "Danny Sadownick",
+      "targetId": "8782"
+    }
+  ]
+}

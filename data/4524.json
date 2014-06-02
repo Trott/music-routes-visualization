@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jim Rodford",
-    "target": "Russ Ballard",
-    "targetId": "317"
-  },
-  {
-    "source": "Jim Rodford",
-    "target": "Rod Argent",
-    "targetId": "4519"
-  },
-  {
-    "source": "Jim Rodford",
-    "target": "Bob Henrit",
-    "targetId": "4523"
-  }
-]
+{
+  "source": "Jim Rodford",
+  "targets": [
+    {
+      "name": "Russ Ballard",
+      "targetId": "317"
+    },
+    {
+      "name": "Rod Argent",
+      "targetId": "4519"
+    },
+    {
+      "name": "Bob Henrit",
+      "targetId": "4523"
+    }
+  ]
+}

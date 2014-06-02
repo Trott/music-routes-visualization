@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Johnnie Johnson",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Johnnie Johnson",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Johnnie Johnson",
-    "target": "Chuck Berry",
-    "targetId": "2723"
-  },
-  {
-    "source": "Johnnie Johnson",
-    "target": "Steve Jordan",
-    "targetId": "2724"
-  },
-  {
-    "source": "Johnnie Johnson",
-    "target": "Joey Spampinato",
-    "targetId": "2725"
-  }
-]
+{
+  "source": "Johnnie Johnson",
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Chuck Berry",
+      "targetId": "2723"
+    },
+    {
+      "name": "Steve Jordan",
+      "targetId": "2724"
+    },
+    {
+      "name": "Joey Spampinato",
+      "targetId": "2725"
+    }
+  ]
+}

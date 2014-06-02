@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Adam Jones",
-    "target": "Henry Rollins",
-    "targetId": "185"
-  },
-  {
-    "source": "Adam Jones",
-    "target": "Maynard James Keenan",
-    "targetId": "8028"
-  },
-  {
-    "source": "Adam Jones",
-    "target": "Danny Carey",
-    "targetId": "8030"
-  },
-  {
-    "source": "Adam Jones",
-    "target": "Paul D'Amour",
-    "targetId": "8031"
-  },
-  {
-    "source": "Adam Jones",
-    "target": "Justin Chancellor",
-    "targetId": "10725"
-  }
-]
+{
+  "source": "Adam Jones",
+  "targets": [
+    {
+      "name": "Henry Rollins",
+      "targetId": "185"
+    },
+    {
+      "name": "Maynard James Keenan",
+      "targetId": "8028"
+    },
+    {
+      "name": "Danny Carey",
+      "targetId": "8030"
+    },
+    {
+      "name": "Paul D'Amour",
+      "targetId": "8031"
+    },
+    {
+      "name": "Justin Chancellor",
+      "targetId": "10725"
+    }
+  ]
+}

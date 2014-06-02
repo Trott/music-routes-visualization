@@ -1,47 +1,41 @@
-[
-  {
-    "source": "John Cascella",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "John Cascella",
-    "target": "David Grissom",
-    "targetId": "1390"
-  },
-  {
-    "source": "John Cascella",
-    "target": "Kenny Aronoff",
-    "targetId": "4158"
-  },
-  {
-    "source": "John Cascella",
-    "target": "John Mellencamp",
-    "targetId": "6726"
-  },
-  {
-    "source": "John Cascella",
-    "target": "Mike Wanchic",
-    "targetId": "6728"
-  },
-  {
-    "source": "John Cascella",
-    "target": "Lisa Germano",
-    "targetId": "8152"
-  },
-  {
-    "source": "John Cascella",
-    "target": "Sue Medley",
-    "targetId": "8153"
-  },
-  {
-    "source": "John Cascella",
-    "target": "Pat Peterson",
-    "targetId": "8166"
-  },
-  {
-    "source": "John Cascella",
-    "target": "Toby Myers",
-    "targetId": "8172"
-  }
-]
+{
+  "source": "John Cascella",
+  "targets": [
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "David Grissom",
+      "targetId": "1390"
+    },
+    {
+      "name": "Kenny Aronoff",
+      "targetId": "4158"
+    },
+    {
+      "name": "John Mellencamp",
+      "targetId": "6726"
+    },
+    {
+      "name": "Mike Wanchic",
+      "targetId": "6728"
+    },
+    {
+      "name": "Lisa Germano",
+      "targetId": "8152"
+    },
+    {
+      "name": "Sue Medley",
+      "targetId": "8153"
+    },
+    {
+      "name": "Pat Peterson",
+      "targetId": "8166"
+    },
+    {
+      "name": "Toby Myers",
+      "targetId": "8172"
+    }
+  ]
+}

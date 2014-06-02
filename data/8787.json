@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Harold Gaylor",
-    "target": "Paul Horn",
-    "targetId": "1520"
-  },
-  {
-    "source": "Harold Gaylor",
-    "target": "John Pisano",
-    "targetId": "8001"
-  },
-  {
-    "source": "Harold Gaylor",
-    "target": "Chico Hamilton",
-    "targetId": "8783"
-  },
-  {
-    "source": "Harold Gaylor",
-    "target": "Fred Katz",
-    "targetId": "8788"
-  }
-]
+{
+  "source": "Harold Gaylor",
+  "targets": [
+    {
+      "name": "Paul Horn",
+      "targetId": "1520"
+    },
+    {
+      "name": "John Pisano",
+      "targetId": "8001"
+    },
+    {
+      "name": "Chico Hamilton",
+      "targetId": "8783"
+    },
+    {
+      "name": "Fred Katz",
+      "targetId": "8788"
+    }
+  ]
+}

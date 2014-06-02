@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Bob Packwood",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Greg Leisz",
-    "targetId": "1061"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Don Heffington",
-    "targetId": "3274"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Kathleen Edwards",
-    "targetId": "3661"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Colin Cripps",
-    "targetId": "3663"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Jim Bryson",
-    "targetId": "3664"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Paul Reddick",
-    "targetId": "3669"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Jim Scott",
-    "targetId": "3670"
-  },
-  {
-    "source": "Bob Packwood",
-    "target": "Margaret Edwards",
-    "targetId": "3673"
-  }
-]
+{
+  "source": "Bob Packwood",
+  "targets": [
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Greg Leisz",
+      "targetId": "1061"
+    },
+    {
+      "name": "Don Heffington",
+      "targetId": "3274"
+    },
+    {
+      "name": "Kathleen Edwards",
+      "targetId": "3661"
+    },
+    {
+      "name": "Colin Cripps",
+      "targetId": "3663"
+    },
+    {
+      "name": "Jim Bryson",
+      "targetId": "3664"
+    },
+    {
+      "name": "Paul Reddick",
+      "targetId": "3669"
+    },
+    {
+      "name": "Jim Scott",
+      "targetId": "3670"
+    },
+    {
+      "name": "Margaret Edwards",
+      "targetId": "3673"
+    }
+  ]
+}

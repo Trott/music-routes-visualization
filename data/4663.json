@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bobby Routch",
-    "target": "Kirk Lightsey",
-    "targetId": "4095"
-  },
-  {
-    "source": "Bobby Routch",
-    "target": "Santi Debriano",
-    "targetId": "4659"
-  },
-  {
-    "source": "Bobby Routch",
-    "target": "Eddie Gladden",
-    "targetId": "4660"
-  },
-  {
-    "source": "Bobby Routch",
-    "target": "Jerry Gonzalez",
-    "targetId": "4661"
-  }
-]
+{
+  "source": "Bobby Routch",
+  "targets": [
+    {
+      "name": "Kirk Lightsey",
+      "targetId": "4095"
+    },
+    {
+      "name": "Santi Debriano",
+      "targetId": "4659"
+    },
+    {
+      "name": "Eddie Gladden",
+      "targetId": "4660"
+    },
+    {
+      "name": "Jerry Gonzalez",
+      "targetId": "4661"
+    }
+  ]
+}

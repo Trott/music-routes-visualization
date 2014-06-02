@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Thomas M. Lauderdale",
-    "target": "China Forbes",
-    "targetId": "1214"
-  },
-  {
-    "source": "Thomas M. Lauderdale",
-    "target": "Jimmy Scott",
-    "targetId": "1215"
-  },
-  {
-    "source": "Thomas M. Lauderdale",
-    "target": "Dan Faehnle",
-    "targetId": "1217"
-  },
-  {
-    "source": "Thomas M. Lauderdale",
-    "target": "Martin Zarzar",
-    "targetId": "1218"
-  },
-  {
-    "source": "Thomas M. Lauderdale",
-    "target": "Phil Baker",
-    "targetId": "1219"
-  }
-]
+{
+  "source": "Thomas M. Lauderdale",
+  "targets": [
+    {
+      "name": "China Forbes",
+      "targetId": "1214"
+    },
+    {
+      "name": "Jimmy Scott",
+      "targetId": "1215"
+    },
+    {
+      "name": "Dan Faehnle",
+      "targetId": "1217"
+    },
+    {
+      "name": "Martin Zarzar",
+      "targetId": "1218"
+    },
+    {
+      "name": "Phil Baker",
+      "targetId": "1219"
+    }
+  ]
+}

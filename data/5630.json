@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Soozie Tyrell",
-    "target": "Randy Jackson",
-    "targetId": "59"
-  },
-  {
-    "source": "Soozie Tyrell",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Soozie Tyrell",
-    "target": "Gary Mallaber",
-    "targetId": "330"
-  },
-  {
-    "source": "Soozie Tyrell",
-    "target": "Patti Scialfa",
-    "targetId": "5628"
-  },
-  {
-    "source": "Soozie Tyrell",
-    "target": "Lisa Lowell",
-    "targetId": "5629"
-  }
-]
+{
+  "source": "Soozie Tyrell",
+  "targets": [
+    {
+      "name": "Randy Jackson",
+      "targetId": "59"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Gary Mallaber",
+      "targetId": "330"
+    },
+    {
+      "name": "Patti Scialfa",
+      "targetId": "5628"
+    },
+    {
+      "name": "Lisa Lowell",
+      "targetId": "5629"
+    }
+  ]
+}

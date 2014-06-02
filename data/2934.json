@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Steve Peregrine Took",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  },
-  {
-    "source": "Steve Peregrine Took",
-    "target": "John Peel",
-    "targetId": "2935"
-  }
-]
+{
+  "source": "Steve Peregrine Took",
+  "targets": [
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    },
+    {
+      "name": "John Peel",
+      "targetId": "2935"
+    }
+  ]
+}

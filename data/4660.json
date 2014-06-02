@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Eddie Gladden",
-    "target": "Kirk Lightsey",
-    "targetId": "4095"
-  },
-  {
-    "source": "Eddie Gladden",
-    "target": "Don Moye",
-    "targetId": "4096"
-  },
-  {
-    "source": "Eddie Gladden",
-    "target": "Santi Debriano",
-    "targetId": "4659"
-  },
-  {
-    "source": "Eddie Gladden",
-    "target": "Jerry Gonzalez",
-    "targetId": "4661"
-  },
-  {
-    "source": "Eddie Gladden",
-    "target": "Chico Freeman",
-    "targetId": "4662"
-  },
-  {
-    "source": "Eddie Gladden",
-    "target": "Bobby Routch",
-    "targetId": "4663"
-  }
-]
+{
+  "source": "Eddie Gladden",
+  "targets": [
+    {
+      "name": "Kirk Lightsey",
+      "targetId": "4095"
+    },
+    {
+      "name": "Don Moye",
+      "targetId": "4096"
+    },
+    {
+      "name": "Santi Debriano",
+      "targetId": "4659"
+    },
+    {
+      "name": "Jerry Gonzalez",
+      "targetId": "4661"
+    },
+    {
+      "name": "Chico Freeman",
+      "targetId": "4662"
+    },
+    {
+      "name": "Bobby Routch",
+      "targetId": "4663"
+    }
+  ]
+}

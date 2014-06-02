@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Lani Groves",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Randy Brecker",
-    "targetId": "469"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Bobbye Hall",
-    "targetId": "507"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Donald Fagen",
-    "targetId": "720"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Chuck Rainey",
-    "targetId": "722"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Paul Griffin",
-    "targetId": "723"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Don Grolnick",
-    "targetId": "724"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Steve Khan",
-    "targetId": "725"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Dennis Collins",
-    "targetId": "1030"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "James Gilstrap",
-    "targetId": "2355"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Scott Edwards",
-    "targetId": "2906"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Patti Austin",
-    "targetId": "4229"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Crusher Bennett",
-    "targetId": "4682"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "George Marge",
-    "targetId": "4683"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Walter Kane",
-    "targetId": "4684"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Diva Grey",
-    "targetId": "4685"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Gordon Grody",
-    "targetId": "4686"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Leslie Miller",
-    "targetId": "4688"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Toni Wine",
-    "targetId": "4689"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Shirley Brewer",
-    "targetId": "7442"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Deniece Williams",
-    "targetId": "7450"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Minnie Riperton",
-    "targetId": "7454"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Frank Floyd",
-    "targetId": "7774"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "James Grant",
-    "targetId": "7775"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Bobby Paterson",
-    "targetId": "7776"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Paul McGeechan",
-    "targetId": "7777"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Ronnie Goodman",
-    "targetId": "7778"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Daniel Ben Zebulon",
-    "targetId": "8230"
-  },
-  {
-    "source": "Lani Groves",
-    "target": "Gloria Barley",
-    "targetId": "8231"
-  }
-]
+{
+  "source": "Lani Groves",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Randy Brecker",
+      "targetId": "469"
+    },
+    {
+      "name": "Bobbye Hall",
+      "targetId": "507"
+    },
+    {
+      "name": "Donald Fagen",
+      "targetId": "720"
+    },
+    {
+      "name": "Chuck Rainey",
+      "targetId": "722"
+    },
+    {
+      "name": "Paul Griffin",
+      "targetId": "723"
+    },
+    {
+      "name": "Don Grolnick",
+      "targetId": "724"
+    },
+    {
+      "name": "Steve Khan",
+      "targetId": "725"
+    },
+    {
+      "name": "Dennis Collins",
+      "targetId": "1030"
+    },
+    {
+      "name": "James Gilstrap",
+      "targetId": "2355"
+    },
+    {
+      "name": "Scott Edwards",
+      "targetId": "2906"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Patti Austin",
+      "targetId": "4229"
+    },
+    {
+      "name": "Crusher Bennett",
+      "targetId": "4682"
+    },
+    {
+      "name": "George Marge",
+      "targetId": "4683"
+    },
+    {
+      "name": "Walter Kane",
+      "targetId": "4684"
+    },
+    {
+      "name": "Diva Grey",
+      "targetId": "4685"
+    },
+    {
+      "name": "Gordon Grody",
+      "targetId": "4686"
+    },
+    {
+      "name": "Leslie Miller",
+      "targetId": "4688"
+    },
+    {
+      "name": "Toni Wine",
+      "targetId": "4689"
+    },
+    {
+      "name": "Shirley Brewer",
+      "targetId": "7442"
+    },
+    {
+      "name": "Deniece Williams",
+      "targetId": "7450"
+    },
+    {
+      "name": "Minnie Riperton",
+      "targetId": "7454"
+    },
+    {
+      "name": "Frank Floyd",
+      "targetId": "7774"
+    },
+    {
+      "name": "James Grant",
+      "targetId": "7775"
+    },
+    {
+      "name": "Bobby Paterson",
+      "targetId": "7776"
+    },
+    {
+      "name": "Paul McGeechan",
+      "targetId": "7777"
+    },
+    {
+      "name": "Ronnie Goodman",
+      "targetId": "7778"
+    },
+    {
+      "name": "Daniel Ben Zebulon",
+      "targetId": "8230"
+    },
+    {
+      "name": "Gloria Barley",
+      "targetId": "8231"
+    }
+  ]
+}

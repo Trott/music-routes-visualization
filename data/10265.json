@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Penelope Houston",
-    "target": "Steve Jones",
-    "targetId": "1630"
-  },
-  {
-    "source": "Penelope Houston",
-    "target": "Greg Ingraham",
-    "targetId": "10266"
-  },
-  {
-    "source": "Penelope Houston",
-    "target": "Danny Furious",
-    "targetId": "10267"
-  },
-  {
-    "source": "Penelope Houston",
-    "target": "James Calvin Wilsey",
-    "targetId": "10268"
-  },
-  {
-    "source": "Penelope Houston",
-    "target": "Brad Kent",
-    "targetId": "10269"
-  }
-]
+{
+  "source": "Penelope Houston",
+  "targets": [
+    {
+      "name": "Steve Jones",
+      "targetId": "1630"
+    },
+    {
+      "name": "Greg Ingraham",
+      "targetId": "10266"
+    },
+    {
+      "name": "Danny Furious",
+      "targetId": "10267"
+    },
+    {
+      "name": "James Calvin Wilsey",
+      "targetId": "10268"
+    },
+    {
+      "name": "Brad Kent",
+      "targetId": "10269"
+    }
+  ]
+}

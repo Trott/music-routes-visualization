@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Billy Cox",
-    "target": "Paul Rodgers",
-    "targetId": "939"
-  },
-  {
-    "source": "Billy Cox",
-    "target": "Slash",
-    "targetId": "1287"
-  },
-  {
-    "source": "Billy Cox",
-    "target": "Mitch Mitchell",
-    "targetId": "2685"
-  },
-  {
-    "source": "Billy Cox",
-    "target": "Jimi Hendrix",
-    "targetId": "2689"
-  },
-  {
-    "source": "Billy Cox",
-    "target": "Buddy Miles",
-    "targetId": "6278"
-  }
-]
+{
+  "source": "Billy Cox",
+  "targets": [
+    {
+      "name": "Paul Rodgers",
+      "targetId": "939"
+    },
+    {
+      "name": "Slash",
+      "targetId": "1287"
+    },
+    {
+      "name": "Mitch Mitchell",
+      "targetId": "2685"
+    },
+    {
+      "name": "Jimi Hendrix",
+      "targetId": "2689"
+    },
+    {
+      "name": "Buddy Miles",
+      "targetId": "6278"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "John Mayer",
-    "target": "Billy Joel",
-    "targetId": "63"
-  },
-  {
-    "source": "John Mayer",
-    "target": "B.B. King",
-    "targetId": "565"
-  }
-]
+{
+  "source": "John Mayer",
+  "targets": [
+    {
+      "name": "Billy Joel",
+      "targetId": "63"
+    },
+    {
+      "name": "B.B. King",
+      "targetId": "565"
+    }
+  ]
+}

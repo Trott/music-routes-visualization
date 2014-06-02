@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Knapp",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Mike Knapp",
-    "target": "RuPaul",
-    "targetId": "2814"
-  },
-  {
-    "source": "Mike Knapp",
-    "target": "Linda McCrary Campbell",
-    "targetId": "2815"
-  },
-  {
-    "source": "Mike Knapp",
-    "target": "Marietta Waters",
-    "targetId": "2816"
-  }
-]
+{
+  "source": "Mike Knapp",
+  "targets": [
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "RuPaul",
+      "targetId": "2814"
+    },
+    {
+      "name": "Linda McCrary Campbell",
+      "targetId": "2815"
+    },
+    {
+      "name": "Marietta Waters",
+      "targetId": "2816"
+    }
+  ]
+}

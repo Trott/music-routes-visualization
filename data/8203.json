@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Missy Elliott",
-    "target": "Mary J. Blige",
-    "targetId": "4043"
-  },
-  {
-    "source": "Missy Elliott",
-    "target": "Slick Rick",
-    "targetId": "6131"
-  },
-  {
-    "source": "Missy Elliott",
-    "target": "Grand Puba",
-    "targetId": "8204"
-  },
-  {
-    "source": "Missy Elliott",
-    "target": "M.I.A.",
-    "targetId": "8205"
-  },
-  {
-    "source": "Missy Elliott",
-    "target": "Vybz Kartel",
-    "targetId": "8206"
-  }
-]
+{
+  "source": "Missy Elliott",
+  "targets": [
+    {
+      "name": "Mary J. Blige",
+      "targetId": "4043"
+    },
+    {
+      "name": "Slick Rick",
+      "targetId": "6131"
+    },
+    {
+      "name": "Grand Puba",
+      "targetId": "8204"
+    },
+    {
+      "name": "M.I.A.",
+      "targetId": "8205"
+    },
+    {
+      "name": "Vybz Kartel",
+      "targetId": "8206"
+    }
+  ]
+}

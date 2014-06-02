@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Rick Koster",
-    "target": "Richard Wolfson",
-    "targetId": "3293"
-  },
-  {
-    "source": "Rick Koster",
-    "target": "Glyn Perrin",
-    "targetId": "3299"
-  }
-]
+{
+  "source": "Rick Koster",
+  "targets": [
+    {
+      "name": "Richard Wolfson",
+      "targetId": "3293"
+    },
+    {
+      "name": "Glyn Perrin",
+      "targetId": "3299"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Neil Clark",
-    "target": "Stephen Irvine",
-    "targetId": "5333"
-  },
-  {
-    "source": "Neil Clark",
-    "target": "Lawrence Donegan",
-    "targetId": "5335"
-  },
-  {
-    "source": "Neil Clark",
-    "target": "Blair Cowan",
-    "targetId": "5336"
-  },
-  {
-    "source": "Neil Clark",
-    "target": "Lloyd Cole",
-    "targetId": "5337"
-  }
-]
+{
+  "source": "Neil Clark",
+  "targets": [
+    {
+      "name": "Stephen Irvine",
+      "targetId": "5333"
+    },
+    {
+      "name": "Lawrence Donegan",
+      "targetId": "5335"
+    },
+    {
+      "name": "Blair Cowan",
+      "targetId": "5336"
+    },
+    {
+      "name": "Lloyd Cole",
+      "targetId": "5337"
+    }
+  ]
+}

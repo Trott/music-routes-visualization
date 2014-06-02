@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jim Reid",
-    "target": "Shane MacGowan",
-    "targetId": "3567"
-  },
-  {
-    "source": "Jim Reid",
-    "target": "William Reid",
-    "targetId": "3572"
-  },
-  {
-    "source": "Jim Reid",
-    "target": "Ben Lurie",
-    "targetId": "3574"
-  },
-  {
-    "source": "Jim Reid",
-    "target": "Steve Monti",
-    "targetId": "3575"
-  },
-  {
-    "source": "Jim Reid",
-    "target": "Hope Sandoval",
-    "targetId": "3576"
-  }
-]
+{
+  "source": "Jim Reid",
+  "targets": [
+    {
+      "name": "Shane MacGowan",
+      "targetId": "3567"
+    },
+    {
+      "name": "William Reid",
+      "targetId": "3572"
+    },
+    {
+      "name": "Ben Lurie",
+      "targetId": "3574"
+    },
+    {
+      "name": "Steve Monti",
+      "targetId": "3575"
+    },
+    {
+      "name": "Hope Sandoval",
+      "targetId": "3576"
+    }
+  ]
+}

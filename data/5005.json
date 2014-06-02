@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Don Stevenson",
-    "target": "Skip Spence",
-    "targetId": "2537"
-  },
-  {
-    "source": "Don Stevenson",
-    "target": "Bob Mosley",
-    "targetId": "5004"
-  },
-  {
-    "source": "Don Stevenson",
-    "target": "Jerry Miller",
-    "targetId": "5006"
-  },
-  {
-    "source": "Don Stevenson",
-    "target": "Peter Lewis",
-    "targetId": "5007"
-  }
-]
+{
+  "source": "Don Stevenson",
+  "targets": [
+    {
+      "name": "Skip Spence",
+      "targetId": "2537"
+    },
+    {
+      "name": "Bob Mosley",
+      "targetId": "5004"
+    },
+    {
+      "name": "Jerry Miller",
+      "targetId": "5006"
+    },
+    {
+      "name": "Peter Lewis",
+      "targetId": "5007"
+    }
+  ]
+}

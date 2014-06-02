@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Peter Salisbury",
-    "target": "Simon Tong",
-    "targetId": "8913"
-  },
-  {
-    "source": "Peter Salisbury",
-    "target": "Richard Ashcroft",
-    "targetId": "8914"
-  },
-  {
-    "source": "Peter Salisbury",
-    "target": "Nick McCabe",
-    "targetId": "8915"
-  },
-  {
-    "source": "Peter Salisbury",
-    "target": "Simon Jones",
-    "targetId": "8916"
-  }
-]
+{
+  "source": "Peter Salisbury",
+  "targets": [
+    {
+      "name": "Simon Tong",
+      "targetId": "8913"
+    },
+    {
+      "name": "Richard Ashcroft",
+      "targetId": "8914"
+    },
+    {
+      "name": "Nick McCabe",
+      "targetId": "8915"
+    },
+    {
+      "name": "Simon Jones",
+      "targetId": "8916"
+    }
+  ]
+}

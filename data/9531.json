@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Desi Tomaselli",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Desi Tomaselli",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Desi Tomaselli",
-    "target": "Dan Levine",
-    "targetId": "3686"
-  },
-  {
-    "source": "Desi Tomaselli",
-    "target": "Mark Pender",
-    "targetId": "9530"
-  },
-  {
-    "source": "Desi Tomaselli",
-    "target": "Henry Linnell",
-    "targetId": "9532"
-  }
-]
+{
+  "source": "Desi Tomaselli",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Dan Levine",
+      "targetId": "3686"
+    },
+    {
+      "name": "Mark Pender",
+      "targetId": "9530"
+    },
+    {
+      "name": "Henry Linnell",
+      "targetId": "9532"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Sean Gould",
-    "target": "Katy Perry",
-    "targetId": "6947"
-  },
-  {
-    "source": "Sean Gould",
-    "target": "Dave Katz",
-    "targetId": "6951"
-  }
-]
+{
+  "source": "Sean Gould",
+  "targets": [
+    {
+      "name": "Katy Perry",
+      "targetId": "6947"
+    },
+    {
+      "name": "Dave Katz",
+      "targetId": "6951"
+    }
+  ]
+}

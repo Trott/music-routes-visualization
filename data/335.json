@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Tony Iommi",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Tony Iommi",
-    "target": "Phil Anselmo",
-    "targetId": "334"
-  },
-  {
-    "source": "Tony Iommi",
-    "target": "Laurence Cottle",
-    "targetId": "336"
-  },
-  {
-    "source": "Tony Iommi",
-    "target": "Matt Cameron",
-    "targetId": "337"
-  },
-  {
-    "source": "Tony Iommi",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Tony Iommi",
-    "target": "Ozzy Osbourne",
-    "targetId": "482"
-  },
-  {
-    "source": "Tony Iommi",
-    "target": "Geezer Butler",
-    "targetId": "1433"
-  },
-  {
-    "source": "Tony Iommi",
-    "target": "Bill Ward",
-    "targetId": "1434"
-  }
-]
+{
+  "source": "Tony Iommi",
+  "targets": [
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Phil Anselmo",
+      "targetId": "334"
+    },
+    {
+      "name": "Laurence Cottle",
+      "targetId": "336"
+    },
+    {
+      "name": "Matt Cameron",
+      "targetId": "337"
+    },
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Ozzy Osbourne",
+      "targetId": "482"
+    },
+    {
+      "name": "Geezer Butler",
+      "targetId": "1433"
+    },
+    {
+      "name": "Bill Ward",
+      "targetId": "1434"
+    }
+  ]
+}

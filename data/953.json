@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Jonathan Richman",
-    "target": "Jerry Harrison",
-    "targetId": "192"
-  },
-  {
-    "source": "Jonathan Richman",
-    "target": "David Robinson",
-    "targetId": "954"
-  },
-  {
-    "source": "Jonathan Richman",
-    "target": "Ernie Brooks",
-    "targetId": "955"
-  },
-  {
-    "source": "Jonathan Richman",
-    "target": "John Cale",
-    "targetId": "956"
-  },
-  {
-    "source": "Jonathan Richman",
-    "target": "John Felice",
-    "targetId": "4677"
-  },
-  {
-    "source": "Jonathan Richman",
-    "target": "Tommy Larkins",
-    "targetId": "10989"
-  }
-]
+{
+  "source": "Jonathan Richman",
+  "targets": [
+    {
+      "name": "Jerry Harrison",
+      "targetId": "192"
+    },
+    {
+      "name": "David Robinson",
+      "targetId": "954"
+    },
+    {
+      "name": "Ernie Brooks",
+      "targetId": "955"
+    },
+    {
+      "name": "John Cale",
+      "targetId": "956"
+    },
+    {
+      "name": "John Felice",
+      "targetId": "4677"
+    },
+    {
+      "name": "Tommy Larkins",
+      "targetId": "10989"
+    }
+  ]
+}

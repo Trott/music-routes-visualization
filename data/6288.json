@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Peter Case",
-    "target": "Joe B. Mauldin",
-    "targetId": "6283"
-  },
-  {
-    "source": "Peter Case",
-    "target": "Jerry Allison",
-    "targetId": "6284"
-  },
-  {
-    "source": "Peter Case",
-    "target": "Sonny Curtis",
-    "targetId": "6285"
-  },
-  {
-    "source": "Peter Case",
-    "target": "Tonio K.",
-    "targetId": "6287"
-  },
-  {
-    "source": "Peter Case",
-    "target": "Jack Lee",
-    "targetId": "9536"
-  },
-  {
-    "source": "Peter Case",
-    "target": "Paul Collins",
-    "targetId": "9537"
-  }
-]
+{
+  "source": "Peter Case",
+  "targets": [
+    {
+      "name": "Joe B. Mauldin",
+      "targetId": "6283"
+    },
+    {
+      "name": "Jerry Allison",
+      "targetId": "6284"
+    },
+    {
+      "name": "Sonny Curtis",
+      "targetId": "6285"
+    },
+    {
+      "name": "Tonio K.",
+      "targetId": "6287"
+    },
+    {
+      "name": "Jack Lee",
+      "targetId": "9536"
+    },
+    {
+      "name": "Paul Collins",
+      "targetId": "9537"
+    }
+  ]
+}

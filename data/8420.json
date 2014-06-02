@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bert McCraken",
-    "target": "Kelly LeMieux",
-    "targetId": "8419"
-  },
-  {
-    "source": "Bert McCraken",
-    "target": "Brian Arthur",
-    "targetId": "8421"
-  },
-  {
-    "source": "Bert McCraken",
-    "target": "Darrin Pfeiffer",
-    "targetId": "8422"
-  },
-  {
-    "source": "Bert McCraken",
-    "target": "John Feldmann",
-    "targetId": "8423"
-  }
-]
+{
+  "source": "Bert McCraken",
+  "targets": [
+    {
+      "name": "Kelly LeMieux",
+      "targetId": "8419"
+    },
+    {
+      "name": "Brian Arthur",
+      "targetId": "8421"
+    },
+    {
+      "name": "Darrin Pfeiffer",
+      "targetId": "8422"
+    },
+    {
+      "name": "John Feldmann",
+      "targetId": "8423"
+    }
+  ]
+}

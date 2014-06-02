@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Howard \"Cedric Rainwater\" Watts",
-    "target": "Lester Flatt",
-    "targetId": "3333"
-  },
-  {
-    "source": "Howard \"Cedric Rainwater\" Watts",
-    "target": "Earl Scruggs",
-    "targetId": "3334"
-  },
-  {
-    "source": "Howard \"Cedric Rainwater\" Watts",
-    "target": "Robert \"Chubby\" Wise",
-    "targetId": "7008"
-  },
-  {
-    "source": "Howard \"Cedric Rainwater\" Watts",
-    "target": "Bill Monroe",
-    "targetId": "7009"
-  }
-]
+{
+  "source": "Howard \"Cedric Rainwater\" Watts",
+  "targets": [
+    {
+      "name": "Lester Flatt",
+      "targetId": "3333"
+    },
+    {
+      "name": "Earl Scruggs",
+      "targetId": "3334"
+    },
+    {
+      "name": "Robert \"Chubby\" Wise",
+      "targetId": "7008"
+    },
+    {
+      "name": "Bill Monroe",
+      "targetId": "7009"
+    }
+  ]
+}

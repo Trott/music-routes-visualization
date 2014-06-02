@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Vincent Bell",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Vincent Bell",
-    "target": "Emmylou Harris",
-    "targetId": "450"
-  },
-  {
-    "source": "Vincent Bell",
-    "target": "Dominic Cortese",
-    "targetId": "5657"
-  },
-  {
-    "source": "Vincent Bell",
-    "target": "Howard Wyeth",
-    "targetId": "10056"
-  },
-  {
-    "source": "Vincent Bell",
-    "target": "Scarlet Rivera",
-    "targetId": "10057"
-  },
-  {
-    "source": "Vincent Bell",
-    "target": "Rob Stoner",
-    "targetId": "10061"
-  }
-]
+{
+  "source": "Vincent Bell",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Emmylou Harris",
+      "targetId": "450"
+    },
+    {
+      "name": "Dominic Cortese",
+      "targetId": "5657"
+    },
+    {
+      "name": "Howard Wyeth",
+      "targetId": "10056"
+    },
+    {
+      "name": "Scarlet Rivera",
+      "targetId": "10057"
+    },
+    {
+      "name": "Rob Stoner",
+      "targetId": "10061"
+    }
+  ]
+}

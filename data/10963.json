@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Damon Minchella",
-    "target": "Steve White",
-    "targetId": "2065"
-  },
-  {
-    "source": "Damon Minchella",
-    "target": "Mick Talbot",
-    "targetId": "10959"
-  },
-  {
-    "source": "Damon Minchella",
-    "target": "Aziz Ibrahim",
-    "targetId": "10964"
-  }
-]
+{
+  "source": "Damon Minchella",
+  "targets": [
+    {
+      "name": "Steve White",
+      "targetId": "2065"
+    },
+    {
+      "name": "Mick Talbot",
+      "targetId": "10959"
+    },
+    {
+      "name": "Aziz Ibrahim",
+      "targetId": "10964"
+    }
+  ]
+}

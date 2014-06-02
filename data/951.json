@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Rick Allen",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Rick Allen",
-    "target": "Robert John \"Mutt\" Lange",
-    "targetId": "864"
-  },
-  {
-    "source": "Rick Allen",
-    "target": "Joe Elliott",
-    "targetId": "947"
-  },
-  {
-    "source": "Rick Allen",
-    "target": "Rick Savage",
-    "targetId": "948"
-  },
-  {
-    "source": "Rick Allen",
-    "target": "Pete Willis",
-    "targetId": "952"
-  }
-]
+{
+  "source": "Rick Allen",
+  "targets": [
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Robert John \"Mutt\" Lange",
+      "targetId": "864"
+    },
+    {
+      "name": "Joe Elliott",
+      "targetId": "947"
+    },
+    {
+      "name": "Rick Savage",
+      "targetId": "948"
+    },
+    {
+      "name": "Pete Willis",
+      "targetId": "952"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Peter Yarrow",
-    "target": "John Simon",
-    "targetId": "629"
-  },
-  {
-    "source": "Peter Yarrow",
-    "target": "Paul Griffin",
-    "targetId": "723"
-  },
-  {
-    "source": "Peter Yarrow",
-    "target": "Noel \"Paul\" Stookey",
-    "targetId": "8315"
-  },
-  {
-    "source": "Peter Yarrow",
-    "target": "Mary Travers",
-    "targetId": "8316"
-  },
-  {
-    "source": "Peter Yarrow",
-    "target": "Bill Crow",
-    "targetId": "8983"
-  }
-]
+{
+  "source": "Peter Yarrow",
+  "targets": [
+    {
+      "name": "John Simon",
+      "targetId": "629"
+    },
+    {
+      "name": "Paul Griffin",
+      "targetId": "723"
+    },
+    {
+      "name": "Noel \"Paul\" Stookey",
+      "targetId": "8315"
+    },
+    {
+      "name": "Mary Travers",
+      "targetId": "8316"
+    },
+    {
+      "name": "Bill Crow",
+      "targetId": "8983"
+    }
+  ]
+}

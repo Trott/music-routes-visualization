@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Vudi",
-    "target": "Tim Mooney",
-    "targetId": "1001"
-  },
-  {
-    "source": "Vudi",
-    "target": "Bruce Kaphan",
-    "targetId": "1065"
-  },
-  {
-    "source": "Vudi",
-    "target": "Mark Eitzel",
-    "targetId": "2598"
-  },
-  {
-    "source": "Vudi",
-    "target": "Dan Pearson",
-    "targetId": "2599"
-  },
-  {
-    "source": "Vudi",
-    "target": "Jane Jarboe",
-    "targetId": "2601"
-  },
-  {
-    "source": "Vudi",
-    "target": "Joe Goldring",
-    "targetId": "2602"
-  },
-  {
-    "source": "Vudi",
-    "target": "Larry Mullins",
-    "targetId": "2603"
-  },
-  {
-    "source": "Vudi",
-    "target": "Michael Gira",
-    "targetId": "2604"
-  }
-]
+{
+  "source": "Vudi",
+  "targets": [
+    {
+      "name": "Tim Mooney",
+      "targetId": "1001"
+    },
+    {
+      "name": "Bruce Kaphan",
+      "targetId": "1065"
+    },
+    {
+      "name": "Mark Eitzel",
+      "targetId": "2598"
+    },
+    {
+      "name": "Dan Pearson",
+      "targetId": "2599"
+    },
+    {
+      "name": "Jane Jarboe",
+      "targetId": "2601"
+    },
+    {
+      "name": "Joe Goldring",
+      "targetId": "2602"
+    },
+    {
+      "name": "Larry Mullins",
+      "targetId": "2603"
+    },
+    {
+      "name": "Michael Gira",
+      "targetId": "2604"
+    }
+  ]
+}

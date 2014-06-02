@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Marie Osmond",
-    "target": "Paul Davis",
-    "targetId": "318"
-  },
-  {
-    "source": "Marie Osmond",
-    "target": "Donny Osmond",
-    "targetId": "7217"
-  }
-]
+{
+  "source": "Marie Osmond",
+  "targets": [
+    {
+      "name": "Paul Davis",
+      "targetId": "318"
+    },
+    {
+      "name": "Donny Osmond",
+      "targetId": "7217"
+    }
+  ]
+}

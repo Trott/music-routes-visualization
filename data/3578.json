@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Syd Barrett",
-    "target": "Nick Mason",
-    "targetId": "2001"
-  },
-  {
-    "source": "Syd Barrett",
-    "target": "Richard Wright",
-    "targetId": "2002"
-  },
-  {
-    "source": "Syd Barrett",
-    "target": "Roger Waters",
-    "targetId": "2003"
-  }
-]
+{
+  "source": "Syd Barrett",
+  "targets": [
+    {
+      "name": "Nick Mason",
+      "targetId": "2001"
+    },
+    {
+      "name": "Richard Wright",
+      "targetId": "2002"
+    },
+    {
+      "name": "Roger Waters",
+      "targetId": "2003"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jay Lane",
-    "target": "Les Claypool",
-    "targetId": "495"
-  },
-  {
-    "source": "Jay Lane",
-    "target": "Todd Huth",
-    "targetId": "11029"
-  }
-]
+{
+  "source": "Jay Lane",
+  "targets": [
+    {
+      "name": "Les Claypool",
+      "targetId": "495"
+    },
+    {
+      "name": "Todd Huth",
+      "targetId": "11029"
+    }
+  ]
+}

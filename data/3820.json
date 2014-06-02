@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Don Blum",
-    "target": "Jason Stollsteimer",
-    "targetId": "3817"
-  },
-  {
-    "source": "Don Blum",
-    "target": "Carrie Smith",
-    "targetId": "3818"
-  },
-  {
-    "source": "Don Blum",
-    "target": "Marcie Bolen",
-    "targetId": "3819"
-  }
-]
+{
+  "source": "Don Blum",
+  "targets": [
+    {
+      "name": "Jason Stollsteimer",
+      "targetId": "3817"
+    },
+    {
+      "name": "Carrie Smith",
+      "targetId": "3818"
+    },
+    {
+      "name": "Marcie Bolen",
+      "targetId": "3819"
+    }
+  ]
+}

@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Jim Pons",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Aynsley Dunbar",
-    "targetId": "264"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Ian Underwood",
-    "targetId": "816"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Howard Kaylan",
-    "targetId": "1829"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Mark Volman",
-    "targetId": "1830"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Yoko Ono",
-    "targetId": "2686"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Don Preston",
-    "targetId": "6586"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Jimmy Carl Black",
-    "targetId": "6591"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Don Preston",
-    "targetId": "7421"
-  },
-  {
-    "source": "Jim Pons",
-    "target": "Bob Harris",
-    "targetId": "7548"
-  }
-]
+{
+  "source": "Jim Pons",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Aynsley Dunbar",
+      "targetId": "264"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Ian Underwood",
+      "targetId": "816"
+    },
+    {
+      "name": "Howard Kaylan",
+      "targetId": "1829"
+    },
+    {
+      "name": "Mark Volman",
+      "targetId": "1830"
+    },
+    {
+      "name": "Yoko Ono",
+      "targetId": "2686"
+    },
+    {
+      "name": "Don Preston",
+      "targetId": "6586"
+    },
+    {
+      "name": "Jimmy Carl Black",
+      "targetId": "6591"
+    },
+    {
+      "name": "Don Preston",
+      "targetId": "7421"
+    },
+    {
+      "name": "Bob Harris",
+      "targetId": "7548"
+    }
+  ]
+}

@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Neil Burke",
-    "target": "Joe Preston",
-    "targetId": "4121"
-  },
-  {
-    "source": "Neil Burke",
-    "target": "Matt Brinkman",
-    "targetId": "4998"
-  },
-  {
-    "source": "Neil Burke",
-    "target": "Fast Forward",
-    "targetId": "5000"
-  },
-  {
-    "source": "Neil Burke",
-    "target": "Sam \"Bland\" McPheeters",
-    "targetId": "5001"
-  },
-  {
-    "source": "Neil Burke",
-    "target": "Rick Pelletier",
-    "targetId": "5318"
-  },
-  {
-    "source": "Neil Burke",
-    "target": "Jeremy Ryan",
-    "targetId": "5320"
-  },
-  {
-    "source": "Neil Burke",
-    "target": "John Von Ryan",
-    "targetId": "5321"
-  }
-]
+{
+  "source": "Neil Burke",
+  "targets": [
+    {
+      "name": "Joe Preston",
+      "targetId": "4121"
+    },
+    {
+      "name": "Matt Brinkman",
+      "targetId": "4998"
+    },
+    {
+      "name": "Fast Forward",
+      "targetId": "5000"
+    },
+    {
+      "name": "Sam \"Bland\" McPheeters",
+      "targetId": "5001"
+    },
+    {
+      "name": "Rick Pelletier",
+      "targetId": "5318"
+    },
+    {
+      "name": "Jeremy Ryan",
+      "targetId": "5320"
+    },
+    {
+      "name": "John Von Ryan",
+      "targetId": "5321"
+    }
+  ]
+}

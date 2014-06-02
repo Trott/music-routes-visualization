@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Terry Chambers",
-    "target": "Andy Partridge",
-    "targetId": "880"
-  },
-  {
-    "source": "Terry Chambers",
-    "target": "Colin Moulding",
-    "targetId": "1226"
-  },
-  {
-    "source": "Terry Chambers",
-    "target": "Barry Andrews",
-    "targetId": "1227"
-  }
-]
+{
+  "source": "Terry Chambers",
+  "targets": [
+    {
+      "name": "Andy Partridge",
+      "targetId": "880"
+    },
+    {
+      "name": "Colin Moulding",
+      "targetId": "1226"
+    },
+    {
+      "name": "Barry Andrews",
+      "targetId": "1227"
+    }
+  ]
+}

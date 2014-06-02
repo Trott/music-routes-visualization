@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Anders Johansson",
-    "target": "Yngwie Malmsteen",
-    "targetId": "164"
-  },
-  {
-    "source": "Anders Johansson",
-    "target": "Barry Dunaway",
-    "targetId": "319"
-  },
-  {
-    "source": "Anders Johansson",
-    "target": "Joe Lynn Turner",
-    "targetId": "323"
-  },
-  {
-    "source": "Anders Johansson",
-    "target": "Jens Johansson",
-    "targetId": "324"
-  }
-]
+{
+  "source": "Anders Johansson",
+  "targets": [
+    {
+      "name": "Yngwie Malmsteen",
+      "targetId": "164"
+    },
+    {
+      "name": "Barry Dunaway",
+      "targetId": "319"
+    },
+    {
+      "name": "Joe Lynn Turner",
+      "targetId": "323"
+    },
+    {
+      "name": "Jens Johansson",
+      "targetId": "324"
+    }
+  ]
+}

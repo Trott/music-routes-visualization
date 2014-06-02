@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Manfred Mann",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Chris Slade",
-    "targetId": "940"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Suzanne Lynch",
-    "targetId": "1092"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Jack Bruce",
-    "targetId": "1733"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Irene Chanter",
-    "targetId": "1956"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Doreen Chanter",
-    "targetId": "1959"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Tom McGuinness",
-    "targetId": "3141"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Mike Hugg",
-    "targetId": "3142"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Mike d'Abo",
-    "targetId": "3143"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Paul Jones",
-    "targetId": "3189"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Colin Pattenden",
-    "targetId": "3872"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Dave Flett",
-    "targetId": "3873"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Trevor Rabin",
-    "targetId": "4183"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Geoff Britton",
-    "targetId": "5543"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Pat King",
-    "targetId": "5544"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Steve Waller",
-    "targetId": "5545"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Mike Vickers",
-    "targetId": "5597"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Steve York",
-    "targetId": "5602"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Craig Collinge",
-    "targetId": "5603"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Bernie Living",
-    "targetId": "5604"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Brian Hugg",
-    "targetId": "5605"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Harold Beckett",
-    "targetId": "5606"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Mick Rogers",
-    "targetId": "5607"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Matt Irving",
-    "targetId": "5608"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "John Lingwood",
-    "targetId": "5609"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Shona Laing",
-    "targetId": "5610"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Steve Kinch",
-    "targetId": "5611"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "David Farmer",
-    "targetId": "5612"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Clive Bunker",
-    "targetId": "5613"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Noel McCalla",
-    "targetId": "5614"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Lyn Dobson",
-    "targetId": "5645"
-  },
-  {
-    "source": "Manfred Mann",
-    "target": "Henry Lowther",
-    "targetId": "5646"
-  }
-]
+{
+  "source": "Manfred Mann",
+  "targets": [
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Chris Slade",
+      "targetId": "940"
+    },
+    {
+      "name": "Suzanne Lynch",
+      "targetId": "1092"
+    },
+    {
+      "name": "Jack Bruce",
+      "targetId": "1733"
+    },
+    {
+      "name": "Irene Chanter",
+      "targetId": "1956"
+    },
+    {
+      "name": "Doreen Chanter",
+      "targetId": "1959"
+    },
+    {
+      "name": "Tom McGuinness",
+      "targetId": "3141"
+    },
+    {
+      "name": "Mike Hugg",
+      "targetId": "3142"
+    },
+    {
+      "name": "Mike d'Abo",
+      "targetId": "3143"
+    },
+    {
+      "name": "Paul Jones",
+      "targetId": "3189"
+    },
+    {
+      "name": "Colin Pattenden",
+      "targetId": "3872"
+    },
+    {
+      "name": "Dave Flett",
+      "targetId": "3873"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Trevor Rabin",
+      "targetId": "4183"
+    },
+    {
+      "name": "Geoff Britton",
+      "targetId": "5543"
+    },
+    {
+      "name": "Pat King",
+      "targetId": "5544"
+    },
+    {
+      "name": "Steve Waller",
+      "targetId": "5545"
+    },
+    {
+      "name": "Mike Vickers",
+      "targetId": "5597"
+    },
+    {
+      "name": "Steve York",
+      "targetId": "5602"
+    },
+    {
+      "name": "Craig Collinge",
+      "targetId": "5603"
+    },
+    {
+      "name": "Bernie Living",
+      "targetId": "5604"
+    },
+    {
+      "name": "Brian Hugg",
+      "targetId": "5605"
+    },
+    {
+      "name": "Harold Beckett",
+      "targetId": "5606"
+    },
+    {
+      "name": "Mick Rogers",
+      "targetId": "5607"
+    },
+    {
+      "name": "Matt Irving",
+      "targetId": "5608"
+    },
+    {
+      "name": "John Lingwood",
+      "targetId": "5609"
+    },
+    {
+      "name": "Shona Laing",
+      "targetId": "5610"
+    },
+    {
+      "name": "Steve Kinch",
+      "targetId": "5611"
+    },
+    {
+      "name": "David Farmer",
+      "targetId": "5612"
+    },
+    {
+      "name": "Clive Bunker",
+      "targetId": "5613"
+    },
+    {
+      "name": "Noel McCalla",
+      "targetId": "5614"
+    },
+    {
+      "name": "Lyn Dobson",
+      "targetId": "5645"
+    },
+    {
+      "name": "Henry Lowther",
+      "targetId": "5646"
+    }
+  ]
+}

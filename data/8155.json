@@ -1,192 +1,157 @@
-[
-  {
-    "source": "Tommy Makem",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Roger McGuinn",
-    "targetId": "308"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Kris Kristofferson",
-    "targetId": "570"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Mary Chapin Carpenter",
-    "targetId": "576"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Sinéad O'Connor",
-    "targetId": "596"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Sheryl Crow",
-    "targetId": "1018"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Dennis Collins",
-    "targetId": "1030"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Curtis King",
-    "targetId": "1032"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Chrissie Hynde",
-    "targetId": "1778"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Stan Lynch",
-    "targetId": "2563"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Brenda White King",
-    "targetId": "4378"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Shawn Colvin",
-    "targetId": "5889"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Tracy Chapman",
-    "targetId": "6105"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Booker T. Jones",
-    "targetId": "6245"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Nanci Griffith",
-    "targetId": "6289"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Helen O'Connell",
-    "targetId": "6793"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Roseanne Carter Cash",
-    "targetId": "8150"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Richie Havens",
-    "targetId": "8151"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Liam Clancy",
-    "targetId": "8154"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "June Carter Cash",
-    "targetId": "8159"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Bobby Clancy",
-    "targetId": "8160"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Paddy Clancy",
-    "targetId": "8161"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Christine Ohlman",
-    "targetId": "8165"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "G.E. Smith",
-    "targetId": "8167"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "George Thorogood",
-    "targetId": "8188"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Sophie B. Hawkins",
-    "targetId": "8189"
-  },
-  {
-    "source": "Tommy Makem",
-    "target": "Carolyn Hester",
-    "targetId": "8190"
-  }
-]
+{
+  "source": "Tommy Makem",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Roger McGuinn",
+      "targetId": "308"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "Kris Kristofferson",
+      "targetId": "570"
+    },
+    {
+      "name": "Mary Chapin Carpenter",
+      "targetId": "576"
+    },
+    {
+      "name": "Sinéad O'Connor",
+      "targetId": "596"
+    },
+    {
+      "name": "Sheryl Crow",
+      "targetId": "1018"
+    },
+    {
+      "name": "Dennis Collins",
+      "targetId": "1030"
+    },
+    {
+      "name": "Curtis King",
+      "targetId": "1032"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "Chrissie Hynde",
+      "targetId": "1778"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Stan Lynch",
+      "targetId": "2563"
+    },
+    {
+      "name": "Brenda White King",
+      "targetId": "4378"
+    },
+    {
+      "name": "Shawn Colvin",
+      "targetId": "5889"
+    },
+    {
+      "name": "Tracy Chapman",
+      "targetId": "6105"
+    },
+    {
+      "name": "Booker T. Jones",
+      "targetId": "6245"
+    },
+    {
+      "name": "Nanci Griffith",
+      "targetId": "6289"
+    },
+    {
+      "name": "Helen O'Connell",
+      "targetId": "6793"
+    },
+    {
+      "name": "Roseanne Carter Cash",
+      "targetId": "8150"
+    },
+    {
+      "name": "Richie Havens",
+      "targetId": "8151"
+    },
+    {
+      "name": "Liam Clancy",
+      "targetId": "8154"
+    },
+    {
+      "name": "June Carter Cash",
+      "targetId": "8159"
+    },
+    {
+      "name": "Bobby Clancy",
+      "targetId": "8160"
+    },
+    {
+      "name": "Paddy Clancy",
+      "targetId": "8161"
+    },
+    {
+      "name": "Christine Ohlman",
+      "targetId": "8165"
+    },
+    {
+      "name": "G.E. Smith",
+      "targetId": "8167"
+    },
+    {
+      "name": "George Thorogood",
+      "targetId": "8188"
+    },
+    {
+      "name": "Sophie B. Hawkins",
+      "targetId": "8189"
+    },
+    {
+      "name": "Carolyn Hester",
+      "targetId": "8190"
+    }
+  ]
+}

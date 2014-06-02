@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Rusty Kershaw",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "Rusty Kershaw",
-    "target": "Ben Keith",
-    "targetId": "512"
-  },
-  {
-    "source": "Rusty Kershaw",
-    "target": "Ralph Molina",
-    "targetId": "3288"
-  }
-]
+{
+  "source": "Rusty Kershaw",
+  "targets": [
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "Ben Keith",
+      "targetId": "512"
+    },
+    {
+      "name": "Ralph Molina",
+      "targetId": "3288"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Terminator X",
-    "target": "Chuck D",
-    "targetId": "349"
-  },
-  {
-    "source": "Terminator X",
-    "target": "Flavor Flav",
-    "targetId": "350"
-  },
-  {
-    "source": "Terminator X",
-    "target": "Professor Griff",
-    "targetId": "351"
-  }
-]
+{
+  "source": "Terminator X",
+  "targets": [
+    {
+      "name": "Chuck D",
+      "targetId": "349"
+    },
+    {
+      "name": "Flavor Flav",
+      "targetId": "350"
+    },
+    {
+      "name": "Professor Griff",
+      "targetId": "351"
+    }
+  ]
+}

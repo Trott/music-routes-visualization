@@ -1,42 +1,37 @@
-[
-  {
-    "source": "David Owens",
-    "target": "Budgie",
-    "targetId": "364"
-  },
-  {
-    "source": "David Owens",
-    "target": "Leland Sklar",
-    "targetId": "421"
-  },
-  {
-    "source": "David Owens",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "David Owens",
-    "target": "Matthew Seligman",
-    "targetId": "865"
-  },
-  {
-    "source": "David Owens",
-    "target": "Jerry Garcia",
-    "targetId": "918"
-  },
-  {
-    "source": "David Owens",
-    "target": "Larry Treadwell",
-    "targetId": "1302"
-  },
-  {
-    "source": "David Owens",
-    "target": "Jon Klein",
-    "targetId": "1316"
-  },
-  {
-    "source": "David Owens",
-    "target": "Bob Weir",
-    "targetId": "1317"
-  }
-]
+{
+  "source": "David Owens",
+  "targets": [
+    {
+      "name": "Budgie",
+      "targetId": "364"
+    },
+    {
+      "name": "Leland Sklar",
+      "targetId": "421"
+    },
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Matthew Seligman",
+      "targetId": "865"
+    },
+    {
+      "name": "Jerry Garcia",
+      "targetId": "918"
+    },
+    {
+      "name": "Larry Treadwell",
+      "targetId": "1302"
+    },
+    {
+      "name": "Jon Klein",
+      "targetId": "1316"
+    },
+    {
+      "name": "Bob Weir",
+      "targetId": "1317"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jean-Louis Viale",
-    "target": "Django Reinhardt",
-    "targetId": "1156"
-  },
-  {
-    "source": "Jean-Louis Viale",
-    "target": "Pierre Michelot",
-    "targetId": "1187"
-  },
-  {
-    "source": "Jean-Louis Viale",
-    "target": "Maurice Vander",
-    "targetId": "1189"
-  }
-]
+{
+  "source": "Jean-Louis Viale",
+  "targets": [
+    {
+      "name": "Django Reinhardt",
+      "targetId": "1156"
+    },
+    {
+      "name": "Pierre Michelot",
+      "targetId": "1187"
+    },
+    {
+      "name": "Maurice Vander",
+      "targetId": "1189"
+    }
+  ]
+}

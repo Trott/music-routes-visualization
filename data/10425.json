@@ -1,12 +1,13 @@
-[
-  {
-    "source": "John Patitucci",
-    "target": "Vinnie Colaiuta",
-    "targetId": "839"
-  },
-  {
-    "source": "John Patitucci",
-    "target": "Chick Corea",
-    "targetId": "919"
-  }
-]
+{
+  "source": "John Patitucci",
+  "targets": [
+    {
+      "name": "Vinnie Colaiuta",
+      "targetId": "839"
+    },
+    {
+      "name": "Chick Corea",
+      "targetId": "919"
+    }
+  ]
+}

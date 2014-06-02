@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Yoko Ono",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Aynsley Dunbar",
-    "targetId": "264"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Mal Evans",
-    "targetId": "630"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Ian Underwood",
-    "targetId": "816"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Bonnie Bramlett",
-    "targetId": "992"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Howard Kaylan",
-    "targetId": "1829"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Mark Volman",
-    "targetId": "1830"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Mitch Mitchell",
-    "targetId": "2685"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Ivry Gitlis",
-    "targetId": "2687"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Jim Price",
-    "targetId": "3197"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Patti Harrison",
-    "targetId": "3363"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Alan White",
-    "targetId": "4428"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Gary Van Scyoc",
-    "targetId": "5990"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Rick Frank",
-    "targetId": "5991"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Wayne \"Tex\" Gabriel",
-    "targetId": "5992"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Adam Ippolito",
-    "targetId": "5993"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Stan Bronstein",
-    "targetId": "5994"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Don Preston",
-    "targetId": "6586"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Jim Pons",
-    "targetId": "7547"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Bob Harris",
-    "targetId": "7548"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Chris Thomas",
-    "targetId": "8639"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Delaney Bramlett",
-    "targetId": "8898"
-  },
-  {
-    "source": "Yoko Ono",
-    "target": "Maureen Starkey",
-    "targetId": "9818"
-  }
-]
+{
+  "source": "Yoko Ono",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Aynsley Dunbar",
+      "targetId": "264"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Mal Evans",
+      "targetId": "630"
+    },
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Ian Underwood",
+      "targetId": "816"
+    },
+    {
+      "name": "Bonnie Bramlett",
+      "targetId": "992"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Howard Kaylan",
+      "targetId": "1829"
+    },
+    {
+      "name": "Mark Volman",
+      "targetId": "1830"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Mitch Mitchell",
+      "targetId": "2685"
+    },
+    {
+      "name": "Ivry Gitlis",
+      "targetId": "2687"
+    },
+    {
+      "name": "Jim Price",
+      "targetId": "3197"
+    },
+    {
+      "name": "Patti Harrison",
+      "targetId": "3363"
+    },
+    {
+      "name": "Alan White",
+      "targetId": "4428"
+    },
+    {
+      "name": "Gary Van Scyoc",
+      "targetId": "5990"
+    },
+    {
+      "name": "Rick Frank",
+      "targetId": "5991"
+    },
+    {
+      "name": "Wayne \"Tex\" Gabriel",
+      "targetId": "5992"
+    },
+    {
+      "name": "Adam Ippolito",
+      "targetId": "5993"
+    },
+    {
+      "name": "Stan Bronstein",
+      "targetId": "5994"
+    },
+    {
+      "name": "Don Preston",
+      "targetId": "6586"
+    },
+    {
+      "name": "Jim Pons",
+      "targetId": "7547"
+    },
+    {
+      "name": "Bob Harris",
+      "targetId": "7548"
+    },
+    {
+      "name": "Chris Thomas",
+      "targetId": "8639"
+    },
+    {
+      "name": "Delaney Bramlett",
+      "targetId": "8898"
+    },
+    {
+      "name": "Maureen Starkey",
+      "targetId": "9818"
+    }
+  ]
+}

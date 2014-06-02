@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Monk Montgomery",
-    "target": "Art Farmer",
-    "targetId": "11022"
-  },
-  {
-    "source": "Monk Montgomery",
-    "target": "Oscar Estell",
-    "targetId": "11023"
-  },
-  {
-    "source": "Monk Montgomery",
-    "target": "Sonny Johnson",
-    "targetId": "11025"
-  },
-  {
-    "source": "Monk Montgomery",
-    "target": "Quincy Jones",
-    "targetId": "11026"
-  },
-  {
-    "source": "Monk Montgomery",
-    "target": "Jimmy Cleveland",
-    "targetId": "7928"
-  },
-  {
-    "source": "Monk Montgomery",
-    "target": "Clifford Solomon",
-    "targetId": "11027"
-  }
-]
+{
+  "source": "Monk Montgomery",
+  "targets": [
+    {
+      "name": "Art Farmer",
+      "targetId": "11022"
+    },
+    {
+      "name": "Oscar Estell",
+      "targetId": "11023"
+    },
+    {
+      "name": "Sonny Johnson",
+      "targetId": "11025"
+    },
+    {
+      "name": "Quincy Jones",
+      "targetId": "11026"
+    },
+    {
+      "name": "Jimmy Cleveland",
+      "targetId": "7928"
+    },
+    {
+      "name": "Clifford Solomon",
+      "targetId": "11027"
+    }
+  ]
+}

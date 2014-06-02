@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Eddie Minnifield",
-    "target": "Sheila E.",
-    "targetId": "51"
-  },
-  {
-    "source": "Eddie Minnifield",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Eddie Minnifield",
-    "target": "Juan Escovedo",
-    "targetId": "3393"
-  },
-  {
-    "source": "Eddie Minnifield",
-    "target": "Susie Davis",
-    "targetId": "4552"
-  },
-  {
-    "source": "Eddie Minnifield",
-    "target": "Steph Birnbaum",
-    "targetId": "4554"
-  },
-  {
-    "source": "Eddie Minnifield",
-    "target": "Mico Weaver",
-    "targetId": "4555"
-  }
-]
+{
+  "source": "Eddie Minnifield",
+  "targets": [
+    {
+      "name": "Sheila E.",
+      "targetId": "51"
+    },
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Juan Escovedo",
+      "targetId": "3393"
+    },
+    {
+      "name": "Susie Davis",
+      "targetId": "4552"
+    },
+    {
+      "name": "Steph Birnbaum",
+      "targetId": "4554"
+    },
+    {
+      "name": "Mico Weaver",
+      "targetId": "4555"
+    }
+  ]
+}

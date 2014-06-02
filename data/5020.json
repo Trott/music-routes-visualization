@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dave Walker",
-    "target": "Andy Pyle",
-    "targetId": "2519"
-  },
-  {
-    "source": "Dave Walker",
-    "target": "Paul Raymond",
-    "targetId": "5018"
-  },
-  {
-    "source": "Dave Walker",
-    "target": "Kim Simmonds",
-    "targetId": "5021"
-  },
-  {
-    "source": "Dave Walker",
-    "target": "Dave Bidwell",
-    "targetId": "5022"
-  }
-]
+{
+  "source": "Dave Walker",
+  "targets": [
+    {
+      "name": "Andy Pyle",
+      "targetId": "2519"
+    },
+    {
+      "name": "Paul Raymond",
+      "targetId": "5018"
+    },
+    {
+      "name": "Kim Simmonds",
+      "targetId": "5021"
+    },
+    {
+      "name": "Dave Bidwell",
+      "targetId": "5022"
+    }
+  ]
+}

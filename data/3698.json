@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mal McNulty",
-    "target": "Phil Lanzon",
-    "targetId": "3696"
-  },
-  {
-    "source": "Mal McNulty",
-    "target": "Andy Scott",
-    "targetId": "3697"
-  },
-  {
-    "source": "Mal McNulty",
-    "target": "Mick Tucker",
-    "targetId": "3699"
-  },
-  {
-    "source": "Mal McNulty",
-    "target": "Paul Mario Day",
-    "targetId": "3700"
-  }
-]
+{
+  "source": "Mal McNulty",
+  "targets": [
+    {
+      "name": "Phil Lanzon",
+      "targetId": "3696"
+    },
+    {
+      "name": "Andy Scott",
+      "targetId": "3697"
+    },
+    {
+      "name": "Mick Tucker",
+      "targetId": "3699"
+    },
+    {
+      "name": "Paul Mario Day",
+      "targetId": "3700"
+    }
+  ]
+}

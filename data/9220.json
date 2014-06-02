@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John McEntire",
-    "target": "David Pajo",
-    "targetId": "9215"
-  },
-  {
-    "source": "John McEntire",
-    "target": "Dan Bitney",
-    "targetId": "9217"
-  },
-  {
-    "source": "John McEntire",
-    "target": "Douglas McCombs",
-    "targetId": "9218"
-  },
-  {
-    "source": "John McEntire",
-    "target": "John Herndon",
-    "targetId": "9219"
-  }
-]
+{
+  "source": "John McEntire",
+  "targets": [
+    {
+      "name": "David Pajo",
+      "targetId": "9215"
+    },
+    {
+      "name": "Dan Bitney",
+      "targetId": "9217"
+    },
+    {
+      "name": "Douglas McCombs",
+      "targetId": "9218"
+    },
+    {
+      "name": "John Herndon",
+      "targetId": "9219"
+    }
+  ]
+}

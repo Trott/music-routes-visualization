@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Scott Ansell",
-    "target": "Bruce Woolley",
-    "targetId": "860"
-  },
-  {
-    "source": "Scott Ansell",
-    "target": "Nile Rodgers",
-    "targetId": "2204"
-  },
-  {
-    "source": "Scott Ansell",
-    "target": "Grace Jones",
-    "targetId": "6593"
-  }
-]
+{
+  "source": "Scott Ansell",
+  "targets": [
+    {
+      "name": "Bruce Woolley",
+      "targetId": "860"
+    },
+    {
+      "name": "Nile Rodgers",
+      "targetId": "2204"
+    },
+    {
+      "name": "Grace Jones",
+      "targetId": "6593"
+    }
+  ]
+}

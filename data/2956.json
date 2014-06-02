@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dusty Hill",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Dusty Hill",
-    "target": "Billy Gibbons",
-    "targetId": "2118"
-  },
-  {
-    "source": "Dusty Hill",
-    "target": "Frank Beard",
-    "targetId": "2955"
-  }
-]
+{
+  "source": "Dusty Hill",
+  "targets": [
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Billy Gibbons",
+      "targetId": "2118"
+    },
+    {
+      "name": "Frank Beard",
+      "targetId": "2955"
+    }
+  ]
+}

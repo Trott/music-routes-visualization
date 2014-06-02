@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mark Price",
-    "target": "David Gilmour",
-    "targetId": "275"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Marty Willson-Piper",
-    "targetId": "3794"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Andy Cousin",
-    "targetId": "7811"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Julianne Regan",
-    "targetId": "7812"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Lynda Hayes",
-    "targetId": "7813"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Gavyn Wright",
-    "targetId": "7814"
-  }
-]
+{
+  "source": "Mark Price",
+  "targets": [
+    {
+      "name": "David Gilmour",
+      "targetId": "275"
+    },
+    {
+      "name": "Marty Willson-Piper",
+      "targetId": "3794"
+    },
+    {
+      "name": "Andy Cousin",
+      "targetId": "7811"
+    },
+    {
+      "name": "Julianne Regan",
+      "targetId": "7812"
+    },
+    {
+      "name": "Lynda Hayes",
+      "targetId": "7813"
+    },
+    {
+      "name": "Gavyn Wright",
+      "targetId": "7814"
+    }
+  ]
+}

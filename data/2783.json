@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Arthur Googy",
-    "target": "Jerry Only",
-    "targetId": "2105"
-  },
-  {
-    "source": "Arthur Googy",
-    "target": "Glenn Danzig",
-    "targetId": "2389"
-  },
-  {
-    "source": "Arthur Googy",
-    "target": "Doyle",
-    "targetId": "2784"
-  }
-]
+{
+  "source": "Arthur Googy",
+  "targets": [
+    {
+      "name": "Jerry Only",
+      "targetId": "2105"
+    },
+    {
+      "name": "Glenn Danzig",
+      "targetId": "2389"
+    },
+    {
+      "name": "Doyle",
+      "targetId": "2784"
+    }
+  ]
+}

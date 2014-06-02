@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Glenn Hansen",
-    "target": "Joe Cangelosi",
-    "targetId": "9000"
-  },
-  {
-    "source": "Glenn Hansen",
-    "target": "Tony Bono",
-    "targetId": "9001"
-  },
-  {
-    "source": "Glenn Hansen",
-    "target": "Tony Portaro",
-    "targetId": "9002"
-  }
-]
+{
+  "source": "Glenn Hansen",
+  "targets": [
+    {
+      "name": "Joe Cangelosi",
+      "targetId": "9000"
+    },
+    {
+      "name": "Tony Bono",
+      "targetId": "9001"
+    },
+    {
+      "name": "Tony Portaro",
+      "targetId": "9002"
+    }
+  ]
+}

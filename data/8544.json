@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sam Bass",
-    "target": "Ben Folds",
-    "targetId": "180"
-  },
-  {
-    "source": "Sam Bass",
-    "target": "East Bay Ray",
-    "targetId": "2122"
-  },
-  {
-    "source": "Sam Bass",
-    "target": "Amanda Palmer",
-    "targetId": "8531"
-  },
-  {
-    "source": "Sam Bass",
-    "target": "Laura Dean",
-    "targetId": "8545"
-  }
-]
+{
+  "source": "Sam Bass",
+  "targets": [
+    {
+      "name": "Ben Folds",
+      "targetId": "180"
+    },
+    {
+      "name": "East Bay Ray",
+      "targetId": "2122"
+    },
+    {
+      "name": "Amanda Palmer",
+      "targetId": "8531"
+    },
+    {
+      "name": "Laura Dean",
+      "targetId": "8545"
+    }
+  ]
+}

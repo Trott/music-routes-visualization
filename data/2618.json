@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Fred Isaacs",
-    "target": "Chris Kifuthu",
-    "targetId": "2614"
-  },
-  {
-    "source": "Fred Isaacs",
-    "target": "dB",
-    "targetId": "2617"
-  },
-  {
-    "source": "Fred Isaacs",
-    "target": "Mark Pendolino",
-    "targetId": "2619"
-  },
-  {
-    "source": "Fred Isaacs",
-    "target": "Chris Amsler",
-    "targetId": "2620"
-  }
-]
+{
+  "source": "Fred Isaacs",
+  "targets": [
+    {
+      "name": "Chris Kifuthu",
+      "targetId": "2614"
+    },
+    {
+      "name": "dB",
+      "targetId": "2617"
+    },
+    {
+      "name": "Mark Pendolino",
+      "targetId": "2619"
+    },
+    {
+      "name": "Chris Amsler",
+      "targetId": "2620"
+    }
+  ]
+}

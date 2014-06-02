@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Colin Carter",
-    "target": "Peter Banks",
-    "targetId": "10847"
-  },
-  {
-    "source": "Colin Carter",
-    "target": "Ray Bennett",
-    "targetId": "10849"
-  },
-  {
-    "source": "Colin Carter",
-    "target": "Michael Hough",
-    "targetId": "10850"
-  }
-]
+{
+  "source": "Colin Carter",
+  "targets": [
+    {
+      "name": "Peter Banks",
+      "targetId": "10847"
+    },
+    {
+      "name": "Ray Bennett",
+      "targetId": "10849"
+    },
+    {
+      "name": "Michael Hough",
+      "targetId": "10850"
+    }
+  ]
+}

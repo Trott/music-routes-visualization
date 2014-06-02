@@ -1,207 +1,169 @@
-[
-  {
-    "source": "Bobby Clancy",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Roger McGuinn",
-    "targetId": "308"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Kris Kristofferson",
-    "targetId": "570"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Mary Chapin Carpenter",
-    "targetId": "576"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Sinéad O'Connor",
-    "targetId": "596"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Sheryl Crow",
-    "targetId": "1018"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Dennis Collins",
-    "targetId": "1030"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Curtis King",
-    "targetId": "1032"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Chrissie Hynde",
-    "targetId": "1778"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Stan Lynch",
-    "targetId": "2563"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Brenda White King",
-    "targetId": "4378"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Shawn Colvin",
-    "targetId": "5889"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Tracy Chapman",
-    "targetId": "6105"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Booker T. Jones",
-    "targetId": "6245"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Nanci Griffith",
-    "targetId": "6289"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Helen O'Connell",
-    "targetId": "6793"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Roseanne Carter Cash",
-    "targetId": "8150"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Richie Havens",
-    "targetId": "8151"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Liam Clancy",
-    "targetId": "8154"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Tommy Makem",
-    "targetId": "8155"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "June Carter Cash",
-    "targetId": "8159"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Paddy Clancy",
-    "targetId": "8161"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Christine Ohlman",
-    "targetId": "8165"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "G.E. Smith",
-    "targetId": "8167"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Tom Clancy",
-    "targetId": "8177"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Finbar Furey",
-    "targetId": "8178"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Eddie Furey",
-    "targetId": "8179"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "George Thorogood",
-    "targetId": "8188"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Sophie B. Hawkins",
-    "targetId": "8189"
-  },
-  {
-    "source": "Bobby Clancy",
-    "target": "Carolyn Hester",
-    "targetId": "8190"
-  }
-]
+{
+  "source": "Bobby Clancy",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Roger McGuinn",
+      "targetId": "308"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "Kris Kristofferson",
+      "targetId": "570"
+    },
+    {
+      "name": "Mary Chapin Carpenter",
+      "targetId": "576"
+    },
+    {
+      "name": "Sinéad O'Connor",
+      "targetId": "596"
+    },
+    {
+      "name": "Sheryl Crow",
+      "targetId": "1018"
+    },
+    {
+      "name": "Dennis Collins",
+      "targetId": "1030"
+    },
+    {
+      "name": "Curtis King",
+      "targetId": "1032"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "Chrissie Hynde",
+      "targetId": "1778"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Stan Lynch",
+      "targetId": "2563"
+    },
+    {
+      "name": "Brenda White King",
+      "targetId": "4378"
+    },
+    {
+      "name": "Shawn Colvin",
+      "targetId": "5889"
+    },
+    {
+      "name": "Tracy Chapman",
+      "targetId": "6105"
+    },
+    {
+      "name": "Booker T. Jones",
+      "targetId": "6245"
+    },
+    {
+      "name": "Nanci Griffith",
+      "targetId": "6289"
+    },
+    {
+      "name": "Helen O'Connell",
+      "targetId": "6793"
+    },
+    {
+      "name": "Roseanne Carter Cash",
+      "targetId": "8150"
+    },
+    {
+      "name": "Richie Havens",
+      "targetId": "8151"
+    },
+    {
+      "name": "Liam Clancy",
+      "targetId": "8154"
+    },
+    {
+      "name": "Tommy Makem",
+      "targetId": "8155"
+    },
+    {
+      "name": "June Carter Cash",
+      "targetId": "8159"
+    },
+    {
+      "name": "Paddy Clancy",
+      "targetId": "8161"
+    },
+    {
+      "name": "Christine Ohlman",
+      "targetId": "8165"
+    },
+    {
+      "name": "G.E. Smith",
+      "targetId": "8167"
+    },
+    {
+      "name": "Tom Clancy",
+      "targetId": "8177"
+    },
+    {
+      "name": "Finbar Furey",
+      "targetId": "8178"
+    },
+    {
+      "name": "Eddie Furey",
+      "targetId": "8179"
+    },
+    {
+      "name": "George Thorogood",
+      "targetId": "8188"
+    },
+    {
+      "name": "Sophie B. Hawkins",
+      "targetId": "8189"
+    },
+    {
+      "name": "Carolyn Hester",
+      "targetId": "8190"
+    }
+  ]
+}

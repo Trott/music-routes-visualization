@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Colin Kearney",
-    "target": "Chris Leo",
-    "targetId": "5222"
-  },
-  {
-    "source": "Colin Kearney",
-    "target": "Simon Henderson",
-    "targetId": "5226"
-  },
-  {
-    "source": "Colin Kearney",
-    "target": "Victoria Henderson",
-    "targetId": "5227"
-  }
-]
+{
+  "source": "Colin Kearney",
+  "targets": [
+    {
+      "name": "Chris Leo",
+      "targetId": "5222"
+    },
+    {
+      "name": "Simon Henderson",
+      "targetId": "5226"
+    },
+    {
+      "name": "Victoria Henderson",
+      "targetId": "5227"
+    }
+  ]
+}

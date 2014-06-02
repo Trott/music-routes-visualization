@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Greg Vincent",
-    "target": "Todd Roper",
-    "targetId": "1242"
-  },
-  {
-    "source": "Greg Vincent",
-    "target": "John McCrea",
-    "targetId": "2072"
-  },
-  {
-    "source": "Greg Vincent",
-    "target": "Victor Damiani",
-    "targetId": "2073"
-  },
-  {
-    "source": "Greg Vincent",
-    "target": "Greg Brown",
-    "targetId": "2074"
-  },
-  {
-    "source": "Greg Vincent",
-    "target": "Vincent Di Fiore",
-    "targetId": "2075"
-  }
-]
+{
+  "source": "Greg Vincent",
+  "targets": [
+    {
+      "name": "Todd Roper",
+      "targetId": "1242"
+    },
+    {
+      "name": "John McCrea",
+      "targetId": "2072"
+    },
+    {
+      "name": "Victor Damiani",
+      "targetId": "2073"
+    },
+    {
+      "name": "Greg Brown",
+      "targetId": "2074"
+    },
+    {
+      "name": "Vincent Di Fiore",
+      "targetId": "2075"
+    }
+  ]
+}

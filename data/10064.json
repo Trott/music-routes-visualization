@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mickey Jones",
-    "target": "Rick Danko",
-    "targetId": "29"
-  },
-  {
-    "source": "Mickey Jones",
-    "target": "Richard Manuel",
-    "targetId": "30"
-  },
-  {
-    "source": "Mickey Jones",
-    "target": "Robbie Robertson",
-    "targetId": "31"
-  },
-  {
-    "source": "Mickey Jones",
-    "target": "Garth Hudson",
-    "targetId": "33"
-  },
-  {
-    "source": "Mickey Jones",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  }
-]
+{
+  "source": "Mickey Jones",
+  "targets": [
+    {
+      "name": "Rick Danko",
+      "targetId": "29"
+    },
+    {
+      "name": "Richard Manuel",
+      "targetId": "30"
+    },
+    {
+      "name": "Robbie Robertson",
+      "targetId": "31"
+    },
+    {
+      "name": "Garth Hudson",
+      "targetId": "33"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    }
+  ]
+}

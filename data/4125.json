@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Chris Hakius",
-    "target": "Matt Pike",
-    "targetId": "4123"
-  },
-  {
-    "source": "Chris Hakius",
-    "target": "Al Cisneros",
-    "targetId": "4124"
-  }
-]
+{
+  "source": "Chris Hakius",
+  "targets": [
+    {
+      "name": "Matt Pike",
+      "targetId": "4123"
+    },
+    {
+      "name": "Al Cisneros",
+      "targetId": "4124"
+    }
+  ]
+}

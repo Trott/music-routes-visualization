@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Joe Quigley",
-    "target": "Michael Sherwood",
-    "targetId": "6280"
-  },
-  {
-    "source": "Joe Quigley",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Joe Quigley",
-    "target": "Lisa Loeb",
-    "targetId": "8844"
-  },
-  {
-    "source": "Joe Quigley",
-    "target": "Ronny Crawford",
-    "targetId": "8866"
-  },
-  {
-    "source": "Joe Quigley",
-    "target": "Mark Spencer",
-    "targetId": "8870"
-  },
-  {
-    "source": "Joe Quigley",
-    "target": "Jonatha Brooke",
-    "targetId": "8875"
-  }
-]
+{
+  "source": "Joe Quigley",
+  "targets": [
+    {
+      "name": "Michael Sherwood",
+      "targetId": "6280"
+    },
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Lisa Loeb",
+      "targetId": "8844"
+    },
+    {
+      "name": "Ronny Crawford",
+      "targetId": "8866"
+    },
+    {
+      "name": "Mark Spencer",
+      "targetId": "8870"
+    },
+    {
+      "name": "Jonatha Brooke",
+      "targetId": "8875"
+    }
+  ]
+}

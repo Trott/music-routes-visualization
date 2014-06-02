@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Broderick Smith",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Broderick Smith",
-    "target": "Cat Stevens",
-    "targetId": "1088"
-  },
-  {
-    "source": "Broderick Smith",
-    "target": "Bruce Lynch",
-    "targetId": "1089"
-  },
-  {
-    "source": "Broderick Smith",
-    "target": "Jean Roussel",
-    "targetId": "1090"
-  },
-  {
-    "source": "Broderick Smith",
-    "target": "Marjorie Lagerwall",
-    "targetId": "1105"
-  },
-  {
-    "source": "Broderick Smith",
-    "target": "Barbara Ingram",
-    "targetId": "1106"
-  },
-  {
-    "source": "Broderick Smith",
-    "target": "Carla Benson",
-    "targetId": "1107"
-  },
-  {
-    "source": "Broderick Smith",
-    "target": "Evette Benton",
-    "targetId": "1108"
-  }
-]
+{
+  "source": "Broderick Smith",
+  "targets": [
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "Cat Stevens",
+      "targetId": "1088"
+    },
+    {
+      "name": "Bruce Lynch",
+      "targetId": "1089"
+    },
+    {
+      "name": "Jean Roussel",
+      "targetId": "1090"
+    },
+    {
+      "name": "Marjorie Lagerwall",
+      "targetId": "1105"
+    },
+    {
+      "name": "Barbara Ingram",
+      "targetId": "1106"
+    },
+    {
+      "name": "Carla Benson",
+      "targetId": "1107"
+    },
+    {
+      "name": "Evette Benton",
+      "targetId": "1108"
+    }
+  ]
+}

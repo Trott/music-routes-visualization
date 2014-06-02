@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Nick Magnus",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Nick Magnus",
-    "target": "Steve Hackett",
-    "targetId": "1582"
-  },
-  {
-    "source": "Nick Magnus",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Nick Magnus",
-    "target": "Pete Trewavas",
-    "targetId": "5573"
-  },
-  {
-    "source": "Nick Magnus",
-    "target": "Ian Mosely",
-    "targetId": "5574"
-  }
-]
+{
+  "source": "Nick Magnus",
+  "targets": [
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Steve Hackett",
+      "targetId": "1582"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Pete Trewavas",
+      "targetId": "5573"
+    },
+    {
+      "name": "Ian Mosely",
+      "targetId": "5574"
+    }
+  ]
+}

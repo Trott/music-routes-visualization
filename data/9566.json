@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Valerie Holiday",
-    "target": "Sheila Ferguson",
-    "targetId": "9565"
-  },
-  {
-    "source": "Valerie Holiday",
-    "target": "Fayette Pinkney",
-    "targetId": "9567"
-  }
-]
+{
+  "source": "Valerie Holiday",
+  "targets": [
+    {
+      "name": "Sheila Ferguson",
+      "targetId": "9565"
+    },
+    {
+      "name": "Fayette Pinkney",
+      "targetId": "9567"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Bill Evans",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Bill Evans",
-    "target": "Jimmy Cobb",
-    "targetId": "1045"
-  },
-  {
-    "source": "Bill Evans",
-    "target": "Paul Chambers",
-    "targetId": "1046"
-  },
-  {
-    "source": "Bill Evans",
-    "target": "John Coltrane",
-    "targetId": "1049"
-  },
-  {
-    "source": "Bill Evans",
-    "target": "Julian \"Cannonball\" Adderly",
-    "targetId": "1050"
-  }
-]
+{
+  "source": "Bill Evans",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Jimmy Cobb",
+      "targetId": "1045"
+    },
+    {
+      "name": "Paul Chambers",
+      "targetId": "1046"
+    },
+    {
+      "name": "John Coltrane",
+      "targetId": "1049"
+    },
+    {
+      "name": "Julian \"Cannonball\" Adderly",
+      "targetId": "1050"
+    }
+  ]
+}

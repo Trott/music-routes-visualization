@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ricky Gardiner",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Ricky Gardiner",
-    "target": "Hunt Sales",
-    "targetId": "367"
-  },
-  {
-    "source": "Ricky Gardiner",
-    "target": "Tony Sales",
-    "targetId": "368"
-  },
-  {
-    "source": "Ricky Gardiner",
-    "target": "Carlos Alomar",
-    "targetId": "795"
-  },
-  {
-    "source": "Ricky Gardiner",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  }
-]
+{
+  "source": "Ricky Gardiner",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Hunt Sales",
+      "targetId": "367"
+    },
+    {
+      "name": "Tony Sales",
+      "targetId": "368"
+    },
+    {
+      "name": "Carlos Alomar",
+      "targetId": "795"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    }
+  ]
+}

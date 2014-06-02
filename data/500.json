@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Cecil McBee",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  },
-  {
-    "source": "Cecil McBee",
-    "target": "Dave Liebman",
-    "targetId": "498"
-  },
-  {
-    "source": "Cecil McBee",
-    "target": "Joe Lovano",
-    "targetId": "499"
-  },
-  {
-    "source": "Cecil McBee",
-    "target": "Phil Markowitz",
-    "targetId": "501"
-  },
-  {
-    "source": "Cecil McBee",
-    "target": "Billy Hart",
-    "targetId": "502"
-  },
-  {
-    "source": "Cecil McBee",
-    "target": "Kirk Lightsey",
-    "targetId": "4095"
-  },
-  {
-    "source": "Cecil McBee",
-    "target": "Don Moye",
-    "targetId": "4096"
-  }
-]
+{
+  "source": "Cecil McBee",
+  "targets": [
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    },
+    {
+      "name": "Dave Liebman",
+      "targetId": "498"
+    },
+    {
+      "name": "Joe Lovano",
+      "targetId": "499"
+    },
+    {
+      "name": "Phil Markowitz",
+      "targetId": "501"
+    },
+    {
+      "name": "Billy Hart",
+      "targetId": "502"
+    },
+    {
+      "name": "Kirk Lightsey",
+      "targetId": "4095"
+    },
+    {
+      "name": "Don Moye",
+      "targetId": "4096"
+    }
+  ]
+}

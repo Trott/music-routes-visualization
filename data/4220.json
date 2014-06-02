@@ -1,32 +1,29 @@
-[
-  {
-    "source": "John Konesky",
-    "target": "Ronnie James Dio",
-    "targetId": "139"
-  },
-  {
-    "source": "John Konesky",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "John Konesky",
-    "target": "Meat Loaf",
-    "targetId": "1803"
-  },
-  {
-    "source": "John Konesky",
-    "target": "Jack Black",
-    "targetId": "4217"
-  },
-  {
-    "source": "John Konesky",
-    "target": "Kyle Gass",
-    "targetId": "4218"
-  },
-  {
-    "source": "John Konesky",
-    "target": "Liam Lynch",
-    "targetId": "4219"
-  }
-]
+{
+  "source": "John Konesky",
+  "targets": [
+    {
+      "name": "Ronnie James Dio",
+      "targetId": "139"
+    },
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Meat Loaf",
+      "targetId": "1803"
+    },
+    {
+      "name": "Jack Black",
+      "targetId": "4217"
+    },
+    {
+      "name": "Kyle Gass",
+      "targetId": "4218"
+    },
+    {
+      "name": "Liam Lynch",
+      "targetId": "4219"
+    }
+  ]
+}

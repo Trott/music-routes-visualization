@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Bob Stinson",
-    "target": "Peter Buck",
-    "targetId": "342"
-  },
-  {
-    "source": "Bob Stinson",
-    "target": "Tommy Stinson",
-    "targetId": "3076"
-  },
-  {
-    "source": "Bob Stinson",
-    "target": "Chris Mars",
-    "targetId": "3077"
-  },
-  {
-    "source": "Bob Stinson",
-    "target": "Paul Westerberg",
-    "targetId": "3078"
-  },
-  {
-    "source": "Bob Stinson",
-    "target": "Chan Poling",
-    "targetId": "3648"
-  }
-]
+{
+  "source": "Bob Stinson",
+  "targets": [
+    {
+      "name": "Peter Buck",
+      "targetId": "342"
+    },
+    {
+      "name": "Tommy Stinson",
+      "targetId": "3076"
+    },
+    {
+      "name": "Chris Mars",
+      "targetId": "3077"
+    },
+    {
+      "name": "Paul Westerberg",
+      "targetId": "3078"
+    },
+    {
+      "name": "Chan Poling",
+      "targetId": "3648"
+    }
+  ]
+}

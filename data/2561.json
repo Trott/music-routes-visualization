@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Fiona Apple",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  },
-  {
-    "source": "Fiona Apple",
-    "target": "Mike Campbell",
-    "targetId": "646"
-  },
-  {
-    "source": "Fiona Apple",
-    "target": "Roger Manning",
-    "targetId": "1069"
-  },
-  {
-    "source": "Fiona Apple",
-    "target": "Smokey Hormel",
-    "targetId": "2562"
-  }
-]
+{
+  "source": "Fiona Apple",
+  "targets": [
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    },
+    {
+      "name": "Mike Campbell",
+      "targetId": "646"
+    },
+    {
+      "name": "Roger Manning",
+      "targetId": "1069"
+    },
+    {
+      "name": "Smokey Hormel",
+      "targetId": "2562"
+    }
+  ]
+}

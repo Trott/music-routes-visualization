@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Collie",
-    "target": "Robert Scott",
-    "targetId": "2857"
-  },
-  {
-    "source": "John Collie",
-    "target": "Michael Morley",
-    "targetId": "10936"
-  },
-  {
-    "source": "John Collie",
-    "target": "Chris Healy",
-    "targetId": "10938"
-  },
-  {
-    "source": "John Collie",
-    "target": "Shayne Carter",
-    "targetId": "10940"
-  },
-  {
-    "source": "John Collie",
-    "target": "Jeff Harford",
-    "targetId": "10941"
-  }
-]
+{
+  "source": "John Collie",
+  "targets": [
+    {
+      "name": "Robert Scott",
+      "targetId": "2857"
+    },
+    {
+      "name": "Michael Morley",
+      "targetId": "10936"
+    },
+    {
+      "name": "Chris Healy",
+      "targetId": "10938"
+    },
+    {
+      "name": "Shayne Carter",
+      "targetId": "10940"
+    },
+    {
+      "name": "Jeff Harford",
+      "targetId": "10941"
+    }
+  ]
+}

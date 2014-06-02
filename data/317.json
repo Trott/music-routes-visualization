@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Russ Ballard",
-    "target": "Dewey Bunnell",
-    "targetId": "227"
-  },
-  {
-    "source": "Russ Ballard",
-    "target": "Gerry Beckley",
-    "targetId": "228"
-  },
-  {
-    "source": "Russ Ballard",
-    "target": "Rod Argent",
-    "targetId": "4519"
-  },
-  {
-    "source": "Russ Ballard",
-    "target": "Bob Henrit",
-    "targetId": "4523"
-  },
-  {
-    "source": "Russ Ballard",
-    "target": "Jim Rodford",
-    "targetId": "4524"
-  }
-]
+{
+  "source": "Russ Ballard",
+  "targets": [
+    {
+      "name": "Dewey Bunnell",
+      "targetId": "227"
+    },
+    {
+      "name": "Gerry Beckley",
+      "targetId": "228"
+    },
+    {
+      "name": "Rod Argent",
+      "targetId": "4519"
+    },
+    {
+      "name": "Bob Henrit",
+      "targetId": "4523"
+    },
+    {
+      "name": "Jim Rodford",
+      "targetId": "4524"
+    }
+  ]
+}

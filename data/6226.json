@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Eddie Daniels",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Eddie Daniels",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "Eddie Daniels",
-    "target": "Buzzy Feiten",
-    "targetId": "1407"
-  },
-  {
-    "source": "Eddie Daniels",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Eddie Daniels",
-    "target": "David Foster",
-    "targetId": "2456"
-  },
-  {
-    "source": "Eddie Daniels",
-    "target": "Louis Johnson",
-    "targetId": "3397"
-  },
-  {
-    "source": "Eddie Daniels",
-    "target": "George Benson",
-    "targetId": "6225"
-  }
-]
+{
+  "source": "Eddie Daniels",
+  "targets": [
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "Buzzy Feiten",
+      "targetId": "1407"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "David Foster",
+      "targetId": "2456"
+    },
+    {
+      "name": "Louis Johnson",
+      "targetId": "3397"
+    },
+    {
+      "name": "George Benson",
+      "targetId": "6225"
+    }
+  ]
+}

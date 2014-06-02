@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dan Carr",
-    "target": "Sharky Laguana",
-    "targetId": "21"
-  },
-  {
-    "source": "Dan Carr",
-    "target": "Dave Kostiner",
-    "targetId": "190"
-  },
-  {
-    "source": "Dan Carr",
-    "target": "Ian Sefchick",
-    "targetId": "191"
-  },
-  {
-    "source": "Dan Carr",
-    "target": "Jerry Harrison",
-    "targetId": "192"
-  }
-]
+{
+  "source": "Dan Carr",
+  "targets": [
+    {
+      "name": "Sharky Laguana",
+      "targetId": "21"
+    },
+    {
+      "name": "Dave Kostiner",
+      "targetId": "190"
+    },
+    {
+      "name": "Ian Sefchick",
+      "targetId": "191"
+    },
+    {
+      "name": "Jerry Harrison",
+      "targetId": "192"
+    }
+  ]
+}

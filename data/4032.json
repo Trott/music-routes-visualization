@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Dean",
-    "target": "Lil Wayne",
-    "targetId": "3859"
-  },
-  {
-    "source": "Mike Dean",
-    "target": "Kanye West",
-    "targetId": "4031"
-  },
-  {
-    "source": "Mike Dean",
-    "target": "Omar Edwards",
-    "targetId": "6649"
-  },
-  {
-    "source": "Mike Dean",
-    "target": "Andy Chatterley",
-    "targetId": "6650"
-  }
-]
+{
+  "source": "Mike Dean",
+  "targets": [
+    {
+      "name": "Lil Wayne",
+      "targetId": "3859"
+    },
+    {
+      "name": "Kanye West",
+      "targetId": "4031"
+    },
+    {
+      "name": "Omar Edwards",
+      "targetId": "6649"
+    },
+    {
+      "name": "Andy Chatterley",
+      "targetId": "6650"
+    }
+  ]
+}

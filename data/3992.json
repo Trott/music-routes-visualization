@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Tom Chaplin",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Thom Yorke",
-    "targetId": "545"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Jonny Greenwood",
-    "targetId": "548"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Beverly Knight",
-    "targetId": "691"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Dido",
-    "targetId": "694"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Joss Stone",
-    "targetId": "699"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Keisha Buchanan",
-    "targetId": "709"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Heidi Range",
-    "targetId": "710"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Neil Hannon",
-    "targetId": "3608"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Danny Goffey",
-    "targetId": "3976"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Fran Healy",
-    "targetId": "3977"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Justin Hawkins",
-    "targetId": "3978"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Dan Hawkins",
-    "targetId": "3979"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Charlie Simpson",
-    "targetId": "3980"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Daniel Bedingfield",
-    "targetId": "3981"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Natasha Bedingfield",
-    "targetId": "3982"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Mutya Buena",
-    "targetId": "3984"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "James Bourne",
-    "targetId": "3985"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Chris Martin",
-    "targetId": "3986"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Dizzee Rascal",
-    "targetId": "3987"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Ms Dynamite",
-    "targetId": "3988"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Skye Edwards",
-    "targetId": "3989"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Estelle",
-    "targetId": "3990"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Jamelia",
-    "targetId": "3991"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Tim Rice-Oxley",
-    "targetId": "3993"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Tim Wheeler",
-    "targetId": "3994"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Lemar",
-    "targetId": "3995"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Shaznay Lewis",
-    "targetId": "3996"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Katie Melua",
-    "targetId": "3997"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Róisín Murphy",
-    "targetId": "3998"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Rachel Stevens",
-    "targetId": "3999"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Robbie Williams",
-    "targetId": "4000"
-  },
-  {
-    "source": "Tom Chaplin",
-    "target": "Will Young",
-    "targetId": "4001"
-  }
-]
+{
+  "source": "Tom Chaplin",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Thom Yorke",
+      "targetId": "545"
+    },
+    {
+      "name": "Jonny Greenwood",
+      "targetId": "548"
+    },
+    {
+      "name": "Beverly Knight",
+      "targetId": "691"
+    },
+    {
+      "name": "Dido",
+      "targetId": "694"
+    },
+    {
+      "name": "Joss Stone",
+      "targetId": "699"
+    },
+    {
+      "name": "Keisha Buchanan",
+      "targetId": "709"
+    },
+    {
+      "name": "Heidi Range",
+      "targetId": "710"
+    },
+    {
+      "name": "Neil Hannon",
+      "targetId": "3608"
+    },
+    {
+      "name": "Danny Goffey",
+      "targetId": "3976"
+    },
+    {
+      "name": "Fran Healy",
+      "targetId": "3977"
+    },
+    {
+      "name": "Justin Hawkins",
+      "targetId": "3978"
+    },
+    {
+      "name": "Dan Hawkins",
+      "targetId": "3979"
+    },
+    {
+      "name": "Charlie Simpson",
+      "targetId": "3980"
+    },
+    {
+      "name": "Daniel Bedingfield",
+      "targetId": "3981"
+    },
+    {
+      "name": "Natasha Bedingfield",
+      "targetId": "3982"
+    },
+    {
+      "name": "Mutya Buena",
+      "targetId": "3984"
+    },
+    {
+      "name": "James Bourne",
+      "targetId": "3985"
+    },
+    {
+      "name": "Chris Martin",
+      "targetId": "3986"
+    },
+    {
+      "name": "Dizzee Rascal",
+      "targetId": "3987"
+    },
+    {
+      "name": "Ms Dynamite",
+      "targetId": "3988"
+    },
+    {
+      "name": "Skye Edwards",
+      "targetId": "3989"
+    },
+    {
+      "name": "Estelle",
+      "targetId": "3990"
+    },
+    {
+      "name": "Jamelia",
+      "targetId": "3991"
+    },
+    {
+      "name": "Tim Rice-Oxley",
+      "targetId": "3993"
+    },
+    {
+      "name": "Tim Wheeler",
+      "targetId": "3994"
+    },
+    {
+      "name": "Lemar",
+      "targetId": "3995"
+    },
+    {
+      "name": "Shaznay Lewis",
+      "targetId": "3996"
+    },
+    {
+      "name": "Katie Melua",
+      "targetId": "3997"
+    },
+    {
+      "name": "Róisín Murphy",
+      "targetId": "3998"
+    },
+    {
+      "name": "Rachel Stevens",
+      "targetId": "3999"
+    },
+    {
+      "name": "Robbie Williams",
+      "targetId": "4000"
+    },
+    {
+      "name": "Will Young",
+      "targetId": "4001"
+    }
+  ]
+}

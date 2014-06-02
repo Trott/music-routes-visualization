@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Kim Hill",
-    "target": "will.i.am",
-    "targetId": "6007"
-  },
-  {
-    "source": "Kim Hill",
-    "target": "Printz Board",
-    "targetId": "7023"
-  },
-  {
-    "source": "Kim Hill",
-    "target": "George Pajon, Jr.",
-    "targetId": "7032"
-  },
-  {
-    "source": "Kim Hill",
-    "target": "apl.de.ap",
-    "targetId": "7033"
-  },
-  {
-    "source": "Kim Hill",
-    "target": "Taboo",
-    "targetId": "7034"
-  },
-  {
-    "source": "Kim Hill",
-    "target": "Asdru Sierra",
-    "targetId": "7036"
-  },
-  {
-    "source": "Kim Hill",
-    "target": "Jose Espinosa",
-    "targetId": "7037"
-  },
-  {
-    "source": "Kim Hill",
-    "target": "Ulises Bella",
-    "targetId": "7038"
-  }
-]
+{
+  "source": "Kim Hill",
+  "targets": [
+    {
+      "name": "will.i.am",
+      "targetId": "6007"
+    },
+    {
+      "name": "Printz Board",
+      "targetId": "7023"
+    },
+    {
+      "name": "George Pajon, Jr.",
+      "targetId": "7032"
+    },
+    {
+      "name": "apl.de.ap",
+      "targetId": "7033"
+    },
+    {
+      "name": "Taboo",
+      "targetId": "7034"
+    },
+    {
+      "name": "Asdru Sierra",
+      "targetId": "7036"
+    },
+    {
+      "name": "Jose Espinosa",
+      "targetId": "7037"
+    },
+    {
+      "name": "Ulises Bella",
+      "targetId": "7038"
+    }
+  ]
+}

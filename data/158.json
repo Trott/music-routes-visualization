@@ -1,217 +1,177 @@
-[
-  {
-    "source": "Brad Gillis",
-    "target": "Ronnie James Dio",
-    "targetId": "139"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Jimmy Bain",
-    "targetId": "140"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Vivian Campbell",
-    "targetId": "141"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Eric Bloom",
-    "targetId": "142"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Don Dokken",
-    "targetId": "143"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Kevin DuBrow",
-    "targetId": "144"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Rob Halford",
-    "targetId": "145"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Dave Meniketti",
-    "targetId": "146"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Paul Shortino",
-    "targetId": "147"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Geoff Tate",
-    "targetId": "148"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Tommy Aldridge",
-    "targetId": "149"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Dave Alford",
-    "targetId": "150"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Carmine Appice",
-    "targetId": "151"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Vinny Appice",
-    "targetId": "152"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Frankie Banali",
-    "targetId": "153"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Mick Brown",
-    "targetId": "154"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Carlos Cavazo",
-    "targetId": "155"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Amir Derakh",
-    "targetId": "156"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Donald \"Buck Dharma\" Roeser",
-    "targetId": "157"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Craig Goldy",
-    "targetId": "159"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Chris Hagar",
-    "targetId": "160"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Chris Holmes",
-    "targetId": "161"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Blackie Lawless",
-    "targetId": "162"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "George Lynch",
-    "targetId": "163"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Yngwie Malmsteen",
-    "targetId": "164"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Mick Mars",
-    "targetId": "165"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Dave Murray",
-    "targetId": "166"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Vince Neil",
-    "targetId": "167"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Ted Nugent",
-    "targetId": "168"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Eddie Ojeda",
-    "targetId": "169"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Jeff Pilson",
-    "targetId": "170"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "David St. Hubbins",
-    "targetId": "171"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Rudy Sarzo",
-    "targetId": "172"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Claude Schnell",
-    "targetId": "173"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Neal Schon",
-    "targetId": "174"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Harry Shearer",
-    "targetId": "175"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Mark Stein",
-    "targetId": "176"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Matt Thorr",
-    "targetId": "177"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Adrian Smith",
-    "targetId": "178"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Alan Fitzgerald",
-    "targetId": "1738"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Kelly Keagy",
-    "targetId": "2032"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Jack Blades",
-    "targetId": "2887"
-  },
-  {
-    "source": "Brad Gillis",
-    "target": "Jeff Watson",
-    "targetId": "4681"
-  }
-]
+{
+  "source": "Brad Gillis",
+  "targets": [
+    {
+      "name": "Ronnie James Dio",
+      "targetId": "139"
+    },
+    {
+      "name": "Jimmy Bain",
+      "targetId": "140"
+    },
+    {
+      "name": "Vivian Campbell",
+      "targetId": "141"
+    },
+    {
+      "name": "Eric Bloom",
+      "targetId": "142"
+    },
+    {
+      "name": "Don Dokken",
+      "targetId": "143"
+    },
+    {
+      "name": "Kevin DuBrow",
+      "targetId": "144"
+    },
+    {
+      "name": "Rob Halford",
+      "targetId": "145"
+    },
+    {
+      "name": "Dave Meniketti",
+      "targetId": "146"
+    },
+    {
+      "name": "Paul Shortino",
+      "targetId": "147"
+    },
+    {
+      "name": "Geoff Tate",
+      "targetId": "148"
+    },
+    {
+      "name": "Tommy Aldridge",
+      "targetId": "149"
+    },
+    {
+      "name": "Dave Alford",
+      "targetId": "150"
+    },
+    {
+      "name": "Carmine Appice",
+      "targetId": "151"
+    },
+    {
+      "name": "Vinny Appice",
+      "targetId": "152"
+    },
+    {
+      "name": "Frankie Banali",
+      "targetId": "153"
+    },
+    {
+      "name": "Mick Brown",
+      "targetId": "154"
+    },
+    {
+      "name": "Carlos Cavazo",
+      "targetId": "155"
+    },
+    {
+      "name": "Amir Derakh",
+      "targetId": "156"
+    },
+    {
+      "name": "Donald \"Buck Dharma\" Roeser",
+      "targetId": "157"
+    },
+    {
+      "name": "Craig Goldy",
+      "targetId": "159"
+    },
+    {
+      "name": "Chris Hagar",
+      "targetId": "160"
+    },
+    {
+      "name": "Chris Holmes",
+      "targetId": "161"
+    },
+    {
+      "name": "Blackie Lawless",
+      "targetId": "162"
+    },
+    {
+      "name": "George Lynch",
+      "targetId": "163"
+    },
+    {
+      "name": "Yngwie Malmsteen",
+      "targetId": "164"
+    },
+    {
+      "name": "Mick Mars",
+      "targetId": "165"
+    },
+    {
+      "name": "Dave Murray",
+      "targetId": "166"
+    },
+    {
+      "name": "Vince Neil",
+      "targetId": "167"
+    },
+    {
+      "name": "Ted Nugent",
+      "targetId": "168"
+    },
+    {
+      "name": "Eddie Ojeda",
+      "targetId": "169"
+    },
+    {
+      "name": "Jeff Pilson",
+      "targetId": "170"
+    },
+    {
+      "name": "David St. Hubbins",
+      "targetId": "171"
+    },
+    {
+      "name": "Rudy Sarzo",
+      "targetId": "172"
+    },
+    {
+      "name": "Claude Schnell",
+      "targetId": "173"
+    },
+    {
+      "name": "Neal Schon",
+      "targetId": "174"
+    },
+    {
+      "name": "Harry Shearer",
+      "targetId": "175"
+    },
+    {
+      "name": "Mark Stein",
+      "targetId": "176"
+    },
+    {
+      "name": "Matt Thorr",
+      "targetId": "177"
+    },
+    {
+      "name": "Adrian Smith",
+      "targetId": "178"
+    },
+    {
+      "name": "Alan Fitzgerald",
+      "targetId": "1738"
+    },
+    {
+      "name": "Kelly Keagy",
+      "targetId": "2032"
+    },
+    {
+      "name": "Jack Blades",
+      "targetId": "2887"
+    },
+    {
+      "name": "Jeff Watson",
+      "targetId": "4681"
+    }
+  ]
+}

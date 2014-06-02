@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Darren Dodd",
-    "target": "Dan Chase",
-    "targetId": "1068"
-  },
-  {
-    "source": "Darren Dodd",
-    "target": "Butch Walker",
-    "targetId": "6295"
-  },
-  {
-    "source": "Darren Dodd",
-    "target": "Katy Perry",
-    "targetId": "6947"
-  }
-]
+{
+  "source": "Darren Dodd",
+  "targets": [
+    {
+      "name": "Dan Chase",
+      "targetId": "1068"
+    },
+    {
+      "name": "Butch Walker",
+      "targetId": "6295"
+    },
+    {
+      "name": "Katy Perry",
+      "targetId": "6947"
+    }
+  ]
+}

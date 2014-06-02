@@ -1,7 +1,9 @@
-[
-  {
-    "source": "Bob James",
-    "target": "Karen Carpenter",
-    "targetId": "2111"
-  }
-]
+{
+  "source": "Bob James",
+  "targets": [
+    {
+      "name": "Karen Carpenter",
+      "targetId": "2111"
+    }
+  ]
+}

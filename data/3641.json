@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Payne",
-    "target": "Chris Slade",
-    "targetId": "940"
-  },
-  {
-    "source": "John Payne",
-    "target": "Geoff Downes",
-    "targetId": "3639"
-  },
-  {
-    "source": "John Payne",
-    "target": "Guthrie Govan",
-    "targetId": "3640"
-  },
-  {
-    "source": "John Payne",
-    "target": "Michael Sturgis",
-    "targetId": "3642"
-  },
-  {
-    "source": "John Payne",
-    "target": "Al Pitrelli",
-    "targetId": "3643"
-  },
-  {
-    "source": "John Payne",
-    "target": "Elliott Randall",
-    "targetId": "10175"
-  },
-  {
-    "source": "John Payne",
-    "target": "Aziz Ibrahim",
-    "targetId": "10964"
-  }
-]
+{
+  "source": "John Payne",
+  "targets": [
+    {
+      "name": "Chris Slade",
+      "targetId": "940"
+    },
+    {
+      "name": "Geoff Downes",
+      "targetId": "3639"
+    },
+    {
+      "name": "Guthrie Govan",
+      "targetId": "3640"
+    },
+    {
+      "name": "Michael Sturgis",
+      "targetId": "3642"
+    },
+    {
+      "name": "Al Pitrelli",
+      "targetId": "3643"
+    },
+    {
+      "name": "Elliott Randall",
+      "targetId": "10175"
+    },
+    {
+      "name": "Aziz Ibrahim",
+      "targetId": "10964"
+    }
+  ]
+}

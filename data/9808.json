@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jackie Lomax",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Jackie Lomax",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Jackie Lomax",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Jackie Lomax",
-    "target": "Mal Evans",
-    "targetId": "630"
-  },
-  {
-    "source": "Jackie Lomax",
-    "target": "John McCartney",
-    "targetId": "9809"
-  }
-]
+{
+  "source": "Jackie Lomax",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Mal Evans",
+      "targetId": "630"
+    },
+    {
+      "name": "John McCartney",
+      "targetId": "9809"
+    }
+  ]
+}

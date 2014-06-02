@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Krister Johansson",
-    "target": "Henrik Sunvisson",
-    "targetId": "3938"
-  },
-  {
-    "source": "Krister Johansson",
-    "target": "Kjell Ramstedt",
-    "targetId": "3939"
-  },
-  {
-    "source": "Krister Johansson",
-    "target": "Mikael Danielsson",
-    "targetId": "3941"
-  },
-  {
-    "source": "Krister Johansson",
-    "target": "Ingemar Jansson",
-    "targetId": "3942"
-  },
-  {
-    "source": "Krister Johansson",
-    "target": "Jimmie Olsson",
-    "targetId": "3958"
-  },
-  {
-    "source": "Krister Johansson",
-    "target": "Frank Rönningen",
-    "targetId": "3959"
-  }
-]
+{
+  "source": "Krister Johansson",
+  "targets": [
+    {
+      "name": "Henrik Sunvisson",
+      "targetId": "3938"
+    },
+    {
+      "name": "Kjell Ramstedt",
+      "targetId": "3939"
+    },
+    {
+      "name": "Mikael Danielsson",
+      "targetId": "3941"
+    },
+    {
+      "name": "Ingemar Jansson",
+      "targetId": "3942"
+    },
+    {
+      "name": "Jimmie Olsson",
+      "targetId": "3958"
+    },
+    {
+      "name": "Frank Rönningen",
+      "targetId": "3959"
+    }
+  ]
+}

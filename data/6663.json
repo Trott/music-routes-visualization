@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bart Vandebroek",
-    "target": "Mauro Pawlowski",
-    "targetId": "6658"
-  },
-  {
-    "source": "Bart Vandebroek",
-    "target": "Marc Requilé",
-    "targetId": "6660"
-  },
-  {
-    "source": "Bart Vandebroek",
-    "target": "Tim Vanhamel",
-    "targetId": "6661"
-  },
-  {
-    "source": "Bart Vandebroek",
-    "target": "Dave Schroyen",
-    "targetId": "6662"
-  }
-]
+{
+  "source": "Bart Vandebroek",
+  "targets": [
+    {
+      "name": "Mauro Pawlowski",
+      "targetId": "6658"
+    },
+    {
+      "name": "Marc Requilé",
+      "targetId": "6660"
+    },
+    {
+      "name": "Tim Vanhamel",
+      "targetId": "6661"
+    },
+    {
+      "name": "Dave Schroyen",
+      "targetId": "6662"
+    }
+  ]
+}

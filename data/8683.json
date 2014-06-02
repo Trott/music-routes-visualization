@@ -1,37 +1,33 @@
-[
-  {
-    "source": "James W. Buck",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "James W. Buck",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "James W. Buck",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "James W. Buck",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "James W. Buck",
-    "target": "Neil Sanders",
-    "targetId": "8684"
-  },
-  {
-    "source": "James W. Buck",
-    "target": "Tony Randall",
-    "targetId": "8685"
-  },
-  {
-    "source": "James W. Buck",
-    "target": "John Burden",
-    "targetId": "8686"
-  }
-]
+{
+  "source": "James W. Buck",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Neil Sanders",
+      "targetId": "8684"
+    },
+    {
+      "name": "Tony Randall",
+      "targetId": "8685"
+    },
+    {
+      "name": "John Burden",
+      "targetId": "8686"
+    }
+  ]
+}

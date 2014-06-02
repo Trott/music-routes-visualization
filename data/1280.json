@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Grover",
-    "target": "Big Bird",
-    "targetId": "240"
-  },
-  {
-    "source": "Grover",
-    "target": "The Count",
-    "targetId": "245"
-  },
-  {
-    "source": "Grover",
-    "target": "Herb Bushler",
-    "targetId": "1260"
-  },
-  {
-    "source": "Grover",
-    "target": "Richard Crooks",
-    "targetId": "1270"
-  },
-  {
-    "source": "Grover",
-    "target": "Robin Gibb",
-    "targetId": "1279"
-  },
-  {
-    "source": "Grover",
-    "target": "Ernie",
-    "targetId": "1281"
-  },
-  {
-    "source": "Grover",
-    "target": "Cookie Monster",
-    "targetId": "1282"
-  }
-]
+{
+  "source": "Grover",
+  "targets": [
+    {
+      "name": "Big Bird",
+      "targetId": "240"
+    },
+    {
+      "name": "The Count",
+      "targetId": "245"
+    },
+    {
+      "name": "Herb Bushler",
+      "targetId": "1260"
+    },
+    {
+      "name": "Richard Crooks",
+      "targetId": "1270"
+    },
+    {
+      "name": "Robin Gibb",
+      "targetId": "1279"
+    },
+    {
+      "name": "Ernie",
+      "targetId": "1281"
+    },
+    {
+      "name": "Cookie Monster",
+      "targetId": "1282"
+    }
+  ]
+}

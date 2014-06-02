@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John Maher",
-    "target": "Howard Devoto",
-    "targetId": "1626"
-  },
-  {
-    "source": "John Maher",
-    "target": "Pete Shelley",
-    "targetId": "2532"
-  },
-  {
-    "source": "John Maher",
-    "target": "Steve Diggle",
-    "targetId": "2533"
-  }
-]
+{
+  "source": "John Maher",
+  "targets": [
+    {
+      "name": "Howard Devoto",
+      "targetId": "1626"
+    },
+    {
+      "name": "Pete Shelley",
+      "targetId": "2532"
+    },
+    {
+      "name": "Steve Diggle",
+      "targetId": "2533"
+    }
+  ]
+}

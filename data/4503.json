@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Rob Zombie",
-    "target": "Ozzy Osbourne",
-    "targetId": "482"
-  },
-  {
-    "source": "Rob Zombie",
-    "target": "Kerry King",
-    "targetId": "1455"
-  },
-  {
-    "source": "Rob Zombie",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Rob Zombie",
-    "target": "Sean Yseult",
-    "targetId": "4561"
-  },
-  {
-    "source": "Rob Zombie",
-    "target": "Ivan DePrume",
-    "targetId": "4562"
-  },
-  {
-    "source": "Rob Zombie",
-    "target": "Jay Yuenger",
-    "targetId": "4563"
-  }
-]
+{
+  "source": "Rob Zombie",
+  "targets": [
+    {
+      "name": "Ozzy Osbourne",
+      "targetId": "482"
+    },
+    {
+      "name": "Kerry King",
+      "targetId": "1455"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Sean Yseult",
+      "targetId": "4561"
+    },
+    {
+      "name": "Ivan DePrume",
+      "targetId": "4562"
+    },
+    {
+      "name": "Jay Yuenger",
+      "targetId": "4563"
+    }
+  ]
+}

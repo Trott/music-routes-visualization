@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Theresa Colderon",
-    "target": "Danny Kortchmar",
-    "targetId": "1006"
-  },
-  {
-    "source": "Theresa Colderon",
-    "target": "Carole King",
-    "targetId": "1673"
-  },
-  {
-    "source": "Theresa Colderon",
-    "target": "Charles Larkey",
-    "targetId": "8055"
-  },
-  {
-    "source": "Theresa Colderon",
-    "target": "Curtis Amy",
-    "targetId": "8058"
-  }
-]
+{
+  "source": "Theresa Colderon",
+  "targets": [
+    {
+      "name": "Danny Kortchmar",
+      "targetId": "1006"
+    },
+    {
+      "name": "Carole King",
+      "targetId": "1673"
+    },
+    {
+      "name": "Charles Larkey",
+      "targetId": "8055"
+    },
+    {
+      "name": "Curtis Amy",
+      "targetId": "8058"
+    }
+  ]
+}

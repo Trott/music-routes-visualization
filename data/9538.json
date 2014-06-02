@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Robert Schneider",
-    "target": "John Hill",
-    "targetId": "9539"
-  },
-  {
-    "source": "Robert Schneider",
-    "target": "Eric Allen",
-    "targetId": "9540"
-  },
-  {
-    "source": "Robert Schneider",
-    "target": "Hilarie Sidney",
-    "targetId": "9541"
-  },
-  {
-    "source": "Robert Schneider",
-    "target": "Rick Benjamin",
-    "targetId": "9542"
-  },
-  {
-    "source": "Robert Schneider",
-    "target": "Merisa Bissinger",
-    "targetId": "9543"
-  },
-  {
-    "source": "Robert Schneider",
-    "target": "Jon Hegel",
-    "targetId": "9544"
-  }
-]
+{
+  "source": "Robert Schneider",
+  "targets": [
+    {
+      "name": "John Hill",
+      "targetId": "9539"
+    },
+    {
+      "name": "Eric Allen",
+      "targetId": "9540"
+    },
+    {
+      "name": "Hilarie Sidney",
+      "targetId": "9541"
+    },
+    {
+      "name": "Rick Benjamin",
+      "targetId": "9542"
+    },
+    {
+      "name": "Merisa Bissinger",
+      "targetId": "9543"
+    },
+    {
+      "name": "Jon Hegel",
+      "targetId": "9544"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Rick Ross",
-    "target": "Flo Rida",
-    "targetId": "6002"
-  },
-  {
-    "source": "Rick Ross",
-    "target": "Brisco",
-    "targetId": "6012"
-  }
-]
+{
+  "source": "Rick Ross",
+  "targets": [
+    {
+      "name": "Flo Rida",
+      "targetId": "6002"
+    },
+    {
+      "name": "Brisco",
+      "targetId": "6012"
+    }
+  ]
+}

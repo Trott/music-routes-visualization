@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Alec Ounsworth",
-    "target": "Lee Sargent",
-    "targetId": "9650"
-  },
-  {
-    "source": "Alec Ounsworth",
-    "target": "Robbie Guertin",
-    "targetId": "9651"
-  },
-  {
-    "source": "Alec Ounsworth",
-    "target": "Sean Greenhalgh",
-    "targetId": "9652"
-  },
-  {
-    "source": "Alec Ounsworth",
-    "target": "Tyler Sargent",
-    "targetId": "9653"
-  }
-]
+{
+  "source": "Alec Ounsworth",
+  "targets": [
+    {
+      "name": "Lee Sargent",
+      "targetId": "9650"
+    },
+    {
+      "name": "Robbie Guertin",
+      "targetId": "9651"
+    },
+    {
+      "name": "Sean Greenhalgh",
+      "targetId": "9652"
+    },
+    {
+      "name": "Tyler Sargent",
+      "targetId": "9653"
+    }
+  ]
+}

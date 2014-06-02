@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Matt Irving",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Matt Irving",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Matt Irving",
-    "target": "Trevor Rabin",
-    "targetId": "4183"
-  },
-  {
-    "source": "Matt Irving",
-    "target": "Steve Waller",
-    "targetId": "5545"
-  },
-  {
-    "source": "Matt Irving",
-    "target": "John Lingwood",
-    "targetId": "5609"
-  },
-  {
-    "source": "Matt Irving",
-    "target": "Shona Laing",
-    "targetId": "5610"
-  }
-]
+{
+  "source": "Matt Irving",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Trevor Rabin",
+      "targetId": "4183"
+    },
+    {
+      "name": "Steve Waller",
+      "targetId": "5545"
+    },
+    {
+      "name": "John Lingwood",
+      "targetId": "5609"
+    },
+    {
+      "name": "Shona Laing",
+      "targetId": "5610"
+    }
+  ]
+}

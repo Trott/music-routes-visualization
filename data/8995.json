@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Andy Brings",
-    "target": "Tom Angelripper",
-    "targetId": "8988"
-  },
-  {
-    "source": "Andy Brings",
-    "target": "Atomic Steif",
-    "targetId": "8994"
-  }
-]
+{
+  "source": "Andy Brings",
+  "targets": [
+    {
+      "name": "Tom Angelripper",
+      "targetId": "8988"
+    },
+    {
+      "name": "Atomic Steif",
+      "targetId": "8994"
+    }
+  ]
+}

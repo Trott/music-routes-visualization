@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sean Taylor",
-    "target": "Brian Ross",
-    "targetId": "7070"
-  },
-  {
-    "source": "Sean Taylor",
-    "target": "Russ Tippins",
-    "targetId": "7071"
-  },
-  {
-    "source": "Sean Taylor",
-    "target": "Steve Ramsey",
-    "targetId": "7072"
-  },
-  {
-    "source": "Sean Taylor",
-    "target": "Graeme English",
-    "targetId": "7073"
-  }
-]
+{
+  "source": "Sean Taylor",
+  "targets": [
+    {
+      "name": "Brian Ross",
+      "targetId": "7070"
+    },
+    {
+      "name": "Russ Tippins",
+      "targetId": "7071"
+    },
+    {
+      "name": "Steve Ramsey",
+      "targetId": "7072"
+    },
+    {
+      "name": "Graeme English",
+      "targetId": "7073"
+    }
+  ]
+}

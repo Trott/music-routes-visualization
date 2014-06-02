@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Melanie Vammen",
-    "target": "Jon Spencer",
-    "targetId": "1975"
-  },
-  {
-    "source": "Melanie Vammen",
-    "target": "Ronnie Barnett",
-    "targetId": "8899"
-  },
-  {
-    "source": "Melanie Vammen",
-    "target": "Criss Crass",
-    "targetId": "8900"
-  },
-  {
-    "source": "Melanie Vammen",
-    "target": "Kim Shattuck",
-    "targetId": "8902"
-  },
-  {
-    "source": "Melanie Vammen",
-    "target": "Korla Pandit",
-    "targetId": "8903"
-  }
-]
+{
+  "source": "Melanie Vammen",
+  "targets": [
+    {
+      "name": "Jon Spencer",
+      "targetId": "1975"
+    },
+    {
+      "name": "Ronnie Barnett",
+      "targetId": "8899"
+    },
+    {
+      "name": "Criss Crass",
+      "targetId": "8900"
+    },
+    {
+      "name": "Kim Shattuck",
+      "targetId": "8902"
+    },
+    {
+      "name": "Korla Pandit",
+      "targetId": "8903"
+    }
+  ]
+}

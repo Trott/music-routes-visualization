@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Niels-Henning Orsted Pedersen",
-    "target": "Stéphane Grappelli",
-    "targetId": "1160"
-  },
-  {
-    "source": "Niels-Henning Orsted Pedersen",
-    "target": "Mickey Roker",
-    "targetId": "1266"
-  },
-  {
-    "source": "Niels-Henning Orsted Pedersen",
-    "target": "Joe Pass",
-    "targetId": "1926"
-  },
-  {
-    "source": "Niels-Henning Orsted Pedersen",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  }
-]
+{
+  "source": "Niels-Henning Orsted Pedersen",
+  "targets": [
+    {
+      "name": "Stéphane Grappelli",
+      "targetId": "1160"
+    },
+    {
+      "name": "Mickey Roker",
+      "targetId": "1266"
+    },
+    {
+      "name": "Joe Pass",
+      "targetId": "1926"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    }
+  ]
+}

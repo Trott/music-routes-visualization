@@ -1,57 +1,49 @@
-[
-  {
-    "source": "James Kottak",
-    "target": "Billy Corgan",
-    "targetId": "2827"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Eric Bazilian",
-    "targetId": "3441"
-  },
-  {
-    "source": "James Kottak",
-    "target": "John Lowery",
-    "targetId": "5314"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Klaus Meine",
-    "targetId": "7637"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Rudolf Schenker",
-    "targetId": "7641"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Matthias Jabs",
-    "targetId": "7648"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Ian Astbury",
-    "targetId": "7862"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Billy Duffy",
-    "targetId": "7863"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Paweł Mąciwoda Jastrzębski",
-    "targetId": "8198"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Russ Irwin",
-    "targetId": "8200"
-  },
-  {
-    "source": "James Kottak",
-    "target": "Todd Hoffman",
-    "targetId": "9506"
-  }
-]
+{
+  "source": "James Kottak",
+  "targets": [
+    {
+      "name": "Billy Corgan",
+      "targetId": "2827"
+    },
+    {
+      "name": "Eric Bazilian",
+      "targetId": "3441"
+    },
+    {
+      "name": "John Lowery",
+      "targetId": "5314"
+    },
+    {
+      "name": "Klaus Meine",
+      "targetId": "7637"
+    },
+    {
+      "name": "Rudolf Schenker",
+      "targetId": "7641"
+    },
+    {
+      "name": "Matthias Jabs",
+      "targetId": "7648"
+    },
+    {
+      "name": "Ian Astbury",
+      "targetId": "7862"
+    },
+    {
+      "name": "Billy Duffy",
+      "targetId": "7863"
+    },
+    {
+      "name": "Paweł Mąciwoda Jastrzębski",
+      "targetId": "8198"
+    },
+    {
+      "name": "Russ Irwin",
+      "targetId": "8200"
+    },
+    {
+      "name": "Todd Hoffman",
+      "targetId": "9506"
+    }
+  ]
+}

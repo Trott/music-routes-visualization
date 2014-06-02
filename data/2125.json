@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Leonard Cohen",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Gregory Cohen",
-    "targetId": "428"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Michael Blair",
-    "targetId": "662"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Allen Ginsberg",
-    "targetId": "2126"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Bill Diez",
-    "targetId": "2127"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Bill Frisell",
-    "targetId": "4402"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Diamanda Galás",
-    "targetId": "8229"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Art Baron",
-    "targetId": "8429"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Francis Thumm",
-    "targetId": "8430"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Don Byron",
-    "targetId": "8433"
-  },
-  {
-    "source": "Leonard Cohen",
-    "target": "Hal Willner",
-    "targetId": "8435"
-  }
-]
+{
+  "source": "Leonard Cohen",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Gregory Cohen",
+      "targetId": "428"
+    },
+    {
+      "name": "Michael Blair",
+      "targetId": "662"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Allen Ginsberg",
+      "targetId": "2126"
+    },
+    {
+      "name": "Bill Diez",
+      "targetId": "2127"
+    },
+    {
+      "name": "Bill Frisell",
+      "targetId": "4402"
+    },
+    {
+      "name": "Diamanda Galás",
+      "targetId": "8229"
+    },
+    {
+      "name": "Art Baron",
+      "targetId": "8429"
+    },
+    {
+      "name": "Francis Thumm",
+      "targetId": "8430"
+    },
+    {
+      "name": "Don Byron",
+      "targetId": "8433"
+    },
+    {
+      "name": "Hal Willner",
+      "targetId": "8435"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Lil Jon",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Lil Jon",
-    "target": "Redfoo",
-    "targetId": "7314"
-  },
-  {
-    "source": "Lil Jon",
-    "target": "Sky Blu",
-    "targetId": "7315"
-  },
-  {
-    "source": "Lil Jon",
-    "target": "Jay Sean",
-    "targetId": "8130"
-  },
-  {
-    "source": "Lil Jon",
-    "target": "Sean Paul",
-    "targetId": "8131"
-  }
-]
+{
+  "source": "Lil Jon",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "Redfoo",
+      "targetId": "7314"
+    },
+    {
+      "name": "Sky Blu",
+      "targetId": "7315"
+    },
+    {
+      "name": "Jay Sean",
+      "targetId": "8130"
+    },
+    {
+      "name": "Sean Paul",
+      "targetId": "8131"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Robinson",
-    "target": "Steve Kellner",
-    "targetId": "3294"
-  },
-  {
-    "source": "Steve Robinson",
-    "target": "Pauly Fuemana",
-    "targetId": "3310"
-  },
-  {
-    "source": "Steve Robinson",
-    "target": "Geoffrey Heath",
-    "targetId": "3312"
-  },
-  {
-    "source": "Steve Robinson",
-    "target": "Mia Camilleri",
-    "targetId": "3313"
-  }
-]
+{
+  "source": "Steve Robinson",
+  "targets": [
+    {
+      "name": "Steve Kellner",
+      "targetId": "3294"
+    },
+    {
+      "name": "Pauly Fuemana",
+      "targetId": "3310"
+    },
+    {
+      "name": "Geoffrey Heath",
+      "targetId": "3312"
+    },
+    {
+      "name": "Mia Camilleri",
+      "targetId": "3313"
+    }
+  ]
+}

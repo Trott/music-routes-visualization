@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Joel",
-    "target": "dB",
-    "targetId": "2617"
-  },
-  {
-    "source": "Joel",
-    "target": "Amp",
-    "targetId": "2621"
-  },
-  {
-    "source": "Joel",
-    "target": "Otto",
-    "targetId": "2622"
-  },
-  {
-    "source": "Joel",
-    "target": "Doug",
-    "targetId": "2624"
-  }
-]
+{
+  "source": "Joel",
+  "targets": [
+    {
+      "name": "dB",
+      "targetId": "2617"
+    },
+    {
+      "name": "Amp",
+      "targetId": "2621"
+    },
+    {
+      "name": "Otto",
+      "targetId": "2622"
+    },
+    {
+      "name": "Doug",
+      "targetId": "2624"
+    }
+  ]
+}

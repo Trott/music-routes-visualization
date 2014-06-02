@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jay Sherman-Godfrey",
-    "target": "Tony Maimone",
-    "targetId": "2921"
-  },
-  {
-    "source": "Jay Sherman-Godfrey",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Jay Sherman-Godfrey",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Jay Sherman-Godfrey",
-    "target": "Brian Doherty",
-    "targetId": "3070"
-  },
-  {
-    "source": "Jay Sherman-Godfrey",
-    "target": "Kurt Hoffman",
-    "targetId": "3072"
-  }
-]
+{
+  "source": "Jay Sherman-Godfrey",
+  "targets": [
+    {
+      "name": "Tony Maimone",
+      "targetId": "2921"
+    },
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Brian Doherty",
+      "targetId": "3070"
+    },
+    {
+      "name": "Kurt Hoffman",
+      "targetId": "3072"
+    }
+  ]
+}

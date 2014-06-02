@@ -1,22 +1,21 @@
-[
-  {
-    "source": "James Kerwin",
-    "target": "Stuart Duncan",
-    "targetId": "587"
-  },
-  {
-    "source": "James Kerwin",
-    "target": "David Grisman",
-    "targetId": "2115"
-  },
-  {
-    "source": "James Kerwin",
-    "target": "Doc Watson",
-    "targetId": "3328"
-  },
-  {
-    "source": "James Kerwin",
-    "target": "Alan O'Bryant",
-    "targetId": "3331"
-  }
-]
+{
+  "source": "James Kerwin",
+  "targets": [
+    {
+      "name": "Stuart Duncan",
+      "targetId": "587"
+    },
+    {
+      "name": "David Grisman",
+      "targetId": "2115"
+    },
+    {
+      "name": "Doc Watson",
+      "targetId": "3328"
+    },
+    {
+      "name": "Alan O'Bryant",
+      "targetId": "3331"
+    }
+  ]
+}

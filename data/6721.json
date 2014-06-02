@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Bilal",
-    "target": "James Poyser",
-    "targetId": "6250"
-  },
-  {
-    "source": "Bilal",
-    "target": "Jill Scott",
-    "targetId": "6698"
-  },
-  {
-    "source": "Bilal",
-    "target": "Common",
-    "targetId": "6720"
-  }
-]
+{
+  "source": "Bilal",
+  "targets": [
+    {
+      "name": "James Poyser",
+      "targetId": "6250"
+    },
+    {
+      "name": "Jill Scott",
+      "targetId": "6698"
+    },
+    {
+      "name": "Common",
+      "targetId": "6720"
+    }
+  ]
+}

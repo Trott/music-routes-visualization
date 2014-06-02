@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Bart Davenport",
-    "target": "Xan McCurdy",
-    "targetId": "2606"
-  },
-  {
-    "source": "Bart Davenport",
-    "target": "Marc Capelle",
-    "targetId": "2640"
-  },
-  {
-    "source": "Bart Davenport",
-    "target": "Jon Erickson",
-    "targetId": "6865"
-  },
-  {
-    "source": "Bart Davenport",
-    "target": "Ben Wayne",
-    "targetId": "6866"
-  },
-  {
-    "source": "Bart Davenport",
-    "target": "Eric Shea",
-    "targetId": "6867"
-  }
-]
+{
+  "source": "Bart Davenport",
+  "targets": [
+    {
+      "name": "Xan McCurdy",
+      "targetId": "2606"
+    },
+    {
+      "name": "Marc Capelle",
+      "targetId": "2640"
+    },
+    {
+      "name": "Jon Erickson",
+      "targetId": "6865"
+    },
+    {
+      "name": "Ben Wayne",
+      "targetId": "6866"
+    },
+    {
+      "name": "Eric Shea",
+      "targetId": "6867"
+    }
+  ]
+}

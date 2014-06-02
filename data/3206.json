@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Chris Brown",
-    "target": "Bob Ostertag",
-    "targetId": "3201"
-  },
-  {
-    "source": "Chris Brown",
-    "target": "Lynn Breedlove",
-    "targetId": "3205"
-  },
-  {
-    "source": "Chris Brown",
-    "target": "Trevor Dunn",
-    "targetId": "3207"
-  }
-]
+{
+  "source": "Chris Brown",
+  "targets": [
+    {
+      "name": "Bob Ostertag",
+      "targetId": "3201"
+    },
+    {
+      "name": "Lynn Breedlove",
+      "targetId": "3205"
+    },
+    {
+      "name": "Trevor Dunn",
+      "targetId": "3207"
+    }
+  ]
+}

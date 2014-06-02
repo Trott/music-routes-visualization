@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Richard Corpse",
-    "target": "Sharlee D'Angelo",
-    "targetId": "7105"
-  },
-  {
-    "source": "Richard Corpse",
-    "target": "Martin Axenrot",
-    "targetId": "9122"
-  },
-  {
-    "source": "Richard Corpse",
-    "target": "Patrik Jensen",
-    "targetId": "9123"
-  },
-  {
-    "source": "Richard Corpse",
-    "target": "Toxine",
-    "targetId": "9125"
-  }
-]
+{
+  "source": "Richard Corpse",
+  "targets": [
+    {
+      "name": "Sharlee D'Angelo",
+      "targetId": "7105"
+    },
+    {
+      "name": "Martin Axenrot",
+      "targetId": "9122"
+    },
+    {
+      "name": "Patrik Jensen",
+      "targetId": "9123"
+    },
+    {
+      "name": "Toxine",
+      "targetId": "9125"
+    }
+  ]
+}

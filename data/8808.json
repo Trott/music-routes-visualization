@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Leo Abrahams",
-    "target": "Ian Burdge",
-    "targetId": "6576"
-  },
-  {
-    "source": "Leo Abrahams",
-    "target": "Olli Langford",
-    "targetId": "6577"
-  },
-  {
-    "source": "Leo Abrahams",
-    "target": "Imogen Heap",
-    "targetId": "8806"
-  },
-  {
-    "source": "Leo Abrahams",
-    "target": "Richie Mills",
-    "targetId": "8809"
-  }
-]
+{
+  "source": "Leo Abrahams",
+  "targets": [
+    {
+      "name": "Ian Burdge",
+      "targetId": "6576"
+    },
+    {
+      "name": "Olli Langford",
+      "targetId": "6577"
+    },
+    {
+      "name": "Imogen Heap",
+      "targetId": "8806"
+    },
+    {
+      "name": "Richie Mills",
+      "targetId": "8809"
+    }
+  ]
+}

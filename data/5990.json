@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Gary Van Scyoc",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Gary Van Scyoc",
-    "target": "Yoko Ono",
-    "targetId": "2686"
-  },
-  {
-    "source": "Gary Van Scyoc",
-    "target": "Rick Frank",
-    "targetId": "5991"
-  },
-  {
-    "source": "Gary Van Scyoc",
-    "target": "Wayne \"Tex\" Gabriel",
-    "targetId": "5992"
-  },
-  {
-    "source": "Gary Van Scyoc",
-    "target": "Adam Ippolito",
-    "targetId": "5993"
-  },
-  {
-    "source": "Gary Van Scyoc",
-    "target": "Stan Bronstein",
-    "targetId": "5994"
-  }
-]
+{
+  "source": "Gary Van Scyoc",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Yoko Ono",
+      "targetId": "2686"
+    },
+    {
+      "name": "Rick Frank",
+      "targetId": "5991"
+    },
+    {
+      "name": "Wayne \"Tex\" Gabriel",
+      "targetId": "5992"
+    },
+    {
+      "name": "Adam Ippolito",
+      "targetId": "5993"
+    },
+    {
+      "name": "Stan Bronstein",
+      "targetId": "5994"
+    }
+  ]
+}

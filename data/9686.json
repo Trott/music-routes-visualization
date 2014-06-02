@@ -1,67 +1,57 @@
-[
-  {
-    "source": "John Hall",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "John Hall",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "John Hall",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "John Hall",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "John Hall",
-    "target": "Mal Evans",
-    "targetId": "630"
-  },
-  {
-    "source": "John Hall",
-    "target": "Derek Simpson",
-    "targetId": "3360"
-  },
-  {
-    "source": "John Hall",
-    "target": "Norman Jones",
-    "targetId": "3361"
-  },
-  {
-    "source": "John Hall",
-    "target": "Neil Aspinall",
-    "targetId": "3366"
-  },
-  {
-    "source": "John Hall",
-    "target": "Terry Doran",
-    "targetId": "9687"
-  },
-  {
-    "source": "John Hall",
-    "target": "Tony Fisher",
-    "targetId": "9688"
-  },
-  {
-    "source": "John Hall",
-    "target": "Greg Bowen",
-    "targetId": "9689"
-  },
-  {
-    "source": "John Hall",
-    "target": "Derek Watkins",
-    "targetId": "9690"
-  },
-  {
-    "source": "John Hall",
-    "target": "Stanley Roderick",
-    "targetId": "9691"
-  }
-]
+{
+  "source": "John Hall",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Mal Evans",
+      "targetId": "630"
+    },
+    {
+      "name": "Derek Simpson",
+      "targetId": "3360"
+    },
+    {
+      "name": "Norman Jones",
+      "targetId": "3361"
+    },
+    {
+      "name": "Neil Aspinall",
+      "targetId": "3366"
+    },
+    {
+      "name": "Terry Doran",
+      "targetId": "9687"
+    },
+    {
+      "name": "Tony Fisher",
+      "targetId": "9688"
+    },
+    {
+      "name": "Greg Bowen",
+      "targetId": "9689"
+    },
+    {
+      "name": "Derek Watkins",
+      "targetId": "9690"
+    },
+    {
+      "name": "Stanley Roderick",
+      "targetId": "9691"
+    }
+  ]
+}

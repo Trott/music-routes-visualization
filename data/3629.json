@@ -1,52 +1,45 @@
-[
-  {
-    "source": "John Davis",
-    "target": "Sebastian Steinberg",
-    "targetId": "37"
-  },
-  {
-    "source": "John Davis",
-    "target": "William Shatner",
-    "targetId": "179"
-  },
-  {
-    "source": "John Davis",
-    "target": "Ben Folds",
-    "targetId": "180"
-  },
-  {
-    "source": "John Davis",
-    "target": "Matt Chamberlain",
-    "targetId": "182"
-  },
-  {
-    "source": "John Davis",
-    "target": "John Mark Painter",
-    "targetId": "183"
-  },
-  {
-    "source": "John Davis",
-    "target": "Joe Jackson",
-    "targetId": "204"
-  },
-  {
-    "source": "John Davis",
-    "target": "Carmella Ramsey",
-    "targetId": "3627"
-  },
-  {
-    "source": "John Davis",
-    "target": "Jared Reynolds",
-    "targetId": "3628"
-  },
-  {
-    "source": "John Davis",
-    "target": "Kim Richey",
-    "targetId": "3630"
-  },
-  {
-    "source": "John Davis",
-    "target": "Webb Wilder",
-    "targetId": "3631"
-  }
-]
+{
+  "source": "John Davis",
+  "targets": [
+    {
+      "name": "Sebastian Steinberg",
+      "targetId": "37"
+    },
+    {
+      "name": "William Shatner",
+      "targetId": "179"
+    },
+    {
+      "name": "Ben Folds",
+      "targetId": "180"
+    },
+    {
+      "name": "Matt Chamberlain",
+      "targetId": "182"
+    },
+    {
+      "name": "John Mark Painter",
+      "targetId": "183"
+    },
+    {
+      "name": "Joe Jackson",
+      "targetId": "204"
+    },
+    {
+      "name": "Carmella Ramsey",
+      "targetId": "3627"
+    },
+    {
+      "name": "Jared Reynolds",
+      "targetId": "3628"
+    },
+    {
+      "name": "Kim Richey",
+      "targetId": "3630"
+    },
+    {
+      "name": "Webb Wilder",
+      "targetId": "3631"
+    }
+  ]
+}

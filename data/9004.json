@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Drew Thomas",
-    "target": "Tony Bono",
-    "targetId": "9001"
-  },
-  {
-    "source": "Drew Thomas",
-    "target": "Peter Moses",
-    "targetId": "9005"
-  },
-  {
-    "source": "Drew Thomas",
-    "target": "Richie Birkenhead",
-    "targetId": "9006"
-  },
-  {
-    "source": "Drew Thomas",
-    "target": "Jim Kimball",
-    "targetId": "9007"
-  },
-  {
-    "source": "Drew Thomas",
-    "target": "Kevin McGinnis",
-    "targetId": "9008"
-  },
-  {
-    "source": "Drew Thomas",
-    "target": "Garrett Klahn",
-    "targetId": "9009"
-  }
-]
+{
+  "source": "Drew Thomas",
+  "targets": [
+    {
+      "name": "Tony Bono",
+      "targetId": "9001"
+    },
+    {
+      "name": "Peter Moses",
+      "targetId": "9005"
+    },
+    {
+      "name": "Richie Birkenhead",
+      "targetId": "9006"
+    },
+    {
+      "name": "Jim Kimball",
+      "targetId": "9007"
+    },
+    {
+      "name": "Kevin McGinnis",
+      "targetId": "9008"
+    },
+    {
+      "name": "Garrett Klahn",
+      "targetId": "9009"
+    }
+  ]
+}

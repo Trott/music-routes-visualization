@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Alex Hellid",
-    "target": "Nicke \"Nick Royale\" Andersson",
-    "targetId": "7099"
-  },
-  {
-    "source": "Alex Hellid",
-    "target": "Ulf Cederlund",
-    "targetId": "7103"
-  },
-  {
-    "source": "Alex Hellid",
-    "target": "Lars-Göran Petrov",
-    "targetId": "7104"
-  },
-  {
-    "source": "Alex Hellid",
-    "target": "Lars Rosenberg",
-    "targetId": "9194"
-  }
-]
+{
+  "source": "Alex Hellid",
+  "targets": [
+    {
+      "name": "Nicke \"Nick Royale\" Andersson",
+      "targetId": "7099"
+    },
+    {
+      "name": "Ulf Cederlund",
+      "targetId": "7103"
+    },
+    {
+      "name": "Lars-Göran Petrov",
+      "targetId": "7104"
+    },
+    {
+      "name": "Lars Rosenberg",
+      "targetId": "9194"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Dick Wagner",
-    "target": "Gene Simmons",
-    "targetId": "968"
-  },
-  {
-    "source": "Dick Wagner",
-    "target": "Paul Stanley",
-    "targetId": "969"
-  }
-]
+{
+  "source": "Dick Wagner",
+  "targets": [
+    {
+      "name": "Gene Simmons",
+      "targetId": "968"
+    },
+    {
+      "name": "Paul Stanley",
+      "targetId": "969"
+    }
+  ]
+}

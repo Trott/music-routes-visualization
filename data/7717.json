@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Andy Warren",
-    "target": "Adam Ant",
-    "targetId": "832"
-  },
-  {
-    "source": "Andy Warren",
-    "target": "Matthew Ashman",
-    "targetId": "7713"
-  },
-  {
-    "source": "Andy Warren",
-    "target": "Dave Barbarossa",
-    "targetId": "7715"
-  }
-]
+{
+  "source": "Andy Warren",
+  "targets": [
+    {
+      "name": "Adam Ant",
+      "targetId": "832"
+    },
+    {
+      "name": "Matthew Ashman",
+      "targetId": "7713"
+    },
+    {
+      "name": "Dave Barbarossa",
+      "targetId": "7715"
+    }
+  ]
+}

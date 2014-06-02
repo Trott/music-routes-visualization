@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jeff Rothschild",
-    "target": "John Shanks",
-    "targetId": "1063"
-  },
-  {
-    "source": "Jeff Rothschild",
-    "target": "Paul Bushnell",
-    "targetId": "6113"
-  },
-  {
-    "source": "Jeff Rothschild",
-    "target": "Kelly Clarkson",
-    "targetId": "6254"
-  }
-]
+{
+  "source": "Jeff Rothschild",
+  "targets": [
+    {
+      "name": "John Shanks",
+      "targetId": "1063"
+    },
+    {
+      "name": "Paul Bushnell",
+      "targetId": "6113"
+    },
+    {
+      "name": "Kelly Clarkson",
+      "targetId": "6254"
+    }
+  ]
+}

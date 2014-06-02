@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jason Ward",
-    "target": "Mark Simpson",
-    "targetId": "5706"
-  },
-  {
-    "source": "Jason Ward",
-    "target": "Tory Edwards",
-    "targetId": "5709"
-  },
-  {
-    "source": "Jason Ward",
-    "target": "Craig Nielsen",
-    "targetId": "5711"
-  },
-  {
-    "source": "Jason Ward",
-    "target": "Ed Carlson",
-    "targetId": "5712"
-  },
-  {
-    "source": "Jason Ward",
-    "target": "Eric A. K.",
-    "targetId": "5713"
-  }
-]
+{
+  "source": "Jason Ward",
+  "targets": [
+    {
+      "name": "Mark Simpson",
+      "targetId": "5706"
+    },
+    {
+      "name": "Tory Edwards",
+      "targetId": "5709"
+    },
+    {
+      "name": "Craig Nielsen",
+      "targetId": "5711"
+    },
+    {
+      "name": "Ed Carlson",
+      "targetId": "5712"
+    },
+    {
+      "name": "Eric A. K.",
+      "targetId": "5713"
+    }
+  ]
+}

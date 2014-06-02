@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Steve Winwood",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Madeline Bell",
-    "targetId": "810"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Mark Hollis",
-    "targetId": "899"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Lee Harris",
-    "targetId": "900"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Paul Webb",
-    "targetId": "901"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Alan Gorrie",
-    "targetId": "902"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Danny Thompson",
-    "targetId": "903"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Robbie McIntosh",
-    "targetId": "904"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Martin Ditcham",
-    "targetId": "906"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Morris Pert",
-    "targetId": "907"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Phil Reis",
-    "targetId": "908"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Tim Friese-Greene",
-    "targetId": "909"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Gaynor Sadler",
-    "targetId": "910"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Ian Curnow",
-    "targetId": "911"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "David Roach",
-    "targetId": "912"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "David Rhodes",
-    "targetId": "913"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Mark Feltham",
-    "targetId": "914"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Ginger Baker",
-    "targetId": "915"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Ric Grech",
-    "targetId": "916"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Jack Casady",
-    "targetId": "920"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Mitch Mitchell",
-    "targetId": "2685"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Jimi Hendrix",
-    "targetId": "2689"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Etta James",
-    "targetId": "2701"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Joe Cocker",
-    "targetId": "4141"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Chris Stainton",
-    "targetId": "4149"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Su Wheetman",
-    "targetId": "4151"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Sunny Wheetman",
-    "targetId": "4152"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Mike Kelly",
-    "targetId": "4153"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Henry McCullough",
-    "targetId": "4154"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Alan Spenner",
-    "targetId": "5853"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "John Susswell",
-    "targetId": "5854"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Junior Marvin",
-    "targetId": "5855"
-  },
-  {
-    "source": "Steve Winwood",
-    "target": "Brother James",
-    "targetId": "5856"
-  }
-]
+{
+  "source": "Steve Winwood",
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Madeline Bell",
+      "targetId": "810"
+    },
+    {
+      "name": "Mark Hollis",
+      "targetId": "899"
+    },
+    {
+      "name": "Lee Harris",
+      "targetId": "900"
+    },
+    {
+      "name": "Paul Webb",
+      "targetId": "901"
+    },
+    {
+      "name": "Alan Gorrie",
+      "targetId": "902"
+    },
+    {
+      "name": "Danny Thompson",
+      "targetId": "903"
+    },
+    {
+      "name": "Robbie McIntosh",
+      "targetId": "904"
+    },
+    {
+      "name": "Martin Ditcham",
+      "targetId": "906"
+    },
+    {
+      "name": "Morris Pert",
+      "targetId": "907"
+    },
+    {
+      "name": "Phil Reis",
+      "targetId": "908"
+    },
+    {
+      "name": "Tim Friese-Greene",
+      "targetId": "909"
+    },
+    {
+      "name": "Gaynor Sadler",
+      "targetId": "910"
+    },
+    {
+      "name": "Ian Curnow",
+      "targetId": "911"
+    },
+    {
+      "name": "David Roach",
+      "targetId": "912"
+    },
+    {
+      "name": "David Rhodes",
+      "targetId": "913"
+    },
+    {
+      "name": "Mark Feltham",
+      "targetId": "914"
+    },
+    {
+      "name": "Ginger Baker",
+      "targetId": "915"
+    },
+    {
+      "name": "Ric Grech",
+      "targetId": "916"
+    },
+    {
+      "name": "Jack Casady",
+      "targetId": "920"
+    },
+    {
+      "name": "Mitch Mitchell",
+      "targetId": "2685"
+    },
+    {
+      "name": "Jimi Hendrix",
+      "targetId": "2689"
+    },
+    {
+      "name": "Etta James",
+      "targetId": "2701"
+    },
+    {
+      "name": "Joe Cocker",
+      "targetId": "4141"
+    },
+    {
+      "name": "Chris Stainton",
+      "targetId": "4149"
+    },
+    {
+      "name": "Su Wheetman",
+      "targetId": "4151"
+    },
+    {
+      "name": "Sunny Wheetman",
+      "targetId": "4152"
+    },
+    {
+      "name": "Mike Kelly",
+      "targetId": "4153"
+    },
+    {
+      "name": "Henry McCullough",
+      "targetId": "4154"
+    },
+    {
+      "name": "Alan Spenner",
+      "targetId": "5853"
+    },
+    {
+      "name": "John Susswell",
+      "targetId": "5854"
+    },
+    {
+      "name": "Junior Marvin",
+      "targetId": "5855"
+    },
+    {
+      "name": "Brother James",
+      "targetId": "5856"
+    }
+  ]
+}

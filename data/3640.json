@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Guthrie Govan",
-    "target": "Chris Slade",
-    "targetId": "940"
-  },
-  {
-    "source": "Guthrie Govan",
-    "target": "Geoff Downes",
-    "targetId": "3639"
-  },
-  {
-    "source": "Guthrie Govan",
-    "target": "John Payne",
-    "targetId": "3641"
-  }
-]
+{
+  "source": "Guthrie Govan",
+  "targets": [
+    {
+      "name": "Chris Slade",
+      "targetId": "940"
+    },
+    {
+      "name": "Geoff Downes",
+      "targetId": "3639"
+    },
+    {
+      "name": "John Payne",
+      "targetId": "3641"
+    }
+  ]
+}

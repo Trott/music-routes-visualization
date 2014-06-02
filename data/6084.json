@@ -1,22 +1,21 @@
-[
-  {
-    "source": "David Ayers",
-    "target": "Heather Nova",
-    "targetId": "6081"
-  },
-  {
-    "source": "David Ayers",
-    "target": "Bastian Juel",
-    "targetId": "6082"
-  },
-  {
-    "source": "David Ayers",
-    "target": "Laurie Jenkins",
-    "targetId": "6083"
-  },
-  {
-    "source": "David Ayers",
-    "target": "Glenn Scott",
-    "targetId": "6085"
-  }
-]
+{
+  "source": "David Ayers",
+  "targets": [
+    {
+      "name": "Heather Nova",
+      "targetId": "6081"
+    },
+    {
+      "name": "Bastian Juel",
+      "targetId": "6082"
+    },
+    {
+      "name": "Laurie Jenkins",
+      "targetId": "6083"
+    },
+    {
+      "name": "Glenn Scott",
+      "targetId": "6085"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Joe Stefko",
-    "target": "Meat Loaf",
-    "targetId": "1803"
-  },
-  {
-    "source": "Joe Stefko",
-    "target": "Rory Dodd",
-    "targetId": "1816"
-  },
-  {
-    "source": "Joe Stefko",
-    "target": "Jim Steinman",
-    "targetId": "1818"
-  },
-  {
-    "source": "Joe Stefko",
-    "target": "Bruce Kulick",
-    "targetId": "7773"
-  },
-  {
-    "source": "Joe Stefko",
-    "target": "Bob Kulick",
-    "targetId": "8033"
-  },
-  {
-    "source": "Joe Stefko",
-    "target": "Karla DeVito",
-    "targetId": "10426"
-  },
-  {
-    "source": "Joe Stefko",
-    "target": "Steve Buslowe",
-    "targetId": "10427"
-  },
-  {
-    "source": "Joe Stefko",
-    "target": "Paul Glanz",
-    "targetId": "10429"
-  }
-]
+{
+  "source": "Joe Stefko",
+  "targets": [
+    {
+      "name": "Meat Loaf",
+      "targetId": "1803"
+    },
+    {
+      "name": "Rory Dodd",
+      "targetId": "1816"
+    },
+    {
+      "name": "Jim Steinman",
+      "targetId": "1818"
+    },
+    {
+      "name": "Bruce Kulick",
+      "targetId": "7773"
+    },
+    {
+      "name": "Bob Kulick",
+      "targetId": "8033"
+    },
+    {
+      "name": "Karla DeVito",
+      "targetId": "10426"
+    },
+    {
+      "name": "Steve Buslowe",
+      "targetId": "10427"
+    },
+    {
+      "name": "Paul Glanz",
+      "targetId": "10429"
+    }
+  ]
+}

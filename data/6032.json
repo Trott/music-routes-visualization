@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Jack Teagarden",
-    "target": "Barney Bigard",
-    "targetId": "1903"
-  },
-  {
-    "source": "Jack Teagarden",
-    "target": "Billie Holiday",
-    "targetId": "2704"
-  },
-  {
-    "source": "Jack Teagarden",
-    "target": "Roy Eldridge",
-    "targetId": "5524"
-  },
-  {
-    "source": "Jack Teagarden",
-    "target": "Oscar Pettiford",
-    "targetId": "6028"
-  },
-  {
-    "source": "Jack Teagarden",
-    "target": "Sidney Catlett",
-    "targetId": "6029"
-  },
-  {
-    "source": "Jack Teagarden",
-    "target": "Art Tatum",
-    "targetId": "6030"
-  },
-  {
-    "source": "Jack Teagarden",
-    "target": "Coleman Hawkins",
-    "targetId": "6031"
-  },
-  {
-    "source": "Jack Teagarden",
-    "target": "Al Casey",
-    "targetId": "6033"
-  }
-]
+{
+  "source": "Jack Teagarden",
+  "targets": [
+    {
+      "name": "Barney Bigard",
+      "targetId": "1903"
+    },
+    {
+      "name": "Billie Holiday",
+      "targetId": "2704"
+    },
+    {
+      "name": "Roy Eldridge",
+      "targetId": "5524"
+    },
+    {
+      "name": "Oscar Pettiford",
+      "targetId": "6028"
+    },
+    {
+      "name": "Sidney Catlett",
+      "targetId": "6029"
+    },
+    {
+      "name": "Art Tatum",
+      "targetId": "6030"
+    },
+    {
+      "name": "Coleman Hawkins",
+      "targetId": "6031"
+    },
+    {
+      "name": "Al Casey",
+      "targetId": "6033"
+    }
+  ]
+}

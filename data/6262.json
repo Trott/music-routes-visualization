@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Kenny Chesney",
-    "target": "Joe Walsh",
-    "targetId": "392"
-  },
-  {
-    "source": "Kenny Chesney",
-    "target": "Jimmy Buffett",
-    "targetId": "1782"
-  },
-  {
-    "source": "Kenny Chesney",
-    "target": "Reba McEntire",
-    "targetId": "6255"
-  },
-  {
-    "source": "Kenny Chesney",
-    "target": "Uncle Kracker",
-    "targetId": "7901"
-  },
-  {
-    "source": "Kenny Chesney",
-    "target": "Alan Jackson",
-    "targetId": "9236"
-  },
-  {
-    "source": "Kenny Chesney",
-    "target": "Clint Black",
-    "targetId": "9237"
-  },
-  {
-    "source": "Kenny Chesney",
-    "target": "George Strait",
-    "targetId": "9238"
-  },
-  {
-    "source": "Kenny Chesney",
-    "target": "Toby Keith",
-    "targetId": "9239"
-  }
-]
+{
+  "source": "Kenny Chesney",
+  "targets": [
+    {
+      "name": "Joe Walsh",
+      "targetId": "392"
+    },
+    {
+      "name": "Jimmy Buffett",
+      "targetId": "1782"
+    },
+    {
+      "name": "Reba McEntire",
+      "targetId": "6255"
+    },
+    {
+      "name": "Uncle Kracker",
+      "targetId": "7901"
+    },
+    {
+      "name": "Alan Jackson",
+      "targetId": "9236"
+    },
+    {
+      "name": "Clint Black",
+      "targetId": "9237"
+    },
+    {
+      "name": "George Strait",
+      "targetId": "9238"
+    },
+    {
+      "name": "Toby Keith",
+      "targetId": "9239"
+    }
+  ]
+}

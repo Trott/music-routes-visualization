@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Bill Mumy",
-    "target": "Dewey Bunnell",
-    "targetId": "227"
-  },
-  {
-    "source": "Bill Mumy",
-    "target": "Robert Haimer",
-    "targetId": "236"
-  },
-  {
-    "source": "Bill Mumy",
-    "target": "Crispin Glover",
-    "targetId": "237"
-  }
-]
+{
+  "source": "Bill Mumy",
+  "targets": [
+    {
+      "name": "Dewey Bunnell",
+      "targetId": "227"
+    },
+    {
+      "name": "Robert Haimer",
+      "targetId": "236"
+    },
+    {
+      "name": "Crispin Glover",
+      "targetId": "237"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Thomas Rutley",
-    "target": "Neal Schon",
-    "targetId": "174"
-  },
-  {
-    "source": "Thomas Rutley",
-    "target": "Carlos Santana",
-    "targetId": "1081"
-  },
-  {
-    "source": "Thomas Rutley",
-    "target": "Michael Shrieve",
-    "targetId": "1085"
-  },
-  {
-    "source": "Thomas Rutley",
-    "target": "James \"Mingo\" Lewis",
-    "targetId": "10404"
-  },
-  {
-    "source": "Thomas Rutley",
-    "target": "Wendy Haas",
-    "targetId": "10405"
-  },
-  {
-    "source": "Thomas Rutley",
-    "target": "Hadley Caliman",
-    "targetId": "10406"
-  }
-]
+{
+  "source": "Thomas Rutley",
+  "targets": [
+    {
+      "name": "Neal Schon",
+      "targetId": "174"
+    },
+    {
+      "name": "Carlos Santana",
+      "targetId": "1081"
+    },
+    {
+      "name": "Michael Shrieve",
+      "targetId": "1085"
+    },
+    {
+      "name": "James \"Mingo\" Lewis",
+      "targetId": "10404"
+    },
+    {
+      "name": "Wendy Haas",
+      "targetId": "10405"
+    },
+    {
+      "name": "Hadley Caliman",
+      "targetId": "10406"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Carol van Dyk",
-    "target": "Peter Visser",
-    "targetId": "6371"
-  },
-  {
-    "source": "Carol van Dyk",
-    "target": "Herman Bunskoeke",
-    "targetId": "6372"
-  },
-  {
-    "source": "Carol van Dyk",
-    "target": "Jeroen Blankert",
-    "targetId": "6373"
-  },
-  {
-    "source": "Carol van Dyk",
-    "target": "Mauro Pawlowski",
-    "targetId": "6658"
-  },
-  {
-    "source": "Carol van Dyk",
-    "target": "Pascal Deweze",
-    "targetId": "6659"
-  }
-]
+{
+  "source": "Carol van Dyk",
+  "targets": [
+    {
+      "name": "Peter Visser",
+      "targetId": "6371"
+    },
+    {
+      "name": "Herman Bunskoeke",
+      "targetId": "6372"
+    },
+    {
+      "name": "Jeroen Blankert",
+      "targetId": "6373"
+    },
+    {
+      "name": "Mauro Pawlowski",
+      "targetId": "6658"
+    },
+    {
+      "name": "Pascal Deweze",
+      "targetId": "6659"
+    }
+  ]
+}

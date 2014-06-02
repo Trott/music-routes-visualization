@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Michael Gilbert",
-    "target": "Ed Carlson",
-    "targetId": "5712"
-  },
-  {
-    "source": "Michael Gilbert",
-    "target": "Eric A. K.",
-    "targetId": "5713"
-  },
-  {
-    "source": "Michael Gilbert",
-    "target": "Troy Gregory",
-    "targetId": "5715"
-  },
-  {
-    "source": "Michael Gilbert",
-    "target": "Kelly David Smith",
-    "targetId": "5716"
-  }
-]
+{
+  "source": "Michael Gilbert",
+  "targets": [
+    {
+      "name": "Ed Carlson",
+      "targetId": "5712"
+    },
+    {
+      "name": "Eric A. K.",
+      "targetId": "5713"
+    },
+    {
+      "name": "Troy Gregory",
+      "targetId": "5715"
+    },
+    {
+      "name": "Kelly David Smith",
+      "targetId": "5716"
+    }
+  ]
+}

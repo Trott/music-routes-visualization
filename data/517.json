@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rick James",
-    "target": "Smokey Robinson",
-    "targetId": "76"
-  },
-  {
-    "source": "Rick James",
-    "target": "Cheryl Dunlap",
-    "targetId": "3427"
-  },
-  {
-    "source": "Rick James",
-    "target": "Randy Dunlap",
-    "targetId": "3428"
-  },
-  {
-    "source": "Rick James",
-    "target": "Eddie Murphy",
-    "targetId": "4746"
-  }
-]
+{
+  "source": "Rick James",
+  "targets": [
+    {
+      "name": "Smokey Robinson",
+      "targetId": "76"
+    },
+    {
+      "name": "Cheryl Dunlap",
+      "targetId": "3427"
+    },
+    {
+      "name": "Randy Dunlap",
+      "targetId": "3428"
+    },
+    {
+      "name": "Eddie Murphy",
+      "targetId": "4746"
+    }
+  ]
+}

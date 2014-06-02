@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Gary Marx",
-    "target": "Craig Adams",
-    "targetId": "9503"
-  },
-  {
-    "source": "Gary Marx",
-    "target": "Andrew Eldritch",
-    "targetId": "10721"
-  },
-  {
-    "source": "Gary Marx",
-    "target": "Wayne Hussey",
-    "targetId": "10723"
-  }
-]
+{
+  "source": "Gary Marx",
+  "targets": [
+    {
+      "name": "Craig Adams",
+      "targetId": "9503"
+    },
+    {
+      "name": "Andrew Eldritch",
+      "targetId": "10721"
+    },
+    {
+      "name": "Wayne Hussey",
+      "targetId": "10723"
+    }
+  ]
+}

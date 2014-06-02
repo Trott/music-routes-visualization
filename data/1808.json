@@ -1,247 +1,201 @@
-[
-  {
-    "source": "Andrew Love",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Bernie Worrell",
-    "targetId": "199"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Willie Weeks",
-    "targetId": "384"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Isaac Hayes",
-    "targetId": "1802"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Al Jackson, Jr.",
-    "targetId": "1806"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Wayne Jackson",
-    "targetId": "1807"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Floyd Newman",
-    "targetId": "1809"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Gene Parker",
-    "targetId": "1810"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Buddy Guy",
-    "targetId": "2172"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Steve Jordan",
-    "targetId": "2724"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Tommy Stinson",
-    "targetId": "3076"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Chris Mars",
-    "targetId": "3077"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Paul Westerberg",
-    "targetId": "3078"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "East Memphis Slim",
-    "targetId": "3079"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Alex Chilton",
-    "targetId": "3083"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Max Huls",
-    "targetId": "3084"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Ben Cauley",
-    "targetId": "3085"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Pandit Dinesh",
-    "targetId": "3534"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Jack Hale",
-    "targetId": "3813"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Lightnin' Rod",
-    "targetId": "4693"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Lewis Collins",
-    "targetId": "4694"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Jerry Jemmott",
-    "targetId": "4695"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Pancho Morales",
-    "targetId": "4696"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Cornell Dupree",
-    "targetId": "4697"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Truman Thomas",
-    "targetId": "4698"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "James Mitchell",
-    "targetId": "4699"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "King Curtis",
-    "targetId": "4700"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Roger Hopps",
-    "targetId": "4701"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Brenday Bryant",
-    "targetId": "5467"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Margaret Branch",
-    "targetId": "5469"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Tracy Chapman",
-    "targetId": "6105"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Lou Collins",
-    "targetId": "7804"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Jimmy Mitchell",
-    "targetId": "7805"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Pat Smith",
-    "targetId": "7806"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Andrew Innes",
-    "targetId": "7956"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Bobby Gillespie",
-    "targetId": "7957"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Martin Duffy",
-    "targetId": "7959"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Paul Mulreany",
-    "targetId": "7960"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Robert Young",
-    "targetId": "7961"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Marco Nelson",
-    "targetId": "7962"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Augustus Pablo",
-    "targetId": "7966"
-  },
-  {
-    "source": "Andrew Love",
-    "target": "Keb Mo",
-    "targetId": "9230"
-  }
-]
+{
+  "source": "Andrew Love",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Bernie Worrell",
+      "targetId": "199"
+    },
+    {
+      "name": "Willie Weeks",
+      "targetId": "384"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "Isaac Hayes",
+      "targetId": "1802"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Al Jackson, Jr.",
+      "targetId": "1806"
+    },
+    {
+      "name": "Wayne Jackson",
+      "targetId": "1807"
+    },
+    {
+      "name": "Floyd Newman",
+      "targetId": "1809"
+    },
+    {
+      "name": "Gene Parker",
+      "targetId": "1810"
+    },
+    {
+      "name": "Buddy Guy",
+      "targetId": "2172"
+    },
+    {
+      "name": "Steve Jordan",
+      "targetId": "2724"
+    },
+    {
+      "name": "Tommy Stinson",
+      "targetId": "3076"
+    },
+    {
+      "name": "Chris Mars",
+      "targetId": "3077"
+    },
+    {
+      "name": "Paul Westerberg",
+      "targetId": "3078"
+    },
+    {
+      "name": "East Memphis Slim",
+      "targetId": "3079"
+    },
+    {
+      "name": "Alex Chilton",
+      "targetId": "3083"
+    },
+    {
+      "name": "Max Huls",
+      "targetId": "3084"
+    },
+    {
+      "name": "Ben Cauley",
+      "targetId": "3085"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Pandit Dinesh",
+      "targetId": "3534"
+    },
+    {
+      "name": "Jack Hale",
+      "targetId": "3813"
+    },
+    {
+      "name": "Lightnin' Rod",
+      "targetId": "4693"
+    },
+    {
+      "name": "Lewis Collins",
+      "targetId": "4694"
+    },
+    {
+      "name": "Jerry Jemmott",
+      "targetId": "4695"
+    },
+    {
+      "name": "Pancho Morales",
+      "targetId": "4696"
+    },
+    {
+      "name": "Cornell Dupree",
+      "targetId": "4697"
+    },
+    {
+      "name": "Truman Thomas",
+      "targetId": "4698"
+    },
+    {
+      "name": "James Mitchell",
+      "targetId": "4699"
+    },
+    {
+      "name": "King Curtis",
+      "targetId": "4700"
+    },
+    {
+      "name": "Roger Hopps",
+      "targetId": "4701"
+    },
+    {
+      "name": "Brenday Bryant",
+      "targetId": "5467"
+    },
+    {
+      "name": "Margaret Branch",
+      "targetId": "5469"
+    },
+    {
+      "name": "Tracy Chapman",
+      "targetId": "6105"
+    },
+    {
+      "name": "Lou Collins",
+      "targetId": "7804"
+    },
+    {
+      "name": "Jimmy Mitchell",
+      "targetId": "7805"
+    },
+    {
+      "name": "Pat Smith",
+      "targetId": "7806"
+    },
+    {
+      "name": "Andrew Innes",
+      "targetId": "7956"
+    },
+    {
+      "name": "Bobby Gillespie",
+      "targetId": "7957"
+    },
+    {
+      "name": "Martin Duffy",
+      "targetId": "7959"
+    },
+    {
+      "name": "Paul Mulreany",
+      "targetId": "7960"
+    },
+    {
+      "name": "Robert Young",
+      "targetId": "7961"
+    },
+    {
+      "name": "Marco Nelson",
+      "targetId": "7962"
+    },
+    {
+      "name": "Augustus Pablo",
+      "targetId": "7966"
+    },
+    {
+      "name": "Keb Mo",
+      "targetId": "9230"
+    }
+  ]
+}

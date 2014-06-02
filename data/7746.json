@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Dennis Duck",
-    "target": "David Roback",
-    "targetId": "7745"
-  },
-  {
-    "source": "Dennis Duck",
-    "target": "Matt Piucci",
-    "targetId": "7747"
-  },
-  {
-    "source": "Dennis Duck",
-    "target": "Will Glenn",
-    "targetId": "7748"
-  },
-  {
-    "source": "Dennis Duck",
-    "target": "Michael Quercio",
-    "targetId": "7749"
-  },
-  {
-    "source": "Dennis Duck",
-    "target": "Ethan James",
-    "targetId": "7750"
-  },
-  {
-    "source": "Dennis Duck",
-    "target": "Karl Precoda",
-    "targetId": "7753"
-  }
-]
+{
+  "source": "Dennis Duck",
+  "targets": [
+    {
+      "name": "David Roback",
+      "targetId": "7745"
+    },
+    {
+      "name": "Matt Piucci",
+      "targetId": "7747"
+    },
+    {
+      "name": "Will Glenn",
+      "targetId": "7748"
+    },
+    {
+      "name": "Michael Quercio",
+      "targetId": "7749"
+    },
+    {
+      "name": "Ethan James",
+      "targetId": "7750"
+    },
+    {
+      "name": "Karl Precoda",
+      "targetId": "7753"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mark Meadows",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Mark Meadows",
-    "target": "Lisa Loeb",
-    "targetId": "8844"
-  },
-  {
-    "source": "Mark Meadows",
-    "target": "Joe Travers",
-    "targetId": "8860"
-  },
-  {
-    "source": "Mark Meadows",
-    "target": "Anne Previn",
-    "targetId": "8872"
-  },
-  {
-    "source": "Mark Meadows",
-    "target": "Lala Sloatman",
-    "targetId": "8874"
-  }
-]
+{
+  "source": "Mark Meadows",
+  "targets": [
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Lisa Loeb",
+      "targetId": "8844"
+    },
+    {
+      "name": "Joe Travers",
+      "targetId": "8860"
+    },
+    {
+      "name": "Anne Previn",
+      "targetId": "8872"
+    },
+    {
+      "name": "Lala Sloatman",
+      "targetId": "8874"
+    }
+  ]
+}

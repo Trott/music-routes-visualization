@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Sean Malone",
-    "target": "Mike Portnoy",
-    "targetId": "4200"
-  },
-  {
-    "source": "Sean Malone",
-    "target": "Jason McMaster",
-    "targetId": "5682"
-  },
-  {
-    "source": "Sean Malone",
-    "target": "Paul Gilbert",
-    "targetId": "5685"
-  }
-]
+{
+  "source": "Sean Malone",
+  "targets": [
+    {
+      "name": "Mike Portnoy",
+      "targetId": "4200"
+    },
+    {
+      "name": "Jason McMaster",
+      "targetId": "5682"
+    },
+    {
+      "name": "Paul Gilbert",
+      "targetId": "5685"
+    }
+  ]
+}

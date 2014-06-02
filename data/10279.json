@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ron Prentiss",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Ron Prentiss",
-    "target": "Keith Relf",
-    "targetId": "10274"
-  },
-  {
-    "source": "Ron Prentiss",
-    "target": "Paul Samwell-Smith",
-    "targetId": "10275"
-  },
-  {
-    "source": "Ron Prentiss",
-    "target": "Chris Dreja",
-    "targetId": "10276"
-  },
-  {
-    "source": "Ron Prentiss",
-    "target": "Jim McCarty",
-    "targetId": "10277"
-  },
-  {
-    "source": "Ron Prentiss",
-    "target": "Brian Auger",
-    "targetId": "10278"
-  }
-]
+{
+  "source": "Ron Prentiss",
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Keith Relf",
+      "targetId": "10274"
+    },
+    {
+      "name": "Paul Samwell-Smith",
+      "targetId": "10275"
+    },
+    {
+      "name": "Chris Dreja",
+      "targetId": "10276"
+    },
+    {
+      "name": "Jim McCarty",
+      "targetId": "10277"
+    },
+    {
+      "name": "Brian Auger",
+      "targetId": "10278"
+    }
+  ]
+}

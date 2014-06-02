@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Myrna Smith",
-    "target": "Cissy Houston",
-    "targetId": "1197"
-  },
-  {
-    "source": "Myrna Smith",
-    "target": "Mitch Mitchell",
-    "targetId": "2685"
-  },
-  {
-    "source": "Myrna Smith",
-    "target": "Noel Redding",
-    "targetId": "2688"
-  },
-  {
-    "source": "Myrna Smith",
-    "target": "Jimi Hendrix",
-    "targetId": "2689"
-  },
-  {
-    "source": "Myrna Smith",
-    "target": "Estelle Brown",
-    "targetId": "9572"
-  },
-  {
-    "source": "Myrna Smith",
-    "target": "Sylvia Shemwell",
-    "targetId": "9573"
-  }
-]
+{
+  "source": "Myrna Smith",
+  "targets": [
+    {
+      "name": "Cissy Houston",
+      "targetId": "1197"
+    },
+    {
+      "name": "Mitch Mitchell",
+      "targetId": "2685"
+    },
+    {
+      "name": "Noel Redding",
+      "targetId": "2688"
+    },
+    {
+      "name": "Jimi Hendrix",
+      "targetId": "2689"
+    },
+    {
+      "name": "Estelle Brown",
+      "targetId": "9572"
+    },
+    {
+      "name": "Sylvia Shemwell",
+      "targetId": "9573"
+    }
+  ]
+}

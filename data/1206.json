@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Schroer",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "John Schroer",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "John Schroer",
-    "target": "Jerry Hahn",
-    "targetId": "1203"
-  },
-  {
-    "source": "John Schroer",
-    "target": "Fred Lipsius",
-    "targetId": "1205"
-  },
-  {
-    "source": "John Schroer",
-    "target": "Airto Moreira",
-    "targetId": "1207"
-  },
-  {
-    "source": "John Schroer",
-    "target": "Stefan Grossman",
-    "targetId": "1212"
-  },
-  {
-    "source": "John Schroer",
-    "target": "Steve Turre",
-    "targetId": "1213"
-  }
-]
+{
+  "source": "John Schroer",
+  "targets": [
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Jerry Hahn",
+      "targetId": "1203"
+    },
+    {
+      "name": "Fred Lipsius",
+      "targetId": "1205"
+    },
+    {
+      "name": "Airto Moreira",
+      "targetId": "1207"
+    },
+    {
+      "name": "Stefan Grossman",
+      "targetId": "1212"
+    },
+    {
+      "name": "Steve Turre",
+      "targetId": "1213"
+    }
+  ]
+}

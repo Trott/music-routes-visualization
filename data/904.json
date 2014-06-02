@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Robbie McIntosh",
-    "target": "Bill Payne",
-    "targetId": "280"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Rick Marotta",
-    "targetId": "393"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Michael McDonald",
-    "targetId": "717"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Kay Garner",
-    "targetId": "811"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Steve Porcaro",
-    "targetId": "895"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Mark Hollis",
-    "targetId": "899"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Lee Harris",
-    "targetId": "900"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Paul Webb",
-    "targetId": "901"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Alan Gorrie",
-    "targetId": "902"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Danny Thompson",
-    "targetId": "903"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Steve Winwood",
-    "targetId": "905"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Martin Ditcham",
-    "targetId": "906"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Morris Pert",
-    "targetId": "907"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Phil Reis",
-    "targetId": "908"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Tim Friese-Greene",
-    "targetId": "909"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Gaynor Sadler",
-    "targetId": "910"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Ian Curnow",
-    "targetId": "911"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "David Roach",
-    "targetId": "912"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "David Rhodes",
-    "targetId": "913"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Mark Feltham",
-    "targetId": "914"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Vicki Brown",
-    "targetId": "982"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Vince Melamed",
-    "targetId": "3277"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Stevie Lange",
-    "targetId": "5616"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Billy Kristian",
-    "targetId": "5617"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Bobby LaKind",
-    "targetId": "5621"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "James Albert Johnson",
-    "targetId": "5622"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Derrek Austin",
-    "targetId": "5623"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Bobby Guidotti",
-    "targetId": "5624"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Bobby Wright",
-    "targetId": "5625"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Graham Todd",
-    "targetId": "5626"
-  },
-  {
-    "source": "Robbie McIntosh",
-    "target": "Kevin Savigar",
-    "targetId": "5627"
-  }
-]
+{
+  "source": "Robbie McIntosh",
+  "targets": [
+    {
+      "name": "Bill Payne",
+      "targetId": "280"
+    },
+    {
+      "name": "Rick Marotta",
+      "targetId": "393"
+    },
+    {
+      "name": "Michael McDonald",
+      "targetId": "717"
+    },
+    {
+      "name": "Kay Garner",
+      "targetId": "811"
+    },
+    {
+      "name": "Steve Porcaro",
+      "targetId": "895"
+    },
+    {
+      "name": "Mark Hollis",
+      "targetId": "899"
+    },
+    {
+      "name": "Lee Harris",
+      "targetId": "900"
+    },
+    {
+      "name": "Paul Webb",
+      "targetId": "901"
+    },
+    {
+      "name": "Alan Gorrie",
+      "targetId": "902"
+    },
+    {
+      "name": "Danny Thompson",
+      "targetId": "903"
+    },
+    {
+      "name": "Steve Winwood",
+      "targetId": "905"
+    },
+    {
+      "name": "Martin Ditcham",
+      "targetId": "906"
+    },
+    {
+      "name": "Morris Pert",
+      "targetId": "907"
+    },
+    {
+      "name": "Phil Reis",
+      "targetId": "908"
+    },
+    {
+      "name": "Tim Friese-Greene",
+      "targetId": "909"
+    },
+    {
+      "name": "Gaynor Sadler",
+      "targetId": "910"
+    },
+    {
+      "name": "Ian Curnow",
+      "targetId": "911"
+    },
+    {
+      "name": "David Roach",
+      "targetId": "912"
+    },
+    {
+      "name": "David Rhodes",
+      "targetId": "913"
+    },
+    {
+      "name": "Mark Feltham",
+      "targetId": "914"
+    },
+    {
+      "name": "Vicki Brown",
+      "targetId": "982"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Vince Melamed",
+      "targetId": "3277"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Stevie Lange",
+      "targetId": "5616"
+    },
+    {
+      "name": "Billy Kristian",
+      "targetId": "5617"
+    },
+    {
+      "name": "Bobby LaKind",
+      "targetId": "5621"
+    },
+    {
+      "name": "James Albert Johnson",
+      "targetId": "5622"
+    },
+    {
+      "name": "Derrek Austin",
+      "targetId": "5623"
+    },
+    {
+      "name": "Bobby Guidotti",
+      "targetId": "5624"
+    },
+    {
+      "name": "Bobby Wright",
+      "targetId": "5625"
+    },
+    {
+      "name": "Graham Todd",
+      "targetId": "5626"
+    },
+    {
+      "name": "Kevin Savigar",
+      "targetId": "5627"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brian McCloud",
-    "target": "James Blunt",
-    "targetId": "6506"
-  },
-  {
-    "source": "Brian McCloud",
-    "target": "P. III",
-    "targetId": "6518"
-  },
-  {
-    "source": "Brian McCloud",
-    "target": "Linda Perry",
-    "targetId": "6520"
-  }
-]
+{
+  "source": "Brian McCloud",
+  "targets": [
+    {
+      "name": "James Blunt",
+      "targetId": "6506"
+    },
+    {
+      "name": "P. III",
+      "targetId": "6518"
+    },
+    {
+      "name": "Linda Perry",
+      "targetId": "6520"
+    }
+  ]
+}

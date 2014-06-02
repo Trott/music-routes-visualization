@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Graham Maby",
-    "target": "Robert Quine",
-    "targetId": "2770"
-  },
-  {
-    "source": "Graham Maby",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Graham Maby",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Graham Maby",
-    "target": "Brian Doherty",
-    "targetId": "3070"
-  },
-  {
-    "source": "Graham Maby",
-    "target": "Kurt Hoffman",
-    "targetId": "3072"
-  },
-  {
-    "source": "Graham Maby",
-    "target": "Kevin Osborne",
-    "targetId": "3073"
-  },
-  {
-    "source": "Graham Maby",
-    "target": "Steven Bernstein",
-    "targetId": "3075"
-  }
-]
+{
+  "source": "Graham Maby",
+  "targets": [
+    {
+      "name": "Robert Quine",
+      "targetId": "2770"
+    },
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Brian Doherty",
+      "targetId": "3070"
+    },
+    {
+      "name": "Kurt Hoffman",
+      "targetId": "3072"
+    },
+    {
+      "name": "Kevin Osborne",
+      "targetId": "3073"
+    },
+    {
+      "name": "Steven Bernstein",
+      "targetId": "3075"
+    }
+  ]
+}

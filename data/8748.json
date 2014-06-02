@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Allison Moorer",
-    "target": "David Byrne",
-    "targetId": "193"
-  },
-  {
-    "source": "Allison Moorer",
-    "target": "Steve Earle",
-    "targetId": "5483"
-  },
-  {
-    "source": "Allison Moorer",
-    "target": "Tom Gandey",
-    "targetId": "8724"
-  },
-  {
-    "source": "Allison Moorer",
-    "target": "Paul Frazier",
-    "targetId": "8733"
-  },
-  {
-    "source": "Allison Moorer",
-    "target": "Thomas Bartlett",
-    "targetId": "8735"
-  },
-  {
-    "source": "Allison Moorer",
-    "target": "Graham Hawthorne",
-    "targetId": "8737"
-  }
-]
+{
+  "source": "Allison Moorer",
+  "targets": [
+    {
+      "name": "David Byrne",
+      "targetId": "193"
+    },
+    {
+      "name": "Steve Earle",
+      "targetId": "5483"
+    },
+    {
+      "name": "Tom Gandey",
+      "targetId": "8724"
+    },
+    {
+      "name": "Paul Frazier",
+      "targetId": "8733"
+    },
+    {
+      "name": "Thomas Bartlett",
+      "targetId": "8735"
+    },
+    {
+      "name": "Graham Hawthorne",
+      "targetId": "8737"
+    }
+  ]
+}

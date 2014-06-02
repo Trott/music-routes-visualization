@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Link Benka",
-    "target": "Rowland S. Howard",
-    "targetId": "8337"
-  },
-  {
-    "source": "Link Benka",
-    "target": "Lydia Lunch",
-    "targetId": "8340"
-  },
-  {
-    "source": "Link Benka",
-    "target": "Joe Drake",
-    "targetId": "8341"
-  },
-  {
-    "source": "Link Benka",
-    "target": "Brent Newman",
-    "targetId": "8342"
-  }
-]
+{
+  "source": "Link Benka",
+  "targets": [
+    {
+      "name": "Rowland S. Howard",
+      "targetId": "8337"
+    },
+    {
+      "name": "Lydia Lunch",
+      "targetId": "8340"
+    },
+    {
+      "name": "Joe Drake",
+      "targetId": "8341"
+    },
+    {
+      "name": "Brent Newman",
+      "targetId": "8342"
+    }
+  ]
+}

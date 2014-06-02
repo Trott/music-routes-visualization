@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Bobby Graham",
-    "target": "Dave Davies",
-    "targetId": "2515"
-  },
-  {
-    "source": "Bobby Graham",
-    "target": "Ray Davies",
-    "targetId": "2516"
-  },
-  {
-    "source": "Bobby Graham",
-    "target": "Mick Avory",
-    "targetId": "2517"
-  },
-  {
-    "source": "Bobby Graham",
-    "target": "Arthur Greenslade",
-    "targetId": "8296"
-  },
-  {
-    "source": "Bobby Graham",
-    "target": "Pete Quaife",
-    "targetId": "8298"
-  }
-]
+{
+  "source": "Bobby Graham",
+  "targets": [
+    {
+      "name": "Dave Davies",
+      "targetId": "2515"
+    },
+    {
+      "name": "Ray Davies",
+      "targetId": "2516"
+    },
+    {
+      "name": "Mick Avory",
+      "targetId": "2517"
+    },
+    {
+      "name": "Arthur Greenslade",
+      "targetId": "8296"
+    },
+    {
+      "name": "Pete Quaife",
+      "targetId": "8298"
+    }
+  ]
+}

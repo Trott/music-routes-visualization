@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Chris Pedersen",
-    "target": "Victor Krummenacher",
-    "targetId": "1615"
-  },
-  {
-    "source": "Chris Pedersen",
-    "target": "Greg Lisher",
-    "targetId": "2662"
-  },
-  {
-    "source": "Chris Pedersen",
-    "target": "David Immerglück",
-    "targetId": "2663"
-  }
-]
+{
+  "source": "Chris Pedersen",
+  "targets": [
+    {
+      "name": "Victor Krummenacher",
+      "targetId": "1615"
+    },
+    {
+      "name": "Greg Lisher",
+      "targetId": "2662"
+    },
+    {
+      "name": "David Immerglück",
+      "targetId": "2663"
+    }
+  ]
+}

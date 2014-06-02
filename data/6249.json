@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Lauryn Hill",
-    "target": "Carlos Santana",
-    "targetId": "1081"
-  },
-  {
-    "source": "Lauryn Hill",
-    "target": "Mary J. Blige",
-    "targetId": "4043"
-  },
-  {
-    "source": "Lauryn Hill",
-    "target": "John Legend",
-    "targetId": "6204"
-  },
-  {
-    "source": "Lauryn Hill",
-    "target": "James Poyser",
-    "targetId": "6250"
-  },
-  {
-    "source": "Lauryn Hill",
-    "target": "Sabrina Johnston",
-    "targetId": "6251"
-  },
-  {
-    "source": "Lauryn Hill",
-    "target": "Kenny Bobien",
-    "targetId": "6252"
-  },
-  {
-    "source": "Lauryn Hill",
-    "target": "D'Angelo",
-    "targetId": "6253"
-  }
-]
+{
+  "source": "Lauryn Hill",
+  "targets": [
+    {
+      "name": "Carlos Santana",
+      "targetId": "1081"
+    },
+    {
+      "name": "Mary J. Blige",
+      "targetId": "4043"
+    },
+    {
+      "name": "John Legend",
+      "targetId": "6204"
+    },
+    {
+      "name": "James Poyser",
+      "targetId": "6250"
+    },
+    {
+      "name": "Sabrina Johnston",
+      "targetId": "6251"
+    },
+    {
+      "name": "Kenny Bobien",
+      "targetId": "6252"
+    },
+    {
+      "name": "D'Angelo",
+      "targetId": "6253"
+    }
+  ]
+}

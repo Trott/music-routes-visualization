@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Mike Millius",
-    "target": "Joey Waronker",
-    "targetId": "1053"
-  },
-  {
-    "source": "Mike Millius",
-    "target": "Beck",
-    "targetId": "1057"
-  }
-]
+{
+  "source": "Mike Millius",
+  "targets": [
+    {
+      "name": "Joey Waronker",
+      "targetId": "1053"
+    },
+    {
+      "name": "Beck",
+      "targetId": "1057"
+    }
+  ]
+}

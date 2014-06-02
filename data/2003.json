@@ -1,157 +1,129 @@
-[
-  {
-    "source": "Roger Waters",
-    "target": "Rick Danko",
-    "targetId": "29"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Levon Helm",
-    "targetId": "32"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Garth Hudson",
-    "targetId": "33"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Cyndi Lauper",
-    "targetId": "64"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "David Gilmour",
-    "targetId": "275"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Sinéad O'Connor",
-    "targetId": "596"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Lesley Duncan",
-    "targetId": "812"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Liza Strike",
-    "targetId": "983"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Doris Troy",
-    "targetId": "994"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Nick Mason",
-    "targetId": "2001"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Richard Wright",
-    "targetId": "2002"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Dick Parry",
-    "targetId": "2004"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Clare Torry",
-    "targetId": "2005"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Barry St. John",
-    "targetId": "2006"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Raphael Ravenscroft",
-    "targetId": "3191"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Eric Bazilian",
-    "targetId": "3441"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Rick DiFonzo",
-    "targetId": "3442"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Rob Hyman",
-    "targetId": "3443"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Syd Barrett",
-    "targetId": "3578"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Michael Kamen",
-    "targetId": "3659"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Andy Bown",
-    "targetId": "3660"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Lee Ritenour",
-    "targetId": "5905"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Peter Wood",
-    "targetId": "7845"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Snowy White",
-    "targetId": "8413"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Graham Broad",
-    "targetId": "8414"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Nick Glennie-Smith",
-    "targetId": "8415"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "John Lilley",
-    "targetId": "8416"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Fran Smith, Jr.",
-    "targetId": "8417"
-  },
-  {
-    "source": "Roger Waters",
-    "target": "Dave Uosikkinen",
-    "targetId": "8418"
-  }
-]
+{
+  "source": "Roger Waters",
+  "targets": [
+    {
+      "name": "Rick Danko",
+      "targetId": "29"
+    },
+    {
+      "name": "Levon Helm",
+      "targetId": "32"
+    },
+    {
+      "name": "Garth Hudson",
+      "targetId": "33"
+    },
+    {
+      "name": "Cyndi Lauper",
+      "targetId": "64"
+    },
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "David Gilmour",
+      "targetId": "275"
+    },
+    {
+      "name": "Sinéad O'Connor",
+      "targetId": "596"
+    },
+    {
+      "name": "Lesley Duncan",
+      "targetId": "812"
+    },
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Liza Strike",
+      "targetId": "983"
+    },
+    {
+      "name": "Doris Troy",
+      "targetId": "994"
+    },
+    {
+      "name": "Nick Mason",
+      "targetId": "2001"
+    },
+    {
+      "name": "Richard Wright",
+      "targetId": "2002"
+    },
+    {
+      "name": "Dick Parry",
+      "targetId": "2004"
+    },
+    {
+      "name": "Clare Torry",
+      "targetId": "2005"
+    },
+    {
+      "name": "Barry St. John",
+      "targetId": "2006"
+    },
+    {
+      "name": "Raphael Ravenscroft",
+      "targetId": "3191"
+    },
+    {
+      "name": "Eric Bazilian",
+      "targetId": "3441"
+    },
+    {
+      "name": "Rick DiFonzo",
+      "targetId": "3442"
+    },
+    {
+      "name": "Rob Hyman",
+      "targetId": "3443"
+    },
+    {
+      "name": "Syd Barrett",
+      "targetId": "3578"
+    },
+    {
+      "name": "Michael Kamen",
+      "targetId": "3659"
+    },
+    {
+      "name": "Andy Bown",
+      "targetId": "3660"
+    },
+    {
+      "name": "Lee Ritenour",
+      "targetId": "5905"
+    },
+    {
+      "name": "Peter Wood",
+      "targetId": "7845"
+    },
+    {
+      "name": "Snowy White",
+      "targetId": "8413"
+    },
+    {
+      "name": "Graham Broad",
+      "targetId": "8414"
+    },
+    {
+      "name": "Nick Glennie-Smith",
+      "targetId": "8415"
+    },
+    {
+      "name": "John Lilley",
+      "targetId": "8416"
+    },
+    {
+      "name": "Fran Smith, Jr.",
+      "targetId": "8417"
+    },
+    {
+      "name": "Dave Uosikkinen",
+      "targetId": "8418"
+    }
+  ]
+}

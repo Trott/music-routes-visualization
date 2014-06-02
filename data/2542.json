@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Cesária Évora",
-    "target": "Bonnie Raitt",
-    "targetId": "692"
-  },
-  {
-    "source": "Cesária Évora",
-    "target": "Pedro Guerra",
-    "targetId": "2543"
-  },
-  {
-    "source": "Cesária Évora",
-    "target": "Caetano Veloso",
-    "targetId": "2544"
-  },
-  {
-    "source": "Cesária Évora",
-    "target": "Chucho Valdés",
-    "targetId": "2545"
-  }
-]
+{
+  "source": "Cesária Évora",
+  "targets": [
+    {
+      "name": "Bonnie Raitt",
+      "targetId": "692"
+    },
+    {
+      "name": "Pedro Guerra",
+      "targetId": "2543"
+    },
+    {
+      "name": "Caetano Veloso",
+      "targetId": "2544"
+    },
+    {
+      "name": "Chucho Valdés",
+      "targetId": "2545"
+    }
+  ]
+}

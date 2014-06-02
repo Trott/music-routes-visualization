@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ivry Gitlis",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Ivry Gitlis",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Ivry Gitlis",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Ivry Gitlis",
-    "target": "Mitch Mitchell",
-    "targetId": "2685"
-  },
-  {
-    "source": "Ivry Gitlis",
-    "target": "Yoko Ono",
-    "targetId": "2686"
-  }
-]
+{
+  "source": "Ivry Gitlis",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Mitch Mitchell",
+      "targetId": "2685"
+    },
+    {
+      "name": "Yoko Ono",
+      "targetId": "2686"
+    }
+  ]
+}

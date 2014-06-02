@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Greg Lake",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Greg Lake",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Greg Lake",
-    "target": "Keith Tippett",
-    "targetId": "537"
-  },
-  {
-    "source": "Greg Lake",
-    "target": "Peter Giles",
-    "targetId": "542"
-  },
-  {
-    "source": "Greg Lake",
-    "target": "Michael Giles",
-    "targetId": "543"
-  },
-  {
-    "source": "Greg Lake",
-    "target": "Ian McDonald",
-    "targetId": "544"
-  },
-  {
-    "source": "Greg Lake",
-    "target": "Carl Palmer",
-    "targetId": "5052"
-  },
-  {
-    "source": "Greg Lake",
-    "target": "Keith Emerson",
-    "targetId": "5053"
-  }
-]
+{
+  "source": "Greg Lake",
+  "targets": [
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Keith Tippett",
+      "targetId": "537"
+    },
+    {
+      "name": "Peter Giles",
+      "targetId": "542"
+    },
+    {
+      "name": "Michael Giles",
+      "targetId": "543"
+    },
+    {
+      "name": "Ian McDonald",
+      "targetId": "544"
+    },
+    {
+      "name": "Carl Palmer",
+      "targetId": "5052"
+    },
+    {
+      "name": "Keith Emerson",
+      "targetId": "5053"
+    }
+  ]
+}

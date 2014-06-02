@@ -1,52 +1,45 @@
-[
-  {
-    "source": "John Paris",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "John Paris",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "John Paris",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "John Paris",
-    "target": "Madelyn Quebec",
-    "targetId": "562"
-  },
-  {
-    "source": "John Paris",
-    "target": "Muffy Hendrix",
-    "targetId": "563"
-  },
-  {
-    "source": "John Paris",
-    "target": "Annette May Thomas",
-    "targetId": "564"
-  },
-  {
-    "source": "John Paris",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "John Paris",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "John Paris",
-    "target": "Peggi Blu",
-    "targetId": "3268"
-  },
-  {
-    "source": "John Paris",
-    "target": "Queen Esther Marrow",
-    "targetId": "3269"
-  }
-]
+{
+  "source": "John Paris",
+  "targets": [
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Madelyn Quebec",
+      "targetId": "562"
+    },
+    {
+      "name": "Muffy Hendrix",
+      "targetId": "563"
+    },
+    {
+      "name": "Annette May Thomas",
+      "targetId": "564"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "Peggi Blu",
+      "targetId": "3268"
+    },
+    {
+      "name": "Queen Esther Marrow",
+      "targetId": "3269"
+    }
+  ]
+}

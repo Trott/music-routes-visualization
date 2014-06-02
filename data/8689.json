@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ricky Skaggs",
-    "target": "Jack White",
-    "targetId": "256"
-  },
-  {
-    "source": "Ricky Skaggs",
-    "target": "Jack Lawrence",
-    "targetId": "3812"
-  },
-  {
-    "source": "Ricky Skaggs",
-    "target": "Brendan Benson",
-    "targetId": "6317"
-  },
-  {
-    "source": "Ricky Skaggs",
-    "target": "Patrick Keeler",
-    "targetId": "6318"
-  },
-  {
-    "source": "Ricky Skaggs",
-    "target": "Mark Watrous",
-    "targetId": "6685"
-  },
-  {
-    "source": "Ricky Skaggs",
-    "target": "Ashley Monroe",
-    "targetId": "8690"
-  }
-]
+{
+  "source": "Ricky Skaggs",
+  "targets": [
+    {
+      "name": "Jack White",
+      "targetId": "256"
+    },
+    {
+      "name": "Jack Lawrence",
+      "targetId": "3812"
+    },
+    {
+      "name": "Brendan Benson",
+      "targetId": "6317"
+    },
+    {
+      "name": "Patrick Keeler",
+      "targetId": "6318"
+    },
+    {
+      "name": "Mark Watrous",
+      "targetId": "6685"
+    },
+    {
+      "name": "Ashley Monroe",
+      "targetId": "8690"
+    }
+  ]
+}

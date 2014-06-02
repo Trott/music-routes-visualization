@@ -1,232 +1,189 @@
-[
-  {
-    "source": "John Oates",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "John Oates",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "John Oates",
-    "target": "Lionel Richie",
-    "targetId": "41"
-  },
-  {
-    "source": "John Oates",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "John Oates",
-    "target": "Dan Aykroyd",
-    "targetId": "43"
-  },
-  {
-    "source": "John Oates",
-    "target": "Harry Belafonte",
-    "targetId": "44"
-  },
-  {
-    "source": "John Oates",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "John Oates",
-    "target": "Kim Carnes",
-    "targetId": "49"
-  },
-  {
-    "source": "John Oates",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "John Oates",
-    "target": "Sheila E.",
-    "targetId": "51"
-  },
-  {
-    "source": "John Oates",
-    "target": "Daryl Hall",
-    "targetId": "53"
-  },
-  {
-    "source": "John Oates",
-    "target": "James Ingram",
-    "targetId": "54"
-  },
-  {
-    "source": "John Oates",
-    "target": "Jackie Jackson",
-    "targetId": "55"
-  },
-  {
-    "source": "John Oates",
-    "target": "Marlon Jackson",
-    "targetId": "56"
-  },
-  {
-    "source": "John Oates",
-    "target": "LaToya Jackson",
-    "targetId": "57"
-  },
-  {
-    "source": "John Oates",
-    "target": "Tito Jackson",
-    "targetId": "60"
-  },
-  {
-    "source": "John Oates",
-    "target": "Al Jarreau",
-    "targetId": "61"
-  },
-  {
-    "source": "John Oates",
-    "target": "Waylon Jennings",
-    "targetId": "62"
-  },
-  {
-    "source": "John Oates",
-    "target": "Billy Joel",
-    "targetId": "63"
-  },
-  {
-    "source": "John Oates",
-    "target": "Cyndi Lauper",
-    "targetId": "64"
-  },
-  {
-    "source": "John Oates",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "John Oates",
-    "target": "Kenny Loggins",
-    "targetId": "66"
-  },
-  {
-    "source": "John Oates",
-    "target": "Bette Midler",
-    "targetId": "67"
-  },
-  {
-    "source": "John Oates",
-    "target": "Willie Nelson",
-    "targetId": "68"
-  },
-  {
-    "source": "John Oates",
-    "target": "Jeffrey Osborne",
-    "targetId": "70"
-  },
-  {
-    "source": "John Oates",
-    "target": "Steve Perry",
-    "targetId": "71"
-  },
-  {
-    "source": "John Oates",
-    "target": "Anita Pointer",
-    "targetId": "73"
-  },
-  {
-    "source": "John Oates",
-    "target": "Ruth Pointer",
-    "targetId": "74"
-  },
-  {
-    "source": "John Oates",
-    "target": "June Pointer",
-    "targetId": "75"
-  },
-  {
-    "source": "John Oates",
-    "target": "Smokey Robinson",
-    "targetId": "76"
-  },
-  {
-    "source": "John Oates",
-    "target": "Kenny Rogers",
-    "targetId": "77"
-  },
-  {
-    "source": "John Oates",
-    "target": "Diana Ross",
-    "targetId": "78"
-  },
-  {
-    "source": "John Oates",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "John Oates",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "John Oates",
-    "target": "Tina Turner",
-    "targetId": "81"
-  },
-  {
-    "source": "John Oates",
-    "target": "Dionne Warwick",
-    "targetId": "82"
-  },
-  {
-    "source": "John Oates",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "John Oates",
-    "target": "Hugh McCracken",
-    "targetId": "268"
-  },
-  {
-    "source": "John Oates",
-    "target": "Joe Farrell",
-    "targetId": "1259"
-  },
-  {
-    "source": "John Oates",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "John Oates",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "John Oates",
-    "target": "Steve \"Fontz\" Gelfand",
-    "targetId": "4690"
-  },
-  {
-    "source": "John Oates",
-    "target": "Chris Bond",
-    "targetId": "4691"
-  },
-  {
-    "source": "John Oates",
-    "target": "John Blair",
-    "targetId": "4692"
-  },
-  {
-    "source": "John Oates",
-    "target": "Randy Jackson",
-    "targetId": "5836"
-  },
-  {
-    "source": "John Oates",
-    "target": "Jimmy Wayne",
-    "targetId": "8688"
-  }
-]
+{
+  "source": "John Oates",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Lionel Richie",
+      "targetId": "41"
+    },
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Dan Aykroyd",
+      "targetId": "43"
+    },
+    {
+      "name": "Harry Belafonte",
+      "targetId": "44"
+    },
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Kim Carnes",
+      "targetId": "49"
+    },
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Sheila E.",
+      "targetId": "51"
+    },
+    {
+      "name": "Daryl Hall",
+      "targetId": "53"
+    },
+    {
+      "name": "James Ingram",
+      "targetId": "54"
+    },
+    {
+      "name": "Jackie Jackson",
+      "targetId": "55"
+    },
+    {
+      "name": "Marlon Jackson",
+      "targetId": "56"
+    },
+    {
+      "name": "LaToya Jackson",
+      "targetId": "57"
+    },
+    {
+      "name": "Tito Jackson",
+      "targetId": "60"
+    },
+    {
+      "name": "Al Jarreau",
+      "targetId": "61"
+    },
+    {
+      "name": "Waylon Jennings",
+      "targetId": "62"
+    },
+    {
+      "name": "Billy Joel",
+      "targetId": "63"
+    },
+    {
+      "name": "Cyndi Lauper",
+      "targetId": "64"
+    },
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "Kenny Loggins",
+      "targetId": "66"
+    },
+    {
+      "name": "Bette Midler",
+      "targetId": "67"
+    },
+    {
+      "name": "Willie Nelson",
+      "targetId": "68"
+    },
+    {
+      "name": "Jeffrey Osborne",
+      "targetId": "70"
+    },
+    {
+      "name": "Steve Perry",
+      "targetId": "71"
+    },
+    {
+      "name": "Anita Pointer",
+      "targetId": "73"
+    },
+    {
+      "name": "Ruth Pointer",
+      "targetId": "74"
+    },
+    {
+      "name": "June Pointer",
+      "targetId": "75"
+    },
+    {
+      "name": "Smokey Robinson",
+      "targetId": "76"
+    },
+    {
+      "name": "Kenny Rogers",
+      "targetId": "77"
+    },
+    {
+      "name": "Diana Ross",
+      "targetId": "78"
+    },
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Tina Turner",
+      "targetId": "81"
+    },
+    {
+      "name": "Dionne Warwick",
+      "targetId": "82"
+    },
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Hugh McCracken",
+      "targetId": "268"
+    },
+    {
+      "name": "Joe Farrell",
+      "targetId": "1259"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Steve \"Fontz\" Gelfand",
+      "targetId": "4690"
+    },
+    {
+      "name": "Chris Bond",
+      "targetId": "4691"
+    },
+    {
+      "name": "John Blair",
+      "targetId": "4692"
+    },
+    {
+      "name": "Randy Jackson",
+      "targetId": "5836"
+    },
+    {
+      "name": "Jimmy Wayne",
+      "targetId": "8688"
+    }
+  ]
+}

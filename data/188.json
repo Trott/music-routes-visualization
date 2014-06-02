@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Eric Fawcett",
-    "target": "Mike Doughty",
-    "targetId": "36"
-  },
-  {
-    "source": "Eric Fawcett",
-    "target": "Dave Matthews",
-    "targetId": "186"
-  },
-  {
-    "source": "Eric Fawcett",
-    "target": "Dan Wilson",
-    "targetId": "187"
-  }
-]
+{
+  "source": "Eric Fawcett",
+  "targets": [
+    {
+      "name": "Mike Doughty",
+      "targetId": "36"
+    },
+    {
+      "name": "Dave Matthews",
+      "targetId": "186"
+    },
+    {
+      "name": "Dan Wilson",
+      "targetId": "187"
+    }
+  ]
+}

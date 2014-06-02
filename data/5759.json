@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brandon Simpson",
-    "target": "Samantha Maloney",
-    "targetId": "5392"
-  },
-  {
-    "source": "Brandon Simpson",
-    "target": "Mark Holcomb",
-    "targetId": "5757"
-  },
-  {
-    "source": "Brandon Simpson",
-    "target": "Joshua Loucka",
-    "targetId": "5758"
-  }
-]
+{
+  "source": "Brandon Simpson",
+  "targets": [
+    {
+      "name": "Samantha Maloney",
+      "targetId": "5392"
+    },
+    {
+      "name": "Mark Holcomb",
+      "targetId": "5757"
+    },
+    {
+      "name": "Joshua Loucka",
+      "targetId": "5758"
+    }
+  ]
+}

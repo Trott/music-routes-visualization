@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Joe Pizzulo",
-    "target": "Arthur Barrow",
-    "targetId": "1338"
-  },
-  {
-    "source": "Joe Pizzulo",
-    "target": "Michael Baird",
-    "targetId": "2659"
-  },
-  {
-    "source": "Joe Pizzulo",
-    "target": "Paul Hanson",
-    "targetId": "5887"
-  },
-  {
-    "source": "Joe Pizzulo",
-    "target": "Eddie Money",
-    "targetId": "8207"
-  },
-  {
-    "source": "Joe Pizzulo",
-    "target": "Ronnie Spector",
-    "targetId": "8299"
-  },
-  {
-    "source": "Joe Pizzulo",
-    "target": "John Nelson",
-    "targetId": "8301"
-  },
-  {
-    "source": "Joe Pizzulo",
-    "target": "Richie Zito",
-    "targetId": "8302"
-  }
-]
+{
+  "source": "Joe Pizzulo",
+  "targets": [
+    {
+      "name": "Arthur Barrow",
+      "targetId": "1338"
+    },
+    {
+      "name": "Michael Baird",
+      "targetId": "2659"
+    },
+    {
+      "name": "Paul Hanson",
+      "targetId": "5887"
+    },
+    {
+      "name": "Eddie Money",
+      "targetId": "8207"
+    },
+    {
+      "name": "Ronnie Spector",
+      "targetId": "8299"
+    },
+    {
+      "name": "John Nelson",
+      "targetId": "8301"
+    },
+    {
+      "name": "Richie Zito",
+      "targetId": "8302"
+    }
+  ]
+}

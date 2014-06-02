@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Nat King Cole",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Nat King Cole",
-    "target": "Bing Crosby",
-    "targetId": "1791"
-  }
-]
+{
+  "source": "Nat King Cole",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Bing Crosby",
+      "targetId": "1791"
+    }
+  ]
+}

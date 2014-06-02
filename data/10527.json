@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Joe Russell",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Joe Russell",
-    "target": "Mike Sembello",
-    "targetId": "7437"
-  },
-  {
-    "source": "Joe Russell",
-    "target": "Shirley Brewer",
-    "targetId": "7442"
-  },
-  {
-    "source": "Joe Russell",
-    "target": "Deniece Williams",
-    "targetId": "7450"
-  },
-  {
-    "source": "Joe Russell",
-    "target": "Jerry Lawson",
-    "targetId": "10526"
-  },
-  {
-    "source": "Joe Russell",
-    "target": "Herbert Rhoad",
-    "targetId": "10528"
-  },
-  {
-    "source": "Joe Russell",
-    "target": "Jimmy Hayes",
-    "targetId": "10529"
-  },
-  {
-    "source": "Joe Russell",
-    "target": "Willie C. Daniels",
-    "targetId": "10530"
-  }
-]
+{
+  "source": "Joe Russell",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Mike Sembello",
+      "targetId": "7437"
+    },
+    {
+      "name": "Shirley Brewer",
+      "targetId": "7442"
+    },
+    {
+      "name": "Deniece Williams",
+      "targetId": "7450"
+    },
+    {
+      "name": "Jerry Lawson",
+      "targetId": "10526"
+    },
+    {
+      "name": "Herbert Rhoad",
+      "targetId": "10528"
+    },
+    {
+      "name": "Jimmy Hayes",
+      "targetId": "10529"
+    },
+    {
+      "name": "Willie C. Daniels",
+      "targetId": "10530"
+    }
+  ]
+}

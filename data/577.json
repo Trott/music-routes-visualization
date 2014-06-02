@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Pam Tillis",
-    "target": "Tanya Tucker",
-    "targetId": "246"
-  },
-  {
-    "source": "Pam Tillis",
-    "target": "Dolly Parton",
-    "targetId": "569"
-  },
-  {
-    "source": "Pam Tillis",
-    "target": "Billy Ray Cyrus",
-    "targetId": "574"
-  },
-  {
-    "source": "Pam Tillis",
-    "target": "Kathy Mattea",
-    "targetId": "575"
-  },
-  {
-    "source": "Pam Tillis",
-    "target": "Mary Chapin Carpenter",
-    "targetId": "576"
-  }
-]
+{
+  "source": "Pam Tillis",
+  "targets": [
+    {
+      "name": "Tanya Tucker",
+      "targetId": "246"
+    },
+    {
+      "name": "Dolly Parton",
+      "targetId": "569"
+    },
+    {
+      "name": "Billy Ray Cyrus",
+      "targetId": "574"
+    },
+    {
+      "name": "Kathy Mattea",
+      "targetId": "575"
+    },
+    {
+      "name": "Mary Chapin Carpenter",
+      "targetId": "576"
+    }
+  ]
+}

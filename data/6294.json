@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Steven Wolf",
-    "target": "Larry Corbett",
-    "targetId": "1040"
-  },
-  {
-    "source": "Steven Wolf",
-    "target": "Evan Wilson",
-    "targetId": "1041"
-  },
-  {
-    "source": "Steven Wolf",
-    "target": "Jack Daley",
-    "targetId": "2872"
-  },
-  {
-    "source": "Steven Wolf",
-    "target": "Avril Lavigne",
-    "targetId": "6292"
-  },
-  {
-    "source": "Steven Wolf",
-    "target": "Lukasz Gottwald",
-    "targetId": "6293"
-  },
-  {
-    "source": "Steven Wolf",
-    "target": "Max Martin",
-    "targetId": "6300"
-  },
-  {
-    "source": "Steven Wolf",
-    "target": "Katy Perry",
-    "targetId": "6947"
-  },
-  {
-    "source": "Steven Wolf",
-    "target": "Cathy Dennis",
-    "targetId": "6949"
-  }
-]
+{
+  "source": "Steven Wolf",
+  "targets": [
+    {
+      "name": "Larry Corbett",
+      "targetId": "1040"
+    },
+    {
+      "name": "Evan Wilson",
+      "targetId": "1041"
+    },
+    {
+      "name": "Jack Daley",
+      "targetId": "2872"
+    },
+    {
+      "name": "Avril Lavigne",
+      "targetId": "6292"
+    },
+    {
+      "name": "Lukasz Gottwald",
+      "targetId": "6293"
+    },
+    {
+      "name": "Max Martin",
+      "targetId": "6300"
+    },
+    {
+      "name": "Katy Perry",
+      "targetId": "6947"
+    },
+    {
+      "name": "Cathy Dennis",
+      "targetId": "6949"
+    }
+  ]
+}

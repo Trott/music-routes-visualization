@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Peter Ellard",
-    "target": "Greg Churchouse",
-    "targetId": "7018"
-  },
-  {
-    "source": "Peter Ellard",
-    "target": "Roy Stride",
-    "targetId": "7020"
-  },
-  {
-    "source": "Peter Ellard",
-    "target": "Martin Owen",
-    "targetId": "7021"
-  },
-  {
-    "source": "Peter Ellard",
-    "target": "James McMillan",
-    "targetId": "7022"
-  }
-]
+{
+  "source": "Peter Ellard",
+  "targets": [
+    {
+      "name": "Greg Churchouse",
+      "targetId": "7018"
+    },
+    {
+      "name": "Roy Stride",
+      "targetId": "7020"
+    },
+    {
+      "name": "Martin Owen",
+      "targetId": "7021"
+    },
+    {
+      "name": "James McMillan",
+      "targetId": "7022"
+    }
+  ]
+}

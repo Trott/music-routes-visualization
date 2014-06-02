@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Ron Blake",
-    "target": "Jon Brion",
-    "targetId": "6653"
-  },
-  {
-    "source": "Ron Blake",
-    "target": "Britt Daniel",
-    "targetId": "9654"
-  },
-  {
-    "source": "Ron Blake",
-    "target": "Eric Harvey",
-    "targetId": "9655"
-  },
-  {
-    "source": "Ron Blake",
-    "target": "Jim Eno",
-    "targetId": "9656"
-  },
-  {
-    "source": "Ron Blake",
-    "target": "Eggo Johanson",
-    "targetId": "9662"
-  },
-  {
-    "source": "Ron Blake",
-    "target": "Jason Freese",
-    "targetId": "9663"
-  },
-  {
-    "source": "Ron Blake",
-    "target": "Francisco Torres",
-    "targetId": "9664"
-  }
-]
+{
+  "source": "Ron Blake",
+  "targets": [
+    {
+      "name": "Jon Brion",
+      "targetId": "6653"
+    },
+    {
+      "name": "Britt Daniel",
+      "targetId": "9654"
+    },
+    {
+      "name": "Eric Harvey",
+      "targetId": "9655"
+    },
+    {
+      "name": "Jim Eno",
+      "targetId": "9656"
+    },
+    {
+      "name": "Eggo Johanson",
+      "targetId": "9662"
+    },
+    {
+      "name": "Jason Freese",
+      "targetId": "9663"
+    },
+    {
+      "name": "Francisco Torres",
+      "targetId": "9664"
+    }
+  ]
+}

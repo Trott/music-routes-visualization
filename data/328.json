@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Gerald Johnson",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Gerald Johnson",
-    "target": "Byron Allred",
-    "targetId": "327"
-  },
-  {
-    "source": "Gerald Johnson",
-    "target": "Gary Mallaber",
-    "targetId": "330"
-  },
-  {
-    "source": "Gerald Johnson",
-    "target": "\"Sneaky\" Pete Kleinow",
-    "targetId": "504"
-  },
-  {
-    "source": "Gerald Johnson",
-    "target": "Dick Thompson",
-    "targetId": "5600"
-  },
-  {
-    "source": "Gerald Johnson",
-    "target": "John King",
-    "targetId": "5601"
-  }
-]
+{
+  "source": "Gerald Johnson",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Byron Allred",
+      "targetId": "327"
+    },
+    {
+      "name": "Gary Mallaber",
+      "targetId": "330"
+    },
+    {
+      "name": "\"Sneaky\" Pete Kleinow",
+      "targetId": "504"
+    },
+    {
+      "name": "Dick Thompson",
+      "targetId": "5600"
+    },
+    {
+      "name": "John King",
+      "targetId": "5601"
+    }
+  ]
+}

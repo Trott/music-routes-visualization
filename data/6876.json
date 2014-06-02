@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Rees",
-    "target": "Colin Hay",
-    "targetId": "1702"
-  },
-  {
-    "source": "John Rees",
-    "target": "Ron Strykert",
-    "targetId": "6877"
-  },
-  {
-    "source": "John Rees",
-    "target": "Jerry Speiser",
-    "targetId": "6878"
-  },
-  {
-    "source": "John Rees",
-    "target": "Greg Ham",
-    "targetId": "6879"
-  }
-]
+{
+  "source": "John Rees",
+  "targets": [
+    {
+      "name": "Colin Hay",
+      "targetId": "1702"
+    },
+    {
+      "name": "Ron Strykert",
+      "targetId": "6877"
+    },
+    {
+      "name": "Jerry Speiser",
+      "targetId": "6878"
+    },
+    {
+      "name": "Greg Ham",
+      "targetId": "6879"
+    }
+  ]
+}

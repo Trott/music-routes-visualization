@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Danny Farrington",
-    "target": "Jason Schwartzman",
-    "targetId": "5670"
-  },
-  {
-    "source": "Danny Farrington",
-    "target": "Zooey Deschanel",
-    "targetId": "8906"
-  },
-  {
-    "source": "Danny Farrington",
-    "target": "Jennifer Furches",
-    "targetId": "10784"
-  },
-  {
-    "source": "Danny Farrington",
-    "target": "Brandon Boyd",
-    "targetId": "10786"
-  }
-]
+{
+  "source": "Danny Farrington",
+  "targets": [
+    {
+      "name": "Jason Schwartzman",
+      "targetId": "5670"
+    },
+    {
+      "name": "Zooey Deschanel",
+      "targetId": "8906"
+    },
+    {
+      "name": "Jennifer Furches",
+      "targetId": "10784"
+    },
+    {
+      "name": "Brandon Boyd",
+      "targetId": "10786"
+    }
+  ]
+}

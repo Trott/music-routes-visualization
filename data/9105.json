@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Cullimore",
-    "target": "Paul Heaton",
-    "targetId": "3256"
-  },
-  {
-    "source": "Steve Cullimore",
-    "target": "Tony Pleeth",
-    "targetId": "4485"
-  },
-  {
-    "source": "Steve Cullimore",
-    "target": "Norman Cook",
-    "targetId": "8720"
-  },
-  {
-    "source": "Steve Cullimore",
-    "target": "Hugh Whitaker",
-    "targetId": "9104"
-  }
-]
+{
+  "source": "Steve Cullimore",
+  "targets": [
+    {
+      "name": "Paul Heaton",
+      "targetId": "3256"
+    },
+    {
+      "name": "Tony Pleeth",
+      "targetId": "4485"
+    },
+    {
+      "name": "Norman Cook",
+      "targetId": "8720"
+    },
+    {
+      "name": "Hugh Whitaker",
+      "targetId": "9104"
+    }
+  ]
+}

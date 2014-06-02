@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Leslie Smith",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "Michael Boddicker",
-    "targetId": "385"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "Arno Lucas",
-    "targetId": "400"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "David Paich",
-    "targetId": "401"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Leslie Smith",
-    "target": "Rickie Lee Jones",
-    "targetId": "409"
-  }
-]
+{
+  "source": "Leslie Smith",
+  "targets": [
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Michael Boddicker",
+      "targetId": "385"
+    },
+    {
+      "name": "Arno Lucas",
+      "targetId": "400"
+    },
+    {
+      "name": "David Paich",
+      "targetId": "401"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Rickie Lee Jones",
+      "targetId": "409"
+    }
+  ]
+}

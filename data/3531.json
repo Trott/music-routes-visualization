@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Chris Bolig",
-    "target": "Dale Flattum",
-    "targetId": "3520"
-  },
-  {
-    "source": "Chris Bolig",
-    "target": "Conan Neutron",
-    "targetId": "3529"
-  },
-  {
-    "source": "Chris Bolig",
-    "target": "Ben Adrian",
-    "targetId": "3530"
-  },
-  {
-    "source": "Chris Bolig",
-    "target": "Ted Nesseth",
-    "targetId": "3532"
-  },
-  {
-    "source": "Chris Bolig",
-    "target": "Paulie Miller",
-    "targetId": "3533"
-  }
-]
+{
+  "source": "Chris Bolig",
+  "targets": [
+    {
+      "name": "Dale Flattum",
+      "targetId": "3520"
+    },
+    {
+      "name": "Conan Neutron",
+      "targetId": "3529"
+    },
+    {
+      "name": "Ben Adrian",
+      "targetId": "3530"
+    },
+    {
+      "name": "Ted Nesseth",
+      "targetId": "3532"
+    },
+    {
+      "name": "Paulie Miller",
+      "targetId": "3533"
+    }
+  ]
+}

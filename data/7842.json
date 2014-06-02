@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dennis DeYoung",
-    "target": "Tommy Shaw",
-    "targetId": "2889"
-  },
-  {
-    "source": "Dennis DeYoung",
-    "target": "James \"J.Y.\" Young",
-    "targetId": "2893"
-  },
-  {
-    "source": "Dennis DeYoung",
-    "target": "Chuck Panozzo",
-    "targetId": "7843"
-  },
-  {
-    "source": "Dennis DeYoung",
-    "target": "John Panozzo",
-    "targetId": "7844"
-  }
-]
+{
+  "source": "Dennis DeYoung",
+  "targets": [
+    {
+      "name": "Tommy Shaw",
+      "targetId": "2889"
+    },
+    {
+      "name": "James \"J.Y.\" Young",
+      "targetId": "2893"
+    },
+    {
+      "name": "Chuck Panozzo",
+      "targetId": "7843"
+    },
+    {
+      "name": "John Panozzo",
+      "targetId": "7844"
+    }
+  ]
+}

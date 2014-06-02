@@ -85,22 +85,21 @@ d3.json('data/' + id + '.json', function (error, links) {
     svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
   };
 
-  var nodes = {};
+  var nodes = [{name: links.source, targetId: id}].concat(links.targets);
 
-  var linkCount = 0;
-  // Compute the distinct nodes from the links.
-  links.forEach(function(link) {
-    link.source = nodes[link.source] || (nodes[link.source] = {name: link.source, targetId: id});
-    link.target = nodes[link.target] || (nodes[link.target] = {name: link.target, targetId: link.targetId});
-    linkCount++; // we don't have duplicates
-  });
+  links.targets.forEach(function(link, index) {
+    link.source = nodes[0];
+    link.target = nodes[index+1];
+  })
+
+  var linkCount = links.targets.length;
 
   var width = window.innerWidth || 960,
       height = window.innerHeight || 500;
 
   var force = d3.layout.force()
     .nodes(d3.values(nodes))
-    .links(links)
+    .links(links.targets)
     .size([width, height])
     .linkDistance(function (undefined, index) {
       return linkCount < 128 ? 128 : linkCount;

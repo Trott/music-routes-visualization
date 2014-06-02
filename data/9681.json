@@ -1,42 +1,37 @@
-[
-  {
-    "source": "David Austin",
-    "target": "George Michael",
-    "targetId": "115"
-  },
-  {
-    "source": "David Austin",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "David Austin",
-    "target": "Hugh Burns",
-    "targetId": "3185"
-  },
-  {
-    "source": "David Austin",
-    "target": "Paul Spong",
-    "targetId": "9676"
-  },
-  {
-    "source": "David Austin",
-    "target": "Simon Gardner",
-    "targetId": "9677"
-  },
-  {
-    "source": "David Austin",
-    "target": "Rick Taylor",
-    "targetId": "9678"
-  },
-  {
-    "source": "David Austin",
-    "target": "Charlie Morgan",
-    "targetId": "9679"
-  },
-  {
-    "source": "David Austin",
-    "target": "Andrew Ridgeley",
-    "targetId": "9680"
-  }
-]
+{
+  "source": "David Austin",
+  "targets": [
+    {
+      "name": "George Michael",
+      "targetId": "115"
+    },
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Hugh Burns",
+      "targetId": "3185"
+    },
+    {
+      "name": "Paul Spong",
+      "targetId": "9676"
+    },
+    {
+      "name": "Simon Gardner",
+      "targetId": "9677"
+    },
+    {
+      "name": "Rick Taylor",
+      "targetId": "9678"
+    },
+    {
+      "name": "Charlie Morgan",
+      "targetId": "9679"
+    },
+    {
+      "name": "Andrew Ridgeley",
+      "targetId": "9680"
+    }
+  ]
+}

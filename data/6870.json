@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Freddie Hubbard",
-    "target": "Tony Williams",
-    "targetId": "3839"
-  },
-  {
-    "source": "Freddie Hubbard",
-    "target": "Richard Davis",
-    "targetId": "4606"
-  },
-  {
-    "source": "Freddie Hubbard",
-    "target": "Bobby Hutcherson",
-    "targetId": "6871"
-  },
-  {
-    "source": "Freddie Hubbard",
-    "target": "Eric Dolphy",
-    "targetId": "6872"
-  }
-]
+{
+  "source": "Freddie Hubbard",
+  "targets": [
+    {
+      "name": "Tony Williams",
+      "targetId": "3839"
+    },
+    {
+      "name": "Richard Davis",
+      "targetId": "4606"
+    },
+    {
+      "name": "Bobby Hutcherson",
+      "targetId": "6871"
+    },
+    {
+      "name": "Eric Dolphy",
+      "targetId": "6872"
+    }
+  ]
+}

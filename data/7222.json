@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jesse Johnson",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Jesse Johnson",
-    "target": "Morris Day",
-    "targetId": "7223"
-  }
-]
+{
+  "source": "Jesse Johnson",
+  "targets": [
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Morris Day",
+      "targetId": "7223"
+    }
+  ]
+}

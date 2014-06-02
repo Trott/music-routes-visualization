@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Bill Diez",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Bill Diez",
-    "target": "Leonard Cohen",
-    "targetId": "2125"
-  },
-  {
-    "source": "Bill Diez",
-    "target": "Allen Ginsberg",
-    "targetId": "2126"
-  }
-]
+{
+  "source": "Bill Diez",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Leonard Cohen",
+      "targetId": "2125"
+    },
+    {
+      "name": "Allen Ginsberg",
+      "targetId": "2126"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Sam Bolle",
-    "target": "Charlie Quintana",
-    "targetId": "6686"
-  },
-  {
-    "source": "Sam Bolle",
-    "target": "Mike Palm",
-    "targetId": "8950"
-  }
-]
+{
+  "source": "Sam Bolle",
+  "targets": [
+    {
+      "name": "Charlie Quintana",
+      "targetId": "6686"
+    },
+    {
+      "name": "Mike Palm",
+      "targetId": "8950"
+    }
+  ]
+}

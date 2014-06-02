@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ed Roland",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Ed Roland",
-    "target": "Jake Shapiro",
-    "targetId": "8645"
-  },
-  {
-    "source": "Ed Roland",
-    "target": "Dean Roland",
-    "targetId": "9366"
-  },
-  {
-    "source": "Ed Roland",
-    "target": "Shane Evans",
-    "targetId": "9367"
-  },
-  {
-    "source": "Ed Roland",
-    "target": "Will Turpin",
-    "targetId": "9368"
-  },
-  {
-    "source": "Ed Roland",
-    "target": "Ross Childress",
-    "targetId": "9369"
-  }
-]
+{
+  "source": "Ed Roland",
+  "targets": [
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Jake Shapiro",
+      "targetId": "8645"
+    },
+    {
+      "name": "Dean Roland",
+      "targetId": "9366"
+    },
+    {
+      "name": "Shane Evans",
+      "targetId": "9367"
+    },
+    {
+      "name": "Will Turpin",
+      "targetId": "9368"
+    },
+    {
+      "name": "Ross Childress",
+      "targetId": "9369"
+    }
+  ]
+}

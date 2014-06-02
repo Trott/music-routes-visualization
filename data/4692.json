@@ -1,32 +1,29 @@
-[
-  {
-    "source": "John Blair",
-    "target": "Daryl Hall",
-    "targetId": "53"
-  },
-  {
-    "source": "John Blair",
-    "target": "John Oates",
-    "targetId": "69"
-  },
-  {
-    "source": "John Blair",
-    "target": "Hugh McCracken",
-    "targetId": "268"
-  },
-  {
-    "source": "John Blair",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "John Blair",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "John Blair",
-    "target": "Steve \"Fontz\" Gelfand",
-    "targetId": "4690"
-  }
-]
+{
+  "source": "John Blair",
+  "targets": [
+    {
+      "name": "Daryl Hall",
+      "targetId": "53"
+    },
+    {
+      "name": "John Oates",
+      "targetId": "69"
+    },
+    {
+      "name": "Hugh McCracken",
+      "targetId": "268"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Steve \"Fontz\" Gelfand",
+      "targetId": "4690"
+    }
+  ]
+}

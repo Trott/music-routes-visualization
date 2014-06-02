@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John Lee Hooker",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  },
-  {
-    "source": "John Lee Hooker",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "John Lee Hooker",
-    "target": "Chucho Merchan",
-    "targetId": "10516"
-  }
-]
+{
+  "source": "John Lee Hooker",
+  "targets": [
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "Chucho Merchan",
+      "targetId": "10516"
+    }
+  ]
+}

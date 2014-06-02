@@ -1,232 +1,189 @@
-[
-  {
-    "source": "Kenny Rogers",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Lionel Richie",
-    "targetId": "41"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Dan Aykroyd",
-    "targetId": "43"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Harry Belafonte",
-    "targetId": "44"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Kim Carnes",
-    "targetId": "49"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Sheila E.",
-    "targetId": "51"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Daryl Hall",
-    "targetId": "53"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "James Ingram",
-    "targetId": "54"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Jackie Jackson",
-    "targetId": "55"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Marlon Jackson",
-    "targetId": "56"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "LaToya Jackson",
-    "targetId": "57"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Tito Jackson",
-    "targetId": "60"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Al Jarreau",
-    "targetId": "61"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Waylon Jennings",
-    "targetId": "62"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Billy Joel",
-    "targetId": "63"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Cyndi Lauper",
-    "targetId": "64"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Kenny Loggins",
-    "targetId": "66"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Bette Midler",
-    "targetId": "67"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Willie Nelson",
-    "targetId": "68"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "John Oates",
-    "targetId": "69"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Jeffrey Osborne",
-    "targetId": "70"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Steve Perry",
-    "targetId": "71"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Anita Pointer",
-    "targetId": "73"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Ruth Pointer",
-    "targetId": "74"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "June Pointer",
-    "targetId": "75"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Smokey Robinson",
-    "targetId": "76"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Diana Ross",
-    "targetId": "78"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Tina Turner",
-    "targetId": "81"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Dionne Warwick",
-    "targetId": "82"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Dolly Parton",
-    "targetId": "569"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "David Foster",
-    "targetId": "2456"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Sheena Easton",
-    "targetId": "2658"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Michael Baird",
-    "targetId": "2659"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Marty Walsh",
-    "targetId": "2660"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Ronnie Milsap",
-    "targetId": "4656"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Randy Jackson",
-    "targetId": "5836"
-  },
-  {
-    "source": "Kenny Rogers",
-    "target": "Whitney Duncan",
-    "targetId": "8687"
-  }
-]
+{
+  "source": "Kenny Rogers",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Lionel Richie",
+      "targetId": "41"
+    },
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Dan Aykroyd",
+      "targetId": "43"
+    },
+    {
+      "name": "Harry Belafonte",
+      "targetId": "44"
+    },
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Kim Carnes",
+      "targetId": "49"
+    },
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Sheila E.",
+      "targetId": "51"
+    },
+    {
+      "name": "Daryl Hall",
+      "targetId": "53"
+    },
+    {
+      "name": "James Ingram",
+      "targetId": "54"
+    },
+    {
+      "name": "Jackie Jackson",
+      "targetId": "55"
+    },
+    {
+      "name": "Marlon Jackson",
+      "targetId": "56"
+    },
+    {
+      "name": "LaToya Jackson",
+      "targetId": "57"
+    },
+    {
+      "name": "Tito Jackson",
+      "targetId": "60"
+    },
+    {
+      "name": "Al Jarreau",
+      "targetId": "61"
+    },
+    {
+      "name": "Waylon Jennings",
+      "targetId": "62"
+    },
+    {
+      "name": "Billy Joel",
+      "targetId": "63"
+    },
+    {
+      "name": "Cyndi Lauper",
+      "targetId": "64"
+    },
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "Kenny Loggins",
+      "targetId": "66"
+    },
+    {
+      "name": "Bette Midler",
+      "targetId": "67"
+    },
+    {
+      "name": "Willie Nelson",
+      "targetId": "68"
+    },
+    {
+      "name": "John Oates",
+      "targetId": "69"
+    },
+    {
+      "name": "Jeffrey Osborne",
+      "targetId": "70"
+    },
+    {
+      "name": "Steve Perry",
+      "targetId": "71"
+    },
+    {
+      "name": "Anita Pointer",
+      "targetId": "73"
+    },
+    {
+      "name": "Ruth Pointer",
+      "targetId": "74"
+    },
+    {
+      "name": "June Pointer",
+      "targetId": "75"
+    },
+    {
+      "name": "Smokey Robinson",
+      "targetId": "76"
+    },
+    {
+      "name": "Diana Ross",
+      "targetId": "78"
+    },
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Tina Turner",
+      "targetId": "81"
+    },
+    {
+      "name": "Dionne Warwick",
+      "targetId": "82"
+    },
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Dolly Parton",
+      "targetId": "569"
+    },
+    {
+      "name": "David Foster",
+      "targetId": "2456"
+    },
+    {
+      "name": "Sheena Easton",
+      "targetId": "2658"
+    },
+    {
+      "name": "Michael Baird",
+      "targetId": "2659"
+    },
+    {
+      "name": "Marty Walsh",
+      "targetId": "2660"
+    },
+    {
+      "name": "Ronnie Milsap",
+      "targetId": "4656"
+    },
+    {
+      "name": "Randy Jackson",
+      "targetId": "5836"
+    },
+    {
+      "name": "Whitney Duncan",
+      "targetId": "8687"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Michael Lee",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Michael Lee",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Michael Lee",
-    "target": "Tori Amos",
-    "targetId": "1568"
-  },
-  {
-    "source": "Michael Lee",
-    "target": "Phil Johnstone",
-    "targetId": "3708"
-  },
-  {
-    "source": "Michael Lee",
-    "target": "Charlie Jones",
-    "targetId": "3709"
-  },
-  {
-    "source": "Michael Lee",
-    "target": "Francis Dunnery",
-    "targetId": "3711"
-  },
-  {
-    "source": "Michael Lee",
-    "target": "Oliver Woods",
-    "targetId": "3747"
-  },
-  {
-    "source": "Michael Lee",
-    "target": "Phil Andrews",
-    "targetId": "3748"
-  }
-]
+{
+  "source": "Michael Lee",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Tori Amos",
+      "targetId": "1568"
+    },
+    {
+      "name": "Phil Johnstone",
+      "targetId": "3708"
+    },
+    {
+      "name": "Charlie Jones",
+      "targetId": "3709"
+    },
+    {
+      "name": "Francis Dunnery",
+      "targetId": "3711"
+    },
+    {
+      "name": "Oliver Woods",
+      "targetId": "3747"
+    },
+    {
+      "name": "Phil Andrews",
+      "targetId": "3748"
+    }
+  ]
+}

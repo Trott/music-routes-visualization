@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ralph Morman",
-    "target": "Joe Perry",
-    "targetId": "1890"
-  },
-  {
-    "source": "Ralph Morman",
-    "target": "David Hull",
-    "targetId": "3703"
-  },
-  {
-    "source": "Ralph Morman",
-    "target": "Ronnie Stewart",
-    "targetId": "3704"
-  }
-]
+{
+  "source": "Ralph Morman",
+  "targets": [
+    {
+      "name": "Joe Perry",
+      "targetId": "1890"
+    },
+    {
+      "name": "David Hull",
+      "targetId": "3703"
+    },
+    {
+      "name": "Ronnie Stewart",
+      "targetId": "3704"
+    }
+  ]
+}

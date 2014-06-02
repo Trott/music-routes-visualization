@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Michael Kamen",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Michael Kamen",
-    "target": "David Gilmour",
-    "targetId": "275"
-  },
-  {
-    "source": "Michael Kamen",
-    "target": "Nick Mason",
-    "targetId": "2001"
-  },
-  {
-    "source": "Michael Kamen",
-    "target": "Roger Waters",
-    "targetId": "2003"
-  },
-  {
-    "source": "Michael Kamen",
-    "target": "Raphael Ravenscroft",
-    "targetId": "3191"
-  },
-  {
-    "source": "Michael Kamen",
-    "target": "Andy Bown",
-    "targetId": "3660"
-  }
-]
+{
+  "source": "Michael Kamen",
+  "targets": [
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "David Gilmour",
+      "targetId": "275"
+    },
+    {
+      "name": "Nick Mason",
+      "targetId": "2001"
+    },
+    {
+      "name": "Roger Waters",
+      "targetId": "2003"
+    },
+    {
+      "name": "Raphael Ravenscroft",
+      "targetId": "3191"
+    },
+    {
+      "name": "Andy Bown",
+      "targetId": "3660"
+    }
+  ]
+}

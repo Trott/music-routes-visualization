@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Spike Slawson",
-    "target": "Fat Mike",
-    "targetId": "2131"
-  },
-  {
-    "source": "Spike Slawson",
-    "target": "Joey Cape",
-    "targetId": "2133"
-  },
-  {
-    "source": "Spike Slawson",
-    "target": "Dave Raun",
-    "targetId": "2134"
-  },
-  {
-    "source": "Spike Slawson",
-    "target": "Chris Shiflett",
-    "targetId": "2135"
-  }
-]
+{
+  "source": "Spike Slawson",
+  "targets": [
+    {
+      "name": "Fat Mike",
+      "targetId": "2131"
+    },
+    {
+      "name": "Joey Cape",
+      "targetId": "2133"
+    },
+    {
+      "name": "Dave Raun",
+      "targetId": "2134"
+    },
+    {
+      "name": "Chris Shiflett",
+      "targetId": "2135"
+    }
+  ]
+}

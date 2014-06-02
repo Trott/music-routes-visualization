@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Anthony Guess",
-    "target": "Jonathan Segel",
-    "targetId": "1605"
-  },
-  {
-    "source": "Anthony Guess",
-    "target": "David Lowery",
-    "targetId": "1614"
-  },
-  {
-    "source": "Anthony Guess",
-    "target": "Victor Krummenacher",
-    "targetId": "1615"
-  },
-  {
-    "source": "Anthony Guess",
-    "target": "Chris Molla",
-    "targetId": "1616"
-  }
-]
+{
+  "source": "Anthony Guess",
+  "targets": [
+    {
+      "name": "Jonathan Segel",
+      "targetId": "1605"
+    },
+    {
+      "name": "David Lowery",
+      "targetId": "1614"
+    },
+    {
+      "name": "Victor Krummenacher",
+      "targetId": "1615"
+    },
+    {
+      "name": "Chris Molla",
+      "targetId": "1616"
+    }
+  ]
+}

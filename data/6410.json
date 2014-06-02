@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Barney Perry",
-    "target": "Allan Barnes",
-    "targetId": "6408"
-  },
-  {
-    "source": "Barney Perry",
-    "target": "Perk Jacobs",
-    "targetId": "6411"
-  },
-  {
-    "source": "Barney Perry",
-    "target": "Joe Hall",
-    "targetId": "6412"
-  },
-  {
-    "source": "Barney Perry",
-    "target": "Keith Kilgo",
-    "targetId": "6413"
-  },
-  {
-    "source": "Barney Perry",
-    "target": "Kevin Toney",
-    "targetId": "6414"
-  },
-  {
-    "source": "Barney Perry",
-    "target": "Sigidi",
-    "targetId": "6415"
-  }
-]
+{
+  "source": "Barney Perry",
+  "targets": [
+    {
+      "name": "Allan Barnes",
+      "targetId": "6408"
+    },
+    {
+      "name": "Perk Jacobs",
+      "targetId": "6411"
+    },
+    {
+      "name": "Joe Hall",
+      "targetId": "6412"
+    },
+    {
+      "name": "Keith Kilgo",
+      "targetId": "6413"
+    },
+    {
+      "name": "Kevin Toney",
+      "targetId": "6414"
+    },
+    {
+      "name": "Sigidi",
+      "targetId": "6415"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jim Sirotto",
-    "target": "Brian Ross",
-    "targetId": "7070"
-  },
-  {
-    "source": "Jim Sirotto",
-    "target": "Ian Jones",
-    "targetId": "7075"
-  },
-  {
-    "source": "Jim Sirotto",
-    "target": "Steve Abbey",
-    "targetId": "7076"
-  },
-  {
-    "source": "Jim Sirotto",
-    "target": "Steve English",
-    "targetId": "7077"
-  }
-]
+{
+  "source": "Jim Sirotto",
+  "targets": [
+    {
+      "name": "Brian Ross",
+      "targetId": "7070"
+    },
+    {
+      "name": "Ian Jones",
+      "targetId": "7075"
+    },
+    {
+      "name": "Steve Abbey",
+      "targetId": "7076"
+    },
+    {
+      "name": "Steve English",
+      "targetId": "7077"
+    }
+  ]
+}

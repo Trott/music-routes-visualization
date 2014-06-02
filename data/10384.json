@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ethan Iverson",
-    "target": "Reid Anderson",
-    "targetId": "10382"
-  },
-  {
-    "source": "Ethan Iverson",
-    "target": "David King",
-    "targetId": "10383"
-  }
-]
+{
+  "source": "Ethan Iverson",
+  "targets": [
+    {
+      "name": "Reid Anderson",
+      "targetId": "10382"
+    },
+    {
+      "name": "David King",
+      "targetId": "10383"
+    }
+  ]
+}

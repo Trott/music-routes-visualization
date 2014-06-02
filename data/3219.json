@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jim Martin",
-    "target": "Mike Patton",
-    "targetId": "3213"
-  },
-  {
-    "source": "Jim Martin",
-    "target": "Billy Gould",
-    "targetId": "3217"
-  },
-  {
-    "source": "Jim Martin",
-    "target": "Mike Bordin",
-    "targetId": "3218"
-  },
-  {
-    "source": "Jim Martin",
-    "target": "Roddy Bottum",
-    "targetId": "3220"
-  }
-]
+{
+  "source": "Jim Martin",
+  "targets": [
+    {
+      "name": "Mike Patton",
+      "targetId": "3213"
+    },
+    {
+      "name": "Billy Gould",
+      "targetId": "3217"
+    },
+    {
+      "name": "Mike Bordin",
+      "targetId": "3218"
+    },
+    {
+      "name": "Roddy Bottum",
+      "targetId": "3220"
+    }
+  ]
+}

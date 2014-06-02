@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Johnny Rzeznik",
-    "target": "Martin Ditcham",
-    "targetId": "906"
-  },
-  {
-    "source": "Johnny Rzeznik",
-    "target": "Les Paul",
-    "targetId": "6561"
-  },
-  {
-    "source": "Johnny Rzeznik",
-    "target": "Chris Dreja",
-    "targetId": "10276"
-  },
-  {
-    "source": "Johnny Rzeznik",
-    "target": "Jim McCarty",
-    "targetId": "10277"
-  },
-  {
-    "source": "Johnny Rzeznik",
-    "target": "John Idan",
-    "targetId": "10280"
-  }
-]
+{
+  "source": "Johnny Rzeznik",
+  "targets": [
+    {
+      "name": "Martin Ditcham",
+      "targetId": "906"
+    },
+    {
+      "name": "Les Paul",
+      "targetId": "6561"
+    },
+    {
+      "name": "Chris Dreja",
+      "targetId": "10276"
+    },
+    {
+      "name": "Jim McCarty",
+      "targetId": "10277"
+    },
+    {
+      "name": "John Idan",
+      "targetId": "10280"
+    }
+  ]
+}

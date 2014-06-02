@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Susan Cowsill",
-    "target": "Peter Buck",
-    "targetId": "342"
-  },
-  {
-    "source": "Susan Cowsill",
-    "target": "Howard Kaylan",
-    "targetId": "1829"
-  },
-  {
-    "source": "Susan Cowsill",
-    "target": "Mark Volman",
-    "targetId": "1830"
-  },
-  {
-    "source": "Susan Cowsill",
-    "target": "Steve Wynn",
-    "targetId": "3494"
-  },
-  {
-    "source": "Susan Cowsill",
-    "target": "John Wesley Harding",
-    "targetId": "3515"
-  }
-]
+{
+  "source": "Susan Cowsill",
+  "targets": [
+    {
+      "name": "Peter Buck",
+      "targetId": "342"
+    },
+    {
+      "name": "Howard Kaylan",
+      "targetId": "1829"
+    },
+    {
+      "name": "Mark Volman",
+      "targetId": "1830"
+    },
+    {
+      "name": "Steve Wynn",
+      "targetId": "3494"
+    },
+    {
+      "name": "John Wesley Harding",
+      "targetId": "3515"
+    }
+  ]
+}

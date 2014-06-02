@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Carl Palmer",
-    "target": "John Wetton",
-    "targetId": "527"
-  },
-  {
-    "source": "Carl Palmer",
-    "target": "Greg Lake",
-    "targetId": "541"
-  },
-  {
-    "source": "Carl Palmer",
-    "target": "Steve Howe",
-    "targetId": "1431"
-  },
-  {
-    "source": "Carl Palmer",
-    "target": "Geoff Downes",
-    "targetId": "3639"
-  },
-  {
-    "source": "Carl Palmer",
-    "target": "Keith Emerson",
-    "targetId": "5053"
-  },
-  {
-    "source": "Carl Palmer",
-    "target": "Mandy Meyer",
-    "targetId": "10958"
-  }
-]
+{
+  "source": "Carl Palmer",
+  "targets": [
+    {
+      "name": "John Wetton",
+      "targetId": "527"
+    },
+    {
+      "name": "Greg Lake",
+      "targetId": "541"
+    },
+    {
+      "name": "Steve Howe",
+      "targetId": "1431"
+    },
+    {
+      "name": "Geoff Downes",
+      "targetId": "3639"
+    },
+    {
+      "name": "Keith Emerson",
+      "targetId": "5053"
+    },
+    {
+      "name": "Mandy Meyer",
+      "targetId": "10958"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Heather Nova",
-    "target": "Moby",
-    "targetId": "1841"
-  },
-  {
-    "source": "Heather Nova",
-    "target": "Bastian Juel",
-    "targetId": "6082"
-  },
-  {
-    "source": "Heather Nova",
-    "target": "Laurie Jenkins",
-    "targetId": "6083"
-  },
-  {
-    "source": "Heather Nova",
-    "target": "David Ayers",
-    "targetId": "6084"
-  },
-  {
-    "source": "Heather Nova",
-    "target": "Glenn Scott",
-    "targetId": "6085"
-  },
-  {
-    "source": "Heather Nova",
-    "target": "Berit Fridahl",
-    "targetId": "6086"
-  }
-]
+{
+  "source": "Heather Nova",
+  "targets": [
+    {
+      "name": "Moby",
+      "targetId": "1841"
+    },
+    {
+      "name": "Bastian Juel",
+      "targetId": "6082"
+    },
+    {
+      "name": "Laurie Jenkins",
+      "targetId": "6083"
+    },
+    {
+      "name": "David Ayers",
+      "targetId": "6084"
+    },
+    {
+      "name": "Glenn Scott",
+      "targetId": "6085"
+    },
+    {
+      "name": "Berit Fridahl",
+      "targetId": "6086"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Eric Leeds",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Eric Leeds",
-    "target": "Tony M.",
-    "targetId": "6874"
-  },
-  {
-    "source": "Eric Leeds",
-    "target": "Rosie Gaines",
-    "targetId": "6875"
-  }
-]
+{
+  "source": "Eric Leeds",
+  "targets": [
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Tony M.",
+      "targetId": "6874"
+    },
+    {
+      "name": "Rosie Gaines",
+      "targetId": "6875"
+    }
+  ]
+}

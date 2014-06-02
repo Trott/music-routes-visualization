@@ -1,57 +1,49 @@
-[
-  {
-    "source": "John Paul Jones",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "John Bonham",
-    "targetId": "303"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Josh Homme",
-    "targetId": "1847"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Sandy Denny",
-    "targetId": "7998"
-  },
-  {
-    "source": "John Paul Jones",
-    "target": "Diamanda Galás",
-    "targetId": "8229"
-  }
-]
+{
+  "source": "John Paul Jones",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "John Bonham",
+      "targetId": "303"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Josh Homme",
+      "targetId": "1847"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Sandy Denny",
+      "targetId": "7998"
+    },
+    {
+      "name": "Diamanda Galás",
+      "targetId": "8229"
+    }
+  ]
+}

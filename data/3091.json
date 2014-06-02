@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Paul Larson",
-    "target": "Jimmy Tamborello",
-    "targetId": "3024"
-  },
-  {
-    "source": "Paul Larson",
-    "target": "Jenny Lewis",
-    "targetId": "3025"
-  },
-  {
-    "source": "Paul Larson",
-    "target": "Morgan Nagler",
-    "targetId": "3090"
-  },
-  {
-    "source": "Paul Larson",
-    "target": "Chris Hathwell",
-    "targetId": "3092"
-  },
-  {
-    "source": "Paul Larson",
-    "target": "Mia Doi Todd",
-    "targetId": "3099"
-  }
-]
+{
+  "source": "Paul Larson",
+  "targets": [
+    {
+      "name": "Jimmy Tamborello",
+      "targetId": "3024"
+    },
+    {
+      "name": "Jenny Lewis",
+      "targetId": "3025"
+    },
+    {
+      "name": "Morgan Nagler",
+      "targetId": "3090"
+    },
+    {
+      "name": "Chris Hathwell",
+      "targetId": "3092"
+    },
+    {
+      "name": "Mia Doi Todd",
+      "targetId": "3099"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Hank Shermann",
-    "target": "King Diamond",
-    "targetId": "6775"
-  },
-  {
-    "source": "Hank Shermann",
-    "target": "Sharlee D'Angelo",
-    "targetId": "7105"
-  },
-  {
-    "source": "Hank Shermann",
-    "target": "Bjarne T. Holm",
-    "targetId": "7109"
-  },
-  {
-    "source": "Hank Shermann",
-    "target": "Mike Wead",
-    "targetId": "7111"
-  }
-]
+{
+  "source": "Hank Shermann",
+  "targets": [
+    {
+      "name": "King Diamond",
+      "targetId": "6775"
+    },
+    {
+      "name": "Sharlee D'Angelo",
+      "targetId": "7105"
+    },
+    {
+      "name": "Bjarne T. Holm",
+      "targetId": "7109"
+    },
+    {
+      "name": "Mike Wead",
+      "targetId": "7111"
+    }
+  ]
+}

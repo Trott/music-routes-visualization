@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Keef Hartley",
-    "target": "Miller Anderson",
-    "targetId": "2912"
-  },
-  {
-    "source": "Keef Hartley",
-    "target": "Chris Mercer",
-    "targetId": "2914"
-  },
-  {
-    "source": "Keef Hartley",
-    "target": "Henry Lowther",
-    "targetId": "5646"
-  },
-  {
-    "source": "Keef Hartley",
-    "target": "Gary Thain",
-    "targetId": "8081"
-  },
-  {
-    "source": "Keef Hartley",
-    "target": "Jim Jewell",
-    "targetId": "8117"
-  },
-  {
-    "source": "Keef Hartley",
-    "target": "Mick Weaver",
-    "targetId": "8118"
-  }
-]
+{
+  "source": "Keef Hartley",
+  "targets": [
+    {
+      "name": "Miller Anderson",
+      "targetId": "2912"
+    },
+    {
+      "name": "Chris Mercer",
+      "targetId": "2914"
+    },
+    {
+      "name": "Henry Lowther",
+      "targetId": "5646"
+    },
+    {
+      "name": "Gary Thain",
+      "targetId": "8081"
+    },
+    {
+      "name": "Jim Jewell",
+      "targetId": "8117"
+    },
+    {
+      "name": "Mick Weaver",
+      "targetId": "8118"
+    }
+  ]
+}

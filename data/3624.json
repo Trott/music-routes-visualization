@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jonny Ray Bartel",
-    "target": "D.J. Bonebrake",
-    "targetId": "849"
-  },
-  {
-    "source": "Jonny Ray Bartel",
-    "target": "Billy Zoom",
-    "targetId": "2090"
-  },
-  {
-    "source": "Jonny Ray Bartel",
-    "target": "John Doe",
-    "targetId": "3508"
-  },
-  {
-    "source": "Jonny Ray Bartel",
-    "target": "Exene Cervenka",
-    "targetId": "3509"
-  },
-  {
-    "source": "Jonny Ray Bartel",
-    "target": "Dave Alvin",
-    "targetId": "3625"
-  }
-]
+{
+  "source": "Jonny Ray Bartel",
+  "targets": [
+    {
+      "name": "D.J. Bonebrake",
+      "targetId": "849"
+    },
+    {
+      "name": "Billy Zoom",
+      "targetId": "2090"
+    },
+    {
+      "name": "John Doe",
+      "targetId": "3508"
+    },
+    {
+      "name": "Exene Cervenka",
+      "targetId": "3509"
+    },
+    {
+      "name": "Dave Alvin",
+      "targetId": "3625"
+    }
+  ]
+}

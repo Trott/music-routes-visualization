@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Cliff Richard",
-    "target": "Van Morrison",
-    "targetId": "87"
-  },
-  {
-    "source": "Cliff Richard",
-    "target": "Steve Pearce",
-    "targetId": "9419"
-  }
-]
+{
+  "source": "Cliff Richard",
+  "targets": [
+    {
+      "name": "Van Morrison",
+      "targetId": "87"
+    },
+    {
+      "name": "Steve Pearce",
+      "targetId": "9419"
+    }
+  ]
+}

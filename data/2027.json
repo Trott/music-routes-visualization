@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Duane Buford",
-    "target": "Al Jourgensen",
-    "targetId": "1581"
-  },
-  {
-    "source": "Duane Buford",
-    "target": "Mike Scaccia",
-    "targetId": "2023"
-  },
-  {
-    "source": "Duane Buford",
-    "target": "Rey Washam",
-    "targetId": "2025"
-  },
-  {
-    "source": "Duane Buford",
-    "target": "Louis Svitek",
-    "targetId": "2026"
-  }
-]
+{
+  "source": "Duane Buford",
+  "targets": [
+    {
+      "name": "Al Jourgensen",
+      "targetId": "1581"
+    },
+    {
+      "name": "Mike Scaccia",
+      "targetId": "2023"
+    },
+    {
+      "name": "Rey Washam",
+      "targetId": "2025"
+    },
+    {
+      "name": "Louis Svitek",
+      "targetId": "2026"
+    }
+  ]
+}

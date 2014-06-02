@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Richard Finch",
-    "target": "Harry Wayne Casey",
-    "targetId": "3655"
-  },
-  {
-    "source": "Richard Finch",
-    "target": "Robert Johnson",
-    "targetId": "3657"
-  }
-]
+{
+  "source": "Richard Finch",
+  "targets": [
+    {
+      "name": "Harry Wayne Casey",
+      "targetId": "3655"
+    },
+    {
+      "name": "Robert Johnson",
+      "targetId": "3657"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Nick Holmes",
-    "target": "Aaron Aedy",
-    "targetId": "9161"
-  },
-  {
-    "source": "Nick Holmes",
-    "target": "Stephen Edmondson",
-    "targetId": "9163"
-  },
-  {
-    "source": "Nick Holmes",
-    "target": "Adrian Erlandsson",
-    "targetId": "9164"
-  },
-  {
-    "source": "Nick Holmes",
-    "target": "Gregor Mackintosh",
-    "targetId": "9165"
-  }
-]
+{
+  "source": "Nick Holmes",
+  "targets": [
+    {
+      "name": "Aaron Aedy",
+      "targetId": "9161"
+    },
+    {
+      "name": "Stephen Edmondson",
+      "targetId": "9163"
+    },
+    {
+      "name": "Adrian Erlandsson",
+      "targetId": "9164"
+    },
+    {
+      "name": "Gregor Mackintosh",
+      "targetId": "9165"
+    }
+  ]
+}

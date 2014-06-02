@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Mehlman",
-    "target": "Cheetah Chrome",
-    "targetId": "2445"
-  },
-  {
-    "source": "Steve Mehlman",
-    "target": "David Thomas",
-    "targetId": "5240"
-  },
-  {
-    "source": "Steve Mehlman",
-    "target": "Richard Lloyd",
-    "targetId": "5263"
-  },
-  {
-    "source": "Steve Mehlman",
-    "target": "Craig Bell",
-    "targetId": "5265"
-  }
-]
+{
+  "source": "Steve Mehlman",
+  "targets": [
+    {
+      "name": "Cheetah Chrome",
+      "targetId": "2445"
+    },
+    {
+      "name": "David Thomas",
+      "targetId": "5240"
+    },
+    {
+      "name": "Richard Lloyd",
+      "targetId": "5263"
+    },
+    {
+      "name": "Craig Bell",
+      "targetId": "5265"
+    }
+  ]
+}

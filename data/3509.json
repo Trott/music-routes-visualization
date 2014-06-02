@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Exene Cervenka",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Exene Cervenka",
-    "target": "D.J. Bonebrake",
-    "targetId": "849"
-  },
-  {
-    "source": "Exene Cervenka",
-    "target": "Ray Manzarek",
-    "targetId": "1552"
-  },
-  {
-    "source": "Exene Cervenka",
-    "target": "Billy Zoom",
-    "targetId": "2090"
-  },
-  {
-    "source": "Exene Cervenka",
-    "target": "John Doe",
-    "targetId": "3508"
-  },
-  {
-    "source": "Exene Cervenka",
-    "target": "Jonny Ray Bartel",
-    "targetId": "3624"
-  },
-  {
-    "source": "Exene Cervenka",
-    "target": "Dave Alvin",
-    "targetId": "3625"
-  }
-]
+{
+  "source": "Exene Cervenka",
+  "targets": [
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "D.J. Bonebrake",
+      "targetId": "849"
+    },
+    {
+      "name": "Ray Manzarek",
+      "targetId": "1552"
+    },
+    {
+      "name": "Billy Zoom",
+      "targetId": "2090"
+    },
+    {
+      "name": "John Doe",
+      "targetId": "3508"
+    },
+    {
+      "name": "Jonny Ray Bartel",
+      "targetId": "3624"
+    },
+    {
+      "name": "Dave Alvin",
+      "targetId": "3625"
+    }
+  ]
+}

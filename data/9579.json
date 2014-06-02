@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Tal Herzberg",
-    "target": "John Goux",
-    "targetId": "420"
-  },
-  {
-    "source": "Tal Herzberg",
-    "target": "Abe Laboriel, Jr.",
-    "targetId": "1064"
-  },
-  {
-    "source": "Tal Herzberg",
-    "target": "Lady Gaga",
-    "targetId": "5809"
-  }
-]
+{
+  "source": "Tal Herzberg",
+  "targets": [
+    {
+      "name": "John Goux",
+      "targetId": "420"
+    },
+    {
+      "name": "Abe Laboriel, Jr.",
+      "targetId": "1064"
+    },
+    {
+      "name": "Lady Gaga",
+      "targetId": "5809"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Scott Stapp",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Scott Stapp",
-    "target": "Robby Krieger",
-    "targetId": "1551"
-  },
-  {
-    "source": "Scott Stapp",
-    "target": "Brian Marshall",
-    "targetId": "8391"
-  },
-  {
-    "source": "Scott Stapp",
-    "target": "Scott Phillips",
-    "targetId": "8392"
-  },
-  {
-    "source": "Scott Stapp",
-    "target": "Mark Tremonti",
-    "targetId": "8393"
-  }
-]
+{
+  "source": "Scott Stapp",
+  "targets": [
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Robby Krieger",
+      "targetId": "1551"
+    },
+    {
+      "name": "Brian Marshall",
+      "targetId": "8391"
+    },
+    {
+      "name": "Scott Phillips",
+      "targetId": "8392"
+    },
+    {
+      "name": "Mark Tremonti",
+      "targetId": "8393"
+    }
+  ]
+}

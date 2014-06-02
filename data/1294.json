@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Vinnie Moore",
-    "target": "Alice Cooper",
-    "targetId": "1285"
-  },
-  {
-    "source": "Vinnie Moore",
-    "target": "Hugh McDonald",
-    "targetId": "1288"
-  },
-  {
-    "source": "Vinnie Moore",
-    "target": "Mickey Curry",
-    "targetId": "1289"
-  },
-  {
-    "source": "Vinnie Moore",
-    "target": "Stef Burns",
-    "targetId": "1290"
-  }
-]
+{
+  "source": "Vinnie Moore",
+  "targets": [
+    {
+      "name": "Alice Cooper",
+      "targetId": "1285"
+    },
+    {
+      "name": "Hugh McDonald",
+      "targetId": "1288"
+    },
+    {
+      "name": "Mickey Curry",
+      "targetId": "1289"
+    },
+    {
+      "name": "Stef Burns",
+      "targetId": "1290"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Fat Joe",
-    "target": "DJ Premier",
-    "targetId": "6657"
-  },
-  {
-    "source": "Fat Joe",
-    "target": "Lil' Fame",
-    "targetId": "8929"
-  },
-  {
-    "source": "Fat Joe",
-    "target": "Billy Danze",
-    "targetId": "8930"
-  },
-  {
-    "source": "Fat Joe",
-    "target": "Guru",
-    "targetId": "8936"
-  }
-]
+{
+  "source": "Fat Joe",
+  "targets": [
+    {
+      "name": "DJ Premier",
+      "targetId": "6657"
+    },
+    {
+      "name": "Lil' Fame",
+      "targetId": "8929"
+    },
+    {
+      "name": "Billy Danze",
+      "targetId": "8930"
+    },
+    {
+      "name": "Guru",
+      "targetId": "8936"
+    }
+  ]
+}

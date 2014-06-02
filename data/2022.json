@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Chad Channing",
-    "target": "Kurt Cobain",
-    "targetId": "683"
-  },
-  {
-    "source": "Chad Channing",
-    "target": "Krist Novoselic",
-    "targetId": "684"
-  },
-  {
-    "source": "Chad Channing",
-    "target": "Jason Everman",
-    "targetId": "2021"
-  }
-]
+{
+  "source": "Chad Channing",
+  "targets": [
+    {
+      "name": "Kurt Cobain",
+      "targetId": "683"
+    },
+    {
+      "name": "Krist Novoselic",
+      "targetId": "684"
+    },
+    {
+      "name": "Jason Everman",
+      "targetId": "2021"
+    }
+  ]
+}

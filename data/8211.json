@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Chuck Kirkpatrick",
-    "target": "Gary Mallaber",
-    "targetId": "330"
-  },
-  {
-    "source": "Chuck Kirkpatrick",
-    "target": "Marty Walsh",
-    "targetId": "2660"
-  },
-  {
-    "source": "Chuck Kirkpatrick",
-    "target": "Eddie Money",
-    "targetId": "8207"
-  },
-  {
-    "source": "Chuck Kirkpatrick",
-    "target": "Jimmy Lyon",
-    "targetId": "8208"
-  },
-  {
-    "source": "Chuck Kirkpatrick",
-    "target": "Ralph Carter",
-    "targetId": "8212"
-  }
-]
+{
+  "source": "Chuck Kirkpatrick",
+  "targets": [
+    {
+      "name": "Gary Mallaber",
+      "targetId": "330"
+    },
+    {
+      "name": "Marty Walsh",
+      "targetId": "2660"
+    },
+    {
+      "name": "Eddie Money",
+      "targetId": "8207"
+    },
+    {
+      "name": "Jimmy Lyon",
+      "targetId": "8208"
+    },
+    {
+      "name": "Ralph Carter",
+      "targetId": "8212"
+    }
+  ]
+}

@@ -1,182 +1,149 @@
-[
-  {
-    "source": "Ray Brown",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Mitchell Froom",
-    "targetId": "289"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "T-Bone Burnett",
-    "targetId": "300"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "George Duke",
-    "targetId": "1327"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Louis Armstrong",
-    "targetId": "1785"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Ella Fitzgerald",
-    "targetId": "1786"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Duke Ellington",
-    "targetId": "1912"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Joe Pass",
-    "targetId": "1926"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Louie Bellson",
-    "targetId": "1927"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Dizzy Gillespie",
-    "targetId": "1928"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Al Haig",
-    "targetId": "1929"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Lucky Thompson",
-    "targetId": "1930"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Milt Jackson",
-    "targetId": "1931"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Stan Levey",
-    "targetId": "1932"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Billie Holiday",
-    "targetId": "2704"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Charlie Shavers",
-    "targetId": "2705"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Alvin Stoller",
-    "targetId": "2706"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Joe Newman",
-    "targetId": "2750"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Freddie Green",
-    "targetId": "2757"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "John Lewis",
-    "targetId": "2954"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Stan Getz",
-    "targetId": "4089"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Earl Palmer",
-    "targetId": "4647"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Roy Eldridge",
-    "targetId": "5524"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Ed Shaughnessy",
-    "targetId": "5526"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Sarah Vaughan",
-    "targetId": "6888"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Herb Ellis",
-    "targetId": "7153"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Harry \"Sweets\" Edison",
-    "targetId": "7155"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Gus Johnson",
-    "targetId": "7162"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Paul Quinichette",
-    "targetId": "7163"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Buddy Rich",
-    "targetId": "8663"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Sonny Stitt",
-    "targetId": "8664"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Jake Hanna",
-    "targetId": "8675"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Monty Alexander",
-    "targetId": "8677"
-  },
-  {
-    "source": "Ray Brown",
-    "target": "Tom Canning",
-    "targetId": "9972"
-  }
-]
+{
+  "source": "Ray Brown",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Mitchell Froom",
+      "targetId": "289"
+    },
+    {
+      "name": "T-Bone Burnett",
+      "targetId": "300"
+    },
+    {
+      "name": "George Duke",
+      "targetId": "1327"
+    },
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Louis Armstrong",
+      "targetId": "1785"
+    },
+    {
+      "name": "Ella Fitzgerald",
+      "targetId": "1786"
+    },
+    {
+      "name": "Duke Ellington",
+      "targetId": "1912"
+    },
+    {
+      "name": "Joe Pass",
+      "targetId": "1926"
+    },
+    {
+      "name": "Louie Bellson",
+      "targetId": "1927"
+    },
+    {
+      "name": "Dizzy Gillespie",
+      "targetId": "1928"
+    },
+    {
+      "name": "Al Haig",
+      "targetId": "1929"
+    },
+    {
+      "name": "Lucky Thompson",
+      "targetId": "1930"
+    },
+    {
+      "name": "Milt Jackson",
+      "targetId": "1931"
+    },
+    {
+      "name": "Stan Levey",
+      "targetId": "1932"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    },
+    {
+      "name": "Billie Holiday",
+      "targetId": "2704"
+    },
+    {
+      "name": "Charlie Shavers",
+      "targetId": "2705"
+    },
+    {
+      "name": "Alvin Stoller",
+      "targetId": "2706"
+    },
+    {
+      "name": "Joe Newman",
+      "targetId": "2750"
+    },
+    {
+      "name": "Freddie Green",
+      "targetId": "2757"
+    },
+    {
+      "name": "John Lewis",
+      "targetId": "2954"
+    },
+    {
+      "name": "Stan Getz",
+      "targetId": "4089"
+    },
+    {
+      "name": "Earl Palmer",
+      "targetId": "4647"
+    },
+    {
+      "name": "Roy Eldridge",
+      "targetId": "5524"
+    },
+    {
+      "name": "Ed Shaughnessy",
+      "targetId": "5526"
+    },
+    {
+      "name": "Sarah Vaughan",
+      "targetId": "6888"
+    },
+    {
+      "name": "Herb Ellis",
+      "targetId": "7153"
+    },
+    {
+      "name": "Harry \"Sweets\" Edison",
+      "targetId": "7155"
+    },
+    {
+      "name": "Gus Johnson",
+      "targetId": "7162"
+    },
+    {
+      "name": "Paul Quinichette",
+      "targetId": "7163"
+    },
+    {
+      "name": "Buddy Rich",
+      "targetId": "8663"
+    },
+    {
+      "name": "Sonny Stitt",
+      "targetId": "8664"
+    },
+    {
+      "name": "Jake Hanna",
+      "targetId": "8675"
+    },
+    {
+      "name": "Monty Alexander",
+      "targetId": "8677"
+    },
+    {
+      "name": "Tom Canning",
+      "targetId": "9972"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike d'Abo",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Mike d'Abo",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Mike d'Abo",
-    "target": "Tom McGuinness",
-    "targetId": "3141"
-  },
-  {
-    "source": "Mike d'Abo",
-    "target": "Mike Hugg",
-    "targetId": "3142"
-  }
-]
+{
+  "source": "Mike d'Abo",
+  "targets": [
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Tom McGuinness",
+      "targetId": "3141"
+    },
+    {
+      "name": "Mike Hugg",
+      "targetId": "3142"
+    }
+  ]
+}

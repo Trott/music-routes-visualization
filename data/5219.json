@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Paul Thomson",
-    "target": "Alex Kapranos",
-    "targetId": "5212"
-  },
-  {
-    "source": "Paul Thomson",
-    "target": "Robert Hardy",
-    "targetId": "5217"
-  },
-  {
-    "source": "Paul Thomson",
-    "target": "Nick McCarthy",
-    "targetId": "5218"
-  },
-  {
-    "source": "Paul Thomson",
-    "target": "Simon Henderson",
-    "targetId": "5226"
-  },
-  {
-    "source": "Paul Thomson",
-    "target": "Victoria Henderson",
-    "targetId": "5227"
-  }
-]
+{
+  "source": "Paul Thomson",
+  "targets": [
+    {
+      "name": "Alex Kapranos",
+      "targetId": "5212"
+    },
+    {
+      "name": "Robert Hardy",
+      "targetId": "5217"
+    },
+    {
+      "name": "Nick McCarthy",
+      "targetId": "5218"
+    },
+    {
+      "name": "Simon Henderson",
+      "targetId": "5226"
+    },
+    {
+      "name": "Victoria Henderson",
+      "targetId": "5227"
+    }
+  ]
+}

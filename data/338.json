@@ -1,232 +1,189 @@
-[
-  {
-    "source": "Dave Grohl",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "John Paul Jones",
-    "targetId": "302"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Tony Iommi",
-    "targetId": "335"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Laurence Cottle",
-    "targetId": "336"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Kurt Cobain",
-    "targetId": "683"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Krist Novoselic",
-    "targetId": "684"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "J Mascis",
-    "targetId": "737"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Cris Kirkwood",
-    "targetId": "755"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Eddie Vedder",
-    "targetId": "756"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Curt Kirkwood",
-    "targetId": "757"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Nels Cline",
-    "targetId": "758"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Carla Bozulich",
-    "targetId": "759"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Gary Lee Conner",
-    "targetId": "760"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Mark Lanegan",
-    "targetId": "779"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Pat Smear",
-    "targetId": "784"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Josh Homme",
-    "targetId": "1847"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Nick Oliveri",
-    "targetId": "1852"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Alain Johannes",
-    "targetId": "1853"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Natasha Shneider",
-    "targetId": "1854"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Dean Ween",
-    "targetId": "1855"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Paz Lenchantin",
-    "targetId": "1856"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Anna Lenchantin",
-    "targetId": "1857"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Molly McGuire",
-    "targetId": "1858"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Brendon McNichol",
-    "targetId": "1859"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "John Gove",
-    "targetId": "1860"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Kevin Porter",
-    "targetId": "1861"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Brad Kintscher",
-    "targetId": "1862"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Kim Thayil",
-    "targetId": "2020"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Billy Gibbons",
-    "targetId": "2118"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Chris Shiflett",
-    "targetId": "2135"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Nate Mendel",
-    "targetId": "2136"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Taylor Hawkins",
-    "targetId": "2137"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Lemmy Kilmister",
-    "targetId": "2550"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Steve McDonald",
-    "targetId": "3009"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Lori Goldston",
-    "targetId": "3654"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Jack Black",
-    "targetId": "4217"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Kyle Gass",
-    "targetId": "4218"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Liam Lynch",
-    "targetId": "4219"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "John Konesky",
-    "targetId": "4220"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Page McConnell",
-    "targetId": "4735"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Chan Marshall",
-    "targetId": "5311"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Kaki King",
-    "targetId": "6505"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "King Diamond",
-    "targetId": "6775"
-  },
-  {
-    "source": "Dave Grohl",
-    "target": "Andrew Gross",
-    "targetId": "10264"
-  }
-]
+{
+  "source": "Dave Grohl",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "John Paul Jones",
+      "targetId": "302"
+    },
+    {
+      "name": "Tony Iommi",
+      "targetId": "335"
+    },
+    {
+      "name": "Laurence Cottle",
+      "targetId": "336"
+    },
+    {
+      "name": "Kurt Cobain",
+      "targetId": "683"
+    },
+    {
+      "name": "Krist Novoselic",
+      "targetId": "684"
+    },
+    {
+      "name": "J Mascis",
+      "targetId": "737"
+    },
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Cris Kirkwood",
+      "targetId": "755"
+    },
+    {
+      "name": "Eddie Vedder",
+      "targetId": "756"
+    },
+    {
+      "name": "Curt Kirkwood",
+      "targetId": "757"
+    },
+    {
+      "name": "Nels Cline",
+      "targetId": "758"
+    },
+    {
+      "name": "Carla Bozulich",
+      "targetId": "759"
+    },
+    {
+      "name": "Gary Lee Conner",
+      "targetId": "760"
+    },
+    {
+      "name": "Mark Lanegan",
+      "targetId": "779"
+    },
+    {
+      "name": "Pat Smear",
+      "targetId": "784"
+    },
+    {
+      "name": "Josh Homme",
+      "targetId": "1847"
+    },
+    {
+      "name": "Nick Oliveri",
+      "targetId": "1852"
+    },
+    {
+      "name": "Alain Johannes",
+      "targetId": "1853"
+    },
+    {
+      "name": "Natasha Shneider",
+      "targetId": "1854"
+    },
+    {
+      "name": "Dean Ween",
+      "targetId": "1855"
+    },
+    {
+      "name": "Paz Lenchantin",
+      "targetId": "1856"
+    },
+    {
+      "name": "Anna Lenchantin",
+      "targetId": "1857"
+    },
+    {
+      "name": "Molly McGuire",
+      "targetId": "1858"
+    },
+    {
+      "name": "Brendon McNichol",
+      "targetId": "1859"
+    },
+    {
+      "name": "John Gove",
+      "targetId": "1860"
+    },
+    {
+      "name": "Kevin Porter",
+      "targetId": "1861"
+    },
+    {
+      "name": "Brad Kintscher",
+      "targetId": "1862"
+    },
+    {
+      "name": "Kim Thayil",
+      "targetId": "2020"
+    },
+    {
+      "name": "Billy Gibbons",
+      "targetId": "2118"
+    },
+    {
+      "name": "Chris Shiflett",
+      "targetId": "2135"
+    },
+    {
+      "name": "Nate Mendel",
+      "targetId": "2136"
+    },
+    {
+      "name": "Taylor Hawkins",
+      "targetId": "2137"
+    },
+    {
+      "name": "Lemmy Kilmister",
+      "targetId": "2550"
+    },
+    {
+      "name": "Steve McDonald",
+      "targetId": "3009"
+    },
+    {
+      "name": "Lori Goldston",
+      "targetId": "3654"
+    },
+    {
+      "name": "Jack Black",
+      "targetId": "4217"
+    },
+    {
+      "name": "Kyle Gass",
+      "targetId": "4218"
+    },
+    {
+      "name": "Liam Lynch",
+      "targetId": "4219"
+    },
+    {
+      "name": "John Konesky",
+      "targetId": "4220"
+    },
+    {
+      "name": "Page McConnell",
+      "targetId": "4735"
+    },
+    {
+      "name": "Chan Marshall",
+      "targetId": "5311"
+    },
+    {
+      "name": "Kaki King",
+      "targetId": "6505"
+    },
+    {
+      "name": "King Diamond",
+      "targetId": "6775"
+    },
+    {
+      "name": "Andrew Gross",
+      "targetId": "10264"
+    }
+  ]
+}

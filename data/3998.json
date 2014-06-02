@@ -1,212 +1,173 @@
-[
-  {
-    "source": "Róisín Murphy",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "David Byrne",
-    "targetId": "193"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Thom Yorke",
-    "targetId": "545"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Jonny Greenwood",
-    "targetId": "548"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Beverly Knight",
-    "targetId": "691"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Dido",
-    "targetId": "694"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Joss Stone",
-    "targetId": "699"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Keisha Buchanan",
-    "targetId": "709"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Heidi Range",
-    "targetId": "710"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Neil Hannon",
-    "targetId": "3608"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Dan Levine",
-    "targetId": "3686"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Danny Goffey",
-    "targetId": "3976"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Fran Healy",
-    "targetId": "3977"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Justin Hawkins",
-    "targetId": "3978"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Dan Hawkins",
-    "targetId": "3979"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Charlie Simpson",
-    "targetId": "3980"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Daniel Bedingfield",
-    "targetId": "3981"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Natasha Bedingfield",
-    "targetId": "3982"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Mutya Buena",
-    "targetId": "3984"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "James Bourne",
-    "targetId": "3985"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Chris Martin",
-    "targetId": "3986"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Dizzee Rascal",
-    "targetId": "3987"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Ms Dynamite",
-    "targetId": "3988"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Skye Edwards",
-    "targetId": "3989"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Estelle",
-    "targetId": "3990"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Jamelia",
-    "targetId": "3991"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Tom Chaplin",
-    "targetId": "3992"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Tim Rice-Oxley",
-    "targetId": "3993"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Tim Wheeler",
-    "targetId": "3994"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Lemar",
-    "targetId": "3995"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Shaznay Lewis",
-    "targetId": "3996"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Katie Melua",
-    "targetId": "3997"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Rachel Stevens",
-    "targetId": "3999"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Robbie Williams",
-    "targetId": "4000"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Will Young",
-    "targetId": "4001"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Barry Danielian",
-    "targetId": "6047"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Paul Shapiro",
-    "targetId": "6048"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Paul Frazier",
-    "targetId": "8733"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Mauro Refosco",
-    "targetId": "8734"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "Thomas Bartlett",
-    "targetId": "8735"
-  },
-  {
-    "source": "Róisín Murphy",
-    "target": "David Mann",
-    "targetId": "8751"
-  }
-]
+{
+  "source": "Róisín Murphy",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "David Byrne",
+      "targetId": "193"
+    },
+    {
+      "name": "Thom Yorke",
+      "targetId": "545"
+    },
+    {
+      "name": "Jonny Greenwood",
+      "targetId": "548"
+    },
+    {
+      "name": "Beverly Knight",
+      "targetId": "691"
+    },
+    {
+      "name": "Dido",
+      "targetId": "694"
+    },
+    {
+      "name": "Joss Stone",
+      "targetId": "699"
+    },
+    {
+      "name": "Keisha Buchanan",
+      "targetId": "709"
+    },
+    {
+      "name": "Heidi Range",
+      "targetId": "710"
+    },
+    {
+      "name": "Neil Hannon",
+      "targetId": "3608"
+    },
+    {
+      "name": "Dan Levine",
+      "targetId": "3686"
+    },
+    {
+      "name": "Danny Goffey",
+      "targetId": "3976"
+    },
+    {
+      "name": "Fran Healy",
+      "targetId": "3977"
+    },
+    {
+      "name": "Justin Hawkins",
+      "targetId": "3978"
+    },
+    {
+      "name": "Dan Hawkins",
+      "targetId": "3979"
+    },
+    {
+      "name": "Charlie Simpson",
+      "targetId": "3980"
+    },
+    {
+      "name": "Daniel Bedingfield",
+      "targetId": "3981"
+    },
+    {
+      "name": "Natasha Bedingfield",
+      "targetId": "3982"
+    },
+    {
+      "name": "Mutya Buena",
+      "targetId": "3984"
+    },
+    {
+      "name": "James Bourne",
+      "targetId": "3985"
+    },
+    {
+      "name": "Chris Martin",
+      "targetId": "3986"
+    },
+    {
+      "name": "Dizzee Rascal",
+      "targetId": "3987"
+    },
+    {
+      "name": "Ms Dynamite",
+      "targetId": "3988"
+    },
+    {
+      "name": "Skye Edwards",
+      "targetId": "3989"
+    },
+    {
+      "name": "Estelle",
+      "targetId": "3990"
+    },
+    {
+      "name": "Jamelia",
+      "targetId": "3991"
+    },
+    {
+      "name": "Tom Chaplin",
+      "targetId": "3992"
+    },
+    {
+      "name": "Tim Rice-Oxley",
+      "targetId": "3993"
+    },
+    {
+      "name": "Tim Wheeler",
+      "targetId": "3994"
+    },
+    {
+      "name": "Lemar",
+      "targetId": "3995"
+    },
+    {
+      "name": "Shaznay Lewis",
+      "targetId": "3996"
+    },
+    {
+      "name": "Katie Melua",
+      "targetId": "3997"
+    },
+    {
+      "name": "Rachel Stevens",
+      "targetId": "3999"
+    },
+    {
+      "name": "Robbie Williams",
+      "targetId": "4000"
+    },
+    {
+      "name": "Will Young",
+      "targetId": "4001"
+    },
+    {
+      "name": "Barry Danielian",
+      "targetId": "6047"
+    },
+    {
+      "name": "Paul Shapiro",
+      "targetId": "6048"
+    },
+    {
+      "name": "Paul Frazier",
+      "targetId": "8733"
+    },
+    {
+      "name": "Mauro Refosco",
+      "targetId": "8734"
+    },
+    {
+      "name": "Thomas Bartlett",
+      "targetId": "8735"
+    },
+    {
+      "name": "David Mann",
+      "targetId": "8751"
+    }
+  ]
+}

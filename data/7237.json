@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jim Hartridge",
-    "target": "Adam Franklin",
-    "targetId": "7014"
-  },
-  {
-    "source": "Jim Hartridge",
-    "target": "Graham Bonnar",
-    "targetId": "7235"
-  },
-  {
-    "source": "Jim Hartridge",
-    "target": "Adi Vines",
-    "targetId": "7236"
-  }
-]
+{
+  "source": "Jim Hartridge",
+  "targets": [
+    {
+      "name": "Adam Franklin",
+      "targetId": "7014"
+    },
+    {
+      "name": "Graham Bonnar",
+      "targetId": "7235"
+    },
+    {
+      "name": "Adi Vines",
+      "targetId": "7236"
+    }
+  ]
+}

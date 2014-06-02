@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mich Kent",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Mich Kent",
-    "target": "Steve Hazlehurst",
-    "targetId": "9912"
-  },
-  {
-    "source": "Mich Kent",
-    "target": "Dickie Faulkner",
-    "targetId": "9913"
-  }
-]
+{
+  "source": "Mich Kent",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Steve Hazlehurst",
+      "targetId": "9912"
+    },
+    {
+      "name": "Dickie Faulkner",
+      "targetId": "9913"
+    }
+  ]
+}

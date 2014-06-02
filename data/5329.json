@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dickey Betts",
-    "target": "Duane Allman",
-    "targetId": "5303"
-  },
-  {
-    "source": "Dickey Betts",
-    "target": "Berry Oakley",
-    "targetId": "5326"
-  },
-  {
-    "source": "Dickey Betts",
-    "target": "\"Jaimoe\" Jai Johanny Johanson",
-    "targetId": "5327"
-  },
-  {
-    "source": "Dickey Betts",
-    "target": "Butch Trucks",
-    "targetId": "5328"
-  },
-  {
-    "source": "Dickey Betts",
-    "target": "Gregg Allman",
-    "targetId": "5330"
-  }
-]
+{
+  "source": "Dickey Betts",
+  "targets": [
+    {
+      "name": "Duane Allman",
+      "targetId": "5303"
+    },
+    {
+      "name": "Berry Oakley",
+      "targetId": "5326"
+    },
+    {
+      "name": "\"Jaimoe\" Jai Johanny Johanson",
+      "targetId": "5327"
+    },
+    {
+      "name": "Butch Trucks",
+      "targetId": "5328"
+    },
+    {
+      "name": "Gregg Allman",
+      "targetId": "5330"
+    }
+  ]
+}

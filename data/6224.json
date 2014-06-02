@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Gen Rubin",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Gen Rubin",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Gen Rubin",
-    "target": "Mary J. Blige",
-    "targetId": "4043"
-  },
-  {
-    "source": "Gen Rubin",
-    "target": "Babyface",
-    "targetId": "4290"
-  }
-]
+{
+  "source": "Gen Rubin",
+  "targets": [
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "Mary J. Blige",
+      "targetId": "4043"
+    },
+    {
+      "name": "Babyface",
+      "targetId": "4290"
+    }
+  ]
+}

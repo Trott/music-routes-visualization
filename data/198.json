@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Alex Weir",
-    "target": "Jerry Harrison",
-    "targetId": "192"
-  },
-  {
-    "source": "Alex Weir",
-    "target": "David Byrne",
-    "targetId": "193"
-  },
-  {
-    "source": "Alex Weir",
-    "target": "Tina Weymouth",
-    "targetId": "194"
-  },
-  {
-    "source": "Alex Weir",
-    "target": "Chris Frantz",
-    "targetId": "195"
-  },
-  {
-    "source": "Alex Weir",
-    "target": "Ednah Holt",
-    "targetId": "196"
-  },
-  {
-    "source": "Alex Weir",
-    "target": "Lynn Mabry",
-    "targetId": "197"
-  },
-  {
-    "source": "Alex Weir",
-    "target": "Bernie Worrell",
-    "targetId": "199"
-  },
-  {
-    "source": "Alex Weir",
-    "target": "Steve Scales",
-    "targetId": "200"
-  }
-]
+{
+  "source": "Alex Weir",
+  "targets": [
+    {
+      "name": "Jerry Harrison",
+      "targetId": "192"
+    },
+    {
+      "name": "David Byrne",
+      "targetId": "193"
+    },
+    {
+      "name": "Tina Weymouth",
+      "targetId": "194"
+    },
+    {
+      "name": "Chris Frantz",
+      "targetId": "195"
+    },
+    {
+      "name": "Ednah Holt",
+      "targetId": "196"
+    },
+    {
+      "name": "Lynn Mabry",
+      "targetId": "197"
+    },
+    {
+      "name": "Bernie Worrell",
+      "targetId": "199"
+    },
+    {
+      "name": "Steve Scales",
+      "targetId": "200"
+    }
+  ]
+}

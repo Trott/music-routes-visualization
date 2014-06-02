@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Mike Finnigan",
-    "target": "Fred Smith",
-    "targetId": "1539"
-  },
-  {
-    "source": "Mike Finnigan",
-    "target": "Jimi Hendrix",
-    "targetId": "2689"
-  },
-  {
-    "source": "Mike Finnigan",
-    "target": "Jimmy Haslip",
-    "targetId": "3484"
-  },
-  {
-    "source": "Mike Finnigan",
-    "target": "Eva Cassidy",
-    "targetId": "4726"
-  },
-  {
-    "source": "Mike Finnigan",
-    "target": "Jim Jenness",
-    "targetId": "4727"
-  },
-  {
-    "source": "Mike Finnigan",
-    "target": "Alan Day",
-    "targetId": "4728"
-  },
-  {
-    "source": "Mike Finnigan",
-    "target": "Andrew Hernandez",
-    "targetId": "4729"
-  },
-  {
-    "source": "Mike Finnigan",
-    "target": "Buddy Miles",
-    "targetId": "6278"
-  },
-  {
-    "source": "Mike Finnigan",
-    "target": "Larry Faucette",
-    "targetId": "9571"
-  }
-]
+{
+  "source": "Mike Finnigan",
+  "targets": [
+    {
+      "name": "Fred Smith",
+      "targetId": "1539"
+    },
+    {
+      "name": "Jimi Hendrix",
+      "targetId": "2689"
+    },
+    {
+      "name": "Jimmy Haslip",
+      "targetId": "3484"
+    },
+    {
+      "name": "Eva Cassidy",
+      "targetId": "4726"
+    },
+    {
+      "name": "Jim Jenness",
+      "targetId": "4727"
+    },
+    {
+      "name": "Alan Day",
+      "targetId": "4728"
+    },
+    {
+      "name": "Andrew Hernandez",
+      "targetId": "4729"
+    },
+    {
+      "name": "Buddy Miles",
+      "targetId": "6278"
+    },
+    {
+      "name": "Larry Faucette",
+      "targetId": "9571"
+    }
+  ]
+}

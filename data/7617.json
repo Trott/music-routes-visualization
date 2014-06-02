@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pat Deason",
-    "target": "Gary Floyd",
-    "targetId": "7615"
-  },
-  {
-    "source": "Pat Deason",
-    "target": "Buxf Parrot",
-    "targetId": "7616"
-  },
-  {
-    "source": "Pat Deason",
-    "target": "Glen Taylor",
-    "targetId": "7618"
-  }
-]
+{
+  "source": "Pat Deason",
+  "targets": [
+    {
+      "name": "Gary Floyd",
+      "targetId": "7615"
+    },
+    {
+      "name": "Buxf Parrot",
+      "targetId": "7616"
+    },
+    {
+      "name": "Glen Taylor",
+      "targetId": "7618"
+    }
+  ]
+}

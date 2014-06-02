@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Erik Friedlander",
-    "target": "Gregory Cohen",
-    "targetId": "428"
-  },
-  {
-    "source": "Erik Friedlander",
-    "target": "Marc Ribot",
-    "targetId": "3588"
-  },
-  {
-    "source": "Erik Friedlander",
-    "target": "Cyro Baptista",
-    "targetId": "8214"
-  },
-  {
-    "source": "Erik Friedlander",
-    "target": "Joey Baron",
-    "targetId": "8215"
-  },
-  {
-    "source": "Erik Friedlander",
-    "target": "Mark Feldman",
-    "targetId": "9513"
-  }
-]
+{
+  "source": "Erik Friedlander",
+  "targets": [
+    {
+      "name": "Gregory Cohen",
+      "targetId": "428"
+    },
+    {
+      "name": "Marc Ribot",
+      "targetId": "3588"
+    },
+    {
+      "name": "Cyro Baptista",
+      "targetId": "8214"
+    },
+    {
+      "name": "Joey Baron",
+      "targetId": "8215"
+    },
+    {
+      "name": "Mark Feldman",
+      "targetId": "9513"
+    }
+  ]
+}

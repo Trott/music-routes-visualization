@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Tony Kanal",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Tony Kanal",
-    "target": "Ric Ocasek",
-    "targetId": "959"
-  },
-  {
-    "source": "Tony Kanal",
-    "target": "Gwen Stefani",
-    "targetId": "1842"
-  },
-  {
-    "source": "Tony Kanal",
-    "target": "Adrian Young",
-    "targetId": "1843"
-  },
-  {
-    "source": "Tony Kanal",
-    "target": "Tom Dumont",
-    "targetId": "1845"
-  },
-  {
-    "source": "Tony Kanal",
-    "target": "Toots Hibbert",
-    "targetId": "6822"
-  }
-]
+{
+  "source": "Tony Kanal",
+  "targets": [
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Ric Ocasek",
+      "targetId": "959"
+    },
+    {
+      "name": "Gwen Stefani",
+      "targetId": "1842"
+    },
+    {
+      "name": "Adrian Young",
+      "targetId": "1843"
+    },
+    {
+      "name": "Tom Dumont",
+      "targetId": "1845"
+    },
+    {
+      "name": "Toots Hibbert",
+      "targetId": "6822"
+    }
+  ]
+}

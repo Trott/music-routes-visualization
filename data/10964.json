@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Aziz Ibrahim",
-    "target": "Steve White",
-    "targetId": "2065"
-  },
-  {
-    "source": "Aziz Ibrahim",
-    "target": "Geoff Downes",
-    "targetId": "3639"
-  },
-  {
-    "source": "Aziz Ibrahim",
-    "target": "John Payne",
-    "targetId": "3641"
-  },
-  {
-    "source": "Aziz Ibrahim",
-    "target": "Michael Sturgis",
-    "targetId": "3642"
-  },
-  {
-    "source": "Aziz Ibrahim",
-    "target": "Elliott Randall",
-    "targetId": "10175"
-  },
-  {
-    "source": "Aziz Ibrahim",
-    "target": "Mick Talbot",
-    "targetId": "10959"
-  },
-  {
-    "source": "Aziz Ibrahim",
-    "target": "Damon Minchella",
-    "targetId": "10963"
-  }
-]
+{
+  "source": "Aziz Ibrahim",
+  "targets": [
+    {
+      "name": "Steve White",
+      "targetId": "2065"
+    },
+    {
+      "name": "Geoff Downes",
+      "targetId": "3639"
+    },
+    {
+      "name": "John Payne",
+      "targetId": "3641"
+    },
+    {
+      "name": "Michael Sturgis",
+      "targetId": "3642"
+    },
+    {
+      "name": "Elliott Randall",
+      "targetId": "10175"
+    },
+    {
+      "name": "Mick Talbot",
+      "targetId": "10959"
+    },
+    {
+      "name": "Damon Minchella",
+      "targetId": "10963"
+    }
+  ]
+}

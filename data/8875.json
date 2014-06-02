@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jonatha Brooke",
-    "target": "Michael Sherwood",
-    "targetId": "6280"
-  },
-  {
-    "source": "Jonatha Brooke",
-    "target": "Dweezil Zappa",
-    "targetId": "7214"
-  },
-  {
-    "source": "Jonatha Brooke",
-    "target": "Lisa Loeb",
-    "targetId": "8844"
-  },
-  {
-    "source": "Jonatha Brooke",
-    "target": "Ronny Crawford",
-    "targetId": "8866"
-  },
-  {
-    "source": "Jonatha Brooke",
-    "target": "Joe Quigley",
-    "targetId": "8869"
-  }
-]
+{
+  "source": "Jonatha Brooke",
+  "targets": [
+    {
+      "name": "Michael Sherwood",
+      "targetId": "6280"
+    },
+    {
+      "name": "Dweezil Zappa",
+      "targetId": "7214"
+    },
+    {
+      "name": "Lisa Loeb",
+      "targetId": "8844"
+    },
+    {
+      "name": "Ronny Crawford",
+      "targetId": "8866"
+    },
+    {
+      "name": "Joe Quigley",
+      "targetId": "8869"
+    }
+  ]
+}

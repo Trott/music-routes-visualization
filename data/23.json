@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Sam Coomes",
-    "target": "Tony Lash",
-    "targetId": "14"
-  },
-  {
-    "source": "Sam Coomes",
-    "target": "Neil Gust",
-    "targetId": "24"
-  },
-  {
-    "source": "Sam Coomes",
-    "target": "Elliott Smith",
-    "targetId": "25"
-  },
-  {
-    "source": "Sam Coomes",
-    "target": "Janet Weiss",
-    "targetId": "26"
-  },
-  {
-    "source": "Sam Coomes",
-    "target": "Doug Martsch",
-    "targetId": "94"
-  },
-  {
-    "source": "Sam Coomes",
-    "target": "Scott Plouf",
-    "targetId": "95"
-  }
-]
+{
+  "source": "Sam Coomes",
+  "targets": [
+    {
+      "name": "Tony Lash",
+      "targetId": "14"
+    },
+    {
+      "name": "Neil Gust",
+      "targetId": "24"
+    },
+    {
+      "name": "Elliott Smith",
+      "targetId": "25"
+    },
+    {
+      "name": "Janet Weiss",
+      "targetId": "26"
+    },
+    {
+      "name": "Doug Martsch",
+      "targetId": "94"
+    },
+    {
+      "name": "Scott Plouf",
+      "targetId": "95"
+    }
+  ]
+}

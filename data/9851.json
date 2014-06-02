@@ -1,52 +1,45 @@
-[
-  {
-    "source": "J. Power",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "J. Power",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "J. Power",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "J. Power",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "J. Power",
-    "target": "Bill Povey",
-    "targetId": "1989"
-  },
-  {
-    "source": "J. Power",
-    "target": "Derek Watkins",
-    "targetId": "9690"
-  },
-  {
-    "source": "J. Power",
-    "target": "Freddy Clayton",
-    "targetId": "9696"
-  },
-  {
-    "source": "J. Power",
-    "target": "Rex Morris",
-    "targetId": "9710"
-  },
-  {
-    "source": "J. Power",
-    "target": "Francie Schwartz",
-    "targetId": "9849"
-  },
-  {
-    "source": "J. Power",
-    "target": "Don Lang",
-    "targetId": "9850"
-  }
-]
+{
+  "source": "J. Power",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Bill Povey",
+      "targetId": "1989"
+    },
+    {
+      "name": "Derek Watkins",
+      "targetId": "9690"
+    },
+    {
+      "name": "Freddy Clayton",
+      "targetId": "9696"
+    },
+    {
+      "name": "Rex Morris",
+      "targetId": "9710"
+    },
+    {
+      "name": "Francie Schwartz",
+      "targetId": "9849"
+    },
+    {
+      "name": "Don Lang",
+      "targetId": "9850"
+    }
+  ]
+}

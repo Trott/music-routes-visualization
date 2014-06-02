@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Britt Walford",
-    "target": "Todd Brashear",
-    "targetId": "9213"
-  },
-  {
-    "source": "Britt Walford",
-    "target": "David Pajo",
-    "targetId": "9215"
-  },
-  {
-    "source": "Britt Walford",
-    "target": "Brian McMahan",
-    "targetId": "9216"
-  }
-]
+{
+  "source": "Britt Walford",
+  "targets": [
+    {
+      "name": "Todd Brashear",
+      "targetId": "9213"
+    },
+    {
+      "name": "David Pajo",
+      "targetId": "9215"
+    },
+    {
+      "name": "Brian McMahan",
+      "targetId": "9216"
+    }
+  ]
+}

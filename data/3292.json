@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Chris Cutler",
-    "target": "John Marshall",
-    "targetId": "1951"
-  },
-  {
-    "source": "Chris Cutler",
-    "target": "Richard Wolfson",
-    "targetId": "3293"
-  },
-  {
-    "source": "Chris Cutler",
-    "target": "Steve Kellner",
-    "targetId": "3294"
-  },
-  {
-    "source": "Chris Cutler",
-    "target": "Endre Szkárosi",
-    "targetId": "3298"
-  },
-  {
-    "source": "Chris Cutler",
-    "target": "Aleksander Kolkowski",
-    "targetId": "3301"
-  }
-]
+{
+  "source": "Chris Cutler",
+  "targets": [
+    {
+      "name": "John Marshall",
+      "targetId": "1951"
+    },
+    {
+      "name": "Richard Wolfson",
+      "targetId": "3293"
+    },
+    {
+      "name": "Steve Kellner",
+      "targetId": "3294"
+    },
+    {
+      "name": "Endre Szkárosi",
+      "targetId": "3298"
+    },
+    {
+      "name": "Aleksander Kolkowski",
+      "targetId": "3301"
+    }
+  ]
+}

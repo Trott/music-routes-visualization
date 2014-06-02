@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Kenneth Essex",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Kenneth Essex",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Kenneth Essex",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Kenneth Essex",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Kenneth Essex",
-    "target": "Tony Gilbert",
-    "targetId": "3354"
-  },
-  {
-    "source": "Kenneth Essex",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Kenneth Essex",
-    "target": "Leo Birnbaum",
-    "targetId": "9718"
-  },
-  {
-    "source": "Kenneth Essex",
-    "target": "Francisco Gabarro",
-    "targetId": "9794"
-  }
-]
+{
+  "source": "Kenneth Essex",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Tony Gilbert",
+      "targetId": "3354"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "Leo Birnbaum",
+      "targetId": "9718"
+    },
+    {
+      "name": "Francisco Gabarro",
+      "targetId": "9794"
+    }
+  ]
+}

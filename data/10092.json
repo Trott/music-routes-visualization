@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jack Rieley",
-    "target": "Al Jardine",
-    "targetId": "1478"
-  },
-  {
-    "source": "Jack Rieley",
-    "target": "Van Dyke Parks",
-    "targetId": "7522"
-  }
-]
+{
+  "source": "Jack Rieley",
+  "targets": [
+    {
+      "name": "Al Jardine",
+      "targetId": "1478"
+    },
+    {
+      "name": "Van Dyke Parks",
+      "targetId": "7522"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Darren Robinson",
-    "target": "Jason Schwartzman",
-    "targetId": "5670"
-  },
-  {
-    "source": "Darren Robinson",
-    "target": "Alex Greenwald",
-    "targetId": "5671"
-  },
-  {
-    "source": "Darren Robinson",
-    "target": "Sam Farrar",
-    "targetId": "5672"
-  },
-  {
-    "source": "Darren Robinson",
-    "target": "Jacques Brautbar",
-    "targetId": "5673"
-  }
-]
+{
+  "source": "Darren Robinson",
+  "targets": [
+    {
+      "name": "Jason Schwartzman",
+      "targetId": "5670"
+    },
+    {
+      "name": "Alex Greenwald",
+      "targetId": "5671"
+    },
+    {
+      "name": "Sam Farrar",
+      "targetId": "5672"
+    },
+    {
+      "name": "Jacques Brautbar",
+      "targetId": "5673"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Chuck Schuldiner",
-    "target": "James Murphy",
-    "targetId": "2155"
-  },
-  {
-    "source": "Chuck Schuldiner",
-    "target": "Terry Butler",
-    "targetId": "2160"
-  },
-  {
-    "source": "Chuck Schuldiner",
-    "target": "Bill Andrews",
-    "targetId": "2161"
-  },
-  {
-    "source": "Chuck Schuldiner",
-    "target": "Eric Greif",
-    "targetId": "2162"
-  }
-]
+{
+  "source": "Chuck Schuldiner",
+  "targets": [
+    {
+      "name": "James Murphy",
+      "targetId": "2155"
+    },
+    {
+      "name": "Terry Butler",
+      "targetId": "2160"
+    },
+    {
+      "name": "Bill Andrews",
+      "targetId": "2161"
+    },
+    {
+      "name": "Eric Greif",
+      "targetId": "2162"
+    }
+  ]
+}

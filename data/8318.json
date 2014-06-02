@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Gene Clark",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Gene Clark",
-    "target": "Roger McGuinn",
-    "targetId": "308"
-  },
-  {
-    "source": "Gene Clark",
-    "target": "David Crosby",
-    "targetId": "511"
-  },
-  {
-    "source": "Gene Clark",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Gene Clark",
-    "target": "Bill Pitman",
-    "targetId": "1482"
-  },
-  {
-    "source": "Gene Clark",
-    "target": "Jerry Cole",
-    "targetId": "1483"
-  },
-  {
-    "source": "Gene Clark",
-    "target": "Leon Russell",
-    "targetId": "1999"
-  }
-]
+{
+  "source": "Gene Clark",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Roger McGuinn",
+      "targetId": "308"
+    },
+    {
+      "name": "David Crosby",
+      "targetId": "511"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Bill Pitman",
+      "targetId": "1482"
+    },
+    {
+      "name": "Jerry Cole",
+      "targetId": "1483"
+    },
+    {
+      "name": "Leon Russell",
+      "targetId": "1999"
+    }
+  ]
+}

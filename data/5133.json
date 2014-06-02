@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Pigneguy",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "John Pigneguy",
-    "target": "Jeff Lynne",
-    "targetId": "224"
-  },
-  {
-    "source": "John Pigneguy",
-    "target": "Linda McCartney",
-    "targetId": "631"
-  },
-  {
-    "source": "John Pigneguy",
-    "target": "James McCartney",
-    "targetId": "5129"
-  },
-  {
-    "source": "John Pigneguy",
-    "target": "Michael Thompson",
-    "targetId": "5130"
-  },
-  {
-    "source": "John Pigneguy",
-    "target": "Richard Bissill",
-    "targetId": "5131"
-  },
-  {
-    "source": "John Pigneguy",
-    "target": "Richard Watkins",
-    "targetId": "5132"
-  }
-]
+{
+  "source": "John Pigneguy",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Jeff Lynne",
+      "targetId": "224"
+    },
+    {
+      "name": "Linda McCartney",
+      "targetId": "631"
+    },
+    {
+      "name": "James McCartney",
+      "targetId": "5129"
+    },
+    {
+      "name": "Michael Thompson",
+      "targetId": "5130"
+    },
+    {
+      "name": "Richard Bissill",
+      "targetId": "5131"
+    },
+    {
+      "name": "Richard Watkins",
+      "targetId": "5132"
+    }
+  ]
+}

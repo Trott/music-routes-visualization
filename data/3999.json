@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Rachel Stevens",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Thom Yorke",
-    "targetId": "545"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Jonny Greenwood",
-    "targetId": "548"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Beverly Knight",
-    "targetId": "691"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Dido",
-    "targetId": "694"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Joss Stone",
-    "targetId": "699"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Keisha Buchanan",
-    "targetId": "709"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Heidi Range",
-    "targetId": "710"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Neil Hannon",
-    "targetId": "3608"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Danny Goffey",
-    "targetId": "3976"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Fran Healy",
-    "targetId": "3977"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Justin Hawkins",
-    "targetId": "3978"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Dan Hawkins",
-    "targetId": "3979"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Charlie Simpson",
-    "targetId": "3980"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Daniel Bedingfield",
-    "targetId": "3981"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Natasha Bedingfield",
-    "targetId": "3982"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Mutya Buena",
-    "targetId": "3984"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "James Bourne",
-    "targetId": "3985"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Chris Martin",
-    "targetId": "3986"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Dizzee Rascal",
-    "targetId": "3987"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Ms Dynamite",
-    "targetId": "3988"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Skye Edwards",
-    "targetId": "3989"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Estelle",
-    "targetId": "3990"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Jamelia",
-    "targetId": "3991"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Tom Chaplin",
-    "targetId": "3992"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Tim Rice-Oxley",
-    "targetId": "3993"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Tim Wheeler",
-    "targetId": "3994"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Lemar",
-    "targetId": "3995"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Shaznay Lewis",
-    "targetId": "3996"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Katie Melua",
-    "targetId": "3997"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Róisín Murphy",
-    "targetId": "3998"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Robbie Williams",
-    "targetId": "4000"
-  },
-  {
-    "source": "Rachel Stevens",
-    "target": "Will Young",
-    "targetId": "4001"
-  }
-]
+{
+  "source": "Rachel Stevens",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Thom Yorke",
+      "targetId": "545"
+    },
+    {
+      "name": "Jonny Greenwood",
+      "targetId": "548"
+    },
+    {
+      "name": "Beverly Knight",
+      "targetId": "691"
+    },
+    {
+      "name": "Dido",
+      "targetId": "694"
+    },
+    {
+      "name": "Joss Stone",
+      "targetId": "699"
+    },
+    {
+      "name": "Keisha Buchanan",
+      "targetId": "709"
+    },
+    {
+      "name": "Heidi Range",
+      "targetId": "710"
+    },
+    {
+      "name": "Neil Hannon",
+      "targetId": "3608"
+    },
+    {
+      "name": "Danny Goffey",
+      "targetId": "3976"
+    },
+    {
+      "name": "Fran Healy",
+      "targetId": "3977"
+    },
+    {
+      "name": "Justin Hawkins",
+      "targetId": "3978"
+    },
+    {
+      "name": "Dan Hawkins",
+      "targetId": "3979"
+    },
+    {
+      "name": "Charlie Simpson",
+      "targetId": "3980"
+    },
+    {
+      "name": "Daniel Bedingfield",
+      "targetId": "3981"
+    },
+    {
+      "name": "Natasha Bedingfield",
+      "targetId": "3982"
+    },
+    {
+      "name": "Mutya Buena",
+      "targetId": "3984"
+    },
+    {
+      "name": "James Bourne",
+      "targetId": "3985"
+    },
+    {
+      "name": "Chris Martin",
+      "targetId": "3986"
+    },
+    {
+      "name": "Dizzee Rascal",
+      "targetId": "3987"
+    },
+    {
+      "name": "Ms Dynamite",
+      "targetId": "3988"
+    },
+    {
+      "name": "Skye Edwards",
+      "targetId": "3989"
+    },
+    {
+      "name": "Estelle",
+      "targetId": "3990"
+    },
+    {
+      "name": "Jamelia",
+      "targetId": "3991"
+    },
+    {
+      "name": "Tom Chaplin",
+      "targetId": "3992"
+    },
+    {
+      "name": "Tim Rice-Oxley",
+      "targetId": "3993"
+    },
+    {
+      "name": "Tim Wheeler",
+      "targetId": "3994"
+    },
+    {
+      "name": "Lemar",
+      "targetId": "3995"
+    },
+    {
+      "name": "Shaznay Lewis",
+      "targetId": "3996"
+    },
+    {
+      "name": "Katie Melua",
+      "targetId": "3997"
+    },
+    {
+      "name": "Róisín Murphy",
+      "targetId": "3998"
+    },
+    {
+      "name": "Robbie Williams",
+      "targetId": "4000"
+    },
+    {
+      "name": "Will Young",
+      "targetId": "4001"
+    }
+  ]
+}

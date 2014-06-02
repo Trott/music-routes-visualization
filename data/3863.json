@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Harold Jones",
-    "target": "k.d. lang",
-    "targetId": "700"
-  },
-  {
-    "source": "Harold Jones",
-    "target": "Barbra Streisand",
-    "targetId": "1766"
-  },
-  {
-    "source": "Harold Jones",
-    "target": "Tony Bennett",
-    "targetId": "1769"
-  },
-  {
-    "source": "Harold Jones",
-    "target": "Paul Langosch",
-    "targetId": "3864"
-  },
-  {
-    "source": "Harold Jones",
-    "target": "Pinchas Zukerman",
-    "targetId": "3865"
-  },
-  {
-    "source": "Harold Jones",
-    "target": "Lee Musiker",
-    "targetId": "3866"
-  },
-  {
-    "source": "Harold Jones",
-    "target": "Gray Sargent",
-    "targetId": "3867"
-  },
-  {
-    "source": "Harold Jones",
-    "target": "Chris Botti",
-    "targetId": "6709"
-  }
-]
+{
+  "source": "Harold Jones",
+  "targets": [
+    {
+      "name": "k.d. lang",
+      "targetId": "700"
+    },
+    {
+      "name": "Barbra Streisand",
+      "targetId": "1766"
+    },
+    {
+      "name": "Tony Bennett",
+      "targetId": "1769"
+    },
+    {
+      "name": "Paul Langosch",
+      "targetId": "3864"
+    },
+    {
+      "name": "Pinchas Zukerman",
+      "targetId": "3865"
+    },
+    {
+      "name": "Lee Musiker",
+      "targetId": "3866"
+    },
+    {
+      "name": "Gray Sargent",
+      "targetId": "3867"
+    },
+    {
+      "name": "Chris Botti",
+      "targetId": "6709"
+    }
+  ]
+}

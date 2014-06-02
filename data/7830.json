@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tina Kennedy",
-    "target": "Lukasz Gottwald",
-    "targetId": "6293"
-  },
-  {
-    "source": "Tina Kennedy",
-    "target": "Cathy Dennis",
-    "targetId": "6949"
-  },
-  {
-    "source": "Tina Kennedy",
-    "target": "Vanessa Hudgens",
-    "targetId": "7824"
-  },
-  {
-    "source": "Tina Kennedy",
-    "target": "Benny Blanco",
-    "targetId": "7831"
-  }
-]
+{
+  "source": "Tina Kennedy",
+  "targets": [
+    {
+      "name": "Lukasz Gottwald",
+      "targetId": "6293"
+    },
+    {
+      "name": "Cathy Dennis",
+      "targetId": "6949"
+    },
+    {
+      "name": "Vanessa Hudgens",
+      "targetId": "7824"
+    },
+    {
+      "name": "Benny Blanco",
+      "targetId": "7831"
+    }
+  ]
+}

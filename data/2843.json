@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jonathan Marx",
-    "target": "James McNew",
-    "targetId": "2840"
-  },
-  {
-    "source": "Jonathan Marx",
-    "target": "Georgia Hubley",
-    "targetId": "2841"
-  },
-  {
-    "source": "Jonathan Marx",
-    "target": "Ira Kaplan",
-    "targetId": "2842"
-  }
-]
+{
+  "source": "Jonathan Marx",
+  "targets": [
+    {
+      "name": "James McNew",
+      "targetId": "2840"
+    },
+    {
+      "name": "Georgia Hubley",
+      "targetId": "2841"
+    },
+    {
+      "name": "Ira Kaplan",
+      "targetId": "2842"
+    }
+  ]
+}

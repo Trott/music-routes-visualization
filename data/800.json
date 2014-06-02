@@ -1,152 +1,125 @@
-[
-  {
-    "source": "Herbie Flowers",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Rick Wakeman",
-    "targetId": "792"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Terry Cox",
-    "targetId": "801"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Caleb Quaye",
-    "targetId": "806"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Roger Pope",
-    "targetId": "807"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Richard Perry",
-    "targetId": "987"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Jimmy Webb",
-    "targetId": "998"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Marc Bolan",
-    "targetId": "1825"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Tony Newman",
-    "targetId": "2909"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Bud Beadle",
-    "targetId": "2910"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Miller Anderson",
-    "targetId": "2912"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Dino Dines",
-    "targetId": "2913"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Chris Mercer",
-    "targetId": "2914"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Alfalpha",
-    "targetId": "2916"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Steve Harley",
-    "targetId": "2919"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Eartha Kitt",
-    "targetId": "3115"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Alf Bidgen",
-    "targetId": "3116"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Chris Rae",
-    "targetId": "3117"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Cliff Hall",
-    "targetId": "3118"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Gary Kettel",
-    "targetId": "3119"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Ronnie Price",
-    "targetId": "3120"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Duncan Lamont",
-    "targetId": "3121"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Mark Nightingale",
-    "targetId": "3122"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Sid Gauld",
-    "targetId": "3123"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Harry Nilsson",
-    "targetId": "3193"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "John Uribe",
-    "targetId": "3194"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Chris Spedding",
-    "targetId": "3195"
-  },
-  {
-    "source": "Herbie Flowers",
-    "target": "Ian Duck",
-    "targetId": "3200"
-  }
-]
+{
+  "source": "Herbie Flowers",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Rick Wakeman",
+      "targetId": "792"
+    },
+    {
+      "name": "Terry Cox",
+      "targetId": "801"
+    },
+    {
+      "name": "Caleb Quaye",
+      "targetId": "806"
+    },
+    {
+      "name": "Roger Pope",
+      "targetId": "807"
+    },
+    {
+      "name": "Richard Perry",
+      "targetId": "987"
+    },
+    {
+      "name": "Jimmy Webb",
+      "targetId": "998"
+    },
+    {
+      "name": "Marc Bolan",
+      "targetId": "1825"
+    },
+    {
+      "name": "Tony Newman",
+      "targetId": "2909"
+    },
+    {
+      "name": "Bud Beadle",
+      "targetId": "2910"
+    },
+    {
+      "name": "Miller Anderson",
+      "targetId": "2912"
+    },
+    {
+      "name": "Dino Dines",
+      "targetId": "2913"
+    },
+    {
+      "name": "Chris Mercer",
+      "targetId": "2914"
+    },
+    {
+      "name": "Alfalpha",
+      "targetId": "2916"
+    },
+    {
+      "name": "Steve Harley",
+      "targetId": "2919"
+    },
+    {
+      "name": "Eartha Kitt",
+      "targetId": "3115"
+    },
+    {
+      "name": "Alf Bidgen",
+      "targetId": "3116"
+    },
+    {
+      "name": "Chris Rae",
+      "targetId": "3117"
+    },
+    {
+      "name": "Cliff Hall",
+      "targetId": "3118"
+    },
+    {
+      "name": "Gary Kettel",
+      "targetId": "3119"
+    },
+    {
+      "name": "Ronnie Price",
+      "targetId": "3120"
+    },
+    {
+      "name": "Duncan Lamont",
+      "targetId": "3121"
+    },
+    {
+      "name": "Mark Nightingale",
+      "targetId": "3122"
+    },
+    {
+      "name": "Sid Gauld",
+      "targetId": "3123"
+    },
+    {
+      "name": "Harry Nilsson",
+      "targetId": "3193"
+    },
+    {
+      "name": "John Uribe",
+      "targetId": "3194"
+    },
+    {
+      "name": "Chris Spedding",
+      "targetId": "3195"
+    },
+    {
+      "name": "Ian Duck",
+      "targetId": "3200"
+    }
+  ]
+}

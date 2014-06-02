@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Francis Howard",
-    "target": "Chris Barnes",
-    "targetId": "2165"
-  },
-  {
-    "source": "Francis Howard",
-    "target": "Glen Benton",
-    "targetId": "2167"
-  },
-  {
-    "source": "Francis Howard",
-    "target": "Paul Mazurkiewicz",
-    "targetId": "2168"
-  },
-  {
-    "source": "Francis Howard",
-    "target": "Alex Webster",
-    "targetId": "2169"
-  },
-  {
-    "source": "Francis Howard",
-    "target": "Jack Owen",
-    "targetId": "2170"
-  },
-  {
-    "source": "Francis Howard",
-    "target": "Bob Rusay",
-    "targetId": "2171"
-  }
-]
+{
+  "source": "Francis Howard",
+  "targets": [
+    {
+      "name": "Chris Barnes",
+      "targetId": "2165"
+    },
+    {
+      "name": "Glen Benton",
+      "targetId": "2167"
+    },
+    {
+      "name": "Paul Mazurkiewicz",
+      "targetId": "2168"
+    },
+    {
+      "name": "Alex Webster",
+      "targetId": "2169"
+    },
+    {
+      "name": "Jack Owen",
+      "targetId": "2170"
+    },
+    {
+      "name": "Bob Rusay",
+      "targetId": "2171"
+    }
+  ]
+}

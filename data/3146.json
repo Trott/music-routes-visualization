@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Chuck Lindo",
-    "target": "East Bay Ray",
-    "targetId": "2122"
-  },
-  {
-    "source": "Chuck Lindo",
-    "target": "Klaus Flouride",
-    "targetId": "2123"
-  },
-  {
-    "source": "Chuck Lindo",
-    "target": "Dave Scheff",
-    "targetId": "3147"
-  },
-  {
-    "source": "Chuck Lindo",
-    "target": "John Singer",
-    "targetId": "3148"
-  }
-]
+{
+  "source": "Chuck Lindo",
+  "targets": [
+    {
+      "name": "East Bay Ray",
+      "targetId": "2122"
+    },
+    {
+      "name": "Klaus Flouride",
+      "targetId": "2123"
+    },
+    {
+      "name": "Dave Scheff",
+      "targetId": "3147"
+    },
+    {
+      "name": "John Singer",
+      "targetId": "3148"
+    }
+  ]
+}

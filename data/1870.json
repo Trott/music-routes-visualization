@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Peter Kaukonen",
-    "target": "Grace Slick",
-    "targetId": "738"
-  },
-  {
-    "source": "Peter Kaukonen",
-    "target": "Paul Kantner",
-    "targetId": "1868"
-  },
-  {
-    "source": "Peter Kaukonen",
-    "target": "Joey Covington",
-    "targetId": "1871"
-  }
-]
+{
+  "source": "Peter Kaukonen",
+  "targets": [
+    {
+      "name": "Grace Slick",
+      "targetId": "738"
+    },
+    {
+      "name": "Paul Kantner",
+      "targetId": "1868"
+    },
+    {
+      "name": "Joey Covington",
+      "targetId": "1871"
+    }
+  ]
+}

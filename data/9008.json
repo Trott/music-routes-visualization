@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Kevin McGinnis",
-    "target": "Drew Thomas",
-    "targetId": "9004"
-  },
-  {
-    "source": "Kevin McGinnis",
-    "target": "Jim Kimball",
-    "targetId": "9007"
-  },
-  {
-    "source": "Kevin McGinnis",
-    "target": "Garrett Klahn",
-    "targetId": "9009"
-  }
-]
+{
+  "source": "Kevin McGinnis",
+  "targets": [
+    {
+      "name": "Drew Thomas",
+      "targetId": "9004"
+    },
+    {
+      "name": "Jim Kimball",
+      "targetId": "9007"
+    },
+    {
+      "name": "Garrett Klahn",
+      "targetId": "9009"
+    }
+  ]
+}

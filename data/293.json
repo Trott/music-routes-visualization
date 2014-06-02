@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Paul Burch",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Paul Burch",
-    "target": "Charlie Louvin",
-    "targetId": "290"
-  },
-  {
-    "source": "Paul Burch",
-    "target": "Peter Cummings",
-    "targetId": "291"
-  },
-  {
-    "source": "Paul Burch",
-    "target": "David Russell",
-    "targetId": "292"
-  },
-  {
-    "source": "Paul Burch",
-    "target": "Mac McCaughan",
-    "targetId": "2855"
-  }
-]
+{
+  "source": "Paul Burch",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Charlie Louvin",
+      "targetId": "290"
+    },
+    {
+      "name": "Peter Cummings",
+      "targetId": "291"
+    },
+    {
+      "name": "David Russell",
+      "targetId": "292"
+    },
+    {
+      "name": "Mac McCaughan",
+      "targetId": "2855"
+    }
+  ]
+}

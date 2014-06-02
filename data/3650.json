@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Turner",
-    "target": "Mark Arm",
-    "targetId": "3649"
-  },
-  {
-    "source": "Steve Turner",
-    "target": "Matt Lukin",
-    "targetId": "3651"
-  },
-  {
-    "source": "Steve Turner",
-    "target": "Dan Peters",
-    "targetId": "3652"
-  },
-  {
-    "source": "Steve Turner",
-    "target": "Sir Mix-A-Lot",
-    "targetId": "3653"
-  }
-]
+{
+  "source": "Steve Turner",
+  "targets": [
+    {
+      "name": "Mark Arm",
+      "targetId": "3649"
+    },
+    {
+      "name": "Matt Lukin",
+      "targetId": "3651"
+    },
+    {
+      "name": "Dan Peters",
+      "targetId": "3652"
+    },
+    {
+      "name": "Sir Mix-A-Lot",
+      "targetId": "3653"
+    }
+  ]
+}

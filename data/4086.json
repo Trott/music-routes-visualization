@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Charles Fambrough",
-    "target": "Wynton Marsalis",
-    "targetId": "4082"
-  },
-  {
-    "source": "Charles Fambrough",
-    "target": "Branford Marsalis",
-    "targetId": "4083"
-  },
-  {
-    "source": "Charles Fambrough",
-    "target": "Kenny Kirkland",
-    "targetId": "4084"
-  },
-  {
-    "source": "Charles Fambrough",
-    "target": "Jeff \"Tain\" Watts",
-    "targetId": "4085"
-  }
-]
+{
+  "source": "Charles Fambrough",
+  "targets": [
+    {
+      "name": "Wynton Marsalis",
+      "targetId": "4082"
+    },
+    {
+      "name": "Branford Marsalis",
+      "targetId": "4083"
+    },
+    {
+      "name": "Kenny Kirkland",
+      "targetId": "4084"
+    },
+    {
+      "name": "Jeff \"Tain\" Watts",
+      "targetId": "4085"
+    }
+  ]
+}

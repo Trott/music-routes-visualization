@@ -1,157 +1,129 @@
-[
-  {
-    "source": "John McCurry",
-    "target": "Joe Lynn Turner",
-    "targetId": "323"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Jerry Marotta",
-    "targetId": "661"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Alice Cooper",
-    "targetId": "1285"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Hugh McDonald",
-    "targetId": "1288"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Will Lee",
-    "targetId": "1419"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Chris Parker",
-    "targetId": "3224"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Cher",
-    "targetId": "3456"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Patty Darcy",
-    "targetId": "3457"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Doug Katsaros",
-    "targetId": "3459"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Jeff Bova",
-    "targetId": "3460"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Phil Ashley",
-    "targetId": "3461"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Chuck Kentis",
-    "targetId": "3463"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Desmond Child",
-    "targetId": "3466"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Louis Merlino",
-    "targetId": "3468"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Myriam Valle",
-    "targetId": "3469"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Diana Graselli",
-    "targetId": "3470"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Elaine Caswell",
-    "targetId": "3471"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Seth Glassman",
-    "targetId": "3472"
-  },
-  {
-    "source": "John McCurry",
-    "target": "John Putnam",
-    "targetId": "3473"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Bette Sussman",
-    "targetId": "3474"
-  },
-  {
-    "source": "John McCurry",
-    "target": "John Siegler",
-    "targetId": "3475"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Gregg Mangiafico",
-    "targetId": "3476"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Diane Warren",
-    "targetId": "3477"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Jimmy Bralower",
-    "targetId": "3478"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Bonnie Tyler",
-    "targetId": "3479"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Darlene Love",
-    "targetId": "3480"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Vicki Sue Robinson",
-    "targetId": "3486"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Ira Siegel",
-    "targetId": "3487"
-  },
-  {
-    "source": "John McCurry",
-    "target": "Bobby Chouinard",
-    "targetId": "3769"
-  }
-]
+{
+  "source": "John McCurry",
+  "targets": [
+    {
+      "name": "Joe Lynn Turner",
+      "targetId": "323"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Jerry Marotta",
+      "targetId": "661"
+    },
+    {
+      "name": "Alice Cooper",
+      "targetId": "1285"
+    },
+    {
+      "name": "Hugh McDonald",
+      "targetId": "1288"
+    },
+    {
+      "name": "Will Lee",
+      "targetId": "1419"
+    },
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "Chris Parker",
+      "targetId": "3224"
+    },
+    {
+      "name": "Cher",
+      "targetId": "3456"
+    },
+    {
+      "name": "Patty Darcy",
+      "targetId": "3457"
+    },
+    {
+      "name": "Doug Katsaros",
+      "targetId": "3459"
+    },
+    {
+      "name": "Jeff Bova",
+      "targetId": "3460"
+    },
+    {
+      "name": "Phil Ashley",
+      "targetId": "3461"
+    },
+    {
+      "name": "Chuck Kentis",
+      "targetId": "3463"
+    },
+    {
+      "name": "Desmond Child",
+      "targetId": "3466"
+    },
+    {
+      "name": "Louis Merlino",
+      "targetId": "3468"
+    },
+    {
+      "name": "Myriam Valle",
+      "targetId": "3469"
+    },
+    {
+      "name": "Diana Graselli",
+      "targetId": "3470"
+    },
+    {
+      "name": "Elaine Caswell",
+      "targetId": "3471"
+    },
+    {
+      "name": "Seth Glassman",
+      "targetId": "3472"
+    },
+    {
+      "name": "John Putnam",
+      "targetId": "3473"
+    },
+    {
+      "name": "Bette Sussman",
+      "targetId": "3474"
+    },
+    {
+      "name": "John Siegler",
+      "targetId": "3475"
+    },
+    {
+      "name": "Gregg Mangiafico",
+      "targetId": "3476"
+    },
+    {
+      "name": "Diane Warren",
+      "targetId": "3477"
+    },
+    {
+      "name": "Jimmy Bralower",
+      "targetId": "3478"
+    },
+    {
+      "name": "Bonnie Tyler",
+      "targetId": "3479"
+    },
+    {
+      "name": "Darlene Love",
+      "targetId": "3480"
+    },
+    {
+      "name": "Vicki Sue Robinson",
+      "targetId": "3486"
+    },
+    {
+      "name": "Ira Siegel",
+      "targetId": "3487"
+    },
+    {
+      "name": "Bobby Chouinard",
+      "targetId": "3769"
+    }
+  ]
+}

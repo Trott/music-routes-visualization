@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Don Howland",
-    "target": "Jon Spencer",
-    "targetId": "1975"
-  },
-  {
-    "source": "Don Howland",
-    "target": "Jeffrey Evans",
-    "targetId": "4985"
-  },
-  {
-    "source": "Don Howland",
-    "target": "Rich Lillash",
-    "targetId": "4990"
-  },
-  {
-    "source": "Don Howland",
-    "target": "Ross Johnson",
-    "targetId": "4991"
-  }
-]
+{
+  "source": "Don Howland",
+  "targets": [
+    {
+      "name": "Jon Spencer",
+      "targetId": "1975"
+    },
+    {
+      "name": "Jeffrey Evans",
+      "targetId": "4985"
+    },
+    {
+      "name": "Rich Lillash",
+      "targetId": "4990"
+    },
+    {
+      "name": "Ross Johnson",
+      "targetId": "4991"
+    }
+  ]
+}

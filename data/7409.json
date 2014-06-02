@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Bob Ramos",
-    "target": "Joel Godfrey Primer",
-    "targetId": "7323"
-  },
-  {
-    "source": "Bob Ramos",
-    "target": "Matt Snyder",
-    "targetId": "7324"
-  },
-  {
-    "source": "Bob Ramos",
-    "target": "Nick Clemons",
-    "targetId": "7406"
-  },
-  {
-    "source": "Bob Ramos",
-    "target": "Sly Geralds",
-    "targetId": "7407"
-  },
-  {
-    "source": "Bob Ramos",
-    "target": "Karen Teperberg",
-    "targetId": "7408"
-  },
-  {
-    "source": "Bob Ramos",
-    "target": "Ronnie Paige",
-    "targetId": "7410"
-  }
-]
+{
+  "source": "Bob Ramos",
+  "targets": [
+    {
+      "name": "Joel Godfrey Primer",
+      "targetId": "7323"
+    },
+    {
+      "name": "Matt Snyder",
+      "targetId": "7324"
+    },
+    {
+      "name": "Nick Clemons",
+      "targetId": "7406"
+    },
+    {
+      "name": "Sly Geralds",
+      "targetId": "7407"
+    },
+    {
+      "name": "Karen Teperberg",
+      "targetId": "7408"
+    },
+    {
+      "name": "Ronnie Paige",
+      "targetId": "7410"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Demi Lovato",
-    "target": "Miley Cyrus",
-    "targetId": "3857"
-  },
-  {
-    "source": "Demi Lovato",
-    "target": "Nick Jonas",
-    "targetId": "5868"
-  },
-  {
-    "source": "Demi Lovato",
-    "target": "Joe Jonas",
-    "targetId": "5869"
-  },
-  {
-    "source": "Demi Lovato",
-    "target": "Kevin Jonas",
-    "targetId": "5870"
-  },
-  {
-    "source": "Demi Lovato",
-    "target": "Selena Gomez",
-    "targetId": "8804"
-  }
-]
+{
+  "source": "Demi Lovato",
+  "targets": [
+    {
+      "name": "Miley Cyrus",
+      "targetId": "3857"
+    },
+    {
+      "name": "Nick Jonas",
+      "targetId": "5868"
+    },
+    {
+      "name": "Joe Jonas",
+      "targetId": "5869"
+    },
+    {
+      "name": "Kevin Jonas",
+      "targetId": "5870"
+    },
+    {
+      "name": "Selena Gomez",
+      "targetId": "8804"
+    }
+  ]
+}

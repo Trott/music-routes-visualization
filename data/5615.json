@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Sloman",
-    "target": "Ken Hensley",
-    "targetId": "487"
-  },
-  {
-    "source": "John Sloman",
-    "target": "Trevor Bolder",
-    "targetId": "793"
-  },
-  {
-    "source": "John Sloman",
-    "target": "Chris Slade",
-    "targetId": "940"
-  },
-  {
-    "source": "John Sloman",
-    "target": "Mick Box",
-    "targetId": "3695"
-  }
-]
+{
+  "source": "John Sloman",
+  "targets": [
+    {
+      "name": "Ken Hensley",
+      "targetId": "487"
+    },
+    {
+      "name": "Trevor Bolder",
+      "targetId": "793"
+    },
+    {
+      "name": "Chris Slade",
+      "targetId": "940"
+    },
+    {
+      "name": "Mick Box",
+      "targetId": "3695"
+    }
+  ]
+}

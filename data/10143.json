@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Vic McMillan",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Vic McMillan",
-    "target": "Lucky Thompson",
-    "targetId": "1930"
-  },
-  {
-    "source": "Vic McMillan",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Vic McMillan",
-    "target": "Roy Porter",
-    "targetId": "10141"
-  },
-  {
-    "source": "Vic McMillan",
-    "target": "Dodo Marmarosa",
-    "targetId": "10142"
-  },
-  {
-    "source": "Vic McMillan",
-    "target": "Arv Garrison",
-    "targetId": "10144"
-  }
-]
+{
+  "source": "Vic McMillan",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Lucky Thompson",
+      "targetId": "1930"
+    },
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Roy Porter",
+      "targetId": "10141"
+    },
+    {
+      "name": "Dodo Marmarosa",
+      "targetId": "10142"
+    },
+    {
+      "name": "Arv Garrison",
+      "targetId": "10144"
+    }
+  ]
+}

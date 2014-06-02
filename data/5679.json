@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brendan Canty",
-    "target": "Ian MacKaye",
-    "targetId": "3156"
-  },
-  {
-    "source": "Brendan Canty",
-    "target": "Joe Lally",
-    "targetId": "5677"
-  },
-  {
-    "source": "Brendan Canty",
-    "target": "Guy Picciotto",
-    "targetId": "5678"
-  }
-]
+{
+  "source": "Brendan Canty",
+  "targets": [
+    {
+      "name": "Ian MacKaye",
+      "targetId": "3156"
+    },
+    {
+      "name": "Joe Lally",
+      "targetId": "5677"
+    },
+    {
+      "name": "Guy Picciotto",
+      "targetId": "5678"
+    }
+  ]
+}

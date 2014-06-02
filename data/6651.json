@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tony Williams",
-    "target": "Kanye West",
-    "targetId": "4031"
-  },
-  {
-    "source": "Tony Williams",
-    "target": "Jay-Z",
-    "targetId": "4339"
-  },
-  {
-    "source": "Tony Williams",
-    "target": "Andy Chatterley",
-    "targetId": "6650"
-  },
-  {
-    "source": "Tony Williams",
-    "target": "Connie Mitchell",
-    "targetId": "6652"
-  },
-  {
-    "source": "Tony Williams",
-    "target": "DJ Premier",
-    "targetId": "6657"
-  }
-]
+{
+  "source": "Tony Williams",
+  "targets": [
+    {
+      "name": "Kanye West",
+      "targetId": "4031"
+    },
+    {
+      "name": "Jay-Z",
+      "targetId": "4339"
+    },
+    {
+      "name": "Andy Chatterley",
+      "targetId": "6650"
+    },
+    {
+      "name": "Connie Mitchell",
+      "targetId": "6652"
+    },
+    {
+      "name": "DJ Premier",
+      "targetId": "6657"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "George Wallington",
-    "target": "Phil Woods",
-    "targetId": "7253"
-  },
-  {
-    "source": "George Wallington",
-    "target": "Donald Byrd",
-    "targetId": "7257"
-  },
-  {
-    "source": "George Wallington",
-    "target": "Knobby Totah",
-    "targetId": "7945"
-  },
-  {
-    "source": "George Wallington",
-    "target": "Nick Stabulas",
-    "targetId": "7946"
-  }
-]
+{
+  "source": "George Wallington",
+  "targets": [
+    {
+      "name": "Phil Woods",
+      "targetId": "7253"
+    },
+    {
+      "name": "Donald Byrd",
+      "targetId": "7257"
+    },
+    {
+      "name": "Knobby Totah",
+      "targetId": "7945"
+    },
+    {
+      "name": "Nick Stabulas",
+      "targetId": "7946"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Andy Bell",
-    "target": "Guy Barker",
-    "targetId": "4622"
-  },
-  {
-    "source": "Andy Bell",
-    "target": "Vince Clarke",
-    "targetId": "8802"
-  }
-]
+{
+  "source": "Andy Bell",
+  "targets": [
+    {
+      "name": "Guy Barker",
+      "targetId": "4622"
+    },
+    {
+      "name": "Vince Clarke",
+      "targetId": "8802"
+    }
+  ]
+}

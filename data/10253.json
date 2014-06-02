@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Peter Lucia",
-    "target": "Tommy James",
-    "targetId": "10251"
-  },
-  {
-    "source": "Peter Lucia",
-    "target": "Mike Vale",
-    "targetId": "10252"
-  }
-]
+{
+  "source": "Peter Lucia",
+  "targets": [
+    {
+      "name": "Tommy James",
+      "targetId": "10251"
+    },
+    {
+      "name": "Mike Vale",
+      "targetId": "10252"
+    }
+  ]
+}

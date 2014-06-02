@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Paul Reller",
-    "target": "Dale Flattum",
-    "targetId": "3520"
-  },
-  {
-    "source": "Paul Reller",
-    "target": "Mike Morasky",
-    "targetId": "3521"
-  }
-]
+{
+  "source": "Paul Reller",
+  "targets": [
+    {
+      "name": "Dale Flattum",
+      "targetId": "3520"
+    },
+    {
+      "name": "Mike Morasky",
+      "targetId": "3521"
+    }
+  ]
+}

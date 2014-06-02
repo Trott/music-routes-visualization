@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Candy Bell",
-    "target": "Lisa Lisa",
-    "targetId": "8818"
-  },
-  {
-    "source": "Candy Bell",
-    "target": "Debbe Cole",
-    "targetId": "8834"
-  },
-  {
-    "source": "Candy Bell",
-    "target": "Lydia Rhodes",
-    "targetId": "8835"
-  }
-]
+{
+  "source": "Candy Bell",
+  "targets": [
+    {
+      "name": "Lisa Lisa",
+      "targetId": "8818"
+    },
+    {
+      "name": "Debbe Cole",
+      "targetId": "8834"
+    },
+    {
+      "name": "Lydia Rhodes",
+      "targetId": "8835"
+    }
+  ]
+}

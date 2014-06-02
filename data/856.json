@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Andy Fraser",
-    "target": "Robert Palmer",
-    "targetId": "851"
-  },
-  {
-    "source": "Andy Fraser",
-    "target": "Jack Waldman",
-    "targetId": "852"
-  },
-  {
-    "source": "Andy Fraser",
-    "target": "Dony Wynn",
-    "targetId": "853"
-  },
-  {
-    "source": "Andy Fraser",
-    "target": "Kenny Mazur",
-    "targetId": "855"
-  }
-]
+{
+  "source": "Andy Fraser",
+  "targets": [
+    {
+      "name": "Robert Palmer",
+      "targetId": "851"
+    },
+    {
+      "name": "Jack Waldman",
+      "targetId": "852"
+    },
+    {
+      "name": "Dony Wynn",
+      "targetId": "853"
+    },
+    {
+      "name": "Kenny Mazur",
+      "targetId": "855"
+    }
+  ]
+}

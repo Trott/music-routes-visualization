@@ -1,192 +1,157 @@
-[
-  {
-    "source": "George Duke",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "George Duke",
-    "target": "Aynsley Dunbar",
-    "targetId": "264"
-  },
-  {
-    "source": "George Duke",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "George Duke",
-    "target": "Ernie Watts",
-    "targetId": "413"
-  },
-  {
-    "source": "George Duke",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "George Duke",
-    "target": "Bruce Fowler",
-    "targetId": "432"
-  },
-  {
-    "source": "George Duke",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "George Duke",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "George Duke",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "George Duke",
-    "target": "Ian Underwood",
-    "targetId": "816"
-  },
-  {
-    "source": "George Duke",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "George Duke",
-    "target": "Kim Hutchcroft",
-    "targetId": "1324"
-  },
-  {
-    "source": "George Duke",
-    "target": "Tom Fowler",
-    "targetId": "1325"
-  },
-  {
-    "source": "George Duke",
-    "target": "Chester Thompson",
-    "targetId": "1326"
-  },
-  {
-    "source": "George Duke",
-    "target": "Ruth Underwood",
-    "targetId": "1328"
-  },
-  {
-    "source": "George Duke",
-    "target": "Napoleon Muphy Brock",
-    "targetId": "1329"
-  },
-  {
-    "source": "George Duke",
-    "target": "Tony Duran",
-    "targetId": "1331"
-  },
-  {
-    "source": "George Duke",
-    "target": "Ralph Humphrey",
-    "targetId": "1353"
-  },
-  {
-    "source": "George Duke",
-    "target": "Sal Marquez",
-    "targetId": "1354"
-  },
-  {
-    "source": "George Duke",
-    "target": "Jean-Luc Ponty",
-    "targetId": "1355"
-  },
-  {
-    "source": "George Duke",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "George Duke",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "George Duke",
-    "target": "Howard Kaylan",
-    "targetId": "1829"
-  },
-  {
-    "source": "George Duke",
-    "target": "Mark Volman",
-    "targetId": "1830"
-  },
-  {
-    "source": "George Duke",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "George Duke",
-    "target": "Louis Johnson",
-    "targetId": "3397"
-  },
-  {
-    "source": "George Duke",
-    "target": "Jeff Simmons",
-    "targetId": "4403"
-  },
-  {
-    "source": "George Duke",
-    "target": "Joel Peskin",
-    "targetId": "4514"
-  },
-  {
-    "source": "George Duke",
-    "target": "Lauren Wood",
-    "targetId": "4615"
-  },
-  {
-    "source": "George Duke",
-    "target": "Alex Dmochowski",
-    "targetId": "4616"
-  },
-  {
-    "source": "George Duke",
-    "target": "Ken Shroyer",
-    "targetId": "4617"
-  },
-  {
-    "source": "George Duke",
-    "target": "Mike Altschul",
-    "targetId": "4618"
-  },
-  {
-    "source": "George Duke",
-    "target": "David Williams",
-    "targetId": "4665"
-  },
-  {
-    "source": "George Duke",
-    "target": "Herb Ellis",
-    "targetId": "7153"
-  },
-  {
-    "source": "George Duke",
-    "target": "Harry \"Sweets\" Edison",
-    "targetId": "7155"
-  },
-  {
-    "source": "George Duke",
-    "target": "Lee Clement",
-    "targetId": "7939"
-  },
-  {
-    "source": "George Duke",
-    "target": "Marlo Henderson",
-    "targetId": "8306"
-  },
-  {
-    "source": "George Duke",
-    "target": "Jake Hanna",
-    "targetId": "8675"
-  }
-]
+{
+  "source": "George Duke",
+  "targets": [
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Aynsley Dunbar",
+      "targetId": "264"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "Ernie Watts",
+      "targetId": "413"
+    },
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Bruce Fowler",
+      "targetId": "432"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Ian Underwood",
+      "targetId": "816"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Kim Hutchcroft",
+      "targetId": "1324"
+    },
+    {
+      "name": "Tom Fowler",
+      "targetId": "1325"
+    },
+    {
+      "name": "Chester Thompson",
+      "targetId": "1326"
+    },
+    {
+      "name": "Ruth Underwood",
+      "targetId": "1328"
+    },
+    {
+      "name": "Napoleon Muphy Brock",
+      "targetId": "1329"
+    },
+    {
+      "name": "Tony Duran",
+      "targetId": "1331"
+    },
+    {
+      "name": "Ralph Humphrey",
+      "targetId": "1353"
+    },
+    {
+      "name": "Sal Marquez",
+      "targetId": "1354"
+    },
+    {
+      "name": "Jean-Luc Ponty",
+      "targetId": "1355"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Howard Kaylan",
+      "targetId": "1829"
+    },
+    {
+      "name": "Mark Volman",
+      "targetId": "1830"
+    },
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Louis Johnson",
+      "targetId": "3397"
+    },
+    {
+      "name": "Jeff Simmons",
+      "targetId": "4403"
+    },
+    {
+      "name": "Joel Peskin",
+      "targetId": "4514"
+    },
+    {
+      "name": "Lauren Wood",
+      "targetId": "4615"
+    },
+    {
+      "name": "Alex Dmochowski",
+      "targetId": "4616"
+    },
+    {
+      "name": "Ken Shroyer",
+      "targetId": "4617"
+    },
+    {
+      "name": "Mike Altschul",
+      "targetId": "4618"
+    },
+    {
+      "name": "David Williams",
+      "targetId": "4665"
+    },
+    {
+      "name": "Herb Ellis",
+      "targetId": "7153"
+    },
+    {
+      "name": "Harry \"Sweets\" Edison",
+      "targetId": "7155"
+    },
+    {
+      "name": "Lee Clement",
+      "targetId": "7939"
+    },
+    {
+      "name": "Marlo Henderson",
+      "targetId": "8306"
+    },
+    {
+      "name": "Jake Hanna",
+      "targetId": "8675"
+    }
+  ]
+}

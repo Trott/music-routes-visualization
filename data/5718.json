@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tommy Victor",
-    "target": "Glenn Danzig",
-    "targetId": "2389"
-  },
-  {
-    "source": "Tommy Victor",
-    "target": "Troy Gregory",
-    "targetId": "5715"
-  },
-  {
-    "source": "Tommy Victor",
-    "target": "Ted Parsons",
-    "targetId": "5717"
-  },
-  {
-    "source": "Tommy Victor",
-    "target": "Jerry Montano",
-    "targetId": "5719"
-  },
-  {
-    "source": "Tommy Victor",
-    "target": "Bevan Davies",
-    "targetId": "5720"
-  }
-]
+{
+  "source": "Tommy Victor",
+  "targets": [
+    {
+      "name": "Glenn Danzig",
+      "targetId": "2389"
+    },
+    {
+      "name": "Troy Gregory",
+      "targetId": "5715"
+    },
+    {
+      "name": "Ted Parsons",
+      "targetId": "5717"
+    },
+    {
+      "name": "Jerry Montano",
+      "targetId": "5719"
+    },
+    {
+      "name": "Bevan Davies",
+      "targetId": "5720"
+    }
+  ]
+}

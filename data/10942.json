@@ -1,12 +1,13 @@
-[
-  {
-    "source": "David Kilgour",
-    "target": "Robert Scott",
-    "targetId": "2857"
-  },
-  {
-    "source": "David Kilgour",
-    "target": "Hamish Kilgour",
-    "targetId": "10943"
-  }
-]
+{
+  "source": "David Kilgour",
+  "targets": [
+    {
+      "name": "Robert Scott",
+      "targetId": "2857"
+    },
+    {
+      "name": "Hamish Kilgour",
+      "targetId": "10943"
+    }
+  ]
+}

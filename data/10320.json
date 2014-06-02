@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jenny Scheinman",
-    "target": "Norah Jones",
-    "targetId": "2219"
-  },
-  {
-    "source": "Jenny Scheinman",
-    "target": "Brian Blade",
-    "targetId": "5463"
-  },
-  {
-    "source": "Jenny Scheinman",
-    "target": "Jesse Harris",
-    "targetId": "8845"
-  },
-  {
-    "source": "Jenny Scheinman",
-    "target": "Dan Rieser",
-    "targetId": "10314"
-  },
-  {
-    "source": "Jenny Scheinman",
-    "target": "Lee Alexander",
-    "targetId": "10315"
-  },
-  {
-    "source": "Jenny Scheinman",
-    "target": "Adam Levy",
-    "targetId": "10317"
-  },
-  {
-    "source": "Jenny Scheinman",
-    "target": "Sam Yahel",
-    "targetId": "10318"
-  }
-]
+{
+  "source": "Jenny Scheinman",
+  "targets": [
+    {
+      "name": "Norah Jones",
+      "targetId": "2219"
+    },
+    {
+      "name": "Brian Blade",
+      "targetId": "5463"
+    },
+    {
+      "name": "Jesse Harris",
+      "targetId": "8845"
+    },
+    {
+      "name": "Dan Rieser",
+      "targetId": "10314"
+    },
+    {
+      "name": "Lee Alexander",
+      "targetId": "10315"
+    },
+    {
+      "name": "Adam Levy",
+      "targetId": "10317"
+    },
+    {
+      "name": "Sam Yahel",
+      "targetId": "10318"
+    }
+  ]
+}

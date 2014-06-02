@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Tony Hall",
-    "target": "Sheena Easton",
-    "targetId": "2658"
-  },
-  {
-    "source": "Tony Hall",
-    "target": "Peter van Hooke",
-    "targetId": "6467"
-  },
-  {
-    "source": "Tony Hall",
-    "target": "Andy Brown",
-    "targetId": "10321"
-  }
-]
+{
+  "source": "Tony Hall",
+  "targets": [
+    {
+      "name": "Sheena Easton",
+      "targetId": "2658"
+    },
+    {
+      "name": "Peter van Hooke",
+      "targetId": "6467"
+    },
+    {
+      "name": "Andy Brown",
+      "targetId": "10321"
+    }
+  ]
+}

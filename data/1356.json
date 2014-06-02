@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Animal",
-    "target": "Ken Wild",
-    "targetId": "1319"
-  },
-  {
-    "source": "Animal",
-    "target": "Ralph Humphrey",
-    "targetId": "1353"
-  },
-  {
-    "source": "Animal",
-    "target": "Dr. Teeth",
-    "targetId": "2390"
-  },
-  {
-    "source": "Animal",
-    "target": "Sgt. Floyd Pepper",
-    "targetId": "2391"
-  },
-  {
-    "source": "Animal",
-    "target": "Janice",
-    "targetId": "2392"
-  },
-  {
-    "source": "Animal",
-    "target": "Zoot",
-    "targetId": "2393"
-  },
-  {
-    "source": "Animal",
-    "target": "David Garland",
-    "targetId": "2394"
-  }
-]
+{
+  "source": "Animal",
+  "targets": [
+    {
+      "name": "Ken Wild",
+      "targetId": "1319"
+    },
+    {
+      "name": "Ralph Humphrey",
+      "targetId": "1353"
+    },
+    {
+      "name": "Dr. Teeth",
+      "targetId": "2390"
+    },
+    {
+      "name": "Sgt. Floyd Pepper",
+      "targetId": "2391"
+    },
+    {
+      "name": "Janice",
+      "targetId": "2392"
+    },
+    {
+      "name": "Zoot",
+      "targetId": "2393"
+    },
+    {
+      "name": "David Garland",
+      "targetId": "2394"
+    }
+  ]
+}

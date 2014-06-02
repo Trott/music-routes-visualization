@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Sheila Bromberg",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Stephen Shingles",
-    "targetId": "3358"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "John Underwood",
-    "targetId": "3359"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Gordon Pearce",
-    "targetId": "9757"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Alan Dalziel",
-    "targetId": "9758"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Dennis Vigay",
-    "targetId": "9759"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Jose Luis Garcia",
-    "targetId": "9760"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Erich Gruenberg",
-    "targetId": "9761"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Derek Jacobs",
-    "targetId": "9762"
-  },
-  {
-    "source": "Sheila Bromberg",
-    "target": "Trevor Williams",
-    "targetId": "9763"
-  }
-]
+{
+  "source": "Sheila Bromberg",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Stephen Shingles",
+      "targetId": "3358"
+    },
+    {
+      "name": "John Underwood",
+      "targetId": "3359"
+    },
+    {
+      "name": "Gordon Pearce",
+      "targetId": "9757"
+    },
+    {
+      "name": "Alan Dalziel",
+      "targetId": "9758"
+    },
+    {
+      "name": "Dennis Vigay",
+      "targetId": "9759"
+    },
+    {
+      "name": "Jose Luis Garcia",
+      "targetId": "9760"
+    },
+    {
+      "name": "Erich Gruenberg",
+      "targetId": "9761"
+    },
+    {
+      "name": "Derek Jacobs",
+      "targetId": "9762"
+    },
+    {
+      "name": "Trevor Williams",
+      "targetId": "9763"
+    }
+  ]
+}

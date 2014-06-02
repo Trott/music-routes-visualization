@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Grandpa Jones",
-    "target": "Alton Delmore",
-    "targetId": "238"
-  },
-  {
-    "source": "Grandpa Jones",
-    "target": "Rabon Delmore",
-    "targetId": "239"
-  },
-  {
-    "source": "Grandpa Jones",
-    "target": "Merle Travis",
-    "targetId": "252"
-  },
-  {
-    "source": "Grandpa Jones",
-    "target": "Charlie Louvin",
-    "targetId": "290"
-  },
-  {
-    "source": "Grandpa Jones",
-    "target": "Ira Louvin",
-    "targetId": "295"
-  }
-]
+{
+  "source": "Grandpa Jones",
+  "targets": [
+    {
+      "name": "Alton Delmore",
+      "targetId": "238"
+    },
+    {
+      "name": "Rabon Delmore",
+      "targetId": "239"
+    },
+    {
+      "name": "Merle Travis",
+      "targetId": "252"
+    },
+    {
+      "name": "Charlie Louvin",
+      "targetId": "290"
+    },
+    {
+      "name": "Ira Louvin",
+      "targetId": "295"
+    }
+  ]
+}

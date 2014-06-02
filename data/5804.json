@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Joey Tempest",
-    "target": "Mic Michaeli",
-    "targetId": "5802"
-  },
-  {
-    "source": "Joey Tempest",
-    "target": "Ian Haugland",
-    "targetId": "5803"
-  },
-  {
-    "source": "Joey Tempest",
-    "target": "John Levén",
-    "targetId": "5805"
-  },
-  {
-    "source": "Joey Tempest",
-    "target": "John Norum",
-    "targetId": "5806"
-  }
-]
+{
+  "source": "Joey Tempest",
+  "targets": [
+    {
+      "name": "Mic Michaeli",
+      "targetId": "5802"
+    },
+    {
+      "name": "Ian Haugland",
+      "targetId": "5803"
+    },
+    {
+      "name": "John Levén",
+      "targetId": "5805"
+    },
+    {
+      "name": "John Norum",
+      "targetId": "5806"
+    }
+  ]
+}

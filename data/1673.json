@@ -1,197 +1,161 @@
-[
-  {
-    "source": "Carole King",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Carole King",
-    "target": "Joni Mitchell",
-    "targetId": "47"
-  },
-  {
-    "source": "Carole King",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Carole King",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Carole King",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Carole King",
-    "target": "Ernie Watts",
-    "targetId": "413"
-  },
-  {
-    "source": "Carole King",
-    "target": "Oscar Brashear",
-    "targetId": "431"
-  },
-  {
-    "source": "Carole King",
-    "target": "Russ Kunkel",
-    "targetId": "458"
-  },
-  {
-    "source": "Carole King",
-    "target": "Bobbye Hall",
-    "targetId": "507"
-  },
-  {
-    "source": "Carole King",
-    "target": "Céline Dion",
-    "targetId": "693"
-  },
-  {
-    "source": "Carole King",
-    "target": "Shania Twain",
-    "targetId": "961"
-  },
-  {
-    "source": "Carole King",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Carole King",
-    "target": "James Taylor",
-    "targetId": "991"
-  },
-  {
-    "source": "Carole King",
-    "target": "Danny Kortchmar",
-    "targetId": "1006"
-  },
-  {
-    "source": "Carole King",
-    "target": "Julia Waters",
-    "targetId": "1401"
-  },
-  {
-    "source": "Carole King",
-    "target": "Merry Clayton",
-    "targetId": "1403"
-  },
-  {
-    "source": "Carole King",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "Carole King",
-    "target": "Cheech Marin",
-    "targetId": "1669"
-  },
-  {
-    "source": "Carole King",
-    "target": "Tommy Chong",
-    "targetId": "1670"
-  },
-  {
-    "source": "Carole King",
-    "target": "Jim Karsten",
-    "targetId": "1672"
-  },
-  {
-    "source": "Carole King",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Carole King",
-    "target": "Michelle Phillips",
-    "targetId": "1675"
-  },
-  {
-    "source": "Carole King",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Carole King",
-    "target": "Gloria Estefan",
-    "targetId": "1768"
-  },
-  {
-    "source": "Carole King",
-    "target": "William Green",
-    "targetId": "3419"
-  },
-  {
-    "source": "Carole King",
-    "target": "Mike Altschul",
-    "targetId": "4618"
-  },
-  {
-    "source": "Carole King",
-    "target": "Mariah Carey",
-    "targetId": "6126"
-  },
-  {
-    "source": "Carole King",
-    "target": "Reba McEntire",
-    "targetId": "6255"
-  },
-  {
-    "source": "Carole King",
-    "target": "Charles Larkey",
-    "targetId": "8055"
-  },
-  {
-    "source": "Carole King",
-    "target": "Theresa Colderon",
-    "targetId": "8057"
-  },
-  {
-    "source": "Carole King",
-    "target": "Curtis Amy",
-    "targetId": "8058"
-  },
-  {
-    "source": "Carole King",
-    "target": "Joel O'Brien",
-    "targetId": "8059"
-  },
-  {
-    "source": "Carole King",
-    "target": "William Collete",
-    "targetId": "8060"
-  },
-  {
-    "source": "Carole King",
-    "target": "Abigale Haness",
-    "targetId": "8061"
-  },
-  {
-    "source": "Carole King",
-    "target": "Ralph Schuckett",
-    "targetId": "8062"
-  },
-  {
-    "source": "Carole King",
-    "target": "Perry Steinberg",
-    "targetId": "9499"
-  },
-  {
-    "source": "Carole King",
-    "target": "Barry Socher",
-    "targetId": "9500"
-  },
-  {
-    "source": "Carole King",
-    "target": "David Campbell",
-    "targetId": "9501"
-  },
-  {
-    "source": "Carole King",
-    "target": "Terry King",
-    "targetId": "9502"
-  }
-]
+{
+  "source": "Carole King",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Joni Mitchell",
+      "targetId": "47"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Ernie Watts",
+      "targetId": "413"
+    },
+    {
+      "name": "Oscar Brashear",
+      "targetId": "431"
+    },
+    {
+      "name": "Russ Kunkel",
+      "targetId": "458"
+    },
+    {
+      "name": "Bobbye Hall",
+      "targetId": "507"
+    },
+    {
+      "name": "Céline Dion",
+      "targetId": "693"
+    },
+    {
+      "name": "Shania Twain",
+      "targetId": "961"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "James Taylor",
+      "targetId": "991"
+    },
+    {
+      "name": "Danny Kortchmar",
+      "targetId": "1006"
+    },
+    {
+      "name": "Julia Waters",
+      "targetId": "1401"
+    },
+    {
+      "name": "Merry Clayton",
+      "targetId": "1403"
+    },
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Cheech Marin",
+      "targetId": "1669"
+    },
+    {
+      "name": "Tommy Chong",
+      "targetId": "1670"
+    },
+    {
+      "name": "Jim Karsten",
+      "targetId": "1672"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Michelle Phillips",
+      "targetId": "1675"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "Gloria Estefan",
+      "targetId": "1768"
+    },
+    {
+      "name": "William Green",
+      "targetId": "3419"
+    },
+    {
+      "name": "Mike Altschul",
+      "targetId": "4618"
+    },
+    {
+      "name": "Mariah Carey",
+      "targetId": "6126"
+    },
+    {
+      "name": "Reba McEntire",
+      "targetId": "6255"
+    },
+    {
+      "name": "Charles Larkey",
+      "targetId": "8055"
+    },
+    {
+      "name": "Theresa Colderon",
+      "targetId": "8057"
+    },
+    {
+      "name": "Curtis Amy",
+      "targetId": "8058"
+    },
+    {
+      "name": "Joel O'Brien",
+      "targetId": "8059"
+    },
+    {
+      "name": "William Collete",
+      "targetId": "8060"
+    },
+    {
+      "name": "Abigale Haness",
+      "targetId": "8061"
+    },
+    {
+      "name": "Ralph Schuckett",
+      "targetId": "8062"
+    },
+    {
+      "name": "Perry Steinberg",
+      "targetId": "9499"
+    },
+    {
+      "name": "Barry Socher",
+      "targetId": "9500"
+    },
+    {
+      "name": "David Campbell",
+      "targetId": "9501"
+    },
+    {
+      "name": "Terry King",
+      "targetId": "9502"
+    }
+  ]
+}

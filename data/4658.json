@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Marvin Gaye",
-    "target": "Smokey Robinson",
-    "targetId": "76"
-  },
-  {
-    "source": "Marvin Gaye",
-    "target": "Diana Ross",
-    "targetId": "78"
-  },
-  {
-    "source": "Marvin Gaye",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  }
-]
+{
+  "source": "Marvin Gaye",
+  "targets": [
+    {
+      "name": "Smokey Robinson",
+      "targetId": "76"
+    },
+    {
+      "name": "Diana Ross",
+      "targetId": "78"
+    },
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    }
+  ]
+}

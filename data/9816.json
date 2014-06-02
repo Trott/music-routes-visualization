@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Ronald Thomas",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "John Underwood",
-    "targetId": "3359"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Chris Thomas",
-    "targetId": "8639"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Eric Bowie",
-    "targetId": "9715"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Eldon Fox",
-    "targetId": "9731"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Reginald Kilbey",
-    "targetId": "9766"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Henry Datyner",
-    "targetId": "9799"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Norman Lederman",
-    "targetId": "9815"
-  },
-  {
-    "source": "Ronald Thomas",
-    "target": "Keith Cummings",
-    "targetId": "9817"
-  }
-]
+{
+  "source": "Ronald Thomas",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "John Underwood",
+      "targetId": "3359"
+    },
+    {
+      "name": "Chris Thomas",
+      "targetId": "8639"
+    },
+    {
+      "name": "Eric Bowie",
+      "targetId": "9715"
+    },
+    {
+      "name": "Eldon Fox",
+      "targetId": "9731"
+    },
+    {
+      "name": "Reginald Kilbey",
+      "targetId": "9766"
+    },
+    {
+      "name": "Henry Datyner",
+      "targetId": "9799"
+    },
+    {
+      "name": "Norman Lederman",
+      "targetId": "9815"
+    },
+    {
+      "name": "Keith Cummings",
+      "targetId": "9817"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jerry Smith",
-    "target": "Fred Carter, Jr.",
-    "targetId": "1813"
-  },
-  {
-    "source": "Jerry Smith",
-    "target": "Jerry Reed",
-    "targetId": "2625"
-  },
-  {
-    "source": "Jerry Smith",
-    "target": "Wayne Moss",
-    "targetId": "2626"
-  },
-  {
-    "source": "Jerry Smith",
-    "target": "Roy Huskey, Jr.",
-    "targetId": "2627"
-  },
-  {
-    "source": "Jerry Smith",
-    "target": "Jerry Carrigan",
-    "targetId": "2628"
-  }
-]
+{
+  "source": "Jerry Smith",
+  "targets": [
+    {
+      "name": "Fred Carter, Jr.",
+      "targetId": "1813"
+    },
+    {
+      "name": "Jerry Reed",
+      "targetId": "2625"
+    },
+    {
+      "name": "Wayne Moss",
+      "targetId": "2626"
+    },
+    {
+      "name": "Roy Huskey, Jr.",
+      "targetId": "2627"
+    },
+    {
+      "name": "Jerry Carrigan",
+      "targetId": "2628"
+    }
+  ]
+}

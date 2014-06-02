@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Innes Sibun",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Innes Sibun",
-    "target": "Charlie Jones",
-    "targetId": "3709"
-  },
-  {
-    "source": "Innes Sibun",
-    "target": "Ted Benham",
-    "targetId": "3750"
-  }
-]
+{
+  "source": "Innes Sibun",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Charlie Jones",
+      "targetId": "3709"
+    },
+    {
+      "name": "Ted Benham",
+      "targetId": "3750"
+    }
+  ]
+}

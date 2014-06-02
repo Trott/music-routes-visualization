@@ -1,227 +1,185 @@
-[
-  {
-    "source": "John Keeble",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Boy George",
-    "targetId": "52"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Midge Ure",
-    "targetId": "96"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Steve Norman",
-    "targetId": "98"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Chris Williams",
-    "targetId": "99"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Chris Cross",
-    "targetId": "100"
-  },
-  {
-    "source": "John Keeble",
-    "target": "John Taylor",
-    "targetId": "101"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Paul Young",
-    "targetId": "102"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Tony Hadley",
-    "targetId": "103"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Glenn Gregory",
-    "targetId": "104"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Simon Le Bon",
-    "targetId": "105"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Simon Crowe",
-    "targetId": "106"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Marilyn",
-    "targetId": "107"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Keren Woodward",
-    "targetId": "108"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Martin Kemp",
-    "targetId": "109"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Jody Watley",
-    "targetId": "110"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Adam Clayton",
-    "targetId": "112"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Paul Weller",
-    "targetId": "113"
-  },
-  {
-    "source": "John Keeble",
-    "target": "James \"J.T.\" Taylor",
-    "targetId": "114"
-  },
-  {
-    "source": "John Keeble",
-    "target": "George Michael",
-    "targetId": "115"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Martyn Ware",
-    "targetId": "116"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Gary Kemp",
-    "targetId": "118"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Roger Taylor",
-    "targetId": "119"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Sarah Dallin",
-    "targetId": "120"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Siobhan Fahey",
-    "targetId": "121"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Pete Briquette",
-    "targetId": "123"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Francis Rossi",
-    "targetId": "124"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Robert \"Kool\" Bell",
-    "targetId": "125"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Dennis Thomas",
-    "targetId": "126"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Andy Taylor",
-    "targetId": "127"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Jon Moss",
-    "targetId": "128"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Rick Parfitt",
-    "targetId": "129"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Nick Rhodes",
-    "targetId": "130"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Johnny Fingers",
-    "targetId": "131"
-  },
-  {
-    "source": "John Keeble",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Holly Johnson",
-    "targetId": "133"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Stuart Adamson",
-    "targetId": "134"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Bruce Watson",
-    "targetId": "135"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Tony Butler",
-    "targetId": "136"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Mark Brzezicki",
-    "targetId": "137"
-  },
-  {
-    "source": "John Keeble",
-    "target": "Jens Langhorn",
-    "targetId": "138"
-  }
-]
+{
+  "source": "John Keeble",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Boy George",
+      "targetId": "52"
+    },
+    {
+      "name": "Midge Ure",
+      "targetId": "96"
+    },
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Steve Norman",
+      "targetId": "98"
+    },
+    {
+      "name": "Chris Williams",
+      "targetId": "99"
+    },
+    {
+      "name": "Chris Cross",
+      "targetId": "100"
+    },
+    {
+      "name": "John Taylor",
+      "targetId": "101"
+    },
+    {
+      "name": "Paul Young",
+      "targetId": "102"
+    },
+    {
+      "name": "Tony Hadley",
+      "targetId": "103"
+    },
+    {
+      "name": "Glenn Gregory",
+      "targetId": "104"
+    },
+    {
+      "name": "Simon Le Bon",
+      "targetId": "105"
+    },
+    {
+      "name": "Simon Crowe",
+      "targetId": "106"
+    },
+    {
+      "name": "Marilyn",
+      "targetId": "107"
+    },
+    {
+      "name": "Keren Woodward",
+      "targetId": "108"
+    },
+    {
+      "name": "Martin Kemp",
+      "targetId": "109"
+    },
+    {
+      "name": "Jody Watley",
+      "targetId": "110"
+    },
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Adam Clayton",
+      "targetId": "112"
+    },
+    {
+      "name": "Paul Weller",
+      "targetId": "113"
+    },
+    {
+      "name": "James \"J.T.\" Taylor",
+      "targetId": "114"
+    },
+    {
+      "name": "George Michael",
+      "targetId": "115"
+    },
+    {
+      "name": "Martyn Ware",
+      "targetId": "116"
+    },
+    {
+      "name": "Gary Kemp",
+      "targetId": "118"
+    },
+    {
+      "name": "Roger Taylor",
+      "targetId": "119"
+    },
+    {
+      "name": "Sarah Dallin",
+      "targetId": "120"
+    },
+    {
+      "name": "Siobhan Fahey",
+      "targetId": "121"
+    },
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Pete Briquette",
+      "targetId": "123"
+    },
+    {
+      "name": "Francis Rossi",
+      "targetId": "124"
+    },
+    {
+      "name": "Robert \"Kool\" Bell",
+      "targetId": "125"
+    },
+    {
+      "name": "Dennis Thomas",
+      "targetId": "126"
+    },
+    {
+      "name": "Andy Taylor",
+      "targetId": "127"
+    },
+    {
+      "name": "Jon Moss",
+      "targetId": "128"
+    },
+    {
+      "name": "Rick Parfitt",
+      "targetId": "129"
+    },
+    {
+      "name": "Nick Rhodes",
+      "targetId": "130"
+    },
+    {
+      "name": "Johnny Fingers",
+      "targetId": "131"
+    },
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Holly Johnson",
+      "targetId": "133"
+    },
+    {
+      "name": "Stuart Adamson",
+      "targetId": "134"
+    },
+    {
+      "name": "Bruce Watson",
+      "targetId": "135"
+    },
+    {
+      "name": "Tony Butler",
+      "targetId": "136"
+    },
+    {
+      "name": "Mark Brzezicki",
+      "targetId": "137"
+    },
+    {
+      "name": "Jens Langhorn",
+      "targetId": "138"
+    }
+  ]
+}

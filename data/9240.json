@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tom Barman",
-    "target": "Mauro Pawlowski",
-    "targetId": "6658"
-  },
-  {
-    "source": "Tom Barman",
-    "target": "Alan Gevaert",
-    "targetId": "9241"
-  },
-  {
-    "source": "Tom Barman",
-    "target": "Klaas Janzoons",
-    "targetId": "9242"
-  },
-  {
-    "source": "Tom Barman",
-    "target": "Stéphane Misseghers",
-    "targetId": "9243"
-  }
-]
+{
+  "source": "Tom Barman",
+  "targets": [
+    {
+      "name": "Mauro Pawlowski",
+      "targetId": "6658"
+    },
+    {
+      "name": "Alan Gevaert",
+      "targetId": "9241"
+    },
+    {
+      "name": "Klaas Janzoons",
+      "targetId": "9242"
+    },
+    {
+      "name": "Stéphane Misseghers",
+      "targetId": "9243"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Kermit The Frog",
-    "target": "Richard Crooks",
-    "targetId": "1270"
-  },
-  {
-    "source": "Kermit The Frog",
-    "target": "Gordon Johnson",
-    "targetId": "1284"
-  }
-]
+{
+  "source": "Kermit The Frog",
+  "targets": [
+    {
+      "name": "Richard Crooks",
+      "targetId": "1270"
+    },
+    {
+      "name": "Gordon Johnson",
+      "targetId": "1284"
+    }
+  ]
+}

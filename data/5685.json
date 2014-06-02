@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Paul Gilbert",
-    "target": "Mike Portnoy",
-    "targetId": "4200"
-  },
-  {
-    "source": "Paul Gilbert",
-    "target": "Jason McMaster",
-    "targetId": "5682"
-  },
-  {
-    "source": "Paul Gilbert",
-    "target": "Sean Malone",
-    "targetId": "5686"
-  },
-  {
-    "source": "Paul Gilbert",
-    "target": "Scott Travis",
-    "targetId": "5687"
-  },
-  {
-    "source": "Paul Gilbert",
-    "target": "Juan Alderete",
-    "targetId": "5688"
-  },
-  {
-    "source": "Paul Gilbert",
-    "target": "Bruce Bouillet",
-    "targetId": "5689"
-  },
-  {
-    "source": "Paul Gilbert",
-    "target": "Jeff Martin",
-    "targetId": "5690"
-  },
-  {
-    "source": "Paul Gilbert",
-    "target": "Mike Mani",
-    "targetId": "5691"
-  }
-]
+{
+  "source": "Paul Gilbert",
+  "targets": [
+    {
+      "name": "Mike Portnoy",
+      "targetId": "4200"
+    },
+    {
+      "name": "Jason McMaster",
+      "targetId": "5682"
+    },
+    {
+      "name": "Sean Malone",
+      "targetId": "5686"
+    },
+    {
+      "name": "Scott Travis",
+      "targetId": "5687"
+    },
+    {
+      "name": "Juan Alderete",
+      "targetId": "5688"
+    },
+    {
+      "name": "Bruce Bouillet",
+      "targetId": "5689"
+    },
+    {
+      "name": "Jeff Martin",
+      "targetId": "5690"
+    },
+    {
+      "name": "Mike Mani",
+      "targetId": "5691"
+    }
+  ]
+}

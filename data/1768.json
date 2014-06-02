@@ -1,187 +1,153 @@
-[
-  {
-    "source": "Gloria Estefan",
-    "target": "Lionel Richie",
-    "targetId": "41"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "B.B. King",
-    "targetId": "565"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Bonnie Raitt",
-    "targetId": "692"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Céline Dion",
-    "targetId": "693"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Luciano Pavarotti",
-    "targetId": "823"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Shania Twain",
-    "targetId": "961"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Carole King",
-    "targetId": "1673"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Luis Miguel",
-    "targetId": "1774"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Siedah Garrett",
-    "targetId": "2081"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Michael Thompson",
-    "targetId": "2262"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Ricky Martin",
-    "targetId": "3962"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Joe Cocker",
-    "targetId": "4141"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Patti Austin",
-    "targetId": "4229"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Mervyn Warren",
-    "targetId": "4247"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Will Wheaton",
-    "targetId": "4251"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Edwin Bonilla",
-    "targetId": "4277"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Warren Wiebe",
-    "targetId": "4278"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Mariah Carey",
-    "targetId": "6126"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Gianni Morandi",
-    "targetId": "6139"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Zucchero",
-    "targetId": "6140"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Renato Zero",
-    "targetId": "6141"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Laura Pausini",
-    "targetId": "6142"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Alex Britti",
-    "targetId": "6143"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Arturo Sandoval",
-    "targetId": "10862"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Carlos Gomez",
-    "targetId": "10863"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Rigo Herrera",
-    "targetId": "10864"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Giovanni Hidalgo",
-    "targetId": "10866"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Dana Teboe",
-    "targetId": "10869"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Ed Calle",
-    "targetId": "10870"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Rene Luis Toledo",
-    "targetId": "10871"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Richard Eddy",
-    "targetId": "10872"
-  },
-  {
-    "source": "Gloria Estefan",
-    "target": "Kenny Anderson",
-    "targetId": "10873"
-  }
-]
+{
+  "source": "Gloria Estefan",
+  "targets": [
+    {
+      "name": "Lionel Richie",
+      "targetId": "41"
+    },
+    {
+      "name": "B.B. King",
+      "targetId": "565"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "targetId": "692"
+    },
+    {
+      "name": "Céline Dion",
+      "targetId": "693"
+    },
+    {
+      "name": "Luciano Pavarotti",
+      "targetId": "823"
+    },
+    {
+      "name": "Shania Twain",
+      "targetId": "961"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Carole King",
+      "targetId": "1673"
+    },
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "Luis Miguel",
+      "targetId": "1774"
+    },
+    {
+      "name": "Siedah Garrett",
+      "targetId": "2081"
+    },
+    {
+      "name": "Michael Thompson",
+      "targetId": "2262"
+    },
+    {
+      "name": "Ricky Martin",
+      "targetId": "3962"
+    },
+    {
+      "name": "Joe Cocker",
+      "targetId": "4141"
+    },
+    {
+      "name": "Patti Austin",
+      "targetId": "4229"
+    },
+    {
+      "name": "Mervyn Warren",
+      "targetId": "4247"
+    },
+    {
+      "name": "Will Wheaton",
+      "targetId": "4251"
+    },
+    {
+      "name": "Edwin Bonilla",
+      "targetId": "4277"
+    },
+    {
+      "name": "Warren Wiebe",
+      "targetId": "4278"
+    },
+    {
+      "name": "Mariah Carey",
+      "targetId": "6126"
+    },
+    {
+      "name": "Gianni Morandi",
+      "targetId": "6139"
+    },
+    {
+      "name": "Zucchero",
+      "targetId": "6140"
+    },
+    {
+      "name": "Renato Zero",
+      "targetId": "6141"
+    },
+    {
+      "name": "Laura Pausini",
+      "targetId": "6142"
+    },
+    {
+      "name": "Alex Britti",
+      "targetId": "6143"
+    },
+    {
+      "name": "Arturo Sandoval",
+      "targetId": "10862"
+    },
+    {
+      "name": "Carlos Gomez",
+      "targetId": "10863"
+    },
+    {
+      "name": "Rigo Herrera",
+      "targetId": "10864"
+    },
+    {
+      "name": "Giovanni Hidalgo",
+      "targetId": "10866"
+    },
+    {
+      "name": "Dana Teboe",
+      "targetId": "10869"
+    },
+    {
+      "name": "Ed Calle",
+      "targetId": "10870"
+    },
+    {
+      "name": "Rene Luis Toledo",
+      "targetId": "10871"
+    },
+    {
+      "name": "Richard Eddy",
+      "targetId": "10872"
+    },
+    {
+      "name": "Kenny Anderson",
+      "targetId": "10873"
+    }
+  ]
+}

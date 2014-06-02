@@ -1,182 +1,149 @@
-[
-  {
-    "source": "Phil Woods",
-    "target": "Billy Joel",
-    "targetId": "63"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Hugh McCracken",
-    "targetId": "268"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Sonny Rollins",
-    "targetId": "4556"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Bob Northern",
-    "targetId": "4600"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "J.J. Johnson",
-    "targetId": "6042"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Thelonious Monk",
-    "targetId": "7250"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Sam Jones",
-    "targetId": "7251"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Art Taylor",
-    "targetId": "7252"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Pepper Adams",
-    "targetId": "7254"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Charlie Rouse",
-    "targetId": "7255"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Eddie Bert",
-    "targetId": "7256"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Donald Byrd",
-    "targetId": "7257"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Jay McAllister",
-    "targetId": "7258"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Kenny Burrell",
-    "targetId": "7926"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Jimmy Cleveland",
-    "targetId": "7928"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Robert Ashton",
-    "targetId": "7929"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Danny Bank",
-    "targetId": "7930"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Roger Kellaway",
-    "targetId": "7931"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Walter Booker",
-    "targetId": "7932"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Frankie Dunlop",
-    "targetId": "7933"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Billy Byers",
-    "targetId": "7934"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Jim Chapin",
-    "targetId": "7940"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Don Stratton",
-    "targetId": "7941"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Sonny Truitt",
-    "targetId": "7942"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Charles Andrus",
-    "targetId": "7943"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "George Wallington",
-    "targetId": "7944"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Knobby Totah",
-    "targetId": "7945"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Nick Stabulas",
-    "targetId": "7946"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Doug Stegmeyer",
-    "targetId": "8404"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Liberty DeVitto",
-    "targetId": "8405"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Steve Burgh",
-    "targetId": "9604"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Steve Gilmore",
-    "targetId": "10754"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Bill Goodwin",
-    "targetId": "10755"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Brian Lynch",
-    "targetId": "10756"
-  },
-  {
-    "source": "Phil Woods",
-    "target": "Jim McNeely",
-    "targetId": "10757"
-  }
-]
+{
+  "source": "Phil Woods",
+  "targets": [
+    {
+      "name": "Billy Joel",
+      "targetId": "63"
+    },
+    {
+      "name": "Hugh McCracken",
+      "targetId": "268"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Sonny Rollins",
+      "targetId": "4556"
+    },
+    {
+      "name": "Bob Northern",
+      "targetId": "4600"
+    },
+    {
+      "name": "J.J. Johnson",
+      "targetId": "6042"
+    },
+    {
+      "name": "Thelonious Monk",
+      "targetId": "7250"
+    },
+    {
+      "name": "Sam Jones",
+      "targetId": "7251"
+    },
+    {
+      "name": "Art Taylor",
+      "targetId": "7252"
+    },
+    {
+      "name": "Pepper Adams",
+      "targetId": "7254"
+    },
+    {
+      "name": "Charlie Rouse",
+      "targetId": "7255"
+    },
+    {
+      "name": "Eddie Bert",
+      "targetId": "7256"
+    },
+    {
+      "name": "Donald Byrd",
+      "targetId": "7257"
+    },
+    {
+      "name": "Jay McAllister",
+      "targetId": "7258"
+    },
+    {
+      "name": "Kenny Burrell",
+      "targetId": "7926"
+    },
+    {
+      "name": "Jimmy Cleveland",
+      "targetId": "7928"
+    },
+    {
+      "name": "Robert Ashton",
+      "targetId": "7929"
+    },
+    {
+      "name": "Danny Bank",
+      "targetId": "7930"
+    },
+    {
+      "name": "Roger Kellaway",
+      "targetId": "7931"
+    },
+    {
+      "name": "Walter Booker",
+      "targetId": "7932"
+    },
+    {
+      "name": "Frankie Dunlop",
+      "targetId": "7933"
+    },
+    {
+      "name": "Billy Byers",
+      "targetId": "7934"
+    },
+    {
+      "name": "Jim Chapin",
+      "targetId": "7940"
+    },
+    {
+      "name": "Don Stratton",
+      "targetId": "7941"
+    },
+    {
+      "name": "Sonny Truitt",
+      "targetId": "7942"
+    },
+    {
+      "name": "Charles Andrus",
+      "targetId": "7943"
+    },
+    {
+      "name": "George Wallington",
+      "targetId": "7944"
+    },
+    {
+      "name": "Knobby Totah",
+      "targetId": "7945"
+    },
+    {
+      "name": "Nick Stabulas",
+      "targetId": "7946"
+    },
+    {
+      "name": "Doug Stegmeyer",
+      "targetId": "8404"
+    },
+    {
+      "name": "Liberty DeVitto",
+      "targetId": "8405"
+    },
+    {
+      "name": "Steve Burgh",
+      "targetId": "9604"
+    },
+    {
+      "name": "Steve Gilmore",
+      "targetId": "10754"
+    },
+    {
+      "name": "Bill Goodwin",
+      "targetId": "10755"
+    },
+    {
+      "name": "Brian Lynch",
+      "targetId": "10756"
+    },
+    {
+      "name": "Jim McNeely",
+      "targetId": "10757"
+    }
+  ]
+}

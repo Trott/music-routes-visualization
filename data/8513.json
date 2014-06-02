@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Keith Wilkinson",
-    "target": "Cathy Dennis",
-    "targetId": "6949"
-  },
-  {
-    "source": "Keith Wilkinson",
-    "target": "Glenn Tilbrook",
-    "targetId": "7275"
-  },
-  {
-    "source": "Keith Wilkinson",
-    "target": "Chris Difford",
-    "targetId": "7279"
-  },
-  {
-    "source": "Keith Wilkinson",
-    "target": "Kevin Wilkinson",
-    "targetId": "8506"
-  }
-]
+{
+  "source": "Keith Wilkinson",
+  "targets": [
+    {
+      "name": "Cathy Dennis",
+      "targetId": "6949"
+    },
+    {
+      "name": "Glenn Tilbrook",
+      "targetId": "7275"
+    },
+    {
+      "name": "Chris Difford",
+      "targetId": "7279"
+    },
+    {
+      "name": "Kevin Wilkinson",
+      "targetId": "8506"
+    }
+  ]
+}

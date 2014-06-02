@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Kano",
-    "target": "Damon Albarn",
-    "targetId": "2401"
-  },
-  {
-    "source": "Kano",
-    "target": "Fraser T. Smith",
-    "targetId": "4159"
-  },
-  {
-    "source": "Kano",
-    "target": "Mike Skinner",
-    "targetId": "4161"
-  },
-  {
-    "source": "Kano",
-    "target": "Leo Ihenacho",
-    "targetId": "4162"
-  }
-]
+{
+  "source": "Kano",
+  "targets": [
+    {
+      "name": "Damon Albarn",
+      "targetId": "2401"
+    },
+    {
+      "name": "Fraser T. Smith",
+      "targetId": "4159"
+    },
+    {
+      "name": "Mike Skinner",
+      "targetId": "4161"
+    },
+    {
+      "name": "Leo Ihenacho",
+      "targetId": "4162"
+    }
+  ]
+}

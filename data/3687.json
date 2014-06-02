@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Jim O'Connor",
-    "target": "Mike Doughty",
-    "targetId": "36"
-  },
-  {
-    "source": "Jim O'Connor",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Jim O'Connor",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Jim O'Connor",
-    "target": "Dan Miller",
-    "targetId": "3681"
-  },
-  {
-    "source": "Jim O'Connor",
-    "target": "Dan Hickey",
-    "targetId": "3683"
-  },
-  {
-    "source": "Jim O'Connor",
-    "target": "Chris Maxwell",
-    "targetId": "3685"
-  },
-  {
-    "source": "Jim O'Connor",
-    "target": "Dan Levine",
-    "targetId": "3686"
-  },
-  {
-    "source": "Jim O'Connor",
-    "target": "Clem Waldman",
-    "targetId": "3692"
-  }
-]
+{
+  "source": "Jim O'Connor",
+  "targets": [
+    {
+      "name": "Mike Doughty",
+      "targetId": "36"
+    },
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Dan Miller",
+      "targetId": "3681"
+    },
+    {
+      "name": "Dan Hickey",
+      "targetId": "3683"
+    },
+    {
+      "name": "Chris Maxwell",
+      "targetId": "3685"
+    },
+    {
+      "name": "Dan Levine",
+      "targetId": "3686"
+    },
+    {
+      "name": "Clem Waldman",
+      "targetId": "3692"
+    }
+  ]
+}

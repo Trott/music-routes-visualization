@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Jim Keller",
-    "target": "Sam Clayton",
-    "targetId": "3056"
-  },
-  {
-    "source": "Jim Keller",
-    "target": "Jon Lyons",
-    "targetId": "3060"
-  },
-  {
-    "source": "Jim Keller",
-    "target": "Lonnie Turner",
-    "targetId": "3061"
-  },
-  {
-    "source": "Jim Keller",
-    "target": "Tommy Heath",
-    "targetId": "3062"
-  },
-  {
-    "source": "Jim Keller",
-    "target": "Rick Cutler",
-    "targetId": "3063"
-  },
-  {
-    "source": "Jim Keller",
-    "target": "Victor Carberry",
-    "targetId": "3064"
-  },
-  {
-    "source": "Jim Keller",
-    "target": "Steve Le Gassick",
-    "targetId": "3065"
-  },
-  {
-    "source": "Jim Keller",
-    "target": "John Cowsill",
-    "targetId": "3066"
-  }
-]
+{
+  "source": "Jim Keller",
+  "targets": [
+    {
+      "name": "Sam Clayton",
+      "targetId": "3056"
+    },
+    {
+      "name": "Jon Lyons",
+      "targetId": "3060"
+    },
+    {
+      "name": "Lonnie Turner",
+      "targetId": "3061"
+    },
+    {
+      "name": "Tommy Heath",
+      "targetId": "3062"
+    },
+    {
+      "name": "Rick Cutler",
+      "targetId": "3063"
+    },
+    {
+      "name": "Victor Carberry",
+      "targetId": "3064"
+    },
+    {
+      "name": "Steve Le Gassick",
+      "targetId": "3065"
+    },
+    {
+      "name": "John Cowsill",
+      "targetId": "3066"
+    }
+  ]
+}

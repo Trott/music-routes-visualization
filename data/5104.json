@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Chris Gorman",
-    "target": "Tanya Donelly",
-    "targetId": "608"
-  },
-  {
-    "source": "Chris Gorman",
-    "target": "Thomas Gorman",
-    "targetId": "5105"
-  },
-  {
-    "source": "Chris Gorman",
-    "target": "Gail Greenwood",
-    "targetId": "5106"
-  }
-]
+{
+  "source": "Chris Gorman",
+  "targets": [
+    {
+      "name": "Tanya Donelly",
+      "targetId": "608"
+    },
+    {
+      "name": "Thomas Gorman",
+      "targetId": "5105"
+    },
+    {
+      "name": "Gail Greenwood",
+      "targetId": "5106"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "George Hurley",
-    "target": "Henry Rollins",
-    "targetId": "185"
-  },
-  {
-    "source": "George Hurley",
-    "target": "Bill Stevenson",
-    "targetId": "733"
-  },
-  {
-    "source": "George Hurley",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "George Hurley",
-    "target": "Kira Roessler",
-    "targetId": "1619"
-  },
-  {
-    "source": "George Hurley",
-    "target": "D. Boon",
-    "targetId": "1620"
-  },
-  {
-    "source": "George Hurley",
-    "target": "Greg Ginn",
-    "targetId": "1621"
-  }
-]
+{
+  "source": "George Hurley",
+  "targets": [
+    {
+      "name": "Henry Rollins",
+      "targetId": "185"
+    },
+    {
+      "name": "Bill Stevenson",
+      "targetId": "733"
+    },
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Kira Roessler",
+      "targetId": "1619"
+    },
+    {
+      "name": "D. Boon",
+      "targetId": "1620"
+    },
+    {
+      "name": "Greg Ginn",
+      "targetId": "1621"
+    }
+  ]
+}

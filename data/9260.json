@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Scott Reynolds",
-    "target": "Bill Stevenson",
-    "targetId": "733"
-  },
-  {
-    "source": "Scott Reynolds",
-    "target": "Karl Alvarez",
-    "targetId": "734"
-  },
-  {
-    "source": "Scott Reynolds",
-    "target": "Stephen Egerton",
-    "targetId": "7042"
-  },
-  {
-    "source": "Scott Reynolds",
-    "target": "Aaron Ratajczak",
-    "targetId": "9261"
-  },
-  {
-    "source": "Scott Reynolds",
-    "target": "Nick Gonzalez",
-    "targetId": "9262"
-  },
-  {
-    "source": "Scott Reynolds",
-    "target": "Jay Galvin",
-    "targetId": "9263"
-  }
-]
+{
+  "source": "Scott Reynolds",
+  "targets": [
+    {
+      "name": "Bill Stevenson",
+      "targetId": "733"
+    },
+    {
+      "name": "Karl Alvarez",
+      "targetId": "734"
+    },
+    {
+      "name": "Stephen Egerton",
+      "targetId": "7042"
+    },
+    {
+      "name": "Aaron Ratajczak",
+      "targetId": "9261"
+    },
+    {
+      "name": "Nick Gonzalez",
+      "targetId": "9262"
+    },
+    {
+      "name": "Jay Galvin",
+      "targetId": "9263"
+    }
+  ]
+}

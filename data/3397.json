@@ -1,227 +1,185 @@
-[
-  {
-    "source": "Louis Johnson",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Adrian Belew",
-    "targetId": "184"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Michael Boddicker",
-    "targetId": "385"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "David Paich",
-    "targetId": "401"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Ian Underwood",
-    "targetId": "816"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Bill Wolfer",
-    "targetId": "893"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Harvey Mason",
-    "targetId": "1320"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Kim Hutchcroft",
-    "targetId": "1324"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "George Duke",
-    "targetId": "1327"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Oren Waters",
-    "targetId": "1404"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Buzzy Feiten",
-    "targetId": "1407"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Aretha Franklin",
-    "targetId": "1765"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Rocky Dijon",
-    "targetId": "2000"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "James Gilstrap",
-    "targetId": "2355"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Alex Brown",
-    "targetId": "2423"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "David Foster",
-    "targetId": "2456"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Vicki Randle",
-    "targetId": "3396"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "George Johnson",
-    "targetId": "3398"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Gavin Christopher",
-    "targetId": "3399"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Moody Perry",
-    "targetId": "3404"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Kwawu Ladzekpo",
-    "targetId": "3405"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Greg Smith",
-    "targetId": "3774"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Leon Ngudu Chancler",
-    "targetId": "3775"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "David Williams",
-    "targetId": "4665"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Lee Ritenour",
-    "targetId": "5905"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "George Benson",
-    "targetId": "6225"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Eddie Daniels",
-    "targetId": "6226"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Dave Grusin",
-    "targetId": "7271"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Denise Trammell",
-    "targetId": "7272"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Stephanie Spruill",
-    "targetId": "7273"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Marlo Henderson",
-    "targetId": "8306"
-  },
-  {
-    "source": "Louis Johnson",
-    "target": "Jerry Vinci",
-    "targetId": "8519"
-  }
-]
+{
+  "source": "Louis Johnson",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Adrian Belew",
+      "targetId": "184"
+    },
+    {
+      "name": "Michael Boddicker",
+      "targetId": "385"
+    },
+    {
+      "name": "David Paich",
+      "targetId": "401"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Ian Underwood",
+      "targetId": "816"
+    },
+    {
+      "name": "Bill Wolfer",
+      "targetId": "893"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Harvey Mason",
+      "targetId": "1320"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Kim Hutchcroft",
+      "targetId": "1324"
+    },
+    {
+      "name": "George Duke",
+      "targetId": "1327"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Oren Waters",
+      "targetId": "1404"
+    },
+    {
+      "name": "Buzzy Feiten",
+      "targetId": "1407"
+    },
+    {
+      "name": "Aretha Franklin",
+      "targetId": "1765"
+    },
+    {
+      "name": "Rocky Dijon",
+      "targetId": "2000"
+    },
+    {
+      "name": "James Gilstrap",
+      "targetId": "2355"
+    },
+    {
+      "name": "Alex Brown",
+      "targetId": "2423"
+    },
+    {
+      "name": "David Foster",
+      "targetId": "2456"
+    },
+    {
+      "name": "Vicki Randle",
+      "targetId": "3396"
+    },
+    {
+      "name": "George Johnson",
+      "targetId": "3398"
+    },
+    {
+      "name": "Gavin Christopher",
+      "targetId": "3399"
+    },
+    {
+      "name": "Moody Perry",
+      "targetId": "3404"
+    },
+    {
+      "name": "Kwawu Ladzekpo",
+      "targetId": "3405"
+    },
+    {
+      "name": "Greg Smith",
+      "targetId": "3774"
+    },
+    {
+      "name": "Leon Ngudu Chancler",
+      "targetId": "3775"
+    },
+    {
+      "name": "David Williams",
+      "targetId": "4665"
+    },
+    {
+      "name": "Lee Ritenour",
+      "targetId": "5905"
+    },
+    {
+      "name": "George Benson",
+      "targetId": "6225"
+    },
+    {
+      "name": "Eddie Daniels",
+      "targetId": "6226"
+    },
+    {
+      "name": "Dave Grusin",
+      "targetId": "7271"
+    },
+    {
+      "name": "Denise Trammell",
+      "targetId": "7272"
+    },
+    {
+      "name": "Stephanie Spruill",
+      "targetId": "7273"
+    },
+    {
+      "name": "Marlo Henderson",
+      "targetId": "8306"
+    },
+    {
+      "name": "Jerry Vinci",
+      "targetId": "8519"
+    }
+  ]
+}

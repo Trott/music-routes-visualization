@@ -1,97 +1,81 @@
-[
-  {
-    "source": "Joe Sample",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Timothy B. Schmit",
-    "targetId": "391"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Victor Feldman",
-    "targetId": "396"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "David Sanborn",
-    "targetId": "471"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Larry Carlton",
-    "targetId": "506"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Donald Fagen",
-    "targetId": "720"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Walter Becker",
-    "targetId": "721"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Chuck Rainey",
-    "targetId": "722"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Paul Humphrey",
-    "targetId": "820"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Wayne Shorter",
-    "targetId": "1631"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Michael Omartian",
-    "targetId": "3247"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Clydie King",
-    "targetId": "4580"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Marcus Miller",
-    "targetId": "4720"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Venetta Fields",
-    "targetId": "8452"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Sherlie Matthews",
-    "targetId": "8453"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Rebecca Louis",
-    "targetId": "8454"
-  },
-  {
-    "source": "Joe Sample",
-    "target": "Denny Dias",
-    "targetId": "8455"
-  }
-]
+{
+  "source": "Joe Sample",
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Timothy B. Schmit",
+      "targetId": "391"
+    },
+    {
+      "name": "Victor Feldman",
+      "targetId": "396"
+    },
+    {
+      "name": "David Sanborn",
+      "targetId": "471"
+    },
+    {
+      "name": "Larry Carlton",
+      "targetId": "506"
+    },
+    {
+      "name": "Donald Fagen",
+      "targetId": "720"
+    },
+    {
+      "name": "Walter Becker",
+      "targetId": "721"
+    },
+    {
+      "name": "Chuck Rainey",
+      "targetId": "722"
+    },
+    {
+      "name": "Paul Humphrey",
+      "targetId": "820"
+    },
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Wayne Shorter",
+      "targetId": "1631"
+    },
+    {
+      "name": "Michael Omartian",
+      "targetId": "3247"
+    },
+    {
+      "name": "Clydie King",
+      "targetId": "4580"
+    },
+    {
+      "name": "Marcus Miller",
+      "targetId": "4720"
+    },
+    {
+      "name": "Venetta Fields",
+      "targetId": "8452"
+    },
+    {
+      "name": "Sherlie Matthews",
+      "targetId": "8453"
+    },
+    {
+      "name": "Rebecca Louis",
+      "targetId": "8454"
+    },
+    {
+      "name": "Denny Dias",
+      "targetId": "8455"
+    }
+  ]
+}

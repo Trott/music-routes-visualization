@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Harris",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "John Harris",
-    "target": "Denny Carmassi",
-    "targetId": "1736"
-  },
-  {
-    "source": "John Harris",
-    "target": "David Coverdale",
-    "targetId": "3112"
-  },
-  {
-    "source": "John Harris",
-    "target": "Jorge Casas",
-    "targetId": "3762"
-  }
-]
+{
+  "source": "John Harris",
+  "targets": [
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Denny Carmassi",
+      "targetId": "1736"
+    },
+    {
+      "name": "David Coverdale",
+      "targetId": "3112"
+    },
+    {
+      "name": "Jorge Casas",
+      "targetId": "3762"
+    }
+  ]
+}

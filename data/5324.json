@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Brian Tilse",
-    "target": "Rob Halford",
-    "targetId": "145"
-  },
-  {
-    "source": "Brian Tilse",
-    "target": "Geezer Butler",
-    "targetId": "1433"
-  },
-  {
-    "source": "Brian Tilse",
-    "target": "Bill Ward",
-    "targetId": "1434"
-  },
-  {
-    "source": "Brian Tilse",
-    "target": "Scott \"Wino\" Weinrich",
-    "targetId": "5322"
-  },
-  {
-    "source": "Brian Tilse",
-    "target": "Jimmy Wood",
-    "targetId": "5325"
-  }
-]
+{
+  "source": "Brian Tilse",
+  "targets": [
+    {
+      "name": "Rob Halford",
+      "targetId": "145"
+    },
+    {
+      "name": "Geezer Butler",
+      "targetId": "1433"
+    },
+    {
+      "name": "Bill Ward",
+      "targetId": "1434"
+    },
+    {
+      "name": "Scott \"Wino\" Weinrich",
+      "targetId": "5322"
+    },
+    {
+      "name": "Jimmy Wood",
+      "targetId": "5325"
+    }
+  ]
+}

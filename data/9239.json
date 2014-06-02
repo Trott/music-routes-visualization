@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Toby Keith",
-    "target": "Jimmy Buffett",
-    "targetId": "1782"
-  },
-  {
-    "source": "Toby Keith",
-    "target": "Kenny Chesney",
-    "targetId": "6262"
-  },
-  {
-    "source": "Toby Keith",
-    "target": "Alan Jackson",
-    "targetId": "9236"
-  },
-  {
-    "source": "Toby Keith",
-    "target": "Clint Black",
-    "targetId": "9237"
-  },
-  {
-    "source": "Toby Keith",
-    "target": "George Strait",
-    "targetId": "9238"
-  }
-]
+{
+  "source": "Toby Keith",
+  "targets": [
+    {
+      "name": "Jimmy Buffett",
+      "targetId": "1782"
+    },
+    {
+      "name": "Kenny Chesney",
+      "targetId": "6262"
+    },
+    {
+      "name": "Alan Jackson",
+      "targetId": "9236"
+    },
+    {
+      "name": "Clint Black",
+      "targetId": "9237"
+    },
+    {
+      "name": "George Strait",
+      "targetId": "9238"
+    }
+  ]
+}

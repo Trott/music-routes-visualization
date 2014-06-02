@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Rick Lee",
-    "target": "Dale Crover",
-    "targetId": "4119"
-  },
-  {
-    "source": "Rick Lee",
-    "target": "King Buzzo",
-    "targetId": "4120"
-  },
-  {
-    "source": "Rick Lee",
-    "target": "Kevin Rutmanis",
-    "targetId": "5488"
-  },
-  {
-    "source": "Rick Lee",
-    "target": "Bruce Bromberg",
-    "targetId": "5493"
-  },
-  {
-    "source": "Rick Lee",
-    "target": "Erik Sanko",
-    "targetId": "5494"
-  },
-  {
-    "source": "Rick Lee",
-    "target": "Amanda Ferguson",
-    "targetId": "5496"
-  }
-]
+{
+  "source": "Rick Lee",
+  "targets": [
+    {
+      "name": "Dale Crover",
+      "targetId": "4119"
+    },
+    {
+      "name": "King Buzzo",
+      "targetId": "4120"
+    },
+    {
+      "name": "Kevin Rutmanis",
+      "targetId": "5488"
+    },
+    {
+      "name": "Bruce Bromberg",
+      "targetId": "5493"
+    },
+    {
+      "name": "Erik Sanko",
+      "targetId": "5494"
+    },
+    {
+      "name": "Amanda Ferguson",
+      "targetId": "5496"
+    }
+  ]
+}

@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jack Maness",
-    "target": "Bud Gaugh",
-    "targetId": "4325"
-  },
-  {
-    "source": "Jack Maness",
-    "target": "Eric Wilson",
-    "targetId": "4327"
-  },
-  {
-    "source": "Jack Maness",
-    "target": "H.R.",
-    "targetId": "9206"
-  },
-  {
-    "source": "Jack Maness",
-    "target": "Marshall Goodman",
-    "targetId": "9208"
-  },
-  {
-    "source": "Jack Maness",
-    "target": "RAS-1",
-    "targetId": "9209"
-  },
-  {
-    "source": "Jack Maness",
-    "target": "Tim Wu",
-    "targetId": "9211"
-  },
-  {
-    "source": "Jack Maness",
-    "target": "Opie Ortiz",
-    "targetId": "9212"
-  }
-]
+{
+  "source": "Jack Maness",
+  "targets": [
+    {
+      "name": "Bud Gaugh",
+      "targetId": "4325"
+    },
+    {
+      "name": "Eric Wilson",
+      "targetId": "4327"
+    },
+    {
+      "name": "H.R.",
+      "targetId": "9206"
+    },
+    {
+      "name": "Marshall Goodman",
+      "targetId": "9208"
+    },
+    {
+      "name": "RAS-1",
+      "targetId": "9209"
+    },
+    {
+      "name": "Tim Wu",
+      "targetId": "9211"
+    },
+    {
+      "name": "Opie Ortiz",
+      "targetId": "9212"
+    }
+  ]
+}

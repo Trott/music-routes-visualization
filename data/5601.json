@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John King",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "John King",
-    "target": "Gerald Johnson",
-    "targetId": "328"
-  },
-  {
-    "source": "John King",
-    "target": "\"Sneaky\" Pete Kleinow",
-    "targetId": "504"
-  },
-  {
-    "source": "John King",
-    "target": "Lonnie Turner",
-    "targetId": "3061"
-  },
-  {
-    "source": "John King",
-    "target": "Dick Thompson",
-    "targetId": "5600"
-  }
-]
+{
+  "source": "John King",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Gerald Johnson",
+      "targetId": "328"
+    },
+    {
+      "name": "\"Sneaky\" Pete Kleinow",
+      "targetId": "504"
+    },
+    {
+      "name": "Lonnie Turner",
+      "targetId": "3061"
+    },
+    {
+      "name": "Dick Thompson",
+      "targetId": "5600"
+    }
+  ]
+}

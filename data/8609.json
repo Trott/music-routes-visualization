@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Tom Duffy",
-    "target": "Bud Beadle",
-    "targetId": "2910"
-  },
-  {
-    "source": "Tom Duffy",
-    "target": "Steve Gregory",
-    "targetId": "2911"
-  },
-  {
-    "source": "Tom Duffy",
-    "target": "Alan White",
-    "targetId": "4428"
-  },
-  {
-    "source": "Tom Duffy",
-    "target": "Jeff Condon",
-    "targetId": "8610"
-  },
-  {
-    "source": "Tom Duffy",
-    "target": "John Turnbull",
-    "targetId": "8611"
-  },
-  {
-    "source": "Tom Duffy",
-    "target": "Ken Craddock",
-    "targetId": "8612"
-  },
-  {
-    "source": "Tom Duffy",
-    "target": "Mike Gallagher",
-    "targetId": "8613"
-  },
-  {
-    "source": "Tom Duffy",
-    "target": "Graham Bell",
-    "targetId": "8614"
-  }
-]
+{
+  "source": "Tom Duffy",
+  "targets": [
+    {
+      "name": "Bud Beadle",
+      "targetId": "2910"
+    },
+    {
+      "name": "Steve Gregory",
+      "targetId": "2911"
+    },
+    {
+      "name": "Alan White",
+      "targetId": "4428"
+    },
+    {
+      "name": "Jeff Condon",
+      "targetId": "8610"
+    },
+    {
+      "name": "John Turnbull",
+      "targetId": "8611"
+    },
+    {
+      "name": "Ken Craddock",
+      "targetId": "8612"
+    },
+    {
+      "name": "Mike Gallagher",
+      "targetId": "8613"
+    },
+    {
+      "name": "Graham Bell",
+      "targetId": "8614"
+    }
+  ]
+}

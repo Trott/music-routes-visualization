@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ian Curtis",
-    "target": "Bernard Sumner",
-    "targetId": "2967"
-  },
-  {
-    "source": "Ian Curtis",
-    "target": "Peter Hook",
-    "targetId": "2981"
-  },
-  {
-    "source": "Ian Curtis",
-    "target": "Stephen Morris",
-    "targetId": "2982"
-  }
-]
+{
+  "source": "Ian Curtis",
+  "targets": [
+    {
+      "name": "Bernard Sumner",
+      "targetId": "2967"
+    },
+    {
+      "name": "Peter Hook",
+      "targetId": "2981"
+    },
+    {
+      "name": "Stephen Morris",
+      "targetId": "2982"
+    }
+  ]
+}

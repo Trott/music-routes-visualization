@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sara Watkins",
-    "target": "Chris Thile",
-    "targetId": "585"
-  },
-  {
-    "source": "Sara Watkins",
-    "target": "Sean Watkins",
-    "targetId": "5820"
-  },
-  {
-    "source": "Sara Watkins",
-    "target": "Mark Schatz",
-    "targetId": "5824"
-  },
-  {
-    "source": "Sara Watkins",
-    "target": "Eric Valentine",
-    "targetId": "5825"
-  }
-]
+{
+  "source": "Sara Watkins",
+  "targets": [
+    {
+      "name": "Chris Thile",
+      "targetId": "585"
+    },
+    {
+      "name": "Sean Watkins",
+      "targetId": "5820"
+    },
+    {
+      "name": "Mark Schatz",
+      "targetId": "5824"
+    },
+    {
+      "name": "Eric Valentine",
+      "targetId": "5825"
+    }
+  ]
+}

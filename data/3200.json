@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ian Duck",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Ian Duck",
-    "target": "Herbie Flowers",
-    "targetId": "800"
-  },
-  {
-    "source": "Ian Duck",
-    "target": "Caleb Quaye",
-    "targetId": "806"
-  },
-  {
-    "source": "Ian Duck",
-    "target": "Roger Pope",
-    "targetId": "807"
-  },
-  {
-    "source": "Ian Duck",
-    "target": "Harry Nilsson",
-    "targetId": "3193"
-  }
-]
+{
+  "source": "Ian Duck",
+  "targets": [
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Herbie Flowers",
+      "targetId": "800"
+    },
+    {
+      "name": "Caleb Quaye",
+      "targetId": "806"
+    },
+    {
+      "name": "Roger Pope",
+      "targetId": "807"
+    },
+    {
+      "name": "Harry Nilsson",
+      "targetId": "3193"
+    }
+  ]
+}

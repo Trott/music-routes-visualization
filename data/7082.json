@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dave Pugh",
-    "target": "Steve Ramsey",
-    "targetId": "7072"
-  },
-  {
-    "source": "Dave Pugh",
-    "target": "Graeme English",
-    "targetId": "7073"
-  },
-  {
-    "source": "Dave Pugh",
-    "target": "Keith Baxter",
-    "targetId": "7081"
-  },
-  {
-    "source": "Dave Pugh",
-    "target": "Fritha Jenkins",
-    "targetId": "7083"
-  },
-  {
-    "source": "Dave Pugh",
-    "target": "Martin Walkyier",
-    "targetId": "7084"
-  }
-]
+{
+  "source": "Dave Pugh",
+  "targets": [
+    {
+      "name": "Steve Ramsey",
+      "targetId": "7072"
+    },
+    {
+      "name": "Graeme English",
+      "targetId": "7073"
+    },
+    {
+      "name": "Keith Baxter",
+      "targetId": "7081"
+    },
+    {
+      "name": "Fritha Jenkins",
+      "targetId": "7083"
+    },
+    {
+      "name": "Martin Walkyier",
+      "targetId": "7084"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jason Clark",
-    "target": "Morgan Henderson",
-    "targetId": "5755"
-  },
-  {
-    "source": "Jason Clark",
-    "target": "Jake Snider",
-    "targetId": "5760"
-  },
-  {
-    "source": "Jason Clark",
-    "target": "Nathan Turpen",
-    "targetId": "5762"
-  }
-]
+{
+  "source": "Jason Clark",
+  "targets": [
+    {
+      "name": "Morgan Henderson",
+      "targetId": "5755"
+    },
+    {
+      "name": "Jake Snider",
+      "targetId": "5760"
+    },
+    {
+      "name": "Nathan Turpen",
+      "targetId": "5762"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "James Williamson",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "James Williamson",
-    "target": "Ron Asheton",
-    "targetId": "3088"
-  },
-  {
-    "source": "James Williamson",
-    "target": "Scott Asheton",
-    "targetId": "3089"
-  },
-  {
-    "source": "James Williamson",
-    "target": "Scott Thurston",
-    "targetId": "4127"
-  }
-]
+{
+  "source": "James Williamson",
+  "targets": [
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Ron Asheton",
+      "targetId": "3088"
+    },
+    {
+      "name": "Scott Asheton",
+      "targetId": "3089"
+    },
+    {
+      "name": "Scott Thurston",
+      "targetId": "4127"
+    }
+  ]
+}

@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Joe Knapp",
-    "target": "Mike Mogis",
-    "targetId": "1680"
-  },
-  {
-    "source": "Joe Knapp",
-    "target": "Conor Oberst",
-    "targetId": "3101"
-  },
-  {
-    "source": "Joe Knapp",
-    "target": "Tim Kasher",
-    "targetId": "3248"
-  },
-  {
-    "source": "Joe Knapp",
-    "target": "Andy Lemaster",
-    "targetId": "3249"
-  },
-  {
-    "source": "Joe Knapp",
-    "target": "Jiha Lee",
-    "targetId": "3251"
-  },
-  {
-    "source": "Joe Knapp",
-    "target": "Matt Maginn",
-    "targetId": "3253"
-  },
-  {
-    "source": "Joe Knapp",
-    "target": "Todd Baechle",
-    "targetId": "3255"
-  }
-]
+{
+  "source": "Joe Knapp",
+  "targets": [
+    {
+      "name": "Mike Mogis",
+      "targetId": "1680"
+    },
+    {
+      "name": "Conor Oberst",
+      "targetId": "3101"
+    },
+    {
+      "name": "Tim Kasher",
+      "targetId": "3248"
+    },
+    {
+      "name": "Andy Lemaster",
+      "targetId": "3249"
+    },
+    {
+      "name": "Jiha Lee",
+      "targetId": "3251"
+    },
+    {
+      "name": "Matt Maginn",
+      "targetId": "3253"
+    },
+    {
+      "name": "Todd Baechle",
+      "targetId": "3255"
+    }
+  ]
+}

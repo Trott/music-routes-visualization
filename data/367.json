@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Hunt Sales",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Hunt Sales",
-    "target": "Reeves Gabrels",
-    "targetId": "365"
-  },
-  {
-    "source": "Hunt Sales",
-    "target": "Tony Sales",
-    "targetId": "368"
-  },
-  {
-    "source": "Hunt Sales",
-    "target": "Kevin Armstrong",
-    "targetId": "369"
-  },
-  {
-    "source": "Hunt Sales",
-    "target": "Carlos Alomar",
-    "targetId": "795"
-  },
-  {
-    "source": "Hunt Sales",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Hunt Sales",
-    "target": "Ricky Gardiner",
-    "targetId": "1833"
-  }
-]
+{
+  "source": "Hunt Sales",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Reeves Gabrels",
+      "targetId": "365"
+    },
+    {
+      "name": "Tony Sales",
+      "targetId": "368"
+    },
+    {
+      "name": "Kevin Armstrong",
+      "targetId": "369"
+    },
+    {
+      "name": "Carlos Alomar",
+      "targetId": "795"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Ricky Gardiner",
+      "targetId": "1833"
+    }
+  ]
+}

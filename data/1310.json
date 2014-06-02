@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mike Kapitan",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Mike Kapitan",
-    "target": "Matthew Seligman",
-    "targetId": "865"
-  },
-  {
-    "source": "Mike Kapitan",
-    "target": "Eddie Van Halen",
-    "targetId": "891"
-  },
-  {
-    "source": "Mike Kapitan",
-    "target": "Larry Treadwell",
-    "targetId": "1302"
-  },
-  {
-    "source": "Mike Kapitan",
-    "target": "Jill Colucci",
-    "targetId": "1309"
-  }
-]
+{
+  "source": "Mike Kapitan",
+  "targets": [
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Matthew Seligman",
+      "targetId": "865"
+    },
+    {
+      "name": "Eddie Van Halen",
+      "targetId": "891"
+    },
+    {
+      "name": "Larry Treadwell",
+      "targetId": "1302"
+    },
+    {
+      "name": "Jill Colucci",
+      "targetId": "1309"
+    }
+  ]
+}

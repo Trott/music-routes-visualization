@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Greig Nori",
-    "target": "Steve Jocz",
-    "targetId": "3033"
-  },
-  {
-    "source": "Greig Nori",
-    "target": "Deryck Whibley",
-    "targetId": "6297"
-  },
-  {
-    "source": "Greig Nori",
-    "target": "Cone McCaslin",
-    "targetId": "6304"
-  },
-  {
-    "source": "Greig Nori",
-    "target": "Dave Baksh",
-    "targetId": "6305"
-  }
-]
+{
+  "source": "Greig Nori",
+  "targets": [
+    {
+      "name": "Steve Jocz",
+      "targetId": "3033"
+    },
+    {
+      "name": "Deryck Whibley",
+      "targetId": "6297"
+    },
+    {
+      "name": "Cone McCaslin",
+      "targetId": "6304"
+    },
+    {
+      "name": "Dave Baksh",
+      "targetId": "6305"
+    }
+  ]
+}

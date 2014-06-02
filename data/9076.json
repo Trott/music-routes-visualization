@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dan Cross",
-    "target": "Phil Parfitt",
-    "targetId": "9075"
-  },
-  {
-    "source": "Dan Cross",
-    "target": "Martin Langshaw",
-    "targetId": "9077"
-  },
-  {
-    "source": "Dan Cross",
-    "target": "Josephine Wiggs",
-    "targetId": "9078"
-  }
-]
+{
+  "source": "Dan Cross",
+  "targets": [
+    {
+      "name": "Phil Parfitt",
+      "targetId": "9075"
+    },
+    {
+      "name": "Martin Langshaw",
+      "targetId": "9077"
+    },
+    {
+      "name": "Josephine Wiggs",
+      "targetId": "9078"
+    }
+  ]
+}

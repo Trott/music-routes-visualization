@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Paul Raymond",
-    "target": "Andy Pyle",
-    "targetId": "2519"
-  },
-  {
-    "source": "Paul Raymond",
-    "target": "Tommy McClendon",
-    "targetId": "5014"
-  },
-  {
-    "source": "Paul Raymond",
-    "target": "Phil Mogg",
-    "targetId": "5016"
-  },
-  {
-    "source": "Paul Raymond",
-    "target": "Paul Gray",
-    "targetId": "5017"
-  },
-  {
-    "source": "Paul Raymond",
-    "target": "Jim Simpson",
-    "targetId": "5019"
-  },
-  {
-    "source": "Paul Raymond",
-    "target": "Dave Walker",
-    "targetId": "5020"
-  },
-  {
-    "source": "Paul Raymond",
-    "target": "Kim Simmonds",
-    "targetId": "5021"
-  },
-  {
-    "source": "Paul Raymond",
-    "target": "Dave Bidwell",
-    "targetId": "5022"
-  }
-]
+{
+  "source": "Paul Raymond",
+  "targets": [
+    {
+      "name": "Andy Pyle",
+      "targetId": "2519"
+    },
+    {
+      "name": "Tommy McClendon",
+      "targetId": "5014"
+    },
+    {
+      "name": "Phil Mogg",
+      "targetId": "5016"
+    },
+    {
+      "name": "Paul Gray",
+      "targetId": "5017"
+    },
+    {
+      "name": "Jim Simpson",
+      "targetId": "5019"
+    },
+    {
+      "name": "Dave Walker",
+      "targetId": "5020"
+    },
+    {
+      "name": "Kim Simmonds",
+      "targetId": "5021"
+    },
+    {
+      "name": "Dave Bidwell",
+      "targetId": "5022"
+    }
+  ]
+}

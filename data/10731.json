@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Michael Wood",
-    "target": "Steve Gadd",
-    "targetId": "1262"
-  },
-  {
-    "source": "Michael Wood",
-    "target": "Kate Bush",
-    "targetId": "2197"
-  },
-  {
-    "source": "Michael Wood",
-    "target": "Stefan Roberts",
-    "targetId": "10730"
-  }
-]
+{
+  "source": "Michael Wood",
+  "targets": [
+    {
+      "name": "Steve Gadd",
+      "targetId": "1262"
+    },
+    {
+      "name": "Kate Bush",
+      "targetId": "2197"
+    },
+    {
+      "name": "Stefan Roberts",
+      "targetId": "10730"
+    }
+  ]
+}

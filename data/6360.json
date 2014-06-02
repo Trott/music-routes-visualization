@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Guus Meeuwis",
-    "target": "Hugo van Bilsen",
-    "targetId": "6361"
-  },
-  {
-    "source": "Guus Meeuwis",
-    "target": "Mark Meeuwis",
-    "targetId": "6362"
-  },
-  {
-    "source": "Guus Meeuwis",
-    "target": "Robin van Beek",
-    "targetId": "6363"
-  },
-  {
-    "source": "Guus Meeuwis",
-    "target": "Dirk Oerlemans",
-    "targetId": "6364"
-  }
-]
+{
+  "source": "Guus Meeuwis",
+  "targets": [
+    {
+      "name": "Hugo van Bilsen",
+      "targetId": "6361"
+    },
+    {
+      "name": "Mark Meeuwis",
+      "targetId": "6362"
+    },
+    {
+      "name": "Robin van Beek",
+      "targetId": "6363"
+    },
+    {
+      "name": "Dirk Oerlemans",
+      "targetId": "6364"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pete Webster",
-    "target": "Greg Ashley",
-    "targetId": "1590"
-  },
-  {
-    "source": "Pete Webster",
-    "target": "Brian Glaze",
-    "targetId": "5948"
-  },
-  {
-    "source": "Pete Webster",
-    "target": "Yea-Ming Chen",
-    "targetId": "5950"
-  }
-]
+{
+  "source": "Pete Webster",
+  "targets": [
+    {
+      "name": "Greg Ashley",
+      "targetId": "1590"
+    },
+    {
+      "name": "Brian Glaze",
+      "targetId": "5948"
+    },
+    {
+      "name": "Yea-Ming Chen",
+      "targetId": "5950"
+    }
+  ]
+}

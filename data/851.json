@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Robert Palmer",
-    "target": "John Taylor",
-    "targetId": "101"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Andy Taylor",
-    "targetId": "127"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Chris Frantz",
-    "targetId": "195"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Jack Waldman",
-    "targetId": "852"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Dony Wynn",
-    "targetId": "853"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Gary Numan",
-    "targetId": "854"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Kenny Mazur",
-    "targetId": "855"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Andy Fraser",
-    "targetId": "856"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Alan Mansfield",
-    "targetId": "857"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Paul Gardiner",
-    "targetId": "858"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Tony Thompson",
-    "targetId": "6881"
-  },
-  {
-    "source": "Robert Palmer",
-    "target": "Larry Adler",
-    "targetId": "9568"
-  }
-]
+{
+  "source": "Robert Palmer",
+  "targets": [
+    {
+      "name": "John Taylor",
+      "targetId": "101"
+    },
+    {
+      "name": "Andy Taylor",
+      "targetId": "127"
+    },
+    {
+      "name": "Chris Frantz",
+      "targetId": "195"
+    },
+    {
+      "name": "Jack Waldman",
+      "targetId": "852"
+    },
+    {
+      "name": "Dony Wynn",
+      "targetId": "853"
+    },
+    {
+      "name": "Gary Numan",
+      "targetId": "854"
+    },
+    {
+      "name": "Kenny Mazur",
+      "targetId": "855"
+    },
+    {
+      "name": "Andy Fraser",
+      "targetId": "856"
+    },
+    {
+      "name": "Alan Mansfield",
+      "targetId": "857"
+    },
+    {
+      "name": "Paul Gardiner",
+      "targetId": "858"
+    },
+    {
+      "name": "Tony Thompson",
+      "targetId": "6881"
+    },
+    {
+      "name": "Larry Adler",
+      "targetId": "9568"
+    }
+  ]
+}

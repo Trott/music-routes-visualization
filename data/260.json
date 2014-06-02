@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bobby Rock",
-    "target": "Vinnie Vincent",
-    "targetId": "257"
-  },
-  {
-    "source": "Bobby Rock",
-    "target": "Mark Slaughter",
-    "targetId": "258"
-  },
-  {
-    "source": "Bobby Rock",
-    "target": "Dana Strum",
-    "targetId": "259"
-  },
-  {
-    "source": "Bobby Rock",
-    "target": "Robert Fleischman",
-    "targetId": "261"
-  }
-]
+{
+  "source": "Bobby Rock",
+  "targets": [
+    {
+      "name": "Vinnie Vincent",
+      "targetId": "257"
+    },
+    {
+      "name": "Mark Slaughter",
+      "targetId": "258"
+    },
+    {
+      "name": "Dana Strum",
+      "targetId": "259"
+    },
+    {
+      "name": "Robert Fleischman",
+      "targetId": "261"
+    }
+  ]
+}

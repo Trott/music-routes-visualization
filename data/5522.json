@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Milt Hinton",
-    "target": "Dick Hyman",
-    "targetId": "5520"
-  },
-  {
-    "source": "Milt Hinton",
-    "target": "Tony Scott",
-    "targetId": "5521"
-  },
-  {
-    "source": "Milt Hinton",
-    "target": "Osie Johnson",
-    "targetId": "5523"
-  }
-]
+{
+  "source": "Milt Hinton",
+  "targets": [
+    {
+      "name": "Dick Hyman",
+      "targetId": "5520"
+    },
+    {
+      "name": "Tony Scott",
+      "targetId": "5521"
+    },
+    {
+      "name": "Osie Johnson",
+      "targetId": "5523"
+    }
+  ]
+}

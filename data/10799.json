@@ -1,27 +1,25 @@
-[
-  {
-    "source": "David Farrell",
-    "target": "Ann Yu",
-    "targetId": "10797"
-  },
-  {
-    "source": "David Farrell",
-    "target": "Jesse Hayes",
-    "targetId": "10800"
-  },
-  {
-    "source": "David Farrell",
-    "target": "Ted Parker",
-    "targetId": "10801"
-  },
-  {
-    "source": "David Farrell",
-    "target": "Eric Amerman",
-    "targetId": "10802"
-  },
-  {
-    "source": "David Farrell",
-    "target": "Marty Mattern",
-    "targetId": "10803"
-  }
-]
+{
+  "source": "David Farrell",
+  "targets": [
+    {
+      "name": "Ann Yu",
+      "targetId": "10797"
+    },
+    {
+      "name": "Jesse Hayes",
+      "targetId": "10800"
+    },
+    {
+      "name": "Ted Parker",
+      "targetId": "10801"
+    },
+    {
+      "name": "Eric Amerman",
+      "targetId": "10802"
+    },
+    {
+      "name": "Marty Mattern",
+      "targetId": "10803"
+    }
+  ]
+}

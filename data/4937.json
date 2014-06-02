@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mark Kozelek",
-    "target": "Tim Mooney",
-    "targetId": "1001"
-  },
-  {
-    "source": "Mark Kozelek",
-    "target": "Geoff Stanfield",
-    "targetId": "4935"
-  },
-  {
-    "source": "Mark Kozelek",
-    "target": "Anthony Koutsos",
-    "targetId": "4936"
-  },
-  {
-    "source": "Mark Kozelek",
-    "target": "Jerry Vessel",
-    "targetId": "4938"
-  },
-  {
-    "source": "Mark Kozelek",
-    "target": "Phil Carney",
-    "targetId": "4939"
-  }
-]
+{
+  "source": "Mark Kozelek",
+  "targets": [
+    {
+      "name": "Tim Mooney",
+      "targetId": "1001"
+    },
+    {
+      "name": "Geoff Stanfield",
+      "targetId": "4935"
+    },
+    {
+      "name": "Anthony Koutsos",
+      "targetId": "4936"
+    },
+    {
+      "name": "Jerry Vessel",
+      "targetId": "4938"
+    },
+    {
+      "name": "Phil Carney",
+      "targetId": "4939"
+    }
+  ]
+}

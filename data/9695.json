@@ -1,142 +1,117 @@
-[
-  {
-    "source": "Leon Calvert",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Dick Morgan",
-    "targetId": "9692"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Mike Winfield",
-    "targetId": "9693"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Frank Clarke",
-    "targetId": "9694"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Freddy Clayton",
-    "targetId": "9696"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Bert Courtley",
-    "targetId": "9697"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Duncan Campbell",
-    "targetId": "9698"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "David Mason",
-    "targetId": "9699"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Ray Swinfield",
-    "targetId": "9700"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "P. Goody",
-    "targetId": "9701"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Manny Winters",
-    "targetId": "9702"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Leo Birnbaum",
-    "targetId": "9718"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Tony Tunstall",
-    "targetId": "9726"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Reginald Kilbey",
-    "targetId": "9766"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Alf Reece",
-    "targetId": "9819"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Ted Barker",
-    "targetId": "9820"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Ronnie Hughes",
-    "targetId": "9821"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Stanley Reynolds",
-    "targetId": "9822"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Frederick Alexander",
-    "targetId": "9823"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Henry Myerscough",
-    "targetId": "9824"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Les Maddox",
-    "targetId": "9825"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Bernard Miller",
-    "targetId": "9826"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Dennis McConnell",
-    "targetId": "9827"
-  },
-  {
-    "source": "Leon Calvert",
-    "target": "Lou Soufier",
-    "targetId": "9828"
-  }
-]
+{
+  "source": "Leon Calvert",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Dick Morgan",
+      "targetId": "9692"
+    },
+    {
+      "name": "Mike Winfield",
+      "targetId": "9693"
+    },
+    {
+      "name": "Frank Clarke",
+      "targetId": "9694"
+    },
+    {
+      "name": "Freddy Clayton",
+      "targetId": "9696"
+    },
+    {
+      "name": "Bert Courtley",
+      "targetId": "9697"
+    },
+    {
+      "name": "Duncan Campbell",
+      "targetId": "9698"
+    },
+    {
+      "name": "David Mason",
+      "targetId": "9699"
+    },
+    {
+      "name": "Ray Swinfield",
+      "targetId": "9700"
+    },
+    {
+      "name": "P. Goody",
+      "targetId": "9701"
+    },
+    {
+      "name": "Manny Winters",
+      "targetId": "9702"
+    },
+    {
+      "name": "Leo Birnbaum",
+      "targetId": "9718"
+    },
+    {
+      "name": "Tony Tunstall",
+      "targetId": "9726"
+    },
+    {
+      "name": "Reginald Kilbey",
+      "targetId": "9766"
+    },
+    {
+      "name": "Alf Reece",
+      "targetId": "9819"
+    },
+    {
+      "name": "Ted Barker",
+      "targetId": "9820"
+    },
+    {
+      "name": "Ronnie Hughes",
+      "targetId": "9821"
+    },
+    {
+      "name": "Stanley Reynolds",
+      "targetId": "9822"
+    },
+    {
+      "name": "Frederick Alexander",
+      "targetId": "9823"
+    },
+    {
+      "name": "Henry Myerscough",
+      "targetId": "9824"
+    },
+    {
+      "name": "Les Maddox",
+      "targetId": "9825"
+    },
+    {
+      "name": "Bernard Miller",
+      "targetId": "9826"
+    },
+    {
+      "name": "Dennis McConnell",
+      "targetId": "9827"
+    },
+    {
+      "name": "Lou Soufier",
+      "targetId": "9828"
+    }
+  ]
+}

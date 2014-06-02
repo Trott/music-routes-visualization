@@ -1,27 +1,25 @@
-[
-  {
-    "source": "David Barret",
-    "target": "Chris Grady",
-    "targetId": "996"
-  },
-  {
-    "source": "David Barret",
-    "target": "Emily Bezar",
-    "targetId": "5037"
-  },
-  {
-    "source": "David Barret",
-    "target": "Andrew Higgins",
-    "targetId": "5039"
-  },
-  {
-    "source": "David Barret",
-    "target": "Steve Rossi",
-    "targetId": "5040"
-  },
-  {
-    "source": "David Barret",
-    "target": "Morris Acevedo",
-    "targetId": "5041"
-  }
-]
+{
+  "source": "David Barret",
+  "targets": [
+    {
+      "name": "Chris Grady",
+      "targetId": "996"
+    },
+    {
+      "name": "Emily Bezar",
+      "targetId": "5037"
+    },
+    {
+      "name": "Andrew Higgins",
+      "targetId": "5039"
+    },
+    {
+      "name": "Steve Rossi",
+      "targetId": "5040"
+    },
+    {
+      "name": "Morris Acevedo",
+      "targetId": "5041"
+    }
+  ]
+}

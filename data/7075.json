@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ian Jones",
-    "target": "Brian Ross",
-    "targetId": "7070"
-  },
-  {
-    "source": "Ian Jones",
-    "target": "Steve Abbey",
-    "targetId": "7076"
-  },
-  {
-    "source": "Ian Jones",
-    "target": "Steve English",
-    "targetId": "7077"
-  },
-  {
-    "source": "Ian Jones",
-    "target": "Jim Sirotto",
-    "targetId": "7078"
-  },
-  {
-    "source": "Ian Jones",
-    "target": "Electra Cliffton Smith",
-    "targetId": "7079"
-  },
-  {
-    "source": "Ian Jones",
-    "target": "Pete Riley",
-    "targetId": "7080"
-  }
-]
+{
+  "source": "Ian Jones",
+  "targets": [
+    {
+      "name": "Brian Ross",
+      "targetId": "7070"
+    },
+    {
+      "name": "Steve Abbey",
+      "targetId": "7076"
+    },
+    {
+      "name": "Steve English",
+      "targetId": "7077"
+    },
+    {
+      "name": "Jim Sirotto",
+      "targetId": "7078"
+    },
+    {
+      "name": "Electra Cliffton Smith",
+      "targetId": "7079"
+    },
+    {
+      "name": "Pete Riley",
+      "targetId": "7080"
+    }
+  ]
+}

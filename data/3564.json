@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Dave Hills",
-    "target": "Mark Lanegan",
-    "targetId": "779"
-  },
-  {
-    "source": "Dave Hills",
-    "target": "Greg Dulli",
-    "targetId": "1641"
-  },
-  {
-    "source": "Dave Hills",
-    "target": "Jon Skibic",
-    "targetId": "1642"
-  },
-  {
-    "source": "Dave Hills",
-    "target": "Bobby MacIntyre",
-    "targetId": "1661"
-  },
-  {
-    "source": "Dave Hills",
-    "target": "John Nooney",
-    "targetId": "3563"
-  },
-  {
-    "source": "Dave Hills",
-    "target": "Helen Storer",
-    "targetId": "3565"
-  }
-]
+{
+  "source": "Dave Hills",
+  "targets": [
+    {
+      "name": "Mark Lanegan",
+      "targetId": "779"
+    },
+    {
+      "name": "Greg Dulli",
+      "targetId": "1641"
+    },
+    {
+      "name": "Jon Skibic",
+      "targetId": "1642"
+    },
+    {
+      "name": "Bobby MacIntyre",
+      "targetId": "1661"
+    },
+    {
+      "name": "John Nooney",
+      "targetId": "3563"
+    },
+    {
+      "name": "Helen Storer",
+      "targetId": "3565"
+    }
+  ]
+}

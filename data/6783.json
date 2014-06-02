@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mark Price",
-    "target": "Eric Bachmann",
-    "targetId": "6780"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Eric Johnson",
-    "targetId": "6781"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Matt Gentling",
-    "targetId": "6782"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Darren Jessee",
-    "targetId": "6799"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Roger Gupton",
-    "targetId": "6800"
-  },
-  {
-    "source": "Mark Price",
-    "target": "Chris Badger",
-    "targetId": "6801"
-  }
-]
+{
+  "source": "Mark Price",
+  "targets": [
+    {
+      "name": "Eric Bachmann",
+      "targetId": "6780"
+    },
+    {
+      "name": "Eric Johnson",
+      "targetId": "6781"
+    },
+    {
+      "name": "Matt Gentling",
+      "targetId": "6782"
+    },
+    {
+      "name": "Darren Jessee",
+      "targetId": "6799"
+    },
+    {
+      "name": "Roger Gupton",
+      "targetId": "6800"
+    },
+    {
+      "name": "Chris Badger",
+      "targetId": "6801"
+    }
+  ]
+}

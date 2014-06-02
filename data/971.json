@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Rick Derringer",
-    "target": "Vinnie Vincent",
-    "targetId": "257"
-  },
-  {
-    "source": "Rick Derringer",
-    "target": "Gene Simmons",
-    "targetId": "968"
-  },
-  {
-    "source": "Rick Derringer",
-    "target": "Paul Stanley",
-    "targetId": "969"
-  },
-  {
-    "source": "Rick Derringer",
-    "target": "Eric Carr",
-    "targetId": "972"
-  },
-  {
-    "source": "Rick Derringer",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Rick Derringer",
-    "target": "Buddy Guy",
-    "targetId": "2172"
-  },
-  {
-    "source": "Rick Derringer",
-    "target": "Les Paul",
-    "targetId": "6561"
-  }
-]
+{
+  "source": "Rick Derringer",
+  "targets": [
+    {
+      "name": "Vinnie Vincent",
+      "targetId": "257"
+    },
+    {
+      "name": "Gene Simmons",
+      "targetId": "968"
+    },
+    {
+      "name": "Paul Stanley",
+      "targetId": "969"
+    },
+    {
+      "name": "Eric Carr",
+      "targetId": "972"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Buddy Guy",
+      "targetId": "2172"
+    },
+    {
+      "name": "Les Paul",
+      "targetId": "6561"
+    }
+  ]
+}

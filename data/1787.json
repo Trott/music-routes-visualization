@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Dinah Shore",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Dinah Shore",
-    "target": "Xavier Cugat",
-    "targetId": "10484"
-  }
-]
+{
+  "source": "Dinah Shore",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Xavier Cugat",
+      "targetId": "10484"
+    }
+  ]
+}

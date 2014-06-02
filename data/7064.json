@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Tiësto",
-    "target": "BT",
-    "targetId": "4438"
-  },
-  {
-    "source": "Tiësto",
-    "target": "Tegan Quin",
-    "targetId": "7822"
-  },
-  {
-    "source": "Tiësto",
-    "target": "Sara Quin",
-    "targetId": "7823"
-  }
-]
+{
+  "source": "Tiësto",
+  "targets": [
+    {
+      "name": "BT",
+      "targetId": "4438"
+    },
+    {
+      "name": "Tegan Quin",
+      "targetId": "7822"
+    },
+    {
+      "name": "Sara Quin",
+      "targetId": "7823"
+    }
+  ]
+}

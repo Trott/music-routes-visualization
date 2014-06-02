@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Arthur Lyman",
-    "target": "Harold Chang",
-    "targetId": "1942"
-  },
-  {
-    "source": "Arthur Lyman",
-    "target": "Augie Colon",
-    "targetId": "1943"
-  },
-  {
-    "source": "Arthur Lyman",
-    "target": "John Kramer",
-    "targetId": "1944"
-  },
-  {
-    "source": "Arthur Lyman",
-    "target": "Martin Denny",
-    "targetId": "1945"
-  },
-  {
-    "source": "Arthur Lyman",
-    "target": "Alan Soares",
-    "targetId": "1947"
-  }
-]
+{
+  "source": "Arthur Lyman",
+  "targets": [
+    {
+      "name": "Harold Chang",
+      "targetId": "1942"
+    },
+    {
+      "name": "Augie Colon",
+      "targetId": "1943"
+    },
+    {
+      "name": "John Kramer",
+      "targetId": "1944"
+    },
+    {
+      "name": "Martin Denny",
+      "targetId": "1945"
+    },
+    {
+      "name": "Alan Soares",
+      "targetId": "1947"
+    }
+  ]
+}

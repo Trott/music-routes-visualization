@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Jeff Daly",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Midge Ure",
-    "targetId": "96"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Chris Cross",
-    "targetId": "100"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Marco Pirroni",
-    "targetId": "831"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Adam Ant",
-    "targetId": "832"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Bogdan Wiczling",
-    "targetId": "833"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Martin Drover",
-    "targetId": "834"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Mark Isham",
-    "targetId": "924"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Doreen Chanter",
-    "targetId": "1959"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Micky Moody",
-    "targetId": "2521"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Sheena Easton",
-    "targetId": "2658"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Chas Jankel",
-    "targetId": "3373"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "John Altman",
-    "targetId": "3374"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Digby Fairweather",
-    "targetId": "3375"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Malcolm Griffiths",
-    "targetId": "3376"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Michael Henry",
-    "targetId": "3377"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Paul Cosh",
-    "targetId": "3378"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Donovan",
-    "targetId": "3379"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Mo Foster",
-    "targetId": "3380"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Neil Murray",
-    "targetId": "3381"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Linda Taylor",
-    "targetId": "3382"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Sharon Campbell",
-    "targetId": "3384"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Tom Robinson",
-    "targetId": "3385"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "John Etheridge",
-    "targetId": "3387"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Neil Innes",
-    "targetId": "3388"
-  },
-  {
-    "source": "Jeff Daly",
-    "target": "Ray Russell",
-    "targetId": "3389"
-  }
-]
+{
+  "source": "Jeff Daly",
+  "targets": [
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Midge Ure",
+      "targetId": "96"
+    },
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Chris Cross",
+      "targetId": "100"
+    },
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Marco Pirroni",
+      "targetId": "831"
+    },
+    {
+      "name": "Adam Ant",
+      "targetId": "832"
+    },
+    {
+      "name": "Bogdan Wiczling",
+      "targetId": "833"
+    },
+    {
+      "name": "Martin Drover",
+      "targetId": "834"
+    },
+    {
+      "name": "Mark Isham",
+      "targetId": "924"
+    },
+    {
+      "name": "Doreen Chanter",
+      "targetId": "1959"
+    },
+    {
+      "name": "Micky Moody",
+      "targetId": "2521"
+    },
+    {
+      "name": "Sheena Easton",
+      "targetId": "2658"
+    },
+    {
+      "name": "Chas Jankel",
+      "targetId": "3373"
+    },
+    {
+      "name": "John Altman",
+      "targetId": "3374"
+    },
+    {
+      "name": "Digby Fairweather",
+      "targetId": "3375"
+    },
+    {
+      "name": "Malcolm Griffiths",
+      "targetId": "3376"
+    },
+    {
+      "name": "Michael Henry",
+      "targetId": "3377"
+    },
+    {
+      "name": "Paul Cosh",
+      "targetId": "3378"
+    },
+    {
+      "name": "Donovan",
+      "targetId": "3379"
+    },
+    {
+      "name": "Mo Foster",
+      "targetId": "3380"
+    },
+    {
+      "name": "Neil Murray",
+      "targetId": "3381"
+    },
+    {
+      "name": "Linda Taylor",
+      "targetId": "3382"
+    },
+    {
+      "name": "Sharon Campbell",
+      "targetId": "3384"
+    },
+    {
+      "name": "Tom Robinson",
+      "targetId": "3385"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "John Etheridge",
+      "targetId": "3387"
+    },
+    {
+      "name": "Neil Innes",
+      "targetId": "3388"
+    },
+    {
+      "name": "Ray Russell",
+      "targetId": "3389"
+    }
+  ]
+}

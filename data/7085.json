@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ben Harding",
-    "target": "Keith Baxter",
-    "targetId": "7081"
-  },
-  {
-    "source": "Ben Harding",
-    "target": "Chris McCormack",
-    "targetId": "7086"
-  },
-  {
-    "source": "Ben Harding",
-    "target": "Pete Vuckovic",
-    "targetId": "7087"
-  }
-]
+{
+  "source": "Ben Harding",
+  "targets": [
+    {
+      "name": "Keith Baxter",
+      "targetId": "7081"
+    },
+    {
+      "name": "Chris McCormack",
+      "targetId": "7086"
+    },
+    {
+      "name": "Pete Vuckovic",
+      "targetId": "7087"
+    }
+  ]
+}

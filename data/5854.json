@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Susswell",
-    "target": "Steve Winwood",
-    "targetId": "905"
-  },
-  {
-    "source": "John Susswell",
-    "target": "Alan Spenner",
-    "targetId": "5853"
-  },
-  {
-    "source": "John Susswell",
-    "target": "Junior Marvin",
-    "targetId": "5855"
-  },
-  {
-    "source": "John Susswell",
-    "target": "Brother James",
-    "targetId": "5856"
-  }
-]
+{
+  "source": "John Susswell",
+  "targets": [
+    {
+      "name": "Steve Winwood",
+      "targetId": "905"
+    },
+    {
+      "name": "Alan Spenner",
+      "targetId": "5853"
+    },
+    {
+      "name": "Junior Marvin",
+      "targetId": "5855"
+    },
+    {
+      "name": "Brother James",
+      "targetId": "5856"
+    }
+  ]
+}

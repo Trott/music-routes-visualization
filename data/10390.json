@@ -1,42 +1,37 @@
-[
-  {
-    "source": "David Walters",
-    "target": "Micky Dolenz",
-    "targetId": "2415"
-  },
-  {
-    "source": "David Walters",
-    "target": "Larry Taylor",
-    "targetId": "2567"
-  },
-  {
-    "source": "David Walters",
-    "target": "Louis Shelton",
-    "targetId": "7818"
-  },
-  {
-    "source": "David Walters",
-    "target": "Tommy Boyce",
-    "targetId": "10385"
-  },
-  {
-    "source": "David Walters",
-    "target": "Wayne Erwin",
-    "targetId": "10386"
-  },
-  {
-    "source": "David Walters",
-    "target": "Gerry McGee",
-    "targetId": "10387"
-  },
-  {
-    "source": "David Walters",
-    "target": "Billy Lewis",
-    "targetId": "10388"
-  },
-  {
-    "source": "David Walters",
-    "target": "Gene Estes",
-    "targetId": "10389"
-  }
-]
+{
+  "source": "David Walters",
+  "targets": [
+    {
+      "name": "Micky Dolenz",
+      "targetId": "2415"
+    },
+    {
+      "name": "Larry Taylor",
+      "targetId": "2567"
+    },
+    {
+      "name": "Louis Shelton",
+      "targetId": "7818"
+    },
+    {
+      "name": "Tommy Boyce",
+      "targetId": "10385"
+    },
+    {
+      "name": "Wayne Erwin",
+      "targetId": "10386"
+    },
+    {
+      "name": "Gerry McGee",
+      "targetId": "10387"
+    },
+    {
+      "name": "Billy Lewis",
+      "targetId": "10388"
+    },
+    {
+      "name": "Gene Estes",
+      "targetId": "10389"
+    }
+  ]
+}

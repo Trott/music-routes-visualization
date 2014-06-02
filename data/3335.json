@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Jake Tullock",
-    "target": "Buddy Harman",
-    "targetId": "1131"
-  },
-  {
-    "source": "Jake Tullock",
-    "target": "Grady Martin",
-    "targetId": "1134"
-  },
-  {
-    "source": "Jake Tullock",
-    "target": "Charlie McCoy",
-    "targetId": "1211"
-  },
-  {
-    "source": "Jake Tullock",
-    "target": "Doc Watson",
-    "targetId": "3328"
-  },
-  {
-    "source": "Jake Tullock",
-    "target": "Lester Flatt",
-    "targetId": "3333"
-  },
-  {
-    "source": "Jake Tullock",
-    "target": "Earl Scruggs",
-    "targetId": "3334"
-  },
-  {
-    "source": "Jake Tullock",
-    "target": "Buck Graves",
-    "targetId": "3336"
-  },
-  {
-    "source": "Jake Tullock",
-    "target": "Paul Warren",
-    "targetId": "3337"
-  }
-]
+{
+  "source": "Jake Tullock",
+  "targets": [
+    {
+      "name": "Buddy Harman",
+      "targetId": "1131"
+    },
+    {
+      "name": "Grady Martin",
+      "targetId": "1134"
+    },
+    {
+      "name": "Charlie McCoy",
+      "targetId": "1211"
+    },
+    {
+      "name": "Doc Watson",
+      "targetId": "3328"
+    },
+    {
+      "name": "Lester Flatt",
+      "targetId": "3333"
+    },
+    {
+      "name": "Earl Scruggs",
+      "targetId": "3334"
+    },
+    {
+      "name": "Buck Graves",
+      "targetId": "3336"
+    },
+    {
+      "name": "Paul Warren",
+      "targetId": "3337"
+    }
+  ]
+}

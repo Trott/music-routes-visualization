@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Bryan Ramirez",
-    "target": "Gretchen Gonzales",
-    "targetId": "3822"
-  },
-  {
-    "source": "Bryan Ramirez",
-    "target": "John Olson",
-    "targetId": "3825"
-  }
-]
+{
+  "source": "Bryan Ramirez",
+  "targets": [
+    {
+      "name": "Gretchen Gonzales",
+      "targetId": "3822"
+    },
+    {
+      "name": "John Olson",
+      "targetId": "3825"
+    }
+  ]
+}

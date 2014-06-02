@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Martin Rotsey",
-    "target": "Peter Garrett",
-    "targetId": "10834"
-  },
-  {
-    "source": "Martin Rotsey",
-    "target": "Rob Hirst",
-    "targetId": "10835"
-  },
-  {
-    "source": "Martin Rotsey",
-    "target": "Jim Moginie",
-    "targetId": "10836"
-  },
-  {
-    "source": "Martin Rotsey",
-    "target": "Peter Gifford",
-    "targetId": "10838"
-  }
-]
+{
+  "source": "Martin Rotsey",
+  "targets": [
+    {
+      "name": "Peter Garrett",
+      "targetId": "10834"
+    },
+    {
+      "name": "Rob Hirst",
+      "targetId": "10835"
+    },
+    {
+      "name": "Jim Moginie",
+      "targetId": "10836"
+    },
+    {
+      "name": "Peter Gifford",
+      "targetId": "10838"
+    }
+  ]
+}

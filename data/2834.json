@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Brad Wilk",
-    "target": "Stephen Perkins",
-    "targetId": "768"
-  },
-  {
-    "source": "Brad Wilk",
-    "target": "Tom Morello",
-    "targetId": "848"
-  },
-  {
-    "source": "Brad Wilk",
-    "target": "Zack de la Rocha",
-    "targetId": "2832"
-  },
-  {
-    "source": "Brad Wilk",
-    "target": "Timothy Commerford",
-    "targetId": "2833"
-  },
-  {
-    "source": "Brad Wilk",
-    "target": "Maynard James Keenan",
-    "targetId": "8028"
-  }
-]
+{
+  "source": "Brad Wilk",
+  "targets": [
+    {
+      "name": "Stephen Perkins",
+      "targetId": "768"
+    },
+    {
+      "name": "Tom Morello",
+      "targetId": "848"
+    },
+    {
+      "name": "Zack de la Rocha",
+      "targetId": "2832"
+    },
+    {
+      "name": "Timothy Commerford",
+      "targetId": "2833"
+    },
+    {
+      "name": "Maynard James Keenan",
+      "targetId": "8028"
+    }
+  ]
+}

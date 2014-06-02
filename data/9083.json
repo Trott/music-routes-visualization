@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Boutier",
-    "target": "Frank Black",
-    "targetId": "769"
-  },
-  {
-    "source": "Scott Boutier",
-    "target": "Lyle Workman",
-    "targetId": "2874"
-  },
-  {
-    "source": "Scott Boutier",
-    "target": "Matt Yelton",
-    "targetId": "9081"
-  },
-  {
-    "source": "Scott Boutier",
-    "target": "David McCaffrey",
-    "targetId": "9082"
-  }
-]
+{
+  "source": "Scott Boutier",
+  "targets": [
+    {
+      "name": "Frank Black",
+      "targetId": "769"
+    },
+    {
+      "name": "Lyle Workman",
+      "targetId": "2874"
+    },
+    {
+      "name": "Matt Yelton",
+      "targetId": "9081"
+    },
+    {
+      "name": "David McCaffrey",
+      "targetId": "9082"
+    }
+  ]
+}

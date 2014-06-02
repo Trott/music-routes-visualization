@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ted Turner",
-    "target": "Andy Pyle",
-    "targetId": "2519"
-  },
-  {
-    "source": "Ted Turner",
-    "target": "Ray Weston",
-    "targetId": "5030"
-  },
-  {
-    "source": "Ted Turner",
-    "target": "Andy Powell",
-    "targetId": "5034"
-  }
-]
+{
+  "source": "Ted Turner",
+  "targets": [
+    {
+      "name": "Andy Pyle",
+      "targetId": "2519"
+    },
+    {
+      "name": "Ray Weston",
+      "targetId": "5030"
+    },
+    {
+      "name": "Andy Powell",
+      "targetId": "5034"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Paul Quinichette",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Paul Quinichette",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  },
-  {
-    "source": "Paul Quinichette",
-    "target": "Billie Holiday",
-    "targetId": "2704"
-  },
-  {
-    "source": "Paul Quinichette",
-    "target": "Joe Newman",
-    "targetId": "2750"
-  },
-  {
-    "source": "Paul Quinichette",
-    "target": "Freddie Green",
-    "targetId": "2757"
-  },
-  {
-    "source": "Paul Quinichette",
-    "target": "Gus Johnson",
-    "targetId": "7162"
-  }
-]
+{
+  "source": "Paul Quinichette",
+  "targets": [
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    },
+    {
+      "name": "Billie Holiday",
+      "targetId": "2704"
+    },
+    {
+      "name": "Joe Newman",
+      "targetId": "2750"
+    },
+    {
+      "name": "Freddie Green",
+      "targetId": "2757"
+    },
+    {
+      "name": "Gus Johnson",
+      "targetId": "7162"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Anna McGarrigle",
-    "target": "Joan Baez",
-    "targetId": "5959"
-  },
-  {
-    "source": "Anna McGarrigle",
-    "target": "Kate McGarrigle",
-    "targetId": "6642"
-  }
-]
+{
+  "source": "Anna McGarrigle",
+  "targets": [
+    {
+      "name": "Joan Baez",
+      "targetId": "5959"
+    },
+    {
+      "name": "Kate McGarrigle",
+      "targetId": "6642"
+    }
+  ]
+}

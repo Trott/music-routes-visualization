@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Murry",
-    "target": "Michael Mullen",
-    "targetId": "19"
-  },
-  {
-    "source": "John Murry",
-    "target": "Adam Klein",
-    "targetId": "20"
-  },
-  {
-    "source": "John Murry",
-    "target": "Chip Dalby",
-    "targetId": "729"
-  },
-  {
-    "source": "John Murry",
-    "target": "Nicole Brodsky",
-    "targetId": "999"
-  },
-  {
-    "source": "John Murry",
-    "target": "Tim Mooney",
-    "targetId": "1001"
-  },
-  {
-    "source": "John Murry",
-    "target": "Carlos Forster",
-    "targetId": "1002"
-  },
-  {
-    "source": "John Murry",
-    "target": "Mike Carnahan",
-    "targetId": "9275"
-  }
-]
+{
+  "source": "John Murry",
+  "targets": [
+    {
+      "name": "Michael Mullen",
+      "targetId": "19"
+    },
+    {
+      "name": "Adam Klein",
+      "targetId": "20"
+    },
+    {
+      "name": "Chip Dalby",
+      "targetId": "729"
+    },
+    {
+      "name": "Nicole Brodsky",
+      "targetId": "999"
+    },
+    {
+      "name": "Tim Mooney",
+      "targetId": "1001"
+    },
+    {
+      "name": "Carlos Forster",
+      "targetId": "1002"
+    },
+    {
+      "name": "Mike Carnahan",
+      "targetId": "9275"
+    }
+  ]
+}

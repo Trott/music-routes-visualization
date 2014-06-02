@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Marty David",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Marty David",
-    "target": "Gary Mallaber",
-    "targetId": "330"
-  },
-  {
-    "source": "Marty David",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "Marty David",
-    "target": "Jackson Browne",
-    "targetId": "669"
-  }
-]
+{
+  "source": "Marty David",
+  "targets": [
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Gary Mallaber",
+      "targetId": "330"
+    },
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Jackson Browne",
+      "targetId": "669"
+    }
+  ]
+}

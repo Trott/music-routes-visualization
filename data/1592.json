@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Bob Lucas",
-    "target": "Greg Ashley",
-    "targetId": "1590"
-  },
-  {
-    "source": "Bob Lucas",
-    "target": "Austin Lucas",
-    "targetId": "1591"
-  },
-  {
-    "source": "Bob Lucas",
-    "target": "Joel Pickard",
-    "targetId": "1593"
-  }
-]
+{
+  "source": "Bob Lucas",
+  "targets": [
+    {
+      "name": "Greg Ashley",
+      "targetId": "1590"
+    },
+    {
+      "name": "Austin Lucas",
+      "targetId": "1591"
+    },
+    {
+      "name": "Joel Pickard",
+      "targetId": "1593"
+    }
+  ]
+}

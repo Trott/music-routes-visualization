@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Steve Kinch",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Steve Kinch",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Steve Kinch",
-    "target": "Mick Rogers",
-    "targetId": "5607"
-  },
-  {
-    "source": "Steve Kinch",
-    "target": "David Farmer",
-    "targetId": "5612"
-  },
-  {
-    "source": "Steve Kinch",
-    "target": "Clive Bunker",
-    "targetId": "5613"
-  },
-  {
-    "source": "Steve Kinch",
-    "target": "Noel McCalla",
-    "targetId": "5614"
-  }
-]
+{
+  "source": "Steve Kinch",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Mick Rogers",
+      "targetId": "5607"
+    },
+    {
+      "name": "David Farmer",
+      "targetId": "5612"
+    },
+    {
+      "name": "Clive Bunker",
+      "targetId": "5613"
+    },
+    {
+      "name": "Noel McCalla",
+      "targetId": "5614"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Clem Waldman",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Clem Waldman",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Clem Waldman",
-    "target": "Dan Miller",
-    "targetId": "3681"
-  },
-  {
-    "source": "Clem Waldman",
-    "target": "Dan Hickey",
-    "targetId": "3683"
-  },
-  {
-    "source": "Clem Waldman",
-    "target": "Jim O'Connor",
-    "targetId": "3687"
-  }
-]
+{
+  "source": "Clem Waldman",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Dan Miller",
+      "targetId": "3681"
+    },
+    {
+      "name": "Dan Hickey",
+      "targetId": "3683"
+    },
+    {
+      "name": "Jim O'Connor",
+      "targetId": "3687"
+    }
+  ]
+}

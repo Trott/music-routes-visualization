@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Linda Iero",
-    "target": "Liza Minnelli",
-    "targetId": "1772"
-  },
-  {
-    "source": "Linda Iero",
-    "target": "Bob Bryar",
-    "targetId": "4350"
-  },
-  {
-    "source": "Linda Iero",
-    "target": "Frank Iero",
-    "targetId": "4351"
-  },
-  {
-    "source": "Linda Iero",
-    "target": "Ray Toro",
-    "targetId": "4352"
-  },
-  {
-    "source": "Linda Iero",
-    "target": "Gerard Way",
-    "targetId": "4353"
-  },
-  {
-    "source": "Linda Iero",
-    "target": "Mikey Way",
-    "targetId": "4354"
-  },
-  {
-    "source": "Linda Iero",
-    "target": "Donald James",
-    "targetId": "4356"
-  },
-  {
-    "source": "Linda Iero",
-    "target": "Donna Lee Way",
-    "targetId": "4357"
-  }
-]
+{
+  "source": "Linda Iero",
+  "targets": [
+    {
+      "name": "Liza Minnelli",
+      "targetId": "1772"
+    },
+    {
+      "name": "Bob Bryar",
+      "targetId": "4350"
+    },
+    {
+      "name": "Frank Iero",
+      "targetId": "4351"
+    },
+    {
+      "name": "Ray Toro",
+      "targetId": "4352"
+    },
+    {
+      "name": "Gerard Way",
+      "targetId": "4353"
+    },
+    {
+      "name": "Mikey Way",
+      "targetId": "4354"
+    },
+    {
+      "name": "Donald James",
+      "targetId": "4356"
+    },
+    {
+      "name": "Donna Lee Way",
+      "targetId": "4357"
+    }
+  ]
+}

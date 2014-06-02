@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Byron Allred",
-    "target": "Steve Miller",
-    "targetId": "326"
-  },
-  {
-    "source": "Byron Allred",
-    "target": "Gerald Johnson",
-    "targetId": "328"
-  },
-  {
-    "source": "Byron Allred",
-    "target": "Kenny Lee Lewis",
-    "targetId": "329"
-  },
-  {
-    "source": "Byron Allred",
-    "target": "Gary Mallaber",
-    "targetId": "330"
-  },
-  {
-    "source": "Byron Allred",
-    "target": "Kenny G",
-    "targetId": "1438"
-  }
-]
+{
+  "source": "Byron Allred",
+  "targets": [
+    {
+      "name": "Steve Miller",
+      "targetId": "326"
+    },
+    {
+      "name": "Gerald Johnson",
+      "targetId": "328"
+    },
+    {
+      "name": "Kenny Lee Lewis",
+      "targetId": "329"
+    },
+    {
+      "name": "Gary Mallaber",
+      "targetId": "330"
+    },
+    {
+      "name": "Kenny G",
+      "targetId": "1438"
+    }
+  ]
+}

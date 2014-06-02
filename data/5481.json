@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jim Hanson",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Jim Hanson",
-    "target": "Gary Mallaber",
-    "targetId": "330"
-  },
-  {
-    "source": "Jim Hanson",
-    "target": "Danny Federici",
-    "targetId": "466"
-  }
-]
+{
+  "source": "Jim Hanson",
+  "targets": [
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Gary Mallaber",
+      "targetId": "330"
+    },
+    {
+      "name": "Danny Federici",
+      "targetId": "466"
+    }
+  ]
+}

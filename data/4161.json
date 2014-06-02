@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mike Skinner",
-    "target": "Kano",
-    "targetId": "4160"
-  },
-  {
-    "source": "Mike Skinner",
-    "target": "Leo Ihenacho",
-    "targetId": "4162"
-  },
-  {
-    "source": "Mike Skinner",
-    "target": "Matthew Bellamy",
-    "targetId": "4163"
-  },
-  {
-    "source": "Mike Skinner",
-    "target": "Christopher Wolstenholme",
-    "targetId": "4164"
-  },
-  {
-    "source": "Mike Skinner",
-    "target": "Dominic Howard",
-    "targetId": "4165"
-  }
-]
+{
+  "source": "Mike Skinner",
+  "targets": [
+    {
+      "name": "Kano",
+      "targetId": "4160"
+    },
+    {
+      "name": "Leo Ihenacho",
+      "targetId": "4162"
+    },
+    {
+      "name": "Matthew Bellamy",
+      "targetId": "4163"
+    },
+    {
+      "name": "Christopher Wolstenholme",
+      "targetId": "4164"
+    },
+    {
+      "name": "Dominic Howard",
+      "targetId": "4165"
+    }
+  ]
+}

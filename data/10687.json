@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Junior Collins",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Junior Collins",
-    "target": "Al Haig",
-    "targetId": "1929"
-  },
-  {
-    "source": "Junior Collins",
-    "target": "Max Roach",
-    "targetId": "2950"
-  },
-  {
-    "source": "Junior Collins",
-    "target": "Kai Winding",
-    "targetId": "6043"
-  },
-  {
-    "source": "Junior Collins",
-    "target": "Lee Konitz",
-    "targetId": "8098"
-  },
-  {
-    "source": "Junior Collins",
-    "target": "Bill Barber",
-    "targetId": "10688"
-  },
-  {
-    "source": "Junior Collins",
-    "target": "Gerry Mulligan",
-    "targetId": "10689"
-  },
-  {
-    "source": "Junior Collins",
-    "target": "Joe Shulman",
-    "targetId": "10690"
-  }
-]
+{
+  "source": "Junior Collins",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Al Haig",
+      "targetId": "1929"
+    },
+    {
+      "name": "Max Roach",
+      "targetId": "2950"
+    },
+    {
+      "name": "Kai Winding",
+      "targetId": "6043"
+    },
+    {
+      "name": "Lee Konitz",
+      "targetId": "8098"
+    },
+    {
+      "name": "Bill Barber",
+      "targetId": "10688"
+    },
+    {
+      "name": "Gerry Mulligan",
+      "targetId": "10689"
+    },
+    {
+      "name": "Joe Shulman",
+      "targetId": "10690"
+    }
+  ]
+}

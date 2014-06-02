@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Pete Weiss",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Pete Weiss",
-    "target": "Dave Pirner",
-    "targetId": "786"
-  },
-  {
-    "source": "Pete Weiss",
-    "target": "Tom Waits",
-    "targetId": "1713"
-  },
-  {
-    "source": "Pete Weiss",
-    "target": "Daniel Murphy",
-    "targetId": "7908"
-  },
-  {
-    "source": "Pete Weiss",
-    "target": "Michael Penn",
-    "targetId": "8918"
-  },
-  {
-    "source": "Pete Weiss",
-    "target": "Bob Forrest",
-    "targetId": "10160"
-  },
-  {
-    "source": "Pete Weiss",
-    "target": "Martyn Lenoble",
-    "targetId": "10161"
-  },
-  {
-    "source": "Pete Weiss",
-    "target": "Sam Bush",
-    "targetId": "10163"
-  }
-]
+{
+  "source": "Pete Weiss",
+  "targets": [
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Dave Pirner",
+      "targetId": "786"
+    },
+    {
+      "name": "Tom Waits",
+      "targetId": "1713"
+    },
+    {
+      "name": "Daniel Murphy",
+      "targetId": "7908"
+    },
+    {
+      "name": "Michael Penn",
+      "targetId": "8918"
+    },
+    {
+      "name": "Bob Forrest",
+      "targetId": "10160"
+    },
+    {
+      "name": "Martyn Lenoble",
+      "targetId": "10161"
+    },
+    {
+      "name": "Sam Bush",
+      "targetId": "10163"
+    }
+  ]
+}

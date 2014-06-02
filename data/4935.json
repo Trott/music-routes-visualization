@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Geoff Stanfield",
-    "target": "Tim Mooney",
-    "targetId": "1001"
-  },
-  {
-    "source": "Geoff Stanfield",
-    "target": "Anthony Koutsos",
-    "targetId": "4936"
-  },
-  {
-    "source": "Geoff Stanfield",
-    "target": "Mark Kozelek",
-    "targetId": "4937"
-  }
-]
+{
+  "source": "Geoff Stanfield",
+  "targets": [
+    {
+      "name": "Tim Mooney",
+      "targetId": "1001"
+    },
+    {
+      "name": "Anthony Koutsos",
+      "targetId": "4936"
+    },
+    {
+      "name": "Mark Kozelek",
+      "targetId": "4937"
+    }
+  ]
+}

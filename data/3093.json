@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Edward Droste",
-    "target": "Michael McDonald",
-    "targetId": "717"
-  },
-  {
-    "source": "Edward Droste",
-    "target": "Chris Taylor",
-    "targetId": "2997"
-  },
-  {
-    "source": "Edward Droste",
-    "target": "Jimmy Tamborello",
-    "targetId": "3024"
-  },
-  {
-    "source": "Edward Droste",
-    "target": "Chris Hathwell",
-    "targetId": "3092"
-  },
-  {
-    "source": "Edward Droste",
-    "target": "Chris Bear",
-    "targetId": "7881"
-  },
-  {
-    "source": "Edward Droste",
-    "target": "Daniel Rossen",
-    "targetId": "7882"
-  }
-]
+{
+  "source": "Edward Droste",
+  "targets": [
+    {
+      "name": "Michael McDonald",
+      "targetId": "717"
+    },
+    {
+      "name": "Chris Taylor",
+      "targetId": "2997"
+    },
+    {
+      "name": "Jimmy Tamborello",
+      "targetId": "3024"
+    },
+    {
+      "name": "Chris Hathwell",
+      "targetId": "3092"
+    },
+    {
+      "name": "Chris Bear",
+      "targetId": "7881"
+    },
+    {
+      "name": "Daniel Rossen",
+      "targetId": "7882"
+    }
+  ]
+}

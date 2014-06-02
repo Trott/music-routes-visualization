@@ -1,212 +1,173 @@
-[
-  {
-    "source": "Justin Timberlake",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Michael Stipe",
-    "targetId": "341"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Gwen Stefani",
-    "targetId": "1842"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Britney Spears",
-    "targetId": "2138"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Alicia Keys",
-    "targetId": "2173"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Christina Aguilera",
-    "targetId": "2175"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Nas",
-    "targetId": "2184"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Sean Combs",
-    "targetId": "2678"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "50 Cent",
-    "targetId": "4040"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Timbaland",
-    "targetId": "4042"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Mary J. Blige",
-    "targetId": "4043"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Fred Durst",
-    "targetId": "4385"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Aaron Lewis",
-    "targetId": "4394"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Jennifer Lopez",
-    "targetId": "5537"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Rihanna",
-    "targetId": "5908"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Hannon Lane",
-    "targetId": "5909"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Stevie Blackie",
-    "targetId": "5910"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Nelly Furtado",
-    "targetId": "6013"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Wyclef Jean",
-    "targetId": "6019"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Howie Dorough",
-    "targetId": "6114"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Brian Littrell",
-    "targetId": "6115"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "A.J. McLean",
-    "targetId": "6116"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Nick Carter",
-    "targetId": "6117"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Reba McEntire",
-    "targetId": "6255"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Questlove",
-    "targetId": "6834"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Andy Samberg",
-    "targetId": "6928"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Akiva Schaffer",
-    "targetId": "6929"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Jorma Taccone",
-    "targetId": "6930"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Beyoncé",
-    "targetId": "8074"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Jermaine Dupri",
-    "targetId": "8234"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Eve",
-    "targetId": "8235"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Nona Gaye",
-    "targetId": "8236"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Darren Hayes",
-    "targetId": "8237"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Ja Rule",
-    "targetId": "8238"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Nelly",
-    "targetId": "8239"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Kevin Richardson",
-    "targetId": "8240"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Kelly Rowland",
-    "targetId": "8241"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Michelle Williams",
-    "targetId": "8242"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Chris Kirkpatrick",
-    "targetId": "8243"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Joey Fatone",
-    "targetId": "8244"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "Lance Bass",
-    "targetId": "8245"
-  },
-  {
-    "source": "Justin Timberlake",
-    "target": "JC Chasez",
-    "targetId": "8246"
-  }
-]
+{
+  "source": "Justin Timberlake",
+  "targets": [
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Michael Stipe",
+      "targetId": "341"
+    },
+    {
+      "name": "Gwen Stefani",
+      "targetId": "1842"
+    },
+    {
+      "name": "Britney Spears",
+      "targetId": "2138"
+    },
+    {
+      "name": "Alicia Keys",
+      "targetId": "2173"
+    },
+    {
+      "name": "Christina Aguilera",
+      "targetId": "2175"
+    },
+    {
+      "name": "Nas",
+      "targetId": "2184"
+    },
+    {
+      "name": "Sean Combs",
+      "targetId": "2678"
+    },
+    {
+      "name": "50 Cent",
+      "targetId": "4040"
+    },
+    {
+      "name": "Timbaland",
+      "targetId": "4042"
+    },
+    {
+      "name": "Mary J. Blige",
+      "targetId": "4043"
+    },
+    {
+      "name": "Fred Durst",
+      "targetId": "4385"
+    },
+    {
+      "name": "Aaron Lewis",
+      "targetId": "4394"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "targetId": "5537"
+    },
+    {
+      "name": "Rihanna",
+      "targetId": "5908"
+    },
+    {
+      "name": "Hannon Lane",
+      "targetId": "5909"
+    },
+    {
+      "name": "Stevie Blackie",
+      "targetId": "5910"
+    },
+    {
+      "name": "Nelly Furtado",
+      "targetId": "6013"
+    },
+    {
+      "name": "Wyclef Jean",
+      "targetId": "6019"
+    },
+    {
+      "name": "Howie Dorough",
+      "targetId": "6114"
+    },
+    {
+      "name": "Brian Littrell",
+      "targetId": "6115"
+    },
+    {
+      "name": "A.J. McLean",
+      "targetId": "6116"
+    },
+    {
+      "name": "Nick Carter",
+      "targetId": "6117"
+    },
+    {
+      "name": "Reba McEntire",
+      "targetId": "6255"
+    },
+    {
+      "name": "Questlove",
+      "targetId": "6834"
+    },
+    {
+      "name": "Andy Samberg",
+      "targetId": "6928"
+    },
+    {
+      "name": "Akiva Schaffer",
+      "targetId": "6929"
+    },
+    {
+      "name": "Jorma Taccone",
+      "targetId": "6930"
+    },
+    {
+      "name": "Beyoncé",
+      "targetId": "8074"
+    },
+    {
+      "name": "Jermaine Dupri",
+      "targetId": "8234"
+    },
+    {
+      "name": "Eve",
+      "targetId": "8235"
+    },
+    {
+      "name": "Nona Gaye",
+      "targetId": "8236"
+    },
+    {
+      "name": "Darren Hayes",
+      "targetId": "8237"
+    },
+    {
+      "name": "Ja Rule",
+      "targetId": "8238"
+    },
+    {
+      "name": "Nelly",
+      "targetId": "8239"
+    },
+    {
+      "name": "Kevin Richardson",
+      "targetId": "8240"
+    },
+    {
+      "name": "Kelly Rowland",
+      "targetId": "8241"
+    },
+    {
+      "name": "Michelle Williams",
+      "targetId": "8242"
+    },
+    {
+      "name": "Chris Kirkpatrick",
+      "targetId": "8243"
+    },
+    {
+      "name": "Joey Fatone",
+      "targetId": "8244"
+    },
+    {
+      "name": "Lance Bass",
+      "targetId": "8245"
+    },
+    {
+      "name": "JC Chasez",
+      "targetId": "8246"
+    }
+  ]
+}

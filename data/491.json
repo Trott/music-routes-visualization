@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Paul Thompson",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Paul Thompson",
-    "target": "Bryan Ferry",
-    "targetId": "490"
-  },
-  {
-    "source": "Paul Thompson",
-    "target": "Andrew Mackay",
-    "targetId": "492"
-  },
-  {
-    "source": "Paul Thompson",
-    "target": "Phil Manzanera",
-    "targetId": "493"
-  },
-  {
-    "source": "Paul Thompson",
-    "target": "Rik Kenton",
-    "targetId": "494"
-  },
-  {
-    "source": "Paul Thompson",
-    "target": "Busta Jones",
-    "targetId": "8638"
-  },
-  {
-    "source": "Paul Thompson",
-    "target": "Nick Judd",
-    "targetId": "8640"
-  }
-]
+{
+  "source": "Paul Thompson",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "Bryan Ferry",
+      "targetId": "490"
+    },
+    {
+      "name": "Andrew Mackay",
+      "targetId": "492"
+    },
+    {
+      "name": "Phil Manzanera",
+      "targetId": "493"
+    },
+    {
+      "name": "Rik Kenton",
+      "targetId": "494"
+    },
+    {
+      "name": "Busta Jones",
+      "targetId": "8638"
+    },
+    {
+      "name": "Nick Judd",
+      "targetId": "8640"
+    }
+  ]
+}

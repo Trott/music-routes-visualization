@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ira Louvin",
-    "target": "Grandpa Jones",
-    "targetId": "253"
-  },
-  {
-    "source": "Ira Louvin",
-    "target": "Charlie Louvin",
-    "targetId": "290"
-  }
-]
+{
+  "source": "Ira Louvin",
+  "targets": [
+    {
+      "name": "Grandpa Jones",
+      "targetId": "253"
+    },
+    {
+      "name": "Charlie Louvin",
+      "targetId": "290"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Gregg Inhofer",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Gregg Inhofer",
-    "target": "Bill Berg",
-    "targetId": "1093"
-  },
-  {
-    "source": "Gregg Inhofer",
-    "target": "Kevin Odegard",
-    "targetId": "3620"
-  },
-  {
-    "source": "Gregg Inhofer",
-    "target": "Chris Weber",
-    "targetId": "3621"
-  },
-  {
-    "source": "Gregg Inhofer",
-    "target": "Bill Peterson",
-    "targetId": "3622"
-  }
-]
+{
+  "source": "Gregg Inhofer",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Bill Berg",
+      "targetId": "1093"
+    },
+    {
+      "name": "Kevin Odegard",
+      "targetId": "3620"
+    },
+    {
+      "name": "Chris Weber",
+      "targetId": "3621"
+    },
+    {
+      "name": "Bill Peterson",
+      "targetId": "3622"
+    }
+  ]
+}

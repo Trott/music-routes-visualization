@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Robert Dillam",
-    "target": "Wil",
-    "targetId": "9309"
-  },
-  {
-    "source": "Robert Dillam",
-    "target": "Piotr Fijalkowski",
-    "targetId": "9310"
-  },
-  {
-    "source": "Robert Dillam",
-    "target": "Kevin Gritton",
-    "targetId": "9312"
-  }
-]
+{
+  "source": "Robert Dillam",
+  "targets": [
+    {
+      "name": "Wil",
+      "targetId": "9309"
+    },
+    {
+      "name": "Piotr Fijalkowski",
+      "targetId": "9310"
+    },
+    {
+      "name": "Kevin Gritton",
+      "targetId": "9312"
+    }
+  ]
+}

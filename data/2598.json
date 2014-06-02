@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mark Eitzel",
-    "target": "Tim Mooney",
-    "targetId": "1001"
-  },
-  {
-    "source": "Mark Eitzel",
-    "target": "Bruce Kaphan",
-    "targetId": "1065"
-  },
-  {
-    "source": "Mark Eitzel",
-    "target": "Dan Pearson",
-    "targetId": "2599"
-  },
-  {
-    "source": "Mark Eitzel",
-    "target": "Vudi",
-    "targetId": "2600"
-  }
-]
+{
+  "source": "Mark Eitzel",
+  "targets": [
+    {
+      "name": "Tim Mooney",
+      "targetId": "1001"
+    },
+    {
+      "name": "Bruce Kaphan",
+      "targetId": "1065"
+    },
+    {
+      "name": "Dan Pearson",
+      "targetId": "2599"
+    },
+    {
+      "name": "Vudi",
+      "targetId": "2600"
+    }
+  ]
+}

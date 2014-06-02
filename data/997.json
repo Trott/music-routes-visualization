@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Andrew DeFlorin",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Andrew DeFlorin",
-    "target": "Andrew Poisoner",
-    "targetId": "13"
-  },
-  {
-    "source": "Andrew DeFlorin",
-    "target": "Chris Grady",
-    "targetId": "996"
-  }
-]
+{
+  "source": "Andrew DeFlorin",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Andrew Poisoner",
+      "targetId": "13"
+    },
+    {
+      "name": "Chris Grady",
+      "targetId": "996"
+    }
+  ]
+}

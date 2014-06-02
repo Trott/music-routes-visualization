@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jimmy DeGrasso",
-    "target": "Dave Mustaine",
-    "targetId": "1362"
-  },
-  {
-    "source": "Jimmy DeGrasso",
-    "target": "David Ellefson",
-    "targetId": "1365"
-  },
-  {
-    "source": "Jimmy DeGrasso",
-    "target": "Al Pitrelli",
-    "targetId": "3643"
-  },
-  {
-    "source": "Jimmy DeGrasso",
-    "target": "Chris Vrenna",
-    "targetId": "3645"
-  },
-  {
-    "source": "Jimmy DeGrasso",
-    "target": "Bob Findley",
-    "targetId": "3646"
-  }
-]
+{
+  "source": "Jimmy DeGrasso",
+  "targets": [
+    {
+      "name": "Dave Mustaine",
+      "targetId": "1362"
+    },
+    {
+      "name": "David Ellefson",
+      "targetId": "1365"
+    },
+    {
+      "name": "Al Pitrelli",
+      "targetId": "3643"
+    },
+    {
+      "name": "Chris Vrenna",
+      "targetId": "3645"
+    },
+    {
+      "name": "Bob Findley",
+      "targetId": "3646"
+    }
+  ]
+}

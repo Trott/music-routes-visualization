@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Sonny Mone",
-    "target": "Billy Talbot",
-    "targetId": "3287"
-  },
-  {
-    "source": "Sonny Mone",
-    "target": "Ralph Molina",
-    "targetId": "3288"
-  },
-  {
-    "source": "Sonny Mone",
-    "target": "Matt Piucci",
-    "targetId": "7747"
-  }
-]
+{
+  "source": "Sonny Mone",
+  "targets": [
+    {
+      "name": "Billy Talbot",
+      "targetId": "3287"
+    },
+    {
+      "name": "Ralph Molina",
+      "targetId": "3288"
+    },
+    {
+      "name": "Matt Piucci",
+      "targetId": "7747"
+    }
+  ]
+}

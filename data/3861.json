@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Scott Reeder",
-    "target": "Josh Homme",
-    "targetId": "1847"
-  },
-  {
-    "source": "Scott Reeder",
-    "target": "John Garcia",
-    "targetId": "3860"
-  },
-  {
-    "source": "Scott Reeder",
-    "target": "Alfredo Hernández",
-    "targetId": "3862"
-  }
-]
+{
+  "source": "Scott Reeder",
+  "targets": [
+    {
+      "name": "Josh Homme",
+      "targetId": "1847"
+    },
+    {
+      "name": "John Garcia",
+      "targetId": "3860"
+    },
+    {
+      "name": "Alfredo Hernández",
+      "targetId": "3862"
+    }
+  ]
+}

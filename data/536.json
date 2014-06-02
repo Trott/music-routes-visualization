@@ -1,222 +1,181 @@
-[
-  {
-    "source": "Jon Anderson",
-    "target": "Adrian Belew",
-    "targetId": "184"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Tony Levin",
-    "targetId": "269"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Bill Bruford",
-    "targetId": "340"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Gordon Haskell",
-    "targetId": "534"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Andy McCulloch",
-    "targetId": "535"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Keith Tippett",
-    "targetId": "537"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Robin Miller",
-    "targetId": "538"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Mark Chang",
-    "targetId": "539"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Nick Evans",
-    "targetId": "540"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Rick Wakeman",
-    "targetId": "792"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Ian Lloyd",
-    "targetId": "931"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Warren Cuccurullo",
-    "targetId": "1339"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Steve Howe",
-    "targetId": "1431"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Chris Squire",
-    "targetId": "1432"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Michael Bolton",
-    "targetId": "2541"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Tommy Shaw",
-    "targetId": "2889"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Patty Darcy",
-    "targetId": "3457"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Béla Fleck",
-    "targetId": "4375"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Victor Wooten",
-    "targetId": "5883"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Jeff Coffin",
-    "targetId": "5884"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Future Man",
-    "targetId": "5885"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "John Medeski",
-    "targetId": "5886"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Paul McCandless",
-    "targetId": "5888"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Shawn Colvin",
-    "targetId": "5889"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Sandip Burman",
-    "targetId": "5890"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "David Angell",
-    "targetId": "6490"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "David Davidson",
-    "targetId": "6491"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "John Catchings",
-    "targetId": "6495"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Grace Jones",
-    "targetId": "6593"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Clifford Lane",
-    "targetId": "6598"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Gary Barlough",
-    "targetId": "6599"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Jonathan Elias",
-    "targetId": "6600"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Gordon Gottlieb",
-    "targetId": "6601"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Sherman Foote",
-    "targetId": "6602"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Ray Foote",
-    "targetId": "6603"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Kristin Wilkinson",
-    "targetId": "6805"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Paul Hanson",
-    "targetId": "8630"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Rita Sahai",
-    "targetId": "8631"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Kongar-ool Ondar",
-    "targetId": "8632"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Peter Banks",
-    "targetId": "10847"
-  },
-  {
-    "source": "Jon Anderson",
-    "target": "Tony Kaye",
-    "targetId": "10851"
-  }
-]
+{
+  "source": "Jon Anderson",
+  "targets": [
+    {
+      "name": "Adrian Belew",
+      "targetId": "184"
+    },
+    {
+      "name": "Tony Levin",
+      "targetId": "269"
+    },
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Bill Bruford",
+      "targetId": "340"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Gordon Haskell",
+      "targetId": "534"
+    },
+    {
+      "name": "Andy McCulloch",
+      "targetId": "535"
+    },
+    {
+      "name": "Keith Tippett",
+      "targetId": "537"
+    },
+    {
+      "name": "Robin Miller",
+      "targetId": "538"
+    },
+    {
+      "name": "Mark Chang",
+      "targetId": "539"
+    },
+    {
+      "name": "Nick Evans",
+      "targetId": "540"
+    },
+    {
+      "name": "Rick Wakeman",
+      "targetId": "792"
+    },
+    {
+      "name": "Ian Lloyd",
+      "targetId": "931"
+    },
+    {
+      "name": "Warren Cuccurullo",
+      "targetId": "1339"
+    },
+    {
+      "name": "Steve Howe",
+      "targetId": "1431"
+    },
+    {
+      "name": "Chris Squire",
+      "targetId": "1432"
+    },
+    {
+      "name": "Michael Bolton",
+      "targetId": "2541"
+    },
+    {
+      "name": "Tommy Shaw",
+      "targetId": "2889"
+    },
+    {
+      "name": "Patty Darcy",
+      "targetId": "3457"
+    },
+    {
+      "name": "Béla Fleck",
+      "targetId": "4375"
+    },
+    {
+      "name": "Victor Wooten",
+      "targetId": "5883"
+    },
+    {
+      "name": "Jeff Coffin",
+      "targetId": "5884"
+    },
+    {
+      "name": "Future Man",
+      "targetId": "5885"
+    },
+    {
+      "name": "John Medeski",
+      "targetId": "5886"
+    },
+    {
+      "name": "Paul McCandless",
+      "targetId": "5888"
+    },
+    {
+      "name": "Shawn Colvin",
+      "targetId": "5889"
+    },
+    {
+      "name": "Sandip Burman",
+      "targetId": "5890"
+    },
+    {
+      "name": "David Angell",
+      "targetId": "6490"
+    },
+    {
+      "name": "David Davidson",
+      "targetId": "6491"
+    },
+    {
+      "name": "John Catchings",
+      "targetId": "6495"
+    },
+    {
+      "name": "Grace Jones",
+      "targetId": "6593"
+    },
+    {
+      "name": "Clifford Lane",
+      "targetId": "6598"
+    },
+    {
+      "name": "Gary Barlough",
+      "targetId": "6599"
+    },
+    {
+      "name": "Jonathan Elias",
+      "targetId": "6600"
+    },
+    {
+      "name": "Gordon Gottlieb",
+      "targetId": "6601"
+    },
+    {
+      "name": "Sherman Foote",
+      "targetId": "6602"
+    },
+    {
+      "name": "Ray Foote",
+      "targetId": "6603"
+    },
+    {
+      "name": "Kristin Wilkinson",
+      "targetId": "6805"
+    },
+    {
+      "name": "Paul Hanson",
+      "targetId": "8630"
+    },
+    {
+      "name": "Rita Sahai",
+      "targetId": "8631"
+    },
+    {
+      "name": "Kongar-ool Ondar",
+      "targetId": "8632"
+    },
+    {
+      "name": "Peter Banks",
+      "targetId": "10847"
+    },
+    {
+      "name": "Tony Kaye",
+      "targetId": "10851"
+    }
+  ]
+}

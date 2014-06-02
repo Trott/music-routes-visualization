@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tony Reflex",
-    "target": "Huey",
-    "targetId": "10469"
-  },
-  {
-    "source": "Tony Reflex",
-    "target": "Spooney",
-    "targetId": "10470"
-  },
-  {
-    "source": "Tony Reflex",
-    "target": "Ricky",
-    "targetId": "10471"
-  },
-  {
-    "source": "Tony Reflex",
-    "target": "Surly",
-    "targetId": "10472"
-  }
-]
+{
+  "source": "Tony Reflex",
+  "targets": [
+    {
+      "name": "Huey",
+      "targetId": "10469"
+    },
+    {
+      "name": "Spooney",
+      "targetId": "10470"
+    },
+    {
+      "name": "Ricky",
+      "targetId": "10471"
+    },
+    {
+      "name": "Surly",
+      "targetId": "10472"
+    }
+  ]
+}

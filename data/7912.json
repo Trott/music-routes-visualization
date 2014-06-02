@@ -1,42 +1,37 @@
-[
-  {
-    "source": "John Woodland",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "John Woodland",
-    "target": "Jim Boquist",
-    "targetId": "7904"
-  },
-  {
-    "source": "John Woodland",
-    "target": "Marc Perlman",
-    "targetId": "7905"
-  },
-  {
-    "source": "John Woodland",
-    "target": "Jody Stephens",
-    "targetId": "7906"
-  },
-  {
-    "source": "John Woodland",
-    "target": "Gary Louris",
-    "targetId": "7907"
-  },
-  {
-    "source": "John Woodland",
-    "target": "Kraig Jarret Johnson",
-    "targetId": "7909"
-  },
-  {
-    "source": "John Woodland",
-    "target": "Jason Orris",
-    "targetId": "7911"
-  },
-  {
-    "source": "John Woodland",
-    "target": "Bryan Hanna",
-    "targetId": "7913"
-  }
-]
+{
+  "source": "John Woodland",
+  "targets": [
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Jim Boquist",
+      "targetId": "7904"
+    },
+    {
+      "name": "Marc Perlman",
+      "targetId": "7905"
+    },
+    {
+      "name": "Jody Stephens",
+      "targetId": "7906"
+    },
+    {
+      "name": "Gary Louris",
+      "targetId": "7907"
+    },
+    {
+      "name": "Kraig Jarret Johnson",
+      "targetId": "7909"
+    },
+    {
+      "name": "Jason Orris",
+      "targetId": "7911"
+    },
+    {
+      "name": "Bryan Hanna",
+      "targetId": "7913"
+    }
+  ]
+}

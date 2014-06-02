@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Johnny Rivers",
-    "target": "Joe B. Mauldin",
-    "targetId": "6283"
-  },
-  {
-    "source": "Johnny Rivers",
-    "target": "Jerry Allison",
-    "targetId": "6284"
-  },
-  {
-    "source": "Johnny Rivers",
-    "target": "Sonny Curtis",
-    "targetId": "6285"
-  }
-]
+{
+  "source": "Johnny Rivers",
+  "targets": [
+    {
+      "name": "Joe B. Mauldin",
+      "targetId": "6283"
+    },
+    {
+      "name": "Jerry Allison",
+      "targetId": "6284"
+    },
+    {
+      "name": "Sonny Curtis",
+      "targetId": "6285"
+    }
+  ]
+}

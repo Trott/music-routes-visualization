@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Frank Ciampi",
-    "target": "Louis Svitek",
-    "targetId": "2026"
-  },
-  {
-    "source": "Frank Ciampi",
-    "target": "Gary Levitt",
-    "targetId": "7138"
-  },
-  {
-    "source": "Frank Ciampi",
-    "target": "Erica Quitzow",
-    "targetId": "7139"
-  },
-  {
-    "source": "Frank Ciampi",
-    "target": "Shawn Johnson",
-    "targetId": "7143"
-  },
-  {
-    "source": "Frank Ciampi",
-    "target": "Patrick Dubar",
-    "targetId": "7144"
-  }
-]
+{
+  "source": "Frank Ciampi",
+  "targets": [
+    {
+      "name": "Louis Svitek",
+      "targetId": "2026"
+    },
+    {
+      "name": "Gary Levitt",
+      "targetId": "7138"
+    },
+    {
+      "name": "Erica Quitzow",
+      "targetId": "7139"
+    },
+    {
+      "name": "Shawn Johnson",
+      "targetId": "7143"
+    },
+    {
+      "name": "Patrick Dubar",
+      "targetId": "7144"
+    }
+  ]
+}

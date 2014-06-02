@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Christian Huygen",
-    "target": "Bob Ostertag",
-    "targetId": "3201"
-  },
-  {
-    "source": "Christian Huygen",
-    "target": "Trevor Dunn",
-    "targetId": "3207"
-  },
-  {
-    "source": "Christian Huygen",
-    "target": "Jim Hedges",
-    "targetId": "3208"
-  },
-  {
-    "source": "Christian Huygen",
-    "target": "Andrea Lewis",
-    "targetId": "3211"
-  },
-  {
-    "source": "Christian Huygen",
-    "target": "JD Reilly",
-    "targetId": "3214"
-  }
-]
+{
+  "source": "Christian Huygen",
+  "targets": [
+    {
+      "name": "Bob Ostertag",
+      "targetId": "3201"
+    },
+    {
+      "name": "Trevor Dunn",
+      "targetId": "3207"
+    },
+    {
+      "name": "Jim Hedges",
+      "targetId": "3208"
+    },
+    {
+      "name": "Andrea Lewis",
+      "targetId": "3211"
+    },
+    {
+      "name": "JD Reilly",
+      "targetId": "3214"
+    }
+  ]
+}

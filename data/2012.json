@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ian Gillan",
-    "target": "Ritchie Blackmore",
-    "targetId": "314"
-  },
-  {
-    "source": "Ian Gillan",
-    "target": "Roger Glover",
-    "targetId": "2008"
-  },
-  {
-    "source": "Ian Gillan",
-    "target": "Ian Paice",
-    "targetId": "2009"
-  },
-  {
-    "source": "Ian Gillan",
-    "target": "Steve Morse",
-    "targetId": "2010"
-  },
-  {
-    "source": "Ian Gillan",
-    "target": "Jon Lord",
-    "targetId": "2011"
-  }
-]
+{
+  "source": "Ian Gillan",
+  "targets": [
+    {
+      "name": "Ritchie Blackmore",
+      "targetId": "314"
+    },
+    {
+      "name": "Roger Glover",
+      "targetId": "2008"
+    },
+    {
+      "name": "Ian Paice",
+      "targetId": "2009"
+    },
+    {
+      "name": "Steve Morse",
+      "targetId": "2010"
+    },
+    {
+      "name": "Jon Lord",
+      "targetId": "2011"
+    }
+  ]
+}

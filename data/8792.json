@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Taylor York",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Taylor York",
-    "target": "Josh Farro",
-    "targetId": "8789"
-  },
-  {
-    "source": "Taylor York",
-    "target": "Zac Farro",
-    "targetId": "8790"
-  },
-  {
-    "source": "Taylor York",
-    "target": "Jeremy Davis",
-    "targetId": "8791"
-  },
-  {
-    "source": "Taylor York",
-    "target": "Hayley Williams",
-    "targetId": "8793"
-  }
-]
+{
+  "source": "Taylor York",
+  "targets": [
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Josh Farro",
+      "targetId": "8789"
+    },
+    {
+      "name": "Zac Farro",
+      "targetId": "8790"
+    },
+    {
+      "name": "Jeremy Davis",
+      "targetId": "8791"
+    },
+    {
+      "name": "Hayley Williams",
+      "targetId": "8793"
+    }
+  ]
+}

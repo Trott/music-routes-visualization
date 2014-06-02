@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Jim Gordon",
-    "target": "Rick Danko",
-    "targetId": "29"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Richard Manuel",
-    "targetId": "30"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Robbie Robertson",
-    "targetId": "31"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Levon Helm",
-    "targetId": "32"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Garth Hudson",
-    "targetId": "33"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Van Morrison",
-    "targetId": "87"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "John Simon",
-    "targetId": "629"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Tom Malone",
-    "targetId": "1336"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Howard Johnson",
-    "targetId": "1811"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Rich Cooper",
-    "targetId": "9602"
-  },
-  {
-    "source": "Jim Gordon",
-    "target": "Charlie Keagle",
-    "targetId": "9603"
-  }
-]
+{
+  "source": "Jim Gordon",
+  "targets": [
+    {
+      "name": "Rick Danko",
+      "targetId": "29"
+    },
+    {
+      "name": "Richard Manuel",
+      "targetId": "30"
+    },
+    {
+      "name": "Robbie Robertson",
+      "targetId": "31"
+    },
+    {
+      "name": "Levon Helm",
+      "targetId": "32"
+    },
+    {
+      "name": "Garth Hudson",
+      "targetId": "33"
+    },
+    {
+      "name": "Van Morrison",
+      "targetId": "87"
+    },
+    {
+      "name": "John Simon",
+      "targetId": "629"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Tom Malone",
+      "targetId": "1336"
+    },
+    {
+      "name": "Howard Johnson",
+      "targetId": "1811"
+    },
+    {
+      "name": "Rich Cooper",
+      "targetId": "9602"
+    },
+    {
+      "name": "Charlie Keagle",
+      "targetId": "9603"
+    }
+  ]
+}

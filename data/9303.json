@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Daniel Shulman",
-    "target": "David Ralicke",
-    "targetId": "5931"
-  },
-  {
-    "source": "Daniel Shulman",
-    "target": "Greg Kurstin",
-    "targetId": "9044"
-  },
-  {
-    "source": "Daniel Shulman",
-    "target": "Yogi",
-    "targetId": "9301"
-  },
-  {
-    "source": "Daniel Shulman",
-    "target": "Gabrial McNair",
-    "targetId": "9302"
-  },
-  {
-    "source": "Daniel Shulman",
-    "target": "Brian Reitzel",
-    "targetId": "9305"
-  },
-  {
-    "source": "Daniel Shulman",
-    "target": "Sean Lennon",
-    "targetId": "9306"
-  }
-]
+{
+  "source": "Daniel Shulman",
+  "targets": [
+    {
+      "name": "David Ralicke",
+      "targetId": "5931"
+    },
+    {
+      "name": "Greg Kurstin",
+      "targetId": "9044"
+    },
+    {
+      "name": "Yogi",
+      "targetId": "9301"
+    },
+    {
+      "name": "Gabrial McNair",
+      "targetId": "9302"
+    },
+    {
+      "name": "Brian Reitzel",
+      "targetId": "9305"
+    },
+    {
+      "name": "Sean Lennon",
+      "targetId": "9306"
+    }
+  ]
+}

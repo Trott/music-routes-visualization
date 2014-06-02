@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dag \"Hell\" Hofer",
-    "target": "Hampus Klang",
-    "targetId": "7849"
-  },
-  {
-    "source": "Dag \"Hell\" Hofer",
-    "target": "Erik Almström",
-    "targetId": "7850"
-  },
-  {
-    "source": "Dag \"Hell\" Hofer",
-    "target": "Adam Hector",
-    "targetId": "7851"
-  },
-  {
-    "source": "Dag \"Hell\" Hofer",
-    "target": "Gustav Hjortsjö",
-    "targetId": "7852"
-  }
-]
+{
+  "source": "Dag \"Hell\" Hofer",
+  "targets": [
+    {
+      "name": "Hampus Klang",
+      "targetId": "7849"
+    },
+    {
+      "name": "Erik Almström",
+      "targetId": "7850"
+    },
+    {
+      "name": "Adam Hector",
+      "targetId": "7851"
+    },
+    {
+      "name": "Gustav Hjortsjö",
+      "targetId": "7852"
+    }
+  ]
+}

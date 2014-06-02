@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Danny McGuinness",
-    "target": "James Teitelbaum",
-    "targetId": "882"
-  },
-  {
-    "source": "Danny McGuinness",
-    "target": "Charles Levi",
-    "targetId": "884"
-  }
-]
+{
+  "source": "Danny McGuinness",
+  "targets": [
+    {
+      "name": "James Teitelbaum",
+      "targetId": "882"
+    },
+    {
+      "name": "Charles Levi",
+      "targetId": "884"
+    }
+  ]
+}

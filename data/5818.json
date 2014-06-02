@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Emma Roads",
-    "target": "Madonna",
-    "targetId": "702"
-  },
-  {
-    "source": "Emma Roads",
-    "target": "Britney Spears",
-    "targetId": "2138"
-  },
-  {
-    "source": "Emma Roads",
-    "target": "Penelope Magnet",
-    "targetId": "5811"
-  },
-  {
-    "source": "Emma Roads",
-    "target": "Gary O'Brien",
-    "targetId": "5816"
-  },
-  {
-    "source": "Emma Roads",
-    "target": "Courtney Copeland",
-    "targetId": "5817"
-  }
-]
+{
+  "source": "Emma Roads",
+  "targets": [
+    {
+      "name": "Madonna",
+      "targetId": "702"
+    },
+    {
+      "name": "Britney Spears",
+      "targetId": "2138"
+    },
+    {
+      "name": "Penelope Magnet",
+      "targetId": "5811"
+    },
+    {
+      "name": "Gary O'Brien",
+      "targetId": "5816"
+    },
+    {
+      "name": "Courtney Copeland",
+      "targetId": "5817"
+    }
+  ]
+}

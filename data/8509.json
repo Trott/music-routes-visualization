@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Barbara Snow",
-    "target": "TV Smith",
-    "targetId": "5262"
-  },
-  {
-    "source": "Barbara Snow",
-    "target": "Karl Wallinger",
-    "targetId": "7000"
-  },
-  {
-    "source": "Barbara Snow",
-    "target": "Anthony Thistlethwaite",
-    "targetId": "8505"
-  },
-  {
-    "source": "Barbara Snow",
-    "target": "Kevin Wilkinson",
-    "targetId": "8506"
-  },
-  {
-    "source": "Barbara Snow",
-    "target": "Mike Scott",
-    "targetId": "8508"
-  },
-  {
-    "source": "Barbara Snow",
-    "target": "Ingrid Schroeder",
-    "targetId": "8510"
-  },
-  {
-    "source": "Barbara Snow",
-    "target": "Nick Linden",
-    "targetId": "8511"
-  },
-  {
-    "source": "Barbara Snow",
-    "target": "Tim Blanthorn",
-    "targetId": "8512"
-  }
-]
+{
+  "source": "Barbara Snow",
+  "targets": [
+    {
+      "name": "TV Smith",
+      "targetId": "5262"
+    },
+    {
+      "name": "Karl Wallinger",
+      "targetId": "7000"
+    },
+    {
+      "name": "Anthony Thistlethwaite",
+      "targetId": "8505"
+    },
+    {
+      "name": "Kevin Wilkinson",
+      "targetId": "8506"
+    },
+    {
+      "name": "Mike Scott",
+      "targetId": "8508"
+    },
+    {
+      "name": "Ingrid Schroeder",
+      "targetId": "8510"
+    },
+    {
+      "name": "Nick Linden",
+      "targetId": "8511"
+    },
+    {
+      "name": "Tim Blanthorn",
+      "targetId": "8512"
+    }
+  ]
+}

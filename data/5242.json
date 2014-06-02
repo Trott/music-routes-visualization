@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ivor Hay",
-    "target": "Kym Bradshaw",
-    "targetId": "5241"
-  },
-  {
-    "source": "Ivor Hay",
-    "target": "Ed Kuepper",
-    "targetId": "5243"
-  },
-  {
-    "source": "Ivor Hay",
-    "target": "Chris Bailey",
-    "targetId": "5244"
-  }
-]
+{
+  "source": "Ivor Hay",
+  "targets": [
+    {
+      "name": "Kym Bradshaw",
+      "targetId": "5241"
+    },
+    {
+      "name": "Ed Kuepper",
+      "targetId": "5243"
+    },
+    {
+      "name": "Chris Bailey",
+      "targetId": "5244"
+    }
+  ]
+}

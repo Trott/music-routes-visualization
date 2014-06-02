@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Pat King",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Pat King",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Pat King",
-    "target": "Geoff Britton",
-    "targetId": "5543"
-  },
-  {
-    "source": "Pat King",
-    "target": "Steve Waller",
-    "targetId": "5545"
-  }
-]
+{
+  "source": "Pat King",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Geoff Britton",
+      "targetId": "5543"
+    },
+    {
+      "name": "Steve Waller",
+      "targetId": "5545"
+    }
+  ]
+}

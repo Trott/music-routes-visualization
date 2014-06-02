@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Kyle Hollingsworth",
-    "target": "Paul McCandless",
-    "targetId": "5888"
-  },
-  {
-    "source": "Kyle Hollingsworth",
-    "target": "Bill Nershi",
-    "targetId": "7148"
-  },
-  {
-    "source": "Kyle Hollingsworth",
-    "target": "Keith Moseley",
-    "targetId": "7149"
-  },
-  {
-    "source": "Kyle Hollingsworth",
-    "target": "Michael Kang",
-    "targetId": "7151"
-  },
-  {
-    "source": "Kyle Hollingsworth",
-    "target": "Michael Travis",
-    "targetId": "7152"
-  }
-]
+{
+  "source": "Kyle Hollingsworth",
+  "targets": [
+    {
+      "name": "Paul McCandless",
+      "targetId": "5888"
+    },
+    {
+      "name": "Bill Nershi",
+      "targetId": "7148"
+    },
+    {
+      "name": "Keith Moseley",
+      "targetId": "7149"
+    },
+    {
+      "name": "Michael Kang",
+      "targetId": "7151"
+    },
+    {
+      "name": "Michael Travis",
+      "targetId": "7152"
+    }
+  ]
+}

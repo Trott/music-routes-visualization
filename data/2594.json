@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Klaus Dinger",
-    "target": "Michael Rother",
-    "targetId": "2593"
-  },
-  {
-    "source": "Klaus Dinger",
-    "target": "Florian Schneider",
-    "targetId": "2596"
-  },
-  {
-    "source": "Klaus Dinger",
-    "target": "Ralf Hütter",
-    "targetId": "2597"
-  }
-]
+{
+  "source": "Klaus Dinger",
+  "targets": [
+    {
+      "name": "Michael Rother",
+      "targetId": "2593"
+    },
+    {
+      "name": "Florian Schneider",
+      "targetId": "2596"
+    },
+    {
+      "name": "Ralf Hütter",
+      "targetId": "2597"
+    }
+  ]
+}

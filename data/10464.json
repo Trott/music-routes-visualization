@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Rob Dean",
-    "target": "Gary Numan",
-    "targetId": "854"
-  },
-  {
-    "source": "Rob Dean",
-    "target": "Mick Karn",
-    "targetId": "4963"
-  },
-  {
-    "source": "Rob Dean",
-    "target": "Connie Filapello",
-    "targetId": "10465"
-  }
-]
+{
+  "source": "Rob Dean",
+  "targets": [
+    {
+      "name": "Gary Numan",
+      "targetId": "854"
+    },
+    {
+      "name": "Mick Karn",
+      "targetId": "4963"
+    },
+    {
+      "name": "Connie Filapello",
+      "targetId": "10465"
+    }
+  ]
+}

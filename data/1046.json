@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Paul Chambers",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Jimmy Cobb",
-    "targetId": "1045"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Bill Evans",
-    "targetId": "1047"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Wynton Kelly",
-    "targetId": "1048"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "John Coltrane",
-    "targetId": "1049"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Julian \"Cannonball\" Adderly",
-    "targetId": "1050"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Tommy Flanagan",
-    "targetId": "4557"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Steve Lacy",
-    "targetId": "4592"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Julius Watkins",
-    "targetId": "4601"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Jerome Richardson",
-    "targetId": "6400"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Red Garland",
-    "targetId": "7068"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "\"Philly\" Joe Jones",
-    "targetId": "7069"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Donald Byrd",
-    "targetId": "7257"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Horace Silver",
-    "targetId": "7261"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Kenny Burrell",
-    "targetId": "7926"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Jimmy Cleveland",
-    "targetId": "7928"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Danny Bank",
-    "targetId": "7930"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Jo Jones",
-    "targetId": "8092"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Gil Evans",
-    "targetId": "8093"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "John Carisi",
-    "targetId": "8094"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "John Koven",
-    "targetId": "8095"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Bart Varsalona",
-    "targetId": "8096"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Willie Ruff",
-    "targetId": "8097"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Lee Konitz",
-    "targetId": "8098"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Dave Kurtzer",
-    "targetId": "8099"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Bill Barber",
-    "targetId": "10688"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Gunther Schuller",
-    "targetId": "10693"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Johnny Coles",
-    "targetId": "10909"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Bernie Glow",
-    "targetId": "10910"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Ernie Royal",
-    "targetId": "10911"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Louis Mucci",
-    "targetId": "10912"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Joe Bennett",
-    "targetId": "10913"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Frank Rehak",
-    "targetId": "10914"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Dick Hixson",
-    "targetId": "10915"
-  },
-  {
-    "source": "Paul Chambers",
-    "target": "Romeo Penque",
-    "targetId": "10916"
-  }
-]
+{
+  "source": "Paul Chambers",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Jimmy Cobb",
+      "targetId": "1045"
+    },
+    {
+      "name": "Bill Evans",
+      "targetId": "1047"
+    },
+    {
+      "name": "Wynton Kelly",
+      "targetId": "1048"
+    },
+    {
+      "name": "John Coltrane",
+      "targetId": "1049"
+    },
+    {
+      "name": "Julian \"Cannonball\" Adderly",
+      "targetId": "1050"
+    },
+    {
+      "name": "Tommy Flanagan",
+      "targetId": "4557"
+    },
+    {
+      "name": "Steve Lacy",
+      "targetId": "4592"
+    },
+    {
+      "name": "Julius Watkins",
+      "targetId": "4601"
+    },
+    {
+      "name": "Jerome Richardson",
+      "targetId": "6400"
+    },
+    {
+      "name": "Red Garland",
+      "targetId": "7068"
+    },
+    {
+      "name": "\"Philly\" Joe Jones",
+      "targetId": "7069"
+    },
+    {
+      "name": "Donald Byrd",
+      "targetId": "7257"
+    },
+    {
+      "name": "Horace Silver",
+      "targetId": "7261"
+    },
+    {
+      "name": "Kenny Burrell",
+      "targetId": "7926"
+    },
+    {
+      "name": "Jimmy Cleveland",
+      "targetId": "7928"
+    },
+    {
+      "name": "Danny Bank",
+      "targetId": "7930"
+    },
+    {
+      "name": "Jo Jones",
+      "targetId": "8092"
+    },
+    {
+      "name": "Gil Evans",
+      "targetId": "8093"
+    },
+    {
+      "name": "John Carisi",
+      "targetId": "8094"
+    },
+    {
+      "name": "John Koven",
+      "targetId": "8095"
+    },
+    {
+      "name": "Bart Varsalona",
+      "targetId": "8096"
+    },
+    {
+      "name": "Willie Ruff",
+      "targetId": "8097"
+    },
+    {
+      "name": "Lee Konitz",
+      "targetId": "8098"
+    },
+    {
+      "name": "Dave Kurtzer",
+      "targetId": "8099"
+    },
+    {
+      "name": "Bill Barber",
+      "targetId": "10688"
+    },
+    {
+      "name": "Gunther Schuller",
+      "targetId": "10693"
+    },
+    {
+      "name": "Johnny Coles",
+      "targetId": "10909"
+    },
+    {
+      "name": "Bernie Glow",
+      "targetId": "10910"
+    },
+    {
+      "name": "Ernie Royal",
+      "targetId": "10911"
+    },
+    {
+      "name": "Louis Mucci",
+      "targetId": "10912"
+    },
+    {
+      "name": "Joe Bennett",
+      "targetId": "10913"
+    },
+    {
+      "name": "Frank Rehak",
+      "targetId": "10914"
+    },
+    {
+      "name": "Dick Hixson",
+      "targetId": "10915"
+    },
+    {
+      "name": "Romeo Penque",
+      "targetId": "10916"
+    }
+  ]
+}

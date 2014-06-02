@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Hershel Wiggington",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Hershel Wiggington",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Hershel Wiggington",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Hershel Wiggington",
-    "target": "Bruce Thomas",
-    "targetId": "7277"
-  },
-  {
-    "source": "Hershel Wiggington",
-    "target": "John McFee",
-    "targetId": "9884"
-  },
-  {
-    "source": "Hershel Wiggington",
-    "target": "Dolores Edgin",
-    "targetId": "9906"
-  },
-  {
-    "source": "Hershel Wiggington",
-    "target": "Joe Babcock",
-    "targetId": "9908"
-  }
-]
+{
+  "source": "Hershel Wiggington",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Bruce Thomas",
+      "targetId": "7277"
+    },
+    {
+      "name": "John McFee",
+      "targetId": "9884"
+    },
+    {
+      "name": "Dolores Edgin",
+      "targetId": "9906"
+    },
+    {
+      "name": "Joe Babcock",
+      "targetId": "9908"
+    }
+  ]
+}

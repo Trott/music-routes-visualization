@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Matthew Bice",
-    "target": "Ed Mazzucco",
-    "targetId": "10791"
-  },
-  {
-    "source": "Matthew Bice",
-    "target": "Laura Watling",
-    "targetId": "10793"
-  },
-  {
-    "source": "Matthew Bice",
-    "target": "Jon Chaikin",
-    "targetId": "10795"
-  },
-  {
-    "source": "Matthew Bice",
-    "target": "Ann Yu",
-    "targetId": "10797"
-  }
-]
+{
+  "source": "Matthew Bice",
+  "targets": [
+    {
+      "name": "Ed Mazzucco",
+      "targetId": "10791"
+    },
+    {
+      "name": "Laura Watling",
+      "targetId": "10793"
+    },
+    {
+      "name": "Jon Chaikin",
+      "targetId": "10795"
+    },
+    {
+      "name": "Ann Yu",
+      "targetId": "10797"
+    }
+  ]
+}

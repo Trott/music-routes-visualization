@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Phil Alvin",
-    "target": "Steve Berlin",
-    "targetId": "2557"
-  },
-  {
-    "source": "Phil Alvin",
-    "target": "Dave Alvin",
-    "targetId": "3625"
-  },
-  {
-    "source": "Phil Alvin",
-    "target": "Lee Allen",
-    "targetId": "4651"
-  },
-  {
-    "source": "Phil Alvin",
-    "target": "Gene Taylor",
-    "targetId": "4653"
-  },
-  {
-    "source": "Phil Alvin",
-    "target": "John Bazz",
-    "targetId": "4654"
-  },
-  {
-    "source": "Phil Alvin",
-    "target": "Bill Bateman",
-    "targetId": "4655"
-  }
-]
+{
+  "source": "Phil Alvin",
+  "targets": [
+    {
+      "name": "Steve Berlin",
+      "targetId": "2557"
+    },
+    {
+      "name": "Dave Alvin",
+      "targetId": "3625"
+    },
+    {
+      "name": "Lee Allen",
+      "targetId": "4651"
+    },
+    {
+      "name": "Gene Taylor",
+      "targetId": "4653"
+    },
+    {
+      "name": "John Bazz",
+      "targetId": "4654"
+    },
+    {
+      "name": "Bill Bateman",
+      "targetId": "4655"
+    }
+  ]
+}

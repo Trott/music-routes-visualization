@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jeff Watson",
-    "target": "Brad Gillis",
-    "targetId": "158"
-  },
-  {
-    "source": "Jeff Watson",
-    "target": "Alan Fitzgerald",
-    "targetId": "1738"
-  },
-  {
-    "source": "Jeff Watson",
-    "target": "Kelly Keagy",
-    "targetId": "2032"
-  },
-  {
-    "source": "Jeff Watson",
-    "target": "Jack Blades",
-    "targetId": "2887"
-  }
-]
+{
+  "source": "Jeff Watson",
+  "targets": [
+    {
+      "name": "Brad Gillis",
+      "targetId": "158"
+    },
+    {
+      "name": "Alan Fitzgerald",
+      "targetId": "1738"
+    },
+    {
+      "name": "Kelly Keagy",
+      "targetId": "2032"
+    },
+    {
+      "name": "Jack Blades",
+      "targetId": "2887"
+    }
+  ]
+}

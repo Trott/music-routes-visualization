@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Eric Woolfson",
-    "target": "David Paton",
-    "targetId": "5785"
-  },
-  {
-    "source": "Eric Woolfson",
-    "target": "Alan Parsons",
-    "targetId": "9231"
-  },
-  {
-    "source": "Eric Woolfson",
-    "target": "Ian Bairnson",
-    "targetId": "9232"
-  },
-  {
-    "source": "Eric Woolfson",
-    "target": "Chris Rainbow",
-    "targetId": "9233"
-  },
-  {
-    "source": "Eric Woolfson",
-    "target": "Stuart Elliott",
-    "targetId": "9234"
-  }
-]
+{
+  "source": "Eric Woolfson",
+  "targets": [
+    {
+      "name": "David Paton",
+      "targetId": "5785"
+    },
+    {
+      "name": "Alan Parsons",
+      "targetId": "9231"
+    },
+    {
+      "name": "Ian Bairnson",
+      "targetId": "9232"
+    },
+    {
+      "name": "Chris Rainbow",
+      "targetId": "9233"
+    },
+    {
+      "name": "Stuart Elliott",
+      "targetId": "9234"
+    }
+  ]
+}

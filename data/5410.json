@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Brendan Spengler",
-    "target": "Ross Johnson",
-    "targetId": "4991"
-  },
-  {
-    "source": "Brendan Spengler",
-    "target": "Jack \"Oblivian\" Yarber",
-    "targetId": "5405"
-  },
-  {
-    "source": "Brendan Spengler",
-    "target": "Tav Falco",
-    "targetId": "5407"
-  },
-  {
-    "source": "Brendan Spengler",
-    "target": "Eric Hill",
-    "targetId": "5408"
-  },
-  {
-    "source": "Brendan Spengler",
-    "target": "Kitty Fires",
-    "targetId": "5409"
-  }
-]
+{
+  "source": "Brendan Spengler",
+  "targets": [
+    {
+      "name": "Ross Johnson",
+      "targetId": "4991"
+    },
+    {
+      "name": "Jack \"Oblivian\" Yarber",
+      "targetId": "5405"
+    },
+    {
+      "name": "Tav Falco",
+      "targetId": "5407"
+    },
+    {
+      "name": "Eric Hill",
+      "targetId": "5408"
+    },
+    {
+      "name": "Kitty Fires",
+      "targetId": "5409"
+    }
+  ]
+}

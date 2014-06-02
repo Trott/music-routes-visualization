@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Vanessa Beggs",
-    "target": "Joel Pickard",
-    "targetId": "1593"
-  },
-  {
-    "source": "Vanessa Beggs",
-    "target": "Chris Stroffolino",
-    "targetId": "5936"
-  },
-  {
-    "source": "Vanessa Beggs",
-    "target": "Peter Nochisaki",
-    "targetId": "5940"
-  },
-  {
-    "source": "Vanessa Beggs",
-    "target": "Brandon Watson",
-    "targetId": "5942"
-  },
-  {
-    "source": "Vanessa Beggs",
-    "target": "Greg Hain",
-    "targetId": "6668"
-  }
-]
+{
+  "source": "Vanessa Beggs",
+  "targets": [
+    {
+      "name": "Joel Pickard",
+      "targetId": "1593"
+    },
+    {
+      "name": "Chris Stroffolino",
+      "targetId": "5936"
+    },
+    {
+      "name": "Peter Nochisaki",
+      "targetId": "5940"
+    },
+    {
+      "name": "Brandon Watson",
+      "targetId": "5942"
+    },
+    {
+      "name": "Greg Hain",
+      "targetId": "6668"
+    }
+  ]
+}

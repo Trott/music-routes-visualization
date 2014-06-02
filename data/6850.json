@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brian Molko",
-    "target": "Jane Birkin",
-    "targetId": "2722"
-  },
-  {
-    "source": "Brian Molko",
-    "target": "Stefan Olsdal",
-    "targetId": "10282"
-  },
-  {
-    "source": "Brian Molko",
-    "target": "Steve Hewitt",
-    "targetId": "10283"
-  }
-]
+{
+  "source": "Brian Molko",
+  "targets": [
+    {
+      "name": "Jane Birkin",
+      "targetId": "2722"
+    },
+    {
+      "name": "Stefan Olsdal",
+      "targetId": "10282"
+    },
+    {
+      "name": "Steve Hewitt",
+      "targetId": "10283"
+    }
+  ]
+}

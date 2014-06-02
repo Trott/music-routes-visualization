@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Ray Cooper",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Billy Hinsche",
-    "targetId": "231"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Bruce Johnston",
-    "targetId": "232"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Carl Wilson",
-    "targetId": "233"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Linda McCartney",
-    "targetId": "631"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "James Newton Howard",
-    "targetId": "650"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Carly Simon",
-    "targetId": "979"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Jimmy Ryan",
-    "targetId": "980"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Vicki Brown",
-    "targetId": "982"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Liza Strike",
-    "targetId": "983"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Bonnie Bramlett",
-    "targetId": "992"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Doris Troy",
-    "targetId": "994"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Steve Ferrone",
-    "targetId": "1420"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Carl Fortina",
-    "targetId": "1479"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Davey Johnstone",
-    "targetId": "2845"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Andrew Fairweather-Low",
-    "targetId": "3184"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Chuck Leavell",
-    "targetId": "6200"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Dee Murray",
-    "targetId": "7203"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Nigel Olsson",
-    "targetId": "7204"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Kenny Passarelli",
-    "targetId": "10483"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Katie Kissoon",
-    "targetId": "10522"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Kiki Dee",
-    "targetId": "10524"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "David Hentschel",
-    "targetId": "10739"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Toni Tenille",
-    "targetId": "10740"
-  },
-  {
-    "source": "Ray Cooper",
-    "target": "Tessa Niles",
-    "targetId": "10859"
-  }
-]
+{
+  "source": "Ray Cooper",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Billy Hinsche",
+      "targetId": "231"
+    },
+    {
+      "name": "Bruce Johnston",
+      "targetId": "232"
+    },
+    {
+      "name": "Carl Wilson",
+      "targetId": "233"
+    },
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Linda McCartney",
+      "targetId": "631"
+    },
+    {
+      "name": "James Newton Howard",
+      "targetId": "650"
+    },
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Carly Simon",
+      "targetId": "979"
+    },
+    {
+      "name": "Jimmy Ryan",
+      "targetId": "980"
+    },
+    {
+      "name": "Vicki Brown",
+      "targetId": "982"
+    },
+    {
+      "name": "Liza Strike",
+      "targetId": "983"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Bonnie Bramlett",
+      "targetId": "992"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Doris Troy",
+      "targetId": "994"
+    },
+    {
+      "name": "Steve Ferrone",
+      "targetId": "1420"
+    },
+    {
+      "name": "Carl Fortina",
+      "targetId": "1479"
+    },
+    {
+      "name": "Davey Johnstone",
+      "targetId": "2845"
+    },
+    {
+      "name": "Andrew Fairweather-Low",
+      "targetId": "3184"
+    },
+    {
+      "name": "Chuck Leavell",
+      "targetId": "6200"
+    },
+    {
+      "name": "Dee Murray",
+      "targetId": "7203"
+    },
+    {
+      "name": "Nigel Olsson",
+      "targetId": "7204"
+    },
+    {
+      "name": "Kenny Passarelli",
+      "targetId": "10483"
+    },
+    {
+      "name": "Katie Kissoon",
+      "targetId": "10522"
+    },
+    {
+      "name": "Kiki Dee",
+      "targetId": "10524"
+    },
+    {
+      "name": "David Hentschel",
+      "targetId": "10739"
+    },
+    {
+      "name": "Toni Tenille",
+      "targetId": "10740"
+    },
+    {
+      "name": "Tessa Niles",
+      "targetId": "10859"
+    }
+  ]
+}

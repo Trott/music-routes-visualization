@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Joe Principe",
-    "target": "Zach Blair",
-    "targetId": "2143"
-  },
-  {
-    "source": "Joe Principe",
-    "target": "Brandon Barnes",
-    "targetId": "9248"
-  },
-  {
-    "source": "Joe Principe",
-    "target": "Tim McIlrath",
-    "targetId": "9249"
-  }
-]
+{
+  "source": "Joe Principe",
+  "targets": [
+    {
+      "name": "Zach Blair",
+      "targetId": "2143"
+    },
+    {
+      "name": "Brandon Barnes",
+      "targetId": "9248"
+    },
+    {
+      "name": "Tim McIlrath",
+      "targetId": "9249"
+    }
+  ]
+}

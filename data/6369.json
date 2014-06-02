@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Sara P. Smith",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Sara P. Smith",
-    "target": "Greg Leisz",
-    "targetId": "1061"
-  },
-  {
-    "source": "Sara P. Smith",
-    "target": "Ambrosia Parsley",
-    "targetId": "6365"
-  },
-  {
-    "source": "Sara P. Smith",
-    "target": "Danny McGough",
-    "targetId": "6366"
-  },
-  {
-    "source": "Sara P. Smith",
-    "target": "Duke McVinnie",
-    "targetId": "6367"
-  }
-]
+{
+  "source": "Sara P. Smith",
+  "targets": [
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Greg Leisz",
+      "targetId": "1061"
+    },
+    {
+      "name": "Ambrosia Parsley",
+      "targetId": "6365"
+    },
+    {
+      "name": "Danny McGough",
+      "targetId": "6366"
+    },
+    {
+      "name": "Duke McVinnie",
+      "targetId": "6367"
+    }
+  ]
+}

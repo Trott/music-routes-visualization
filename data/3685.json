@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Chris Maxwell",
-    "target": "Mike Doughty",
-    "targetId": "36"
-  },
-  {
-    "source": "Chris Maxwell",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Chris Maxwell",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Chris Maxwell",
-    "target": "Dan Miller",
-    "targetId": "3681"
-  },
-  {
-    "source": "Chris Maxwell",
-    "target": "Dan Levine",
-    "targetId": "3686"
-  },
-  {
-    "source": "Chris Maxwell",
-    "target": "Jim O'Connor",
-    "targetId": "3687"
-  },
-  {
-    "source": "Chris Maxwell",
-    "target": "Phil Hernandez",
-    "targetId": "3693"
-  }
-]
+{
+  "source": "Chris Maxwell",
+  "targets": [
+    {
+      "name": "Mike Doughty",
+      "targetId": "36"
+    },
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Dan Miller",
+      "targetId": "3681"
+    },
+    {
+      "name": "Dan Levine",
+      "targetId": "3686"
+    },
+    {
+      "name": "Jim O'Connor",
+      "targetId": "3687"
+    },
+    {
+      "name": "Phil Hernandez",
+      "targetId": "3693"
+    }
+  ]
+}

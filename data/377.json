@@ -1,187 +1,153 @@
-[
-  {
-    "source": "Al Perkins",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Russ Titelman",
-    "targetId": "378"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Glenn Frey",
-    "targetId": "379"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Don Henley",
-    "targetId": "380"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Bernie Leadon",
-    "targetId": "381"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Emmylou Harris",
-    "targetId": "450"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Gram Parsons",
-    "targetId": "451"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "James Burton",
-    "targetId": "452"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Emory Gordy",
-    "targetId": "453"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Ronnie Tutt",
-    "targetId": "454"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Glen D. Hardin",
-    "targetId": "455"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Byron Berline",
-    "targetId": "456"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Raymond Lee Pounds",
-    "targetId": "558"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Madelyn Quebec",
-    "targetId": "562"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Muffy Hendrix",
-    "targetId": "563"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Annette May Thomas",
-    "targetId": "564"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "James McNew",
-    "targetId": "2840"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Georgia Hubley",
-    "targetId": "2841"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Ira Kaplan",
-    "targetId": "2842"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Richard Bowden",
-    "targetId": "2849"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "James Jamerson, Jr.",
-    "targetId": "3266"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Queen Esther Marrow",
-    "targetId": "3269"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Larry Meyers",
-    "targetId": "3270"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Milton Gabriel",
-    "targetId": "3271"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Mike Berment",
-    "targetId": "3272"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Brian Parris",
-    "targetId": "3273"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Jim Norman",
-    "targetId": "4954"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Mike Bowden",
-    "targetId": "4955"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Ashley Monroe",
-    "targetId": "8690"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Andrea Glass",
-    "targetId": "8691"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Danny White",
-    "targetId": "8692"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Paul Griffith",
-    "targetId": "8693"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Shawn Byrne",
-    "targetId": "8694"
-  },
-  {
-    "source": "Al Perkins",
-    "target": "Kevin Montgomery",
-    "targetId": "8695"
-  }
-]
+{
+  "source": "Al Perkins",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Russ Titelman",
+      "targetId": "378"
+    },
+    {
+      "name": "Glenn Frey",
+      "targetId": "379"
+    },
+    {
+      "name": "Don Henley",
+      "targetId": "380"
+    },
+    {
+      "name": "Bernie Leadon",
+      "targetId": "381"
+    },
+    {
+      "name": "Emmylou Harris",
+      "targetId": "450"
+    },
+    {
+      "name": "Gram Parsons",
+      "targetId": "451"
+    },
+    {
+      "name": "James Burton",
+      "targetId": "452"
+    },
+    {
+      "name": "Emory Gordy",
+      "targetId": "453"
+    },
+    {
+      "name": "Ronnie Tutt",
+      "targetId": "454"
+    },
+    {
+      "name": "Glen D. Hardin",
+      "targetId": "455"
+    },
+    {
+      "name": "Byron Berline",
+      "targetId": "456"
+    },
+    {
+      "name": "Raymond Lee Pounds",
+      "targetId": "558"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Madelyn Quebec",
+      "targetId": "562"
+    },
+    {
+      "name": "Muffy Hendrix",
+      "targetId": "563"
+    },
+    {
+      "name": "Annette May Thomas",
+      "targetId": "564"
+    },
+    {
+      "name": "James McNew",
+      "targetId": "2840"
+    },
+    {
+      "name": "Georgia Hubley",
+      "targetId": "2841"
+    },
+    {
+      "name": "Ira Kaplan",
+      "targetId": "2842"
+    },
+    {
+      "name": "Richard Bowden",
+      "targetId": "2849"
+    },
+    {
+      "name": "James Jamerson, Jr.",
+      "targetId": "3266"
+    },
+    {
+      "name": "Queen Esther Marrow",
+      "targetId": "3269"
+    },
+    {
+      "name": "Larry Meyers",
+      "targetId": "3270"
+    },
+    {
+      "name": "Milton Gabriel",
+      "targetId": "3271"
+    },
+    {
+      "name": "Mike Berment",
+      "targetId": "3272"
+    },
+    {
+      "name": "Brian Parris",
+      "targetId": "3273"
+    },
+    {
+      "name": "Jim Norman",
+      "targetId": "4954"
+    },
+    {
+      "name": "Mike Bowden",
+      "targetId": "4955"
+    },
+    {
+      "name": "Ashley Monroe",
+      "targetId": "8690"
+    },
+    {
+      "name": "Andrea Glass",
+      "targetId": "8691"
+    },
+    {
+      "name": "Danny White",
+      "targetId": "8692"
+    },
+    {
+      "name": "Paul Griffith",
+      "targetId": "8693"
+    },
+    {
+      "name": "Shawn Byrne",
+      "targetId": "8694"
+    },
+    {
+      "name": "Kevin Montgomery",
+      "targetId": "8695"
+    }
+  ]
+}

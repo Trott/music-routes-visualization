@@ -1,157 +1,129 @@
-[
-  {
-    "source": "Kelly Clarkson",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "John Shanks",
-    "targetId": "1063"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Shawn Pelton",
-    "targetId": "2370"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Kenny Aronoff",
-    "targetId": "4158"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Victor Lawrence",
-    "targetId": "5382"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Paul Bushnell",
-    "targetId": "6113"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Reba McEntire",
-    "targetId": "6255"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Justin Guarini",
-    "targetId": "6263"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Lukasz Gottwald",
-    "targetId": "6293"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Josh Freese",
-    "targetId": "6296"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Max Martin",
-    "targetId": "6300"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Jeff Rothschild",
-    "targetId": "6956"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Olle Dahlstedt",
-    "targetId": "6957"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Marty O'Brien",
-    "targetId": "6958"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Mark Colbert",
-    "targetId": "6959"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Ben Moody",
-    "targetId": "6960"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "David Hodges",
-    "targetId": "6961"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Jason Lader",
-    "targetId": "6962"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Randy Cook",
-    "targetId": "6963"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Phil X",
-    "targetId": "6964"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Raine Maida",
-    "targetId": "6965"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Mark Robertson",
-    "targetId": "6966"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Shalini Vijayan",
-    "targetId": "6967"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Shanti Randall",
-    "targetId": "6968"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Clif Magness",
-    "targetId": "6969"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Jason Halbert",
-    "targetId": "6970"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Owen Biddle",
-    "targetId": "7282"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Ravaughn Brown",
-    "targetId": "7287"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Alexander Chiger",
-    "targetId": "7288"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Harry Zelnick",
-    "targetId": "7289"
-  },
-  {
-    "source": "Kelly Clarkson",
-    "target": "Louis Biancaniello",
-    "targetId": "7290"
-  }
-]
+{
+  "source": "Kelly Clarkson",
+  "targets": [
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "John Shanks",
+      "targetId": "1063"
+    },
+    {
+      "name": "Shawn Pelton",
+      "targetId": "2370"
+    },
+    {
+      "name": "Kenny Aronoff",
+      "targetId": "4158"
+    },
+    {
+      "name": "Victor Lawrence",
+      "targetId": "5382"
+    },
+    {
+      "name": "Paul Bushnell",
+      "targetId": "6113"
+    },
+    {
+      "name": "Reba McEntire",
+      "targetId": "6255"
+    },
+    {
+      "name": "Justin Guarini",
+      "targetId": "6263"
+    },
+    {
+      "name": "Lukasz Gottwald",
+      "targetId": "6293"
+    },
+    {
+      "name": "Josh Freese",
+      "targetId": "6296"
+    },
+    {
+      "name": "Max Martin",
+      "targetId": "6300"
+    },
+    {
+      "name": "Jeff Rothschild",
+      "targetId": "6956"
+    },
+    {
+      "name": "Olle Dahlstedt",
+      "targetId": "6957"
+    },
+    {
+      "name": "Marty O'Brien",
+      "targetId": "6958"
+    },
+    {
+      "name": "Mark Colbert",
+      "targetId": "6959"
+    },
+    {
+      "name": "Ben Moody",
+      "targetId": "6960"
+    },
+    {
+      "name": "David Hodges",
+      "targetId": "6961"
+    },
+    {
+      "name": "Jason Lader",
+      "targetId": "6962"
+    },
+    {
+      "name": "Randy Cook",
+      "targetId": "6963"
+    },
+    {
+      "name": "Phil X",
+      "targetId": "6964"
+    },
+    {
+      "name": "Raine Maida",
+      "targetId": "6965"
+    },
+    {
+      "name": "Mark Robertson",
+      "targetId": "6966"
+    },
+    {
+      "name": "Shalini Vijayan",
+      "targetId": "6967"
+    },
+    {
+      "name": "Shanti Randall",
+      "targetId": "6968"
+    },
+    {
+      "name": "Clif Magness",
+      "targetId": "6969"
+    },
+    {
+      "name": "Jason Halbert",
+      "targetId": "6970"
+    },
+    {
+      "name": "Owen Biddle",
+      "targetId": "7282"
+    },
+    {
+      "name": "Ravaughn Brown",
+      "targetId": "7287"
+    },
+    {
+      "name": "Alexander Chiger",
+      "targetId": "7288"
+    },
+    {
+      "name": "Harry Zelnick",
+      "targetId": "7289"
+    },
+    {
+      "name": "Louis Biancaniello",
+      "targetId": "7290"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Steven Severin",
-    "target": "Siouxsie Sioux",
-    "targetId": "361"
-  },
-  {
-    "source": "Steven Severin",
-    "target": "Robert Smith",
-    "targetId": "363"
-  },
-  {
-    "source": "Steven Severin",
-    "target": "Budgie",
-    "targetId": "364"
-  },
-  {
-    "source": "Steven Severin",
-    "target": "John McGeoch",
-    "targetId": "1627"
-  },
-  {
-    "source": "Steven Severin",
-    "target": "Steve Jones",
-    "targetId": "1630"
-  }
-]
+{
+  "source": "Steven Severin",
+  "targets": [
+    {
+      "name": "Siouxsie Sioux",
+      "targetId": "361"
+    },
+    {
+      "name": "Robert Smith",
+      "targetId": "363"
+    },
+    {
+      "name": "Budgie",
+      "targetId": "364"
+    },
+    {
+      "name": "John McGeoch",
+      "targetId": "1627"
+    },
+    {
+      "name": "Steve Jones",
+      "targetId": "1630"
+    }
+  ]
+}

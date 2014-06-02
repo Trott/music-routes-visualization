@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Oliver Woods",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Oliver Woods",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Oliver Woods",
-    "target": "Charlie Jones",
-    "targetId": "3709"
-  },
-  {
-    "source": "Oliver Woods",
-    "target": "Michael Lee",
-    "targetId": "3741"
-  },
-  {
-    "source": "Oliver Woods",
-    "target": "Phil Andrews",
-    "targetId": "3748"
-  }
-]
+{
+  "source": "Oliver Woods",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Charlie Jones",
+      "targetId": "3709"
+    },
+    {
+      "name": "Michael Lee",
+      "targetId": "3741"
+    },
+    {
+      "name": "Phil Andrews",
+      "targetId": "3748"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Sly Stone",
-    "target": "Greg Errico",
-    "targetId": "3409"
-  },
-  {
-    "source": "Sly Stone",
-    "target": "Rose Stone",
-    "targetId": "7539"
-  },
-  {
-    "source": "Sly Stone",
-    "target": "Larry Graham",
-    "targetId": "10409"
-  },
-  {
-    "source": "Sly Stone",
-    "target": "Freddie Stone",
-    "targetId": "11011"
-  },
-  {
-    "source": "Sly Stone",
-    "target": "Cynthia Robinson",
-    "targetId": "11012"
-  },
-  {
-    "source": "Sly Stone",
-    "target": "Jerry Martini",
-    "targetId": "11013"
-  }
-]
+{
+  "source": "Sly Stone",
+  "targets": [
+    {
+      "name": "Greg Errico",
+      "targetId": "3409"
+    },
+    {
+      "name": "Rose Stone",
+      "targetId": "7539"
+    },
+    {
+      "name": "Larry Graham",
+      "targetId": "10409"
+    },
+    {
+      "name": "Freddie Stone",
+      "targetId": "11011"
+    },
+    {
+      "name": "Cynthia Robinson",
+      "targetId": "11012"
+    },
+    {
+      "name": "Jerry Martini",
+      "targetId": "11013"
+    }
+  ]
+}

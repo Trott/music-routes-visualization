@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ted Bruner",
-    "target": "Josh Freese",
-    "targetId": "6296"
-  },
-  {
-    "source": "Ted Bruner",
-    "target": "Katy Perry",
-    "targetId": "6947"
-  }
-]
+{
+  "source": "Ted Bruner",
+  "targets": [
+    {
+      "name": "Josh Freese",
+      "targetId": "6296"
+    },
+    {
+      "name": "Katy Perry",
+      "targetId": "6947"
+    }
+  ]
+}

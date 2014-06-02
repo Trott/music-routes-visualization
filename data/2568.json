@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John Thomassie",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "John Thomassie",
-    "target": "Tom Waits",
-    "targetId": "1713"
-  },
-  {
-    "source": "John Thomassie",
-    "target": "Larry Taylor",
-    "targetId": "2567"
-  }
-]
+{
+  "source": "John Thomassie",
+  "targets": [
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Tom Waits",
+      "targetId": "1713"
+    },
+    {
+      "name": "Larry Taylor",
+      "targetId": "2567"
+    }
+  ]
+}

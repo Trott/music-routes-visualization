@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tiny Grimes",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Tiny Grimes",
-    "target": "Screamin' Jay Hawkins",
-    "targetId": "2944"
-  },
-  {
-    "source": "Tiny Grimes",
-    "target": "Jimmy Butts",
-    "targetId": "2948"
-  },
-  {
-    "source": "Tiny Grimes",
-    "target": "Harold \"Doc\" West",
-    "targetId": "2949"
-  },
-  {
-    "source": "Tiny Grimes",
-    "target": "Clyde Hart",
-    "targetId": "2952"
-  }
-]
+{
+  "source": "Tiny Grimes",
+  "targets": [
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Screamin' Jay Hawkins",
+      "targetId": "2944"
+    },
+    {
+      "name": "Jimmy Butts",
+      "targetId": "2948"
+    },
+    {
+      "name": "Harold \"Doc\" West",
+      "targetId": "2949"
+    },
+    {
+      "name": "Clyde Hart",
+      "targetId": "2952"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Archie Shepp",
-    "target": "Bill Laswell",
-    "targetId": "2205"
-  },
-  {
-    "source": "Archie Shepp",
-    "target": "Michael Beinhorn",
-    "targetId": "5659"
-  },
-  {
-    "source": "Archie Shepp",
-    "target": "Yogi Horton",
-    "targetId": "5660"
-  },
-  {
-    "source": "Archie Shepp",
-    "target": "Raymond Jones",
-    "targetId": "5661"
-  },
-  {
-    "source": "Archie Shepp",
-    "target": "Whitney Houston",
-    "targetId": "5663"
-  }
-]
+{
+  "source": "Archie Shepp",
+  "targets": [
+    {
+      "name": "Bill Laswell",
+      "targetId": "2205"
+    },
+    {
+      "name": "Michael Beinhorn",
+      "targetId": "5659"
+    },
+    {
+      "name": "Yogi Horton",
+      "targetId": "5660"
+    },
+    {
+      "name": "Raymond Jones",
+      "targetId": "5661"
+    },
+    {
+      "name": "Whitney Houston",
+      "targetId": "5663"
+    }
+  ]
+}

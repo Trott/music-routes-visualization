@@ -1,237 +1,193 @@
-[
-  {
-    "source": "Jim Price",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Jim Price",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Bill Wyman",
-    "targetId": "304"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Bobby Keyes",
-    "targetId": "644"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Richard Perry",
-    "targetId": "987"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Bonnie Bramlett",
-    "targetId": "992"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Charlie Watts",
-    "targetId": "1994"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Mick Taylor",
-    "targetId": "1995"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Jimmy Miller",
-    "targetId": "1997"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Leon Russell",
-    "targetId": "1999"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Yoko Ono",
-    "targetId": "2686"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Harry Nilsson",
-    "targetId": "3193"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Chris Spedding",
-    "targetId": "3195"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Henry Krein",
-    "targetId": "3196"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Roger Coolan",
-    "targetId": "3198"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Gary Wright",
-    "targetId": "3199"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Joe Cocker",
-    "targetId": "4141"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Chris Stainton",
-    "targetId": "4149"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Alan White",
-    "targetId": "4428"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Bobby Whitlock",
-    "targetId": "5331"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Carl Radle",
-    "targetId": "5332"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Gary Brooker",
-    "targetId": "6635"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Mike Gibbins",
-    "targetId": "6636"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Chuck Blackwell",
-    "targetId": "7418"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Sandy Konikoff",
-    "targetId": "7419"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Bobby Torres",
-    "targetId": "7420"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Don Preston",
-    "targetId": "7421"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Rita Coolidge",
-    "targetId": "7422"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Claudia Linnear",
-    "targetId": "7423"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Daniel Moore",
-    "targetId": "7424"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Donna Weiss",
-    "targetId": "7425"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Pamela Polland",
-    "targetId": "7426"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Matthew Moore",
-    "targetId": "7427"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Donna Washburn",
-    "targetId": "7428"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Nickey Barclay",
-    "targetId": "7429"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Bobby Jones",
-    "targetId": "7430"
-  },
-  {
-    "source": "Jim Price",
-    "target": "Delaney Bramlett",
-    "targetId": "8898"
-  }
-]
+{
+  "source": "Jim Price",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Bill Wyman",
+      "targetId": "304"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Bobby Keyes",
+      "targetId": "644"
+    },
+    {
+      "name": "Richard Perry",
+      "targetId": "987"
+    },
+    {
+      "name": "Bonnie Bramlett",
+      "targetId": "992"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Charlie Watts",
+      "targetId": "1994"
+    },
+    {
+      "name": "Mick Taylor",
+      "targetId": "1995"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Jimmy Miller",
+      "targetId": "1997"
+    },
+    {
+      "name": "Leon Russell",
+      "targetId": "1999"
+    },
+    {
+      "name": "Yoko Ono",
+      "targetId": "2686"
+    },
+    {
+      "name": "Harry Nilsson",
+      "targetId": "3193"
+    },
+    {
+      "name": "Chris Spedding",
+      "targetId": "3195"
+    },
+    {
+      "name": "Henry Krein",
+      "targetId": "3196"
+    },
+    {
+      "name": "Roger Coolan",
+      "targetId": "3198"
+    },
+    {
+      "name": "Gary Wright",
+      "targetId": "3199"
+    },
+    {
+      "name": "Joe Cocker",
+      "targetId": "4141"
+    },
+    {
+      "name": "Chris Stainton",
+      "targetId": "4149"
+    },
+    {
+      "name": "Alan White",
+      "targetId": "4428"
+    },
+    {
+      "name": "Bobby Whitlock",
+      "targetId": "5331"
+    },
+    {
+      "name": "Carl Radle",
+      "targetId": "5332"
+    },
+    {
+      "name": "Gary Brooker",
+      "targetId": "6635"
+    },
+    {
+      "name": "Mike Gibbins",
+      "targetId": "6636"
+    },
+    {
+      "name": "Chuck Blackwell",
+      "targetId": "7418"
+    },
+    {
+      "name": "Sandy Konikoff",
+      "targetId": "7419"
+    },
+    {
+      "name": "Bobby Torres",
+      "targetId": "7420"
+    },
+    {
+      "name": "Don Preston",
+      "targetId": "7421"
+    },
+    {
+      "name": "Rita Coolidge",
+      "targetId": "7422"
+    },
+    {
+      "name": "Claudia Linnear",
+      "targetId": "7423"
+    },
+    {
+      "name": "Daniel Moore",
+      "targetId": "7424"
+    },
+    {
+      "name": "Donna Weiss",
+      "targetId": "7425"
+    },
+    {
+      "name": "Pamela Polland",
+      "targetId": "7426"
+    },
+    {
+      "name": "Matthew Moore",
+      "targetId": "7427"
+    },
+    {
+      "name": "Donna Washburn",
+      "targetId": "7428"
+    },
+    {
+      "name": "Nickey Barclay",
+      "targetId": "7429"
+    },
+    {
+      "name": "Bobby Jones",
+      "targetId": "7430"
+    },
+    {
+      "name": "Delaney Bramlett",
+      "targetId": "8898"
+    }
+  ]
+}

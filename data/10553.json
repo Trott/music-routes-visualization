@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jan Akkerman",
-    "target": "Thijs van Leer",
-    "targetId": "10552"
-  },
-  {
-    "source": "Jan Akkerman",
-    "target": "Pierre van der Linden",
-    "targetId": "10554"
-  }
-]
+{
+  "source": "Jan Akkerman",
+  "targets": [
+    {
+      "name": "Thijs van Leer",
+      "targetId": "10552"
+    },
+    {
+      "name": "Pierre van der Linden",
+      "targetId": "10554"
+    }
+  ]
+}

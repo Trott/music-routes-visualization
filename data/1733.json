@@ -1,92 +1,77 @@
-[
-  {
-    "source": "Jack Bruce",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Ginger Baker",
-    "targetId": "915"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Don Alias",
-    "targetId": "1261"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Larry Young",
-    "targetId": "1639"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Felix Pappalardi",
-    "targetId": "1734"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Tom McGuinness",
-    "targetId": "3141"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Mike Hugg",
-    "targetId": "3142"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Paul Jones",
-    "targetId": "3189"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Warren Smith",
-    "targetId": "3837"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Ted Dunbar",
-    "targetId": "3838"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Tony Williams",
-    "targetId": "3839"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "David Sancious",
-    "targetId": "3877"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Clem Clempson",
-    "targetId": "4537"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Billy Cobham",
-    "targetId": "4609"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Lyn Dobson",
-    "targetId": "5645"
-  },
-  {
-    "source": "Jack Bruce",
-    "target": "Henry Lowther",
-    "targetId": "5646"
-  }
-]
+{
+  "source": "Jack Bruce",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Ginger Baker",
+      "targetId": "915"
+    },
+    {
+      "name": "Don Alias",
+      "targetId": "1261"
+    },
+    {
+      "name": "Larry Young",
+      "targetId": "1639"
+    },
+    {
+      "name": "Felix Pappalardi",
+      "targetId": "1734"
+    },
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Tom McGuinness",
+      "targetId": "3141"
+    },
+    {
+      "name": "Mike Hugg",
+      "targetId": "3142"
+    },
+    {
+      "name": "Paul Jones",
+      "targetId": "3189"
+    },
+    {
+      "name": "Warren Smith",
+      "targetId": "3837"
+    },
+    {
+      "name": "Ted Dunbar",
+      "targetId": "3838"
+    },
+    {
+      "name": "Tony Williams",
+      "targetId": "3839"
+    },
+    {
+      "name": "David Sancious",
+      "targetId": "3877"
+    },
+    {
+      "name": "Clem Clempson",
+      "targetId": "4537"
+    },
+    {
+      "name": "Billy Cobham",
+      "targetId": "4609"
+    },
+    {
+      "name": "Lyn Dobson",
+      "targetId": "5645"
+    },
+    {
+      "name": "Henry Lowther",
+      "targetId": "5646"
+    }
+  ]
+}

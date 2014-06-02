@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Fredrik Åkesson",
-    "target": "Martin Axenrot",
-    "targetId": "9122"
-  },
-  {
-    "source": "Fredrik Åkesson",
-    "target": "Martin Mendez",
-    "targetId": "9126"
-  },
-  {
-    "source": "Fredrik Åkesson",
-    "target": "Per Wiberg",
-    "targetId": "9127"
-  },
-  {
-    "source": "Fredrik Åkesson",
-    "target": "Mikael Åkerfeldt",
-    "targetId": "9128"
-  }
-]
+{
+  "source": "Fredrik Åkesson",
+  "targets": [
+    {
+      "name": "Martin Axenrot",
+      "targetId": "9122"
+    },
+    {
+      "name": "Martin Mendez",
+      "targetId": "9126"
+    },
+    {
+      "name": "Per Wiberg",
+      "targetId": "9127"
+    },
+    {
+      "name": "Mikael Åkerfeldt",
+      "targetId": "9128"
+    }
+  ]
+}

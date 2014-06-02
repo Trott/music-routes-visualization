@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Chester Tam",
-    "target": "Andy Samberg",
-    "targetId": "6928"
-  },
-  {
-    "source": "Chester Tam",
-    "target": "Akiva Schaffer",
-    "targetId": "6929"
-  },
-  {
-    "source": "Chester Tam",
-    "target": "Jorma Taccone",
-    "targetId": "6930"
-  },
-  {
-    "source": "Chester Tam",
-    "target": "Brian Sperber",
-    "targetId": "6931"
-  }
-]
+{
+  "source": "Chester Tam",
+  "targets": [
+    {
+      "name": "Andy Samberg",
+      "targetId": "6928"
+    },
+    {
+      "name": "Akiva Schaffer",
+      "targetId": "6929"
+    },
+    {
+      "name": "Jorma Taccone",
+      "targetId": "6930"
+    },
+    {
+      "name": "Brian Sperber",
+      "targetId": "6931"
+    }
+  ]
+}

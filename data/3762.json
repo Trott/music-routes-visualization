@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jorge Casas",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Jorge Casas",
-    "target": "Denny Carmassi",
-    "targetId": "1736"
-  },
-  {
-    "source": "Jorge Casas",
-    "target": "Tommy Funderburk",
-    "targetId": "2529"
-  },
-  {
-    "source": "Jorge Casas",
-    "target": "David Coverdale",
-    "targetId": "3112"
-  },
-  {
-    "source": "Jorge Casas",
-    "target": "Lester Mendez",
-    "targetId": "3763"
-  },
-  {
-    "source": "Jorge Casas",
-    "target": "John Harris",
-    "targetId": "3764"
-  },
-  {
-    "source": "Jorge Casas",
-    "target": "John Sambataro",
-    "targetId": "3765"
-  }
-]
+{
+  "source": "Jorge Casas",
+  "targets": [
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Denny Carmassi",
+      "targetId": "1736"
+    },
+    {
+      "name": "Tommy Funderburk",
+      "targetId": "2529"
+    },
+    {
+      "name": "David Coverdale",
+      "targetId": "3112"
+    },
+    {
+      "name": "Lester Mendez",
+      "targetId": "3763"
+    },
+    {
+      "name": "John Harris",
+      "targetId": "3764"
+    },
+    {
+      "name": "John Sambataro",
+      "targetId": "3765"
+    }
+  ]
+}

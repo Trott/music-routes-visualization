@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Leo Osborne",
-    "target": "Joan Osborne",
-    "targetId": "3438"
-  },
-  {
-    "source": "Leo Osborne",
-    "target": "Mark Egan",
-    "targetId": "3439"
-  },
-  {
-    "source": "Leo Osborne",
-    "target": "Andy Kravitz",
-    "targetId": "3440"
-  },
-  {
-    "source": "Leo Osborne",
-    "target": "Eric Bazilian",
-    "targetId": "3441"
-  },
-  {
-    "source": "Leo Osborne",
-    "target": "Rob Hyman",
-    "targetId": "3443"
-  }
-]
+{
+  "source": "Leo Osborne",
+  "targets": [
+    {
+      "name": "Joan Osborne",
+      "targetId": "3438"
+    },
+    {
+      "name": "Mark Egan",
+      "targetId": "3439"
+    },
+    {
+      "name": "Andy Kravitz",
+      "targetId": "3440"
+    },
+    {
+      "name": "Eric Bazilian",
+      "targetId": "3441"
+    },
+    {
+      "name": "Rob Hyman",
+      "targetId": "3443"
+    }
+  ]
+}

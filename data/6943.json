@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Bill Brendle",
-    "target": "Andy Samberg",
-    "targetId": "6928"
-  },
-  {
-    "source": "Bill Brendle",
-    "target": "Akiva Schaffer",
-    "targetId": "6929"
-  },
-  {
-    "source": "Bill Brendle",
-    "target": "Jorma Taccone",
-    "targetId": "6930"
-  }
-]
+{
+  "source": "Bill Brendle",
+  "targets": [
+    {
+      "name": "Andy Samberg",
+      "targetId": "6928"
+    },
+    {
+      "name": "Akiva Schaffer",
+      "targetId": "6929"
+    },
+    {
+      "name": "Jorma Taccone",
+      "targetId": "6930"
+    }
+  ]
+}

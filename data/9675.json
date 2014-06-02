@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Solter",
-    "target": "John Vanderslice",
-    "targetId": "6924"
-  },
-  {
-    "source": "Scott Solter",
-    "target": "Britt Daniel",
-    "targetId": "9654"
-  },
-  {
-    "source": "Scott Solter",
-    "target": "Jim Eno",
-    "targetId": "9656"
-  },
-  {
-    "source": "Scott Solter",
-    "target": "Eddie Robert",
-    "targetId": "9674"
-  }
-]
+{
+  "source": "Scott Solter",
+  "targets": [
+    {
+      "name": "John Vanderslice",
+      "targetId": "6924"
+    },
+    {
+      "name": "Britt Daniel",
+      "targetId": "9654"
+    },
+    {
+      "name": "Jim Eno",
+      "targetId": "9656"
+    },
+    {
+      "name": "Eddie Robert",
+      "targetId": "9674"
+    }
+  ]
+}

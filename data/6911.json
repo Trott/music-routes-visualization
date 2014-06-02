@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Kjetil Steensnes",
-    "target": "Maria Mena",
-    "targetId": "6903"
-  },
-  {
-    "source": "Kjetil Steensnes",
-    "target": "Kjell Harald Litangen",
-    "targetId": "6904"
-  },
-  {
-    "source": "Kjetil Steensnes",
-    "target": "Vemund Stavnes",
-    "targetId": "6905"
-  },
-  {
-    "source": "Kjetil Steensnes",
-    "target": "Fredrik Wallumrød",
-    "targetId": "6906"
-  },
-  {
-    "source": "Kjetil Steensnes",
-    "target": "Arvid Solvang",
-    "targetId": "6907"
-  },
-  {
-    "source": "Kjetil Steensnes",
-    "target": "Steffen Isaksen",
-    "targetId": "6908"
-  }
-]
+{
+  "source": "Kjetil Steensnes",
+  "targets": [
+    {
+      "name": "Maria Mena",
+      "targetId": "6903"
+    },
+    {
+      "name": "Kjell Harald Litangen",
+      "targetId": "6904"
+    },
+    {
+      "name": "Vemund Stavnes",
+      "targetId": "6905"
+    },
+    {
+      "name": "Fredrik Wallumrød",
+      "targetId": "6906"
+    },
+    {
+      "name": "Arvid Solvang",
+      "targetId": "6907"
+    },
+    {
+      "name": "Steffen Isaksen",
+      "targetId": "6908"
+    }
+  ]
+}

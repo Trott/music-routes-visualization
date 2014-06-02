@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Michael Morley",
-    "target": "Robert Scott",
-    "targetId": "2857"
-  },
-  {
-    "source": "Michael Morley",
-    "target": "Peter Jefferies",
-    "targetId": "10935"
-  },
-  {
-    "source": "Michael Morley",
-    "target": "Jean Smith",
-    "targetId": "10937"
-  },
-  {
-    "source": "Michael Morley",
-    "target": "Chris Healy",
-    "targetId": "10938"
-  },
-  {
-    "source": "Michael Morley",
-    "target": "John Collie",
-    "targetId": "10939"
-  },
-  {
-    "source": "Michael Morley",
-    "target": "Shayne Carter",
-    "targetId": "10940"
-  },
-  {
-    "source": "Michael Morley",
-    "target": "Jeff Harford",
-    "targetId": "10941"
-  }
-]
+{
+  "source": "Michael Morley",
+  "targets": [
+    {
+      "name": "Robert Scott",
+      "targetId": "2857"
+    },
+    {
+      "name": "Peter Jefferies",
+      "targetId": "10935"
+    },
+    {
+      "name": "Jean Smith",
+      "targetId": "10937"
+    },
+    {
+      "name": "Chris Healy",
+      "targetId": "10938"
+    },
+    {
+      "name": "John Collie",
+      "targetId": "10939"
+    },
+    {
+      "name": "Shayne Carter",
+      "targetId": "10940"
+    },
+    {
+      "name": "Jeff Harford",
+      "targetId": "10941"
+    }
+  ]
+}

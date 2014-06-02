@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Michael Davis",
-    "target": "Wayne Kramer",
-    "targetId": "2728"
-  },
-  {
-    "source": "Michael Davis",
-    "target": "Dennis Thompson",
-    "targetId": "5987"
-  },
-  {
-    "source": "Michael Davis",
-    "target": "Fred \"Sonic\" Smith",
-    "targetId": "5988"
-  },
-  {
-    "source": "Michael Davis",
-    "target": "Rob Tyner",
-    "targetId": "5989"
-  }
-]
+{
+  "source": "Michael Davis",
+  "targets": [
+    {
+      "name": "Wayne Kramer",
+      "targetId": "2728"
+    },
+    {
+      "name": "Dennis Thompson",
+      "targetId": "5987"
+    },
+    {
+      "name": "Fred \"Sonic\" Smith",
+      "targetId": "5988"
+    },
+    {
+      "name": "Rob Tyner",
+      "targetId": "5989"
+    }
+  ]
+}

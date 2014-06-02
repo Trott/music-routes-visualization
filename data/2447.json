@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Steve Smith",
-    "target": "Steve Perry",
-    "targetId": "71"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Neal Schon",
-    "targetId": "174"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Ross Valory",
-    "targetId": "262"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Jonathan Cain",
-    "targetId": "1745"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Bryan Adams",
-    "targetId": "2449"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Rob Sabino",
-    "targetId": "4015"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Jan Hammer",
-    "targetId": "4559"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Dave Taylor",
-    "targetId": "7183"
-  },
-  {
-    "source": "Steve Smith",
-    "target": "Keith Scott",
-    "targetId": "7184"
-  }
-]
+{
+  "source": "Steve Smith",
+  "targets": [
+    {
+      "name": "Steve Perry",
+      "targetId": "71"
+    },
+    {
+      "name": "Neal Schon",
+      "targetId": "174"
+    },
+    {
+      "name": "Ross Valory",
+      "targetId": "262"
+    },
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Jonathan Cain",
+      "targetId": "1745"
+    },
+    {
+      "name": "Bryan Adams",
+      "targetId": "2449"
+    },
+    {
+      "name": "Rob Sabino",
+      "targetId": "4015"
+    },
+    {
+      "name": "Jan Hammer",
+      "targetId": "4559"
+    },
+    {
+      "name": "Dave Taylor",
+      "targetId": "7183"
+    },
+    {
+      "name": "Keith Scott",
+      "targetId": "7184"
+    }
+  ]
+}

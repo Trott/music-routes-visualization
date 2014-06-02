@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Alice Coltrane",
-    "target": "John Coltrane",
-    "targetId": "1049"
-  },
-  {
-    "source": "Alice Coltrane",
-    "target": "Laura Nyro",
-    "targetId": "5304"
-  },
-  {
-    "source": "Alice Coltrane",
-    "target": "Jimmy Garrison",
-    "targetId": "8284"
-  },
-  {
-    "source": "Alice Coltrane",
-    "target": "Rashied Ali",
-    "targetId": "8285"
-  }
-]
+{
+  "source": "Alice Coltrane",
+  "targets": [
+    {
+      "name": "John Coltrane",
+      "targetId": "1049"
+    },
+    {
+      "name": "Laura Nyro",
+      "targetId": "5304"
+    },
+    {
+      "name": "Jimmy Garrison",
+      "targetId": "8284"
+    },
+    {
+      "name": "Rashied Ali",
+      "targetId": "8285"
+    }
+  ]
+}

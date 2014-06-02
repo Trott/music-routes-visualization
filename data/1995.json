@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Mick Taylor",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Bill Wyman",
-    "targetId": "304"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Ian Stewart",
-    "targetId": "306"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Mark Knopfler",
-    "targetId": "418"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Byron Berline",
-    "targetId": "456"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Alan Clark",
-    "targetId": "473"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Bobby Keyes",
-    "targetId": "644"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Brian MacLeod",
-    "targetId": "1025"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Charlie Watts",
-    "targetId": "1994"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Jimmy Miller",
-    "targetId": "1997"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Nanette Newman",
-    "targetId": "1998"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Leon Russell",
-    "targetId": "1999"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Rocky Dijon",
-    "targetId": "2000"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Jim Price",
-    "targetId": "3197"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Peggi Blu",
-    "targetId": "3268"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Queen Esther Marrow",
-    "targetId": "3269"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Lisa Haley",
-    "targetId": "3676"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "John Easdale",
-    "targetId": "3677"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Mr. E",
-    "targetId": "3678"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Pete Wood",
-    "targetId": "3679"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Chris Carter",
-    "targetId": "3680"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Sonny Rollins",
-    "targetId": "4556"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Richard Scher",
-    "targetId": "10034"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Ted Perlman",
-    "targetId": "10035"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Sly Dunbar",
-    "targetId": "10036"
-  },
-  {
-    "source": "Mick Taylor",
-    "target": "Robbie Shakespeare",
-    "targetId": "10037"
-  }
-]
+{
+  "source": "Mick Taylor",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Bill Wyman",
+      "targetId": "304"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Ian Stewart",
+      "targetId": "306"
+    },
+    {
+      "name": "Mark Knopfler",
+      "targetId": "418"
+    },
+    {
+      "name": "Byron Berline",
+      "targetId": "456"
+    },
+    {
+      "name": "Alan Clark",
+      "targetId": "473"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Bobby Keyes",
+      "targetId": "644"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Brian MacLeod",
+      "targetId": "1025"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Charlie Watts",
+      "targetId": "1994"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Jimmy Miller",
+      "targetId": "1997"
+    },
+    {
+      "name": "Nanette Newman",
+      "targetId": "1998"
+    },
+    {
+      "name": "Leon Russell",
+      "targetId": "1999"
+    },
+    {
+      "name": "Rocky Dijon",
+      "targetId": "2000"
+    },
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Jim Price",
+      "targetId": "3197"
+    },
+    {
+      "name": "Peggi Blu",
+      "targetId": "3268"
+    },
+    {
+      "name": "Queen Esther Marrow",
+      "targetId": "3269"
+    },
+    {
+      "name": "Lisa Haley",
+      "targetId": "3676"
+    },
+    {
+      "name": "John Easdale",
+      "targetId": "3677"
+    },
+    {
+      "name": "Mr. E",
+      "targetId": "3678"
+    },
+    {
+      "name": "Pete Wood",
+      "targetId": "3679"
+    },
+    {
+      "name": "Chris Carter",
+      "targetId": "3680"
+    },
+    {
+      "name": "Sonny Rollins",
+      "targetId": "4556"
+    },
+    {
+      "name": "Richard Scher",
+      "targetId": "10034"
+    },
+    {
+      "name": "Ted Perlman",
+      "targetId": "10035"
+    },
+    {
+      "name": "Sly Dunbar",
+      "targetId": "10036"
+    },
+    {
+      "name": "Robbie Shakespeare",
+      "targetId": "10037"
+    }
+  ]
+}

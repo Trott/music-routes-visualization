@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tommy Millar",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Tommy Millar",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Tommy Millar",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Tommy Millar",
-    "target": "Bruce Thomas",
-    "targetId": "7277"
-  }
-]
+{
+  "source": "Tommy Millar",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Bruce Thomas",
+      "targetId": "7277"
+    }
+  ]
+}

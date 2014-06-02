@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ron Selico",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Ron Selico",
-    "target": "Ian Underwood",
-    "targetId": "816"
-  },
-  {
-    "source": "Ron Selico",
-    "target": "Shuggy Otis",
-    "targetId": "822"
-  }
-]
+{
+  "source": "Ron Selico",
+  "targets": [
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Ian Underwood",
+      "targetId": "816"
+    },
+    {
+      "name": "Shuggy Otis",
+      "targetId": "822"
+    }
+  ]
+}

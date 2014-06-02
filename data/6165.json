@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Rob Barrett",
-    "target": "James Murphy",
-    "targetId": "2155"
-  },
-  {
-    "source": "Rob Barrett",
-    "target": "Gordon Simms",
-    "targetId": "6162"
-  },
-  {
-    "source": "Rob Barrett",
-    "target": "Justin Di Pinto",
-    "targetId": "6163"
-  },
-  {
-    "source": "Rob Barrett",
-    "target": "Phil Fasciana",
-    "targetId": "6164"
-  },
-  {
-    "source": "Rob Barrett",
-    "target": "Kyle Symons",
-    "targetId": "6166"
-  }
-]
+{
+  "source": "Rob Barrett",
+  "targets": [
+    {
+      "name": "James Murphy",
+      "targetId": "2155"
+    },
+    {
+      "name": "Gordon Simms",
+      "targetId": "6162"
+    },
+    {
+      "name": "Justin Di Pinto",
+      "targetId": "6163"
+    },
+    {
+      "name": "Phil Fasciana",
+      "targetId": "6164"
+    },
+    {
+      "name": "Kyle Symons",
+      "targetId": "6166"
+    }
+  ]
+}

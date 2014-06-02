@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Kenney Jones",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Kenney Jones",
-    "target": "Rod Stewart",
-    "targetId": "3161"
-  },
-  {
-    "source": "Kenney Jones",
-    "target": "Ronnie Lane",
-    "targetId": "3162"
-  },
-  {
-    "source": "Kenney Jones",
-    "target": "Ian McLagan",
-    "targetId": "3163"
-  },
-  {
-    "source": "Kenney Jones",
-    "target": "Harry Fowler",
-    "targetId": "3165"
-  },
-  {
-    "source": "Kenney Jones",
-    "target": "Steve Marriott",
-    "targetId": "3169"
-  }
-]
+{
+  "source": "Kenney Jones",
+  "targets": [
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Rod Stewart",
+      "targetId": "3161"
+    },
+    {
+      "name": "Ronnie Lane",
+      "targetId": "3162"
+    },
+    {
+      "name": "Ian McLagan",
+      "targetId": "3163"
+    },
+    {
+      "name": "Harry Fowler",
+      "targetId": "3165"
+    },
+    {
+      "name": "Steve Marriott",
+      "targetId": "3169"
+    }
+  ]
+}

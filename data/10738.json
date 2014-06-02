@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ken Scott",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Ken Scott",
-    "target": "Davey Johnstone",
-    "targetId": "2845"
-  },
-  {
-    "source": "Ken Scott",
-    "target": "Dee Murray",
-    "targetId": "7203"
-  },
-  {
-    "source": "Ken Scott",
-    "target": "Nigel Olsson",
-    "targetId": "7204"
-  }
-]
+{
+  "source": "Ken Scott",
+  "targets": [
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Davey Johnstone",
+      "targetId": "2845"
+    },
+    {
+      "name": "Dee Murray",
+      "targetId": "7203"
+    },
+    {
+      "name": "Nigel Olsson",
+      "targetId": "7204"
+    }
+  ]
+}

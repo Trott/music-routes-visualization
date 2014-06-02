@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dorothy McGuire",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Dorothy McGuire",
-    "target": "Christine McGuire",
-    "targetId": "1797"
-  },
-  {
-    "source": "Dorothy McGuire",
-    "target": "Phyllis McGuire",
-    "targetId": "1799"
-  }
-]
+{
+  "source": "Dorothy McGuire",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Christine McGuire",
+      "targetId": "1797"
+    },
+    {
+      "name": "Phyllis McGuire",
+      "targetId": "1799"
+    }
+  ]
+}

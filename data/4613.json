@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Jimmy Owens",
-    "target": "Ernie Watts",
-    "targetId": "413"
-  },
-  {
-    "source": "Jimmy Owens",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  },
-  {
-    "source": "Jimmy Owens",
-    "target": "Randy Brecker",
-    "targetId": "469"
-  },
-  {
-    "source": "Jimmy Owens",
-    "target": "Ruth Underwood",
-    "targetId": "1328"
-  },
-  {
-    "source": "Jimmy Owens",
-    "target": "Billy Cobham",
-    "targetId": "4609"
-  },
-  {
-    "source": "Jimmy Owens",
-    "target": "John Scofield",
-    "targetId": "4610"
-  },
-  {
-    "source": "Jimmy Owens",
-    "target": "Dawilli Gonga",
-    "targetId": "4611"
-  },
-  {
-    "source": "Jimmy Owens",
-    "target": "Julian Priester",
-    "targetId": "4612"
-  },
-  {
-    "source": "Jimmy Owens",
-    "target": "John Williams",
-    "targetId": "4614"
-  }
-]
+{
+  "source": "Jimmy Owens",
+  "targets": [
+    {
+      "name": "Ernie Watts",
+      "targetId": "413"
+    },
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    },
+    {
+      "name": "Randy Brecker",
+      "targetId": "469"
+    },
+    {
+      "name": "Ruth Underwood",
+      "targetId": "1328"
+    },
+    {
+      "name": "Billy Cobham",
+      "targetId": "4609"
+    },
+    {
+      "name": "John Scofield",
+      "targetId": "4610"
+    },
+    {
+      "name": "Dawilli Gonga",
+      "targetId": "4611"
+    },
+    {
+      "name": "Julian Priester",
+      "targetId": "4612"
+    },
+    {
+      "name": "John Williams",
+      "targetId": "4614"
+    }
+  ]
+}

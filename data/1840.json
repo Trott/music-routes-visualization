@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bob Nastanovich",
-    "target": "Stephen Malkmus",
-    "targetId": "1834"
-  },
-  {
-    "source": "Bob Nastanovich",
-    "target": "Scott Kannberg",
-    "targetId": "1837"
-  },
-  {
-    "source": "Bob Nastanovich",
-    "target": "Gary Young",
-    "targetId": "1838"
-  },
-  {
-    "source": "Bob Nastanovich",
-    "target": "Mark Ibold",
-    "targetId": "1839"
-  }
-]
+{
+  "source": "Bob Nastanovich",
+  "targets": [
+    {
+      "name": "Stephen Malkmus",
+      "targetId": "1834"
+    },
+    {
+      "name": "Scott Kannberg",
+      "targetId": "1837"
+    },
+    {
+      "name": "Gary Young",
+      "targetId": "1838"
+    },
+    {
+      "name": "Mark Ibold",
+      "targetId": "1839"
+    }
+  ]
+}

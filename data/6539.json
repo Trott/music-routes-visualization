@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Red Rhodes",
-    "target": "Al Jardine",
-    "targetId": "1478"
-  },
-  {
-    "source": "Red Rhodes",
-    "target": "Mel Taylor",
-    "targetId": "6532"
-  },
-  {
-    "source": "Red Rhodes",
-    "target": "Bog Bogle",
-    "targetId": "6536"
-  },
-  {
-    "source": "Red Rhodes",
-    "target": "Don Wilson",
-    "targetId": "6537"
-  },
-  {
-    "source": "Red Rhodes",
-    "target": "Nokie Edwards",
-    "targetId": "6538"
-  }
-]
+{
+  "source": "Red Rhodes",
+  "targets": [
+    {
+      "name": "Al Jardine",
+      "targetId": "1478"
+    },
+    {
+      "name": "Mel Taylor",
+      "targetId": "6532"
+    },
+    {
+      "name": "Bog Bogle",
+      "targetId": "6536"
+    },
+    {
+      "name": "Don Wilson",
+      "targetId": "6537"
+    },
+    {
+      "name": "Nokie Edwards",
+      "targetId": "6538"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Simon Henderson",
-    "target": "Paul Thomson",
-    "targetId": "5219"
-  },
-  {
-    "source": "Simon Henderson",
-    "target": "Chris Leo",
-    "targetId": "5222"
-  },
-  {
-    "source": "Simon Henderson",
-    "target": "Colin Kearney",
-    "targetId": "5225"
-  },
-  {
-    "source": "Simon Henderson",
-    "target": "Victoria Henderson",
-    "targetId": "5227"
-  }
-]
+{
+  "source": "Simon Henderson",
+  "targets": [
+    {
+      "name": "Paul Thomson",
+      "targetId": "5219"
+    },
+    {
+      "name": "Chris Leo",
+      "targetId": "5222"
+    },
+    {
+      "name": "Colin Kearney",
+      "targetId": "5225"
+    },
+    {
+      "name": "Victoria Henderson",
+      "targetId": "5227"
+    }
+  ]
+}

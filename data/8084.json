@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Sidney Arodin",
-    "target": "Louis Prima",
-    "targetId": "1795"
-  },
-  {
-    "source": "Sidney Arodin",
-    "target": "Claude Thornhill",
-    "targetId": "8082"
-  },
-  {
-    "source": "Sidney Arodin",
-    "target": "George Brunies",
-    "targetId": "8083"
-  },
-  {
-    "source": "Sidney Arodin",
-    "target": "George Van Eps",
-    "targetId": "8085"
-  },
-  {
-    "source": "Sidney Arodin",
-    "target": "Bonnie Pottle",
-    "targetId": "8086"
-  },
-  {
-    "source": "Sidney Arodin",
-    "target": "Stan King",
-    "targetId": "8087"
-  }
-]
+{
+  "source": "Sidney Arodin",
+  "targets": [
+    {
+      "name": "Louis Prima",
+      "targetId": "1795"
+    },
+    {
+      "name": "Claude Thornhill",
+      "targetId": "8082"
+    },
+    {
+      "name": "George Brunies",
+      "targetId": "8083"
+    },
+    {
+      "name": "George Van Eps",
+      "targetId": "8085"
+    },
+    {
+      "name": "Bonnie Pottle",
+      "targetId": "8086"
+    },
+    {
+      "name": "Stan King",
+      "targetId": "8087"
+    }
+  ]
+}

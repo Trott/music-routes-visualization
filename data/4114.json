@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Gutilla",
-    "target": "Glenn Danzig",
-    "targetId": "2389"
-  },
-  {
-    "source": "Mike Gutilla",
-    "target": "Lyle Preslar",
-    "targetId": "4108"
-  },
-  {
-    "source": "Mike Gutilla",
-    "target": "Eerie Von",
-    "targetId": "4112"
-  },
-  {
-    "source": "Mike Gutilla",
-    "target": "Steve Zing",
-    "targetId": "4113"
-  }
-]
+{
+  "source": "Mike Gutilla",
+  "targets": [
+    {
+      "name": "Glenn Danzig",
+      "targetId": "2389"
+    },
+    {
+      "name": "Lyle Preslar",
+      "targetId": "4108"
+    },
+    {
+      "name": "Eerie Von",
+      "targetId": "4112"
+    },
+    {
+      "name": "Steve Zing",
+      "targetId": "4113"
+    }
+  ]
+}

@@ -1,47 +1,41 @@
-[
-  {
-    "source": "John Jarvis",
-    "target": "Stephen Bishop",
-    "targetId": "398"
-  },
-  {
-    "source": "John Jarvis",
-    "target": "Russ Kunkel",
-    "targetId": "458"
-  },
-  {
-    "source": "John Jarvis",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "John Jarvis",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "John Jarvis",
-    "target": "Joe Osborn",
-    "targetId": "1209"
-  },
-  {
-    "source": "John Jarvis",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "John Jarvis",
-    "target": "Art Garfunkel",
-    "targetId": "1474"
-  },
-  {
-    "source": "John Jarvis",
-    "target": "Andrew Gold",
-    "targetId": "7972"
-  },
-  {
-    "source": "John Jarvis",
-    "target": "Denny Seiwell",
-    "targetId": "7973"
-  }
-]
+{
+  "source": "John Jarvis",
+  "targets": [
+    {
+      "name": "Stephen Bishop",
+      "targetId": "398"
+    },
+    {
+      "name": "Russ Kunkel",
+      "targetId": "458"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Joe Osborn",
+      "targetId": "1209"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Art Garfunkel",
+      "targetId": "1474"
+    },
+    {
+      "name": "Andrew Gold",
+      "targetId": "7972"
+    },
+    {
+      "name": "Denny Seiwell",
+      "targetId": "7973"
+    }
+  ]
+}

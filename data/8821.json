@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Baby Gerry",
-    "target": "Lisa Lisa",
-    "targetId": "8818"
-  },
-  {
-    "source": "Baby Gerry",
-    "target": "Spanador",
-    "targetId": "8819"
-  },
-  {
-    "source": "Baby Gerry",
-    "target": "Mike Hughes",
-    "targetId": "8820"
-  },
-  {
-    "source": "Baby Gerry",
-    "target": "Curt-T-T",
-    "targetId": "8822"
-  }
-]
+{
+  "source": "Baby Gerry",
+  "targets": [
+    {
+      "name": "Lisa Lisa",
+      "targetId": "8818"
+    },
+    {
+      "name": "Spanador",
+      "targetId": "8819"
+    },
+    {
+      "name": "Mike Hughes",
+      "targetId": "8820"
+    },
+    {
+      "name": "Curt-T-T",
+      "targetId": "8822"
+    }
+  ]
+}

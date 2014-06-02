@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Branda Colonna",
-    "target": "Jason Schwartzman",
-    "targetId": "5670"
-  },
-  {
-    "source": "Branda Colonna",
-    "target": "Jennifer Furches",
-    "targetId": "10784"
-  },
-  {
-    "source": "Branda Colonna",
-    "target": "Ben Einziger",
-    "targetId": "10788"
-  },
-  {
-    "source": "Branda Colonna",
-    "target": "Brother Jack Elder",
-    "targetId": "10790"
-  }
-]
+{
+  "source": "Branda Colonna",
+  "targets": [
+    {
+      "name": "Jason Schwartzman",
+      "targetId": "5670"
+    },
+    {
+      "name": "Jennifer Furches",
+      "targetId": "10784"
+    },
+    {
+      "name": "Ben Einziger",
+      "targetId": "10788"
+    },
+    {
+      "name": "Brother Jack Elder",
+      "targetId": "10790"
+    }
+  ]
+}

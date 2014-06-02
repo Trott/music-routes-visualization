@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Gary Barone",
-    "target": "Bruce Fowler",
-    "targetId": "432"
-  },
-  {
-    "source": "Gary Barone",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Gary Barone",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Gary Barone",
-    "target": "Dave Parlato",
-    "targetId": "1330"
-  },
-  {
-    "source": "Gary Barone",
-    "target": "Tony Duran",
-    "targetId": "1331"
-  },
-  {
-    "source": "Gary Barone",
-    "target": "Earle Dumler",
-    "targetId": "1332"
-  },
-  {
-    "source": "Gary Barone",
-    "target": "Glen Ferris",
-    "targetId": "1333"
-  },
-  {
-    "source": "Gary Barone",
-    "target": "Malcolm McNab",
-    "targetId": "1334"
-  },
-  {
-    "source": "Gary Barone",
-    "target": "Tom Malone",
-    "targetId": "1336"
-  }
-]
+{
+  "source": "Gary Barone",
+  "targets": [
+    {
+      "name": "Bruce Fowler",
+      "targetId": "432"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Dave Parlato",
+      "targetId": "1330"
+    },
+    {
+      "name": "Tony Duran",
+      "targetId": "1331"
+    },
+    {
+      "name": "Earle Dumler",
+      "targetId": "1332"
+    },
+    {
+      "name": "Glen Ferris",
+      "targetId": "1333"
+    },
+    {
+      "name": "Malcolm McNab",
+      "targetId": "1334"
+    },
+    {
+      "name": "Tom Malone",
+      "targetId": "1336"
+    }
+  ]
+}

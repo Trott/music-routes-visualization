@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bill Racine",
-    "target": "Pat Spurgeon",
-    "targetId": "6176"
-  },
-  {
-    "source": "Bill Racine",
-    "target": "Zach Rogue",
-    "targetId": "6178"
-  },
-  {
-    "source": "Bill Racine",
-    "target": "Evan Farrell",
-    "targetId": "6179"
-  },
-  {
-    "source": "Bill Racine",
-    "target": "Gram LeBron",
-    "targetId": "6181"
-  }
-]
+{
+  "source": "Bill Racine",
+  "targets": [
+    {
+      "name": "Pat Spurgeon",
+      "targetId": "6176"
+    },
+    {
+      "name": "Zach Rogue",
+      "targetId": "6178"
+    },
+    {
+      "name": "Evan Farrell",
+      "targetId": "6179"
+    },
+    {
+      "name": "Gram LeBron",
+      "targetId": "6181"
+    }
+  ]
+}

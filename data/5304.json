@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Laura Nyro",
-    "target": "Freddie Washington",
-    "targetId": "2422"
-  },
-  {
-    "source": "Laura Nyro",
-    "target": "Bernard Purdie",
-    "targetId": "3114"
-  },
-  {
-    "source": "Laura Nyro",
-    "target": "Duane Allman",
-    "targetId": "5303"
-  },
-  {
-    "source": "Laura Nyro",
-    "target": "Alice Coltrane",
-    "targetId": "5305"
-  }
-]
+{
+  "source": "Laura Nyro",
+  "targets": [
+    {
+      "name": "Freddie Washington",
+      "targetId": "2422"
+    },
+    {
+      "name": "Bernard Purdie",
+      "targetId": "3114"
+    },
+    {
+      "name": "Duane Allman",
+      "targetId": "5303"
+    },
+    {
+      "name": "Alice Coltrane",
+      "targetId": "5305"
+    }
+  ]
+}

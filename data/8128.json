@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dave Markey",
-    "target": "Thurston Moore",
-    "targetId": "772"
-  },
-  {
-    "source": "Dave Markey",
-    "target": "Mike D",
-    "targetId": "1458"
-  },
-  {
-    "source": "Dave Markey",
-    "target": "Kira Roessler",
-    "targetId": "1619"
-  }
-]
+{
+  "source": "Dave Markey",
+  "targets": [
+    {
+      "name": "Thurston Moore",
+      "targetId": "772"
+    },
+    {
+      "name": "Mike D",
+      "targetId": "1458"
+    },
+    {
+      "name": "Kira Roessler",
+      "targetId": "1619"
+    }
+  ]
+}

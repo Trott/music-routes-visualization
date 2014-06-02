@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Dan Fogelberg",
-    "target": "Russ Kunkel",
-    "targetId": "458"
-  },
-  {
-    "source": "Dan Fogelberg",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  }
-]
+{
+  "source": "Dan Fogelberg",
+  "targets": [
+    {
+      "name": "Russ Kunkel",
+      "targetId": "458"
+    },
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Børre Flyen",
-    "target": "Maria Mena",
-    "targetId": "6903"
-  },
-  {
-    "source": "Børre Flyen",
-    "target": "Arvid Solvang",
-    "targetId": "6907"
-  },
-  {
-    "source": "Børre Flyen",
-    "target": "Steffen Isaksen",
-    "targetId": "6908"
-  },
-  {
-    "source": "Børre Flyen",
-    "target": "Thomas Dybdahl",
-    "targetId": "6915"
-  }
-]
+{
+  "source": "Børre Flyen",
+  "targets": [
+    {
+      "name": "Maria Mena",
+      "targetId": "6903"
+    },
+    {
+      "name": "Arvid Solvang",
+      "targetId": "6907"
+    },
+    {
+      "name": "Steffen Isaksen",
+      "targetId": "6908"
+    },
+    {
+      "name": "Thomas Dybdahl",
+      "targetId": "6915"
+    }
+  ]
+}

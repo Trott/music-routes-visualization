@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Andy Clark",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Andy Clark",
-    "target": "Carlos Alomar",
-    "targetId": "795"
-  },
-  {
-    "source": "Andy Clark",
-    "target": "George Murray",
-    "targetId": "796"
-  },
-  {
-    "source": "Andy Clark",
-    "target": "Dennis Davis",
-    "targetId": "797"
-  },
-  {
-    "source": "Andy Clark",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  }
-]
+{
+  "source": "Andy Clark",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Carlos Alomar",
+      "targetId": "795"
+    },
+    {
+      "name": "George Murray",
+      "targetId": "796"
+    },
+    {
+      "name": "Dennis Davis",
+      "targetId": "797"
+    },
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    }
+  ]
+}

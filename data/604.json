@@ -1,197 +1,161 @@
-[
-  {
-    "source": "Marianne Faithfull",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Seán Keane",
-    "targetId": "598"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Kevin Conneff",
-    "targetId": "599"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Matt Molloy",
-    "targetId": "600"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Paddy Moloney",
-    "targetId": "601"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Martin Fay",
-    "targetId": "602"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Derek Bell",
-    "targetId": "603"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Mal Evans",
-    "targetId": "630"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Brian Jones",
-    "targetId": "1993"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Patti Harrison",
-    "targetId": "3363"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Geoff Emerick",
-    "targetId": "3364"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Alf Bicknell",
-    "targetId": "3365"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Neil Aspinall",
-    "targetId": "3366"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Gary Leeds",
-    "targetId": "9577"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "David Mason",
-    "targetId": "9699"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Hunter Davies",
-    "targetId": "9703"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Mike McCartney",
-    "targetId": "9704"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Jane Asher",
-    "targetId": "9705"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Jack Emblow",
-    "targetId": "9706"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Evan Watkins",
-    "targetId": "9707"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Harry Spain",
-    "targetId": "9708"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Stanley Woods",
-    "targetId": "9709"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Rex Morris",
-    "targetId": "9710"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Don Honeywill",
-    "targetId": "9711"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Lionel Ross",
-    "targetId": "9712"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Jack Holmes",
-    "targetId": "9713"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Patrick Halling",
-    "targetId": "9714"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "Eric Bowie",
-    "targetId": "9715"
-  },
-  {
-    "source": "Marianne Faithfull",
-    "target": "John Ronayne",
-    "targetId": "9716"
-  }
-]
+{
+  "source": "Marianne Faithfull",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Seán Keane",
+      "targetId": "598"
+    },
+    {
+      "name": "Kevin Conneff",
+      "targetId": "599"
+    },
+    {
+      "name": "Matt Molloy",
+      "targetId": "600"
+    },
+    {
+      "name": "Paddy Moloney",
+      "targetId": "601"
+    },
+    {
+      "name": "Martin Fay",
+      "targetId": "602"
+    },
+    {
+      "name": "Derek Bell",
+      "targetId": "603"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Mal Evans",
+      "targetId": "630"
+    },
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Brian Jones",
+      "targetId": "1993"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "Patti Harrison",
+      "targetId": "3363"
+    },
+    {
+      "name": "Geoff Emerick",
+      "targetId": "3364"
+    },
+    {
+      "name": "Alf Bicknell",
+      "targetId": "3365"
+    },
+    {
+      "name": "Neil Aspinall",
+      "targetId": "3366"
+    },
+    {
+      "name": "Gary Leeds",
+      "targetId": "9577"
+    },
+    {
+      "name": "David Mason",
+      "targetId": "9699"
+    },
+    {
+      "name": "Hunter Davies",
+      "targetId": "9703"
+    },
+    {
+      "name": "Mike McCartney",
+      "targetId": "9704"
+    },
+    {
+      "name": "Jane Asher",
+      "targetId": "9705"
+    },
+    {
+      "name": "Jack Emblow",
+      "targetId": "9706"
+    },
+    {
+      "name": "Evan Watkins",
+      "targetId": "9707"
+    },
+    {
+      "name": "Harry Spain",
+      "targetId": "9708"
+    },
+    {
+      "name": "Stanley Woods",
+      "targetId": "9709"
+    },
+    {
+      "name": "Rex Morris",
+      "targetId": "9710"
+    },
+    {
+      "name": "Don Honeywill",
+      "targetId": "9711"
+    },
+    {
+      "name": "Lionel Ross",
+      "targetId": "9712"
+    },
+    {
+      "name": "Jack Holmes",
+      "targetId": "9713"
+    },
+    {
+      "name": "Patrick Halling",
+      "targetId": "9714"
+    },
+    {
+      "name": "Eric Bowie",
+      "targetId": "9715"
+    },
+    {
+      "name": "John Ronayne",
+      "targetId": "9716"
+    }
+  ]
+}

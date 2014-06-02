@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Jerome Reisler",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Lyle Ritz",
-    "targetId": "373"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Carol Kaye",
-    "targetId": "521"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Jim Horn",
-    "targetId": "670"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Al De Lory",
-    "targetId": "1486"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Jay Migliori",
-    "targetId": "1487"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Plas Johnson",
-    "targetId": "1488"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Roy Caton",
-    "targetId": "1489"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Julius Wechter",
-    "targetId": "1492"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Joseph Saxon",
-    "targetId": "1497"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Arnold Belnick",
-    "targetId": "1499"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Ralph Schaeffer",
-    "targetId": "1500"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Tibor Zelig",
-    "targetId": "1501"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Sid Sharp",
-    "targetId": "1502"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Justin DiTullio",
-    "targetId": "1503"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Harry Hyams",
-    "targetId": "1505"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Leonard Malarsky",
-    "targetId": "1506"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "William Kurasch",
-    "targetId": "1507"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Jules Jacob",
-    "targetId": "1508"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Al Casey",
-    "targetId": "1509"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Joseph DiFiore",
-    "targetId": "1510"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "James Getzoff",
-    "targetId": "1511"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Darrel Terwilliger",
-    "targetId": "1517"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Mike Melvoin",
-    "targetId": "1527"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Harry Nilsson",
-    "targetId": "3193"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Alfred Lustgarten",
-    "targetId": "10986"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Leonard Atkins",
-    "targetId": "10987"
-  },
-  {
-    "source": "Jerome Reisler",
-    "target": "Wilbert Nuttycombe",
-    "targetId": "10988"
-  }
-]
+{
+  "source": "Jerome Reisler",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Lyle Ritz",
+      "targetId": "373"
+    },
+    {
+      "name": "Carol Kaye",
+      "targetId": "521"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Jim Horn",
+      "targetId": "670"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Al De Lory",
+      "targetId": "1486"
+    },
+    {
+      "name": "Jay Migliori",
+      "targetId": "1487"
+    },
+    {
+      "name": "Plas Johnson",
+      "targetId": "1488"
+    },
+    {
+      "name": "Roy Caton",
+      "targetId": "1489"
+    },
+    {
+      "name": "Julius Wechter",
+      "targetId": "1492"
+    },
+    {
+      "name": "Joseph Saxon",
+      "targetId": "1497"
+    },
+    {
+      "name": "Arnold Belnick",
+      "targetId": "1499"
+    },
+    {
+      "name": "Ralph Schaeffer",
+      "targetId": "1500"
+    },
+    {
+      "name": "Tibor Zelig",
+      "targetId": "1501"
+    },
+    {
+      "name": "Sid Sharp",
+      "targetId": "1502"
+    },
+    {
+      "name": "Justin DiTullio",
+      "targetId": "1503"
+    },
+    {
+      "name": "Harry Hyams",
+      "targetId": "1505"
+    },
+    {
+      "name": "Leonard Malarsky",
+      "targetId": "1506"
+    },
+    {
+      "name": "William Kurasch",
+      "targetId": "1507"
+    },
+    {
+      "name": "Jules Jacob",
+      "targetId": "1508"
+    },
+    {
+      "name": "Al Casey",
+      "targetId": "1509"
+    },
+    {
+      "name": "Joseph DiFiore",
+      "targetId": "1510"
+    },
+    {
+      "name": "James Getzoff",
+      "targetId": "1511"
+    },
+    {
+      "name": "Darrel Terwilliger",
+      "targetId": "1517"
+    },
+    {
+      "name": "Mike Melvoin",
+      "targetId": "1527"
+    },
+    {
+      "name": "Harry Nilsson",
+      "targetId": "3193"
+    },
+    {
+      "name": "Alfred Lustgarten",
+      "targetId": "10986"
+    },
+    {
+      "name": "Leonard Atkins",
+      "targetId": "10987"
+    },
+    {
+      "name": "Wilbert Nuttycombe",
+      "targetId": "10988"
+    }
+  ]
+}

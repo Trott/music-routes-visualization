@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Joe Don Rooney",
-    "target": "Reba McEntire",
-    "targetId": "6255"
-  },
-  {
-    "source": "Joe Don Rooney",
-    "target": "Gary LeVox",
-    "targetId": "6258"
-  },
-  {
-    "source": "Joe Don Rooney",
-    "target": "Jay DeMarcus",
-    "targetId": "6259"
-  }
-]
+{
+  "source": "Joe Don Rooney",
+  "targets": [
+    {
+      "name": "Reba McEntire",
+      "targetId": "6255"
+    },
+    {
+      "name": "Gary LeVox",
+      "targetId": "6258"
+    },
+    {
+      "name": "Jay DeMarcus",
+      "targetId": "6259"
+    }
+  ]
+}

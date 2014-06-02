@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Sunny Hightower",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Sunny Hightower",
-    "target": "Madeline Bell",
-    "targetId": "810"
-  },
-  {
-    "source": "Sunny Hightower",
-    "target": "Tony Visconti",
-    "targetId": "1247"
-  },
-  {
-    "source": "Sunny Hightower",
-    "target": "Joe Cocker",
-    "targetId": "4141"
-  },
-  {
-    "source": "Sunny Hightower",
-    "target": "Rosetta Hightower",
-    "targetId": "4147"
-  },
-  {
-    "source": "Sunny Hightower",
-    "target": "Chris Stainton",
-    "targetId": "4149"
-  },
-  {
-    "source": "Sunny Hightower",
-    "target": "Clem Cattini",
-    "targetId": "4150"
-  }
-]
+{
+  "source": "Sunny Hightower",
+  "targets": [
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Madeline Bell",
+      "targetId": "810"
+    },
+    {
+      "name": "Tony Visconti",
+      "targetId": "1247"
+    },
+    {
+      "name": "Joe Cocker",
+      "targetId": "4141"
+    },
+    {
+      "name": "Rosetta Hightower",
+      "targetId": "4147"
+    },
+    {
+      "name": "Chris Stainton",
+      "targetId": "4149"
+    },
+    {
+      "name": "Clem Cattini",
+      "targetId": "4150"
+    }
+  ]
+}

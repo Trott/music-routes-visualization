@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Art Garfunkel",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Bruce Johnston",
-    "targetId": "232"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Bill Payne",
-    "targetId": "280"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Stephen Bishop",
-    "targetId": "398"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Leland Sklar",
-    "targetId": "421"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Russ Kunkel",
-    "targetId": "458"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "John Guerin",
-    "targetId": "508"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Max Bennett",
-    "targetId": "509"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "David Crosby",
-    "targetId": "511"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "David Hood",
-    "targetId": "1096"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Roger Hawkins",
-    "targetId": "1097"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Pete Carr",
-    "targetId": "1098"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Barry Beckett",
-    "targetId": "1099"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Joe Osborn",
-    "targetId": "1209"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Lon Van Eaton",
-    "targetId": "4577"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Lee Ritenour",
-    "targetId": "5905"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Louis Shelton",
-    "targetId": "7818"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Andrew Gold",
-    "targetId": "7972"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Denny Seiwell",
-    "targetId": "7973"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "John Jarvis",
-    "targetId": "7974"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Rick Shlosser",
-    "targetId": "7975"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Joe Clayton",
-    "targetId": "7976"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Toni Tennille",
-    "targetId": "7977"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Jon Joyce",
-    "targetId": "7978"
-  },
-  {
-    "source": "Art Garfunkel",
-    "target": "Reinie Press",
-    "targetId": "7979"
-  }
-]
+{
+  "source": "Art Garfunkel",
+  "targets": [
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "Bruce Johnston",
+      "targetId": "232"
+    },
+    {
+      "name": "Bill Payne",
+      "targetId": "280"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Stephen Bishop",
+      "targetId": "398"
+    },
+    {
+      "name": "Leland Sklar",
+      "targetId": "421"
+    },
+    {
+      "name": "Russ Kunkel",
+      "targetId": "458"
+    },
+    {
+      "name": "John Guerin",
+      "targetId": "508"
+    },
+    {
+      "name": "Max Bennett",
+      "targetId": "509"
+    },
+    {
+      "name": "David Crosby",
+      "targetId": "511"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "David Hood",
+      "targetId": "1096"
+    },
+    {
+      "name": "Roger Hawkins",
+      "targetId": "1097"
+    },
+    {
+      "name": "Pete Carr",
+      "targetId": "1098"
+    },
+    {
+      "name": "Barry Beckett",
+      "targetId": "1099"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Joe Osborn",
+      "targetId": "1209"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Lon Van Eaton",
+      "targetId": "4577"
+    },
+    {
+      "name": "Lee Ritenour",
+      "targetId": "5905"
+    },
+    {
+      "name": "Louis Shelton",
+      "targetId": "7818"
+    },
+    {
+      "name": "Andrew Gold",
+      "targetId": "7972"
+    },
+    {
+      "name": "Denny Seiwell",
+      "targetId": "7973"
+    },
+    {
+      "name": "John Jarvis",
+      "targetId": "7974"
+    },
+    {
+      "name": "Rick Shlosser",
+      "targetId": "7975"
+    },
+    {
+      "name": "Joe Clayton",
+      "targetId": "7976"
+    },
+    {
+      "name": "Toni Tennille",
+      "targetId": "7977"
+    },
+    {
+      "name": "Jon Joyce",
+      "targetId": "7978"
+    },
+    {
+      "name": "Reinie Press",
+      "targetId": "7979"
+    }
+  ]
+}

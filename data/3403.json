@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Alphonse Mouzon",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Alphonse Mouzon",
-    "target": "Freddie Washington",
-    "targetId": "2422"
-  },
-  {
-    "source": "Alphonse Mouzon",
-    "target": "Gavin Christopher",
-    "targetId": "3399"
-  },
-  {
-    "source": "Alphonse Mouzon",
-    "target": "Melvin \"Wah Wah\" Watson",
-    "targetId": "3402"
-  }
-]
+{
+  "source": "Alphonse Mouzon",
+  "targets": [
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Freddie Washington",
+      "targetId": "2422"
+    },
+    {
+      "name": "Gavin Christopher",
+      "targetId": "3399"
+    },
+    {
+      "name": "Melvin \"Wah Wah\" Watson",
+      "targetId": "3402"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Taylor Hawkins",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Taylor Hawkins",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Taylor Hawkins",
-    "target": "Chris Shiflett",
-    "targetId": "2135"
-  },
-  {
-    "source": "Taylor Hawkins",
-    "target": "Nate Mendel",
-    "targetId": "2136"
-  },
-  {
-    "source": "Taylor Hawkins",
-    "target": "Chondra Echert",
-    "targetId": "4306"
-  },
-  {
-    "source": "Taylor Hawkins",
-    "target": "Claudio Sanchez",
-    "targetId": "4307"
-  },
-  {
-    "source": "Taylor Hawkins",
-    "target": "Travis Stever",
-    "targetId": "4308"
-  },
-  {
-    "source": "Taylor Hawkins",
-    "target": "Michael Todd",
-    "targetId": "4309"
-  }
-]
+{
+  "source": "Taylor Hawkins",
+  "targets": [
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Chris Shiflett",
+      "targetId": "2135"
+    },
+    {
+      "name": "Nate Mendel",
+      "targetId": "2136"
+    },
+    {
+      "name": "Chondra Echert",
+      "targetId": "4306"
+    },
+    {
+      "name": "Claudio Sanchez",
+      "targetId": "4307"
+    },
+    {
+      "name": "Travis Stever",
+      "targetId": "4308"
+    },
+    {
+      "name": "Michael Todd",
+      "targetId": "4309"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ash Guff",
-    "target": "Huey",
-    "targetId": "10469"
-  },
-  {
-    "source": "Ash Guff",
-    "target": "Spooney",
-    "targetId": "10470"
-  },
-  {
-    "source": "Ash Guff",
-    "target": "Ricky",
-    "targetId": "10471"
-  },
-  {
-    "source": "Ash Guff",
-    "target": "Surly",
-    "targetId": "10472"
-  }
-]
+{
+  "source": "Ash Guff",
+  "targets": [
+    {
+      "name": "Huey",
+      "targetId": "10469"
+    },
+    {
+      "name": "Spooney",
+      "targetId": "10470"
+    },
+    {
+      "name": "Ricky",
+      "targetId": "10471"
+    },
+    {
+      "name": "Surly",
+      "targetId": "10472"
+    }
+  ]
+}

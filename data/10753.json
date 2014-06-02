@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Dave Frishberg",
-    "target": "Steve Gilmore",
-    "targetId": "10754"
-  },
-  {
-    "source": "Dave Frishberg",
-    "target": "Bill Goodwin",
-    "targetId": "10755"
-  }
-]
+{
+  "source": "Dave Frishberg",
+  "targets": [
+    {
+      "name": "Steve Gilmore",
+      "targetId": "10754"
+    },
+    {
+      "name": "Bill Goodwin",
+      "targetId": "10755"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Peggy Lee",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Peggy Lee",
-    "target": "Bing Crosby",
-    "targetId": "1791"
-  }
-]
+{
+  "source": "Peggy Lee",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Bing Crosby",
+      "targetId": "1791"
+    }
+  ]
+}

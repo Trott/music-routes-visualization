@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Bruce Franklin",
-    "target": "Ted Kirkpatrick",
-    "targetId": "2033"
-  },
-  {
-    "source": "Bruce Franklin",
-    "target": "Luke Easter",
-    "targetId": "2034"
-  },
-  {
-    "source": "Bruce Franklin",
-    "target": "Steve Andino",
-    "targetId": "2035"
-  },
-  {
-    "source": "Bruce Franklin",
-    "target": "Ron Holzner",
-    "targetId": "2037"
-  },
-  {
-    "source": "Bruce Franklin",
-    "target": "Barry Stern",
-    "targetId": "2038"
-  },
-  {
-    "source": "Bruce Franklin",
-    "target": "Rick Wartell",
-    "targetId": "2039"
-  },
-  {
-    "source": "Bruce Franklin",
-    "target": "Eric Wagner",
-    "targetId": "2040"
-  }
-]
+{
+  "source": "Bruce Franklin",
+  "targets": [
+    {
+      "name": "Ted Kirkpatrick",
+      "targetId": "2033"
+    },
+    {
+      "name": "Luke Easter",
+      "targetId": "2034"
+    },
+    {
+      "name": "Steve Andino",
+      "targetId": "2035"
+    },
+    {
+      "name": "Ron Holzner",
+      "targetId": "2037"
+    },
+    {
+      "name": "Barry Stern",
+      "targetId": "2038"
+    },
+    {
+      "name": "Rick Wartell",
+      "targetId": "2039"
+    },
+    {
+      "name": "Eric Wagner",
+      "targetId": "2040"
+    }
+  ]
+}

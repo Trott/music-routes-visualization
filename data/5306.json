@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jessica Simpson",
-    "target": "Dolly Parton",
-    "targetId": "569"
-  },
-  {
-    "source": "Jessica Simpson",
-    "target": "Siedah Garrett",
-    "targetId": "2081"
-  },
-  {
-    "source": "Jessica Simpson",
-    "target": "Chris August",
-    "targetId": "8193"
-  },
-  {
-    "source": "Jessica Simpson",
-    "target": "Dorian Holly",
-    "targetId": "8194"
-  },
-  {
-    "source": "Jessica Simpson",
-    "target": "Niki Harris",
-    "targetId": "8195"
-  },
-  {
-    "source": "Jessica Simpson",
-    "target": "Sherree Brown",
-    "targetId": "8196"
-  },
-  {
-    "source": "Jessica Simpson",
-    "target": "Sharlotte Gibson",
-    "targetId": "8197"
-  }
-]
+{
+  "source": "Jessica Simpson",
+  "targets": [
+    {
+      "name": "Dolly Parton",
+      "targetId": "569"
+    },
+    {
+      "name": "Siedah Garrett",
+      "targetId": "2081"
+    },
+    {
+      "name": "Chris August",
+      "targetId": "8193"
+    },
+    {
+      "name": "Dorian Holly",
+      "targetId": "8194"
+    },
+    {
+      "name": "Niki Harris",
+      "targetId": "8195"
+    },
+    {
+      "name": "Sherree Brown",
+      "targetId": "8196"
+    },
+    {
+      "name": "Sharlotte Gibson",
+      "targetId": "8197"
+    }
+  ]
+}

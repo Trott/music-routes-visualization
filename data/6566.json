@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Marilyn Monroe",
-    "target": "Matty Malneck",
-    "targetId": "6567"
-  },
-  {
-    "source": "Marilyn Monroe",
-    "target": "Jane Russell",
-    "targetId": "6568"
-  }
-]
+{
+  "source": "Marilyn Monroe",
+  "targets": [
+    {
+      "name": "Matty Malneck",
+      "targetId": "6567"
+    },
+    {
+      "name": "Jane Russell",
+      "targetId": "6568"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Brian James",
-    "target": "Alex Fergusson",
-    "targetId": "5026"
-  },
-  {
-    "source": "Brian James",
-    "target": "Mark Perry",
-    "targetId": "5028"
-  },
-  {
-    "source": "Brian James",
-    "target": "Dennis Burns",
-    "targetId": "5029"
-  },
-  {
-    "source": "Brian James",
-    "target": "Ray Weston",
-    "targetId": "5030"
-  },
-  {
-    "source": "Brian James",
-    "target": "Alan Gruner",
-    "targetId": "5031"
-  },
-  {
-    "source": "Brian James",
-    "target": "Dee Dee Thorne",
-    "targetId": "5033"
-  }
-]
+{
+  "source": "Brian James",
+  "targets": [
+    {
+      "name": "Alex Fergusson",
+      "targetId": "5026"
+    },
+    {
+      "name": "Mark Perry",
+      "targetId": "5028"
+    },
+    {
+      "name": "Dennis Burns",
+      "targetId": "5029"
+    },
+    {
+      "name": "Ray Weston",
+      "targetId": "5030"
+    },
+    {
+      "name": "Alan Gruner",
+      "targetId": "5031"
+    },
+    {
+      "name": "Dee Dee Thorne",
+      "targetId": "5033"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Lance Burman",
-    "target": "Paul Cook",
-    "targetId": "2669"
-  },
-  {
-    "source": "Lance Burman",
-    "target": "Matthew Ashman",
-    "targetId": "7713"
-  },
-  {
-    "source": "Lance Burman",
-    "target": "Duncan Greig",
-    "targetId": "8069"
-  }
-]
+{
+  "source": "Lance Burman",
+  "targets": [
+    {
+      "name": "Paul Cook",
+      "targetId": "2669"
+    },
+    {
+      "name": "Matthew Ashman",
+      "targetId": "7713"
+    },
+    {
+      "name": "Duncan Greig",
+      "targetId": "8069"
+    }
+  ]
+}

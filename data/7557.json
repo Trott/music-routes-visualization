@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Andy Nicholson",
-    "target": "Matt Helders",
-    "targetId": "7558"
-  },
-  {
-    "source": "Andy Nicholson",
-    "target": "Alex Turner",
-    "targetId": "7559"
-  },
-  {
-    "source": "Andy Nicholson",
-    "target": "Jamie Cook",
-    "targetId": "7560"
-  }
-]
+{
+  "source": "Andy Nicholson",
+  "targets": [
+    {
+      "name": "Matt Helders",
+      "targetId": "7558"
+    },
+    {
+      "name": "Alex Turner",
+      "targetId": "7559"
+    },
+    {
+      "name": "Jamie Cook",
+      "targetId": "7560"
+    }
+  ]
+}

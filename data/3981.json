@@ -1,172 +1,141 @@
-[
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Thom Yorke",
-    "targetId": "545"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Jonny Greenwood",
-    "targetId": "548"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Beverly Knight",
-    "targetId": "691"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Dido",
-    "targetId": "694"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Joss Stone",
-    "targetId": "699"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Keisha Buchanan",
-    "targetId": "709"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Heidi Range",
-    "targetId": "710"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Neil Hannon",
-    "targetId": "3608"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Danny Goffey",
-    "targetId": "3976"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Fran Healy",
-    "targetId": "3977"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Justin Hawkins",
-    "targetId": "3978"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Dan Hawkins",
-    "targetId": "3979"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Charlie Simpson",
-    "targetId": "3980"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Natasha Bedingfield",
-    "targetId": "3982"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Mutya Buena",
-    "targetId": "3984"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "James Bourne",
-    "targetId": "3985"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Chris Martin",
-    "targetId": "3986"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Dizzee Rascal",
-    "targetId": "3987"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Ms Dynamite",
-    "targetId": "3988"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Skye Edwards",
-    "targetId": "3989"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Estelle",
-    "targetId": "3990"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Jamelia",
-    "targetId": "3991"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Tom Chaplin",
-    "targetId": "3992"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Tim Rice-Oxley",
-    "targetId": "3993"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Tim Wheeler",
-    "targetId": "3994"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Lemar",
-    "targetId": "3995"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Shaznay Lewis",
-    "targetId": "3996"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Katie Melua",
-    "targetId": "3997"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Róisín Murphy",
-    "targetId": "3998"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Rachel Stevens",
-    "targetId": "3999"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Robbie Williams",
-    "targetId": "4000"
-  },
-  {
-    "source": "Daniel Bedingfield",
-    "target": "Will Young",
-    "targetId": "4001"
-  }
-]
+{
+  "source": "Daniel Bedingfield",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Thom Yorke",
+      "targetId": "545"
+    },
+    {
+      "name": "Jonny Greenwood",
+      "targetId": "548"
+    },
+    {
+      "name": "Beverly Knight",
+      "targetId": "691"
+    },
+    {
+      "name": "Dido",
+      "targetId": "694"
+    },
+    {
+      "name": "Joss Stone",
+      "targetId": "699"
+    },
+    {
+      "name": "Keisha Buchanan",
+      "targetId": "709"
+    },
+    {
+      "name": "Heidi Range",
+      "targetId": "710"
+    },
+    {
+      "name": "Neil Hannon",
+      "targetId": "3608"
+    },
+    {
+      "name": "Danny Goffey",
+      "targetId": "3976"
+    },
+    {
+      "name": "Fran Healy",
+      "targetId": "3977"
+    },
+    {
+      "name": "Justin Hawkins",
+      "targetId": "3978"
+    },
+    {
+      "name": "Dan Hawkins",
+      "targetId": "3979"
+    },
+    {
+      "name": "Charlie Simpson",
+      "targetId": "3980"
+    },
+    {
+      "name": "Natasha Bedingfield",
+      "targetId": "3982"
+    },
+    {
+      "name": "Mutya Buena",
+      "targetId": "3984"
+    },
+    {
+      "name": "James Bourne",
+      "targetId": "3985"
+    },
+    {
+      "name": "Chris Martin",
+      "targetId": "3986"
+    },
+    {
+      "name": "Dizzee Rascal",
+      "targetId": "3987"
+    },
+    {
+      "name": "Ms Dynamite",
+      "targetId": "3988"
+    },
+    {
+      "name": "Skye Edwards",
+      "targetId": "3989"
+    },
+    {
+      "name": "Estelle",
+      "targetId": "3990"
+    },
+    {
+      "name": "Jamelia",
+      "targetId": "3991"
+    },
+    {
+      "name": "Tom Chaplin",
+      "targetId": "3992"
+    },
+    {
+      "name": "Tim Rice-Oxley",
+      "targetId": "3993"
+    },
+    {
+      "name": "Tim Wheeler",
+      "targetId": "3994"
+    },
+    {
+      "name": "Lemar",
+      "targetId": "3995"
+    },
+    {
+      "name": "Shaznay Lewis",
+      "targetId": "3996"
+    },
+    {
+      "name": "Katie Melua",
+      "targetId": "3997"
+    },
+    {
+      "name": "Róisín Murphy",
+      "targetId": "3998"
+    },
+    {
+      "name": "Rachel Stevens",
+      "targetId": "3999"
+    },
+    {
+      "name": "Robbie Williams",
+      "targetId": "4000"
+    },
+    {
+      "name": "Will Young",
+      "targetId": "4001"
+    }
+  ]
+}

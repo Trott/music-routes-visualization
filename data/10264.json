@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Andrew Gross",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Andrew Gross",
-    "target": "Steve McDonald",
-    "targetId": "3009"
-  },
-  {
-    "source": "Andrew Gross",
-    "target": "Jack Black",
-    "targetId": "4217"
-  },
-  {
-    "source": "Andrew Gross",
-    "target": "Kyle Gass",
-    "targetId": "4218"
-  },
-  {
-    "source": "Andrew Gross",
-    "target": "Page McConnell",
-    "targetId": "4735"
-  }
-]
+{
+  "source": "Andrew Gross",
+  "targets": [
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "Steve McDonald",
+      "targetId": "3009"
+    },
+    {
+      "name": "Jack Black",
+      "targetId": "4217"
+    },
+    {
+      "name": "Kyle Gass",
+      "targetId": "4218"
+    },
+    {
+      "name": "Page McConnell",
+      "targetId": "4735"
+    }
+  ]
+}

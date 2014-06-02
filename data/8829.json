@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Kati Mac",
-    "target": "Lisa Lisa",
-    "targetId": "8818"
-  },
-  {
-    "source": "Kati Mac",
-    "target": "Chandra Armstead",
-    "targetId": "8828"
-  },
-  {
-    "source": "Kati Mac",
-    "target": "Kysia Bostic",
-    "targetId": "8830"
-  },
-  {
-    "source": "Kati Mac",
-    "target": "Nona Hendryx",
-    "targetId": "8831"
-  }
-]
+{
+  "source": "Kati Mac",
+  "targets": [
+    {
+      "name": "Lisa Lisa",
+      "targetId": "8818"
+    },
+    {
+      "name": "Chandra Armstead",
+      "targetId": "8828"
+    },
+    {
+      "name": "Kysia Bostic",
+      "targetId": "8830"
+    },
+    {
+      "name": "Nona Hendryx",
+      "targetId": "8831"
+    }
+  ]
+}

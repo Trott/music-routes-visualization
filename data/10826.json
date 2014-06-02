@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Brent Hinds",
-    "target": "Brann Dailor",
-    "targetId": "10825"
-  },
-  {
-    "source": "Brent Hinds",
-    "target": "Bill Keliher",
-    "targetId": "10827"
-  },
-  {
-    "source": "Brent Hinds",
-    "target": "Troy Sanders",
-    "targetId": "10828"
-  },
-  {
-    "source": "Brent Hinds",
-    "target": "Scott Kelly",
-    "targetId": "10829"
-  }
-]
+{
+  "source": "Brent Hinds",
+  "targets": [
+    {
+      "name": "Brann Dailor",
+      "targetId": "10825"
+    },
+    {
+      "name": "Bill Keliher",
+      "targetId": "10827"
+    },
+    {
+      "name": "Troy Sanders",
+      "targetId": "10828"
+    },
+    {
+      "name": "Scott Kelly",
+      "targetId": "10829"
+    }
+  ]
+}

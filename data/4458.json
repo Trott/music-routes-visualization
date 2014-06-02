@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Andy Seven",
-    "target": "Ryan Kirk",
-    "targetId": "4452"
-  },
-  {
-    "source": "Andy Seven",
-    "target": "Tommy Grenas",
-    "targetId": "4455"
-  },
-  {
-    "source": "Andy Seven",
-    "target": "Len Del Rio",
-    "targetId": "4456"
-  },
-  {
-    "source": "Andy Seven",
-    "target": "Adele Bertei",
-    "targetId": "4457"
-  },
-  {
-    "source": "Andy Seven",
-    "target": "Niels van Hoorn",
-    "targetId": "4459"
-  },
-  {
-    "source": "Andy Seven",
-    "target": "Rebecca Seven",
-    "targetId": "5506"
-  },
-  {
-    "source": "Andy Seven",
-    "target": "Bo Kjaer",
-    "targetId": "5507"
-  },
-  {
-    "source": "Andy Seven",
-    "target": "Fran Battaglia",
-    "targetId": "5508"
-  }
-]
+{
+  "source": "Andy Seven",
+  "targets": [
+    {
+      "name": "Ryan Kirk",
+      "targetId": "4452"
+    },
+    {
+      "name": "Tommy Grenas",
+      "targetId": "4455"
+    },
+    {
+      "name": "Len Del Rio",
+      "targetId": "4456"
+    },
+    {
+      "name": "Adele Bertei",
+      "targetId": "4457"
+    },
+    {
+      "name": "Niels van Hoorn",
+      "targetId": "4459"
+    },
+    {
+      "name": "Rebecca Seven",
+      "targetId": "5506"
+    },
+    {
+      "name": "Bo Kjaer",
+      "targetId": "5507"
+    },
+    {
+      "name": "Fran Battaglia",
+      "targetId": "5508"
+    }
+  ]
+}

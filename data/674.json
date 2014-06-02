@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Semyon Kobialka",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Scott Llamas",
-    "targetId": "672"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Meghan Heather",
-    "targetId": "673"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Doug Lippi",
-    "targetId": "675"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Marti Gregori",
-    "targetId": "676"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Billy James",
-    "targetId": "677"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Stoo Odom",
-    "targetId": "678"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Greg Gueldner",
-    "targetId": "7128"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Eric Stock",
-    "targetId": "7129"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "John McDermott",
-    "targetId": "7130"
-  },
-  {
-    "source": "Semyon Kobialka",
-    "target": "Luke Esterkyn",
-    "targetId": "7131"
-  }
-]
+{
+  "source": "Semyon Kobialka",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Scott Llamas",
+      "targetId": "672"
+    },
+    {
+      "name": "Meghan Heather",
+      "targetId": "673"
+    },
+    {
+      "name": "Doug Lippi",
+      "targetId": "675"
+    },
+    {
+      "name": "Marti Gregori",
+      "targetId": "676"
+    },
+    {
+      "name": "Billy James",
+      "targetId": "677"
+    },
+    {
+      "name": "Stoo Odom",
+      "targetId": "678"
+    },
+    {
+      "name": "Greg Gueldner",
+      "targetId": "7128"
+    },
+    {
+      "name": "Eric Stock",
+      "targetId": "7129"
+    },
+    {
+      "name": "John McDermott",
+      "targetId": "7130"
+    },
+    {
+      "name": "Luke Esterkyn",
+      "targetId": "7131"
+    }
+  ]
+}

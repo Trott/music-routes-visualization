@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ben Wolfe",
-    "target": "Frank Wess",
-    "targetId": "2758"
-  },
-  {
-    "source": "Ben Wolfe",
-    "target": "Jeff \"Tain\" Watts",
-    "targetId": "4085"
-  },
-  {
-    "source": "Ben Wolfe",
-    "target": "Harry Connick, Jr.",
-    "targetId": "5892"
-  },
-  {
-    "source": "Ben Wolfe",
-    "target": "Jay Berliner",
-    "targetId": "5893"
-  }
-]
+{
+  "source": "Ben Wolfe",
+  "targets": [
+    {
+      "name": "Frank Wess",
+      "targetId": "2758"
+    },
+    {
+      "name": "Jeff \"Tain\" Watts",
+      "targetId": "4085"
+    },
+    {
+      "name": "Harry Connick, Jr.",
+      "targetId": "5892"
+    },
+    {
+      "name": "Jay Berliner",
+      "targetId": "5893"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "David Barbe",
-    "target": "Bob Mould",
-    "targetId": "2920"
-  },
-  {
-    "source": "David Barbe",
-    "target": "Malcolm Travis",
-    "targetId": "10285"
-  }
-]
+{
+  "source": "David Barbe",
+  "targets": [
+    {
+      "name": "Bob Mould",
+      "targetId": "2920"
+    },
+    {
+      "name": "Malcolm Travis",
+      "targetId": "10285"
+    }
+  ]
+}

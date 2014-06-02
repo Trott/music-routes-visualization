@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paul Williams",
-    "target": "Jean Roussel",
-    "targetId": "1090"
-  },
-  {
-    "source": "Paul Williams",
-    "target": "Andy Pyle",
-    "targetId": "2519"
-  },
-  {
-    "source": "Paul Williams",
-    "target": "Ron Berg",
-    "targetId": "2520"
-  },
-  {
-    "source": "Paul Williams",
-    "target": "Micky Moody",
-    "targetId": "2521"
-  }
-]
+{
+  "source": "Paul Williams",
+  "targets": [
+    {
+      "name": "Jean Roussel",
+      "targetId": "1090"
+    },
+    {
+      "name": "Andy Pyle",
+      "targetId": "2519"
+    },
+    {
+      "name": "Ron Berg",
+      "targetId": "2520"
+    },
+    {
+      "name": "Micky Moody",
+      "targetId": "2521"
+    }
+  ]
+}

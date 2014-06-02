@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Otis Redding",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Otis Redding",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Otis Redding",
-    "target": "Al Jackson, Jr.",
-    "targetId": "1806"
-  },
-  {
-    "source": "Otis Redding",
-    "target": "Wayne Jackson",
-    "targetId": "1807"
-  },
-  {
-    "source": "Otis Redding",
-    "target": "Floyd Newman",
-    "targetId": "1809"
-  },
-  {
-    "source": "Otis Redding",
-    "target": "Booker T. Jones",
-    "targetId": "6245"
-  },
-  {
-    "source": "Otis Redding",
-    "target": "Charles \"Packy\" Axton",
-    "targetId": "6246"
-  },
-  {
-    "source": "Otis Redding",
-    "target": "Sammy Coleman",
-    "targetId": "6247"
-  },
-  {
-    "source": "Otis Redding",
-    "target": "Johnny Jenkins",
-    "targetId": "6248"
-  }
-]
+{
+  "source": "Otis Redding",
+  "targets": [
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Al Jackson, Jr.",
+      "targetId": "1806"
+    },
+    {
+      "name": "Wayne Jackson",
+      "targetId": "1807"
+    },
+    {
+      "name": "Floyd Newman",
+      "targetId": "1809"
+    },
+    {
+      "name": "Booker T. Jones",
+      "targetId": "6245"
+    },
+    {
+      "name": "Charles \"Packy\" Axton",
+      "targetId": "6246"
+    },
+    {
+      "name": "Sammy Coleman",
+      "targetId": "6247"
+    },
+    {
+      "name": "Johnny Jenkins",
+      "targetId": "6248"
+    }
+  ]
+}

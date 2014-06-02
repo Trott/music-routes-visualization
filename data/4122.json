@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Des Kensel",
-    "target": "Joe Preston",
-    "targetId": "4121"
-  },
-  {
-    "source": "Des Kensel",
-    "target": "Matt Pike",
-    "targetId": "4123"
-  }
-]
+{
+  "source": "Des Kensel",
+  "targets": [
+    {
+      "name": "Joe Preston",
+      "targetId": "4121"
+    },
+    {
+      "name": "Matt Pike",
+      "targetId": "4123"
+    }
+  ]
+}

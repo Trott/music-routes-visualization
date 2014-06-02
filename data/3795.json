@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Richard Ploog",
-    "target": "Peter Koppes",
-    "targetId": "3793"
-  },
-  {
-    "source": "Richard Ploog",
-    "target": "Marty Willson-Piper",
-    "targetId": "3794"
-  },
-  {
-    "source": "Richard Ploog",
-    "target": "Steve Kilbey",
-    "targetId": "3797"
-  }
-]
+{
+  "source": "Richard Ploog",
+  "targets": [
+    {
+      "name": "Peter Koppes",
+      "targetId": "3793"
+    },
+    {
+      "name": "Marty Willson-Piper",
+      "targetId": "3794"
+    },
+    {
+      "name": "Steve Kilbey",
+      "targetId": "3797"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Loris Harvin",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Loris Harvin",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Loris Harvin",
-    "target": "Buzzy Feiten",
-    "targetId": "1407"
-  },
-  {
-    "source": "Loris Harvin",
-    "target": "Shirley Brewer",
-    "targetId": "7442"
-  },
-  {
-    "source": "Loris Harvin",
-    "target": "Debra Wilson",
-    "targetId": "8232"
-  }
-]
+{
+  "source": "Loris Harvin",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Buzzy Feiten",
+      "targetId": "1407"
+    },
+    {
+      "name": "Shirley Brewer",
+      "targetId": "7442"
+    },
+    {
+      "name": "Debra Wilson",
+      "targetId": "8232"
+    }
+  ]
+}

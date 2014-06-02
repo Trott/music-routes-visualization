@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Harvey Bainbridge",
-    "target": "Ginger Baker",
-    "targetId": "915"
-  },
-  {
-    "source": "Harvey Bainbridge",
-    "target": "Dave Brock",
-    "targetId": "4470"
-  },
-  {
-    "source": "Harvey Bainbridge",
-    "target": "Tim Blake",
-    "targetId": "8517"
-  },
-  {
-    "source": "Harvey Bainbridge",
-    "target": "Robert Heaton",
-    "targetId": "9064"
-  },
-  {
-    "source": "Harvey Bainbridge",
-    "target": "Huw Lloyd-Langton",
-    "targetId": "9068"
-  }
-]
+{
+  "source": "Harvey Bainbridge",
+  "targets": [
+    {
+      "name": "Ginger Baker",
+      "targetId": "915"
+    },
+    {
+      "name": "Dave Brock",
+      "targetId": "4470"
+    },
+    {
+      "name": "Tim Blake",
+      "targetId": "8517"
+    },
+    {
+      "name": "Robert Heaton",
+      "targetId": "9064"
+    },
+    {
+      "name": "Huw Lloyd-Langton",
+      "targetId": "9068"
+    }
+  ]
+}

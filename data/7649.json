@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Andy Parker",
-    "target": "Phil Mogg",
-    "targetId": "5016"
-  },
-  {
-    "source": "Andy Parker",
-    "target": "Michael Schenker",
-    "targetId": "7640"
-  },
-  {
-    "source": "Andy Parker",
-    "target": "Pete Way",
-    "targetId": "7650"
-  }
-]
+{
+  "source": "Andy Parker",
+  "targets": [
+    {
+      "name": "Phil Mogg",
+      "targetId": "5016"
+    },
+    {
+      "name": "Michael Schenker",
+      "targetId": "7640"
+    },
+    {
+      "name": "Pete Way",
+      "targetId": "7650"
+    }
+  ]
+}

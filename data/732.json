@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ben Deily",
-    "target": "John Strohm",
-    "targetId": "728"
-  },
-  {
-    "source": "Ben Deily",
-    "target": "Evan Dando",
-    "targetId": "730"
-  },
-  {
-    "source": "Ben Deily",
-    "target": "Jesse Peretz",
-    "targetId": "731"
-  }
-]
+{
+  "source": "Ben Deily",
+  "targets": [
+    {
+      "name": "John Strohm",
+      "targetId": "728"
+    },
+    {
+      "name": "Evan Dando",
+      "targetId": "730"
+    },
+    {
+      "name": "Jesse Peretz",
+      "targetId": "731"
+    }
+  ]
+}

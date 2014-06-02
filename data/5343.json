@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Bobby Valentino",
-    "target": "Robert \"Bobby Bluebell\" Hodgens",
-    "targetId": "5338"
-  },
-  {
-    "source": "Bobby Valentino",
-    "target": "Kenneth McCluskey",
-    "targetId": "5339"
-  },
-  {
-    "source": "Bobby Valentino",
-    "target": "Dave McCluskey",
-    "targetId": "5340"
-  },
-  {
-    "source": "Bobby Valentino",
-    "target": "Neil Baldwin",
-    "targetId": "5341"
-  },
-  {
-    "source": "Bobby Valentino",
-    "target": "Craig Gannon",
-    "targetId": "5342"
-  }
-]
+{
+  "source": "Bobby Valentino",
+  "targets": [
+    {
+      "name": "Robert \"Bobby Bluebell\" Hodgens",
+      "targetId": "5338"
+    },
+    {
+      "name": "Kenneth McCluskey",
+      "targetId": "5339"
+    },
+    {
+      "name": "Dave McCluskey",
+      "targetId": "5340"
+    },
+    {
+      "name": "Neil Baldwin",
+      "targetId": "5341"
+    },
+    {
+      "name": "Craig Gannon",
+      "targetId": "5342"
+    }
+  ]
+}

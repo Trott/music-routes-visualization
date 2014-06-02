@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Alvin Stoller",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Alvin Stoller",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Alvin Stoller",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  },
-  {
-    "source": "Alvin Stoller",
-    "target": "Billie Holiday",
-    "targetId": "2704"
-  },
-  {
-    "source": "Alvin Stoller",
-    "target": "Charlie Shavers",
-    "targetId": "2705"
-  },
-  {
-    "source": "Alvin Stoller",
-    "target": "Harry \"Sweets\" Edison",
-    "targetId": "7155"
-  },
-  {
-    "source": "Alvin Stoller",
-    "target": "Ben Webster",
-    "targetId": "7156"
-  },
-  {
-    "source": "Alvin Stoller",
-    "target": "Jimmy Rowles",
-    "targetId": "7157"
-  },
-  {
-    "source": "Alvin Stoller",
-    "target": "Red Mitchell",
-    "targetId": "7158"
-  }
-]
+{
+  "source": "Alvin Stoller",
+  "targets": [
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    },
+    {
+      "name": "Billie Holiday",
+      "targetId": "2704"
+    },
+    {
+      "name": "Charlie Shavers",
+      "targetId": "2705"
+    },
+    {
+      "name": "Harry \"Sweets\" Edison",
+      "targetId": "7155"
+    },
+    {
+      "name": "Ben Webster",
+      "targetId": "7156"
+    },
+    {
+      "name": "Jimmy Rowles",
+      "targetId": "7157"
+    },
+    {
+      "name": "Red Mitchell",
+      "targetId": "7158"
+    }
+  ]
+}

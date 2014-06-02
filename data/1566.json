@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tom DeLonge",
-    "target": "Robert Smith",
-    "targetId": "363"
-  },
-  {
-    "source": "Tom DeLonge",
-    "target": "Travis Barker",
-    "targetId": "1559"
-  },
-  {
-    "source": "Tom DeLonge",
-    "target": "Mark Hoppus",
-    "targetId": "1565"
-  },
-  {
-    "source": "Tom DeLonge",
-    "target": "John Morrical",
-    "targetId": "1567"
-  }
-]
+{
+  "source": "Tom DeLonge",
+  "targets": [
+    {
+      "name": "Robert Smith",
+      "targetId": "363"
+    },
+    {
+      "name": "Travis Barker",
+      "targetId": "1559"
+    },
+    {
+      "name": "Mark Hoppus",
+      "targetId": "1565"
+    },
+    {
+      "name": "John Morrical",
+      "targetId": "1567"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jerry Montano",
-    "target": "Glenn Danzig",
-    "targetId": "2389"
-  },
-  {
-    "source": "Jerry Montano",
-    "target": "Tommy Victor",
-    "targetId": "5718"
-  },
-  {
-    "source": "Jerry Montano",
-    "target": "Bevan Davies",
-    "targetId": "5720"
-  }
-]
+{
+  "source": "Jerry Montano",
+  "targets": [
+    {
+      "name": "Glenn Danzig",
+      "targetId": "2389"
+    },
+    {
+      "name": "Tommy Victor",
+      "targetId": "5718"
+    },
+    {
+      "name": "Bevan Davies",
+      "targetId": "5720"
+    }
+  ]
+}

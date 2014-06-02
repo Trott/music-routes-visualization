@@ -1,87 +1,73 @@
-[
-  {
-    "source": "Mickey Raphael",
-    "target": "Willie Nelson",
-    "targetId": "68"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Kris Kristofferson",
-    "targetId": "570"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Ryan Adams",
-    "targetId": "655"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Jon Graboff",
-    "targetId": "656"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Brad Pemberton",
-    "targetId": "657"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Neal Casal",
-    "targetId": "658"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Catherine Popper",
-    "targetId": "659"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Glenn Patscha",
-    "targetId": "660"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Reggie Young",
-    "targetId": "1102"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Don Was",
-    "targetId": "6055"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "June Carter Cash",
-    "targetId": "8159"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "G.E. Smith",
-    "targetId": "8167"
-  },
-  {
-    "source": "Mickey Raphael",
-    "target": "Kerry Marx",
-    "targetId": "8169"
-  }
-]
+{
+  "source": "Mickey Raphael",
+  "targets": [
+    {
+      "name": "Willie Nelson",
+      "targetId": "68"
+    },
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Kris Kristofferson",
+      "targetId": "570"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Ryan Adams",
+      "targetId": "655"
+    },
+    {
+      "name": "Jon Graboff",
+      "targetId": "656"
+    },
+    {
+      "name": "Brad Pemberton",
+      "targetId": "657"
+    },
+    {
+      "name": "Neal Casal",
+      "targetId": "658"
+    },
+    {
+      "name": "Catherine Popper",
+      "targetId": "659"
+    },
+    {
+      "name": "Glenn Patscha",
+      "targetId": "660"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "Reggie Young",
+      "targetId": "1102"
+    },
+    {
+      "name": "Don Was",
+      "targetId": "6055"
+    },
+    {
+      "name": "June Carter Cash",
+      "targetId": "8159"
+    },
+    {
+      "name": "G.E. Smith",
+      "targetId": "8167"
+    },
+    {
+      "name": "Kerry Marx",
+      "targetId": "8169"
+    }
+  ]
+}

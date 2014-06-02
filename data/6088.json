@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ben Byrne",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Ben Byrne",
-    "target": "Barry Westhead",
-    "targetId": "6087"
-  },
-  {
-    "source": "Ben Byrne",
-    "target": "James Stelfox",
-    "targetId": "6089"
-  },
-  {
-    "source": "Ben Byrne",
-    "target": "James Walsh",
-    "targetId": "6090"
-  }
-]
+{
+  "source": "Ben Byrne",
+  "targets": [
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Barry Westhead",
+      "targetId": "6087"
+    },
+    {
+      "name": "James Stelfox",
+      "targetId": "6089"
+    },
+    {
+      "name": "James Walsh",
+      "targetId": "6090"
+    }
+  ]
+}

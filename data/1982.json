@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Roger Daltrey",
-    "target": "Billy Joel",
-    "targetId": "63"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "B.B. King",
-    "targetId": "565"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "John Entwistle",
-    "targetId": "1983"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "Keith Moon",
-    "targetId": "1984"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "Dave Arbus",
-    "targetId": "1986"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "Chris Stainton",
-    "targetId": "4149"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "Pete Beachill",
-    "targetId": "4481"
-  },
-  {
-    "source": "Roger Daltrey",
-    "target": "John Barclay",
-    "targetId": "5150"
-  }
-]
+{
+  "source": "Roger Daltrey",
+  "targets": [
+    {
+      "name": "Billy Joel",
+      "targetId": "63"
+    },
+    {
+      "name": "B.B. King",
+      "targetId": "565"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "John Entwistle",
+      "targetId": "1983"
+    },
+    {
+      "name": "Keith Moon",
+      "targetId": "1984"
+    },
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    },
+    {
+      "name": "Dave Arbus",
+      "targetId": "1986"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "Chris Stainton",
+      "targetId": "4149"
+    },
+    {
+      "name": "Pete Beachill",
+      "targetId": "4481"
+    },
+    {
+      "name": "John Barclay",
+      "targetId": "5150"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Joe Byrd",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Joe Byrd",
-    "target": "Herb Ellis",
-    "targetId": "7153"
-  },
-  {
-    "source": "Joe Byrd",
-    "target": "Charlie Byrd",
-    "targetId": "8672"
-  },
-  {
-    "source": "Joe Byrd",
-    "target": "John Rae",
-    "targetId": "8674"
-  }
-]
+{
+  "source": "Joe Byrd",
+  "targets": [
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Herb Ellis",
+      "targetId": "7153"
+    },
+    {
+      "name": "Charlie Byrd",
+      "targetId": "8672"
+    },
+    {
+      "name": "John Rae",
+      "targetId": "8674"
+    }
+  ]
+}

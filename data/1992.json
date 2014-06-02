@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Lizzie Bravo",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Lizzie Bravo",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Lizzie Bravo",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Lizzie Bravo",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Lizzie Bravo",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Lizzie Bravo",
-    "target": "Gayleen Pease",
-    "targetId": "1991"
-  }
-]
+{
+  "source": "Lizzie Bravo",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Gayleen Pease",
+      "targetId": "1991"
+    }
+  ]
+}

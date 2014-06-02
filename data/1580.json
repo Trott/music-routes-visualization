@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Morrissey",
-    "target": "Siouxsie Sioux",
-    "targetId": "361"
-  },
-  {
-    "source": "Morrissey",
-    "target": "Johnny Marr",
-    "targetId": "2966"
-  },
-  {
-    "source": "Morrissey",
-    "target": "Andy Rourke",
-    "targetId": "5054"
-  },
-  {
-    "source": "Morrissey",
-    "target": "Mike Joyce",
-    "targetId": "5055"
-  }
-]
+{
+  "source": "Morrissey",
+  "targets": [
+    {
+      "name": "Siouxsie Sioux",
+      "targetId": "361"
+    },
+    {
+      "name": "Johnny Marr",
+      "targetId": "2966"
+    },
+    {
+      "name": "Andy Rourke",
+      "targetId": "5054"
+    },
+    {
+      "name": "Mike Joyce",
+      "targetId": "5055"
+    }
+  ]
+}

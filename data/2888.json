@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Robbie Buchanan",
-    "target": "Ted Nugent",
-    "targetId": "168"
-  },
-  {
-    "source": "Robbie Buchanan",
-    "target": "Michael Cartellone",
-    "targetId": "2886"
-  },
-  {
-    "source": "Robbie Buchanan",
-    "target": "Jack Blades",
-    "targetId": "2887"
-  },
-  {
-    "source": "Robbie Buchanan",
-    "target": "Tommy Shaw",
-    "targetId": "2889"
-  }
-]
+{
+  "source": "Robbie Buchanan",
+  "targets": [
+    {
+      "name": "Ted Nugent",
+      "targetId": "168"
+    },
+    {
+      "name": "Michael Cartellone",
+      "targetId": "2886"
+    },
+    {
+      "name": "Jack Blades",
+      "targetId": "2887"
+    },
+    {
+      "name": "Tommy Shaw",
+      "targetId": "2889"
+    }
+  ]
+}

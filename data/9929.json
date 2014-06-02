@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Paul Raven",
-    "target": "Paul Ferguson",
-    "targetId": "9930"
-  },
-  {
-    "source": "Paul Raven",
-    "target": "Jaz Coleman",
-    "targetId": "9931"
-  },
-  {
-    "source": "Paul Raven",
-    "target": "Geordie Walker",
-    "targetId": "9932"
-  }
-]
+{
+  "source": "Paul Raven",
+  "targets": [
+    {
+      "name": "Paul Ferguson",
+      "targetId": "9930"
+    },
+    {
+      "name": "Jaz Coleman",
+      "targetId": "9931"
+    },
+    {
+      "name": "Geordie Walker",
+      "targetId": "9932"
+    }
+  ]
+}

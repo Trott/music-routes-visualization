@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jon Klein",
-    "target": "Budgie",
-    "targetId": "364"
-  },
-  {
-    "source": "Jon Klein",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Jon Klein",
-    "target": "Matthew Seligman",
-    "targetId": "865"
-  },
-  {
-    "source": "Jon Klein",
-    "target": "Larry Treadwell",
-    "targetId": "1302"
-  },
-  {
-    "source": "Jon Klein",
-    "target": "David Owens",
-    "targetId": "1315"
-  }
-]
+{
+  "source": "Jon Klein",
+  "targets": [
+    {
+      "name": "Budgie",
+      "targetId": "364"
+    },
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Matthew Seligman",
+      "targetId": "865"
+    },
+    {
+      "name": "Larry Treadwell",
+      "targetId": "1302"
+    },
+    {
+      "name": "David Owens",
+      "targetId": "1315"
+    }
+  ]
+}

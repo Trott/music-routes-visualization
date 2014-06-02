@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Pat Abernathy",
-    "target": "Miles Kurosky",
-    "targetId": "7687"
-  },
-  {
-    "source": "Pat Abernathy",
-    "target": "Pat Noel",
-    "targetId": "7689"
-  },
-  {
-    "source": "Pat Abernathy",
-    "target": "Bill Swan",
-    "targetId": "7690"
-  },
-  {
-    "source": "Pat Abernathy",
-    "target": "Eli Crews",
-    "targetId": "7695"
-  },
-  {
-    "source": "Pat Abernathy",
-    "target": "Dan Sullivan",
-    "targetId": "7697"
-  }
-]
+{
+  "source": "Pat Abernathy",
+  "targets": [
+    {
+      "name": "Miles Kurosky",
+      "targetId": "7687"
+    },
+    {
+      "name": "Pat Noel",
+      "targetId": "7689"
+    },
+    {
+      "name": "Bill Swan",
+      "targetId": "7690"
+    },
+    {
+      "name": "Eli Crews",
+      "targetId": "7695"
+    },
+    {
+      "name": "Dan Sullivan",
+      "targetId": "7697"
+    }
+  ]
+}

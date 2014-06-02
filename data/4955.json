@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Bowden",
-    "target": "Al Perkins",
-    "targetId": "377"
-  },
-  {
-    "source": "Mike Bowden",
-    "target": "Don Henley",
-    "targetId": "380"
-  },
-  {
-    "source": "Mike Bowden",
-    "target": "Richard Bowden",
-    "targetId": "2849"
-  },
-  {
-    "source": "Mike Bowden",
-    "target": "Jim Norman",
-    "targetId": "4954"
-  }
-]
+{
+  "source": "Mike Bowden",
+  "targets": [
+    {
+      "name": "Al Perkins",
+      "targetId": "377"
+    },
+    {
+      "name": "Don Henley",
+      "targetId": "380"
+    },
+    {
+      "name": "Richard Bowden",
+      "targetId": "2849"
+    },
+    {
+      "name": "Jim Norman",
+      "targetId": "4954"
+    }
+  ]
+}

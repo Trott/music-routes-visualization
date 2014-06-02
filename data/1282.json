@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Cookie Monster",
-    "target": "Big Bird",
-    "targetId": "240"
-  },
-  {
-    "source": "Cookie Monster",
-    "target": "The Count",
-    "targetId": "245"
-  },
-  {
-    "source": "Cookie Monster",
-    "target": "Elmo",
-    "targetId": "254"
-  },
-  {
-    "source": "Cookie Monster",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Cookie Monster",
-    "target": "Herb Bushler",
-    "targetId": "1260"
-  },
-  {
-    "source": "Cookie Monster",
-    "target": "Richard Crooks",
-    "targetId": "1270"
-  },
-  {
-    "source": "Cookie Monster",
-    "target": "Robin Gibb",
-    "targetId": "1279"
-  },
-  {
-    "source": "Cookie Monster",
-    "target": "Grover",
-    "targetId": "1280"
-  },
-  {
-    "source": "Cookie Monster",
-    "target": "Ernie",
-    "targetId": "1281"
-  }
-]
+{
+  "source": "Cookie Monster",
+  "targets": [
+    {
+      "name": "Big Bird",
+      "targetId": "240"
+    },
+    {
+      "name": "The Count",
+      "targetId": "245"
+    },
+    {
+      "name": "Elmo",
+      "targetId": "254"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Herb Bushler",
+      "targetId": "1260"
+    },
+    {
+      "name": "Richard Crooks",
+      "targetId": "1270"
+    },
+    {
+      "name": "Robin Gibb",
+      "targetId": "1279"
+    },
+    {
+      "name": "Grover",
+      "targetId": "1280"
+    },
+    {
+      "name": "Ernie",
+      "targetId": "1281"
+    }
+  ]
+}

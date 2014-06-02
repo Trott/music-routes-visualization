@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Cesar Rosas",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "Cesar Rosas",
-    "target": "David Hidalgo",
-    "targetId": "285"
-  },
-  {
-    "source": "Cesar Rosas",
-    "target": "Steve Berlin",
-    "targetId": "2557"
-  },
-  {
-    "source": "Cesar Rosas",
-    "target": "Conrad Lozano",
-    "targetId": "2558"
-  },
-  {
-    "source": "Cesar Rosas",
-    "target": "Louie Pérez",
-    "targetId": "2559"
-  }
-]
+{
+  "source": "Cesar Rosas",
+  "targets": [
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "David Hidalgo",
+      "targetId": "285"
+    },
+    {
+      "name": "Steve Berlin",
+      "targetId": "2557"
+    },
+    {
+      "name": "Conrad Lozano",
+      "targetId": "2558"
+    },
+    {
+      "name": "Louie Pérez",
+      "targetId": "2559"
+    }
+  ]
+}

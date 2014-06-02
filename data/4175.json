@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Peter Daltrey",
-    "target": "Ed Warby",
-    "targetId": "4172"
-  },
-  {
-    "source": "Peter Daltrey",
-    "target": "Arjen Anthony Lucassen",
-    "targetId": "4173"
-  },
-  {
-    "source": "Peter Daltrey",
-    "target": "Clive Nolan",
-    "targetId": "4174"
-  }
-]
+{
+  "source": "Peter Daltrey",
+  "targets": [
+    {
+      "name": "Ed Warby",
+      "targetId": "4172"
+    },
+    {
+      "name": "Arjen Anthony Lucassen",
+      "targetId": "4173"
+    },
+    {
+      "name": "Clive Nolan",
+      "targetId": "4174"
+    }
+  ]
+}

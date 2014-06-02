@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Noel McCalla",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Noel McCalla",
-    "target": "Mick Rogers",
-    "targetId": "5607"
-  },
-  {
-    "source": "Noel McCalla",
-    "target": "Steve Kinch",
-    "targetId": "5611"
-  },
-  {
-    "source": "Noel McCalla",
-    "target": "Clive Bunker",
-    "targetId": "5613"
-  }
-]
+{
+  "source": "Noel McCalla",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Mick Rogers",
+      "targetId": "5607"
+    },
+    {
+      "name": "Steve Kinch",
+      "targetId": "5611"
+    },
+    {
+      "name": "Clive Bunker",
+      "targetId": "5613"
+    }
+  ]
+}

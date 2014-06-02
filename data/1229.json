@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Matt Harris",
-    "target": "Bob Reed",
-    "targetId": "1230"
-  },
-  {
-    "source": "Matt Harris",
-    "target": "John Hofer",
-    "targetId": "1231"
-  },
-  {
-    "source": "Matt Harris",
-    "target": "Mike Drake",
-    "targetId": "1232"
-  },
-  {
-    "source": "Matt Harris",
-    "target": "Patrick Main",
-    "targetId": "1233"
-  }
-]
+{
+  "source": "Matt Harris",
+  "targets": [
+    {
+      "name": "Bob Reed",
+      "targetId": "1230"
+    },
+    {
+      "name": "John Hofer",
+      "targetId": "1231"
+    },
+    {
+      "name": "Mike Drake",
+      "targetId": "1232"
+    },
+    {
+      "name": "Patrick Main",
+      "targetId": "1233"
+    }
+  ]
+}

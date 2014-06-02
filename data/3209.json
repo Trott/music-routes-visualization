@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Philip Horvitz",
-    "target": "Bob Ostertag",
-    "targetId": "3201"
-  },
-  {
-    "source": "Philip Horvitz",
-    "target": "Fred Frith",
-    "targetId": "3202"
-  },
-  {
-    "source": "Philip Horvitz",
-    "target": "Justin Bond",
-    "targetId": "3204"
-  },
-  {
-    "source": "Philip Horvitz",
-    "target": "Lynn Breedlove",
-    "targetId": "3205"
-  },
-  {
-    "source": "Philip Horvitz",
-    "target": "Trevor Dunn",
-    "targetId": "3207"
-  },
-  {
-    "source": "Philip Horvitz",
-    "target": "Mike Patton",
-    "targetId": "3213"
-  },
-  {
-    "source": "Philip Horvitz",
-    "target": "JD Reilly",
-    "targetId": "3214"
-  },
-  {
-    "source": "Philip Horvitz",
-    "target": "Annie Toone",
-    "targetId": "3215"
-  }
-]
+{
+  "source": "Philip Horvitz",
+  "targets": [
+    {
+      "name": "Bob Ostertag",
+      "targetId": "3201"
+    },
+    {
+      "name": "Fred Frith",
+      "targetId": "3202"
+    },
+    {
+      "name": "Justin Bond",
+      "targetId": "3204"
+    },
+    {
+      "name": "Lynn Breedlove",
+      "targetId": "3205"
+    },
+    {
+      "name": "Trevor Dunn",
+      "targetId": "3207"
+    },
+    {
+      "name": "Mike Patton",
+      "targetId": "3213"
+    },
+    {
+      "name": "JD Reilly",
+      "targetId": "3214"
+    },
+    {
+      "name": "Annie Toone",
+      "targetId": "3215"
+    }
+  ]
+}

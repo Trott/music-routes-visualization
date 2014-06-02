@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Colin Green",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Madeline Bell",
-    "targetId": "810"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Kay Garner",
-    "targetId": "811"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Lesley Duncan",
-    "targetId": "812"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Tony Hazzard",
-    "targetId": "813"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Tony Burrows",
-    "targetId": "814"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Barry Morgan",
-    "targetId": "1094"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Dave Richmond",
-    "targetId": "10734"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Frank Clark",
-    "targetId": "10735"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Clive Hicks",
-    "targetId": "10737"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Brian Dee",
-    "targetId": "10741"
-  },
-  {
-    "source": "Colin Green",
-    "target": "Roger Cook",
-    "targetId": "10742"
-  }
-]
+{
+  "source": "Colin Green",
+  "targets": [
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Madeline Bell",
+      "targetId": "810"
+    },
+    {
+      "name": "Kay Garner",
+      "targetId": "811"
+    },
+    {
+      "name": "Lesley Duncan",
+      "targetId": "812"
+    },
+    {
+      "name": "Tony Hazzard",
+      "targetId": "813"
+    },
+    {
+      "name": "Tony Burrows",
+      "targetId": "814"
+    },
+    {
+      "name": "Barry Morgan",
+      "targetId": "1094"
+    },
+    {
+      "name": "Dave Richmond",
+      "targetId": "10734"
+    },
+    {
+      "name": "Frank Clark",
+      "targetId": "10735"
+    },
+    {
+      "name": "Clive Hicks",
+      "targetId": "10737"
+    },
+    {
+      "name": "Brian Dee",
+      "targetId": "10741"
+    },
+    {
+      "name": "Roger Cook",
+      "targetId": "10742"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pooh Bear",
-    "target": "Paris Hilton",
-    "targetId": "5810"
-  },
-  {
-    "source": "Pooh Bear",
-    "target": "Penelope Magnet",
-    "targetId": "5811"
-  },
-  {
-    "source": "Pooh Bear",
-    "target": "Taura \"Aura\" Jackson",
-    "targetId": "5813"
-  }
-]
+{
+  "source": "Pooh Bear",
+  "targets": [
+    {
+      "name": "Paris Hilton",
+      "targetId": "5810"
+    },
+    {
+      "name": "Penelope Magnet",
+      "targetId": "5811"
+    },
+    {
+      "name": "Taura \"Aura\" Jackson",
+      "targetId": "5813"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ben Lurie",
-    "target": "William Reid",
-    "targetId": "3572"
-  },
-  {
-    "source": "Ben Lurie",
-    "target": "Jim Reid",
-    "targetId": "3573"
-  },
-  {
-    "source": "Ben Lurie",
-    "target": "Steve Monti",
-    "targetId": "3575"
-  },
-  {
-    "source": "Ben Lurie",
-    "target": "Hope Sandoval",
-    "targetId": "3576"
-  }
-]
+{
+  "source": "Ben Lurie",
+  "targets": [
+    {
+      "name": "William Reid",
+      "targetId": "3572"
+    },
+    {
+      "name": "Jim Reid",
+      "targetId": "3573"
+    },
+    {
+      "name": "Steve Monti",
+      "targetId": "3575"
+    },
+    {
+      "name": "Hope Sandoval",
+      "targetId": "3576"
+    }
+  ]
+}

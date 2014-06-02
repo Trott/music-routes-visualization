@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Ian Stewart",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Ian Stewart",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Ian Stewart",
-    "target": "Bill Wyman",
-    "targetId": "304"
-  },
-  {
-    "source": "Ian Stewart",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Ian Stewart",
-    "target": "Chris Winters",
-    "targetId": "307"
-  },
-  {
-    "source": "Ian Stewart",
-    "target": "Charlie Watts",
-    "targetId": "1994"
-  },
-  {
-    "source": "Ian Stewart",
-    "target": "Mick Taylor",
-    "targetId": "1995"
-  },
-  {
-    "source": "Ian Stewart",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  }
-]
+{
+  "source": "Ian Stewart",
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Bill Wyman",
+      "targetId": "304"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Chris Winters",
+      "targetId": "307"
+    },
+    {
+      "name": "Charlie Watts",
+      "targetId": "1994"
+    },
+    {
+      "name": "Mick Taylor",
+      "targetId": "1995"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    }
+  ]
+}

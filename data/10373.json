@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Pugsley",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Steve Pugsley",
-    "target": "Ron Tabak",
-    "targetId": "10367"
-  },
-  {
-    "source": "Steve Pugsley",
-    "target": "Lindsay Mitchell",
-    "targetId": "10368"
-  },
-  {
-    "source": "Steve Pugsley",
-    "target": "Graeme Coleman",
-    "targetId": "10374"
-  }
-]
+{
+  "source": "Steve Pugsley",
+  "targets": [
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "Ron Tabak",
+      "targetId": "10367"
+    },
+    {
+      "name": "Lindsay Mitchell",
+      "targetId": "10368"
+    },
+    {
+      "name": "Graeme Coleman",
+      "targetId": "10374"
+    }
+  ]
+}

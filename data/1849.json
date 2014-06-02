@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Chris Goss",
-    "target": "Josh Homme",
-    "targetId": "1847"
-  },
-  {
-    "source": "Chris Goss",
-    "target": "Troy Van Leeuwen",
-    "targetId": "1848"
-  },
-  {
-    "source": "Chris Goss",
-    "target": "Julian Casablancas",
-    "targetId": "1850"
-  },
-  {
-    "source": "Chris Goss",
-    "target": "Joey Castillo",
-    "targetId": "1851"
-  }
-]
+{
+  "source": "Chris Goss",
+  "targets": [
+    {
+      "name": "Josh Homme",
+      "targetId": "1847"
+    },
+    {
+      "name": "Troy Van Leeuwen",
+      "targetId": "1848"
+    },
+    {
+      "name": "Julian Casablancas",
+      "targetId": "1850"
+    },
+    {
+      "name": "Joey Castillo",
+      "targetId": "1851"
+    }
+  ]
+}

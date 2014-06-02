@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Tom Reynolds",
-    "target": "Robert Wilson",
-    "targetId": "9264"
-  },
-  {
-    "source": "Tom Reynolds",
-    "target": "Modesto Briseno",
-    "targetId": "9265"
-  },
-  {
-    "source": "Tom Reynolds",
-    "target": "Frank Leal",
-    "targetId": "9266"
-  },
-  {
-    "source": "Tom Reynolds",
-    "target": "Kenneth Patchen",
-    "targetId": "9267"
-  },
-  {
-    "source": "Tom Reynolds",
-    "target": "Fred Dutton",
-    "targetId": "9268"
-  },
-  {
-    "source": "Tom Reynolds",
-    "target": "Allyn Ferguson",
-    "targetId": "9270"
-  }
-]
+{
+  "source": "Tom Reynolds",
+  "targets": [
+    {
+      "name": "Robert Wilson",
+      "targetId": "9264"
+    },
+    {
+      "name": "Modesto Briseno",
+      "targetId": "9265"
+    },
+    {
+      "name": "Frank Leal",
+      "targetId": "9266"
+    },
+    {
+      "name": "Kenneth Patchen",
+      "targetId": "9267"
+    },
+    {
+      "name": "Fred Dutton",
+      "targetId": "9268"
+    },
+    {
+      "name": "Allyn Ferguson",
+      "targetId": "9270"
+    }
+  ]
+}

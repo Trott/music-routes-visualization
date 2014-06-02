@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paulie Miller",
-    "target": "Conan Neutron",
-    "targetId": "3529"
-  },
-  {
-    "source": "Paulie Miller",
-    "target": "Ben Adrian",
-    "targetId": "3530"
-  },
-  {
-    "source": "Paulie Miller",
-    "target": "Chris Bolig",
-    "targetId": "3531"
-  },
-  {
-    "source": "Paulie Miller",
-    "target": "Ted Nesseth",
-    "targetId": "3532"
-  }
-]
+{
+  "source": "Paulie Miller",
+  "targets": [
+    {
+      "name": "Conan Neutron",
+      "targetId": "3529"
+    },
+    {
+      "name": "Ben Adrian",
+      "targetId": "3530"
+    },
+    {
+      "name": "Chris Bolig",
+      "targetId": "3531"
+    },
+    {
+      "name": "Ted Nesseth",
+      "targetId": "3532"
+    }
+  ]
+}

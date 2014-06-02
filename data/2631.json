@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Larry Sasser",
-    "target": "Terry McMillan",
-    "targetId": "595"
-  },
-  {
-    "source": "Larry Sasser",
-    "target": "Jerry Reed",
-    "targetId": "2625"
-  },
-  {
-    "source": "Larry Sasser",
-    "target": "Richard Shook",
-    "targetId": "2630"
-  },
-  {
-    "source": "Larry Sasser",
-    "target": "Kenny Penny",
-    "targetId": "2632"
-  },
-  {
-    "source": "Larry Sasser",
-    "target": "Bobby Thompson",
-    "targetId": "2633"
-  },
-  {
-    "source": "Larry Sasser",
-    "target": "Dennis Guy Bottoms",
-    "targetId": "2634"
-  }
-]
+{
+  "source": "Larry Sasser",
+  "targets": [
+    {
+      "name": "Terry McMillan",
+      "targetId": "595"
+    },
+    {
+      "name": "Jerry Reed",
+      "targetId": "2625"
+    },
+    {
+      "name": "Richard Shook",
+      "targetId": "2630"
+    },
+    {
+      "name": "Kenny Penny",
+      "targetId": "2632"
+    },
+    {
+      "name": "Bobby Thompson",
+      "targetId": "2633"
+    },
+    {
+      "name": "Dennis Guy Bottoms",
+      "targetId": "2634"
+    }
+  ]
+}

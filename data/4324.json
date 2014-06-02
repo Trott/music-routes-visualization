@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Larry Lalonde",
-    "target": "Les Claypool",
-    "targetId": "495"
-  },
-  {
-    "source": "Larry Lalonde",
-    "target": "Tim \"Herb\" Alexander",
-    "targetId": "4323"
-  }
-]
+{
+  "source": "Larry Lalonde",
+  "targets": [
+    {
+      "name": "Les Claypool",
+      "targetId": "495"
+    },
+    {
+      "name": "Tim \"Herb\" Alexander",
+      "targetId": "4323"
+    }
+  ]
+}

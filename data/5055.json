@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Joyce",
-    "target": "Morrissey",
-    "targetId": "1580"
-  },
-  {
-    "source": "Mike Joyce",
-    "target": "Johnny Marr",
-    "targetId": "2966"
-  },
-  {
-    "source": "Mike Joyce",
-    "target": "Andy Rourke",
-    "targetId": "5054"
-  }
-]
+{
+  "source": "Mike Joyce",
+  "targets": [
+    {
+      "name": "Morrissey",
+      "targetId": "1580"
+    },
+    {
+      "name": "Johnny Marr",
+      "targetId": "2966"
+    },
+    {
+      "name": "Andy Rourke",
+      "targetId": "5054"
+    }
+  ]
+}

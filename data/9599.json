@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Elliot Mazer",
-    "target": "Janis Joplin",
-    "targetId": "1542"
-  },
-  {
-    "source": "Elliot Mazer",
-    "target": "Dave Getz",
-    "targetId": "9590"
-  },
-  {
-    "source": "Elliot Mazer",
-    "target": "James Gurley",
-    "targetId": "9591"
-  },
-  {
-    "source": "Elliot Mazer",
-    "target": "Sam Andrew",
-    "targetId": "9592"
-  }
-]
+{
+  "source": "Elliot Mazer",
+  "targets": [
+    {
+      "name": "Janis Joplin",
+      "targetId": "1542"
+    },
+    {
+      "name": "Dave Getz",
+      "targetId": "9590"
+    },
+    {
+      "name": "James Gurley",
+      "targetId": "9591"
+    },
+    {
+      "name": "Sam Andrew",
+      "targetId": "9592"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Craig Collinge",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Craig Collinge",
-    "target": "Mike Hugg",
-    "targetId": "3142"
-  },
-  {
-    "source": "Craig Collinge",
-    "target": "Steve York",
-    "targetId": "5602"
-  },
-  {
-    "source": "Craig Collinge",
-    "target": "Bernie Living",
-    "targetId": "5604"
-  },
-  {
-    "source": "Craig Collinge",
-    "target": "Brian Hugg",
-    "targetId": "5605"
-  },
-  {
-    "source": "Craig Collinge",
-    "target": "Harold Beckett",
-    "targetId": "5606"
-  }
-]
+{
+  "source": "Craig Collinge",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Mike Hugg",
+      "targetId": "3142"
+    },
+    {
+      "name": "Steve York",
+      "targetId": "5602"
+    },
+    {
+      "name": "Bernie Living",
+      "targetId": "5604"
+    },
+    {
+      "name": "Brian Hugg",
+      "targetId": "5605"
+    },
+    {
+      "name": "Harold Beckett",
+      "targetId": "5606"
+    }
+  ]
+}

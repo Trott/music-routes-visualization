@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rob Brill",
-    "target": "Ted Nugent",
-    "targetId": "168"
-  },
-  {
-    "source": "Rob Brill",
-    "target": "David Gilmour",
-    "targetId": "275"
-  },
-  {
-    "source": "Rob Brill",
-    "target": "Terri Nunn",
-    "targetId": "4966"
-  },
-  {
-    "source": "Rob Brill",
-    "target": "John Crawford",
-    "targetId": "4967"
-  }
-]
+{
+  "source": "Rob Brill",
+  "targets": [
+    {
+      "name": "Ted Nugent",
+      "targetId": "168"
+    },
+    {
+      "name": "David Gilmour",
+      "targetId": "275"
+    },
+    {
+      "name": "Terri Nunn",
+      "targetId": "4966"
+    },
+    {
+      "name": "John Crawford",
+      "targetId": "4967"
+    }
+  ]
+}

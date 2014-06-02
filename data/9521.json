@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Eugene Chadbourne",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Eugene Chadbourne",
-    "target": "John Linnell",
-    "targetId": "3068"
-  }
-]
+{
+  "source": "Eugene Chadbourne",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    }
+  ]
+}

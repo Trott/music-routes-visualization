@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Neil Gust",
-    "target": "Tony Lash",
-    "targetId": "14"
-  },
-  {
-    "source": "Neil Gust",
-    "target": "Sam Coomes",
-    "targetId": "23"
-  },
-  {
-    "source": "Neil Gust",
-    "target": "Elliott Smith",
-    "targetId": "25"
-  }
-]
+{
+  "source": "Neil Gust",
+  "targets": [
+    {
+      "name": "Tony Lash",
+      "targetId": "14"
+    },
+    {
+      "name": "Sam Coomes",
+      "targetId": "23"
+    },
+    {
+      "name": "Elliott Smith",
+      "targetId": "25"
+    }
+  ]
+}

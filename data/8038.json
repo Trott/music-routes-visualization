@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bobby Watley",
-    "target": "Cecil Hunt",
-    "targetId": "8035"
-  },
-  {
-    "source": "Bobby Watley",
-    "target": "Jimmy Munford",
-    "targetId": "8036"
-  },
-  {
-    "source": "Bobby Watley",
-    "target": "Steve Weakley",
-    "targetId": "8037"
-  },
-  {
-    "source": "Bobby Watley",
-    "target": "Eugene Barr",
-    "targetId": "8039"
-  }
-]
+{
+  "source": "Bobby Watley",
+  "targets": [
+    {
+      "name": "Cecil Hunt",
+      "targetId": "8035"
+    },
+    {
+      "name": "Jimmy Munford",
+      "targetId": "8036"
+    },
+    {
+      "name": "Steve Weakley",
+      "targetId": "8037"
+    },
+    {
+      "name": "Eugene Barr",
+      "targetId": "8039"
+    }
+  ]
+}

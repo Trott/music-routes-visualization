@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Alan Shacklock",
-    "target": "Bud Beadle",
-    "targetId": "2910"
-  },
-  {
-    "source": "Alan Shacklock",
-    "target": "Steve Gregory",
-    "targetId": "2911"
-  },
-  {
-    "source": "Alan Shacklock",
-    "target": "Dave Hewitt",
-    "targetId": "8615"
-  },
-  {
-    "source": "Alan Shacklock",
-    "target": "Dave Punshon",
-    "targetId": "8616"
-  },
-  {
-    "source": "Alan Shacklock",
-    "target": "Ron Carthy",
-    "targetId": "8617"
-  },
-  {
-    "source": "Alan Shacklock",
-    "target": "Jenny Haan",
-    "targetId": "8619"
-  }
-]
+{
+  "source": "Alan Shacklock",
+  "targets": [
+    {
+      "name": "Bud Beadle",
+      "targetId": "2910"
+    },
+    {
+      "name": "Steve Gregory",
+      "targetId": "2911"
+    },
+    {
+      "name": "Dave Hewitt",
+      "targetId": "8615"
+    },
+    {
+      "name": "Dave Punshon",
+      "targetId": "8616"
+    },
+    {
+      "name": "Ron Carthy",
+      "targetId": "8617"
+    },
+    {
+      "name": "Jenny Haan",
+      "targetId": "8619"
+    }
+  ]
+}

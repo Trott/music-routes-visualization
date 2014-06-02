@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Ian Hamer",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Ian Hamer",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Ian Hamer",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Ian Hamer",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Ian Hamer",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Ian Hamer",
-    "target": "Eddie Thornton",
-    "targetId": "3368"
-  },
-  {
-    "source": "Ian Hamer",
-    "target": "Peter Coe",
-    "targetId": "3369"
-  },
-  {
-    "source": "Ian Hamer",
-    "target": "Alan Branscombe",
-    "targetId": "3370"
-  },
-  {
-    "source": "Ian Hamer",
-    "target": "Les Condon",
-    "targetId": "3372"
-  }
-]
+{
+  "source": "Ian Hamer",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Eddie Thornton",
+      "targetId": "3368"
+    },
+    {
+      "name": "Peter Coe",
+      "targetId": "3369"
+    },
+    {
+      "name": "Alan Branscombe",
+      "targetId": "3370"
+    },
+    {
+      "name": "Les Condon",
+      "targetId": "3372"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Chris Whitten",
-    "target": "Jeff Trott",
-    "targetId": "1022"
-  },
-  {
-    "source": "Chris Whitten",
-    "target": "Guy Chambers",
-    "targetId": "6515"
-  },
-  {
-    "source": "Chris Whitten",
-    "target": "Karl Wallinger",
-    "targetId": "7000"
-  },
-  {
-    "source": "Chris Whitten",
-    "target": "Roy Morgan",
-    "targetId": "7002"
-  }
-]
+{
+  "source": "Chris Whitten",
+  "targets": [
+    {
+      "name": "Jeff Trott",
+      "targetId": "1022"
+    },
+    {
+      "name": "Guy Chambers",
+      "targetId": "6515"
+    },
+    {
+      "name": "Karl Wallinger",
+      "targetId": "7000"
+    },
+    {
+      "name": "Roy Morgan",
+      "targetId": "7002"
+    }
+  ]
+}

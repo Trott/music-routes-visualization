@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brian Stanley",
-    "target": "Tommy Shaw",
-    "targetId": "2889"
-  },
-  {
-    "source": "Brian Stanley",
-    "target": "Peter Wood",
-    "targetId": "7845"
-  },
-  {
-    "source": "Brian Stanley",
-    "target": "Steve Holley",
-    "targetId": "7847"
-  }
-]
+{
+  "source": "Brian Stanley",
+  "targets": [
+    {
+      "name": "Tommy Shaw",
+      "targetId": "2889"
+    },
+    {
+      "name": "Peter Wood",
+      "targetId": "7845"
+    },
+    {
+      "name": "Steve Holley",
+      "targetId": "7847"
+    }
+  ]
+}

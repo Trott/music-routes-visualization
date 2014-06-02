@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John Suzuki",
-    "target": "Tricky",
-    "targetId": "1714"
-  },
-  {
-    "source": "John Suzuki",
-    "target": "Mikio Endo",
-    "targetId": "1730"
-  },
-  {
-    "source": "John Suzuki",
-    "target": "Yukiko Takahashi",
-    "targetId": "1732"
-  }
-]
+{
+  "source": "John Suzuki",
+  "targets": [
+    {
+      "name": "Tricky",
+      "targetId": "1714"
+    },
+    {
+      "name": "Mikio Endo",
+      "targetId": "1730"
+    },
+    {
+      "name": "Yukiko Takahashi",
+      "targetId": "1732"
+    }
+  ]
+}

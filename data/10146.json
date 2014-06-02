@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Wardell Gray",
-    "target": "Red Callender",
-    "targetId": "382"
-  },
-  {
-    "source": "Wardell Gray",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Wardell Gray",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Wardell Gray",
-    "target": "Howard McGhee",
-    "targetId": "10139"
-  },
-  {
-    "source": "Wardell Gray",
-    "target": "Dodo Marmarosa",
-    "targetId": "10142"
-  },
-  {
-    "source": "Wardell Gray",
-    "target": "Don Lamond",
-    "targetId": "10147"
-  }
-]
+{
+  "source": "Wardell Gray",
+  "targets": [
+    {
+      "name": "Red Callender",
+      "targetId": "382"
+    },
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Howard McGhee",
+      "targetId": "10139"
+    },
+    {
+      "name": "Dodo Marmarosa",
+      "targetId": "10142"
+    },
+    {
+      "name": "Don Lamond",
+      "targetId": "10147"
+    }
+  ]
+}

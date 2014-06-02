@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Tav Falco",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "Tav Falco",
-    "target": "Ross Johnson",
-    "targetId": "4991"
-  },
-  {
-    "source": "Tav Falco",
-    "target": "Jack \"Oblivian\" Yarber",
-    "targetId": "5405"
-  },
-  {
-    "source": "Tav Falco",
-    "target": "Eric Hill",
-    "targetId": "5408"
-  },
-  {
-    "source": "Tav Falco",
-    "target": "Kitty Fires",
-    "targetId": "5409"
-  },
-  {
-    "source": "Tav Falco",
-    "target": "Brendan Spengler",
-    "targetId": "5410"
-  },
-  {
-    "source": "Tav Falco",
-    "target": "Roland Robinson",
-    "targetId": "5455"
-  }
-]
+{
+  "source": "Tav Falco",
+  "targets": [
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Ross Johnson",
+      "targetId": "4991"
+    },
+    {
+      "name": "Jack \"Oblivian\" Yarber",
+      "targetId": "5405"
+    },
+    {
+      "name": "Eric Hill",
+      "targetId": "5408"
+    },
+    {
+      "name": "Kitty Fires",
+      "targetId": "5409"
+    },
+    {
+      "name": "Brendan Spengler",
+      "targetId": "5410"
+    },
+    {
+      "name": "Roland Robinson",
+      "targetId": "5455"
+    }
+  ]
+}

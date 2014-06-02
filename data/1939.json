@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jimmy Wyble",
-    "target": "Robert Drasnin",
-    "targetId": "836"
-  },
-  {
-    "source": "Jimmy Wyble",
-    "target": "Red Norvo",
-    "targetId": "1933"
-  },
-  {
-    "source": "Jimmy Wyble",
-    "target": "Buddy Clark",
-    "targetId": "1940"
-  },
-  {
-    "source": "Jimmy Wyble",
-    "target": "Bill Douglass",
-    "targetId": "1941"
-  }
-]
+{
+  "source": "Jimmy Wyble",
+  "targets": [
+    {
+      "name": "Robert Drasnin",
+      "targetId": "836"
+    },
+    {
+      "name": "Red Norvo",
+      "targetId": "1933"
+    },
+    {
+      "name": "Buddy Clark",
+      "targetId": "1940"
+    },
+    {
+      "name": "Bill Douglass",
+      "targetId": "1941"
+    }
+  ]
+}

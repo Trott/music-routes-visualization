@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Steve \"Fuzz\" Kmak",
-    "target": "David Draiman",
-    "targetId": "6319"
-  },
-  {
-    "source": "Steve \"Fuzz\" Kmak",
-    "target": "Dan Donegan",
-    "targetId": "6320"
-  },
-  {
-    "source": "Steve \"Fuzz\" Kmak",
-    "target": "Mike Wengren",
-    "targetId": "6322"
-  }
-]
+{
+  "source": "Steve \"Fuzz\" Kmak",
+  "targets": [
+    {
+      "name": "David Draiman",
+      "targetId": "6319"
+    },
+    {
+      "name": "Dan Donegan",
+      "targetId": "6320"
+    },
+    {
+      "name": "Mike Wengren",
+      "targetId": "6322"
+    }
+  ]
+}

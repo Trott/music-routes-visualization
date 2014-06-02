@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Billy Burnette",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Billy Burnette",
-    "target": "Mick Fleetwood",
-    "targetId": "347"
-  },
-  {
-    "source": "Billy Burnette",
-    "target": "John McVie",
-    "targetId": "348"
-  },
-  {
-    "source": "Billy Burnette",
-    "target": "Christie McVie",
-    "targetId": "407"
-  },
-  {
-    "source": "Billy Burnette",
-    "target": "Dave Mason",
-    "targetId": "635"
-  },
-  {
-    "source": "Billy Burnette",
-    "target": "Bekka Bramlett",
-    "targetId": "636"
-  }
-]
+{
+  "source": "Billy Burnette",
+  "targets": [
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "targetId": "347"
+    },
+    {
+      "name": "John McVie",
+      "targetId": "348"
+    },
+    {
+      "name": "Christie McVie",
+      "targetId": "407"
+    },
+    {
+      "name": "Dave Mason",
+      "targetId": "635"
+    },
+    {
+      "name": "Bekka Bramlett",
+      "targetId": "636"
+    }
+  ]
+}

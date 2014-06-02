@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Angelo Moore",
-    "target": "Darrin Pfeiffer",
-    "targetId": "8422"
-  },
-  {
-    "source": "Angelo Moore",
-    "target": "John Feldmann",
-    "targetId": "8423"
-  },
-  {
-    "source": "Angelo Moore",
-    "target": "Simon Williams",
-    "targetId": "8425"
-  },
-  {
-    "source": "Angelo Moore",
-    "target": "Charlie Paulson",
-    "targetId": "8426"
-  }
-]
+{
+  "source": "Angelo Moore",
+  "targets": [
+    {
+      "name": "Darrin Pfeiffer",
+      "targetId": "8422"
+    },
+    {
+      "name": "John Feldmann",
+      "targetId": "8423"
+    },
+    {
+      "name": "Simon Williams",
+      "targetId": "8425"
+    },
+    {
+      "name": "Charlie Paulson",
+      "targetId": "8426"
+    }
+  ]
+}

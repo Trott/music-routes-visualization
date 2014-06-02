@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Joe Franco",
-    "target": "Al Pitrelli",
-    "targetId": "3643"
-  },
-  {
-    "source": "Joe Franco",
-    "target": "Ted Poley",
-    "targetId": "4404"
-  },
-  {
-    "source": "Joe Franco",
-    "target": "Bruno Ravel",
-    "targetId": "4408"
-  }
-]
+{
+  "source": "Joe Franco",
+  "targets": [
+    {
+      "name": "Al Pitrelli",
+      "targetId": "3643"
+    },
+    {
+      "name": "Ted Poley",
+      "targetId": "4404"
+    },
+    {
+      "name": "Bruno Ravel",
+      "targetId": "4408"
+    }
+  ]
+}

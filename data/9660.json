@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Graham Hughes",
-    "target": "Britt Daniel",
-    "targetId": "9654"
-  },
-  {
-    "source": "Graham Hughes",
-    "target": "Eric Harvey",
-    "targetId": "9655"
-  },
-  {
-    "source": "Graham Hughes",
-    "target": "Jim Eno",
-    "targetId": "9656"
-  },
-  {
-    "source": "Graham Hughes",
-    "target": "Rob Pope",
-    "targetId": "9657"
-  }
-]
+{
+  "source": "Graham Hughes",
+  "targets": [
+    {
+      "name": "Britt Daniel",
+      "targetId": "9654"
+    },
+    {
+      "name": "Eric Harvey",
+      "targetId": "9655"
+    },
+    {
+      "name": "Jim Eno",
+      "targetId": "9656"
+    },
+    {
+      "name": "Rob Pope",
+      "targetId": "9657"
+    }
+  ]
+}

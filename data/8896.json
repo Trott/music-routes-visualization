@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Robert Hecker",
-    "target": "Paul Roessler",
-    "targetId": "764"
-  },
-  {
-    "source": "Robert Hecker",
-    "target": "Steve McDonald",
-    "targetId": "3009"
-  },
-  {
-    "source": "Robert Hecker",
-    "target": "Victor Indrizzo",
-    "targetId": "3432"
-  },
-  {
-    "source": "Robert Hecker",
-    "target": "Jeff McDonald",
-    "targetId": "8897"
-  },
-  {
-    "source": "Robert Hecker",
-    "target": "Roy McDonald",
-    "targetId": "8904"
-  }
-]
+{
+  "source": "Robert Hecker",
+  "targets": [
+    {
+      "name": "Paul Roessler",
+      "targetId": "764"
+    },
+    {
+      "name": "Steve McDonald",
+      "targetId": "3009"
+    },
+    {
+      "name": "Victor Indrizzo",
+      "targetId": "3432"
+    },
+    {
+      "name": "Jeff McDonald",
+      "targetId": "8897"
+    },
+    {
+      "name": "Roy McDonald",
+      "targetId": "8904"
+    }
+  ]
+}

@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Metcalfe",
-    "target": "Sally Herbert",
-    "targetId": "612"
-  },
-  {
-    "source": "John Metcalfe",
-    "target": "Mitchell Connelly",
-    "targetId": "6569"
-  },
-  {
-    "source": "John Metcalfe",
-    "target": "Angus Stone",
-    "targetId": "6570"
-  },
-  {
-    "source": "John Metcalfe",
-    "target": "Julia Stone",
-    "targetId": "6571"
-  },
-  {
-    "source": "John Metcalfe",
-    "target": "Ian Burdge",
-    "targetId": "6576"
-  },
-  {
-    "source": "John Metcalfe",
-    "target": "Calina De La Mare",
-    "targetId": "6578"
-  },
-  {
-    "source": "John Metcalfe",
-    "target": "Cameron Whipp",
-    "targetId": "6579"
-  }
-]
+{
+  "source": "John Metcalfe",
+  "targets": [
+    {
+      "name": "Sally Herbert",
+      "targetId": "612"
+    },
+    {
+      "name": "Mitchell Connelly",
+      "targetId": "6569"
+    },
+    {
+      "name": "Angus Stone",
+      "targetId": "6570"
+    },
+    {
+      "name": "Julia Stone",
+      "targetId": "6571"
+    },
+    {
+      "name": "Ian Burdge",
+      "targetId": "6576"
+    },
+    {
+      "name": "Calina De La Mare",
+      "targetId": "6578"
+    },
+    {
+      "name": "Cameron Whipp",
+      "targetId": "6579"
+    }
+  ]
+}

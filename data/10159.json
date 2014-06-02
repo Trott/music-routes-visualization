@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Richie La Bamba",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Richie La Bamba",
-    "target": "Roy Bittan",
-    "targetId": "463"
-  },
-  {
-    "source": "Richie La Bamba",
-    "target": "Danny Federici",
-    "targetId": "466"
-  },
-  {
-    "source": "Richie La Bamba",
-    "target": "Garry W. Tallent",
-    "targetId": "467"
-  },
-  {
-    "source": "Richie La Bamba",
-    "target": "Max Weinberg",
-    "targetId": "468"
-  },
-  {
-    "source": "Richie La Bamba",
-    "target": "Steve Van Zandt",
-    "targetId": "5079"
-  }
-]
+{
+  "source": "Richie La Bamba",
+  "targets": [
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Roy Bittan",
+      "targetId": "463"
+    },
+    {
+      "name": "Danny Federici",
+      "targetId": "466"
+    },
+    {
+      "name": "Garry W. Tallent",
+      "targetId": "467"
+    },
+    {
+      "name": "Max Weinberg",
+      "targetId": "468"
+    },
+    {
+      "name": "Steve Van Zandt",
+      "targetId": "5079"
+    }
+  ]
+}

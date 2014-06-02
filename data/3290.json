@@ -1,22 +1,21 @@
-[
-  {
-    "source": "George Whitsell",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "George Whitsell",
-    "target": "Ben Keith",
-    "targetId": "512"
-  },
-  {
-    "source": "George Whitsell",
-    "target": "Ralph Molina",
-    "targetId": "3288"
-  },
-  {
-    "source": "George Whitsell",
-    "target": "Tim Drummond",
-    "targetId": "3289"
-  }
-]
+{
+  "source": "George Whitsell",
+  "targets": [
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "Ben Keith",
+      "targetId": "512"
+    },
+    {
+      "name": "Ralph Molina",
+      "targetId": "3288"
+    },
+    {
+      "name": "Tim Drummond",
+      "targetId": "3289"
+    }
+  ]
+}

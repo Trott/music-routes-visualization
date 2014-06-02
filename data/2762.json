@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Kay Hanley",
-    "target": "Matthew Sweet",
-    "targetId": "2765"
-  },
-  {
-    "source": "Kay Hanley",
-    "target": "Ric Menck",
-    "targetId": "2766"
-  },
-  {
-    "source": "Kay Hanley",
-    "target": "Bif Naked",
-    "targetId": "2767"
-  },
-  {
-    "source": "Kay Hanley",
-    "target": "Ninette Terhart",
-    "targetId": "2768"
-  },
-  {
-    "source": "Kay Hanley",
-    "target": "David Gibbs",
-    "targetId": "5234"
-  }
-]
+{
+  "source": "Kay Hanley",
+  "targets": [
+    {
+      "name": "Matthew Sweet",
+      "targetId": "2765"
+    },
+    {
+      "name": "Ric Menck",
+      "targetId": "2766"
+    },
+    {
+      "name": "Bif Naked",
+      "targetId": "2767"
+    },
+    {
+      "name": "Ninette Terhart",
+      "targetId": "2768"
+    },
+    {
+      "name": "David Gibbs",
+      "targetId": "5234"
+    }
+  ]
+}

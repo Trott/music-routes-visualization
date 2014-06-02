@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Bob Carpenter",
-    "target": "Bernie Leadon",
-    "targetId": "381"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "Jerry Douglas",
-    "targetId": "583"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "Roy Huskey, Jr.",
-    "targetId": "2627"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "Mark O'Connor",
-    "targetId": "3127"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "Jeff Hanna",
-    "targetId": "3343"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "Jimmie Fadden",
-    "targetId": "3345"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "Jimmy Ibbotson",
-    "targetId": "3346"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "John McEuen",
-    "targetId": "4828"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "Michael Martin Murphy",
-    "targetId": "4843"
-  },
-  {
-    "source": "Bob Carpenter",
-    "target": "Randy Scruggs",
-    "targetId": "4844"
-  }
-]
+{
+  "source": "Bob Carpenter",
+  "targets": [
+    {
+      "name": "Bernie Leadon",
+      "targetId": "381"
+    },
+    {
+      "name": "Jerry Douglas",
+      "targetId": "583"
+    },
+    {
+      "name": "Roy Huskey, Jr.",
+      "targetId": "2627"
+    },
+    {
+      "name": "Mark O'Connor",
+      "targetId": "3127"
+    },
+    {
+      "name": "Jeff Hanna",
+      "targetId": "3343"
+    },
+    {
+      "name": "Jimmie Fadden",
+      "targetId": "3345"
+    },
+    {
+      "name": "Jimmy Ibbotson",
+      "targetId": "3346"
+    },
+    {
+      "name": "John McEuen",
+      "targetId": "4828"
+    },
+    {
+      "name": "Michael Martin Murphy",
+      "targetId": "4843"
+    },
+    {
+      "name": "Randy Scruggs",
+      "targetId": "4844"
+    }
+  ]
+}

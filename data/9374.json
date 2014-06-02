@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Frank Delgado",
-    "target": "Maynard James Keenan",
-    "targetId": "8028"
-  },
-  {
-    "source": "Frank Delgado",
-    "target": "Stephen Carpenter",
-    "targetId": "9371"
-  },
-  {
-    "source": "Frank Delgado",
-    "target": "Chi Cheng",
-    "targetId": "9372"
-  },
-  {
-    "source": "Frank Delgado",
-    "target": "Abe Cunningham",
-    "targetId": "9373"
-  },
-  {
-    "source": "Frank Delgado",
-    "target": "Chino Moreno",
-    "targetId": "9375"
-  }
-]
+{
+  "source": "Frank Delgado",
+  "targets": [
+    {
+      "name": "Maynard James Keenan",
+      "targetId": "8028"
+    },
+    {
+      "name": "Stephen Carpenter",
+      "targetId": "9371"
+    },
+    {
+      "name": "Chi Cheng",
+      "targetId": "9372"
+    },
+    {
+      "name": "Abe Cunningham",
+      "targetId": "9373"
+    },
+    {
+      "name": "Chino Moreno",
+      "targetId": "9375"
+    }
+  ]
+}

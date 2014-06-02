@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Steve White",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Steve White",
-    "target": "Paul Weller",
-    "targetId": "113"
-  },
-  {
-    "source": "Steve White",
-    "target": "Carleen Anderson",
-    "targetId": "2064"
-  },
-  {
-    "source": "Steve White",
-    "target": "Steve Cradock",
-    "targetId": "2066"
-  },
-  {
-    "source": "Steve White",
-    "target": "Noel Gallagher",
-    "targetId": "2067"
-  },
-  {
-    "source": "Steve White",
-    "target": "Mick Talbot",
-    "targetId": "10959"
-  },
-  {
-    "source": "Steve White",
-    "target": "Dee C. Lee",
-    "targetId": "10960"
-  },
-  {
-    "source": "Steve White",
-    "target": "Carmelle Hinds",
-    "targetId": "10961"
-  },
-  {
-    "source": "Steve White",
-    "target": "Chris Lawrence",
-    "targetId": "10962"
-  },
-  {
-    "source": "Steve White",
-    "target": "Damon Minchella",
-    "targetId": "10963"
-  },
-  {
-    "source": "Steve White",
-    "target": "Aziz Ibrahim",
-    "targetId": "10964"
-  }
-]
+{
+  "source": "Steve White",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Paul Weller",
+      "targetId": "113"
+    },
+    {
+      "name": "Carleen Anderson",
+      "targetId": "2064"
+    },
+    {
+      "name": "Steve Cradock",
+      "targetId": "2066"
+    },
+    {
+      "name": "Noel Gallagher",
+      "targetId": "2067"
+    },
+    {
+      "name": "Mick Talbot",
+      "targetId": "10959"
+    },
+    {
+      "name": "Dee C. Lee",
+      "targetId": "10960"
+    },
+    {
+      "name": "Carmelle Hinds",
+      "targetId": "10961"
+    },
+    {
+      "name": "Chris Lawrence",
+      "targetId": "10962"
+    },
+    {
+      "name": "Damon Minchella",
+      "targetId": "10963"
+    },
+    {
+      "name": "Aziz Ibrahim",
+      "targetId": "10964"
+    }
+  ]
+}

@@ -1,57 +1,49 @@
-[
-  {
-    "source": "Joe Clayton",
-    "target": "Bruce Johnston",
-    "targetId": "232"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Bill Payne",
-    "targetId": "280"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "David Crosby",
-    "targetId": "511"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Art Garfunkel",
-    "targetId": "1474"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Lon Van Eaton",
-    "targetId": "4577"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Rick Shlosser",
-    "targetId": "7975"
-  },
-  {
-    "source": "Joe Clayton",
-    "target": "Toni Tennille",
-    "targetId": "7977"
-  }
-]
+{
+  "source": "Joe Clayton",
+  "targets": [
+    {
+      "name": "Bruce Johnston",
+      "targetId": "232"
+    },
+    {
+      "name": "Bill Payne",
+      "targetId": "280"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "David Crosby",
+      "targetId": "511"
+    },
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "Art Garfunkel",
+      "targetId": "1474"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Lon Van Eaton",
+      "targetId": "4577"
+    },
+    {
+      "name": "Rick Shlosser",
+      "targetId": "7975"
+    },
+    {
+      "name": "Toni Tennille",
+      "targetId": "7977"
+    }
+  ]
+}

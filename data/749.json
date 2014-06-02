@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Dirnt",
-    "target": "Billie Joe Armstrong",
-    "targetId": "747"
-  },
-  {
-    "source": "Mike Dirnt",
-    "target": "Tré Cool",
-    "targetId": "748"
-  },
-  {
-    "source": "Mike Dirnt",
-    "target": "Kathleen Hanna",
-    "targetId": "750"
-  },
-  {
-    "source": "Mike Dirnt",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  }
-]
+{
+  "source": "Mike Dirnt",
+  "targets": [
+    {
+      "name": "Billie Joe Armstrong",
+      "targetId": "747"
+    },
+    {
+      "name": "Tré Cool",
+      "targetId": "748"
+    },
+    {
+      "name": "Kathleen Hanna",
+      "targetId": "750"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    }
+  ]
+}

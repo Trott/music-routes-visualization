@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dean Garcia",
-    "target": "Sascha Konietzko",
-    "targetId": "885"
-  },
-  {
-    "source": "Dean Garcia",
-    "target": "Lucia Cifarelli",
-    "targetId": "2380"
-  },
-  {
-    "source": "Dean Garcia",
-    "target": "Toni Halliday",
-    "targetId": "2381"
-  }
-]
+{
+  "source": "Dean Garcia",
+  "targets": [
+    {
+      "name": "Sascha Konietzko",
+      "targetId": "885"
+    },
+    {
+      "name": "Lucia Cifarelli",
+      "targetId": "2380"
+    },
+    {
+      "name": "Toni Halliday",
+      "targetId": "2381"
+    }
+  ]
+}

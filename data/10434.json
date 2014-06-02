@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Bryan Ewald",
-    "target": "Dennis Schocket",
-    "targetId": "10433"
-  },
-  {
-    "source": "Bryan Ewald",
-    "target": "Greg Schroeder",
-    "targetId": "10435"
-  }
-]
+{
+  "source": "Bryan Ewald",
+  "targets": [
+    {
+      "name": "Dennis Schocket",
+      "targetId": "10433"
+    },
+    {
+      "name": "Greg Schroeder",
+      "targetId": "10435"
+    }
+  ]
+}

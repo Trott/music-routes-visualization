@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Kim Gordon",
-    "target": "Steve Shelley",
-    "targetId": "770"
-  },
-  {
-    "source": "Kim Gordon",
-    "target": "Lee Ranaldo",
-    "targetId": "771"
-  },
-  {
-    "source": "Kim Gordon",
-    "target": "Thurston Moore",
-    "targetId": "772"
-  },
-  {
-    "source": "Kim Gordon",
-    "target": "Ian MacKaye",
-    "targetId": "3156"
-  }
-]
+{
+  "source": "Kim Gordon",
+  "targets": [
+    {
+      "name": "Steve Shelley",
+      "targetId": "770"
+    },
+    {
+      "name": "Lee Ranaldo",
+      "targetId": "771"
+    },
+    {
+      "name": "Thurston Moore",
+      "targetId": "772"
+    },
+    {
+      "name": "Ian MacKaye",
+      "targetId": "3156"
+    }
+  ]
+}

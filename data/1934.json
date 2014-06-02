@@ -1,222 +1,181 @@
-[
-  {
-    "source": "Charlie Parker",
-    "target": "Red Callender",
-    "targetId": "382"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Barney Kessel",
-    "targetId": "1485"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Dizzy Gillespie",
-    "targetId": "1928"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Lucky Thompson",
-    "targetId": "1930"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Red Norvo",
-    "targetId": "1933"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Flip Phillips",
-    "targetId": "1935"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Teddy Wilson",
-    "targetId": "1936"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Slam Stewart",
-    "targetId": "1937"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "J.C. Heard",
-    "targetId": "1938"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Tiny Grimes",
-    "targetId": "2943"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Curly Russell",
-    "targetId": "2945"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Nelson Boyd",
-    "targetId": "2946"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Tommy Potter",
-    "targetId": "2947"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Jimmy Butts",
-    "targetId": "2948"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Harold \"Doc\" West",
-    "targetId": "2949"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Max Roach",
-    "targetId": "2950"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Bud Powell",
-    "targetId": "2951"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Clyde Hart",
-    "targetId": "2952"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Duke Jordan",
-    "targetId": "2953"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "John Lewis",
-    "targetId": "2954"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Eddie Safranski",
-    "targetId": "6035"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Buddy DeFranco",
-    "targetId": "6036"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Shelly Manne",
-    "targetId": "6037"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Billy Bauer",
-    "targetId": "6038"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Lennie Tristano",
-    "targetId": "6039"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Ernie Caceres",
-    "targetId": "6040"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Charlie Ventura",
-    "targetId": "6041"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "J.J. Johnson",
-    "targetId": "6042"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Kai Winding",
-    "targetId": "6043"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Fats Navarro",
-    "targetId": "6044"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Jimmy Bunn",
-    "targetId": "10138"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Howard McGhee",
-    "targetId": "10139"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Bob Kesterson",
-    "targetId": "10140"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Roy Porter",
-    "targetId": "10141"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Dodo Marmarosa",
-    "targetId": "10142"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Vic McMillan",
-    "targetId": "10143"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Arv Garrison",
-    "targetId": "10144"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Erroll Garner",
-    "targetId": "10145"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Wardell Gray",
-    "targetId": "10146"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Don Lamond",
-    "targetId": "10147"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Walter Bishop",
-    "targetId": "10148"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Teddy Kotick",
-    "targetId": "10149"
-  },
-  {
-    "source": "Charlie Parker",
-    "target": "Sadik Hakim",
-    "targetId": "10150"
-  }
-]
+{
+  "source": "Charlie Parker",
+  "targets": [
+    {
+      "name": "Red Callender",
+      "targetId": "382"
+    },
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Barney Kessel",
+      "targetId": "1485"
+    },
+    {
+      "name": "Dizzy Gillespie",
+      "targetId": "1928"
+    },
+    {
+      "name": "Lucky Thompson",
+      "targetId": "1930"
+    },
+    {
+      "name": "Red Norvo",
+      "targetId": "1933"
+    },
+    {
+      "name": "Flip Phillips",
+      "targetId": "1935"
+    },
+    {
+      "name": "Teddy Wilson",
+      "targetId": "1936"
+    },
+    {
+      "name": "Slam Stewart",
+      "targetId": "1937"
+    },
+    {
+      "name": "J.C. Heard",
+      "targetId": "1938"
+    },
+    {
+      "name": "Tiny Grimes",
+      "targetId": "2943"
+    },
+    {
+      "name": "Curly Russell",
+      "targetId": "2945"
+    },
+    {
+      "name": "Nelson Boyd",
+      "targetId": "2946"
+    },
+    {
+      "name": "Tommy Potter",
+      "targetId": "2947"
+    },
+    {
+      "name": "Jimmy Butts",
+      "targetId": "2948"
+    },
+    {
+      "name": "Harold \"Doc\" West",
+      "targetId": "2949"
+    },
+    {
+      "name": "Max Roach",
+      "targetId": "2950"
+    },
+    {
+      "name": "Bud Powell",
+      "targetId": "2951"
+    },
+    {
+      "name": "Clyde Hart",
+      "targetId": "2952"
+    },
+    {
+      "name": "Duke Jordan",
+      "targetId": "2953"
+    },
+    {
+      "name": "John Lewis",
+      "targetId": "2954"
+    },
+    {
+      "name": "Eddie Safranski",
+      "targetId": "6035"
+    },
+    {
+      "name": "Buddy DeFranco",
+      "targetId": "6036"
+    },
+    {
+      "name": "Shelly Manne",
+      "targetId": "6037"
+    },
+    {
+      "name": "Billy Bauer",
+      "targetId": "6038"
+    },
+    {
+      "name": "Lennie Tristano",
+      "targetId": "6039"
+    },
+    {
+      "name": "Ernie Caceres",
+      "targetId": "6040"
+    },
+    {
+      "name": "Charlie Ventura",
+      "targetId": "6041"
+    },
+    {
+      "name": "J.J. Johnson",
+      "targetId": "6042"
+    },
+    {
+      "name": "Kai Winding",
+      "targetId": "6043"
+    },
+    {
+      "name": "Fats Navarro",
+      "targetId": "6044"
+    },
+    {
+      "name": "Jimmy Bunn",
+      "targetId": "10138"
+    },
+    {
+      "name": "Howard McGhee",
+      "targetId": "10139"
+    },
+    {
+      "name": "Bob Kesterson",
+      "targetId": "10140"
+    },
+    {
+      "name": "Roy Porter",
+      "targetId": "10141"
+    },
+    {
+      "name": "Dodo Marmarosa",
+      "targetId": "10142"
+    },
+    {
+      "name": "Vic McMillan",
+      "targetId": "10143"
+    },
+    {
+      "name": "Arv Garrison",
+      "targetId": "10144"
+    },
+    {
+      "name": "Erroll Garner",
+      "targetId": "10145"
+    },
+    {
+      "name": "Wardell Gray",
+      "targetId": "10146"
+    },
+    {
+      "name": "Don Lamond",
+      "targetId": "10147"
+    },
+    {
+      "name": "Walter Bishop",
+      "targetId": "10148"
+    },
+    {
+      "name": "Teddy Kotick",
+      "targetId": "10149"
+    },
+    {
+      "name": "Sadik Hakim",
+      "targetId": "10150"
+    }
+  ]
+}

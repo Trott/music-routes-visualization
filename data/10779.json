@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Chris Adler",
-    "target": "Steve Austin",
-    "targetId": "10777"
-  },
-  {
-    "source": "Chris Adler",
-    "target": "Randy Blythe",
-    "targetId": "10778"
-  },
-  {
-    "source": "Chris Adler",
-    "target": "Willie Adler",
-    "targetId": "10780"
-  },
-  {
-    "source": "Chris Adler",
-    "target": "Mark Duane Morton",
-    "targetId": "10781"
-  }
-]
+{
+  "source": "Chris Adler",
+  "targets": [
+    {
+      "name": "Steve Austin",
+      "targetId": "10777"
+    },
+    {
+      "name": "Randy Blythe",
+      "targetId": "10778"
+    },
+    {
+      "name": "Willie Adler",
+      "targetId": "10780"
+    },
+    {
+      "name": "Mark Duane Morton",
+      "targetId": "10781"
+    }
+  ]
+}

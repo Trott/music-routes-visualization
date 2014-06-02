@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Mackay",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Steve Mackay",
-    "target": "Dave Alexander",
-    "targetId": "3087"
-  },
-  {
-    "source": "Steve Mackay",
-    "target": "Ron Asheton",
-    "targetId": "3088"
-  },
-  {
-    "source": "Steve Mackay",
-    "target": "Scott Asheton",
-    "targetId": "3089"
-  }
-]
+{
+  "source": "Steve Mackay",
+  "targets": [
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Dave Alexander",
+      "targetId": "3087"
+    },
+    {
+      "name": "Ron Asheton",
+      "targetId": "3088"
+    },
+    {
+      "name": "Scott Asheton",
+      "targetId": "3089"
+    }
+  ]
+}

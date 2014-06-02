@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Russ Blackmar",
-    "target": "Jonathan Segel",
-    "targetId": "1605"
-  },
-  {
-    "source": "Russ Blackmar",
-    "target": "Jane Thompson",
-    "targetId": "3488"
-  }
-]
+{
+  "source": "Russ Blackmar",
+  "targets": [
+    {
+      "name": "Jonathan Segel",
+      "targetId": "1605"
+    },
+    {
+      "name": "Jane Thompson",
+      "targetId": "3488"
+    }
+  ]
+}

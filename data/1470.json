@@ -1,17 +1,17 @@
-[
-  {
-    "source": "David Gates",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "David Gates",
-    "target": "Jimmy Griffin",
-    "targetId": "1471"
-  },
-  {
-    "source": "David Gates",
-    "target": "Mike Botts",
-    "targetId": "1472"
-  }
-]
+{
+  "source": "David Gates",
+  "targets": [
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Jimmy Griffin",
+      "targetId": "1471"
+    },
+    {
+      "name": "Mike Botts",
+      "targetId": "1472"
+    }
+  ]
+}

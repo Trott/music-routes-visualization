@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Richard Hell",
-    "target": "Steve Shelley",
-    "targetId": "770"
-  },
-  {
-    "source": "Richard Hell",
-    "target": "Thurston Moore",
-    "targetId": "772"
-  },
-  {
-    "source": "Richard Hell",
-    "target": "Robert Quine",
-    "targetId": "2770"
-  },
-  {
-    "source": "Richard Hell",
-    "target": "Jad Fair",
-    "targetId": "3633"
-  },
-  {
-    "source": "Richard Hell",
-    "target": "Don Fleming",
-    "targetId": "3634"
-  }
-]
+{
+  "source": "Richard Hell",
+  "targets": [
+    {
+      "name": "Steve Shelley",
+      "targetId": "770"
+    },
+    {
+      "name": "Thurston Moore",
+      "targetId": "772"
+    },
+    {
+      "name": "Robert Quine",
+      "targetId": "2770"
+    },
+    {
+      "name": "Jad Fair",
+      "targetId": "3633"
+    },
+    {
+      "name": "Don Fleming",
+      "targetId": "3634"
+    }
+  ]
+}

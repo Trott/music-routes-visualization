@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Jerry Cantrell",
-    "target": "Layne Staley",
-    "targetId": "2013"
-  },
-  {
-    "source": "Jerry Cantrell",
-    "target": "Sean Kinney",
-    "targetId": "2015"
-  },
-  {
-    "source": "Jerry Cantrell",
-    "target": "Mike Inez",
-    "targetId": "2016"
-  },
-  {
-    "source": "Jerry Cantrell",
-    "target": "Chris Cornell",
-    "targetId": "2019"
-  },
-  {
-    "source": "Jerry Cantrell",
-    "target": "Mark Arm",
-    "targetId": "3649"
-  },
-  {
-    "source": "Jerry Cantrell",
-    "target": "Michael Starr",
-    "targetId": "4038"
-  },
-  {
-    "source": "Jerry Cantrell",
-    "target": "Ann Wilson",
-    "targetId": "4039"
-  }
-]
+{
+  "source": "Jerry Cantrell",
+  "targets": [
+    {
+      "name": "Layne Staley",
+      "targetId": "2013"
+    },
+    {
+      "name": "Sean Kinney",
+      "targetId": "2015"
+    },
+    {
+      "name": "Mike Inez",
+      "targetId": "2016"
+    },
+    {
+      "name": "Chris Cornell",
+      "targetId": "2019"
+    },
+    {
+      "name": "Mark Arm",
+      "targetId": "3649"
+    },
+    {
+      "name": "Michael Starr",
+      "targetId": "4038"
+    },
+    {
+      "name": "Ann Wilson",
+      "targetId": "4039"
+    }
+  ]
+}

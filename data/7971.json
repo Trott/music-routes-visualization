@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jason McGerr",
-    "target": "Ben Gibbard",
-    "targetId": "6919"
-  },
-  {
-    "source": "Jason McGerr",
-    "target": "Chris Walla",
-    "targetId": "6921"
-  },
-  {
-    "source": "Jason McGerr",
-    "target": "Nicholas Harmer",
-    "targetId": "6922"
-  }
-]
+{
+  "source": "Jason McGerr",
+  "targets": [
+    {
+      "name": "Ben Gibbard",
+      "targetId": "6919"
+    },
+    {
+      "name": "Chris Walla",
+      "targetId": "6921"
+    },
+    {
+      "name": "Nicholas Harmer",
+      "targetId": "6922"
+    }
+  ]
+}

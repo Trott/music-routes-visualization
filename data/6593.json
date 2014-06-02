@@ -1,212 +1,173 @@
-[
-  {
-    "source": "Grace Jones",
-    "target": "John Taylor",
-    "targetId": "101"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Nick Rhodes",
-    "targetId": "130"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Tony Levin",
-    "targetId": "269"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Jon Anderson",
-    "targetId": "536"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Bruce Woolley",
-    "targetId": "860"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Curtis King",
-    "targetId": "1032"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Stan Harrison",
-    "targetId": "1248"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Warren Cuccurullo",
-    "targetId": "1339"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Lenny Pickett",
-    "targetId": "1428"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Nile Rodgers",
-    "targetId": "2204"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Steve Elson",
-    "targetId": "4017"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Mac Gollehon",
-    "targetId": "4019"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Cindy Mizelle",
-    "targetId": "4377"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Brenda White King",
-    "targetId": "4378"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Monte Brown",
-    "targetId": "6594"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Joe Leeway",
-    "targetId": "6595"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Tom Bailey",
-    "targetId": "6596"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Alannah Currie",
-    "targetId": "6597"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Clifford Lane",
-    "targetId": "6598"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Gary Barlough",
-    "targetId": "6599"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Jonathan Elias",
-    "targetId": "6600"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Gordon Gottlieb",
-    "targetId": "6601"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Sherman Foote",
-    "targetId": "6602"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Belen Pena Magena",
-    "targetId": "6608"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Jesus Ibanez Ramiezz",
-    "targetId": "6609"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Lazaro Arvizu",
-    "targetId": "6610"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Pedro Ruiz",
-    "targetId": "6611"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Sergio Ruiz",
-    "targetId": "6612"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Harvey Estrin",
-    "targetId": "6618"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Chip Jenkins",
-    "targetId": "6619"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Liam Ó Maonlai",
-    "targetId": "6620"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Terry G.",
-    "targetId": "6624"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "James Farber",
-    "targetId": "6625"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Philippe Saisse",
-    "targetId": "6626"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Scott Ansell",
-    "targetId": "6627"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Diane Garisto",
-    "targetId": "6628"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Felicia Collins",
-    "targetId": "6629"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Christian Jones",
-    "targetId": "6630"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Clarissa Dane",
-    "targetId": "6631"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Randall Coe",
-    "targetId": "6632"
-  },
-  {
-    "source": "Grace Jones",
-    "target": "Steven Gildenberg",
-    "targetId": "6633"
-  }
-]
+{
+  "source": "Grace Jones",
+  "targets": [
+    {
+      "name": "John Taylor",
+      "targetId": "101"
+    },
+    {
+      "name": "Nick Rhodes",
+      "targetId": "130"
+    },
+    {
+      "name": "Tony Levin",
+      "targetId": "269"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Jon Anderson",
+      "targetId": "536"
+    },
+    {
+      "name": "Bruce Woolley",
+      "targetId": "860"
+    },
+    {
+      "name": "Curtis King",
+      "targetId": "1032"
+    },
+    {
+      "name": "Stan Harrison",
+      "targetId": "1248"
+    },
+    {
+      "name": "Warren Cuccurullo",
+      "targetId": "1339"
+    },
+    {
+      "name": "Lenny Pickett",
+      "targetId": "1428"
+    },
+    {
+      "name": "Nile Rodgers",
+      "targetId": "2204"
+    },
+    {
+      "name": "Steve Elson",
+      "targetId": "4017"
+    },
+    {
+      "name": "Mac Gollehon",
+      "targetId": "4019"
+    },
+    {
+      "name": "Cindy Mizelle",
+      "targetId": "4377"
+    },
+    {
+      "name": "Brenda White King",
+      "targetId": "4378"
+    },
+    {
+      "name": "Monte Brown",
+      "targetId": "6594"
+    },
+    {
+      "name": "Joe Leeway",
+      "targetId": "6595"
+    },
+    {
+      "name": "Tom Bailey",
+      "targetId": "6596"
+    },
+    {
+      "name": "Alannah Currie",
+      "targetId": "6597"
+    },
+    {
+      "name": "Clifford Lane",
+      "targetId": "6598"
+    },
+    {
+      "name": "Gary Barlough",
+      "targetId": "6599"
+    },
+    {
+      "name": "Jonathan Elias",
+      "targetId": "6600"
+    },
+    {
+      "name": "Gordon Gottlieb",
+      "targetId": "6601"
+    },
+    {
+      "name": "Sherman Foote",
+      "targetId": "6602"
+    },
+    {
+      "name": "Belen Pena Magena",
+      "targetId": "6608"
+    },
+    {
+      "name": "Jesus Ibanez Ramiezz",
+      "targetId": "6609"
+    },
+    {
+      "name": "Lazaro Arvizu",
+      "targetId": "6610"
+    },
+    {
+      "name": "Pedro Ruiz",
+      "targetId": "6611"
+    },
+    {
+      "name": "Sergio Ruiz",
+      "targetId": "6612"
+    },
+    {
+      "name": "Harvey Estrin",
+      "targetId": "6618"
+    },
+    {
+      "name": "Chip Jenkins",
+      "targetId": "6619"
+    },
+    {
+      "name": "Liam Ó Maonlai",
+      "targetId": "6620"
+    },
+    {
+      "name": "Terry G.",
+      "targetId": "6624"
+    },
+    {
+      "name": "James Farber",
+      "targetId": "6625"
+    },
+    {
+      "name": "Philippe Saisse",
+      "targetId": "6626"
+    },
+    {
+      "name": "Scott Ansell",
+      "targetId": "6627"
+    },
+    {
+      "name": "Diane Garisto",
+      "targetId": "6628"
+    },
+    {
+      "name": "Felicia Collins",
+      "targetId": "6629"
+    },
+    {
+      "name": "Christian Jones",
+      "targetId": "6630"
+    },
+    {
+      "name": "Clarissa Dane",
+      "targetId": "6631"
+    },
+    {
+      "name": "Randall Coe",
+      "targetId": "6632"
+    },
+    {
+      "name": "Steven Gildenberg",
+      "targetId": "6633"
+    }
+  ]
+}

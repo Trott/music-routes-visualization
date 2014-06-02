@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Marty O'Brien",
-    "target": "Kelly Clarkson",
-    "targetId": "6254"
-  },
-  {
-    "source": "Marty O'Brien",
-    "target": "Mark Colbert",
-    "targetId": "6959"
-  },
-  {
-    "source": "Marty O'Brien",
-    "target": "Ben Moody",
-    "targetId": "6960"
-  },
-  {
-    "source": "Marty O'Brien",
-    "target": "David Hodges",
-    "targetId": "6961"
-  }
-]
+{
+  "source": "Marty O'Brien",
+  "targets": [
+    {
+      "name": "Kelly Clarkson",
+      "targetId": "6254"
+    },
+    {
+      "name": "Mark Colbert",
+      "targetId": "6959"
+    },
+    {
+      "name": "Ben Moody",
+      "targetId": "6960"
+    },
+    {
+      "name": "David Hodges",
+      "targetId": "6961"
+    }
+  ]
+}

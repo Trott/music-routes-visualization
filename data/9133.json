@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Tiffany",
-    "target": "John Duarte",
-    "targetId": "7210"
-  },
-  {
-    "source": "Tiffany",
-    "target": "Carl Verheyen",
-    "targetId": "9134"
-  }
-]
+{
+  "source": "Tiffany",
+  "targets": [
+    {
+      "name": "John Duarte",
+      "targetId": "7210"
+    },
+    {
+      "name": "Carl Verheyen",
+      "targetId": "9134"
+    }
+  ]
+}

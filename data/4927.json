@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Andy Kerr",
-    "target": "Jello Biafra",
-    "targetId": "2120"
-  },
-  {
-    "source": "Andy Kerr",
-    "target": "John Wright",
-    "targetId": "4922"
-  },
-  {
-    "source": "Andy Kerr",
-    "target": "Rob Wright",
-    "targetId": "4923"
-  }
-]
+{
+  "source": "Andy Kerr",
+  "targets": [
+    {
+      "name": "Jello Biafra",
+      "targetId": "2120"
+    },
+    {
+      "name": "John Wright",
+      "targetId": "4922"
+    },
+    {
+      "name": "Rob Wright",
+      "targetId": "4923"
+    }
+  ]
+}

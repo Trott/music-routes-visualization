@@ -1,42 +1,37 @@
-[
-  {
-    "source": "John Dwyer",
-    "target": "Matt Hartman",
-    "targetId": "5308"
-  },
-  {
-    "source": "John Dwyer",
-    "target": "Val-Tronic",
-    "targetId": "5310"
-  },
-  {
-    "source": "John Dwyer",
-    "target": "Shawn Greenlee",
-    "targetId": "5316"
-  },
-  {
-    "source": "John Dwyer",
-    "target": "Joel Kyack",
-    "targetId": "5317"
-  },
-  {
-    "source": "John Dwyer",
-    "target": "Rick Pelletier",
-    "targetId": "5318"
-  },
-  {
-    "source": "John Dwyer",
-    "target": "Dan St. Jacques",
-    "targetId": "5319"
-  },
-  {
-    "source": "John Dwyer",
-    "target": "Oran Canfield",
-    "targetId": "5502"
-  },
-  {
-    "source": "John Dwyer",
-    "target": "Nate Denver",
-    "targetId": "5503"
-  }
-]
+{
+  "source": "John Dwyer",
+  "targets": [
+    {
+      "name": "Matt Hartman",
+      "targetId": "5308"
+    },
+    {
+      "name": "Val-Tronic",
+      "targetId": "5310"
+    },
+    {
+      "name": "Shawn Greenlee",
+      "targetId": "5316"
+    },
+    {
+      "name": "Joel Kyack",
+      "targetId": "5317"
+    },
+    {
+      "name": "Rick Pelletier",
+      "targetId": "5318"
+    },
+    {
+      "name": "Dan St. Jacques",
+      "targetId": "5319"
+    },
+    {
+      "name": "Oran Canfield",
+      "targetId": "5502"
+    },
+    {
+      "name": "Nate Denver",
+      "targetId": "5503"
+    }
+  ]
+}

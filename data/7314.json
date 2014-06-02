@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Redfoo",
-    "target": "Jon Brion",
-    "targetId": "6653"
-  },
-  {
-    "source": "Redfoo",
-    "target": "Ken Jordan",
-    "targetId": "7309"
-  },
-  {
-    "source": "Redfoo",
-    "target": "Scott Kirkland",
-    "targetId": "7310"
-  },
-  {
-    "source": "Redfoo",
-    "target": "Sky Blu",
-    "targetId": "7315"
-  },
-  {
-    "source": "Redfoo",
-    "target": "Lil Jon",
-    "targetId": "7318"
-  }
-]
+{
+  "source": "Redfoo",
+  "targets": [
+    {
+      "name": "Jon Brion",
+      "targetId": "6653"
+    },
+    {
+      "name": "Ken Jordan",
+      "targetId": "7309"
+    },
+    {
+      "name": "Scott Kirkland",
+      "targetId": "7310"
+    },
+    {
+      "name": "Sky Blu",
+      "targetId": "7315"
+    },
+    {
+      "name": "Lil Jon",
+      "targetId": "7318"
+    }
+  ]
+}

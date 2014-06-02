@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jack McDuff",
-    "target": "Leo Wright",
-    "targetId": "7923"
-  },
-  {
-    "source": "Jack McDuff",
-    "target": "Joe Dukes",
-    "targetId": "7925"
-  },
-  {
-    "source": "Jack McDuff",
-    "target": "Kenny Burrell",
-    "targetId": "7926"
-  }
-]
+{
+  "source": "Jack McDuff",
+  "targets": [
+    {
+      "name": "Leo Wright",
+      "targetId": "7923"
+    },
+    {
+      "name": "Joe Dukes",
+      "targetId": "7925"
+    },
+    {
+      "name": "Kenny Burrell",
+      "targetId": "7926"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "David Baker",
-    "target": "Steve Swallow",
-    "targetId": "4635"
-  },
-  {
-    "source": "David Baker",
-    "target": "Eric Dolphy",
-    "targetId": "6872"
-  },
-  {
-    "source": "David Baker",
-    "target": "George Russell",
-    "targetId": "7134"
-  },
-  {
-    "source": "David Baker",
-    "target": "Don Ellis",
-    "targetId": "7135"
-  },
-  {
-    "source": "David Baker",
-    "target": "Joe Hunt",
-    "targetId": "7137"
-  }
-]
+{
+  "source": "David Baker",
+  "targets": [
+    {
+      "name": "Steve Swallow",
+      "targetId": "4635"
+    },
+    {
+      "name": "Eric Dolphy",
+      "targetId": "6872"
+    },
+    {
+      "name": "George Russell",
+      "targetId": "7134"
+    },
+    {
+      "name": "Don Ellis",
+      "targetId": "7135"
+    },
+    {
+      "name": "Joe Hunt",
+      "targetId": "7137"
+    }
+  ]
+}

@@ -1,217 +1,177 @@
-[
-  {
-    "source": "Michael Boddicker",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Glenn Frey",
-    "targetId": "379"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Don Henley",
-    "targetId": "380"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Willie Weeks",
-    "targetId": "384"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Milt Holland",
-    "targetId": "388"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "J.D. Souther",
-    "targetId": "390"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Timothy B. Schmit",
-    "targetId": "391"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Joe Walsh",
-    "targetId": "392"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Rick Marotta",
-    "targetId": "393"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "David Sheilds",
-    "targetId": "394"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Carlos Vega",
-    "targetId": "395"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Victor Feldman",
-    "targetId": "396"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Chuck Findley",
-    "targetId": "397"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Stephen Bishop",
-    "targetId": "398"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Valerie Carter",
-    "targetId": "399"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Arno Lucas",
-    "targetId": "400"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "David Paich",
-    "targetId": "401"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Christie McVie",
-    "targetId": "407"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Rickie Lee Jones",
-    "targetId": "409"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Leslie Smith",
-    "targetId": "410"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Paulinho Da Costa",
-    "targetId": "411"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Steve Madaio",
-    "targetId": "412"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Ernie Watts",
-    "targetId": "413"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Bob Seger",
-    "targetId": "415"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Ralph Grierson",
-    "targetId": "416"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Bill Wolfer",
-    "targetId": "893"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Louis Johnson",
-    "targetId": "3397"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Greg Smith",
-    "targetId": "3774"
-  },
-  {
-    "source": "Michael Boddicker",
-    "target": "Leon Ngudu Chancler",
-    "targetId": "3775"
-  }
-]
+{
+  "source": "Michael Boddicker",
+  "targets": [
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Glenn Frey",
+      "targetId": "379"
+    },
+    {
+      "name": "Don Henley",
+      "targetId": "380"
+    },
+    {
+      "name": "Willie Weeks",
+      "targetId": "384"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Milt Holland",
+      "targetId": "388"
+    },
+    {
+      "name": "J.D. Souther",
+      "targetId": "390"
+    },
+    {
+      "name": "Timothy B. Schmit",
+      "targetId": "391"
+    },
+    {
+      "name": "Joe Walsh",
+      "targetId": "392"
+    },
+    {
+      "name": "Rick Marotta",
+      "targetId": "393"
+    },
+    {
+      "name": "David Sheilds",
+      "targetId": "394"
+    },
+    {
+      "name": "Carlos Vega",
+      "targetId": "395"
+    },
+    {
+      "name": "Victor Feldman",
+      "targetId": "396"
+    },
+    {
+      "name": "Chuck Findley",
+      "targetId": "397"
+    },
+    {
+      "name": "Stephen Bishop",
+      "targetId": "398"
+    },
+    {
+      "name": "Valerie Carter",
+      "targetId": "399"
+    },
+    {
+      "name": "Arno Lucas",
+      "targetId": "400"
+    },
+    {
+      "name": "David Paich",
+      "targetId": "401"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "Christie McVie",
+      "targetId": "407"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Rickie Lee Jones",
+      "targetId": "409"
+    },
+    {
+      "name": "Leslie Smith",
+      "targetId": "410"
+    },
+    {
+      "name": "Paulinho Da Costa",
+      "targetId": "411"
+    },
+    {
+      "name": "Steve Madaio",
+      "targetId": "412"
+    },
+    {
+      "name": "Ernie Watts",
+      "targetId": "413"
+    },
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Bob Seger",
+      "targetId": "415"
+    },
+    {
+      "name": "Ralph Grierson",
+      "targetId": "416"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "Bill Wolfer",
+      "targetId": "893"
+    },
+    {
+      "name": "Louis Johnson",
+      "targetId": "3397"
+    },
+    {
+      "name": "Greg Smith",
+      "targetId": "3774"
+    },
+    {
+      "name": "Leon Ngudu Chancler",
+      "targetId": "3775"
+    }
+  ]
+}

@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Howard Brubeck",
-    "target": "Louis Armstrong",
-    "targetId": "1785"
-  },
-  {
-    "source": "Howard Brubeck",
-    "target": "Dave Brubeck",
-    "targetId": "4636"
-  },
-  {
-    "source": "Howard Brubeck",
-    "target": "Eugene Wright",
-    "targetId": "4638"
-  },
-  {
-    "source": "Howard Brubeck",
-    "target": "Joe Morello",
-    "targetId": "4639"
-  },
-  {
-    "source": "Howard Brubeck",
-    "target": "Dave Lambert",
-    "targetId": "5911"
-  },
-  {
-    "source": "Howard Brubeck",
-    "target": "Annie Ross",
-    "targetId": "5912"
-  },
-  {
-    "source": "Howard Brubeck",
-    "target": "Jon Hendricks",
-    "targetId": "5913"
-  }
-]
+{
+  "source": "Howard Brubeck",
+  "targets": [
+    {
+      "name": "Louis Armstrong",
+      "targetId": "1785"
+    },
+    {
+      "name": "Dave Brubeck",
+      "targetId": "4636"
+    },
+    {
+      "name": "Eugene Wright",
+      "targetId": "4638"
+    },
+    {
+      "name": "Joe Morello",
+      "targetId": "4639"
+    },
+    {
+      "name": "Dave Lambert",
+      "targetId": "5911"
+    },
+    {
+      "name": "Annie Ross",
+      "targetId": "5912"
+    },
+    {
+      "name": "Jon Hendricks",
+      "targetId": "5913"
+    }
+  ]
+}

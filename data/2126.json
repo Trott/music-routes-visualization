@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Allen Ginsberg",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Allen Ginsberg",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Allen Ginsberg",
-    "target": "Leonard Cohen",
-    "targetId": "2125"
-  },
-  {
-    "source": "Allen Ginsberg",
-    "target": "Bill Diez",
-    "targetId": "2127"
-  },
-  {
-    "source": "Allen Ginsberg",
-    "target": "Marc Ribot",
-    "targetId": "3588"
-  },
-  {
-    "source": "Allen Ginsberg",
-    "target": "David Mansfield",
-    "targetId": "3619"
-  },
-  {
-    "source": "Allen Ginsberg",
-    "target": "Philip Glass",
-    "targetId": "4929"
-  },
-  {
-    "source": "Allen Ginsberg",
-    "target": "Lenny Kaye",
-    "targetId": "4930"
-  }
-]
+{
+  "source": "Allen Ginsberg",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Leonard Cohen",
+      "targetId": "2125"
+    },
+    {
+      "name": "Bill Diez",
+      "targetId": "2127"
+    },
+    {
+      "name": "Marc Ribot",
+      "targetId": "3588"
+    },
+    {
+      "name": "David Mansfield",
+      "targetId": "3619"
+    },
+    {
+      "name": "Philip Glass",
+      "targetId": "4929"
+    },
+    {
+      "name": "Lenny Kaye",
+      "targetId": "4930"
+    }
+  ]
+}

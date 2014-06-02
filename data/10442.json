@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Manolo Badrena",
-    "target": "Jaco Pastorius",
-    "targetId": "345"
-  },
-  {
-    "source": "Manolo Badrena",
-    "target": "Wayne Shorter",
-    "targetId": "1631"
-  },
-  {
-    "source": "Manolo Badrena",
-    "target": "Joe Zawinul",
-    "targetId": "1640"
-  },
-  {
-    "source": "Manolo Badrena",
-    "target": "Alex Acuña",
-    "targetId": "5587"
-  }
-]
+{
+  "source": "Manolo Badrena",
+  "targets": [
+    {
+      "name": "Jaco Pastorius",
+      "targetId": "345"
+    },
+    {
+      "name": "Wayne Shorter",
+      "targetId": "1631"
+    },
+    {
+      "name": "Joe Zawinul",
+      "targetId": "1640"
+    },
+    {
+      "name": "Alex Acuña",
+      "targetId": "5587"
+    }
+  ]
+}

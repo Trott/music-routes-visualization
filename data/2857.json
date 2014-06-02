@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Robert Scott",
-    "target": "Stephin Merritt",
-    "targetId": "2850"
-  },
-  {
-    "source": "Robert Scott",
-    "target": "Michael Morley",
-    "targetId": "10936"
-  },
-  {
-    "source": "Robert Scott",
-    "target": "Chris Healy",
-    "targetId": "10938"
-  },
-  {
-    "source": "Robert Scott",
-    "target": "John Collie",
-    "targetId": "10939"
-  },
-  {
-    "source": "Robert Scott",
-    "target": "Shayne Carter",
-    "targetId": "10940"
-  },
-  {
-    "source": "Robert Scott",
-    "target": "Jeff Harford",
-    "targetId": "10941"
-  },
-  {
-    "source": "Robert Scott",
-    "target": "David Kilgour",
-    "targetId": "10942"
-  },
-  {
-    "source": "Robert Scott",
-    "target": "Hamish Kilgour",
-    "targetId": "10943"
-  }
-]
+{
+  "source": "Robert Scott",
+  "targets": [
+    {
+      "name": "Stephin Merritt",
+      "targetId": "2850"
+    },
+    {
+      "name": "Michael Morley",
+      "targetId": "10936"
+    },
+    {
+      "name": "Chris Healy",
+      "targetId": "10938"
+    },
+    {
+      "name": "John Collie",
+      "targetId": "10939"
+    },
+    {
+      "name": "Shayne Carter",
+      "targetId": "10940"
+    },
+    {
+      "name": "Jeff Harford",
+      "targetId": "10941"
+    },
+    {
+      "name": "David Kilgour",
+      "targetId": "10942"
+    },
+    {
+      "name": "Hamish Kilgour",
+      "targetId": "10943"
+    }
+  ]
+}

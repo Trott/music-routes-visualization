@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Martin Jackson",
-    "target": "Howard Devoto",
-    "targetId": "1626"
-  },
-  {
-    "source": "Martin Jackson",
-    "target": "John McGeoch",
-    "targetId": "1627"
-  },
-  {
-    "source": "Martin Jackson",
-    "target": "Barry Adamson",
-    "targetId": "1629"
-  }
-]
+{
+  "source": "Martin Jackson",
+  "targets": [
+    {
+      "name": "Howard Devoto",
+      "targetId": "1626"
+    },
+    {
+      "name": "John McGeoch",
+      "targetId": "1627"
+    },
+    {
+      "name": "Barry Adamson",
+      "targetId": "1629"
+    }
+  ]
+}

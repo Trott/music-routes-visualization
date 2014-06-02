@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Fee Waybill",
-    "target": "Randy Jackson",
-    "targetId": "59"
-  },
-  {
-    "source": "Fee Waybill",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Fee Waybill",
-    "target": "Tommy Lee",
-    "targetId": "1357"
-  },
-  {
-    "source": "Fee Waybill",
-    "target": "Dalbello",
-    "targetId": "2485"
-  },
-  {
-    "source": "Fee Waybill",
-    "target": "Tamara Champlin",
-    "targetId": "5797"
-  },
-  {
-    "source": "Fee Waybill",
-    "target": "Richard Marx",
-    "targetId": "5798"
-  },
-  {
-    "source": "Fee Waybill",
-    "target": "Ruth Marx",
-    "targetId": "5799"
-  }
-]
+{
+  "source": "Fee Waybill",
+  "targets": [
+    {
+      "name": "Randy Jackson",
+      "targetId": "59"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Tommy Lee",
+      "targetId": "1357"
+    },
+    {
+      "name": "Dalbello",
+      "targetId": "2485"
+    },
+    {
+      "name": "Tamara Champlin",
+      "targetId": "5797"
+    },
+    {
+      "name": "Richard Marx",
+      "targetId": "5798"
+    },
+    {
+      "name": "Ruth Marx",
+      "targetId": "5799"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "John Gosling",
-    "target": "Dave Davies",
-    "targetId": "2515"
-  },
-  {
-    "source": "John Gosling",
-    "target": "Ray Davies",
-    "targetId": "2516"
-  },
-  {
-    "source": "John Gosling",
-    "target": "Mick Avory",
-    "targetId": "2517"
-  },
-  {
-    "source": "John Gosling",
-    "target": "Andy Pyle",
-    "targetId": "2519"
-  }
-]
+{
+  "source": "John Gosling",
+  "targets": [
+    {
+      "name": "Dave Davies",
+      "targetId": "2515"
+    },
+    {
+      "name": "Ray Davies",
+      "targetId": "2516"
+    },
+    {
+      "name": "Mick Avory",
+      "targetId": "2517"
+    },
+    {
+      "name": "Andy Pyle",
+      "targetId": "2519"
+    }
+  ]
+}

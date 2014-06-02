@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ty Parker",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Ty Parker",
-    "target": "Andrew Poisoner",
-    "targetId": "13"
-  },
-  {
-    "source": "Ty Parker",
-    "target": "Tom Neely",
-    "targetId": "974"
-  },
-  {
-    "source": "Ty Parker",
-    "target": "Chris Marquis",
-    "targetId": "975"
-  },
-  {
-    "source": "Ty Parker",
-    "target": "Jon Hassan",
-    "targetId": "976"
-  }
-]
+{
+  "source": "Ty Parker",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Andrew Poisoner",
+      "targetId": "13"
+    },
+    {
+      "name": "Tom Neely",
+      "targetId": "974"
+    },
+    {
+      "name": "Chris Marquis",
+      "targetId": "975"
+    },
+    {
+      "name": "Jon Hassan",
+      "targetId": "976"
+    }
+  ]
+}

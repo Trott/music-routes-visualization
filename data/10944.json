@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Matt Reber",
-    "target": "Bill Randt",
-    "targetId": "10945"
-  },
-  {
-    "source": "Matt Reber",
-    "target": "Jim Weber",
-    "targetId": "10946"
-  },
-  {
-    "source": "Matt Reber",
-    "target": "Eric Davidson",
-    "targetId": "10947"
-  }
-]
+{
+  "source": "Matt Reber",
+  "targets": [
+    {
+      "name": "Bill Randt",
+      "targetId": "10945"
+    },
+    {
+      "name": "Jim Weber",
+      "targetId": "10946"
+    },
+    {
+      "name": "Eric Davidson",
+      "targetId": "10947"
+    }
+  ]
+}

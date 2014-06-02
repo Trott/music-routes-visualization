@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Mike Heidorn",
-    "target": "Jeff Tweedy",
-    "targetId": "1704"
-  },
-  {
-    "source": "Mike Heidorn",
-    "target": "John Keane",
-    "targetId": "2587"
-  },
-  {
-    "source": "Mike Heidorn",
-    "target": "Jay Farrar",
-    "targetId": "5061"
-  }
-]
+{
+  "source": "Mike Heidorn",
+  "targets": [
+    {
+      "name": "Jeff Tweedy",
+      "targetId": "1704"
+    },
+    {
+      "name": "John Keane",
+      "targetId": "2587"
+    },
+    {
+      "name": "Jay Farrar",
+      "targetId": "5061"
+    }
+  ]
+}

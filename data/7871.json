@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ellie Wyatt",
-    "target": "Rick Rodney",
-    "targetId": "7865"
-  },
-  {
-    "source": "Ellie Wyatt",
-    "target": "Chad Peterson",
-    "targetId": "7866"
-  },
-  {
-    "source": "Ellie Wyatt",
-    "target": "Sidney Niesen",
-    "targetId": "7867"
-  },
-  {
-    "source": "Ellie Wyatt",
-    "target": "Andrew Kline",
-    "targetId": "7868"
-  },
-  {
-    "source": "Ellie Wyatt",
-    "target": "Melody Rodney",
-    "targetId": "7872"
-  }
-]
+{
+  "source": "Ellie Wyatt",
+  "targets": [
+    {
+      "name": "Rick Rodney",
+      "targetId": "7865"
+    },
+    {
+      "name": "Chad Peterson",
+      "targetId": "7866"
+    },
+    {
+      "name": "Sidney Niesen",
+      "targetId": "7867"
+    },
+    {
+      "name": "Andrew Kline",
+      "targetId": "7868"
+    },
+    {
+      "name": "Melody Rodney",
+      "targetId": "7872"
+    }
+  ]
+}

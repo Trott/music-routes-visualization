@@ -1,167 +1,137 @@
-[
-  {
-    "source": "Tommy Lee",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Randy Jackson",
-    "targetId": "59"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Mick Mars",
-    "targetId": "165"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Vince Neil",
-    "targetId": "167"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "George Clinton",
-    "targetId": "206"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Elliot Easton",
-    "targetId": "957"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Nikki Sixx",
-    "targetId": "1292"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Gilby Clarke",
-    "targetId": "2017"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Bryan Adams",
-    "targetId": "2449"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Dalbello",
-    "targetId": "2485"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Jack Blades",
-    "targetId": "2887"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Bob Rock",
-    "targetId": "3766"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "David Steele",
-    "targetId": "3767"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Mark LaFrance",
-    "targetId": "3768"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Dave Kushner",
-    "targetId": "4383"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Fred Durst",
-    "targetId": "4385"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Fee Waybill",
-    "targetId": "5796"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Tamara Champlin",
-    "targetId": "5797"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Richard Marx",
-    "targetId": "5798"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Ruth Marx",
-    "targetId": "5799"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Chazz Coghlan",
-    "targetId": "5800"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Paul Hutchinson",
-    "targetId": "5801"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Jason Newsted",
-    "targetId": "6264"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Lukas Rossi",
-    "targetId": "6266"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Kelly LeMieux",
-    "targetId": "8419"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "John Feldmann",
-    "targetId": "8423"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Donni Campion",
-    "targetId": "8427"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Bobby Hewitt",
-    "targetId": "8428"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Lil' Kim",
-    "targetId": "8654"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "Mix Master Mike",
-    "targetId": "8655"
-  },
-  {
-    "source": "Tommy Lee",
-    "target": "TiLo",
-    "targetId": "8656"
-  }
-]
+{
+  "source": "Tommy Lee",
+  "targets": [
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Randy Jackson",
+      "targetId": "59"
+    },
+    {
+      "name": "Mick Mars",
+      "targetId": "165"
+    },
+    {
+      "name": "Vince Neil",
+      "targetId": "167"
+    },
+    {
+      "name": "George Clinton",
+      "targetId": "206"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Elliot Easton",
+      "targetId": "957"
+    },
+    {
+      "name": "Nikki Sixx",
+      "targetId": "1292"
+    },
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "Gilby Clarke",
+      "targetId": "2017"
+    },
+    {
+      "name": "Bryan Adams",
+      "targetId": "2449"
+    },
+    {
+      "name": "Dalbello",
+      "targetId": "2485"
+    },
+    {
+      "name": "Jack Blades",
+      "targetId": "2887"
+    },
+    {
+      "name": "Bob Rock",
+      "targetId": "3766"
+    },
+    {
+      "name": "David Steele",
+      "targetId": "3767"
+    },
+    {
+      "name": "Mark LaFrance",
+      "targetId": "3768"
+    },
+    {
+      "name": "Dave Kushner",
+      "targetId": "4383"
+    },
+    {
+      "name": "Fred Durst",
+      "targetId": "4385"
+    },
+    {
+      "name": "Fee Waybill",
+      "targetId": "5796"
+    },
+    {
+      "name": "Tamara Champlin",
+      "targetId": "5797"
+    },
+    {
+      "name": "Richard Marx",
+      "targetId": "5798"
+    },
+    {
+      "name": "Ruth Marx",
+      "targetId": "5799"
+    },
+    {
+      "name": "Chazz Coghlan",
+      "targetId": "5800"
+    },
+    {
+      "name": "Paul Hutchinson",
+      "targetId": "5801"
+    },
+    {
+      "name": "Jason Newsted",
+      "targetId": "6264"
+    },
+    {
+      "name": "Lukas Rossi",
+      "targetId": "6266"
+    },
+    {
+      "name": "Kelly LeMieux",
+      "targetId": "8419"
+    },
+    {
+      "name": "John Feldmann",
+      "targetId": "8423"
+    },
+    {
+      "name": "Donni Campion",
+      "targetId": "8427"
+    },
+    {
+      "name": "Bobby Hewitt",
+      "targetId": "8428"
+    },
+    {
+      "name": "Lil' Kim",
+      "targetId": "8654"
+    },
+    {
+      "name": "Mix Master Mike",
+      "targetId": "8655"
+    },
+    {
+      "name": "TiLo",
+      "targetId": "8656"
+    }
+  ]
+}

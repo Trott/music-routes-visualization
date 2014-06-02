@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Cass Elliot",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Cass Elliot",
-    "target": "Larry Knechtel",
-    "targetId": "1196"
-  },
-  {
-    "source": "Cass Elliot",
-    "target": "Joe Osborn",
-    "targetId": "1209"
-  },
-  {
-    "source": "Cass Elliot",
-    "target": "Michelle Phillips",
-    "targetId": "1675"
-  },
-  {
-    "source": "Cass Elliot",
-    "target": "John Phillips",
-    "targetId": "4132"
-  },
-  {
-    "source": "Cass Elliot",
-    "target": "Denny Doherty",
-    "targetId": "4134"
-  },
-  {
-    "source": "Cass Elliot",
-    "target": "P.F. Sloan",
-    "targetId": "4135"
-  }
-]
+{
+  "source": "Cass Elliot",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Larry Knechtel",
+      "targetId": "1196"
+    },
+    {
+      "name": "Joe Osborn",
+      "targetId": "1209"
+    },
+    {
+      "name": "Michelle Phillips",
+      "targetId": "1675"
+    },
+    {
+      "name": "John Phillips",
+      "targetId": "4132"
+    },
+    {
+      "name": "Denny Doherty",
+      "targetId": "4134"
+    },
+    {
+      "name": "P.F. Sloan",
+      "targetId": "4135"
+    }
+  ]
+}

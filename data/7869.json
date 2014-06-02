@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tom Ball",
-    "target": "Rick Rodney",
-    "targetId": "7865"
-  },
-  {
-    "source": "Tom Ball",
-    "target": "Chad Peterson",
-    "targetId": "7866"
-  },
-  {
-    "source": "Tom Ball",
-    "target": "Sidney Niesen",
-    "targetId": "7867"
-  },
-  {
-    "source": "Tom Ball",
-    "target": "Andrew Kline",
-    "targetId": "7868"
-  },
-  {
-    "source": "Tom Ball",
-    "target": "Eric Bobo",
-    "targetId": "7870"
-  }
-]
+{
+  "source": "Tom Ball",
+  "targets": [
+    {
+      "name": "Rick Rodney",
+      "targetId": "7865"
+    },
+    {
+      "name": "Chad Peterson",
+      "targetId": "7866"
+    },
+    {
+      "name": "Sidney Niesen",
+      "targetId": "7867"
+    },
+    {
+      "name": "Andrew Kline",
+      "targetId": "7868"
+    },
+    {
+      "name": "Eric Bobo",
+      "targetId": "7870"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jimmy Butts",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Jimmy Butts",
-    "target": "Tiny Grimes",
-    "targetId": "2943"
-  },
-  {
-    "source": "Jimmy Butts",
-    "target": "Harold \"Doc\" West",
-    "targetId": "2949"
-  },
-  {
-    "source": "Jimmy Butts",
-    "target": "Clyde Hart",
-    "targetId": "2952"
-  }
-]
+{
+  "source": "Jimmy Butts",
+  "targets": [
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Tiny Grimes",
+      "targetId": "2943"
+    },
+    {
+      "name": "Harold \"Doc\" West",
+      "targetId": "2949"
+    },
+    {
+      "name": "Clyde Hart",
+      "targetId": "2952"
+    }
+  ]
+}

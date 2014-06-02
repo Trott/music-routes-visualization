@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Nick DeCaro",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Nick DeCaro",
-    "target": "Red Callender",
-    "targetId": "382"
-  },
-  {
-    "source": "Nick DeCaro",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "Nick DeCaro",
-    "target": "Arlo Guthrie",
-    "targetId": "5480"
-  }
-]
+{
+  "source": "Nick DeCaro",
+  "targets": [
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Red Callender",
+      "targetId": "382"
+    },
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Arlo Guthrie",
+      "targetId": "5480"
+    }
+  ]
+}

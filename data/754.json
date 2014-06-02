@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Richie West",
-    "target": "Kathleen Hanna",
-    "targetId": "750"
-  },
-  {
-    "source": "Richie West",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Richie West",
-    "target": "Spot",
-    "targetId": "752"
-  },
-  {
-    "source": "Richie West",
-    "target": "Tiffany Anders",
-    "targetId": "753"
-  }
-]
+{
+  "source": "Richie West",
+  "targets": [
+    {
+      "name": "Kathleen Hanna",
+      "targetId": "750"
+    },
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Spot",
+      "targetId": "752"
+    },
+    {
+      "name": "Tiffany Anders",
+      "targetId": "753"
+    }
+  ]
+}

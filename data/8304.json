@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mark Greenberg",
-    "target": "Jay Bennett",
-    "targetId": "1703"
-  },
-  {
-    "source": "Mark Greenberg",
-    "target": "Jeff Tweedy",
-    "targetId": "1704"
-  },
-  {
-    "source": "Mark Greenberg",
-    "target": "John Stirratt",
-    "targetId": "1705"
-  },
-  {
-    "source": "Mark Greenberg",
-    "target": "Ken Coomer",
-    "targetId": "1706"
-  }
-]
+{
+  "source": "Mark Greenberg",
+  "targets": [
+    {
+      "name": "Jay Bennett",
+      "targetId": "1703"
+    },
+    {
+      "name": "Jeff Tweedy",
+      "targetId": "1704"
+    },
+    {
+      "name": "John Stirratt",
+      "targetId": "1705"
+    },
+    {
+      "name": "Ken Coomer",
+      "targetId": "1706"
+    }
+  ]
+}

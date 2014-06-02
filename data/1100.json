@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Tim Henson",
-    "target": "Cat Stevens",
-    "targetId": "1088"
-  },
-  {
-    "source": "Tim Henson",
-    "target": "Jimmy Johnson",
-    "targetId": "1095"
-  },
-  {
-    "source": "Tim Henson",
-    "target": "David Hood",
-    "targetId": "1096"
-  },
-  {
-    "source": "Tim Henson",
-    "target": "Roger Hawkins",
-    "targetId": "1097"
-  },
-  {
-    "source": "Tim Henson",
-    "target": "Pete Carr",
-    "targetId": "1098"
-  },
-  {
-    "source": "Tim Henson",
-    "target": "Barry Beckett",
-    "targetId": "1099"
-  }
-]
+{
+  "source": "Tim Henson",
+  "targets": [
+    {
+      "name": "Cat Stevens",
+      "targetId": "1088"
+    },
+    {
+      "name": "Jimmy Johnson",
+      "targetId": "1095"
+    },
+    {
+      "name": "David Hood",
+      "targetId": "1096"
+    },
+    {
+      "name": "Roger Hawkins",
+      "targetId": "1097"
+    },
+    {
+      "name": "Pete Carr",
+      "targetId": "1098"
+    },
+    {
+      "name": "Barry Beckett",
+      "targetId": "1099"
+    }
+  ]
+}

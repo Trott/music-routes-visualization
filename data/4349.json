@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Andy \"The Butcher\" Mrotek",
-    "target": "William Beckett",
-    "targetId": "4345"
-  },
-  {
-    "source": "Andy \"The Butcher\" Mrotek",
-    "target": "Mike Carden",
-    "targetId": "4346"
-  },
-  {
-    "source": "Andy \"The Butcher\" Mrotek",
-    "target": "Michael Guy Chislett",
-    "targetId": "4347"
-  },
-  {
-    "source": "Andy \"The Butcher\" Mrotek",
-    "target": "Adam T. Siska",
-    "targetId": "4348"
-  }
-]
+{
+  "source": "Andy \"The Butcher\" Mrotek",
+  "targets": [
+    {
+      "name": "William Beckett",
+      "targetId": "4345"
+    },
+    {
+      "name": "Mike Carden",
+      "targetId": "4346"
+    },
+    {
+      "name": "Michael Guy Chislett",
+      "targetId": "4347"
+    },
+    {
+      "name": "Adam T. Siska",
+      "targetId": "4348"
+    }
+  ]
+}

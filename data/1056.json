@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ron Jannelli",
-    "target": "Jeff Martin",
-    "targetId": "1051"
-  },
-  {
-    "source": "Ron Jannelli",
-    "target": "Dan Seta",
-    "targetId": "1052"
-  },
-  {
-    "source": "Ron Jannelli",
-    "target": "Joey Waronker",
-    "targetId": "1053"
-  },
-  {
-    "source": "Ron Jannelli",
-    "target": "Melissa Auf Der Maur",
-    "targetId": "1054"
-  }
-]
+{
+  "source": "Ron Jannelli",
+  "targets": [
+    {
+      "name": "Jeff Martin",
+      "targetId": "1051"
+    },
+    {
+      "name": "Dan Seta",
+      "targetId": "1052"
+    },
+    {
+      "name": "Joey Waronker",
+      "targetId": "1053"
+    },
+    {
+      "name": "Melissa Auf Der Maur",
+      "targetId": "1054"
+    }
+  ]
+}

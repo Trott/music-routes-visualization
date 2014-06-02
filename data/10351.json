@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Ray Ayotte",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Ray Ayotte",
-    "target": "Bryan Adams",
-    "targetId": "2449"
-  },
-  {
-    "source": "Ray Ayotte",
-    "target": "Wayne Kozak",
-    "targetId": "10348"
-  },
-  {
-    "source": "Ray Ayotte",
-    "target": "Don Clark",
-    "targetId": "10349"
-  },
-  {
-    "source": "Ray Ayotte",
-    "target": "Joani Taylor",
-    "targetId": "10350"
-  }
-]
+{
+  "source": "Ray Ayotte",
+  "targets": [
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "Bryan Adams",
+      "targetId": "2449"
+    },
+    {
+      "name": "Wayne Kozak",
+      "targetId": "10348"
+    },
+    {
+      "name": "Don Clark",
+      "targetId": "10349"
+    },
+    {
+      "name": "Joani Taylor",
+      "targetId": "10350"
+    }
+  ]
+}

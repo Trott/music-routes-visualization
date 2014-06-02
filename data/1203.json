@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Jerry Hahn",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "Jerry Hahn",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Jerry Hahn",
-    "target": "Ron Carter",
-    "targetId": "1201"
-  },
-  {
-    "source": "Jerry Hahn",
-    "target": "Mike Manieri",
-    "targetId": "1204"
-  },
-  {
-    "source": "Jerry Hahn",
-    "target": "Fred Lipsius",
-    "targetId": "1205"
-  },
-  {
-    "source": "Jerry Hahn",
-    "target": "John Schroer",
-    "targetId": "1206"
-  },
-  {
-    "source": "Jerry Hahn",
-    "target": "Airto Moreira",
-    "targetId": "1207"
-  },
-  {
-    "source": "Jerry Hahn",
-    "target": "David Spinozza",
-    "targetId": "1273"
-  }
-]
+{
+  "source": "Jerry Hahn",
+  "targets": [
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Ron Carter",
+      "targetId": "1201"
+    },
+    {
+      "name": "Mike Manieri",
+      "targetId": "1204"
+    },
+    {
+      "name": "Fred Lipsius",
+      "targetId": "1205"
+    },
+    {
+      "name": "John Schroer",
+      "targetId": "1206"
+    },
+    {
+      "name": "Airto Moreira",
+      "targetId": "1207"
+    },
+    {
+      "name": "David Spinozza",
+      "targetId": "1273"
+    }
+  ]
+}

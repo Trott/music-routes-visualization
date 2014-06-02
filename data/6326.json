@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mike Bloomfield",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Mike Bloomfield",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Mike Bloomfield",
-    "target": "Paul Griffin",
-    "targetId": "723"
-  },
-  {
-    "source": "Mike Bloomfield",
-    "target": "Harvey Brooks",
-    "targetId": "1635"
-  },
-  {
-    "source": "Mike Bloomfield",
-    "target": "Bobby Gregg",
-    "targetId": "6325"
-  },
-  {
-    "source": "Mike Bloomfield",
-    "target": "Sam Lay",
-    "targetId": "10029"
-  }
-]
+{
+  "source": "Mike Bloomfield",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "Paul Griffin",
+      "targetId": "723"
+    },
+    {
+      "name": "Harvey Brooks",
+      "targetId": "1635"
+    },
+    {
+      "name": "Bobby Gregg",
+      "targetId": "6325"
+    },
+    {
+      "name": "Sam Lay",
+      "targetId": "10029"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bruce Palmer",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "Bruce Palmer",
-    "target": "Stephen Stills",
-    "targetId": "638"
-  },
-  {
-    "source": "Bruce Palmer",
-    "target": "Dewey Martin",
-    "targetId": "8293"
-  },
-  {
-    "source": "Bruce Palmer",
-    "target": "Richie Furay",
-    "targetId": "8295"
-  }
-]
+{
+  "source": "Bruce Palmer",
+  "targets": [
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "Stephen Stills",
+      "targetId": "638"
+    },
+    {
+      "name": "Dewey Martin",
+      "targetId": "8293"
+    },
+    {
+      "name": "Richie Furay",
+      "targetId": "8295"
+    }
+  ]
+}

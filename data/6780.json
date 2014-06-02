@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Eric Bachmann",
-    "target": "Eric Johnson",
-    "targetId": "6781"
-  },
-  {
-    "source": "Eric Bachmann",
-    "target": "Matt Gentling",
-    "targetId": "6782"
-  },
-  {
-    "source": "Eric Bachmann",
-    "target": "Mark Price",
-    "targetId": "6783"
-  },
-  {
-    "source": "Eric Bachmann",
-    "target": "Britt Daniel",
-    "targetId": "9654"
-  },
-  {
-    "source": "Eric Bachmann",
-    "target": "Jim Eno",
-    "targetId": "9656"
-  },
-  {
-    "source": "Eric Bachmann",
-    "target": "Mike McCarthy",
-    "targetId": "9667"
-  }
-]
+{
+  "source": "Eric Bachmann",
+  "targets": [
+    {
+      "name": "Eric Johnson",
+      "targetId": "6781"
+    },
+    {
+      "name": "Matt Gentling",
+      "targetId": "6782"
+    },
+    {
+      "name": "Mark Price",
+      "targetId": "6783"
+    },
+    {
+      "name": "Britt Daniel",
+      "targetId": "9654"
+    },
+    {
+      "name": "Jim Eno",
+      "targetId": "9656"
+    },
+    {
+      "name": "Mike McCarthy",
+      "targetId": "9667"
+    }
+  ]
+}

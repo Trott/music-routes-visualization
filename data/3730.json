@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Chris Brown",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Chris Brown",
-    "target": "John Bonham",
-    "targetId": "303"
-  },
-  {
-    "source": "Chris Brown",
-    "target": "Kevin Gammond",
-    "targetId": "3729"
-  },
-  {
-    "source": "Chris Brown",
-    "target": "Paul Lockie",
-    "targetId": "3731"
-  }
-]
+{
+  "source": "Chris Brown",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "John Bonham",
+      "targetId": "303"
+    },
+    {
+      "name": "Kevin Gammond",
+      "targetId": "3729"
+    },
+    {
+      "name": "Paul Lockie",
+      "targetId": "3731"
+    }
+  ]
+}

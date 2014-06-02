@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Joe Barresi",
-    "target": "D.J. Bonebrake",
-    "targetId": "849"
-  },
-  {
-    "source": "Joe Barresi",
-    "target": "Steve Wynn",
-    "targetId": "3494"
-  },
-  {
-    "source": "Joe Barresi",
-    "target": "Robert Mache",
-    "targetId": "3497"
-  },
-  {
-    "source": "Joe Barresi",
-    "target": "Stephen McCarthy",
-    "targetId": "3500"
-  },
-  {
-    "source": "Joe Barresi",
-    "target": "Mark Walton",
-    "targetId": "3501"
-  },
-  {
-    "source": "Joe Barresi",
-    "target": "Robert Lloyd",
-    "targetId": "3505"
-  }
-]
+{
+  "source": "Joe Barresi",
+  "targets": [
+    {
+      "name": "D.J. Bonebrake",
+      "targetId": "849"
+    },
+    {
+      "name": "Steve Wynn",
+      "targetId": "3494"
+    },
+    {
+      "name": "Robert Mache",
+      "targetId": "3497"
+    },
+    {
+      "name": "Stephen McCarthy",
+      "targetId": "3500"
+    },
+    {
+      "name": "Mark Walton",
+      "targetId": "3501"
+    },
+    {
+      "name": "Robert Lloyd",
+      "targetId": "3505"
+    }
+  ]
+}

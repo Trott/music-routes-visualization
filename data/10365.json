@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Rene Worst",
-    "target": "Jim Vallance",
-    "targetId": "2448"
-  },
-  {
-    "source": "Rene Worst",
-    "target": "Alan Frew",
-    "targetId": "10363"
-  },
-  {
-    "source": "Rene Worst",
-    "target": "Al Connelly",
-    "targetId": "10364"
-  }
-]
+{
+  "source": "Rene Worst",
+  "targets": [
+    {
+      "name": "Jim Vallance",
+      "targetId": "2448"
+    },
+    {
+      "name": "Alan Frew",
+      "targetId": "10363"
+    },
+    {
+      "name": "Al Connelly",
+      "targetId": "10364"
+    }
+  ]
+}

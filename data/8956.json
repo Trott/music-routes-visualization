@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Cathy Porther",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Cathy Porther",
-    "target": "Shelley Preston",
-    "targetId": "8955"
-  }
-]
+{
+  "source": "Cathy Porther",
+  "targets": [
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Shelley Preston",
+      "targetId": "8955"
+    }
+  ]
+}

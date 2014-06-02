@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Cyril Neville",
-    "target": "George Porter, Jr.",
-    "targetId": "2823"
-  },
-  {
-    "source": "Cyril Neville",
-    "target": "Joseph \"Zigaboo\" Modeliste",
-    "targetId": "7341"
-  },
-  {
-    "source": "Cyril Neville",
-    "target": "Leo Nocentelli",
-    "targetId": "7342"
-  },
-  {
-    "source": "Cyril Neville",
-    "target": "Arthur Neville",
-    "targetId": "7343"
-  }
-]
+{
+  "source": "Cyril Neville",
+  "targets": [
+    {
+      "name": "George Porter, Jr.",
+      "targetId": "2823"
+    },
+    {
+      "name": "Joseph \"Zigaboo\" Modeliste",
+      "targetId": "7341"
+    },
+    {
+      "name": "Leo Nocentelli",
+      "targetId": "7342"
+    },
+    {
+      "name": "Arthur Neville",
+      "targetId": "7343"
+    }
+  ]
+}

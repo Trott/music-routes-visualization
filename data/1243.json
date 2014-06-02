@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jeremy Cooke",
-    "target": "Greg Loiacono",
-    "targetId": "1235"
-  },
-  {
-    "source": "Jeremy Cooke",
-    "target": "Paul Hoaglin",
-    "targetId": "1236"
-  },
-  {
-    "source": "Jeremy Cooke",
-    "target": "Todd Roper",
-    "targetId": "1242"
-  }
-]
+{
+  "source": "Jeremy Cooke",
+  "targets": [
+    {
+      "name": "Greg Loiacono",
+      "targetId": "1235"
+    },
+    {
+      "name": "Paul Hoaglin",
+      "targetId": "1236"
+    },
+    {
+      "name": "Todd Roper",
+      "targetId": "1242"
+    }
+  ]
+}

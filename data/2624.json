@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Doug",
-    "target": "dB",
-    "targetId": "2617"
-  },
-  {
-    "source": "Doug",
-    "target": "Amp",
-    "targetId": "2621"
-  },
-  {
-    "source": "Doug",
-    "target": "Joel",
-    "targetId": "2623"
-  }
-]
+{
+  "source": "Doug",
+  "targets": [
+    {
+      "name": "dB",
+      "targetId": "2617"
+    },
+    {
+      "name": "Amp",
+      "targetId": "2621"
+    },
+    {
+      "name": "Joel",
+      "targetId": "2623"
+    }
+  ]
+}

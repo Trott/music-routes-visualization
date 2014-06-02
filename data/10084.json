@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dean Torrence",
-    "target": "Carl Wilson",
-    "targetId": "233"
-  },
-  {
-    "source": "Dean Torrence",
-    "target": "Brian Wilson",
-    "targetId": "1475"
-  },
-  {
-    "source": "Dean Torrence",
-    "target": "Dennis Wilson",
-    "targetId": "1476"
-  },
-  {
-    "source": "Dean Torrence",
-    "target": "Mike Love",
-    "targetId": "1477"
-  },
-  {
-    "source": "Dean Torrence",
-    "target": "Al Jardine",
-    "targetId": "1478"
-  }
-]
+{
+  "source": "Dean Torrence",
+  "targets": [
+    {
+      "name": "Carl Wilson",
+      "targetId": "233"
+    },
+    {
+      "name": "Brian Wilson",
+      "targetId": "1475"
+    },
+    {
+      "name": "Dennis Wilson",
+      "targetId": "1476"
+    },
+    {
+      "name": "Mike Love",
+      "targetId": "1477"
+    },
+    {
+      "name": "Al Jardine",
+      "targetId": "1478"
+    }
+  ]
+}

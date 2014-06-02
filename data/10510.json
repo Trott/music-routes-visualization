@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Joe Bonamassa",
-    "target": "Carmine Rojas",
-    "targetId": "4013"
-  },
-  {
-    "source": "Joe Bonamassa",
-    "target": "Jason Bonham",
-    "targetId": "8034"
-  },
-  {
-    "source": "Joe Bonamassa",
-    "target": "Rick Melick",
-    "targetId": "10511"
-  },
-  {
-    "source": "Joe Bonamassa",
-    "target": "Pat Thrall",
-    "targetId": "10512"
-  },
-  {
-    "source": "Joe Bonamassa",
-    "target": "Doug Henthorn",
-    "targetId": "10513"
-  },
-  {
-    "source": "Joe Bonamassa",
-    "target": "LD Miller",
-    "targetId": "10514"
-  }
-]
+{
+  "source": "Joe Bonamassa",
+  "targets": [
+    {
+      "name": "Carmine Rojas",
+      "targetId": "4013"
+    },
+    {
+      "name": "Jason Bonham",
+      "targetId": "8034"
+    },
+    {
+      "name": "Rick Melick",
+      "targetId": "10511"
+    },
+    {
+      "name": "Pat Thrall",
+      "targetId": "10512"
+    },
+    {
+      "name": "Doug Henthorn",
+      "targetId": "10513"
+    },
+    {
+      "name": "LD Miller",
+      "targetId": "10514"
+    }
+  ]
+}

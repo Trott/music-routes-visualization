@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ed Gagliardi",
-    "target": "Ian McDonald",
-    "targetId": "544"
-  },
-  {
-    "source": "Ed Gagliardi",
-    "target": "Mick Jones",
-    "targetId": "925"
-  },
-  {
-    "source": "Ed Gagliardi",
-    "target": "Lou Gramm",
-    "targetId": "926"
-  },
-  {
-    "source": "Ed Gagliardi",
-    "target": "Dennis Elliott",
-    "targetId": "927"
-  },
-  {
-    "source": "Ed Gagliardi",
-    "target": "Al Greenwood",
-    "targetId": "928"
-  },
-  {
-    "source": "Ed Gagliardi",
-    "target": "Ian Lloyd",
-    "targetId": "931"
-  }
-]
+{
+  "source": "Ed Gagliardi",
+  "targets": [
+    {
+      "name": "Ian McDonald",
+      "targetId": "544"
+    },
+    {
+      "name": "Mick Jones",
+      "targetId": "925"
+    },
+    {
+      "name": "Lou Gramm",
+      "targetId": "926"
+    },
+    {
+      "name": "Dennis Elliott",
+      "targetId": "927"
+    },
+    {
+      "name": "Al Greenwood",
+      "targetId": "928"
+    },
+    {
+      "name": "Ian Lloyd",
+      "targetId": "931"
+    }
+  ]
+}

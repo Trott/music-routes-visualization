@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Lothar Heimberg",
-    "target": "Klaus Meine",
-    "targetId": "7637"
-  },
-  {
-    "source": "Lothar Heimberg",
-    "target": "Wolfgang Dziony",
-    "targetId": "7639"
-  },
-  {
-    "source": "Lothar Heimberg",
-    "target": "Michael Schenker",
-    "targetId": "7640"
-  },
-  {
-    "source": "Lothar Heimberg",
-    "target": "Rudolf Schenker",
-    "targetId": "7641"
-  }
-]
+{
+  "source": "Lothar Heimberg",
+  "targets": [
+    {
+      "name": "Klaus Meine",
+      "targetId": "7637"
+    },
+    {
+      "name": "Wolfgang Dziony",
+      "targetId": "7639"
+    },
+    {
+      "name": "Michael Schenker",
+      "targetId": "7640"
+    },
+    {
+      "name": "Rudolf Schenker",
+      "targetId": "7641"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Michael Rother",
-    "target": "Dieter Moebius",
-    "targetId": "2590"
-  },
-  {
-    "source": "Michael Rother",
-    "target": "Hans-Joachim Roedelius",
-    "targetId": "2591"
-  },
-  {
-    "source": "Michael Rother",
-    "target": "Klaus Dinger",
-    "targetId": "2594"
-  }
-]
+{
+  "source": "Michael Rother",
+  "targets": [
+    {
+      "name": "Dieter Moebius",
+      "targetId": "2590"
+    },
+    {
+      "name": "Hans-Joachim Roedelius",
+      "targetId": "2591"
+    },
+    {
+      "name": "Klaus Dinger",
+      "targetId": "2594"
+    }
+  ]
+}

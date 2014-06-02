@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Peter Moses",
-    "target": "Tony Bono",
-    "targetId": "9001"
-  },
-  {
-    "source": "Peter Moses",
-    "target": "Drew Thomas",
-    "targetId": "9004"
-  },
-  {
-    "source": "Peter Moses",
-    "target": "Richie Birkenhead",
-    "targetId": "9006"
-  }
-]
+{
+  "source": "Peter Moses",
+  "targets": [
+    {
+      "name": "Tony Bono",
+      "targetId": "9001"
+    },
+    {
+      "name": "Drew Thomas",
+      "targetId": "9004"
+    },
+    {
+      "name": "Richie Birkenhead",
+      "targetId": "9006"
+    }
+  ]
+}

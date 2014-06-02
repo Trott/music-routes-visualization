@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rick Dufay",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "Rick Dufay",
-    "target": "Joey Kramer",
-    "targetId": "1891"
-  },
-  {
-    "source": "Rick Dufay",
-    "target": "Tom Hamilton",
-    "targetId": "1893"
-  },
-  {
-    "source": "Rick Dufay",
-    "target": "Jimmy Crespo",
-    "targetId": "1895"
-  }
-]
+{
+  "source": "Rick Dufay",
+  "targets": [
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "Joey Kramer",
+      "targetId": "1891"
+    },
+    {
+      "name": "Tom Hamilton",
+      "targetId": "1893"
+    },
+    {
+      "name": "Jimmy Crespo",
+      "targetId": "1895"
+    }
+  ]
+}

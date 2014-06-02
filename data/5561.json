@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Schubert",
-    "target": "Gilby Clarke",
-    "targetId": "2017"
-  },
-  {
-    "source": "John Schubert",
-    "target": "Kyle Vincent",
-    "targetId": "5559"
-  },
-  {
-    "source": "John Schubert",
-    "target": "Jonathan Daniel",
-    "targetId": "5560"
-  },
-  {
-    "source": "John Schubert",
-    "target": "Ryan Roxie",
-    "targetId": "5562"
-  },
-  {
-    "source": "John Schubert",
-    "target": "Thomas \"Shane\" Riggins",
-    "targetId": "5563"
-  }
-]
+{
+  "source": "John Schubert",
+  "targets": [
+    {
+      "name": "Gilby Clarke",
+      "targetId": "2017"
+    },
+    {
+      "name": "Kyle Vincent",
+      "targetId": "5559"
+    },
+    {
+      "name": "Jonathan Daniel",
+      "targetId": "5560"
+    },
+    {
+      "name": "Ryan Roxie",
+      "targetId": "5562"
+    },
+    {
+      "name": "Thomas \"Shane\" Riggins",
+      "targetId": "5563"
+    }
+  ]
+}

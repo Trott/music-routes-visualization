@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jelly Sanders",
-    "target": "Buck Owens",
-    "targetId": "3792"
-  },
-  {
-    "source": "Jelly Sanders",
-    "target": "Mel Taylor",
-    "targetId": "6532"
-  },
-  {
-    "source": "Jelly Sanders",
-    "target": "Don Rich",
-    "targetId": "6533"
-  },
-  {
-    "source": "Jelly Sanders",
-    "target": "Tom Brumley",
-    "targetId": "6535"
-  }
-]
+{
+  "source": "Jelly Sanders",
+  "targets": [
+    {
+      "name": "Buck Owens",
+      "targetId": "3792"
+    },
+    {
+      "name": "Mel Taylor",
+      "targetId": "6532"
+    },
+    {
+      "name": "Don Rich",
+      "targetId": "6533"
+    },
+    {
+      "name": "Tom Brumley",
+      "targetId": "6535"
+    }
+  ]
+}

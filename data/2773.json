@@ -1,22 +1,21 @@
-[
-  {
-    "source": "William S. Burroughs",
-    "target": "Adrian Belew",
-    "targetId": "184"
-  },
-  {
-    "source": "William S. Burroughs",
-    "target": "Bill Laswell",
-    "targetId": "2205"
-  },
-  {
-    "source": "William S. Burroughs",
-    "target": "Laurie Anderson",
-    "targetId": "2206"
-  },
-  {
-    "source": "William S. Burroughs",
-    "target": "Anton Fier",
-    "targetId": "2771"
-  }
-]
+{
+  "source": "William S. Burroughs",
+  "targets": [
+    {
+      "name": "Adrian Belew",
+      "targetId": "184"
+    },
+    {
+      "name": "Bill Laswell",
+      "targetId": "2205"
+    },
+    {
+      "name": "Laurie Anderson",
+      "targetId": "2206"
+    },
+    {
+      "name": "Anton Fier",
+      "targetId": "2771"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Ali Friend",
-    "target": "Sally Herbert",
-    "targetId": "612"
-  },
-  {
-    "source": "Ali Friend",
-    "target": "Fran Healy",
-    "targetId": "3977"
-  },
-  {
-    "source": "Ali Friend",
-    "target": "Mitchell Connelly",
-    "targetId": "6569"
-  },
-  {
-    "source": "Ali Friend",
-    "target": "Angus Stone",
-    "targetId": "6570"
-  },
-  {
-    "source": "Ali Friend",
-    "target": "Julia Stone",
-    "targetId": "6571"
-  },
-  {
-    "source": "Ali Friend",
-    "target": "Ian Burdge",
-    "targetId": "6576"
-  },
-  {
-    "source": "Ali Friend",
-    "target": "Olli Langford",
-    "targetId": "6577"
-  },
-  {
-    "source": "Ali Friend",
-    "target": "Calina De La Mare",
-    "targetId": "6578"
-  }
-]
+{
+  "source": "Ali Friend",
+  "targets": [
+    {
+      "name": "Sally Herbert",
+      "targetId": "612"
+    },
+    {
+      "name": "Fran Healy",
+      "targetId": "3977"
+    },
+    {
+      "name": "Mitchell Connelly",
+      "targetId": "6569"
+    },
+    {
+      "name": "Angus Stone",
+      "targetId": "6570"
+    },
+    {
+      "name": "Julia Stone",
+      "targetId": "6571"
+    },
+    {
+      "name": "Ian Burdge",
+      "targetId": "6576"
+    },
+    {
+      "name": "Olli Langford",
+      "targetId": "6577"
+    },
+    {
+      "name": "Calina De La Mare",
+      "targetId": "6578"
+    }
+  ]
+}

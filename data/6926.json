@@ -1,12 +1,13 @@
-[
-  {
-    "source": "John Askew",
-    "target": "Chris Walla",
-    "targetId": "6921"
-  },
-  {
-    "source": "John Askew",
-    "target": "Michael Schorr",
-    "targetId": "6923"
-  }
-]
+{
+  "source": "John Askew",
+  "targets": [
+    {
+      "name": "Chris Walla",
+      "targetId": "6921"
+    },
+    {
+      "name": "Michael Schorr",
+      "targetId": "6923"
+    }
+  ]
+}

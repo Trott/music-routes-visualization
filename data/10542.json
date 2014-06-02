@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Antonio Sanchez",
-    "target": "Gary Burton",
-    "targetId": "1877"
-  },
-  {
-    "source": "Antonio Sanchez",
-    "target": "Julian Lage",
-    "targetId": "10541"
-  },
-  {
-    "source": "Antonio Sanchez",
-    "target": "Scott Colley",
-    "targetId": "10543"
-  }
-]
+{
+  "source": "Antonio Sanchez",
+  "targets": [
+    {
+      "name": "Gary Burton",
+      "targetId": "1877"
+    },
+    {
+      "name": "Julian Lage",
+      "targetId": "10541"
+    },
+    {
+      "name": "Scott Colley",
+      "targetId": "10543"
+    }
+  ]
+}

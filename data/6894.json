@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Tommy Mac",
-    "target": "Jacob Hoggard",
-    "targetId": "6893"
-  },
-  {
-    "source": "Tommy Mac",
-    "target": "Dave Rosin",
-    "targetId": "6895"
-  },
-  {
-    "source": "Tommy Mac",
-    "target": "Chris Crippin",
-    "targetId": "6896"
-  }
-]
+{
+  "source": "Tommy Mac",
+  "targets": [
+    {
+      "name": "Jacob Hoggard",
+      "targetId": "6893"
+    },
+    {
+      "name": "Dave Rosin",
+      "targetId": "6895"
+    },
+    {
+      "name": "Chris Crippin",
+      "targetId": "6896"
+    }
+  ]
+}

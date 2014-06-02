@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Todd Youth",
-    "target": "Joey Castillo",
-    "targetId": "1851"
-  },
-  {
-    "source": "Todd Youth",
-    "target": "Howie Pyro",
-    "targetId": "2387"
-  },
-  {
-    "source": "Todd Youth",
-    "target": "Glenn Danzig",
-    "targetId": "2389"
-  }
-]
+{
+  "source": "Todd Youth",
+  "targets": [
+    {
+      "name": "Joey Castillo",
+      "targetId": "1851"
+    },
+    {
+      "name": "Howie Pyro",
+      "targetId": "2387"
+    },
+    {
+      "name": "Glenn Danzig",
+      "targetId": "2389"
+    }
+  ]
+}

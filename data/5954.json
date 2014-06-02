@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dean Dinning",
-    "target": "Glen Phillips",
-    "targetId": "5952"
-  },
-  {
-    "source": "Dean Dinning",
-    "target": "Todd Nichols",
-    "targetId": "5953"
-  },
-  {
-    "source": "Dean Dinning",
-    "target": "Randy Guss",
-    "targetId": "5955"
-  }
-]
+{
+  "source": "Dean Dinning",
+  "targets": [
+    {
+      "name": "Glen Phillips",
+      "targetId": "5952"
+    },
+    {
+      "name": "Todd Nichols",
+      "targetId": "5953"
+    },
+    {
+      "name": "Randy Guss",
+      "targetId": "5955"
+    }
+  ]
+}

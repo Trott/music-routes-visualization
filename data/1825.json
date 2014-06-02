@@ -1,212 +1,173 @@
-[
-  {
-    "source": "Marc Bolan",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Jeff Lynne",
-    "targetId": "224"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Milt Holland",
-    "targetId": "388"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Ian McDonald",
-    "targetId": "544"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Rick Wakeman",
-    "targetId": "792"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Herbie Flowers",
-    "targetId": "800"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Paul Humphrey",
-    "targetId": "820"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Tony Visconti",
-    "targetId": "1247"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Mickey Finn",
-    "targetId": "1826"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Steve Currie",
-    "targetId": "1827"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Bill Legend",
-    "targetId": "1828"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Howard Kaylan",
-    "targetId": "1829"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Mark Volman",
-    "targetId": "1830"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "James Booker",
-    "targetId": "2881"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Scott Edwards",
-    "targetId": "2906"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Davey Lutton",
-    "targetId": "2907"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Paul Fenton",
-    "targetId": "2908"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Tony Newman",
-    "targetId": "2909"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Bud Beadle",
-    "targetId": "2910"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Steve Gregory",
-    "targetId": "2911"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Miller Anderson",
-    "targetId": "2912"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Dino Dines",
-    "targetId": "2913"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Chris Mercer",
-    "targetId": "2914"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "J. Long",
-    "targetId": "2915"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Alfalpha",
-    "targetId": "2916"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Colin Jacas",
-    "targetId": "2917"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Gloria Jones",
-    "targetId": "2918"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Steve Harley",
-    "targetId": "2919"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "John Cambridge",
-    "targetId": "2924"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Steve Peregrine Took",
-    "targetId": "2934"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "John Peel",
-    "targetId": "2935"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Michael de Albuquerque",
-    "targetId": "3239"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Bev Bevan",
-    "targetId": "3240"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Colin Walker",
-    "targetId": "3241"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Mike Edwards",
-    "targetId": "3242"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Richard Tandy",
-    "targetId": "3243"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Wilf Gibson",
-    "targetId": "3245"
-  },
-  {
-    "source": "Marc Bolan",
-    "target": "Pat Hall",
-    "targetId": "3702"
-  }
-]
+{
+  "source": "Marc Bolan",
+  "targets": [
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Jeff Lynne",
+      "targetId": "224"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Milt Holland",
+      "targetId": "388"
+    },
+    {
+      "name": "Ian McDonald",
+      "targetId": "544"
+    },
+    {
+      "name": "Rick Wakeman",
+      "targetId": "792"
+    },
+    {
+      "name": "Herbie Flowers",
+      "targetId": "800"
+    },
+    {
+      "name": "Paul Humphrey",
+      "targetId": "820"
+    },
+    {
+      "name": "Tony Visconti",
+      "targetId": "1247"
+    },
+    {
+      "name": "Mickey Finn",
+      "targetId": "1826"
+    },
+    {
+      "name": "Steve Currie",
+      "targetId": "1827"
+    },
+    {
+      "name": "Bill Legend",
+      "targetId": "1828"
+    },
+    {
+      "name": "Howard Kaylan",
+      "targetId": "1829"
+    },
+    {
+      "name": "Mark Volman",
+      "targetId": "1830"
+    },
+    {
+      "name": "James Booker",
+      "targetId": "2881"
+    },
+    {
+      "name": "Scott Edwards",
+      "targetId": "2906"
+    },
+    {
+      "name": "Davey Lutton",
+      "targetId": "2907"
+    },
+    {
+      "name": "Paul Fenton",
+      "targetId": "2908"
+    },
+    {
+      "name": "Tony Newman",
+      "targetId": "2909"
+    },
+    {
+      "name": "Bud Beadle",
+      "targetId": "2910"
+    },
+    {
+      "name": "Steve Gregory",
+      "targetId": "2911"
+    },
+    {
+      "name": "Miller Anderson",
+      "targetId": "2912"
+    },
+    {
+      "name": "Dino Dines",
+      "targetId": "2913"
+    },
+    {
+      "name": "Chris Mercer",
+      "targetId": "2914"
+    },
+    {
+      "name": "J. Long",
+      "targetId": "2915"
+    },
+    {
+      "name": "Alfalpha",
+      "targetId": "2916"
+    },
+    {
+      "name": "Colin Jacas",
+      "targetId": "2917"
+    },
+    {
+      "name": "Gloria Jones",
+      "targetId": "2918"
+    },
+    {
+      "name": "Steve Harley",
+      "targetId": "2919"
+    },
+    {
+      "name": "John Cambridge",
+      "targetId": "2924"
+    },
+    {
+      "name": "Steve Peregrine Took",
+      "targetId": "2934"
+    },
+    {
+      "name": "John Peel",
+      "targetId": "2935"
+    },
+    {
+      "name": "Michael de Albuquerque",
+      "targetId": "3239"
+    },
+    {
+      "name": "Bev Bevan",
+      "targetId": "3240"
+    },
+    {
+      "name": "Colin Walker",
+      "targetId": "3241"
+    },
+    {
+      "name": "Mike Edwards",
+      "targetId": "3242"
+    },
+    {
+      "name": "Richard Tandy",
+      "targetId": "3243"
+    },
+    {
+      "name": "Wilf Gibson",
+      "targetId": "3245"
+    },
+    {
+      "name": "Pat Hall",
+      "targetId": "3702"
+    }
+  ]
+}

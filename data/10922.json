@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Eddie Floyd",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Eddie Floyd",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Eddie Floyd",
-    "target": "Al Jackson, Jr.",
-    "targetId": "1806"
-  }
-]
+{
+  "source": "Eddie Floyd",
+  "targets": [
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Al Jackson, Jr.",
+      "targetId": "1806"
+    }
+  ]
+}

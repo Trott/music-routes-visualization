@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Stephen Egerton",
-    "target": "Bill Stevenson",
-    "targetId": "733"
-  },
-  {
-    "source": "Stephen Egerton",
-    "target": "Karl Alvarez",
-    "targetId": "734"
-  },
-  {
-    "source": "Stephen Egerton",
-    "target": "Milo Aukerman",
-    "targetId": "7041"
-  },
-  {
-    "source": "Stephen Egerton",
-    "target": "Scott Reynolds",
-    "targetId": "9260"
-  }
-]
+{
+  "source": "Stephen Egerton",
+  "targets": [
+    {
+      "name": "Bill Stevenson",
+      "targetId": "733"
+    },
+    {
+      "name": "Karl Alvarez",
+      "targetId": "734"
+    },
+    {
+      "name": "Milo Aukerman",
+      "targetId": "7041"
+    },
+    {
+      "name": "Scott Reynolds",
+      "targetId": "9260"
+    }
+  ]
+}

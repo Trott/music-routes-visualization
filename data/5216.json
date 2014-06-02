@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Gordy Davidson",
-    "target": "Mick Cooke",
-    "targetId": "2926"
-  },
-  {
-    "source": "Gordy Davidson",
-    "target": "Alex Kapranos",
-    "targetId": "5212"
-  },
-  {
-    "source": "Gordy Davidson",
-    "target": "Joe Gray",
-    "targetId": "5213"
-  },
-  {
-    "source": "Gordy Davidson",
-    "target": "Rat",
-    "targetId": "5214"
-  },
-  {
-    "source": "Gordy Davidson",
-    "target": "Lindsay Watson",
-    "targetId": "5215"
-  }
-]
+{
+  "source": "Gordy Davidson",
+  "targets": [
+    {
+      "name": "Mick Cooke",
+      "targetId": "2926"
+    },
+    {
+      "name": "Alex Kapranos",
+      "targetId": "5212"
+    },
+    {
+      "name": "Joe Gray",
+      "targetId": "5213"
+    },
+    {
+      "name": "Rat",
+      "targetId": "5214"
+    },
+    {
+      "name": "Lindsay Watson",
+      "targetId": "5215"
+    }
+  ]
+}

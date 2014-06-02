@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Steven Wilson",
-    "target": "Adrian Belew",
-    "targetId": "184"
-  },
-  {
-    "source": "Steven Wilson",
-    "target": "Gavin Harrison",
-    "targetId": "3536"
-  },
-  {
-    "source": "Steven Wilson",
-    "target": "Richard Barbieri",
-    "targetId": "3539"
-  },
-  {
-    "source": "Steven Wilson",
-    "target": "Colin Edwin",
-    "targetId": "3540"
-  },
-  {
-    "source": "Steven Wilson",
-    "target": "Mikael Åkerfeldt",
-    "targetId": "3542"
-  }
-]
+{
+  "source": "Steven Wilson",
+  "targets": [
+    {
+      "name": "Adrian Belew",
+      "targetId": "184"
+    },
+    {
+      "name": "Gavin Harrison",
+      "targetId": "3536"
+    },
+    {
+      "name": "Richard Barbieri",
+      "targetId": "3539"
+    },
+    {
+      "name": "Colin Edwin",
+      "targetId": "3540"
+    },
+    {
+      "name": "Mikael Åkerfeldt",
+      "targetId": "3542"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Paul Gardiner",
-    "target": "Robert Palmer",
-    "targetId": "851"
-  },
-  {
-    "source": "Paul Gardiner",
-    "target": "Dony Wynn",
-    "targetId": "853"
-  },
-  {
-    "source": "Paul Gardiner",
-    "target": "Gary Numan",
-    "targetId": "854"
-  }
-]
+{
+  "source": "Paul Gardiner",
+  "targets": [
+    {
+      "name": "Robert Palmer",
+      "targetId": "851"
+    },
+    {
+      "name": "Dony Wynn",
+      "targetId": "853"
+    },
+    {
+      "name": "Gary Numan",
+      "targetId": "854"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Steve Burgh",
-    "target": "Billy Joel",
-    "targetId": "63"
-  },
-  {
-    "source": "Steve Burgh",
-    "target": "Hugh McCracken",
-    "targetId": "268"
-  },
-  {
-    "source": "Steve Burgh",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "Steve Burgh",
-    "target": "Phil Woods",
-    "targetId": "7253"
-  },
-  {
-    "source": "Steve Burgh",
-    "target": "Doug Stegmeyer",
-    "targetId": "8404"
-  },
-  {
-    "source": "Steve Burgh",
-    "target": "Liberty DeVitto",
-    "targetId": "8405"
-  }
-]
+{
+  "source": "Steve Burgh",
+  "targets": [
+    {
+      "name": "Billy Joel",
+      "targetId": "63"
+    },
+    {
+      "name": "Hugh McCracken",
+      "targetId": "268"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Phil Woods",
+      "targetId": "7253"
+    },
+    {
+      "name": "Doug Stegmeyer",
+      "targetId": "8404"
+    },
+    {
+      "name": "Liberty DeVitto",
+      "targetId": "8405"
+    }
+  ]
+}

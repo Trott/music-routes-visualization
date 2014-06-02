@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Lesette Wilson",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Lesette Wilson",
-    "target": "Nathan East",
-    "targetId": "403"
-  },
-  {
-    "source": "Lesette Wilson",
-    "target": "Philip Bailey",
-    "targetId": "2786"
-  },
-  {
-    "source": "Lesette Wilson",
-    "target": "Daryl Stuermer",
-    "targetId": "2791"
-  }
-]
+{
+  "source": "Lesette Wilson",
+  "targets": [
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Nathan East",
+      "targetId": "403"
+    },
+    {
+      "name": "Philip Bailey",
+      "targetId": "2786"
+    },
+    {
+      "name": "Daryl Stuermer",
+      "targetId": "2791"
+    }
+  ]
+}

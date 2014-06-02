@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dave Brockie",
-    "target": "Brad Roberts",
-    "targetId": "2139"
-  },
-  {
-    "source": "Dave Brockie",
-    "target": "Casey Orr",
-    "targetId": "2140"
-  },
-  {
-    "source": "Dave Brockie",
-    "target": "Mike Derks",
-    "targetId": "2142"
-  },
-  {
-    "source": "Dave Brockie",
-    "target": "Zach Blair",
-    "targetId": "2143"
-  }
-]
+{
+  "source": "Dave Brockie",
+  "targets": [
+    {
+      "name": "Brad Roberts",
+      "targetId": "2139"
+    },
+    {
+      "name": "Casey Orr",
+      "targetId": "2140"
+    },
+    {
+      "name": "Mike Derks",
+      "targetId": "2142"
+    },
+    {
+      "name": "Zach Blair",
+      "targetId": "2143"
+    }
+  ]
+}

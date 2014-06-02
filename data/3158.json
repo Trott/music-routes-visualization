@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dave Krusen",
-    "target": "Eddie Vedder",
-    "targetId": "756"
-  },
-  {
-    "source": "Dave Krusen",
-    "target": "Jeff Ament",
-    "targetId": "3157"
-  },
-  {
-    "source": "Dave Krusen",
-    "target": "Stone Gossard",
-    "targetId": "3159"
-  },
-  {
-    "source": "Dave Krusen",
-    "target": "Mike McCready",
-    "targetId": "3160"
-  }
-]
+{
+  "source": "Dave Krusen",
+  "targets": [
+    {
+      "name": "Eddie Vedder",
+      "targetId": "756"
+    },
+    {
+      "name": "Jeff Ament",
+      "targetId": "3157"
+    },
+    {
+      "name": "Stone Gossard",
+      "targetId": "3159"
+    },
+    {
+      "name": "Mike McCready",
+      "targetId": "3160"
+    }
+  ]
+}

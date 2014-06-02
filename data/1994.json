@@ -1,227 +1,185 @@
-[
-  {
-    "source": "Charlie Watts",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Jack White",
-    "targetId": "256"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Bill Wyman",
-    "targetId": "304"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Ian Stewart",
-    "targetId": "306"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Ry Cooder",
-    "targetId": "372"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Gregory Cohen",
-    "targetId": "428"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Byron Berline",
-    "targetId": "456"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Bobby Keyes",
-    "targetId": "644"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Sheryl Crow",
-    "targetId": "1018"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Merry Clayton",
-    "targetId": "1403"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Brian Jones",
-    "targetId": "1993"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Mick Taylor",
-    "targetId": "1995"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Jimmy Miller",
-    "targetId": "1997"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Nanette Newman",
-    "targetId": "1998"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Leon Russell",
-    "targetId": "1999"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Rocky Dijon",
-    "targetId": "2000"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Buddy Guy",
-    "targetId": "2172"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Daryl Jones",
-    "targetId": "2174"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Christina Aguilera",
-    "targetId": "2175"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Jim Dickinson",
-    "targetId": "3082"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Peter Frampton",
-    "targetId": "3166"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Jim Price",
-    "targetId": "3197"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Sonny Rollins",
-    "targetId": "4556"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Jack Nitzsche",
-    "targetId": "5465"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Ollie Brown",
-    "targetId": "5664"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Chuck Leavell",
-    "targetId": "6200"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Meshell Ndegeocello",
-    "targetId": "6729"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Pierre De Beaumont",
-    "targetId": "6746"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Bernard Fowler",
-    "targetId": "6747"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Blondie Chaplin",
-    "targetId": "6748"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Solomon Burke",
-    "targetId": "7234"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Arno Hecht",
-    "targetId": "7569"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Crispin Cioe",
-    "targetId": "7570"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Bob Funk",
-    "targetId": "7571"
-  },
-  {
-    "source": "Charlie Watts",
-    "target": "Paul Litteral",
-    "targetId": "7572"
-  }
-]
+{
+  "source": "Charlie Watts",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Jack White",
+      "targetId": "256"
+    },
+    {
+      "name": "Bill Wyman",
+      "targetId": "304"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Ian Stewart",
+      "targetId": "306"
+    },
+    {
+      "name": "Ry Cooder",
+      "targetId": "372"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "Gregory Cohen",
+      "targetId": "428"
+    },
+    {
+      "name": "Byron Berline",
+      "targetId": "456"
+    },
+    {
+      "name": "Bobby Keyes",
+      "targetId": "644"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Sheryl Crow",
+      "targetId": "1018"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Merry Clayton",
+      "targetId": "1403"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    },
+    {
+      "name": "Brian Jones",
+      "targetId": "1993"
+    },
+    {
+      "name": "Mick Taylor",
+      "targetId": "1995"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Jimmy Miller",
+      "targetId": "1997"
+    },
+    {
+      "name": "Nanette Newman",
+      "targetId": "1998"
+    },
+    {
+      "name": "Leon Russell",
+      "targetId": "1999"
+    },
+    {
+      "name": "Rocky Dijon",
+      "targetId": "2000"
+    },
+    {
+      "name": "Buddy Guy",
+      "targetId": "2172"
+    },
+    {
+      "name": "Daryl Jones",
+      "targetId": "2174"
+    },
+    {
+      "name": "Christina Aguilera",
+      "targetId": "2175"
+    },
+    {
+      "name": "Jim Dickinson",
+      "targetId": "3082"
+    },
+    {
+      "name": "Peter Frampton",
+      "targetId": "3166"
+    },
+    {
+      "name": "Jim Price",
+      "targetId": "3197"
+    },
+    {
+      "name": "Sonny Rollins",
+      "targetId": "4556"
+    },
+    {
+      "name": "Jack Nitzsche",
+      "targetId": "5465"
+    },
+    {
+      "name": "Ollie Brown",
+      "targetId": "5664"
+    },
+    {
+      "name": "Chuck Leavell",
+      "targetId": "6200"
+    },
+    {
+      "name": "Meshell Ndegeocello",
+      "targetId": "6729"
+    },
+    {
+      "name": "Pierre De Beaumont",
+      "targetId": "6746"
+    },
+    {
+      "name": "Bernard Fowler",
+      "targetId": "6747"
+    },
+    {
+      "name": "Blondie Chaplin",
+      "targetId": "6748"
+    },
+    {
+      "name": "Solomon Burke",
+      "targetId": "7234"
+    },
+    {
+      "name": "Arno Hecht",
+      "targetId": "7569"
+    },
+    {
+      "name": "Crispin Cioe",
+      "targetId": "7570"
+    },
+    {
+      "name": "Bob Funk",
+      "targetId": "7571"
+    },
+    {
+      "name": "Paul Litteral",
+      "targetId": "7572"
+    }
+  ]
+}

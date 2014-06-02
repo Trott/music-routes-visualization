@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Keith McCaw",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Keith McCaw",
-    "target": "Nels Cline",
-    "targetId": "758"
-  },
-  {
-    "source": "Keith McCaw",
-    "target": "Michael Preussner",
-    "targetId": "761"
-  },
-  {
-    "source": "Keith McCaw",
-    "target": "Stephen Perkins",
-    "targetId": "768"
-  },
-  {
-    "source": "Keith McCaw",
-    "target": "Frank Black",
-    "targetId": "769"
-  }
-]
+{
+  "source": "Keith McCaw",
+  "targets": [
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Nels Cline",
+      "targetId": "758"
+    },
+    {
+      "name": "Michael Preussner",
+      "targetId": "761"
+    },
+    {
+      "name": "Stephen Perkins",
+      "targetId": "768"
+    },
+    {
+      "name": "Frank Black",
+      "targetId": "769"
+    }
+  ]
+}

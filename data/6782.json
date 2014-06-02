@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Matt Gentling",
-    "target": "Eric Bachmann",
-    "targetId": "6780"
-  },
-  {
-    "source": "Matt Gentling",
-    "target": "Eric Johnson",
-    "targetId": "6781"
-  },
-  {
-    "source": "Matt Gentling",
-    "target": "Mark Price",
-    "targetId": "6783"
-  }
-]
+{
+  "source": "Matt Gentling",
+  "targets": [
+    {
+      "name": "Eric Bachmann",
+      "targetId": "6780"
+    },
+    {
+      "name": "Eric Johnson",
+      "targetId": "6781"
+    },
+    {
+      "name": "Mark Price",
+      "targetId": "6783"
+    }
+  ]
+}

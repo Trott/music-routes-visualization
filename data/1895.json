@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jimmy Crespo",
-    "target": "Paul Shortino",
-    "targetId": "147"
-  },
-  {
-    "source": "Jimmy Crespo",
-    "target": "Steven Tyler",
-    "targetId": "1889"
-  },
-  {
-    "source": "Jimmy Crespo",
-    "target": "Joey Kramer",
-    "targetId": "1891"
-  },
-  {
-    "source": "Jimmy Crespo",
-    "target": "Tom Hamilton",
-    "targetId": "1893"
-  },
-  {
-    "source": "Jimmy Crespo",
-    "target": "Rick Dufay",
-    "targetId": "1894"
-  }
-]
+{
+  "source": "Jimmy Crespo",
+  "targets": [
+    {
+      "name": "Paul Shortino",
+      "targetId": "147"
+    },
+    {
+      "name": "Steven Tyler",
+      "targetId": "1889"
+    },
+    {
+      "name": "Joey Kramer",
+      "targetId": "1891"
+    },
+    {
+      "name": "Tom Hamilton",
+      "targetId": "1893"
+    },
+    {
+      "name": "Rick Dufay",
+      "targetId": "1894"
+    }
+  ]
+}

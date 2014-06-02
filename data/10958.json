@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Mandy Meyer",
-    "target": "John Wetton",
-    "targetId": "527"
-  },
-  {
-    "source": "Mandy Meyer",
-    "target": "Geoff Downes",
-    "targetId": "3639"
-  },
-  {
-    "source": "Mandy Meyer",
-    "target": "Carl Palmer",
-    "targetId": "5052"
-  },
-  {
-    "source": "Mandy Meyer",
-    "target": "Mike Alonso",
-    "targetId": "10952"
-  },
-  {
-    "source": "Mandy Meyer",
-    "target": "Caine Carruthers",
-    "targetId": "10956"
-  },
-  {
-    "source": "Mandy Meyer",
-    "target": "Dave King",
-    "targetId": "10957"
-  }
-]
+{
+  "source": "Mandy Meyer",
+  "targets": [
+    {
+      "name": "John Wetton",
+      "targetId": "527"
+    },
+    {
+      "name": "Geoff Downes",
+      "targetId": "3639"
+    },
+    {
+      "name": "Carl Palmer",
+      "targetId": "5052"
+    },
+    {
+      "name": "Mike Alonso",
+      "targetId": "10952"
+    },
+    {
+      "name": "Caine Carruthers",
+      "targetId": "10956"
+    },
+    {
+      "name": "Dave King",
+      "targetId": "10957"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Louie Bellson",
-    "target": "Duke Ellington",
-    "targetId": "1912"
-  },
-  {
-    "source": "Louie Bellson",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Louie Bellson",
-    "target": "Joe Pass",
-    "targetId": "1926"
-  },
-  {
-    "source": "Louie Bellson",
-    "target": "Oscar Peterson",
-    "targetId": "2491"
-  },
-  {
-    "source": "Louie Bellson",
-    "target": "Sarah Vaughan",
-    "targetId": "6888"
-  }
-]
+{
+  "source": "Louie Bellson",
+  "targets": [
+    {
+      "name": "Duke Ellington",
+      "targetId": "1912"
+    },
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Joe Pass",
+      "targetId": "1926"
+    },
+    {
+      "name": "Oscar Peterson",
+      "targetId": "2491"
+    },
+    {
+      "name": "Sarah Vaughan",
+      "targetId": "6888"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Alf Svensson",
-    "target": "Adrian Erlandsson",
-    "targetId": "9164"
-  },
-  {
-    "source": "Alf Svensson",
-    "target": "Tomas Lindberg",
-    "targetId": "9166"
-  },
-  {
-    "source": "Alf Svensson",
-    "target": "Anders Björler",
-    "targetId": "9168"
-  },
-  {
-    "source": "Alf Svensson",
-    "target": "Jonas Björler",
-    "targetId": "9169"
-  }
-]
+{
+  "source": "Alf Svensson",
+  "targets": [
+    {
+      "name": "Adrian Erlandsson",
+      "targetId": "9164"
+    },
+    {
+      "name": "Tomas Lindberg",
+      "targetId": "9166"
+    },
+    {
+      "name": "Anders Björler",
+      "targetId": "9168"
+    },
+    {
+      "name": "Jonas Björler",
+      "targetId": "9169"
+    }
+  ]
+}

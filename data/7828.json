@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Alex Bilowitz",
-    "target": "Vanessa Hudgens",
-    "targetId": "7824"
-  },
-  {
-    "source": "Alex Bilowitz",
-    "target": "Allen Towbin",
-    "targetId": "7825"
-  },
-  {
-    "source": "Alex Bilowitz",
-    "target": "Tyrone Johnson",
-    "targetId": "7826"
-  },
-  {
-    "source": "Alex Bilowitz",
-    "target": "Andrae Alexander",
-    "targetId": "7827"
-  },
-  {
-    "source": "Alex Bilowitz",
-    "target": "Scott Jacoby",
-    "targetId": "7829"
-  }
-]
+{
+  "source": "Alex Bilowitz",
+  "targets": [
+    {
+      "name": "Vanessa Hudgens",
+      "targetId": "7824"
+    },
+    {
+      "name": "Allen Towbin",
+      "targetId": "7825"
+    },
+    {
+      "name": "Tyrone Johnson",
+      "targetId": "7826"
+    },
+    {
+      "name": "Andrae Alexander",
+      "targetId": "7827"
+    },
+    {
+      "name": "Scott Jacoby",
+      "targetId": "7829"
+    }
+  ]
+}

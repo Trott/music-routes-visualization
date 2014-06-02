@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Robert Gutierrez",
-    "target": "Jackson Browne",
-    "targetId": "669"
-  },
-  {
-    "source": "Robert Gutierrez",
-    "target": "Arthur Gerst",
-    "targetId": "1008"
-  },
-  {
-    "source": "Robert Gutierrez",
-    "target": "Luis Damian",
-    "targetId": "1009"
-  }
-]
+{
+  "source": "Robert Gutierrez",
+  "targets": [
+    {
+      "name": "Jackson Browne",
+      "targetId": "669"
+    },
+    {
+      "name": "Arthur Gerst",
+      "targetId": "1008"
+    },
+    {
+      "name": "Luis Damian",
+      "targetId": "1009"
+    }
+  ]
+}

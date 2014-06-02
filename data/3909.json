@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Bobby Schayer",
-    "target": "Tim Armstrong",
-    "targetId": "2551"
-  },
-  {
-    "source": "Bobby Schayer",
-    "target": "Wayne Kramer",
-    "targetId": "2728"
-  },
-  {
-    "source": "Bobby Schayer",
-    "target": "Jay Bentley",
-    "targetId": "3908"
-  },
-  {
-    "source": "Bobby Schayer",
-    "target": "Brett Gurewitz",
-    "targetId": "3910"
-  },
-  {
-    "source": "Bobby Schayer",
-    "target": "Greg Hetson",
-    "targetId": "3911"
-  },
-  {
-    "source": "Bobby Schayer",
-    "target": "Greg Graffin",
-    "targetId": "3912"
-  }
-]
+{
+  "source": "Bobby Schayer",
+  "targets": [
+    {
+      "name": "Tim Armstrong",
+      "targetId": "2551"
+    },
+    {
+      "name": "Wayne Kramer",
+      "targetId": "2728"
+    },
+    {
+      "name": "Jay Bentley",
+      "targetId": "3908"
+    },
+    {
+      "name": "Brett Gurewitz",
+      "targetId": "3910"
+    },
+    {
+      "name": "Greg Hetson",
+      "targetId": "3911"
+    },
+    {
+      "name": "Greg Graffin",
+      "targetId": "3912"
+    }
+  ]
+}

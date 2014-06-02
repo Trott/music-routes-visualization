@@ -1,12 +1,13 @@
-[
-  {
-    "source": "James Gaylyn",
-    "target": "Pauly Fuemana",
-    "targetId": "3310"
-  },
-  {
-    "source": "James Gaylyn",
-    "target": "Juliet Primrose",
-    "targetId": "3321"
-  }
-]
+{
+  "source": "James Gaylyn",
+  "targets": [
+    {
+      "name": "Pauly Fuemana",
+      "targetId": "3310"
+    },
+    {
+      "name": "Juliet Primrose",
+      "targetId": "3321"
+    }
+  ]
+}

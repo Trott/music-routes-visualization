@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Vicki Peterson",
-    "target": "Susanna Hoffs",
-    "targetId": "6616"
-  },
-  {
-    "source": "Vicki Peterson",
-    "target": "David Roback",
-    "targetId": "7745"
-  },
-  {
-    "source": "Vicki Peterson",
-    "target": "Michael Quercio",
-    "targetId": "7749"
-  }
-]
+{
+  "source": "Vicki Peterson",
+  "targets": [
+    {
+      "name": "Susanna Hoffs",
+      "targetId": "6616"
+    },
+    {
+      "name": "David Roback",
+      "targetId": "7745"
+    },
+    {
+      "name": "Michael Quercio",
+      "targetId": "7749"
+    }
+  ]
+}

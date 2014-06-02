@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Herb Lovelle",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Herb Lovelle",
-    "target": "Bruce Langhorne",
-    "targetId": "10028"
-  },
-  {
-    "source": "Herb Lovelle",
-    "target": "Leonard Gaskin",
-    "targetId": "10051"
-  }
-]
+{
+  "source": "Herb Lovelle",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Bruce Langhorne",
+      "targetId": "10028"
+    },
+    {
+      "name": "Leonard Gaskin",
+      "targetId": "10051"
+    }
+  ]
+}

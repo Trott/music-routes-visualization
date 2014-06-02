@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Trevor Griffin",
-    "target": "Andy Scott",
-    "targetId": "3697"
-  },
-  {
-    "source": "Trevor Griffin",
-    "target": "Mick Tucker",
-    "targetId": "3699"
-  },
-  {
-    "source": "Trevor Griffin",
-    "target": "Steve Norman Priest",
-    "targetId": "9510"
-  },
-  {
-    "source": "Trevor Griffin",
-    "target": "Brian Francis Connolly",
-    "targetId": "9511"
-  }
-]
+{
+  "source": "Trevor Griffin",
+  "targets": [
+    {
+      "name": "Andy Scott",
+      "targetId": "3697"
+    },
+    {
+      "name": "Mick Tucker",
+      "targetId": "3699"
+    },
+    {
+      "name": "Steve Norman Priest",
+      "targetId": "9510"
+    },
+    {
+      "name": "Brian Francis Connolly",
+      "targetId": "9511"
+    }
+  ]
+}

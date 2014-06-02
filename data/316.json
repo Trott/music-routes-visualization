@@ -1,22 +1,21 @@
-[
-  {
-    "source": "David Stone",
-    "target": "Ronnie James Dio",
-    "targetId": "139"
-  },
-  {
-    "source": "David Stone",
-    "target": "Cozy Powell",
-    "targetId": "312"
-  },
-  {
-    "source": "David Stone",
-    "target": "Ritchie Blackmore",
-    "targetId": "314"
-  },
-  {
-    "source": "David Stone",
-    "target": "Bob Daisley",
-    "targetId": "315"
-  }
-]
+{
+  "source": "David Stone",
+  "targets": [
+    {
+      "name": "Ronnie James Dio",
+      "targetId": "139"
+    },
+    {
+      "name": "Cozy Powell",
+      "targetId": "312"
+    },
+    {
+      "name": "Ritchie Blackmore",
+      "targetId": "314"
+    },
+    {
+      "name": "Bob Daisley",
+      "targetId": "315"
+    }
+  ]
+}

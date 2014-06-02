@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Coleridge Goode",
-    "target": "Django Reinhardt",
-    "targetId": "1156"
-  },
-  {
-    "source": "Coleridge Goode",
-    "target": "Alan Hodgkiss",
-    "targetId": "1158"
-  },
-  {
-    "source": "Coleridge Goode",
-    "target": "Jack Llewellyn",
-    "targetId": "1159"
-  },
-  {
-    "source": "Coleridge Goode",
-    "target": "Stéphane Grappelli",
-    "targetId": "1160"
-  }
-]
+{
+  "source": "Coleridge Goode",
+  "targets": [
+    {
+      "name": "Django Reinhardt",
+      "targetId": "1156"
+    },
+    {
+      "name": "Alan Hodgkiss",
+      "targetId": "1158"
+    },
+    {
+      "name": "Jack Llewellyn",
+      "targetId": "1159"
+    },
+    {
+      "name": "Stéphane Grappelli",
+      "targetId": "1160"
+    }
+  ]
+}

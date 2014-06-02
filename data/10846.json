@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bruce Fairweather",
-    "target": "Jeff Ament",
-    "targetId": "3157"
-  },
-  {
-    "source": "Bruce Fairweather",
-    "target": "Stone Gossard",
-    "targetId": "3159"
-  },
-  {
-    "source": "Bruce Fairweather",
-    "target": "Andrew Wood",
-    "targetId": "10844"
-  },
-  {
-    "source": "Bruce Fairweather",
-    "target": "Greg Gilmore",
-    "targetId": "10845"
-  }
-]
+{
+  "source": "Bruce Fairweather",
+  "targets": [
+    {
+      "name": "Jeff Ament",
+      "targetId": "3157"
+    },
+    {
+      "name": "Stone Gossard",
+      "targetId": "3159"
+    },
+    {
+      "name": "Andrew Wood",
+      "targetId": "10844"
+    },
+    {
+      "name": "Greg Gilmore",
+      "targetId": "10845"
+    }
+  ]
+}

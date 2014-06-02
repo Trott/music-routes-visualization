@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Ann Magnuson",
-    "target": "Kramer",
-    "targetId": "1436"
-  },
-  {
-    "source": "Ann Magnuson",
-    "target": "Dave Rick",
-    "targetId": "3232"
-  },
-  {
-    "source": "Ann Magnuson",
-    "target": "David Licht",
-    "targetId": "3233"
-  }
-]
+{
+  "source": "Ann Magnuson",
+  "targets": [
+    {
+      "name": "Kramer",
+      "targetId": "1436"
+    },
+    {
+      "name": "Dave Rick",
+      "targetId": "3232"
+    },
+    {
+      "name": "David Licht",
+      "targetId": "3233"
+    }
+  ]
+}

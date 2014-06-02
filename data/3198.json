@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Roger Coolan",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Roger Coolan",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Roger Coolan",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Roger Coolan",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Roger Coolan",
-    "target": "Harry Nilsson",
-    "targetId": "3193"
-  },
-  {
-    "source": "Roger Coolan",
-    "target": "Chris Spedding",
-    "targetId": "3195"
-  },
-  {
-    "source": "Roger Coolan",
-    "target": "Jim Price",
-    "targetId": "3197"
-  }
-]
+{
+  "source": "Roger Coolan",
+  "targets": [
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Harry Nilsson",
+      "targetId": "3193"
+    },
+    {
+      "name": "Chris Spedding",
+      "targetId": "3195"
+    },
+    {
+      "name": "Jim Price",
+      "targetId": "3197"
+    }
+  ]
+}

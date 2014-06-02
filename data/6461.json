@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Jørun Bøgeberg",
-    "target": "Morten Harket",
-    "targetId": "6454"
-  },
-  {
-    "source": "Jørun Bøgeberg",
-    "target": "Magne Furuholmen",
-    "targetId": "6455"
-  },
-  {
-    "source": "Jørun Bøgeberg",
-    "target": "Paul Waaktaar-Savoy",
-    "targetId": "6456"
-  },
-  {
-    "source": "Jørun Bøgeberg",
-    "target": "Per Hillestad",
-    "targetId": "6459"
-  },
-  {
-    "source": "Jørun Bøgeberg",
-    "target": "Lauren Savoy",
-    "targetId": "6460"
-  }
-]
+{
+  "source": "Jørun Bøgeberg",
+  "targets": [
+    {
+      "name": "Morten Harket",
+      "targetId": "6454"
+    },
+    {
+      "name": "Magne Furuholmen",
+      "targetId": "6455"
+    },
+    {
+      "name": "Paul Waaktaar-Savoy",
+      "targetId": "6456"
+    },
+    {
+      "name": "Per Hillestad",
+      "targetId": "6459"
+    },
+    {
+      "name": "Lauren Savoy",
+      "targetId": "6460"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Gloria Barley",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Gloria Barley",
-    "target": "James Gilstrap",
-    "targetId": "2355"
-  },
-  {
-    "source": "Gloria Barley",
-    "target": "Scott Edwards",
-    "targetId": "2906"
-  },
-  {
-    "source": "Gloria Barley",
-    "target": "Lani Groves",
-    "targetId": "4687"
-  },
-  {
-    "source": "Gloria Barley",
-    "target": "Daniel Ben Zebulon",
-    "targetId": "8230"
-  }
-]
+{
+  "source": "Gloria Barley",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "James Gilstrap",
+      "targetId": "2355"
+    },
+    {
+      "name": "Scott Edwards",
+      "targetId": "2906"
+    },
+    {
+      "name": "Lani Groves",
+      "targetId": "4687"
+    },
+    {
+      "name": "Daniel Ben Zebulon",
+      "targetId": "8230"
+    }
+  ]
+}

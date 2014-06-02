@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Uncle Reo",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Uncle Reo",
-    "target": "DJ Premier",
-    "targetId": "6657"
-  },
-  {
-    "source": "Uncle Reo",
-    "target": "Guru",
-    "targetId": "8936"
-  }
-]
+{
+  "source": "Uncle Reo",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "DJ Premier",
+      "targetId": "6657"
+    },
+    {
+      "name": "Guru",
+      "targetId": "8936"
+    }
+  ]
+}

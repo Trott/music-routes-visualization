@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mike Sweeney",
-    "target": "A.J. Mogis",
-    "targetId": "3252"
-  },
-  {
-    "source": "Mike Sweeney",
-    "target": "Katie Muth",
-    "targetId": "9440"
-  },
-  {
-    "source": "Mike Sweeney",
-    "target": "Eric Bemberger",
-    "targetId": "9442"
-  },
-  {
-    "source": "Mike Sweeney",
-    "target": "Chris Hughes",
-    "targetId": "9443"
-  },
-  {
-    "source": "Mike Sweeney",
-    "target": "Joel Petersen",
-    "targetId": "9444"
-  }
-]
+{
+  "source": "Mike Sweeney",
+  "targets": [
+    {
+      "name": "A.J. Mogis",
+      "targetId": "3252"
+    },
+    {
+      "name": "Katie Muth",
+      "targetId": "9440"
+    },
+    {
+      "name": "Eric Bemberger",
+      "targetId": "9442"
+    },
+    {
+      "name": "Chris Hughes",
+      "targetId": "9443"
+    },
+    {
+      "name": "Joel Petersen",
+      "targetId": "9444"
+    }
+  ]
+}

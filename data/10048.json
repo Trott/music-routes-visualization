@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Donna Weis",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Donna Weis",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Donna Weis",
-    "target": "Roger McGuinn",
-    "targetId": "308"
-  },
-  {
-    "source": "Donna Weis",
-    "target": "Carl Fortina",
-    "targetId": "1479"
-  },
-  {
-    "source": "Donna Weis",
-    "target": "Terry Paul",
-    "targetId": "10046"
-  },
-  {
-    "source": "Donna Weis",
-    "target": "Carol Hunter",
-    "targetId": "10047"
-  },
-  {
-    "source": "Donna Weis",
-    "target": "Brenda Patterson",
-    "targetId": "10049"
-  }
-]
+{
+  "source": "Donna Weis",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Roger McGuinn",
+      "targetId": "308"
+    },
+    {
+      "name": "Carl Fortina",
+      "targetId": "1479"
+    },
+    {
+      "name": "Terry Paul",
+      "targetId": "10046"
+    },
+    {
+      "name": "Carol Hunter",
+      "targetId": "10047"
+    },
+    {
+      "name": "Brenda Patterson",
+      "targetId": "10049"
+    }
+  ]
+}

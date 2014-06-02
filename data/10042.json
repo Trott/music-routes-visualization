@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Daryl Johnson",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Daryl Johnson",
-    "target": "Daniel Lanois",
-    "targetId": "2195"
-  },
-  {
-    "source": "Daryl Johnson",
-    "target": "Willie Green",
-    "targetId": "9952"
-  },
-  {
-    "source": "Daryl Johnson",
-    "target": "Malcolm Burn",
-    "targetId": "10039"
-  },
-  {
-    "source": "Daryl Johnson",
-    "target": "Tony Hall",
-    "targetId": "10040"
-  },
-  {
-    "source": "Daryl Johnson",
-    "target": "Brian Stoltz",
-    "targetId": "10041"
-  }
-]
+{
+  "source": "Daryl Johnson",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Daniel Lanois",
+      "targetId": "2195"
+    },
+    {
+      "name": "Willie Green",
+      "targetId": "9952"
+    },
+    {
+      "name": "Malcolm Burn",
+      "targetId": "10039"
+    },
+    {
+      "name": "Tony Hall",
+      "targetId": "10040"
+    },
+    {
+      "name": "Brian Stoltz",
+      "targetId": "10041"
+    }
+  ]
+}

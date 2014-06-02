@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Sam Phipps",
-    "target": "Richard Gibbs",
-    "targetId": "6208"
-  },
-  {
-    "source": "Sam Phipps",
-    "target": "Danny Elfman",
-    "targetId": "10925"
-  },
-  {
-    "source": "Sam Phipps",
-    "target": "Leon Schneiderman",
-    "targetId": "10926"
-  },
-  {
-    "source": "Sam Phipps",
-    "target": "Kerry Hatch",
-    "targetId": "10927"
-  },
-  {
-    "source": "Sam Phipps",
-    "target": "Johnny \"Vatos\" Hernandez",
-    "targetId": "10928"
-  },
-  {
-    "source": "Sam Phipps",
-    "target": "Steve Vartek",
-    "targetId": "10929"
-  },
-  {
-    "source": "Sam Phipps",
-    "target": "Dale Turner",
-    "targetId": "10931"
-  }
-]
+{
+  "source": "Sam Phipps",
+  "targets": [
+    {
+      "name": "Richard Gibbs",
+      "targetId": "6208"
+    },
+    {
+      "name": "Danny Elfman",
+      "targetId": "10925"
+    },
+    {
+      "name": "Leon Schneiderman",
+      "targetId": "10926"
+    },
+    {
+      "name": "Kerry Hatch",
+      "targetId": "10927"
+    },
+    {
+      "name": "Johnny \"Vatos\" Hernandez",
+      "targetId": "10928"
+    },
+    {
+      "name": "Steve Vartek",
+      "targetId": "10929"
+    },
+    {
+      "name": "Dale Turner",
+      "targetId": "10931"
+    }
+  ]
+}

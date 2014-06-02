@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Jimmy Waldo",
-    "target": "Steve Vai",
-    "targetId": "1293"
-  },
-  {
-    "source": "Jimmy Waldo",
-    "target": "Graham Bonnet",
-    "targetId": "10231"
-  },
-  {
-    "source": "Jimmy Waldo",
-    "target": "Gary Shea",
-    "targetId": "10232"
-  },
-  {
-    "source": "Jimmy Waldo",
-    "target": "Jan Uvena",
-    "targetId": "10233"
-  }
-]
+{
+  "source": "Jimmy Waldo",
+  "targets": [
+    {
+      "name": "Steve Vai",
+      "targetId": "1293"
+    },
+    {
+      "name": "Graham Bonnet",
+      "targetId": "10231"
+    },
+    {
+      "name": "Gary Shea",
+      "targetId": "10232"
+    },
+    {
+      "name": "Jan Uvena",
+      "targetId": "10233"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brian Ritchie",
-    "target": "Leo Kottke",
-    "targetId": "9056"
-  },
-  {
-    "source": "Brian Ritchie",
-    "target": "Gordon Gano",
-    "targetId": "9057"
-  },
-  {
-    "source": "Brian Ritchie",
-    "target": "Victor DeLorenzo",
-    "targetId": "9058"
-  }
-]
+{
+  "source": "Brian Ritchie",
+  "targets": [
+    {
+      "name": "Leo Kottke",
+      "targetId": "9056"
+    },
+    {
+      "name": "Gordon Gano",
+      "targetId": "9057"
+    },
+    {
+      "name": "Victor DeLorenzo",
+      "targetId": "9058"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Eric Spicer",
-    "target": "Bill Rieflin",
-    "targetId": "889"
-  },
-  {
-    "source": "Eric Spicer",
-    "target": "Al Jourgensen",
-    "targetId": "1581"
-  },
-  {
-    "source": "Eric Spicer",
-    "target": "Paul Barker",
-    "targetId": "2024"
-  },
-  {
-    "source": "Eric Spicer",
-    "target": "Ian MacKaye",
-    "targetId": "3156"
-  }
-]
+{
+  "source": "Eric Spicer",
+  "targets": [
+    {
+      "name": "Bill Rieflin",
+      "targetId": "889"
+    },
+    {
+      "name": "Al Jourgensen",
+      "targetId": "1581"
+    },
+    {
+      "name": "Paul Barker",
+      "targetId": "2024"
+    },
+    {
+      "name": "Ian MacKaye",
+      "targetId": "3156"
+    }
+  ]
+}

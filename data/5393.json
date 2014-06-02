@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Brian O'Connor",
-    "target": "Peaches",
-    "targetId": "1831"
-  },
-  {
-    "source": "Brian O'Connor",
-    "target": "David Catching",
-    "targetId": "2086"
-  },
-  {
-    "source": "Brian O'Connor",
-    "target": "Joan Jett",
-    "targetId": "2087"
-  },
-  {
-    "source": "Brian O'Connor",
-    "target": "Jerry DiRienzo",
-    "targetId": "2088"
-  },
-  {
-    "source": "Brian O'Connor",
-    "target": "Samantha Maloney",
-    "targetId": "5392"
-  }
-]
+{
+  "source": "Brian O'Connor",
+  "targets": [
+    {
+      "name": "Peaches",
+      "targetId": "1831"
+    },
+    {
+      "name": "David Catching",
+      "targetId": "2086"
+    },
+    {
+      "name": "Joan Jett",
+      "targetId": "2087"
+    },
+    {
+      "name": "Jerry DiRienzo",
+      "targetId": "2088"
+    },
+    {
+      "name": "Samantha Maloney",
+      "targetId": "5392"
+    }
+  ]
+}

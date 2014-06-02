@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jason Cooper",
-    "target": "Robert Smith",
-    "targetId": "363"
-  },
-  {
-    "source": "Jason Cooper",
-    "target": "Reeves Gabrels",
-    "targetId": "365"
-  }
-]
+{
+  "source": "Jason Cooper",
+  "targets": [
+    {
+      "name": "Robert Smith",
+      "targetId": "363"
+    },
+    {
+      "name": "Reeves Gabrels",
+      "targetId": "365"
+    }
+  ]
+}

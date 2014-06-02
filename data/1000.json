@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Dale Pickard",
-    "target": "Michael Mullen",
-    "targetId": "19"
-  },
-  {
-    "source": "Dale Pickard",
-    "target": "Adam Klein",
-    "targetId": "20"
-  },
-  {
-    "source": "Dale Pickard",
-    "target": "Nicole Brodsky",
-    "targetId": "999"
-  },
-  {
-    "source": "Dale Pickard",
-    "target": "Tim Mooney",
-    "targetId": "1001"
-  },
-  {
-    "source": "Dale Pickard",
-    "target": "Carlos Forster",
-    "targetId": "1002"
-  },
-  {
-    "source": "Dale Pickard",
-    "target": "Laura Hanna",
-    "targetId": "1003"
-  }
-]
+{
+  "source": "Dale Pickard",
+  "targets": [
+    {
+      "name": "Michael Mullen",
+      "targetId": "19"
+    },
+    {
+      "name": "Adam Klein",
+      "targetId": "20"
+    },
+    {
+      "name": "Nicole Brodsky",
+      "targetId": "999"
+    },
+    {
+      "name": "Tim Mooney",
+      "targetId": "1001"
+    },
+    {
+      "name": "Carlos Forster",
+      "targetId": "1002"
+    },
+    {
+      "name": "Laura Hanna",
+      "targetId": "1003"
+    }
+  ]
+}

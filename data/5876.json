@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Mary Wilson",
-    "target": "Diana Ross",
-    "targetId": "78"
-  },
-  {
-    "source": "Mary Wilson",
-    "target": "Florence Ballard",
-    "targetId": "5875"
-  }
-]
+{
+  "source": "Mary Wilson",
+  "targets": [
+    {
+      "name": "Diana Ross",
+      "targetId": "78"
+    },
+    {
+      "name": "Florence Ballard",
+      "targetId": "5875"
+    }
+  ]
+}

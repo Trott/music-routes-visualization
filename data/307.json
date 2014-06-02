@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Chris Winters",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Chris Winters",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Chris Winters",
-    "target": "Bill Wyman",
-    "targetId": "304"
-  },
-  {
-    "source": "Chris Winters",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Chris Winters",
-    "target": "Ian Stewart",
-    "targetId": "306"
-  }
-]
+{
+  "source": "Chris Winters",
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Bill Wyman",
+      "targetId": "304"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Ian Stewart",
+      "targetId": "306"
+    }
+  ]
+}

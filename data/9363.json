@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Alan White",
-    "target": "Noel Gallagher",
-    "targetId": "2067"
-  },
-  {
-    "source": "Alan White",
-    "target": "Liam Gallagher",
-    "targetId": "2068"
-  },
-  {
-    "source": "Alan White",
-    "target": "Andy Bell",
-    "targetId": "2776"
-  },
-  {
-    "source": "Alan White",
-    "target": "Gem Archer",
-    "targetId": "2778"
-  },
-  {
-    "source": "Alan White",
-    "target": "Paul Stacey",
-    "targetId": "9364"
-  }
-]
+{
+  "source": "Alan White",
+  "targets": [
+    {
+      "name": "Noel Gallagher",
+      "targetId": "2067"
+    },
+    {
+      "name": "Liam Gallagher",
+      "targetId": "2068"
+    },
+    {
+      "name": "Andy Bell",
+      "targetId": "2776"
+    },
+    {
+      "name": "Gem Archer",
+      "targetId": "2778"
+    },
+    {
+      "name": "Paul Stacey",
+      "targetId": "9364"
+    }
+  ]
+}

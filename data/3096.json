@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Scott Blue",
-    "target": "Jimmy Tamborello",
-    "targetId": "3024"
-  },
-  {
-    "source": "Scott Blue",
-    "target": "Sonya Westcott",
-    "targetId": "3097"
-  },
-  {
-    "source": "Scott Blue",
-    "target": "Grant Olsen",
-    "targetId": "3098"
-  }
-]
+{
+  "source": "Scott Blue",
+  "targets": [
+    {
+      "name": "Jimmy Tamborello",
+      "targetId": "3024"
+    },
+    {
+      "name": "Sonya Westcott",
+      "targetId": "3097"
+    },
+    {
+      "name": "Grant Olsen",
+      "targetId": "3098"
+    }
+  ]
+}

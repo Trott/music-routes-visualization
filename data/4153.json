@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Mike Kelly",
-    "target": "Madeline Bell",
-    "targetId": "810"
-  },
-  {
-    "source": "Mike Kelly",
-    "target": "Steve Winwood",
-    "targetId": "905"
-  },
-  {
-    "source": "Mike Kelly",
-    "target": "Joe Cocker",
-    "targetId": "4141"
-  },
-  {
-    "source": "Mike Kelly",
-    "target": "Chris Stainton",
-    "targetId": "4149"
-  },
-  {
-    "source": "Mike Kelly",
-    "target": "Su Wheetman",
-    "targetId": "4151"
-  },
-  {
-    "source": "Mike Kelly",
-    "target": "Sunny Wheetman",
-    "targetId": "4152"
-  },
-  {
-    "source": "Mike Kelly",
-    "target": "Henry McCullough",
-    "targetId": "4154"
-  }
-]
+{
+  "source": "Mike Kelly",
+  "targets": [
+    {
+      "name": "Madeline Bell",
+      "targetId": "810"
+    },
+    {
+      "name": "Steve Winwood",
+      "targetId": "905"
+    },
+    {
+      "name": "Joe Cocker",
+      "targetId": "4141"
+    },
+    {
+      "name": "Chris Stainton",
+      "targetId": "4149"
+    },
+    {
+      "name": "Su Wheetman",
+      "targetId": "4151"
+    },
+    {
+      "name": "Sunny Wheetman",
+      "targetId": "4152"
+    },
+    {
+      "name": "Henry McCullough",
+      "targetId": "4154"
+    }
+  ]
+}

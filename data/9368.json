@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Will Turpin",
-    "target": "Ed Roland",
-    "targetId": "8644"
-  },
-  {
-    "source": "Will Turpin",
-    "target": "Dean Roland",
-    "targetId": "9366"
-  },
-  {
-    "source": "Will Turpin",
-    "target": "Shane Evans",
-    "targetId": "9367"
-  },
-  {
-    "source": "Will Turpin",
-    "target": "Ross Childress",
-    "targetId": "9369"
-  }
-]
+{
+  "source": "Will Turpin",
+  "targets": [
+    {
+      "name": "Ed Roland",
+      "targetId": "8644"
+    },
+    {
+      "name": "Dean Roland",
+      "targetId": "9366"
+    },
+    {
+      "name": "Shane Evans",
+      "targetId": "9367"
+    },
+    {
+      "name": "Ross Childress",
+      "targetId": "9369"
+    }
+  ]
+}

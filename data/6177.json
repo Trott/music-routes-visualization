@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jacob Smith",
-    "target": "John Strohm",
-    "targetId": "728"
-  },
-  {
-    "source": "Jacob Smith",
-    "target": "Pat Spurgeon",
-    "targetId": "6176"
-  }
-]
+{
+  "source": "Jacob Smith",
+  "targets": [
+    {
+      "name": "John Strohm",
+      "targetId": "728"
+    },
+    {
+      "name": "Pat Spurgeon",
+      "targetId": "6176"
+    }
+  ]
+}

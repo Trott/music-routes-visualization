@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Billy Bremner",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "Billy Bremner",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Billy Bremner",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Billy Bremner",
-    "target": "Terry Williams",
-    "targetId": "474"
-  },
-  {
-    "source": "Billy Bremner",
-    "target": "Nick Lowe",
-    "targetId": "3600"
-  },
-  {
-    "source": "Billy Bremner",
-    "target": "Dave Edmunds",
-    "targetId": "3734"
-  }
-]
+{
+  "source": "Billy Bremner",
+  "targets": [
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Terry Williams",
+      "targetId": "474"
+    },
+    {
+      "name": "Nick Lowe",
+      "targetId": "3600"
+    },
+    {
+      "name": "Dave Edmunds",
+      "targetId": "3734"
+    }
+  ]
+}

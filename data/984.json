@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Kirby Johnson",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Kirby Johnson",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Kirby Johnson",
-    "target": "Carly Simon",
-    "targetId": "979"
-  },
-  {
-    "source": "Kirby Johnson",
-    "target": "Jimmy Ryan",
-    "targetId": "980"
-  },
-  {
-    "source": "Kirby Johnson",
-    "target": "Paul Keough",
-    "targetId": "986"
-  }
-]
+{
+  "source": "Kirby Johnson",
+  "targets": [
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Carly Simon",
+      "targetId": "979"
+    },
+    {
+      "name": "Jimmy Ryan",
+      "targetId": "980"
+    },
+    {
+      "name": "Paul Keough",
+      "targetId": "986"
+    }
+  ]
+}

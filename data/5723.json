@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Keri Kelli",
-    "target": "Brent Muscat",
-    "targetId": "5705"
-  },
-  {
-    "source": "Keri Kelli",
-    "target": "Adam Hamilton",
-    "targetId": "5721"
-  },
-  {
-    "source": "Keri Kelli",
-    "target": "Phil Lewis",
-    "targetId": "5722"
-  },
-  {
-    "source": "Keri Kelli",
-    "target": "Steve Riley",
-    "targetId": "5724"
-  }
-]
+{
+  "source": "Keri Kelli",
+  "targets": [
+    {
+      "name": "Brent Muscat",
+      "targetId": "5705"
+    },
+    {
+      "name": "Adam Hamilton",
+      "targetId": "5721"
+    },
+    {
+      "name": "Phil Lewis",
+      "targetId": "5722"
+    },
+    {
+      "name": "Steve Riley",
+      "targetId": "5724"
+    }
+  ]
+}

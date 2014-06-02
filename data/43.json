@@ -1,192 +1,157 @@
-[
-  {
-    "source": "Dan Aykroyd",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Lionel Richie",
-    "targetId": "41"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Harry Belafonte",
-    "targetId": "44"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Kim Carnes",
-    "targetId": "49"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Sheila E.",
-    "targetId": "51"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Daryl Hall",
-    "targetId": "53"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "James Ingram",
-    "targetId": "54"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Jackie Jackson",
-    "targetId": "55"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Marlon Jackson",
-    "targetId": "56"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "LaToya Jackson",
-    "targetId": "57"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Tito Jackson",
-    "targetId": "60"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Al Jarreau",
-    "targetId": "61"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Waylon Jennings",
-    "targetId": "62"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Billy Joel",
-    "targetId": "63"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Cyndi Lauper",
-    "targetId": "64"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Kenny Loggins",
-    "targetId": "66"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Bette Midler",
-    "targetId": "67"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Willie Nelson",
-    "targetId": "68"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "John Oates",
-    "targetId": "69"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Jeffrey Osborne",
-    "targetId": "70"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Steve Perry",
-    "targetId": "71"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Anita Pointer",
-    "targetId": "73"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Ruth Pointer",
-    "targetId": "74"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "June Pointer",
-    "targetId": "75"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Smokey Robinson",
-    "targetId": "76"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Kenny Rogers",
-    "targetId": "77"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Diana Ross",
-    "targetId": "78"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Bruce Springsteen",
-    "targetId": "80"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Tina Turner",
-    "targetId": "81"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Dionne Warwick",
-    "targetId": "82"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Dan Aykroyd",
-    "target": "Randy Jackson",
-    "targetId": "5836"
-  }
-]
+{
+  "source": "Dan Aykroyd",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Lionel Richie",
+      "targetId": "41"
+    },
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Harry Belafonte",
+      "targetId": "44"
+    },
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Kim Carnes",
+      "targetId": "49"
+    },
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Sheila E.",
+      "targetId": "51"
+    },
+    {
+      "name": "Daryl Hall",
+      "targetId": "53"
+    },
+    {
+      "name": "James Ingram",
+      "targetId": "54"
+    },
+    {
+      "name": "Jackie Jackson",
+      "targetId": "55"
+    },
+    {
+      "name": "Marlon Jackson",
+      "targetId": "56"
+    },
+    {
+      "name": "LaToya Jackson",
+      "targetId": "57"
+    },
+    {
+      "name": "Tito Jackson",
+      "targetId": "60"
+    },
+    {
+      "name": "Al Jarreau",
+      "targetId": "61"
+    },
+    {
+      "name": "Waylon Jennings",
+      "targetId": "62"
+    },
+    {
+      "name": "Billy Joel",
+      "targetId": "63"
+    },
+    {
+      "name": "Cyndi Lauper",
+      "targetId": "64"
+    },
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "Kenny Loggins",
+      "targetId": "66"
+    },
+    {
+      "name": "Bette Midler",
+      "targetId": "67"
+    },
+    {
+      "name": "Willie Nelson",
+      "targetId": "68"
+    },
+    {
+      "name": "John Oates",
+      "targetId": "69"
+    },
+    {
+      "name": "Jeffrey Osborne",
+      "targetId": "70"
+    },
+    {
+      "name": "Steve Perry",
+      "targetId": "71"
+    },
+    {
+      "name": "Anita Pointer",
+      "targetId": "73"
+    },
+    {
+      "name": "Ruth Pointer",
+      "targetId": "74"
+    },
+    {
+      "name": "June Pointer",
+      "targetId": "75"
+    },
+    {
+      "name": "Smokey Robinson",
+      "targetId": "76"
+    },
+    {
+      "name": "Kenny Rogers",
+      "targetId": "77"
+    },
+    {
+      "name": "Diana Ross",
+      "targetId": "78"
+    },
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "targetId": "80"
+    },
+    {
+      "name": "Tina Turner",
+      "targetId": "81"
+    },
+    {
+      "name": "Dionne Warwick",
+      "targetId": "82"
+    },
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Randy Jackson",
+      "targetId": "5836"
+    }
+  ]
+}

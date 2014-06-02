@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Derek Trucks",
-    "target": "Rick Danko",
-    "targetId": "29"
-  },
-  {
-    "source": "Derek Trucks",
-    "target": "Levon Helm",
-    "targetId": "32"
-  },
-  {
-    "source": "Derek Trucks",
-    "target": "Garth Hudson",
-    "targetId": "33"
-  },
-  {
-    "source": "Derek Trucks",
-    "target": "Richard Bell",
-    "targetId": "1543"
-  },
-  {
-    "source": "Derek Trucks",
-    "target": "Randy Ciarlante",
-    "targetId": "1548"
-  },
-  {
-    "source": "Derek Trucks",
-    "target": "Jim Weider",
-    "targetId": "1549"
-  }
-]
+{
+  "source": "Derek Trucks",
+  "targets": [
+    {
+      "name": "Rick Danko",
+      "targetId": "29"
+    },
+    {
+      "name": "Levon Helm",
+      "targetId": "32"
+    },
+    {
+      "name": "Garth Hudson",
+      "targetId": "33"
+    },
+    {
+      "name": "Richard Bell",
+      "targetId": "1543"
+    },
+    {
+      "name": "Randy Ciarlante",
+      "targetId": "1548"
+    },
+    {
+      "name": "Jim Weider",
+      "targetId": "1549"
+    }
+  ]
+}

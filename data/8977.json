@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Jack Williams",
-    "target": "Kenny Malone",
-    "targetId": "4826"
-  },
-  {
-    "source": "Jack Williams",
-    "target": "Shane Keister",
-    "targetId": "5384"
-  },
-  {
-    "source": "Jack Williams",
-    "target": "Michael Johnson",
-    "targetId": "8976"
-  },
-  {
-    "source": "Jack Williams",
-    "target": "Farrell Morris",
-    "targetId": "8978"
-  },
-  {
-    "source": "Jack Williams",
-    "target": "Sheri Kramer",
-    "targetId": "8979"
-  },
-  {
-    "source": "Jack Williams",
-    "target": "Bill LaBounty",
-    "targetId": "8980"
-  },
-  {
-    "source": "Jack Williams",
-    "target": "Steve Gibson",
-    "targetId": "8981"
-  },
-  {
-    "source": "Jack Williams",
-    "target": "Roger Williams",
-    "targetId": "8982"
-  }
-]
+{
+  "source": "Jack Williams",
+  "targets": [
+    {
+      "name": "Kenny Malone",
+      "targetId": "4826"
+    },
+    {
+      "name": "Shane Keister",
+      "targetId": "5384"
+    },
+    {
+      "name": "Michael Johnson",
+      "targetId": "8976"
+    },
+    {
+      "name": "Farrell Morris",
+      "targetId": "8978"
+    },
+    {
+      "name": "Sheri Kramer",
+      "targetId": "8979"
+    },
+    {
+      "name": "Bill LaBounty",
+      "targetId": "8980"
+    },
+    {
+      "name": "Steve Gibson",
+      "targetId": "8981"
+    },
+    {
+      "name": "Roger Williams",
+      "targetId": "8982"
+    }
+  ]
+}

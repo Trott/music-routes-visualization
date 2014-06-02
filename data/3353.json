@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Steve Woolam",
-    "target": "Jeff Lynne",
-    "targetId": "224"
-  },
-  {
-    "source": "Steve Woolam",
-    "target": "Bev Bevan",
-    "targetId": "3240"
-  },
-  {
-    "source": "Steve Woolam",
-    "target": "Roy Wood",
-    "targetId": "3351"
-  },
-  {
-    "source": "Steve Woolam",
-    "target": "Bill Hunt",
-    "targetId": "3352"
-  }
-]
+{
+  "source": "Steve Woolam",
+  "targets": [
+    {
+      "name": "Jeff Lynne",
+      "targetId": "224"
+    },
+    {
+      "name": "Bev Bevan",
+      "targetId": "3240"
+    },
+    {
+      "name": "Roy Wood",
+      "targetId": "3351"
+    },
+    {
+      "name": "Bill Hunt",
+      "targetId": "3352"
+    }
+  ]
+}

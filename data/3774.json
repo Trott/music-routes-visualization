@@ -1,67 +1,57 @@
-[
-  {
-    "source": "Greg Smith",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Michael Boddicker",
-    "targetId": "385"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Steve Lukather",
-    "targetId": "402"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Eddie Van Halen",
-    "targetId": "891"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Bill Wolfer",
-    "targetId": "893"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Tom Bahler",
-    "targetId": "894"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Steve Porcaro",
-    "targetId": "895"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Paul Jackson, Jr.",
-    "targetId": "1536"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Louis Johnson",
-    "targetId": "3397"
-  },
-  {
-    "source": "Greg Smith",
-    "target": "Leon Ngudu Chancler",
-    "targetId": "3775"
-  }
-]
+{
+  "source": "Greg Smith",
+  "targets": [
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Michael Boddicker",
+      "targetId": "385"
+    },
+    {
+      "name": "Steve Lukather",
+      "targetId": "402"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "Eddie Van Halen",
+      "targetId": "891"
+    },
+    {
+      "name": "Bill Wolfer",
+      "targetId": "893"
+    },
+    {
+      "name": "Tom Bahler",
+      "targetId": "894"
+    },
+    {
+      "name": "Steve Porcaro",
+      "targetId": "895"
+    },
+    {
+      "name": "Paul Jackson, Jr.",
+      "targetId": "1536"
+    },
+    {
+      "name": "Louis Johnson",
+      "targetId": "3397"
+    },
+    {
+      "name": "Leon Ngudu Chancler",
+      "targetId": "3775"
+    }
+  ]
+}

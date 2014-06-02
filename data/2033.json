@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ted Kirkpatrick",
-    "target": "Marty Friedman",
-    "targetId": "1366"
-  },
-  {
-    "source": "Ted Kirkpatrick",
-    "target": "Luke Easter",
-    "targetId": "2034"
-  },
-  {
-    "source": "Ted Kirkpatrick",
-    "target": "Steve Andino",
-    "targetId": "2035"
-  },
-  {
-    "source": "Ted Kirkpatrick",
-    "target": "Bruce Franklin",
-    "targetId": "2036"
-  }
-]
+{
+  "source": "Ted Kirkpatrick",
+  "targets": [
+    {
+      "name": "Marty Friedman",
+      "targetId": "1366"
+    },
+    {
+      "name": "Luke Easter",
+      "targetId": "2034"
+    },
+    {
+      "name": "Steve Andino",
+      "targetId": "2035"
+    },
+    {
+      "name": "Bruce Franklin",
+      "targetId": "2036"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Dan Weinkauf",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Dan Weinkauf",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Dan Weinkauf",
-    "target": "Dan Miller",
-    "targetId": "3681"
-  },
-  {
-    "source": "Dan Weinkauf",
-    "target": "Dan Hickey",
-    "targetId": "3683"
-  },
-  {
-    "source": "Dan Weinkauf",
-    "target": "Luis Jardim",
-    "targetId": "3684"
-  },
-  {
-    "source": "Dan Weinkauf",
-    "target": "Adam Schlesinger",
-    "targetId": "3688"
-  }
-]
+{
+  "source": "Dan Weinkauf",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Dan Miller",
+      "targetId": "3681"
+    },
+    {
+      "name": "Dan Hickey",
+      "targetId": "3683"
+    },
+    {
+      "name": "Luis Jardim",
+      "targetId": "3684"
+    },
+    {
+      "name": "Adam Schlesinger",
+      "targetId": "3688"
+    }
+  ]
+}

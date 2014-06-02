@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Eugene Jones",
-    "target": "Frank Fields",
-    "targetId": "4646"
-  },
-  {
-    "source": "Eugene Jones",
-    "target": "Lee Allen",
-    "targetId": "4651"
-  },
-  {
-    "source": "Eugene Jones",
-    "target": "Clarence \"Frogman\" Henry",
-    "targetId": "10970"
-  },
-  {
-    "source": "Eugene Jones",
-    "target": "Edgar Myles",
-    "targetId": "10971"
-  },
-  {
-    "source": "Eugene Jones",
-    "target": "Eddie Smith",
-    "targetId": "10972"
-  },
-  {
-    "source": "Eugene Jones",
-    "target": "Paul Gayten",
-    "targetId": "10973"
-  },
-  {
-    "source": "Eugene Jones",
-    "target": "Walter Nelson",
-    "targetId": "10974"
-  }
-]
+{
+  "source": "Eugene Jones",
+  "targets": [
+    {
+      "name": "Frank Fields",
+      "targetId": "4646"
+    },
+    {
+      "name": "Lee Allen",
+      "targetId": "4651"
+    },
+    {
+      "name": "Clarence \"Frogman\" Henry",
+      "targetId": "10970"
+    },
+    {
+      "name": "Edgar Myles",
+      "targetId": "10971"
+    },
+    {
+      "name": "Eddie Smith",
+      "targetId": "10972"
+    },
+    {
+      "name": "Paul Gayten",
+      "targetId": "10973"
+    },
+    {
+      "name": "Walter Nelson",
+      "targetId": "10974"
+    }
+  ]
+}

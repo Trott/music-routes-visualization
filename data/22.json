@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Walt Szalva",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Walt Szalva",
-    "target": "Alex Laipenieks",
-    "targetId": "17"
-  },
-  {
-    "source": "Walt Szalva",
-    "target": "Jim Sweeney",
-    "targetId": "18"
-  },
-  {
-    "source": "Walt Szalva",
-    "target": "Michael Mullen",
-    "targetId": "19"
-  },
-  {
-    "source": "Walt Szalva",
-    "target": "Adam Klein",
-    "targetId": "20"
-  },
-  {
-    "source": "Walt Szalva",
-    "target": "Sharky Laguana",
-    "targetId": "21"
-  }
-]
+{
+  "source": "Walt Szalva",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Alex Laipenieks",
+      "targetId": "17"
+    },
+    {
+      "name": "Jim Sweeney",
+      "targetId": "18"
+    },
+    {
+      "name": "Michael Mullen",
+      "targetId": "19"
+    },
+    {
+      "name": "Adam Klein",
+      "targetId": "20"
+    },
+    {
+      "name": "Sharky Laguana",
+      "targetId": "21"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tom Herman",
-    "target": "Don Joyce",
-    "targetId": "4887"
-  },
-  {
-    "source": "Tom Herman",
-    "target": "David Wills",
-    "targetId": "4888"
-  },
-  {
-    "source": "Tom Herman",
-    "target": "Mark Hosler",
-    "targetId": "4889"
-  },
-  {
-    "source": "Tom Herman",
-    "target": "Richard Lyons",
-    "targetId": "4890"
-  },
-  {
-    "source": "Tom Herman",
-    "target": "Chris Grigg",
-    "targetId": "4891"
-  }
-]
+{
+  "source": "Tom Herman",
+  "targets": [
+    {
+      "name": "Don Joyce",
+      "targetId": "4887"
+    },
+    {
+      "name": "David Wills",
+      "targetId": "4888"
+    },
+    {
+      "name": "Mark Hosler",
+      "targetId": "4889"
+    },
+    {
+      "name": "Richard Lyons",
+      "targetId": "4890"
+    },
+    {
+      "name": "Chris Grigg",
+      "targetId": "4891"
+    }
+  ]
+}

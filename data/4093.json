@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Andrew Jackman",
-    "target": "Chris Squire",
-    "targetId": "1432"
-  },
-  {
-    "source": "Andrew Jackman",
-    "target": "Steve Nardelli",
-    "targetId": "4094"
-  }
-]
+{
+  "source": "Andrew Jackman",
+  "targets": [
+    {
+      "name": "Chris Squire",
+      "targetId": "1432"
+    },
+    {
+      "name": "Steve Nardelli",
+      "targetId": "4094"
+    }
+  ]
+}

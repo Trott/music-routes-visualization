@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dinah Cancer",
-    "target": "Don Bolles",
-    "targetId": "3264"
-  },
-  {
-    "source": "Dinah Cancer",
-    "target": "Bruce Duff",
-    "targetId": "4913"
-  },
-  {
-    "source": "Dinah Cancer",
-    "target": "Paul B. Cutler",
-    "targetId": "4915"
-  }
-]
+{
+  "source": "Dinah Cancer",
+  "targets": [
+    {
+      "name": "Don Bolles",
+      "targetId": "3264"
+    },
+    {
+      "name": "Bruce Duff",
+      "targetId": "4913"
+    },
+    {
+      "name": "Paul B. Cutler",
+      "targetId": "4915"
+    }
+  ]
+}

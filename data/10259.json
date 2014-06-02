@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dino",
-    "target": "Jeff Hashfield",
-    "targetId": "3614"
-  },
-  {
-    "source": "Dino",
-    "target": "Kim Shattuck",
-    "targetId": "8902"
-  },
-  {
-    "source": "Dino",
-    "target": "Atom Bomb",
-    "targetId": "10258"
-  },
-  {
-    "source": "Dino",
-    "target": "Kepi Ghoulie",
-    "targetId": "10260"
-  }
-]
+{
+  "source": "Dino",
+  "targets": [
+    {
+      "name": "Jeff Hashfield",
+      "targetId": "3614"
+    },
+    {
+      "name": "Kim Shattuck",
+      "targetId": "8902"
+    },
+    {
+      "name": "Atom Bomb",
+      "targetId": "10258"
+    },
+    {
+      "name": "Kepi Ghoulie",
+      "targetId": "10260"
+    }
+  ]
+}

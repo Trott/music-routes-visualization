@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Robert Burns",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Robert Burns",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Robert Burns",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Robert Burns",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Robert Burns",
-    "target": "Henry MacKenzie",
-    "targetId": "9772"
-  },
-  {
-    "source": "Robert Burns",
-    "target": "Frank Reidy",
-    "targetId": "9773"
-  }
-]
+{
+  "source": "Robert Burns",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Henry MacKenzie",
+      "targetId": "9772"
+    },
+    {
+      "name": "Frank Reidy",
+      "targetId": "9773"
+    }
+  ]
+}

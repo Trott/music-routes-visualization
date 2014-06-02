@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bud Powell",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Bud Powell",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Bud Powell",
-    "target": "Tommy Potter",
-    "targetId": "2947"
-  },
-  {
-    "source": "Bud Powell",
-    "target": "Max Roach",
-    "targetId": "2950"
-  }
-]
+{
+  "source": "Bud Powell",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Tommy Potter",
+      "targetId": "2947"
+    },
+    {
+      "name": "Max Roach",
+      "targetId": "2950"
+    }
+  ]
+}

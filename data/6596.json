@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tom Bailey",
-    "target": "Grace Jones",
-    "targetId": "6593"
-  },
-  {
-    "source": "Tom Bailey",
-    "target": "Monte Brown",
-    "targetId": "6594"
-  },
-  {
-    "source": "Tom Bailey",
-    "target": "Joe Leeway",
-    "targetId": "6595"
-  },
-  {
-    "source": "Tom Bailey",
-    "target": "Alannah Currie",
-    "targetId": "6597"
-  }
-]
+{
+  "source": "Tom Bailey",
+  "targets": [
+    {
+      "name": "Grace Jones",
+      "targetId": "6593"
+    },
+    {
+      "name": "Monte Brown",
+      "targetId": "6594"
+    },
+    {
+      "name": "Joe Leeway",
+      "targetId": "6595"
+    },
+    {
+      "name": "Alannah Currie",
+      "targetId": "6597"
+    }
+  ]
+}

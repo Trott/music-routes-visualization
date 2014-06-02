@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Raz Kennedy",
-    "target": "Bob Ostertag",
-    "targetId": "3201"
-  },
-  {
-    "source": "Raz Kennedy",
-    "target": "Fred Frith",
-    "targetId": "3202"
-  },
-  {
-    "source": "Raz Kennedy",
-    "target": "Joey Blake",
-    "targetId": "3203"
-  },
-  {
-    "source": "Raz Kennedy",
-    "target": "JD Reilly",
-    "targetId": "3214"
-  }
-]
+{
+  "source": "Raz Kennedy",
+  "targets": [
+    {
+      "name": "Bob Ostertag",
+      "targetId": "3201"
+    },
+    {
+      "name": "Fred Frith",
+      "targetId": "3202"
+    },
+    {
+      "name": "Joey Blake",
+      "targetId": "3203"
+    },
+    {
+      "name": "JD Reilly",
+      "targetId": "3214"
+    }
+  ]
+}

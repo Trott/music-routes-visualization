@@ -1,27 +1,25 @@
-[
-  {
-    "source": "James Calvin Wilsey",
-    "target": "Steve Jones",
-    "targetId": "1630"
-  },
-  {
-    "source": "James Calvin Wilsey",
-    "target": "Penelope Houston",
-    "targetId": "10265"
-  },
-  {
-    "source": "James Calvin Wilsey",
-    "target": "Greg Ingraham",
-    "targetId": "10266"
-  },
-  {
-    "source": "James Calvin Wilsey",
-    "target": "Danny Furious",
-    "targetId": "10267"
-  },
-  {
-    "source": "James Calvin Wilsey",
-    "target": "Brad Kent",
-    "targetId": "10269"
-  }
-]
+{
+  "source": "James Calvin Wilsey",
+  "targets": [
+    {
+      "name": "Steve Jones",
+      "targetId": "1630"
+    },
+    {
+      "name": "Penelope Houston",
+      "targetId": "10265"
+    },
+    {
+      "name": "Greg Ingraham",
+      "targetId": "10266"
+    },
+    {
+      "name": "Danny Furious",
+      "targetId": "10267"
+    },
+    {
+      "name": "Brad Kent",
+      "targetId": "10269"
+    }
+  ]
+}

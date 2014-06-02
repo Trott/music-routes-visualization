@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Steve Shoan",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Steve Shoan",
-    "target": "Richard Mark Angelo",
-    "targetId": "3736"
-  },
-  {
-    "source": "Steve Shoan",
-    "target": "Mick Green",
-    "targetId": "3737"
-  },
-  {
-    "source": "Steve Shoan",
-    "target": "Keith Miller",
-    "targetId": "3738"
-  },
-  {
-    "source": "Steve Shoan",
-    "target": "Pete Willsher",
-    "targetId": "3740"
-  }
-]
+{
+  "source": "Steve Shoan",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Richard Mark Angelo",
+      "targetId": "3736"
+    },
+    {
+      "name": "Mick Green",
+      "targetId": "3737"
+    },
+    {
+      "name": "Keith Miller",
+      "targetId": "3738"
+    },
+    {
+      "name": "Pete Willsher",
+      "targetId": "3740"
+    }
+  ]
+}

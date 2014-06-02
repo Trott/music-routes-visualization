@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Lloyd Charmers",
-    "target": "Ken Boothe",
-    "targetId": "6836"
-  },
-  {
-    "source": "Lloyd Charmers",
-    "target": "Lloyd Parks",
-    "targetId": "9615"
-  },
-  {
-    "source": "Lloyd Charmers",
-    "target": "Paul Williams",
-    "targetId": "9616"
-  },
-  {
-    "source": "Lloyd Charmers",
-    "target": "Willie Lindo",
-    "targetId": "9617"
-  }
-]
+{
+  "source": "Lloyd Charmers",
+  "targets": [
+    {
+      "name": "Ken Boothe",
+      "targetId": "6836"
+    },
+    {
+      "name": "Lloyd Parks",
+      "targetId": "9615"
+    },
+    {
+      "name": "Paul Williams",
+      "targetId": "9616"
+    },
+    {
+      "name": "Willie Lindo",
+      "targetId": "9617"
+    }
+  ]
+}

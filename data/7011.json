@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Daniel Kessler",
-    "target": "Paul Banks",
-    "targetId": "7010"
-  },
-  {
-    "source": "Daniel Kessler",
-    "target": "Carlos D",
-    "targetId": "7012"
-  },
-  {
-    "source": "Daniel Kessler",
-    "target": "Samuel Fogarino",
-    "targetId": "7013"
-  }
-]
+{
+  "source": "Daniel Kessler",
+  "targets": [
+    {
+      "name": "Paul Banks",
+      "targetId": "7010"
+    },
+    {
+      "name": "Carlos D",
+      "targetId": "7012"
+    },
+    {
+      "name": "Samuel Fogarino",
+      "targetId": "7013"
+    }
+  ]
+}

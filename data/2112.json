@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Richard Carpenter",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Richard Carpenter",
-    "target": "Joe Osborn",
-    "targetId": "1209"
-  },
-  {
-    "source": "Richard Carpenter",
-    "target": "Earle Dumler",
-    "targetId": "1332"
-  },
-  {
-    "source": "Richard Carpenter",
-    "target": "Karen Carpenter",
-    "targetId": "2111"
-  }
-]
+{
+  "source": "Richard Carpenter",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Joe Osborn",
+      "targetId": "1209"
+    },
+    {
+      "name": "Earle Dumler",
+      "targetId": "1332"
+    },
+    {
+      "name": "Karen Carpenter",
+      "targetId": "2111"
+    }
+  ]
+}

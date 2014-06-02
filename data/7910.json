@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Tom Merkl",
-    "target": "Jeff Tweedy",
-    "targetId": "1704"
-  },
-  {
-    "source": "Tom Merkl",
-    "target": "Jessy Greene",
-    "targetId": "1709"
-  },
-  {
-    "source": "Tom Merkl",
-    "target": "Marc Perlman",
-    "targetId": "7905"
-  },
-  {
-    "source": "Tom Merkl",
-    "target": "Jody Stephens",
-    "targetId": "7906"
-  },
-  {
-    "source": "Tom Merkl",
-    "target": "Gary Louris",
-    "targetId": "7907"
-  },
-  {
-    "source": "Tom Merkl",
-    "target": "Daniel Murphy",
-    "targetId": "7908"
-  },
-  {
-    "source": "Tom Merkl",
-    "target": "Kraig Jarret Johnson",
-    "targetId": "7909"
-  }
-]
+{
+  "source": "Tom Merkl",
+  "targets": [
+    {
+      "name": "Jeff Tweedy",
+      "targetId": "1704"
+    },
+    {
+      "name": "Jessy Greene",
+      "targetId": "1709"
+    },
+    {
+      "name": "Marc Perlman",
+      "targetId": "7905"
+    },
+    {
+      "name": "Jody Stephens",
+      "targetId": "7906"
+    },
+    {
+      "name": "Gary Louris",
+      "targetId": "7907"
+    },
+    {
+      "name": "Daniel Murphy",
+      "targetId": "7908"
+    },
+    {
+      "name": "Kraig Jarret Johnson",
+      "targetId": "7909"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Steven Kennedy",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Steven Kennedy",
-    "target": "Pete Thomas",
-    "targetId": "429"
-  },
-  {
-    "source": "Steven Kennedy",
-    "target": "Davey Faragher",
-    "targetId": "1023"
-  },
-  {
-    "source": "Steven Kennedy",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Steven Kennedy",
-    "target": "Leo Pearson",
-    "targetId": "9970"
-  }
-]
+{
+  "source": "Steven Kennedy",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Pete Thomas",
+      "targetId": "429"
+    },
+    {
+      "name": "Davey Faragher",
+      "targetId": "1023"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Leo Pearson",
+      "targetId": "9970"
+    }
+  ]
+}

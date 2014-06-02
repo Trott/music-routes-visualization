@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Sunny Murray",
-    "target": "Gary Peacock",
-    "targetId": "1071"
-  },
-  {
-    "source": "Sunny Murray",
-    "target": "Albert Ayler",
-    "targetId": "1074"
-  },
-  {
-    "source": "Sunny Murray",
-    "target": "Don Cherry",
-    "targetId": "4590"
-  }
-]
+{
+  "source": "Sunny Murray",
+  "targets": [
+    {
+      "name": "Gary Peacock",
+      "targetId": "1071"
+    },
+    {
+      "name": "Albert Ayler",
+      "targetId": "1074"
+    },
+    {
+      "name": "Don Cherry",
+      "targetId": "4590"
+    }
+  ]
+}

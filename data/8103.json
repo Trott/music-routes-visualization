@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Gerard Marais",
-    "target": "Steve Lacy",
-    "targetId": "4592"
-  },
-  {
-    "source": "Gerard Marais",
-    "target": "Mark Charig",
-    "targetId": "5419"
-  },
-  {
-    "source": "Gerard Marais",
-    "target": "Tony Coe",
-    "targetId": "8100"
-  },
-  {
-    "source": "Gerard Marais",
-    "target": "Radu Malfatti",
-    "targetId": "8101"
-  },
-  {
-    "source": "Gerard Marais",
-    "target": "Gerard Bucquet",
-    "targetId": "8102"
-  },
-  {
-    "source": "Gerard Marais",
-    "target": "Didier Levallet",
-    "targetId": "8104"
-  },
-  {
-    "source": "Gerard Marais",
-    "target": "Tony Oxley",
-    "targetId": "8105"
-  }
-]
+{
+  "source": "Gerard Marais",
+  "targets": [
+    {
+      "name": "Steve Lacy",
+      "targetId": "4592"
+    },
+    {
+      "name": "Mark Charig",
+      "targetId": "5419"
+    },
+    {
+      "name": "Tony Coe",
+      "targetId": "8100"
+    },
+    {
+      "name": "Radu Malfatti",
+      "targetId": "8101"
+    },
+    {
+      "name": "Gerard Bucquet",
+      "targetId": "8102"
+    },
+    {
+      "name": "Didier Levallet",
+      "targetId": "8104"
+    },
+    {
+      "name": "Tony Oxley",
+      "targetId": "8105"
+    }
+  ]
+}

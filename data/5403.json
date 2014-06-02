@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jay Reatard",
-    "target": "Rich Crook",
-    "targetId": "5401"
-  },
-  {
-    "source": "Jay Reatard",
-    "target": "Jonas Garland",
-    "targetId": "5402"
-  },
-  {
-    "source": "Jay Reatard",
-    "target": "Alicja Trout",
-    "targetId": "5404"
-  }
-]
+{
+  "source": "Jay Reatard",
+  "targets": [
+    {
+      "name": "Rich Crook",
+      "targetId": "5401"
+    },
+    {
+      "name": "Jonas Garland",
+      "targetId": "5402"
+    },
+    {
+      "name": "Alicja Trout",
+      "targetId": "5404"
+    }
+  ]
+}

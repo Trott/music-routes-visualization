@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Reverend Ike",
-    "target": "Willie Nelson",
-    "targetId": "68"
-  },
-  {
-    "source": "Reverend Ike",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Reverend Ike",
-    "target": "Reba McEntire",
-    "targetId": "6255"
-  },
-  {
-    "source": "Reverend Ike",
-    "target": "Hank Williams, Jr.",
-    "targetId": "9142"
-  }
-]
+{
+  "source": "Reverend Ike",
+  "targets": [
+    {
+      "name": "Willie Nelson",
+      "targetId": "68"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Reba McEntire",
+      "targetId": "6255"
+    },
+    {
+      "name": "Hank Williams, Jr.",
+      "targetId": "9142"
+    }
+  ]
+}

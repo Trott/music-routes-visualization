@@ -1,222 +1,181 @@
-[
-  {
-    "source": "Ian Underwood",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Aynsley Dunbar",
-    "targetId": "264"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Bruce Fowler",
-    "targetId": "432"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "John Guerin",
-    "targetId": "508"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Max Bennett",
-    "targetId": "509"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Frank Zappa",
-    "targetId": "815"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Captain Beefheart",
-    "targetId": "817"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Sugar Cane Harris",
-    "targetId": "818"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Paul Humphrey",
-    "targetId": "820"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Ron Selico",
-    "targetId": "821"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Shuggy Otis",
-    "targetId": "822"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Lowell George",
-    "targetId": "990"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Harvey Mason",
-    "targetId": "1320"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Tom Fowler",
-    "targetId": "1325"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "George Duke",
-    "targetId": "1327"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Ruth Underwood",
-    "targetId": "1328"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Ralph Humphrey",
-    "targetId": "1353"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Sal Marquez",
-    "targetId": "1354"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Jean-Luc Ponty",
-    "targetId": "1355"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Oren Waters",
-    "targetId": "1404"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Howard Kaylan",
-    "targetId": "1829"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Mark Volman",
-    "targetId": "1830"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "James Gilstrap",
-    "targetId": "2355"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Alex Brown",
-    "targetId": "2423"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Yoko Ono",
-    "targetId": "2686"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Louis Johnson",
-    "targetId": "3397"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "George Johnson",
-    "targetId": "3398"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Jeff Simmons",
-    "targetId": "4403"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Lee Ritenour",
-    "targetId": "5905"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Don Preston",
-    "targetId": "6586"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Bunk Gardner",
-    "targetId": "6587"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Motorhead Sherwood",
-    "targetId": "6588"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Buzz Gardner",
-    "targetId": "6589"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Roy Estrada",
-    "targetId": "6590"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Jimmy Carl Black",
-    "targetId": "6591"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Art Tripp",
-    "targetId": "6592"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Dave Grusin",
-    "targetId": "7271"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Denise Trammell",
-    "targetId": "7272"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Stephanie Spruill",
-    "targetId": "7273"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Don Preston",
-    "targetId": "7421"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Jim Pons",
-    "targetId": "7547"
-  },
-  {
-    "source": "Ian Underwood",
-    "target": "Bob Harris",
-    "targetId": "7548"
-  }
-]
+{
+  "source": "Ian Underwood",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Aynsley Dunbar",
+      "targetId": "264"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Bruce Fowler",
+      "targetId": "432"
+    },
+    {
+      "name": "John Guerin",
+      "targetId": "508"
+    },
+    {
+      "name": "Max Bennett",
+      "targetId": "509"
+    },
+    {
+      "name": "Frank Zappa",
+      "targetId": "815"
+    },
+    {
+      "name": "Captain Beefheart",
+      "targetId": "817"
+    },
+    {
+      "name": "Sugar Cane Harris",
+      "targetId": "818"
+    },
+    {
+      "name": "Paul Humphrey",
+      "targetId": "820"
+    },
+    {
+      "name": "Ron Selico",
+      "targetId": "821"
+    },
+    {
+      "name": "Shuggy Otis",
+      "targetId": "822"
+    },
+    {
+      "name": "Lowell George",
+      "targetId": "990"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Harvey Mason",
+      "targetId": "1320"
+    },
+    {
+      "name": "Tom Fowler",
+      "targetId": "1325"
+    },
+    {
+      "name": "George Duke",
+      "targetId": "1327"
+    },
+    {
+      "name": "Ruth Underwood",
+      "targetId": "1328"
+    },
+    {
+      "name": "Ralph Humphrey",
+      "targetId": "1353"
+    },
+    {
+      "name": "Sal Marquez",
+      "targetId": "1354"
+    },
+    {
+      "name": "Jean-Luc Ponty",
+      "targetId": "1355"
+    },
+    {
+      "name": "Oren Waters",
+      "targetId": "1404"
+    },
+    {
+      "name": "Howard Kaylan",
+      "targetId": "1829"
+    },
+    {
+      "name": "Mark Volman",
+      "targetId": "1830"
+    },
+    {
+      "name": "James Gilstrap",
+      "targetId": "2355"
+    },
+    {
+      "name": "Alex Brown",
+      "targetId": "2423"
+    },
+    {
+      "name": "Yoko Ono",
+      "targetId": "2686"
+    },
+    {
+      "name": "Louis Johnson",
+      "targetId": "3397"
+    },
+    {
+      "name": "George Johnson",
+      "targetId": "3398"
+    },
+    {
+      "name": "Jeff Simmons",
+      "targetId": "4403"
+    },
+    {
+      "name": "Lee Ritenour",
+      "targetId": "5905"
+    },
+    {
+      "name": "Don Preston",
+      "targetId": "6586"
+    },
+    {
+      "name": "Bunk Gardner",
+      "targetId": "6587"
+    },
+    {
+      "name": "Motorhead Sherwood",
+      "targetId": "6588"
+    },
+    {
+      "name": "Buzz Gardner",
+      "targetId": "6589"
+    },
+    {
+      "name": "Roy Estrada",
+      "targetId": "6590"
+    },
+    {
+      "name": "Jimmy Carl Black",
+      "targetId": "6591"
+    },
+    {
+      "name": "Art Tripp",
+      "targetId": "6592"
+    },
+    {
+      "name": "Dave Grusin",
+      "targetId": "7271"
+    },
+    {
+      "name": "Denise Trammell",
+      "targetId": "7272"
+    },
+    {
+      "name": "Stephanie Spruill",
+      "targetId": "7273"
+    },
+    {
+      "name": "Don Preston",
+      "targetId": "7421"
+    },
+    {
+      "name": "Jim Pons",
+      "targetId": "7547"
+    },
+    {
+      "name": "Bob Harris",
+      "targetId": "7548"
+    }
+  ]
+}

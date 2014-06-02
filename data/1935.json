@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Flip Phillips",
-    "target": "Dizzy Gillespie",
-    "targetId": "1928"
-  },
-  {
-    "source": "Flip Phillips",
-    "target": "Red Norvo",
-    "targetId": "1933"
-  },
-  {
-    "source": "Flip Phillips",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Flip Phillips",
-    "target": "Teddy Wilson",
-    "targetId": "1936"
-  },
-  {
-    "source": "Flip Phillips",
-    "target": "Slam Stewart",
-    "targetId": "1937"
-  },
-  {
-    "source": "Flip Phillips",
-    "target": "J.C. Heard",
-    "targetId": "1938"
-  }
-]
+{
+  "source": "Flip Phillips",
+  "targets": [
+    {
+      "name": "Dizzy Gillespie",
+      "targetId": "1928"
+    },
+    {
+      "name": "Red Norvo",
+      "targetId": "1933"
+    },
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Teddy Wilson",
+      "targetId": "1936"
+    },
+    {
+      "name": "Slam Stewart",
+      "targetId": "1937"
+    },
+    {
+      "name": "J.C. Heard",
+      "targetId": "1938"
+    }
+  ]
+}

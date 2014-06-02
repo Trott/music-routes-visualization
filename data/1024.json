@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Todd Wolfe",
-    "target": "Sheryl Crow",
-    "targetId": "1018"
-  },
-  {
-    "source": "Todd Wolfe",
-    "target": "Jeff Trott",
-    "targetId": "1022"
-  },
-  {
-    "source": "Todd Wolfe",
-    "target": "Davey Faragher",
-    "targetId": "1023"
-  },
-  {
-    "source": "Todd Wolfe",
-    "target": "Brian MacLeod",
-    "targetId": "1025"
-  }
-]
+{
+  "source": "Todd Wolfe",
+  "targets": [
+    {
+      "name": "Sheryl Crow",
+      "targetId": "1018"
+    },
+    {
+      "name": "Jeff Trott",
+      "targetId": "1022"
+    },
+    {
+      "name": "Davey Faragher",
+      "targetId": "1023"
+    },
+    {
+      "name": "Brian MacLeod",
+      "targetId": "1025"
+    }
+  ]
+}

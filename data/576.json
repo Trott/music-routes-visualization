@@ -1,217 +1,177 @@
-[
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Neil Young",
-    "targetId": "45"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Johnny Cash",
-    "targetId": "222"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Tanya Tucker",
-    "targetId": "246"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Roger McGuinn",
-    "targetId": "308"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Dolly Parton",
-    "targetId": "569"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Kris Kristofferson",
-    "targetId": "570"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Billy Ray Cyrus",
-    "targetId": "574"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Kathy Mattea",
-    "targetId": "575"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Pam Tillis",
-    "targetId": "577"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Sinéad O'Connor",
-    "targetId": "596"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Sheryl Crow",
-    "targetId": "1018"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Dennis Collins",
-    "targetId": "1030"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Curtis King",
-    "targetId": "1032"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Chrissie Hynde",
-    "targetId": "1778"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Steve Cropper",
-    "targetId": "1804"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Stan Lynch",
-    "targetId": "2563"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Brenda White King",
-    "targetId": "4378"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Shawn Colvin",
-    "targetId": "5889"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Joan Baez",
-    "targetId": "5959"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Tracy Chapman",
-    "targetId": "6105"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Booker T. Jones",
-    "targetId": "6245"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Nanci Griffith",
-    "targetId": "6289"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Roseanne Carter Cash",
-    "targetId": "8150"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Richie Havens",
-    "targetId": "8151"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Liam Clancy",
-    "targetId": "8154"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Tommy Makem",
-    "targetId": "8155"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "June Carter Cash",
-    "targetId": "8159"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Bobby Clancy",
-    "targetId": "8160"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Paddy Clancy",
-    "targetId": "8161"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Christine Ohlman",
-    "targetId": "8165"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "G.E. Smith",
-    "targetId": "8167"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "George Thorogood",
-    "targetId": "8188"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Sophie B. Hawkins",
-    "targetId": "8189"
-  },
-  {
-    "source": "Mary Chapin Carpenter",
-    "target": "Carolyn Hester",
-    "targetId": "8190"
-  }
-]
+{
+  "source": "Mary Chapin Carpenter",
+  "targets": [
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Neil Young",
+      "targetId": "45"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Johnny Cash",
+      "targetId": "222"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Tanya Tucker",
+      "targetId": "246"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Roger McGuinn",
+      "targetId": "308"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "Dolly Parton",
+      "targetId": "569"
+    },
+    {
+      "name": "Kris Kristofferson",
+      "targetId": "570"
+    },
+    {
+      "name": "Billy Ray Cyrus",
+      "targetId": "574"
+    },
+    {
+      "name": "Kathy Mattea",
+      "targetId": "575"
+    },
+    {
+      "name": "Pam Tillis",
+      "targetId": "577"
+    },
+    {
+      "name": "Sinéad O'Connor",
+      "targetId": "596"
+    },
+    {
+      "name": "Sheryl Crow",
+      "targetId": "1018"
+    },
+    {
+      "name": "Dennis Collins",
+      "targetId": "1030"
+    },
+    {
+      "name": "Curtis King",
+      "targetId": "1032"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "Chrissie Hynde",
+      "targetId": "1778"
+    },
+    {
+      "name": "Steve Cropper",
+      "targetId": "1804"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Stan Lynch",
+      "targetId": "2563"
+    },
+    {
+      "name": "Brenda White King",
+      "targetId": "4378"
+    },
+    {
+      "name": "Shawn Colvin",
+      "targetId": "5889"
+    },
+    {
+      "name": "Joan Baez",
+      "targetId": "5959"
+    },
+    {
+      "name": "Tracy Chapman",
+      "targetId": "6105"
+    },
+    {
+      "name": "Booker T. Jones",
+      "targetId": "6245"
+    },
+    {
+      "name": "Nanci Griffith",
+      "targetId": "6289"
+    },
+    {
+      "name": "Roseanne Carter Cash",
+      "targetId": "8150"
+    },
+    {
+      "name": "Richie Havens",
+      "targetId": "8151"
+    },
+    {
+      "name": "Liam Clancy",
+      "targetId": "8154"
+    },
+    {
+      "name": "Tommy Makem",
+      "targetId": "8155"
+    },
+    {
+      "name": "June Carter Cash",
+      "targetId": "8159"
+    },
+    {
+      "name": "Bobby Clancy",
+      "targetId": "8160"
+    },
+    {
+      "name": "Paddy Clancy",
+      "targetId": "8161"
+    },
+    {
+      "name": "Christine Ohlman",
+      "targetId": "8165"
+    },
+    {
+      "name": "G.E. Smith",
+      "targetId": "8167"
+    },
+    {
+      "name": "George Thorogood",
+      "targetId": "8188"
+    },
+    {
+      "name": "Sophie B. Hawkins",
+      "targetId": "8189"
+    },
+    {
+      "name": "Carolyn Hester",
+      "targetId": "8190"
+    }
+  ]
+}

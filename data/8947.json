@@ -1,27 +1,25 @@
-[
-  {
-    "source": "John Raines",
-    "target": "\"Sneaky\" Pete Kleinow",
-    "targetId": "504"
-  },
-  {
-    "source": "John Raines",
-    "target": "Fred Tackett",
-    "targetId": "3412"
-  },
-  {
-    "source": "John Raines",
-    "target": "Lori Lieberman",
-    "targetId": "8946"
-  },
-  {
-    "source": "John Raines",
-    "target": "Dominic Genova",
-    "targetId": "8948"
-  },
-  {
-    "source": "John Raines",
-    "target": "Bill Cuomo",
-    "targetId": "8949"
-  }
-]
+{
+  "source": "John Raines",
+  "targets": [
+    {
+      "name": "\"Sneaky\" Pete Kleinow",
+      "targetId": "504"
+    },
+    {
+      "name": "Fred Tackett",
+      "targetId": "3412"
+    },
+    {
+      "name": "Lori Lieberman",
+      "targetId": "8946"
+    },
+    {
+      "name": "Dominic Genova",
+      "targetId": "8948"
+    },
+    {
+      "name": "Bill Cuomo",
+      "targetId": "8949"
+    }
+  ]
+}

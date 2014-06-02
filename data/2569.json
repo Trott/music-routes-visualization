@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pharrell Williams",
-    "target": "Julian Casablancas",
-    "targetId": "1850"
-  },
-  {
-    "source": "Pharrell Williams",
-    "target": "Santogold",
-    "targetId": "2570"
-  },
-  {
-    "source": "Pharrell Williams",
-    "target": "LL Cool J",
-    "targetId": "2782"
-  }
-]
+{
+  "source": "Pharrell Williams",
+  "targets": [
+    {
+      "name": "Julian Casablancas",
+      "targetId": "1850"
+    },
+    {
+      "name": "Santogold",
+      "targetId": "2570"
+    },
+    {
+      "name": "LL Cool J",
+      "targetId": "2782"
+    }
+  ]
+}

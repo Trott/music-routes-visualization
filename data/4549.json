@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Eminem",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Eminem",
-    "target": "Dr. Dre",
-    "targetId": "2799"
-  },
-  {
-    "source": "Eminem",
-    "target": "Lil Wayne",
-    "targetId": "3859"
-  },
-  {
-    "source": "Eminem",
-    "target": "Kanye West",
-    "targetId": "4031"
-  },
-  {
-    "source": "Eminem",
-    "target": "50 Cent",
-    "targetId": "4040"
-  },
-  {
-    "source": "Eminem",
-    "target": "Xzibit",
-    "targetId": "4550"
-  },
-  {
-    "source": "Eminem",
-    "target": "Nate Dogg",
-    "targetId": "4551"
-  },
-  {
-    "source": "Eminem",
-    "target": "Drake",
-    "targetId": "8201"
-  }
-]
+{
+  "source": "Eminem",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "Dr. Dre",
+      "targetId": "2799"
+    },
+    {
+      "name": "Lil Wayne",
+      "targetId": "3859"
+    },
+    {
+      "name": "Kanye West",
+      "targetId": "4031"
+    },
+    {
+      "name": "50 Cent",
+      "targetId": "4040"
+    },
+    {
+      "name": "Xzibit",
+      "targetId": "4550"
+    },
+    {
+      "name": "Nate Dogg",
+      "targetId": "4551"
+    },
+    {
+      "name": "Drake",
+      "targetId": "8201"
+    }
+  ]
+}

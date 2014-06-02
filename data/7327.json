@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Stu Hake",
-    "target": "Claude Coleman",
-    "targetId": "7321"
-  },
-  {
-    "source": "Stu Hake",
-    "target": "Joel Godfrey Primer",
-    "targetId": "7323"
-  },
-  {
-    "source": "Stu Hake",
-    "target": "Matt Snyder",
-    "targetId": "7324"
-  }
-]
+{
+  "source": "Stu Hake",
+  "targets": [
+    {
+      "name": "Claude Coleman",
+      "targetId": "7321"
+    },
+    {
+      "name": "Joel Godfrey Primer",
+      "targetId": "7323"
+    },
+    {
+      "name": "Matt Snyder",
+      "targetId": "7324"
+    }
+  ]
+}

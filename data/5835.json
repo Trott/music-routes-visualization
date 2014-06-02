@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Crago",
-    "target": "Randy Jackson",
-    "targetId": "59"
-  },
-  {
-    "source": "Scott Crago",
-    "target": "Brian MacLeod",
-    "targetId": "1025"
-  },
-  {
-    "source": "Scott Crago",
-    "target": "Christina Amphlett",
-    "targetId": "5832"
-  },
-  {
-    "source": "Scott Crago",
-    "target": "Mark McEntee",
-    "targetId": "5833"
-  }
-]
+{
+  "source": "Scott Crago",
+  "targets": [
+    {
+      "name": "Randy Jackson",
+      "targetId": "59"
+    },
+    {
+      "name": "Brian MacLeod",
+      "targetId": "1025"
+    },
+    {
+      "name": "Christina Amphlett",
+      "targetId": "5832"
+    },
+    {
+      "name": "Mark McEntee",
+      "targetId": "5833"
+    }
+  ]
+}

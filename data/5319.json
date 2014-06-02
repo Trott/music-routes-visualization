@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Dan St. Jacques",
-    "target": "John Dwyer",
-    "targetId": "5309"
-  },
-  {
-    "source": "Dan St. Jacques",
-    "target": "Shawn Greenlee",
-    "targetId": "5316"
-  },
-  {
-    "source": "Dan St. Jacques",
-    "target": "Joel Kyack",
-    "targetId": "5317"
-  },
-  {
-    "source": "Dan St. Jacques",
-    "target": "Rick Pelletier",
-    "targetId": "5318"
-  }
-]
+{
+  "source": "Dan St. Jacques",
+  "targets": [
+    {
+      "name": "John Dwyer",
+      "targetId": "5309"
+    },
+    {
+      "name": "Shawn Greenlee",
+      "targetId": "5316"
+    },
+    {
+      "name": "Joel Kyack",
+      "targetId": "5317"
+    },
+    {
+      "name": "Rick Pelletier",
+      "targetId": "5318"
+    }
+  ]
+}

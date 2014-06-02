@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Kenny Buttrey",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Kenny Buttrey",
-    "target": "Charlie McCoy",
-    "targetId": "1211"
-  },
-  {
-    "source": "Kenny Buttrey",
-    "target": "Pete Drake",
-    "targetId": "6634"
-  },
-  {
-    "source": "Kenny Buttrey",
-    "target": "Robert S. Wilson",
-    "targetId": "10052"
-  },
-  {
-    "source": "Kenny Buttrey",
-    "target": "Doug Kershaw",
-    "targetId": "10053"
-  }
-]
+{
+  "source": "Kenny Buttrey",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Charlie McCoy",
+      "targetId": "1211"
+    },
+    {
+      "name": "Pete Drake",
+      "targetId": "6634"
+    },
+    {
+      "name": "Robert S. Wilson",
+      "targetId": "10052"
+    },
+    {
+      "name": "Doug Kershaw",
+      "targetId": "10053"
+    }
+  ]
+}

@@ -1,247 +1,201 @@
-[
-  {
-    "source": "Keith Moon",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "John Paul Jones",
-    "targetId": "302"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Mick Jagger",
-    "targetId": "305"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Klaus Voormann",
-    "targetId": "387"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Marianne Faithfull",
-    "targetId": "604"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Graham Nash",
-    "targetId": "639"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Nicky Hopkins",
-    "targetId": "985"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Bonnie Bramlett",
-    "targetId": "992"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Vivian Stanshall",
-    "targetId": "1964"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Roger Daltrey",
-    "targetId": "1982"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "John Entwistle",
-    "targetId": "1983"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Pete Townshend",
-    "targetId": "1985"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Dave Arbus",
-    "targetId": "1986"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Yoko Ono",
-    "targetId": "2686"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Jerry Shirley",
-    "targetId": "3171"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Jim Price",
-    "targetId": "3197"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Patti Harrison",
-    "targetId": "3363"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Neil Innes",
-    "targetId": "3388"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Chris Stainton",
-    "targetId": "4149"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Alan White",
-    "targetId": "4428"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Dave \"Cyrano\" Langston",
-    "targetId": "5400"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Delaney Bramlett",
-    "targetId": "8898"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Gary Leeds",
-    "targetId": "9577"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "David Mason",
-    "targetId": "9699"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Hunter Davies",
-    "targetId": "9703"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Mike McCartney",
-    "targetId": "9704"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Jane Asher",
-    "targetId": "9705"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Jack Emblow",
-    "targetId": "9706"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Evan Watkins",
-    "targetId": "9707"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Harry Spain",
-    "targetId": "9708"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Stanley Woods",
-    "targetId": "9709"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Rex Morris",
-    "targetId": "9710"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Don Honeywill",
-    "targetId": "9711"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Lionel Ross",
-    "targetId": "9712"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Jack Holmes",
-    "targetId": "9713"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Patrick Halling",
-    "targetId": "9714"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "Eric Bowie",
-    "targetId": "9715"
-  },
-  {
-    "source": "Keith Moon",
-    "target": "John Ronayne",
-    "targetId": "9716"
-  }
-]
+{
+  "source": "Keith Moon",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "John Paul Jones",
+      "targetId": "302"
+    },
+    {
+      "name": "Mick Jagger",
+      "targetId": "305"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Klaus Voormann",
+      "targetId": "387"
+    },
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "Marianne Faithfull",
+      "targetId": "604"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Graham Nash",
+      "targetId": "639"
+    },
+    {
+      "name": "Nicky Hopkins",
+      "targetId": "985"
+    },
+    {
+      "name": "Bonnie Bramlett",
+      "targetId": "992"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Vivian Stanshall",
+      "targetId": "1964"
+    },
+    {
+      "name": "Roger Daltrey",
+      "targetId": "1982"
+    },
+    {
+      "name": "John Entwistle",
+      "targetId": "1983"
+    },
+    {
+      "name": "Pete Townshend",
+      "targetId": "1985"
+    },
+    {
+      "name": "Dave Arbus",
+      "targetId": "1986"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Yoko Ono",
+      "targetId": "2686"
+    },
+    {
+      "name": "Jerry Shirley",
+      "targetId": "3171"
+    },
+    {
+      "name": "Jim Price",
+      "targetId": "3197"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "Patti Harrison",
+      "targetId": "3363"
+    },
+    {
+      "name": "Neil Innes",
+      "targetId": "3388"
+    },
+    {
+      "name": "Chris Stainton",
+      "targetId": "4149"
+    },
+    {
+      "name": "Alan White",
+      "targetId": "4428"
+    },
+    {
+      "name": "Dave \"Cyrano\" Langston",
+      "targetId": "5400"
+    },
+    {
+      "name": "Delaney Bramlett",
+      "targetId": "8898"
+    },
+    {
+      "name": "Gary Leeds",
+      "targetId": "9577"
+    },
+    {
+      "name": "David Mason",
+      "targetId": "9699"
+    },
+    {
+      "name": "Hunter Davies",
+      "targetId": "9703"
+    },
+    {
+      "name": "Mike McCartney",
+      "targetId": "9704"
+    },
+    {
+      "name": "Jane Asher",
+      "targetId": "9705"
+    },
+    {
+      "name": "Jack Emblow",
+      "targetId": "9706"
+    },
+    {
+      "name": "Evan Watkins",
+      "targetId": "9707"
+    },
+    {
+      "name": "Harry Spain",
+      "targetId": "9708"
+    },
+    {
+      "name": "Stanley Woods",
+      "targetId": "9709"
+    },
+    {
+      "name": "Rex Morris",
+      "targetId": "9710"
+    },
+    {
+      "name": "Don Honeywill",
+      "targetId": "9711"
+    },
+    {
+      "name": "Lionel Ross",
+      "targetId": "9712"
+    },
+    {
+      "name": "Jack Holmes",
+      "targetId": "9713"
+    },
+    {
+      "name": "Patrick Halling",
+      "targetId": "9714"
+    },
+    {
+      "name": "Eric Bowie",
+      "targetId": "9715"
+    },
+    {
+      "name": "John Ronayne",
+      "targetId": "9716"
+    }
+  ]
+}

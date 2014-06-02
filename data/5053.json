@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Keith Emerson",
-    "target": "Greg Lake",
-    "targetId": "541"
-  },
-  {
-    "source": "Keith Emerson",
-    "target": "Carl Palmer",
-    "targetId": "5052"
-  }
-]
+{
+  "source": "Keith Emerson",
+  "targets": [
+    {
+      "name": "Greg Lake",
+      "targetId": "541"
+    },
+    {
+      "name": "Carl Palmer",
+      "targetId": "5052"
+    }
+  ]
+}

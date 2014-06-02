@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ralph Grierson",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Ralph Grierson",
-    "target": "Michael Boddicker",
-    "targetId": "385"
-  }
-]
+{
+  "source": "Ralph Grierson",
+  "targets": [
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Michael Boddicker",
+      "targetId": "385"
+    }
+  ]
+}

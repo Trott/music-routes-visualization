@@ -1,147 +1,121 @@
-[
-  {
-    "source": "Stevie Nicks",
-    "target": "Lindsey Buckingham",
-    "targetId": "48"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Bill Payne",
-    "targetId": "280"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Mick Fleetwood",
-    "targetId": "347"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "John McVie",
-    "targetId": "348"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Don Henley",
-    "targetId": "380"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Christie McVie",
-    "targetId": "407"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Russ Kunkel",
-    "targetId": "458"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Roy Bittan",
-    "targetId": "463"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Bobbye Hall",
-    "targetId": "507"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "David Lindley",
-    "targetId": "641"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Larry Zack",
-    "targetId": "643"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Mike Campbell",
-    "targetId": "646"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Don Felder",
-    "targetId": "668"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Bobby Keys",
-    "targetId": "993"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Donald \"Duck\" Dunn",
-    "targetId": "1805"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Stan Lynch",
-    "targetId": "2563"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Phil Jones",
-    "targetId": "2564"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Sharon Celani",
-    "targetId": "2565"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Lori Perry-Nicks",
-    "targetId": "2566"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Davey Johnstone",
-    "targetId": "2845"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Bill Elliott",
-    "targetId": "2846"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "David Adelstein",
-    "targetId": "2847"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Tom Moncrieff",
-    "targetId": "2848"
-  },
-  {
-    "source": "Stevie Nicks",
-    "target": "Richard Bowden",
-    "targetId": "2849"
-  }
-]
+{
+  "source": "Stevie Nicks",
+  "targets": [
+    {
+      "name": "Lindsey Buckingham",
+      "targetId": "48"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Bill Payne",
+      "targetId": "280"
+    },
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "targetId": "347"
+    },
+    {
+      "name": "John McVie",
+      "targetId": "348"
+    },
+    {
+      "name": "Don Henley",
+      "targetId": "380"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "Christie McVie",
+      "targetId": "407"
+    },
+    {
+      "name": "Russ Kunkel",
+      "targetId": "458"
+    },
+    {
+      "name": "Roy Bittan",
+      "targetId": "463"
+    },
+    {
+      "name": "Bobbye Hall",
+      "targetId": "507"
+    },
+    {
+      "name": "David Lindley",
+      "targetId": "641"
+    },
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Larry Zack",
+      "targetId": "643"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Mike Campbell",
+      "targetId": "646"
+    },
+    {
+      "name": "Don Felder",
+      "targetId": "668"
+    },
+    {
+      "name": "Bobby Keys",
+      "targetId": "993"
+    },
+    {
+      "name": "Donald \"Duck\" Dunn",
+      "targetId": "1805"
+    },
+    {
+      "name": "Stan Lynch",
+      "targetId": "2563"
+    },
+    {
+      "name": "Phil Jones",
+      "targetId": "2564"
+    },
+    {
+      "name": "Sharon Celani",
+      "targetId": "2565"
+    },
+    {
+      "name": "Lori Perry-Nicks",
+      "targetId": "2566"
+    },
+    {
+      "name": "Davey Johnstone",
+      "targetId": "2845"
+    },
+    {
+      "name": "Bill Elliott",
+      "targetId": "2846"
+    },
+    {
+      "name": "David Adelstein",
+      "targetId": "2847"
+    },
+    {
+      "name": "Tom Moncrieff",
+      "targetId": "2848"
+    },
+    {
+      "name": "Richard Bowden",
+      "targetId": "2849"
+    }
+  ]
+}

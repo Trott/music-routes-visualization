@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Fiona Hibbert",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Fiona Hibbert",
-    "target": "Andy Latimer",
-    "targetId": "4414"
-  }
-]
+{
+  "source": "Fiona Hibbert",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "Andy Latimer",
+      "targetId": "4414"
+    }
+  ]
+}

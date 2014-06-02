@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Phil Scraggs",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Phil Scraggs",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Phil Scraggs",
-    "target": "Toni Halliday",
-    "targetId": "2381"
-  },
-  {
-    "source": "Phil Scraggs",
-    "target": "Chris Blackwell",
-    "targetId": "3706"
-  },
-  {
-    "source": "Phil Scraggs",
-    "target": "Doug Boyle",
-    "targetId": "3707"
-  },
-  {
-    "source": "Phil Scraggs",
-    "target": "Phil Johnstone",
-    "targetId": "3708"
-  },
-  {
-    "source": "Phil Scraggs",
-    "target": "Kirsty MacColl",
-    "targetId": "3727"
-  },
-  {
-    "source": "Phil Scraggs",
-    "target": "Marie Pierre",
-    "targetId": "3728"
-  }
-]
+{
+  "source": "Phil Scraggs",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Toni Halliday",
+      "targetId": "2381"
+    },
+    {
+      "name": "Chris Blackwell",
+      "targetId": "3706"
+    },
+    {
+      "name": "Doug Boyle",
+      "targetId": "3707"
+    },
+    {
+      "name": "Phil Johnstone",
+      "targetId": "3708"
+    },
+    {
+      "name": "Kirsty MacColl",
+      "targetId": "3727"
+    },
+    {
+      "name": "Marie Pierre",
+      "targetId": "3728"
+    }
+  ]
+}

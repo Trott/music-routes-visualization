@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Steve Thornton",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Steve Thornton",
-    "target": "Robben Ford",
-    "targetId": "1385"
-  },
-  {
-    "source": "Steve Thornton",
-    "target": "Bob Berg",
-    "targetId": "10397"
-  },
-  {
-    "source": "Steve Thornton",
-    "target": "Adam Holzmann",
-    "targetId": "10398"
-  },
-  {
-    "source": "Steve Thornton",
-    "target": "Robert Irving III",
-    "targetId": "10399"
-  },
-  {
-    "source": "Steve Thornton",
-    "target": "Felton Crews",
-    "targetId": "10400"
-  },
-  {
-    "source": "Steve Thornton",
-    "target": "Vincent Wilburn",
-    "targetId": "10401"
-  }
-]
+{
+  "source": "Steve Thornton",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Robben Ford",
+      "targetId": "1385"
+    },
+    {
+      "name": "Bob Berg",
+      "targetId": "10397"
+    },
+    {
+      "name": "Adam Holzmann",
+      "targetId": "10398"
+    },
+    {
+      "name": "Robert Irving III",
+      "targetId": "10399"
+    },
+    {
+      "name": "Felton Crews",
+      "targetId": "10400"
+    },
+    {
+      "name": "Vincent Wilburn",
+      "targetId": "10401"
+    }
+  ]
+}

@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Billy White",
-    "target": "Britt Daniel",
-    "targetId": "9654"
-  },
-  {
-    "source": "Billy White",
-    "target": "Eric Harvey",
-    "targetId": "9655"
-  },
-  {
-    "source": "Billy White",
-    "target": "Jim Eno",
-    "targetId": "9656"
-  },
-  {
-    "source": "Billy White",
-    "target": "Rob Pope",
-    "targetId": "9657"
-  },
-  {
-    "source": "Billy White",
-    "target": "Eggo Johanson",
-    "targetId": "9662"
-  },
-  {
-    "source": "Billy White",
-    "target": "Matthew Colecchi",
-    "targetId": "9666"
-  },
-  {
-    "source": "Billy White",
-    "target": "Mike McCarthy",
-    "targetId": "9667"
-  }
-]
+{
+  "source": "Billy White",
+  "targets": [
+    {
+      "name": "Britt Daniel",
+      "targetId": "9654"
+    },
+    {
+      "name": "Eric Harvey",
+      "targetId": "9655"
+    },
+    {
+      "name": "Jim Eno",
+      "targetId": "9656"
+    },
+    {
+      "name": "Rob Pope",
+      "targetId": "9657"
+    },
+    {
+      "name": "Eggo Johanson",
+      "targetId": "9662"
+    },
+    {
+      "name": "Matthew Colecchi",
+      "targetId": "9666"
+    },
+    {
+      "name": "Mike McCarthy",
+      "targetId": "9667"
+    }
+  ]
+}

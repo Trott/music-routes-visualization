@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Kip Winger",
-    "target": "Reb Beach",
-    "targetId": "2028"
-  },
-  {
-    "source": "Kip Winger",
-    "target": "Doug Pinnick",
-    "targetId": "2030"
-  },
-  {
-    "source": "Kip Winger",
-    "target": "Timothy Drury",
-    "targetId": "2031"
-  },
-  {
-    "source": "Kip Winger",
-    "target": "Kelly Keagy",
-    "targetId": "2032"
-  }
-]
+{
+  "source": "Kip Winger",
+  "targets": [
+    {
+      "name": "Reb Beach",
+      "targetId": "2028"
+    },
+    {
+      "name": "Doug Pinnick",
+      "targetId": "2030"
+    },
+    {
+      "name": "Timothy Drury",
+      "targetId": "2031"
+    },
+    {
+      "name": "Kelly Keagy",
+      "targetId": "2032"
+    }
+  ]
+}

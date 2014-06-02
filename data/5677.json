@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Joe Lally",
-    "target": "John Frusciante",
-    "targetId": "1726"
-  },
-  {
-    "source": "Joe Lally",
-    "target": "Josh Klinghoffer",
-    "targetId": "1729"
-  },
-  {
-    "source": "Joe Lally",
-    "target": "Ian MacKaye",
-    "targetId": "3156"
-  },
-  {
-    "source": "Joe Lally",
-    "target": "Guy Picciotto",
-    "targetId": "5678"
-  },
-  {
-    "source": "Joe Lally",
-    "target": "Brendan Canty",
-    "targetId": "5679"
-  }
-]
+{
+  "source": "Joe Lally",
+  "targets": [
+    {
+      "name": "John Frusciante",
+      "targetId": "1726"
+    },
+    {
+      "name": "Josh Klinghoffer",
+      "targetId": "1729"
+    },
+    {
+      "name": "Ian MacKaye",
+      "targetId": "3156"
+    },
+    {
+      "name": "Guy Picciotto",
+      "targetId": "5678"
+    },
+    {
+      "name": "Brendan Canty",
+      "targetId": "5679"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Ed Walsh",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Ed Walsh",
-    "target": "Earl Slick",
-    "targetId": "267"
-  },
-  {
-    "source": "Ed Walsh",
-    "target": "Hugh McCracken",
-    "targetId": "268"
-  },
-  {
-    "source": "Ed Walsh",
-    "target": "Tony Levin",
-    "targetId": "269"
-  },
-  {
-    "source": "Ed Walsh",
-    "target": "George Small",
-    "targetId": "270"
-  },
-  {
-    "source": "Ed Walsh",
-    "target": "Andy Newmark",
-    "targetId": "271"
-  },
-  {
-    "source": "Ed Walsh",
-    "target": "Arthur Jenkins, Jr.",
-    "targetId": "272"
-  },
-  {
-    "source": "Ed Walsh",
-    "target": "Matthew Cunningham",
-    "targetId": "274"
-  }
-]
+{
+  "source": "Ed Walsh",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Earl Slick",
+      "targetId": "267"
+    },
+    {
+      "name": "Hugh McCracken",
+      "targetId": "268"
+    },
+    {
+      "name": "Tony Levin",
+      "targetId": "269"
+    },
+    {
+      "name": "George Small",
+      "targetId": "270"
+    },
+    {
+      "name": "Andy Newmark",
+      "targetId": "271"
+    },
+    {
+      "name": "Arthur Jenkins, Jr.",
+      "targetId": "272"
+    },
+    {
+      "name": "Matthew Cunningham",
+      "targetId": "274"
+    }
+  ]
+}

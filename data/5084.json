@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Nick Luca",
-    "target": "Joey Burns",
-    "targetId": "1686"
-  },
-  {
-    "source": "Nick Luca",
-    "target": "John Convertino",
-    "targetId": "1700"
-  },
-  {
-    "source": "Nick Luca",
-    "target": "Martin Wenk",
-    "targetId": "3972"
-  }
-]
+{
+  "source": "Nick Luca",
+  "targets": [
+    {
+      "name": "Joey Burns",
+      "targetId": "1686"
+    },
+    {
+      "name": "John Convertino",
+      "targetId": "1700"
+    },
+    {
+      "name": "Martin Wenk",
+      "targetId": "3972"
+    }
+  ]
+}

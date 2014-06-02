@@ -1,227 +1,185 @@
-[
-  {
-    "source": "Raymond Premru",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "George Martin",
-    "targetId": "628"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Mal Evans",
-    "targetId": "630"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Sidney Sax",
-    "targetId": "3355"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Jurgen Hess",
-    "targetId": "3357"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "John Underwood",
-    "targetId": "3359"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Alan Civil",
-    "targetId": "3367"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Neil Sanders",
-    "targetId": "8684"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "David Mason",
-    "targetId": "9699"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Gordon Pearce",
-    "targetId": "9757"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Alan Dalziel",
-    "targetId": "9758"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Dennis Vigay",
-    "targetId": "9759"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Erich Gruenberg",
-    "targetId": "9761"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Tristan Fry",
-    "targetId": "9778"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Michael Barnes",
-    "targetId": "9779"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "T. Moore",
-    "targetId": "9780"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Raymond Brown",
-    "targetId": "9782"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Harold Jackson",
-    "targetId": "9783"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Monty Montgomery",
-    "targetId": "9784"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Clifford Seville",
-    "targetId": "9785"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "David Sanderman",
-    "targetId": "9786"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "N. Fawcett",
-    "targetId": "9787"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Alfred Waters",
-    "targetId": "9788"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Basil Tschaikov",
-    "targetId": "9789"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Jack Brymer",
-    "targetId": "9790"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Roger Lord",
-    "targetId": "9791"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Cyril MacArthur",
-    "targetId": "9792"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Alex Nifosi",
-    "targetId": "9793"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Francisco Gabarro",
-    "targetId": "9794"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "John Meek",
-    "targetId": "9795"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Bernard Davis",
-    "targetId": "9796"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Gwynne Edwards",
-    "targetId": "9797"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Ernest Scott",
-    "targetId": "9798"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Henry Datyner",
-    "targetId": "9799"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Donald Weekes",
-    "targetId": "9800"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "David McCallum",
-    "targetId": "9801"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Lionel Bentley",
-    "targetId": "9802"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "D. Bradley",
-    "targetId": "9803"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "John Marston",
-    "targetId": "9804"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Granville Jones",
-    "targetId": "9805"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Bill Monro",
-    "targetId": "9806"
-  },
-  {
-    "source": "Raymond Premru",
-    "target": "Hans Geiger",
-    "targetId": "9807"
-  }
-]
+{
+  "source": "Raymond Premru",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "George Martin",
+      "targetId": "628"
+    },
+    {
+      "name": "Mal Evans",
+      "targetId": "630"
+    },
+    {
+      "name": "Sidney Sax",
+      "targetId": "3355"
+    },
+    {
+      "name": "Jurgen Hess",
+      "targetId": "3357"
+    },
+    {
+      "name": "John Underwood",
+      "targetId": "3359"
+    },
+    {
+      "name": "Alan Civil",
+      "targetId": "3367"
+    },
+    {
+      "name": "Neil Sanders",
+      "targetId": "8684"
+    },
+    {
+      "name": "David Mason",
+      "targetId": "9699"
+    },
+    {
+      "name": "Gordon Pearce",
+      "targetId": "9757"
+    },
+    {
+      "name": "Alan Dalziel",
+      "targetId": "9758"
+    },
+    {
+      "name": "Dennis Vigay",
+      "targetId": "9759"
+    },
+    {
+      "name": "Erich Gruenberg",
+      "targetId": "9761"
+    },
+    {
+      "name": "Tristan Fry",
+      "targetId": "9778"
+    },
+    {
+      "name": "Michael Barnes",
+      "targetId": "9779"
+    },
+    {
+      "name": "T. Moore",
+      "targetId": "9780"
+    },
+    {
+      "name": "Raymond Brown",
+      "targetId": "9782"
+    },
+    {
+      "name": "Harold Jackson",
+      "targetId": "9783"
+    },
+    {
+      "name": "Monty Montgomery",
+      "targetId": "9784"
+    },
+    {
+      "name": "Clifford Seville",
+      "targetId": "9785"
+    },
+    {
+      "name": "David Sanderman",
+      "targetId": "9786"
+    },
+    {
+      "name": "N. Fawcett",
+      "targetId": "9787"
+    },
+    {
+      "name": "Alfred Waters",
+      "targetId": "9788"
+    },
+    {
+      "name": "Basil Tschaikov",
+      "targetId": "9789"
+    },
+    {
+      "name": "Jack Brymer",
+      "targetId": "9790"
+    },
+    {
+      "name": "Roger Lord",
+      "targetId": "9791"
+    },
+    {
+      "name": "Cyril MacArthur",
+      "targetId": "9792"
+    },
+    {
+      "name": "Alex Nifosi",
+      "targetId": "9793"
+    },
+    {
+      "name": "Francisco Gabarro",
+      "targetId": "9794"
+    },
+    {
+      "name": "John Meek",
+      "targetId": "9795"
+    },
+    {
+      "name": "Bernard Davis",
+      "targetId": "9796"
+    },
+    {
+      "name": "Gwynne Edwards",
+      "targetId": "9797"
+    },
+    {
+      "name": "Ernest Scott",
+      "targetId": "9798"
+    },
+    {
+      "name": "Henry Datyner",
+      "targetId": "9799"
+    },
+    {
+      "name": "Donald Weekes",
+      "targetId": "9800"
+    },
+    {
+      "name": "David McCallum",
+      "targetId": "9801"
+    },
+    {
+      "name": "Lionel Bentley",
+      "targetId": "9802"
+    },
+    {
+      "name": "D. Bradley",
+      "targetId": "9803"
+    },
+    {
+      "name": "John Marston",
+      "targetId": "9804"
+    },
+    {
+      "name": "Granville Jones",
+      "targetId": "9805"
+    },
+    {
+      "name": "Bill Monro",
+      "targetId": "9806"
+    },
+    {
+      "name": "Hans Geiger",
+      "targetId": "9807"
+    }
+  ]
+}

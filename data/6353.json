@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Todd Thompson",
-    "target": "Maria McKee",
-    "targetId": "2215"
-  },
-  {
-    "source": "Todd Thompson",
-    "target": "Volker Zander",
-    "targetId": "3974"
-  },
-  {
-    "source": "Todd Thompson",
-    "target": "Stuart A. Staples",
-    "targetId": "6352"
-  },
-  {
-    "source": "Todd Thompson",
-    "target": "Pete Finney",
-    "targetId": "6354"
-  }
-]
+{
+  "source": "Todd Thompson",
+  "targets": [
+    {
+      "name": "Maria McKee",
+      "targetId": "2215"
+    },
+    {
+      "name": "Volker Zander",
+      "targetId": "3974"
+    },
+    {
+      "name": "Stuart A. Staples",
+      "targetId": "6352"
+    },
+    {
+      "name": "Pete Finney",
+      "targetId": "6354"
+    }
+  ]
+}

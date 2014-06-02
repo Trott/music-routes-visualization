@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Simon Raymonde",
-    "target": "Elizabeth Fraser",
-    "targetId": "614"
-  },
-  {
-    "source": "Simon Raymonde",
-    "target": "Robin Guthrie",
-    "targetId": "615"
-  },
-  {
-    "source": "Simon Raymonde",
-    "target": "Faye Wong",
-    "targetId": "5882"
-  }
-]
+{
+  "source": "Simon Raymonde",
+  "targets": [
+    {
+      "name": "Elizabeth Fraser",
+      "targetId": "614"
+    },
+    {
+      "name": "Robin Guthrie",
+      "targetId": "615"
+    },
+    {
+      "name": "Faye Wong",
+      "targetId": "5882"
+    }
+  ]
+}

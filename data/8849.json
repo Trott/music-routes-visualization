@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jennifer Frautschi",
-    "target": "Lisa Loeb",
-    "targetId": "8844"
-  },
-  {
-    "source": "Jennifer Frautschi",
-    "target": "Eric Gaenslen",
-    "targetId": "8846"
-  }
-]
+{
+  "source": "Jennifer Frautschi",
+  "targets": [
+    {
+      "name": "Lisa Loeb",
+      "targetId": "8844"
+    },
+    {
+      "name": "Eric Gaenslen",
+      "targetId": "8846"
+    }
+  ]
+}

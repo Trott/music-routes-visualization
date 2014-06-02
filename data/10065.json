@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Larry Campbell",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Larry Campbell",
-    "target": "Tony Garnier",
-    "targetId": "5456"
-  },
-  {
-    "source": "Larry Campbell",
-    "target": "Auggie Meyers",
-    "targetId": "5457"
-  },
-  {
-    "source": "Larry Campbell",
-    "target": "David Kemper",
-    "targetId": "5462"
-  },
-  {
-    "source": "Larry Campbell",
-    "target": "Charlie Sexton",
-    "targetId": "8703"
-  },
-  {
-    "source": "Larry Campbell",
-    "target": "Clay Meyers",
-    "targetId": "10066"
-  }
-]
+{
+  "source": "Larry Campbell",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Tony Garnier",
+      "targetId": "5456"
+    },
+    {
+      "name": "Auggie Meyers",
+      "targetId": "5457"
+    },
+    {
+      "name": "David Kemper",
+      "targetId": "5462"
+    },
+    {
+      "name": "Charlie Sexton",
+      "targetId": "8703"
+    },
+    {
+      "name": "Clay Meyers",
+      "targetId": "10066"
+    }
+  ]
+}

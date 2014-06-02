@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Ivan Neville",
-    "target": "Robbie Robertson",
-    "targetId": "31"
-  },
-  {
-    "source": "Ivan Neville",
-    "target": "Bono",
-    "targetId": "111"
-  },
-  {
-    "source": "Ivan Neville",
-    "target": "Adam Clayton",
-    "targetId": "112"
-  },
-  {
-    "source": "Ivan Neville",
-    "target": "The Edge",
-    "targetId": "202"
-  },
-  {
-    "source": "Ivan Neville",
-    "target": "Larry Mullen, Jr.",
-    "targetId": "203"
-  },
-  {
-    "source": "Ivan Neville",
-    "target": "Daniel Lanois",
-    "targetId": "2195"
-  },
-  {
-    "source": "Ivan Neville",
-    "target": "Bill Dillon",
-    "targetId": "2210"
-  }
-]
+{
+  "source": "Ivan Neville",
+  "targets": [
+    {
+      "name": "Robbie Robertson",
+      "targetId": "31"
+    },
+    {
+      "name": "Bono",
+      "targetId": "111"
+    },
+    {
+      "name": "Adam Clayton",
+      "targetId": "112"
+    },
+    {
+      "name": "The Edge",
+      "targetId": "202"
+    },
+    {
+      "name": "Larry Mullen, Jr.",
+      "targetId": "203"
+    },
+    {
+      "name": "Daniel Lanois",
+      "targetId": "2195"
+    },
+    {
+      "name": "Bill Dillon",
+      "targetId": "2210"
+    }
+  ]
+}

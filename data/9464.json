@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Gary Jules",
-    "target": "Michael Andrews",
-    "targetId": "9463"
-  },
-  {
-    "source": "Gary Jules",
-    "target": "Sam Shelton",
-    "targetId": "9465"
-  },
-  {
-    "source": "Gary Jules",
-    "target": "Tori Haberman",
-    "targetId": "9466"
-  }
-]
+{
+  "source": "Gary Jules",
+  "targets": [
+    {
+      "name": "Michael Andrews",
+      "targetId": "9463"
+    },
+    {
+      "name": "Sam Shelton",
+      "targetId": "9465"
+    },
+    {
+      "name": "Tori Haberman",
+      "targetId": "9466"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Lenny Castellanos",
-    "target": "Mick Fleetwood",
-    "targetId": "347"
-  },
-  {
-    "source": "Lenny Castellanos",
-    "target": "Rick Vito",
-    "targetId": "6152"
-  },
-  {
-    "source": "Lenny Castellanos",
-    "target": "Mark Johnstone",
-    "targetId": "6154"
-  }
-]
+{
+  "source": "Lenny Castellanos",
+  "targets": [
+    {
+      "name": "Mick Fleetwood",
+      "targetId": "347"
+    },
+    {
+      "name": "Rick Vito",
+      "targetId": "6152"
+    },
+    {
+      "name": "Mark Johnstone",
+      "targetId": "6154"
+    }
+  ]
+}

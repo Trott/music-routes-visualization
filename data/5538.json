@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Steve Cataldo",
-    "target": "Allen \"Alpo\" Paulino",
-    "targetId": "4680"
-  },
-  {
-    "source": "Steve Cataldo",
-    "target": "Billy Loosigian",
-    "targetId": "5539"
-  },
-  {
-    "source": "Steve Cataldo",
-    "target": "Jeff Erna",
-    "targetId": "5540"
-  }
-]
+{
+  "source": "Steve Cataldo",
+  "targets": [
+    {
+      "name": "Allen \"Alpo\" Paulino",
+      "targetId": "4680"
+    },
+    {
+      "name": "Billy Loosigian",
+      "targetId": "5539"
+    },
+    {
+      "name": "Jeff Erna",
+      "targetId": "5540"
+    }
+  ]
+}

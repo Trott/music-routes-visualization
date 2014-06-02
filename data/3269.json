@@ -1,217 +1,177 @@
-[
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Ron Wood",
-    "targetId": "34"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Al Perkins",
-    "targetId": "377"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Steve Madaio",
-    "targetId": "412"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Alan Clark",
-    "targetId": "473"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Raymond Lee Pounds",
-    "targetId": "558"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Madelyn Quebec",
-    "targetId": "562"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Muffy Hendrix",
-    "targetId": "563"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Annette May Thomas",
-    "targetId": "564"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Benmont Tench",
-    "targetId": "645"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Mike Campbell",
-    "targetId": "646"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Howie Epstein",
-    "targetId": "921"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Mick Taylor",
-    "targetId": "1995"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Bashiri Johnson",
-    "targetId": "2373"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Stan Lynch",
-    "targetId": "2563"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Phil Jones",
-    "targetId": "2564"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "James Jamerson, Jr.",
-    "targetId": "3266"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "John Paris",
-    "targetId": "3267"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Peggi Blu",
-    "targetId": "3268"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Larry Meyers",
-    "targetId": "3270"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Milton Gabriel",
-    "targetId": "3271"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Mike Berment",
-    "targetId": "3272"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Brian Parris",
-    "targetId": "3273"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Don Heffington",
-    "targetId": "3274"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Elisecia Wright",
-    "targetId": "3275"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Carl Sealove",
-    "targetId": "3276"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Vince Melamed",
-    "targetId": "3277"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Ira Ingber",
-    "targetId": "3278"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "David A. Stewart",
-    "targetId": "3279"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Clem Burke",
-    "targetId": "3280"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Patrick Seymour",
-    "targetId": "3281"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "John McKenzie",
-    "targetId": "3282"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Debra Byrd",
-    "targetId": "6763"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Sid McGinnis",
-    "targetId": "8309"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Richard Scher",
-    "targetId": "10034"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Ted Perlman",
-    "targetId": "10035"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Sly Dunbar",
-    "targetId": "10036"
-  },
-  {
-    "source": "Queen Esther Marrow",
-    "target": "Robbie Shakespeare",
-    "targetId": "10037"
-  }
-]
+{
+  "source": "Queen Esther Marrow",
+  "targets": [
+    {
+      "name": "Ron Wood",
+      "targetId": "34"
+    },
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Al Perkins",
+      "targetId": "377"
+    },
+    {
+      "name": "Steve Madaio",
+      "targetId": "412"
+    },
+    {
+      "name": "Alan Clark",
+      "targetId": "473"
+    },
+    {
+      "name": "Raymond Lee Pounds",
+      "targetId": "558"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Madelyn Quebec",
+      "targetId": "562"
+    },
+    {
+      "name": "Muffy Hendrix",
+      "targetId": "563"
+    },
+    {
+      "name": "Annette May Thomas",
+      "targetId": "564"
+    },
+    {
+      "name": "Benmont Tench",
+      "targetId": "645"
+    },
+    {
+      "name": "Mike Campbell",
+      "targetId": "646"
+    },
+    {
+      "name": "Howie Epstein",
+      "targetId": "921"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "Mick Taylor",
+      "targetId": "1995"
+    },
+    {
+      "name": "Bashiri Johnson",
+      "targetId": "2373"
+    },
+    {
+      "name": "Stan Lynch",
+      "targetId": "2563"
+    },
+    {
+      "name": "Phil Jones",
+      "targetId": "2564"
+    },
+    {
+      "name": "James Jamerson, Jr.",
+      "targetId": "3266"
+    },
+    {
+      "name": "John Paris",
+      "targetId": "3267"
+    },
+    {
+      "name": "Peggi Blu",
+      "targetId": "3268"
+    },
+    {
+      "name": "Larry Meyers",
+      "targetId": "3270"
+    },
+    {
+      "name": "Milton Gabriel",
+      "targetId": "3271"
+    },
+    {
+      "name": "Mike Berment",
+      "targetId": "3272"
+    },
+    {
+      "name": "Brian Parris",
+      "targetId": "3273"
+    },
+    {
+      "name": "Don Heffington",
+      "targetId": "3274"
+    },
+    {
+      "name": "Elisecia Wright",
+      "targetId": "3275"
+    },
+    {
+      "name": "Carl Sealove",
+      "targetId": "3276"
+    },
+    {
+      "name": "Vince Melamed",
+      "targetId": "3277"
+    },
+    {
+      "name": "Ira Ingber",
+      "targetId": "3278"
+    },
+    {
+      "name": "David A. Stewart",
+      "targetId": "3279"
+    },
+    {
+      "name": "Clem Burke",
+      "targetId": "3280"
+    },
+    {
+      "name": "Patrick Seymour",
+      "targetId": "3281"
+    },
+    {
+      "name": "John McKenzie",
+      "targetId": "3282"
+    },
+    {
+      "name": "Debra Byrd",
+      "targetId": "6763"
+    },
+    {
+      "name": "Sid McGinnis",
+      "targetId": "8309"
+    },
+    {
+      "name": "Richard Scher",
+      "targetId": "10034"
+    },
+    {
+      "name": "Ted Perlman",
+      "targetId": "10035"
+    },
+    {
+      "name": "Sly Dunbar",
+      "targetId": "10036"
+    },
+    {
+      "name": "Robbie Shakespeare",
+      "targetId": "10037"
+    }
+  ]
+}

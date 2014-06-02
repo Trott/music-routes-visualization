@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Dick Dale",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "Dick Dale",
-    "target": "Ron Eglit",
-    "targetId": "2738"
-  }
-]
+{
+  "source": "Dick Dale",
+  "targets": [
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "Ron Eglit",
+      "targetId": "2738"
+    }
+  ]
+}

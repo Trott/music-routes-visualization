@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Monty Alexander",
-    "target": "Ray Brown",
-    "targetId": "1925"
-  },
-  {
-    "source": "Monty Alexander",
-    "target": "Herb Ellis",
-    "targetId": "7153"
-  }
-]
+{
+  "source": "Monty Alexander",
+  "targets": [
+    {
+      "name": "Ray Brown",
+      "targetId": "1925"
+    },
+    {
+      "name": "Herb Ellis",
+      "targetId": "7153"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Peter Erskine",
-    "target": "Elvis Costello",
-    "targetId": "286"
-  },
-  {
-    "source": "Peter Erskine",
-    "target": "Steve Nieve",
-    "targetId": "3222"
-  },
-  {
-    "source": "Peter Erskine",
-    "target": "Michael Formanek",
-    "targetId": "9954"
-  },
-  {
-    "source": "Peter Erskine",
-    "target": "Bill Ware",
-    "targetId": "9955"
-  }
-]
+{
+  "source": "Peter Erskine",
+  "targets": [
+    {
+      "name": "Elvis Costello",
+      "targetId": "286"
+    },
+    {
+      "name": "Steve Nieve",
+      "targetId": "3222"
+    },
+    {
+      "name": "Michael Formanek",
+      "targetId": "9954"
+    },
+    {
+      "name": "Bill Ware",
+      "targetId": "9955"
+    }
+  ]
+}

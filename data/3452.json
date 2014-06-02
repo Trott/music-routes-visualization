@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Susie Honeyman",
-    "target": "Steven Goulding",
-    "targetId": "2057"
-  },
-  {
-    "source": "Susie Honeyman",
-    "target": "Jon Langford",
-    "targetId": "2058"
-  },
-  {
-    "source": "Susie Honeyman",
-    "target": "Lu Edmonds",
-    "targetId": "3451"
-  },
-  {
-    "source": "Susie Honeyman",
-    "target": "Dick Taylor",
-    "targetId": "3453"
-  },
-  {
-    "source": "Susie Honeyman",
-    "target": "Ken Lite",
-    "targetId": "3454"
-  },
-  {
-    "source": "Susie Honeyman",
-    "target": "Tom Greenhalgh",
-    "targetId": "3455"
-  }
-]
+{
+  "source": "Susie Honeyman",
+  "targets": [
+    {
+      "name": "Steven Goulding",
+      "targetId": "2057"
+    },
+    {
+      "name": "Jon Langford",
+      "targetId": "2058"
+    },
+    {
+      "name": "Lu Edmonds",
+      "targetId": "3451"
+    },
+    {
+      "name": "Dick Taylor",
+      "targetId": "3453"
+    },
+    {
+      "name": "Ken Lite",
+      "targetId": "3454"
+    },
+    {
+      "name": "Tom Greenhalgh",
+      "targetId": "3455"
+    }
+  ]
+}

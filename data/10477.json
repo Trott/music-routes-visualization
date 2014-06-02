@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Blag Dahlia",
-    "target": "Huey",
-    "targetId": "10469"
-  },
-  {
-    "source": "Blag Dahlia",
-    "target": "Spooney",
-    "targetId": "10470"
-  },
-  {
-    "source": "Blag Dahlia",
-    "target": "Ricky",
-    "targetId": "10471"
-  },
-  {
-    "source": "Blag Dahlia",
-    "target": "Surly",
-    "targetId": "10472"
-  }
-]
+{
+  "source": "Blag Dahlia",
+  "targets": [
+    {
+      "name": "Huey",
+      "targetId": "10469"
+    },
+    {
+      "name": "Spooney",
+      "targetId": "10470"
+    },
+    {
+      "name": "Ricky",
+      "targetId": "10471"
+    },
+    {
+      "name": "Surly",
+      "targetId": "10472"
+    }
+  ]
+}

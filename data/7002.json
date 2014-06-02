@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Roy Morgan",
-    "target": "Jeff Trott",
-    "targetId": "1022"
-  },
-  {
-    "source": "Roy Morgan",
-    "target": "Karl Wallinger",
-    "targetId": "7000"
-  },
-  {
-    "source": "Roy Morgan",
-    "target": "Chris Whitten",
-    "targetId": "7004"
-  }
-]
+{
+  "source": "Roy Morgan",
+  "targets": [
+    {
+      "name": "Jeff Trott",
+      "targetId": "1022"
+    },
+    {
+      "name": "Karl Wallinger",
+      "targetId": "7000"
+    },
+    {
+      "name": "Chris Whitten",
+      "targetId": "7004"
+    }
+  ]
+}

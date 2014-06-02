@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tony Kaye",
-    "target": "Bill Bruford",
-    "targetId": "340"
-  },
-  {
-    "source": "Tony Kaye",
-    "target": "Jon Anderson",
-    "targetId": "536"
-  },
-  {
-    "source": "Tony Kaye",
-    "target": "Chris Squire",
-    "targetId": "1432"
-  },
-  {
-    "source": "Tony Kaye",
-    "target": "Peter Banks",
-    "targetId": "10847"
-  }
-]
+{
+  "source": "Tony Kaye",
+  "targets": [
+    {
+      "name": "Bill Bruford",
+      "targetId": "340"
+    },
+    {
+      "name": "Jon Anderson",
+      "targetId": "536"
+    },
+    {
+      "name": "Chris Squire",
+      "targetId": "1432"
+    },
+    {
+      "name": "Peter Banks",
+      "targetId": "10847"
+    }
+  ]
+}

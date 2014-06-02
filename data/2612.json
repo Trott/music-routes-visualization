@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Christy",
-    "target": "James Murphy",
-    "targetId": "2608"
-  },
-  {
-    "source": "Christy",
-    "target": "Arthur \"Artanker\" Owens",
-    "targetId": "2613"
-  },
-  {
-    "source": "Christy",
-    "target": "Chris Kifuthu",
-    "targetId": "2614"
-  },
-  {
-    "source": "Christy",
-    "target": "Joe Fiorentino",
-    "targetId": "2615"
-  },
-  {
-    "source": "Christy",
-    "target": "Basil \"Bill\" Yokohama",
-    "targetId": "2616"
-  }
-]
+{
+  "source": "Christy",
+  "targets": [
+    {
+      "name": "James Murphy",
+      "targetId": "2608"
+    },
+    {
+      "name": "Arthur \"Artanker\" Owens",
+      "targetId": "2613"
+    },
+    {
+      "name": "Chris Kifuthu",
+      "targetId": "2614"
+    },
+    {
+      "name": "Joe Fiorentino",
+      "targetId": "2615"
+    },
+    {
+      "name": "Basil \"Bill\" Yokohama",
+      "targetId": "2616"
+    }
+  ]
+}

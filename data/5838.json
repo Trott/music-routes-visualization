@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Jack Carson",
-    "target": "Doris Day",
-    "targetId": "5837"
-  },
-  {
-    "source": "Jack Carson",
-    "target": "Mel Blanc",
-    "targetId": "5839"
-  }
-]
+{
+  "source": "Jack Carson",
+  "targets": [
+    {
+      "name": "Doris Day",
+      "targetId": "5837"
+    },
+    {
+      "name": "Mel Blanc",
+      "targetId": "5839"
+    }
+  ]
+}

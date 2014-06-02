@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Dean Butterworth",
-    "target": "David Lindley",
-    "targetId": "641"
-  },
-  {
-    "source": "Dean Butterworth",
-    "target": "Juan Nelson",
-    "targetId": "825"
-  },
-  {
-    "source": "Dean Butterworth",
-    "target": "David Leach",
-    "targetId": "827"
-  },
-  {
-    "source": "Dean Butterworth",
-    "target": "Ben Harper",
-    "targetId": "828"
-  },
-  {
-    "source": "Dean Butterworth",
-    "target": "Tyrone Downie",
-    "targetId": "829"
-  },
-  {
-    "source": "Dean Butterworth",
-    "target": "Eric Sarafin",
-    "targetId": "830"
-  }
-]
+{
+  "source": "Dean Butterworth",
+  "targets": [
+    {
+      "name": "David Lindley",
+      "targetId": "641"
+    },
+    {
+      "name": "Juan Nelson",
+      "targetId": "825"
+    },
+    {
+      "name": "David Leach",
+      "targetId": "827"
+    },
+    {
+      "name": "Ben Harper",
+      "targetId": "828"
+    },
+    {
+      "name": "Tyrone Downie",
+      "targetId": "829"
+    },
+    {
+      "name": "Eric Sarafin",
+      "targetId": "830"
+    }
+  ]
+}

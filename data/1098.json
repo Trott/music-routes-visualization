@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Pete Carr",
-    "target": "Paul Simon",
-    "targetId": "79"
-  },
-  {
-    "source": "Pete Carr",
-    "target": "Cat Stevens",
-    "targetId": "1088"
-  },
-  {
-    "source": "Pete Carr",
-    "target": "Jimmy Johnson",
-    "targetId": "1095"
-  },
-  {
-    "source": "Pete Carr",
-    "target": "David Hood",
-    "targetId": "1096"
-  },
-  {
-    "source": "Pete Carr",
-    "target": "Roger Hawkins",
-    "targetId": "1097"
-  },
-  {
-    "source": "Pete Carr",
-    "target": "Barry Beckett",
-    "targetId": "1099"
-  },
-  {
-    "source": "Pete Carr",
-    "target": "Tim Henson",
-    "targetId": "1100"
-  },
-  {
-    "source": "Pete Carr",
-    "target": "Art Garfunkel",
-    "targetId": "1474"
-  }
-]
+{
+  "source": "Pete Carr",
+  "targets": [
+    {
+      "name": "Paul Simon",
+      "targetId": "79"
+    },
+    {
+      "name": "Cat Stevens",
+      "targetId": "1088"
+    },
+    {
+      "name": "Jimmy Johnson",
+      "targetId": "1095"
+    },
+    {
+      "name": "David Hood",
+      "targetId": "1096"
+    },
+    {
+      "name": "Roger Hawkins",
+      "targetId": "1097"
+    },
+    {
+      "name": "Barry Beckett",
+      "targetId": "1099"
+    },
+    {
+      "name": "Tim Henson",
+      "targetId": "1100"
+    },
+    {
+      "name": "Art Garfunkel",
+      "targetId": "1474"
+    }
+  ]
+}

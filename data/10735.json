@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Frank Clark",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Frank Clark",
-    "target": "Barry Morgan",
-    "targetId": "1094"
-  },
-  {
-    "source": "Frank Clark",
-    "target": "Dave Richmond",
-    "targetId": "10734"
-  },
-  {
-    "source": "Frank Clark",
-    "target": "Colin Green",
-    "targetId": "10736"
-  },
-  {
-    "source": "Frank Clark",
-    "target": "Clive Hicks",
-    "targetId": "10737"
-  }
-]
+{
+  "source": "Frank Clark",
+  "targets": [
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Barry Morgan",
+      "targetId": "1094"
+    },
+    {
+      "name": "Dave Richmond",
+      "targetId": "10734"
+    },
+    {
+      "name": "Colin Green",
+      "targetId": "10736"
+    },
+    {
+      "name": "Clive Hicks",
+      "targetId": "10737"
+    }
+  ]
+}

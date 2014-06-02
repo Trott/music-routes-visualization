@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Peter Albin",
-    "target": "Janis Joplin",
-    "targetId": "1542"
-  },
-  {
-    "source": "Peter Albin",
-    "target": "Dave Getz",
-    "targetId": "9590"
-  },
-  {
-    "source": "Peter Albin",
-    "target": "James Gurley",
-    "targetId": "9591"
-  },
-  {
-    "source": "Peter Albin",
-    "target": "Sam Andrew",
-    "targetId": "9592"
-  }
-]
+{
+  "source": "Peter Albin",
+  "targets": [
+    {
+      "name": "Janis Joplin",
+      "targetId": "1542"
+    },
+    {
+      "name": "Dave Getz",
+      "targetId": "9590"
+    },
+    {
+      "name": "James Gurley",
+      "targetId": "9591"
+    },
+    {
+      "name": "Sam Andrew",
+      "targetId": "9592"
+    }
+  ]
+}

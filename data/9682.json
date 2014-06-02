@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Novi Novog",
-    "target": "Prince",
-    "targetId": "712"
-  },
-  {
-    "source": "Novi Novog",
-    "target": "Apollonia",
-    "targetId": "1652"
-  },
-  {
-    "source": "Novi Novog",
-    "target": "Suzie Katayama",
-    "targetId": "2293"
-  },
-  {
-    "source": "Novi Novog",
-    "target": "Dave Coleman",
-    "targetId": "9343"
-  }
-]
+{
+  "source": "Novi Novog",
+  "targets": [
+    {
+      "name": "Prince",
+      "targetId": "712"
+    },
+    {
+      "name": "Apollonia",
+      "targetId": "1652"
+    },
+    {
+      "name": "Suzie Katayama",
+      "targetId": "2293"
+    },
+    {
+      "name": "Dave Coleman",
+      "targetId": "9343"
+    }
+  ]
+}

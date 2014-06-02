@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dave Rotheray",
-    "target": "Paul Weller",
-    "targetId": "113"
-  },
-  {
-    "source": "Dave Rotheray",
-    "target": "Paul Heaton",
-    "targetId": "3256"
-  },
-  {
-    "source": "Dave Rotheray",
-    "target": "Dave Hemingway",
-    "targetId": "3257"
-  },
-  {
-    "source": "Dave Rotheray",
-    "target": "Sean Welch",
-    "targetId": "3258"
-  },
-  {
-    "source": "Dave Rotheray",
-    "target": "Dave Stead",
-    "targetId": "3259"
-  }
-]
+{
+  "source": "Dave Rotheray",
+  "targets": [
+    {
+      "name": "Paul Weller",
+      "targetId": "113"
+    },
+    {
+      "name": "Paul Heaton",
+      "targetId": "3256"
+    },
+    {
+      "name": "Dave Hemingway",
+      "targetId": "3257"
+    },
+    {
+      "name": "Sean Welch",
+      "targetId": "3258"
+    },
+    {
+      "name": "Dave Stead",
+      "targetId": "3259"
+    }
+  ]
+}

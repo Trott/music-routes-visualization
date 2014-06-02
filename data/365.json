@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Reeves Gabrels",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Reeves Gabrels",
-    "target": "Robert Smith",
-    "targetId": "363"
-  },
-  {
-    "source": "Reeves Gabrels",
-    "target": "Jason Cooper",
-    "targetId": "366"
-  },
-  {
-    "source": "Reeves Gabrels",
-    "target": "Hunt Sales",
-    "targetId": "367"
-  },
-  {
-    "source": "Reeves Gabrels",
-    "target": "Tony Sales",
-    "targetId": "368"
-  },
-  {
-    "source": "Reeves Gabrels",
-    "target": "Kevin Armstrong",
-    "targetId": "369"
-  }
-]
+{
+  "source": "Reeves Gabrels",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Robert Smith",
+      "targetId": "363"
+    },
+    {
+      "name": "Jason Cooper",
+      "targetId": "366"
+    },
+    {
+      "name": "Hunt Sales",
+      "targetId": "367"
+    },
+    {
+      "name": "Tony Sales",
+      "targetId": "368"
+    },
+    {
+      "name": "Kevin Armstrong",
+      "targetId": "369"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Chris Ethridge",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Chris Ethridge",
-    "target": "Randy Newman",
-    "targetId": "370"
-  },
-  {
-    "source": "Chris Ethridge",
-    "target": "Ry Cooder",
-    "targetId": "372"
-  },
-  {
-    "source": "Chris Ethridge",
-    "target": "Gram Parsons",
-    "targetId": "451"
-  },
-  {
-    "source": "Chris Ethridge",
-    "target": "Chris Hillman",
-    "targetId": "503"
-  },
-  {
-    "source": "Chris Ethridge",
-    "target": "\"Sneaky\" Pete Kleinow",
-    "targetId": "504"
-  }
-]
+{
+  "source": "Chris Ethridge",
+  "targets": [
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Randy Newman",
+      "targetId": "370"
+    },
+    {
+      "name": "Ry Cooder",
+      "targetId": "372"
+    },
+    {
+      "name": "Gram Parsons",
+      "targetId": "451"
+    },
+    {
+      "name": "Chris Hillman",
+      "targetId": "503"
+    },
+    {
+      "name": "\"Sneaky\" Pete Kleinow",
+      "targetId": "504"
+    }
+  ]
+}

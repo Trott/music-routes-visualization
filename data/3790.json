@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Terry Graham",
-    "target": "Dave Alvin",
-    "targetId": "3625"
-  },
-  {
-    "source": "Terry Graham",
-    "target": "Kid Congo Powers",
-    "targetId": "3778"
-  },
-  {
-    "source": "Terry Graham",
-    "target": "Patricia Morrison",
-    "targetId": "3789"
-  },
-  {
-    "source": "Terry Graham",
-    "target": "Jeffrey Lee Pierce",
-    "targetId": "3791"
-  }
-]
+{
+  "source": "Terry Graham",
+  "targets": [
+    {
+      "name": "Dave Alvin",
+      "targetId": "3625"
+    },
+    {
+      "name": "Kid Congo Powers",
+      "targetId": "3778"
+    },
+    {
+      "name": "Patricia Morrison",
+      "targetId": "3789"
+    },
+    {
+      "name": "Jeffrey Lee Pierce",
+      "targetId": "3791"
+    }
+  ]
+}

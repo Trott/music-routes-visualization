@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Miguel Ramos",
-    "target": "Amália Rodrigues",
-    "targetId": "7480"
-  },
-  {
-    "source": "Miguel Ramos",
-    "target": "José Nunes",
-    "targetId": "7490"
-  },
-  {
-    "source": "Miguel Ramos",
-    "target": "José Inacio",
-    "targetId": "7491"
-  }
-]
+{
+  "source": "Miguel Ramos",
+  "targets": [
+    {
+      "name": "Amália Rodrigues",
+      "targetId": "7480"
+    },
+    {
+      "name": "José Nunes",
+      "targetId": "7490"
+    },
+    {
+      "name": "José Inacio",
+      "targetId": "7491"
+    }
+  ]
+}

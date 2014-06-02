@@ -1,207 +1,169 @@
-[
-  {
-    "source": "Kevin Dorsey",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Brandon Fields",
-    "targetId": "434"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Russ Kunkel",
-    "targetId": "458"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Matt Rollings",
-    "targetId": "589"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Gladys Knight",
-    "targetId": "697"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Rosemary Butler",
-    "targetId": "1015"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "James Gadson",
-    "targetId": "1533"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Abraham Laboriel, Sr.",
-    "targetId": "2213"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Dave Boruff",
-    "targetId": "2223"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Bob McChesney",
-    "targetId": "2224"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Wayne Bergeron",
-    "targetId": "2343"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Alethea Mills",
-    "targetId": "2345"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Aminah Ofumbi",
-    "targetId": "2346"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Chavonne Morris",
-    "targetId": "2347"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Clarissa Watkins",
-    "targetId": "2348"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Clydene Jackson",
-    "targetId": "2349"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Darryl Phinnessee",
-    "targetId": "2350"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "De'Ante Duckett",
-    "targetId": "2351"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Irene Madison",
-    "targetId": "2352"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "James Burney",
-    "targetId": "2353"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Janey Clewer Gaitsch",
-    "targetId": "2354"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "James Gilstrap",
-    "targetId": "2355"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "John West",
-    "targetId": "2356"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Loren Turner",
-    "targetId": "2358"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Sheven Morris",
-    "targetId": "2359"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Terry Woods",
-    "targetId": "2360"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Tom Saviano",
-    "targetId": "2361"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Charles Fearing",
-    "targetId": "2362"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Danny Jacob",
-    "targetId": "2363"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Clarence McDonald",
-    "targetId": "2364"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Lyle Lovett",
-    "targetId": "3124"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "John Hagen",
-    "targetId": "3125"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Francine Reed",
-    "targetId": "3131"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Arnold McCuller",
-    "targetId": "3481"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "\"Sweet Pea\" Atkinson",
-    "targetId": "6057"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Harry Bowens",
-    "targetId": "6058"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Leo Kottke",
-    "targetId": "9056"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Edgar Meyer",
-    "targetId": "9060"
-  },
-  {
-    "source": "Kevin Dorsey",
-    "target": "Kathy Hazzard",
-    "targetId": "9061"
-  }
-]
+{
+  "source": "Kevin Dorsey",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Brandon Fields",
+      "targetId": "434"
+    },
+    {
+      "name": "Russ Kunkel",
+      "targetId": "458"
+    },
+    {
+      "name": "Matt Rollings",
+      "targetId": "589"
+    },
+    {
+      "name": "Gladys Knight",
+      "targetId": "697"
+    },
+    {
+      "name": "Rosemary Butler",
+      "targetId": "1015"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "James Gadson",
+      "targetId": "1533"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Abraham Laboriel, Sr.",
+      "targetId": "2213"
+    },
+    {
+      "name": "Dave Boruff",
+      "targetId": "2223"
+    },
+    {
+      "name": "Bob McChesney",
+      "targetId": "2224"
+    },
+    {
+      "name": "Wayne Bergeron",
+      "targetId": "2343"
+    },
+    {
+      "name": "Alethea Mills",
+      "targetId": "2345"
+    },
+    {
+      "name": "Aminah Ofumbi",
+      "targetId": "2346"
+    },
+    {
+      "name": "Chavonne Morris",
+      "targetId": "2347"
+    },
+    {
+      "name": "Clarissa Watkins",
+      "targetId": "2348"
+    },
+    {
+      "name": "Clydene Jackson",
+      "targetId": "2349"
+    },
+    {
+      "name": "Darryl Phinnessee",
+      "targetId": "2350"
+    },
+    {
+      "name": "De'Ante Duckett",
+      "targetId": "2351"
+    },
+    {
+      "name": "Irene Madison",
+      "targetId": "2352"
+    },
+    {
+      "name": "James Burney",
+      "targetId": "2353"
+    },
+    {
+      "name": "Janey Clewer Gaitsch",
+      "targetId": "2354"
+    },
+    {
+      "name": "James Gilstrap",
+      "targetId": "2355"
+    },
+    {
+      "name": "John West",
+      "targetId": "2356"
+    },
+    {
+      "name": "Loren Turner",
+      "targetId": "2358"
+    },
+    {
+      "name": "Sheven Morris",
+      "targetId": "2359"
+    },
+    {
+      "name": "Terry Woods",
+      "targetId": "2360"
+    },
+    {
+      "name": "Tom Saviano",
+      "targetId": "2361"
+    },
+    {
+      "name": "Charles Fearing",
+      "targetId": "2362"
+    },
+    {
+      "name": "Danny Jacob",
+      "targetId": "2363"
+    },
+    {
+      "name": "Clarence McDonald",
+      "targetId": "2364"
+    },
+    {
+      "name": "Lyle Lovett",
+      "targetId": "3124"
+    },
+    {
+      "name": "John Hagen",
+      "targetId": "3125"
+    },
+    {
+      "name": "Francine Reed",
+      "targetId": "3131"
+    },
+    {
+      "name": "Arnold McCuller",
+      "targetId": "3481"
+    },
+    {
+      "name": "\"Sweet Pea\" Atkinson",
+      "targetId": "6057"
+    },
+    {
+      "name": "Harry Bowens",
+      "targetId": "6058"
+    },
+    {
+      "name": "Leo Kottke",
+      "targetId": "9056"
+    },
+    {
+      "name": "Edgar Meyer",
+      "targetId": "9060"
+    },
+    {
+      "name": "Kathy Hazzard",
+      "targetId": "9061"
+    }
+  ]
+}

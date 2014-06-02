@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Milton Banana",
-    "target": "Antonio Carlos Jobim",
-    "targetId": "1777"
-  },
-  {
-    "source": "Milton Banana",
-    "target": "Stan Getz",
-    "targetId": "4089"
-  },
-  {
-    "source": "Milton Banana",
-    "target": "João Gilberto",
-    "targetId": "4091"
-  },
-  {
-    "source": "Milton Banana",
-    "target": "Astrud Gilberto",
-    "targetId": "4092"
-  }
-]
+{
+  "source": "Milton Banana",
+  "targets": [
+    {
+      "name": "Antonio Carlos Jobim",
+      "targetId": "1777"
+    },
+    {
+      "name": "Stan Getz",
+      "targetId": "4089"
+    },
+    {
+      "name": "João Gilberto",
+      "targetId": "4091"
+    },
+    {
+      "name": "Astrud Gilberto",
+      "targetId": "4092"
+    }
+  ]
+}

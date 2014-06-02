@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Dave Rick",
-    "target": "Kramer",
-    "targetId": "1436"
-  },
-  {
-    "source": "Dave Rick",
-    "target": "Ann Magnuson",
-    "targetId": "3231"
-  },
-  {
-    "source": "Dave Rick",
-    "target": "David Licht",
-    "targetId": "3233"
-  },
-  {
-    "source": "Dave Rick",
-    "target": "Gerard Smith",
-    "targetId": "3234"
-  },
-  {
-    "source": "Dave Rick",
-    "target": "Jon Coats",
-    "targetId": "3235"
-  },
-  {
-    "source": "Dave Rick",
-    "target": "Robert Pollard",
-    "targetId": "3236"
-  },
-  {
-    "source": "Dave Rick",
-    "target": "Chris Xefos",
-    "targetId": "8119"
-  },
-  {
-    "source": "Dave Rick",
-    "target": "John S. Hall",
-    "targetId": "8120"
-  },
-  {
-    "source": "Dave Rick",
-    "target": "Roger Murdock",
-    "targetId": "8121"
-  }
-]
+{
+  "source": "Dave Rick",
+  "targets": [
+    {
+      "name": "Kramer",
+      "targetId": "1436"
+    },
+    {
+      "name": "Ann Magnuson",
+      "targetId": "3231"
+    },
+    {
+      "name": "David Licht",
+      "targetId": "3233"
+    },
+    {
+      "name": "Gerard Smith",
+      "targetId": "3234"
+    },
+    {
+      "name": "Jon Coats",
+      "targetId": "3235"
+    },
+    {
+      "name": "Robert Pollard",
+      "targetId": "3236"
+    },
+    {
+      "name": "Chris Xefos",
+      "targetId": "8119"
+    },
+    {
+      "name": "John S. Hall",
+      "targetId": "8120"
+    },
+    {
+      "name": "Roger Murdock",
+      "targetId": "8121"
+    }
+  ]
+}

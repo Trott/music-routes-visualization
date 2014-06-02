@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Matt Hartman",
-    "target": "Amy Linton",
-    "targetId": "3107"
-  },
-  {
-    "source": "Matt Hartman",
-    "target": "Hayim Sanchez",
-    "targetId": "5307"
-  },
-  {
-    "source": "Matt Hartman",
-    "target": "John Dwyer",
-    "targetId": "5309"
-  },
-  {
-    "source": "Matt Hartman",
-    "target": "Val-Tronic",
-    "targetId": "5310"
-  }
-]
+{
+  "source": "Matt Hartman",
+  "targets": [
+    {
+      "name": "Amy Linton",
+      "targetId": "3107"
+    },
+    {
+      "name": "Hayim Sanchez",
+      "targetId": "5307"
+    },
+    {
+      "name": "John Dwyer",
+      "targetId": "5309"
+    },
+    {
+      "name": "Val-Tronic",
+      "targetId": "5310"
+    }
+  ]
+}

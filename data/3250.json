@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Clint Schnase",
-    "target": "Mike Mogis",
-    "targetId": "1680"
-  },
-  {
-    "source": "Clint Schnase",
-    "target": "Conor Oberst",
-    "targetId": "3101"
-  },
-  {
-    "source": "Clint Schnase",
-    "target": "Andy Lemaster",
-    "targetId": "3249"
-  },
-  {
-    "source": "Clint Schnase",
-    "target": "Jiha Lee",
-    "targetId": "3251"
-  },
-  {
-    "source": "Clint Schnase",
-    "target": "A.J. Mogis",
-    "targetId": "3252"
-  }
-]
+{
+  "source": "Clint Schnase",
+  "targets": [
+    {
+      "name": "Mike Mogis",
+      "targetId": "1680"
+    },
+    {
+      "name": "Conor Oberst",
+      "targetId": "3101"
+    },
+    {
+      "name": "Andy Lemaster",
+      "targetId": "3249"
+    },
+    {
+      "name": "Jiha Lee",
+      "targetId": "3251"
+    },
+    {
+      "name": "A.J. Mogis",
+      "targetId": "3252"
+    }
+  ]
+}

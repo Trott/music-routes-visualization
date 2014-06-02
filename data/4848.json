@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Isaac Hanson",
-    "target": "Taylor Hanson",
-    "targetId": "4847"
-  },
-  {
-    "source": "Isaac Hanson",
-    "target": "Zac Hanson",
-    "targetId": "4849"
-  }
-]
+{
+  "source": "Isaac Hanson",
+  "targets": [
+    {
+      "name": "Taylor Hanson",
+      "targetId": "4847"
+    },
+    {
+      "name": "Zac Hanson",
+      "targetId": "4849"
+    }
+  ]
+}

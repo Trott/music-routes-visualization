@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Tom Scott",
-    "targetId": "277"
-  },
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Linda McCartney",
-    "targetId": "631"
-  },
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Denny Laine",
-    "targetId": "632"
-  },
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Joe English",
-    "targetId": "634"
-  },
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Dave Mason",
-    "targetId": "635"
-  },
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Geoff Britton",
-    "targetId": "5543"
-  },
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Allen Toussaint",
-    "targetId": "7899"
-  },
-  {
-    "source": "Jimmy McCulloch",
-    "target": "Kenneth \"Afro\" Williams",
-    "targetId": "7900"
-  }
-]
+{
+  "source": "Jimmy McCulloch",
+  "targets": [
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "Tom Scott",
+      "targetId": "277"
+    },
+    {
+      "name": "Linda McCartney",
+      "targetId": "631"
+    },
+    {
+      "name": "Denny Laine",
+      "targetId": "632"
+    },
+    {
+      "name": "Joe English",
+      "targetId": "634"
+    },
+    {
+      "name": "Dave Mason",
+      "targetId": "635"
+    },
+    {
+      "name": "Geoff Britton",
+      "targetId": "5543"
+    },
+    {
+      "name": "Allen Toussaint",
+      "targetId": "7899"
+    },
+    {
+      "name": "Kenneth \"Afro\" Williams",
+      "targetId": "7900"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Leroy Bach",
-    "target": "Jay Bennett",
-    "targetId": "1703"
-  },
-  {
-    "source": "Leroy Bach",
-    "target": "Jeff Tweedy",
-    "targetId": "1704"
-  },
-  {
-    "source": "Leroy Bach",
-    "target": "John Stirratt",
-    "targetId": "1705"
-  },
-  {
-    "source": "Leroy Bach",
-    "target": "Ken Coomer",
-    "targetId": "1706"
-  }
-]
+{
+  "source": "Leroy Bach",
+  "targets": [
+    {
+      "name": "Jay Bennett",
+      "targetId": "1703"
+    },
+    {
+      "name": "Jeff Tweedy",
+      "targetId": "1704"
+    },
+    {
+      "name": "John Stirratt",
+      "targetId": "1705"
+    },
+    {
+      "name": "Ken Coomer",
+      "targetId": "1706"
+    }
+  ]
+}

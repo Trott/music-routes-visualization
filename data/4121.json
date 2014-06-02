@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Joe Preston",
-    "target": "Dale Crover",
-    "targetId": "4119"
-  },
-  {
-    "source": "Joe Preston",
-    "target": "King Buzzo",
-    "targetId": "4120"
-  },
-  {
-    "source": "Joe Preston",
-    "target": "Des Kensel",
-    "targetId": "4122"
-  },
-  {
-    "source": "Joe Preston",
-    "target": "Matt Pike",
-    "targetId": "4123"
-  },
-  {
-    "source": "Joe Preston",
-    "target": "Neil Burke",
-    "targetId": "4999"
-  },
-  {
-    "source": "Joe Preston",
-    "target": "Sam \"Bland\" McPheeters",
-    "targetId": "5001"
-  }
-]
+{
+  "source": "Joe Preston",
+  "targets": [
+    {
+      "name": "Dale Crover",
+      "targetId": "4119"
+    },
+    {
+      "name": "King Buzzo",
+      "targetId": "4120"
+    },
+    {
+      "name": "Des Kensel",
+      "targetId": "4122"
+    },
+    {
+      "name": "Matt Pike",
+      "targetId": "4123"
+    },
+    {
+      "name": "Neil Burke",
+      "targetId": "4999"
+    },
+    {
+      "name": "Sam \"Bland\" McPheeters",
+      "targetId": "5001"
+    }
+  ]
+}

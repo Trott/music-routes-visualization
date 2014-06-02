@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brad Kent",
-    "target": "Penelope Houston",
-    "targetId": "10265"
-  },
-  {
-    "source": "Brad Kent",
-    "target": "Danny Furious",
-    "targetId": "10267"
-  },
-  {
-    "source": "Brad Kent",
-    "target": "James Calvin Wilsey",
-    "targetId": "10268"
-  }
-]
+{
+  "source": "Brad Kent",
+  "targets": [
+    {
+      "name": "Penelope Houston",
+      "targetId": "10265"
+    },
+    {
+      "name": "Danny Furious",
+      "targetId": "10267"
+    },
+    {
+      "name": "James Calvin Wilsey",
+      "targetId": "10268"
+    }
+  ]
+}

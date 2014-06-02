@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Nick Kool",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Nick Kool",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Nick Kool",
-    "target": "Simon King",
-    "targetId": "566"
-  },
-  {
-    "source": "Nick Kool",
-    "target": "Bill MacCormick",
-    "targetId": "8637"
-  },
-  {
-    "source": "Nick Kool",
-    "target": "Marc Scott",
-    "targetId": "8641"
-  }
-]
+{
+  "source": "Nick Kool",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Simon King",
+      "targetId": "566"
+    },
+    {
+      "name": "Bill MacCormick",
+      "targetId": "8637"
+    },
+    {
+      "name": "Marc Scott",
+      "targetId": "8641"
+    }
+  ]
+}

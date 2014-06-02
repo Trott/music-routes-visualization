@@ -1,27 +1,25 @@
-[
-  {
-    "source": "RuPaul",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "RuPaul",
-    "target": "Linda McCrary Campbell",
-    "targetId": "2815"
-  },
-  {
-    "source": "RuPaul",
-    "target": "Marietta Waters",
-    "targetId": "2816"
-  },
-  {
-    "source": "RuPaul",
-    "target": "Mike Knapp",
-    "targetId": "2817"
-  },
-  {
-    "source": "RuPaul",
-    "target": "Brigitte Nielsen",
-    "targetId": "2818"
-  }
-]
+{
+  "source": "RuPaul",
+  "targets": [
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Linda McCrary Campbell",
+      "targetId": "2815"
+    },
+    {
+      "name": "Marietta Waters",
+      "targetId": "2816"
+    },
+    {
+      "name": "Mike Knapp",
+      "targetId": "2817"
+    },
+    {
+      "name": "Brigitte Nielsen",
+      "targetId": "2818"
+    }
+  ]
+}

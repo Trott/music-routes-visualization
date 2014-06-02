@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Galder",
-    "target": "Shagrath",
-    "targetId": "10499"
-  },
-  {
-    "source": "Galder",
-    "target": "Silenoz",
-    "targetId": "10500"
-  },
-  {
-    "source": "Galder",
-    "target": "Daray",
-    "targetId": "10502"
-  },
-  {
-    "source": "Galder",
-    "target": "Ricky Black",
-    "targetId": "10503"
-  },
-  {
-    "source": "Galder",
-    "target": "Agnete Kjølsrud",
-    "targetId": "10504"
-  },
-  {
-    "source": "Galder",
-    "target": "Kristoffer Rygg",
-    "targetId": "10505"
-  },
-  {
-    "source": "Galder",
-    "target": "Andy Sneap",
-    "targetId": "10506"
-  }
-]
+{
+  "source": "Galder",
+  "targets": [
+    {
+      "name": "Shagrath",
+      "targetId": "10499"
+    },
+    {
+      "name": "Silenoz",
+      "targetId": "10500"
+    },
+    {
+      "name": "Daray",
+      "targetId": "10502"
+    },
+    {
+      "name": "Ricky Black",
+      "targetId": "10503"
+    },
+    {
+      "name": "Agnete Kjølsrud",
+      "targetId": "10504"
+    },
+    {
+      "name": "Kristoffer Rygg",
+      "targetId": "10505"
+    },
+    {
+      "name": "Andy Sneap",
+      "targetId": "10506"
+    }
+  ]
+}

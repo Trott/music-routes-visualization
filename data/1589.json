@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Amy Blaustein",
-    "target": "Gene Bae",
-    "targetId": "1585"
-  },
-  {
-    "source": "Amy Blaustein",
-    "target": "Joe Haener",
-    "targetId": "1586"
-  },
-  {
-    "source": "Amy Blaustein",
-    "target": "Daniel Martens",
-    "targetId": "1587"
-  },
-  {
-    "source": "Amy Blaustein",
-    "target": "Aleksander Prechtl",
-    "targetId": "1588"
-  },
-  {
-    "source": "Amy Blaustein",
-    "target": "Greg Ashley",
-    "targetId": "1590"
-  }
-]
+{
+  "source": "Amy Blaustein",
+  "targets": [
+    {
+      "name": "Gene Bae",
+      "targetId": "1585"
+    },
+    {
+      "name": "Joe Haener",
+      "targetId": "1586"
+    },
+    {
+      "name": "Daniel Martens",
+      "targetId": "1587"
+    },
+    {
+      "name": "Aleksander Prechtl",
+      "targetId": "1588"
+    },
+    {
+      "name": "Greg Ashley",
+      "targetId": "1590"
+    }
+  ]
+}

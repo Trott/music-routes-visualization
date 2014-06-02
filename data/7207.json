@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Bobby Brown",
-    "target": "John \"J. R.\" Robinson",
-    "targetId": "653"
-  },
-  {
-    "source": "Bobby Brown",
-    "target": "Paul Jackson, Jr.",
-    "targetId": "1536"
-  },
-  {
-    "source": "Bobby Brown",
-    "target": "Ricky Bell",
-    "targetId": "7205"
-  },
-  {
-    "source": "Bobby Brown",
-    "target": "Michael Bivins",
-    "targetId": "7206"
-  },
-  {
-    "source": "Bobby Brown",
-    "target": "Ronnie DeVoe",
-    "targetId": "7208"
-  },
-  {
-    "source": "Bobby Brown",
-    "target": "Ralph Tresvant",
-    "targetId": "7209"
-  },
-  {
-    "source": "Bobby Brown",
-    "target": "John Duarte",
-    "targetId": "7210"
-  }
-]
+{
+  "source": "Bobby Brown",
+  "targets": [
+    {
+      "name": "John \"J. R.\" Robinson",
+      "targetId": "653"
+    },
+    {
+      "name": "Paul Jackson, Jr.",
+      "targetId": "1536"
+    },
+    {
+      "name": "Ricky Bell",
+      "targetId": "7205"
+    },
+    {
+      "name": "Michael Bivins",
+      "targetId": "7206"
+    },
+    {
+      "name": "Ronnie DeVoe",
+      "targetId": "7208"
+    },
+    {
+      "name": "Ralph Tresvant",
+      "targetId": "7209"
+    },
+    {
+      "name": "John Duarte",
+      "targetId": "7210"
+    }
+  ]
+}

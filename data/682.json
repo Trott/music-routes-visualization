@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Bill O'Bryon",
-    "target": "Rich Trott",
-    "targetId": "12"
-  },
-  {
-    "source": "Bill O'Bryon",
-    "target": "Scott Llamas",
-    "targetId": "672"
-  },
-  {
-    "source": "Bill O'Bryon",
-    "target": "Doug Lippi",
-    "targetId": "675"
-  },
-  {
-    "source": "Bill O'Bryon",
-    "target": "Adam Theis",
-    "targetId": "679"
-  },
-  {
-    "source": "Bill O'Bryon",
-    "target": "David Chachere",
-    "targetId": "680"
-  },
-  {
-    "source": "Bill O'Bryon",
-    "target": "Sabrina Stewart",
-    "targetId": "681"
-  }
-]
+{
+  "source": "Bill O'Bryon",
+  "targets": [
+    {
+      "name": "Rich Trott",
+      "targetId": "12"
+    },
+    {
+      "name": "Scott Llamas",
+      "targetId": "672"
+    },
+    {
+      "name": "Doug Lippi",
+      "targetId": "675"
+    },
+    {
+      "name": "Adam Theis",
+      "targetId": "679"
+    },
+    {
+      "name": "David Chachere",
+      "targetId": "680"
+    },
+    {
+      "name": "Sabrina Stewart",
+      "targetId": "681"
+    }
+  ]
+}

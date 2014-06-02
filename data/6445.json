@@ -1,62 +1,53 @@
-[
-  {
-    "source": "John Moen",
-    "target": "Jim James",
-    "targetId": "1683"
-  },
-  {
-    "source": "John Moen",
-    "target": "Chris Funk",
-    "targetId": "6377"
-  },
-  {
-    "source": "John Moen",
-    "target": "Greg Ewer",
-    "targetId": "6385"
-  },
-  {
-    "source": "John Moen",
-    "target": "Colin Oldham",
-    "targetId": "6440"
-  },
-  {
-    "source": "John Moen",
-    "target": "Jenny Conlee",
-    "targetId": "6441"
-  },
-  {
-    "source": "John Moen",
-    "target": "Adam Hoornstra",
-    "targetId": "6442"
-  },
-  {
-    "source": "John Moen",
-    "target": "Keiko Araki",
-    "targetId": "6443"
-  },
-  {
-    "source": "John Moen",
-    "target": "Colin Meloy",
-    "targetId": "6444"
-  },
-  {
-    "source": "John Moen",
-    "target": "Nate Query",
-    "targetId": "6446"
-  },
-  {
-    "source": "John Moen",
-    "target": "Rebecca Stark",
-    "targetId": "6447"
-  },
-  {
-    "source": "John Moen",
-    "target": "Shara Worden",
-    "targetId": "6448"
-  },
-  {
-    "source": "John Moen",
-    "target": "Rebecca Gates",
-    "targetId": "6453"
-  }
-]
+{
+  "source": "John Moen",
+  "targets": [
+    {
+      "name": "Jim James",
+      "targetId": "1683"
+    },
+    {
+      "name": "Chris Funk",
+      "targetId": "6377"
+    },
+    {
+      "name": "Greg Ewer",
+      "targetId": "6385"
+    },
+    {
+      "name": "Colin Oldham",
+      "targetId": "6440"
+    },
+    {
+      "name": "Jenny Conlee",
+      "targetId": "6441"
+    },
+    {
+      "name": "Adam Hoornstra",
+      "targetId": "6442"
+    },
+    {
+      "name": "Keiko Araki",
+      "targetId": "6443"
+    },
+    {
+      "name": "Colin Meloy",
+      "targetId": "6444"
+    },
+    {
+      "name": "Nate Query",
+      "targetId": "6446"
+    },
+    {
+      "name": "Rebecca Stark",
+      "targetId": "6447"
+    },
+    {
+      "name": "Shara Worden",
+      "targetId": "6448"
+    },
+    {
+      "name": "Rebecca Gates",
+      "targetId": "6453"
+    }
+  ]
+}

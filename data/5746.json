@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Johnathon Ford",
-    "target": "Christian Lee Wargo",
-    "targetId": "5739"
-  },
-  {
-    "source": "Johnathon Ford",
-    "target": "John David Herrin",
-    "targetId": "5744"
-  },
-  {
-    "source": "Johnathon Ford",
-    "target": "Noah Benjamin Krogh",
-    "targetId": "5747"
-  }
-]
+{
+  "source": "Johnathon Ford",
+  "targets": [
+    {
+      "name": "Christian Lee Wargo",
+      "targetId": "5739"
+    },
+    {
+      "name": "John David Herrin",
+      "targetId": "5744"
+    },
+    {
+      "name": "Noah Benjamin Krogh",
+      "targetId": "5747"
+    }
+  ]
+}

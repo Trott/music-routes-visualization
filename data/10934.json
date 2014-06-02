@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Graeme Jefferies",
-    "target": "Brett Jones",
-    "targetId": "10932"
-  },
-  {
-    "source": "Graeme Jefferies",
-    "target": "Gordon Rutherford",
-    "targetId": "10933"
-  },
-  {
-    "source": "Graeme Jefferies",
-    "target": "Peter Jefferies",
-    "targetId": "10935"
-  }
-]
+{
+  "source": "Graeme Jefferies",
+  "targets": [
+    {
+      "name": "Brett Jones",
+      "targetId": "10932"
+    },
+    {
+      "name": "Gordon Rutherford",
+      "targetId": "10933"
+    },
+    {
+      "name": "Peter Jefferies",
+      "targetId": "10935"
+    }
+  ]
+}

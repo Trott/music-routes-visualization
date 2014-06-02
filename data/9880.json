@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Brian Robertson",
-    "target": "Huey Lewis",
-    "targetId": "65"
-  },
-  {
-    "source": "Brian Robertson",
-    "target": "Phil Lynott",
-    "targetId": "2690"
-  },
-  {
-    "source": "Brian Robertson",
-    "target": "Brian Downey",
-    "targetId": "2691"
-  },
-  {
-    "source": "Brian Robertson",
-    "target": "Scott Gorham",
-    "targetId": "2692"
-  },
-  {
-    "source": "Brian Robertson",
-    "target": "John Earle",
-    "targetId": "10443"
-  }
-]
+{
+  "source": "Brian Robertson",
+  "targets": [
+    {
+      "name": "Huey Lewis",
+      "targetId": "65"
+    },
+    {
+      "name": "Phil Lynott",
+      "targetId": "2690"
+    },
+    {
+      "name": "Brian Downey",
+      "targetId": "2691"
+    },
+    {
+      "name": "Scott Gorham",
+      "targetId": "2692"
+    },
+    {
+      "name": "John Earle",
+      "targetId": "10443"
+    }
+  ]
+}

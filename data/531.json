@@ -1,72 +1,61 @@
-[
-  {
-    "source": "Ian Wallace",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Jerry Scheff",
-    "targetId": "287"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Robert Fripp",
-    "targetId": "339"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Bobbye Hall",
-    "targetId": "507"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Boz Burrell",
-    "targetId": "533"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Steve Douglas",
-    "targetId": "560"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Carol Dennis",
-    "targetId": "561"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Alan Pasqua",
-    "targetId": "2263"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Jo Ann Harris",
-    "targetId": "3616"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Helena Springs",
-    "targetId": "3617"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Billy Cross",
-    "targetId": "3618"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "David Mansfield",
-    "targetId": "3619"
-  },
-  {
-    "source": "Ian Wallace",
-    "target": "Steven Soles",
-    "targetId": "9956"
-  }
-]
+{
+  "source": "Ian Wallace",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Jerry Scheff",
+      "targetId": "287"
+    },
+    {
+      "name": "Robert Fripp",
+      "targetId": "339"
+    },
+    {
+      "name": "Bobbye Hall",
+      "targetId": "507"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Boz Burrell",
+      "targetId": "533"
+    },
+    {
+      "name": "Steve Douglas",
+      "targetId": "560"
+    },
+    {
+      "name": "Carol Dennis",
+      "targetId": "561"
+    },
+    {
+      "name": "Alan Pasqua",
+      "targetId": "2263"
+    },
+    {
+      "name": "Jo Ann Harris",
+      "targetId": "3616"
+    },
+    {
+      "name": "Helena Springs",
+      "targetId": "3617"
+    },
+    {
+      "name": "Billy Cross",
+      "targetId": "3618"
+    },
+    {
+      "name": "David Mansfield",
+      "targetId": "3619"
+    },
+    {
+      "name": "Steven Soles",
+      "targetId": "9956"
+    }
+  ]
+}

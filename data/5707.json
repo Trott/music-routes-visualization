@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Lance Eric",
-    "target": "Joe LeSté",
-    "targetId": "5694"
-  },
-  {
-    "source": "Lance Eric",
-    "target": "Mark Simpson",
-    "targetId": "5706"
-  },
-  {
-    "source": "Lance Eric",
-    "target": "Timmy Russell",
-    "targetId": "5708"
-  }
-]
+{
+  "source": "Lance Eric",
+  "targets": [
+    {
+      "name": "Joe LeSté",
+      "targetId": "5694"
+    },
+    {
+      "name": "Mark Simpson",
+      "targetId": "5706"
+    },
+    {
+      "name": "Timmy Russell",
+      "targetId": "5708"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Pat Fish",
-    "target": "David J",
-    "targetId": "2666"
-  },
-  {
-    "source": "Pat Fish",
-    "target": "Owen Jones",
-    "targetId": "4932"
-  },
-  {
-    "source": "Pat Fish",
-    "target": "Max Eider",
-    "targetId": "4933"
-  }
-]
+{
+  "source": "Pat Fish",
+  "targets": [
+    {
+      "name": "David J",
+      "targetId": "2666"
+    },
+    {
+      "name": "Owen Jones",
+      "targetId": "4932"
+    },
+    {
+      "name": "Max Eider",
+      "targetId": "4933"
+    }
+  ]
+}

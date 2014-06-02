@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Red Garland",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Red Garland",
-    "target": "Paul Chambers",
-    "targetId": "1046"
-  },
-  {
-    "source": "Red Garland",
-    "target": "John Coltrane",
-    "targetId": "1049"
-  },
-  {
-    "source": "Red Garland",
-    "target": "Julian \"Cannonball\" Adderly",
-    "targetId": "1050"
-  },
-  {
-    "source": "Red Garland",
-    "target": "\"Philly\" Joe Jones",
-    "targetId": "7069"
-  }
-]
+{
+  "source": "Red Garland",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Paul Chambers",
+      "targetId": "1046"
+    },
+    {
+      "name": "John Coltrane",
+      "targetId": "1049"
+    },
+    {
+      "name": "Julian \"Cannonball\" Adderly",
+      "targetId": "1050"
+    },
+    {
+      "name": "\"Philly\" Joe Jones",
+      "targetId": "7069"
+    }
+  ]
+}

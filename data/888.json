@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Evie",
-    "target": "Charles Levi",
-    "targetId": "884"
-  },
-  {
-    "source": "Evie",
-    "target": "Sascha Konietzko",
-    "targetId": "885"
-  },
-  {
-    "source": "Evie",
-    "target": "Mark Durante",
-    "targetId": "886"
-  },
-  {
-    "source": "Evie",
-    "target": "Lee Popa",
-    "targetId": "887"
-  }
-]
+{
+  "source": "Evie",
+  "targets": [
+    {
+      "name": "Charles Levi",
+      "targetId": "884"
+    },
+    {
+      "name": "Sascha Konietzko",
+      "targetId": "885"
+    },
+    {
+      "name": "Mark Durante",
+      "targetId": "886"
+    },
+    {
+      "name": "Lee Popa",
+      "targetId": "887"
+    }
+  ]
+}

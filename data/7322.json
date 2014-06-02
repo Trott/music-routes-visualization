@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Glenn McClelland",
-    "target": "Dean Ween",
-    "targetId": "1855"
-  },
-  {
-    "source": "Glenn McClelland",
-    "target": "Gene Ween",
-    "targetId": "7319"
-  },
-  {
-    "source": "Glenn McClelland",
-    "target": "Dave Dreiwitz",
-    "targetId": "7320"
-  },
-  {
-    "source": "Glenn McClelland",
-    "target": "Claude Coleman",
-    "targetId": "7321"
-  }
-]
+{
+  "source": "Glenn McClelland",
+  "targets": [
+    {
+      "name": "Dean Ween",
+      "targetId": "1855"
+    },
+    {
+      "name": "Gene Ween",
+      "targetId": "7319"
+    },
+    {
+      "name": "Dave Dreiwitz",
+      "targetId": "7320"
+    },
+    {
+      "name": "Claude Coleman",
+      "targetId": "7321"
+    }
+  ]
+}

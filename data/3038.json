@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Liza Rey",
-    "target": "Win Butler",
-    "targetId": "3010"
-  },
-  {
-    "source": "Liza Rey",
-    "target": "Régine Chassagne",
-    "targetId": "3011"
-  }
-]
+{
+  "source": "Liza Rey",
+  "targets": [
+    {
+      "name": "Win Butler",
+      "targetId": "3010"
+    },
+    {
+      "name": "Régine Chassagne",
+      "targetId": "3011"
+    }
+  ]
+}

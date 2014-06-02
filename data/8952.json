@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Bobby G",
-    "target": "Cheryl Baker",
-    "targetId": "8953"
-  },
-  {
-    "source": "Bobby G",
-    "target": "Mike Nolan",
-    "targetId": "8954"
-  },
-  {
-    "source": "Bobby G",
-    "target": "Shelley Preston",
-    "targetId": "8955"
-  }
-]
+{
+  "source": "Bobby G",
+  "targets": [
+    {
+      "name": "Cheryl Baker",
+      "targetId": "8953"
+    },
+    {
+      "name": "Mike Nolan",
+      "targetId": "8954"
+    },
+    {
+      "name": "Shelley Preston",
+      "targetId": "8955"
+    }
+  ]
+}

@@ -1,197 +1,161 @@
-[
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Jimmy Cobb",
-    "targetId": "1045"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Paul Chambers",
-    "targetId": "1046"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Julian \"Cannonball\" Adderly",
-    "targetId": "1050"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Sonny Rollins",
-    "targetId": "4556"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Steve Lacy",
-    "targetId": "4592"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Julius Watkins",
-    "targetId": "4601"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Jerome Richardson",
-    "targetId": "6400"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Phil Woods",
-    "targetId": "7253"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Kenny Burrell",
-    "targetId": "7926"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Robert Ashton",
-    "targetId": "7929"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Danny Bank",
-    "targetId": "7930"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Roger Kellaway",
-    "targetId": "7931"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Walter Booker",
-    "targetId": "7932"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Frankie Dunlop",
-    "targetId": "7933"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Jo Jones",
-    "targetId": "8092"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Gil Evans",
-    "targetId": "8093"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "John Carisi",
-    "targetId": "8094"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "John Koven",
-    "targetId": "8095"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Bart Varsalona",
-    "targetId": "8096"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Willie Ruff",
-    "targetId": "8097"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Lee Konitz",
-    "targetId": "8098"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Dave Kurtzer",
-    "targetId": "8099"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Bill Barber",
-    "targetId": "10688"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Gunther Schuller",
-    "targetId": "10693"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Johnny Coles",
-    "targetId": "10909"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Bernie Glow",
-    "targetId": "10910"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Ernie Royal",
-    "targetId": "10911"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Louis Mucci",
-    "targetId": "10912"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Joe Bennett",
-    "targetId": "10913"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Frank Rehak",
-    "targetId": "10914"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Dick Hixson",
-    "targetId": "10915"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Romeo Penque",
-    "targetId": "10916"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Art Farmer",
-    "targetId": "11022"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Oscar Estell",
-    "targetId": "11023"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Monk Montgomery",
-    "targetId": "11024"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Sonny Johnson",
-    "targetId": "11025"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Quincy Jones",
-    "targetId": "11026"
-  },
-  {
-    "source": "Jimmy Cleveland",
-    "target": "Clifford Solomon",
-    "targetId": "11027"
-  }
-]
+{
+  "source": "Jimmy Cleveland",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Jimmy Cobb",
+      "targetId": "1045"
+    },
+    {
+      "name": "Paul Chambers",
+      "targetId": "1046"
+    },
+    {
+      "name": "Julian \"Cannonball\" Adderly",
+      "targetId": "1050"
+    },
+    {
+      "name": "Sonny Rollins",
+      "targetId": "4556"
+    },
+    {
+      "name": "Steve Lacy",
+      "targetId": "4592"
+    },
+    {
+      "name": "Julius Watkins",
+      "targetId": "4601"
+    },
+    {
+      "name": "Jerome Richardson",
+      "targetId": "6400"
+    },
+    {
+      "name": "Phil Woods",
+      "targetId": "7253"
+    },
+    {
+      "name": "Kenny Burrell",
+      "targetId": "7926"
+    },
+    {
+      "name": "Robert Ashton",
+      "targetId": "7929"
+    },
+    {
+      "name": "Danny Bank",
+      "targetId": "7930"
+    },
+    {
+      "name": "Roger Kellaway",
+      "targetId": "7931"
+    },
+    {
+      "name": "Walter Booker",
+      "targetId": "7932"
+    },
+    {
+      "name": "Frankie Dunlop",
+      "targetId": "7933"
+    },
+    {
+      "name": "Jo Jones",
+      "targetId": "8092"
+    },
+    {
+      "name": "Gil Evans",
+      "targetId": "8093"
+    },
+    {
+      "name": "John Carisi",
+      "targetId": "8094"
+    },
+    {
+      "name": "John Koven",
+      "targetId": "8095"
+    },
+    {
+      "name": "Bart Varsalona",
+      "targetId": "8096"
+    },
+    {
+      "name": "Willie Ruff",
+      "targetId": "8097"
+    },
+    {
+      "name": "Lee Konitz",
+      "targetId": "8098"
+    },
+    {
+      "name": "Dave Kurtzer",
+      "targetId": "8099"
+    },
+    {
+      "name": "Bill Barber",
+      "targetId": "10688"
+    },
+    {
+      "name": "Gunther Schuller",
+      "targetId": "10693"
+    },
+    {
+      "name": "Johnny Coles",
+      "targetId": "10909"
+    },
+    {
+      "name": "Bernie Glow",
+      "targetId": "10910"
+    },
+    {
+      "name": "Ernie Royal",
+      "targetId": "10911"
+    },
+    {
+      "name": "Louis Mucci",
+      "targetId": "10912"
+    },
+    {
+      "name": "Joe Bennett",
+      "targetId": "10913"
+    },
+    {
+      "name": "Frank Rehak",
+      "targetId": "10914"
+    },
+    {
+      "name": "Dick Hixson",
+      "targetId": "10915"
+    },
+    {
+      "name": "Romeo Penque",
+      "targetId": "10916"
+    },
+    {
+      "name": "Art Farmer",
+      "targetId": "11022"
+    },
+    {
+      "name": "Oscar Estell",
+      "targetId": "11023"
+    },
+    {
+      "name": "Monk Montgomery",
+      "targetId": "11024"
+    },
+    {
+      "name": "Sonny Johnson",
+      "targetId": "11025"
+    },
+    {
+      "name": "Quincy Jones",
+      "targetId": "11026"
+    },
+    {
+      "name": "Clifford Solomon",
+      "targetId": "11027"
+    }
+  ]
+}

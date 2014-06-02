@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Zoot",
-    "target": "Animal",
-    "targetId": "1356"
-  },
-  {
-    "source": "Zoot",
-    "target": "Dr. Teeth",
-    "targetId": "2390"
-  },
-  {
-    "source": "Zoot",
-    "target": "Sgt. Floyd Pepper",
-    "targetId": "2391"
-  },
-  {
-    "source": "Zoot",
-    "target": "Janice",
-    "targetId": "2392"
-  },
-  {
-    "source": "Zoot",
-    "target": "David Garland",
-    "targetId": "2394"
-  }
-]
+{
+  "source": "Zoot",
+  "targets": [
+    {
+      "name": "Animal",
+      "targetId": "1356"
+    },
+    {
+      "name": "Dr. Teeth",
+      "targetId": "2390"
+    },
+    {
+      "name": "Sgt. Floyd Pepper",
+      "targetId": "2391"
+    },
+    {
+      "name": "Janice",
+      "targetId": "2392"
+    },
+    {
+      "name": "David Garland",
+      "targetId": "2394"
+    }
+  ]
+}

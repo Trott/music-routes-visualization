@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Rick Cutler",
-    "target": "Jim Keller",
-    "targetId": "3059"
-  },
-  {
-    "source": "Rick Cutler",
-    "target": "Lonnie Turner",
-    "targetId": "3061"
-  },
-  {
-    "source": "Rick Cutler",
-    "target": "Tommy Heath",
-    "targetId": "3062"
-  }
-]
+{
+  "source": "Rick Cutler",
+  "targets": [
+    {
+      "name": "Jim Keller",
+      "targetId": "3059"
+    },
+    {
+      "name": "Lonnie Turner",
+      "targetId": "3061"
+    },
+    {
+      "name": "Tommy Heath",
+      "targetId": "3062"
+    }
+  ]
+}

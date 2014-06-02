@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Steve Margoshes",
-    "target": "Roy Bittan",
-    "targetId": "463"
-  },
-  {
-    "source": "Steve Margoshes",
-    "target": "Meat Loaf",
-    "targetId": "1803"
-  },
-  {
-    "source": "Steve Margoshes",
-    "target": "Kasim Sulton",
-    "targetId": "1814"
-  },
-  {
-    "source": "Steve Margoshes",
-    "target": "Rory Dodd",
-    "targetId": "1816"
-  },
-  {
-    "source": "Steve Margoshes",
-    "target": "John Wilcox",
-    "targetId": "1820"
-  },
-  {
-    "source": "Steve Margoshes",
-    "target": "Gene Orloff",
-    "targetId": "1822"
-  },
-  {
-    "source": "Steve Margoshes",
-    "target": "Cheryl Hardwick",
-    "targetId": "1823"
-  }
-]
+{
+  "source": "Steve Margoshes",
+  "targets": [
+    {
+      "name": "Roy Bittan",
+      "targetId": "463"
+    },
+    {
+      "name": "Meat Loaf",
+      "targetId": "1803"
+    },
+    {
+      "name": "Kasim Sulton",
+      "targetId": "1814"
+    },
+    {
+      "name": "Rory Dodd",
+      "targetId": "1816"
+    },
+    {
+      "name": "John Wilcox",
+      "targetId": "1820"
+    },
+    {
+      "name": "Gene Orloff",
+      "targetId": "1822"
+    },
+    {
+      "name": "Cheryl Hardwick",
+      "targetId": "1823"
+    }
+  ]
+}

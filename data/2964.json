@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Bob Mintzer",
-    "target": "Bashiri Johnson",
-    "targetId": "2373"
-  },
-  {
-    "source": "Bob Mintzer",
-    "target": "Anna Domino",
-    "targetId": "2858"
-  },
-  {
-    "source": "Bob Mintzer",
-    "target": "Matt Johnson",
-    "targetId": "2957"
-  },
-  {
-    "source": "Bob Mintzer",
-    "target": "Roli Mosimann",
-    "targetId": "2963"
-  }
-]
+{
+  "source": "Bob Mintzer",
+  "targets": [
+    {
+      "name": "Bashiri Johnson",
+      "targetId": "2373"
+    },
+    {
+      "name": "Anna Domino",
+      "targetId": "2858"
+    },
+    {
+      "name": "Matt Johnson",
+      "targetId": "2957"
+    },
+    {
+      "name": "Roli Mosimann",
+      "targetId": "2963"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Todd Hoffman",
-    "target": "Ian Astbury",
-    "targetId": "7862"
-  },
-  {
-    "source": "Todd Hoffman",
-    "target": "Billy Duffy",
-    "targetId": "7863"
-  },
-  {
-    "source": "Todd Hoffman",
-    "target": "James Kottak",
-    "targetId": "8199"
-  }
-]
+{
+  "source": "Todd Hoffman",
+  "targets": [
+    {
+      "name": "Ian Astbury",
+      "targetId": "7862"
+    },
+    {
+      "name": "Billy Duffy",
+      "targetId": "7863"
+    },
+    {
+      "name": "James Kottak",
+      "targetId": "8199"
+    }
+  ]
+}

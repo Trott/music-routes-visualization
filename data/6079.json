@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Billy Rath",
-    "target": "Johnny Thunders",
-    "targetId": "5254"
-  },
-  {
-    "source": "Billy Rath",
-    "target": "Jerry Nolan",
-    "targetId": "6077"
-  },
-  {
-    "source": "Billy Rath",
-    "target": "Walter Lure",
-    "targetId": "6078"
-  }
-]
+{
+  "source": "Billy Rath",
+  "targets": [
+    {
+      "name": "Johnny Thunders",
+      "targetId": "5254"
+    },
+    {
+      "name": "Jerry Nolan",
+      "targetId": "6077"
+    },
+    {
+      "name": "Walter Lure",
+      "targetId": "6078"
+    }
+  ]
+}

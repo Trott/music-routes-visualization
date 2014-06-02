@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mark \"Barney\" Greenway",
-    "target": "Anneke van Giersbergen",
-    "targetId": "4179"
-  },
-  {
-    "source": "Mark \"Barney\" Greenway",
-    "target": "Shane Embury",
-    "targetId": "6119"
-  },
-  {
-    "source": "Mark \"Barney\" Greenway",
-    "target": "Mitch Harris",
-    "targetId": "6120"
-  },
-  {
-    "source": "Mark \"Barney\" Greenway",
-    "target": "Danny Herrera",
-    "targetId": "6121"
-  }
-]
+{
+  "source": "Mark \"Barney\" Greenway",
+  "targets": [
+    {
+      "name": "Anneke van Giersbergen",
+      "targetId": "4179"
+    },
+    {
+      "name": "Shane Embury",
+      "targetId": "6119"
+    },
+    {
+      "name": "Mitch Harris",
+      "targetId": "6120"
+    },
+    {
+      "name": "Danny Herrera",
+      "targetId": "6121"
+    }
+  ]
+}

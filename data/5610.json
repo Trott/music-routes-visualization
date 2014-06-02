@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Shona Laing",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Shona Laing",
-    "target": "Steve Waller",
-    "targetId": "5545"
-  },
-  {
-    "source": "Shona Laing",
-    "target": "Matt Irving",
-    "targetId": "5608"
-  },
-  {
-    "source": "Shona Laing",
-    "target": "John Lingwood",
-    "targetId": "5609"
-  }
-]
+{
+  "source": "Shona Laing",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Steve Waller",
+      "targetId": "5545"
+    },
+    {
+      "name": "Matt Irving",
+      "targetId": "5608"
+    },
+    {
+      "name": "John Lingwood",
+      "targetId": "5609"
+    }
+  ]
+}

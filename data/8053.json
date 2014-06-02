@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Larry Blackmon",
-    "target": "Will Smith",
-    "targetId": "5877"
-  },
-  {
-    "source": "Larry Blackmon",
-    "target": "Lanar \"Kern\" Brantley",
-    "targetId": "8046"
-  },
-  {
-    "source": "Larry Blackmon",
-    "target": "David Foreman",
-    "targetId": "8048"
-  },
-  {
-    "source": "Larry Blackmon",
-    "target": "Cameo",
-    "targetId": "8052"
-  },
-  {
-    "source": "Larry Blackmon",
-    "target": "Keith Winfield",
-    "targetId": "8054"
-  }
-]
+{
+  "source": "Larry Blackmon",
+  "targets": [
+    {
+      "name": "Will Smith",
+      "targetId": "5877"
+    },
+    {
+      "name": "Lanar \"Kern\" Brantley",
+      "targetId": "8046"
+    },
+    {
+      "name": "David Foreman",
+      "targetId": "8048"
+    },
+    {
+      "name": "Cameo",
+      "targetId": "8052"
+    },
+    {
+      "name": "Keith Winfield",
+      "targetId": "8054"
+    }
+  ]
+}

@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Gordon Mote",
-    "target": "Bob Seger",
-    "targetId": "415"
-  },
-  {
-    "source": "Gordon Mote",
-    "target": "JT Corenflos",
-    "targetId": "6189"
-  },
-  {
-    "source": "Gordon Mote",
-    "target": "Kid Rock",
-    "targetId": "6500"
-  },
-  {
-    "source": "Gordon Mote",
-    "target": "Michael Rhodes",
-    "targetId": "6501"
-  },
-  {
-    "source": "Gordon Mote",
-    "target": "Steve Brewster",
-    "targetId": "6502"
-  },
-  {
-    "source": "Gordon Mote",
-    "target": "Kenny Greenberg",
-    "targetId": "6503"
-  }
-]
+{
+  "source": "Gordon Mote",
+  "targets": [
+    {
+      "name": "Bob Seger",
+      "targetId": "415"
+    },
+    {
+      "name": "JT Corenflos",
+      "targetId": "6189"
+    },
+    {
+      "name": "Kid Rock",
+      "targetId": "6500"
+    },
+    {
+      "name": "Michael Rhodes",
+      "targetId": "6501"
+    },
+    {
+      "name": "Steve Brewster",
+      "targetId": "6502"
+    },
+    {
+      "name": "Kenny Greenberg",
+      "targetId": "6503"
+    }
+  ]
+}

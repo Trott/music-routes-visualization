@@ -1,192 +1,157 @@
-[
-  {
-    "source": "Neil Murray",
-    "target": "Bob Geldof",
-    "targetId": "42"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Midge Ure",
-    "targetId": "96"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Phil Collins",
-    "targetId": "97"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Chris Cross",
-    "targetId": "100"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Sting",
-    "targetId": "122"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Brian May",
-    "targetId": "213"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Cozy Powell",
-    "targetId": "312"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Mel Collins",
-    "targetId": "532"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Martin Drover",
-    "targetId": "834"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Jeff Daly",
-    "targetId": "835"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Mark Isham",
-    "targetId": "924"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Doreen Chanter",
-    "targetId": "1959"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Micky Moody",
-    "targetId": "2521"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Sheena Easton",
-    "targetId": "2658"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Chas Jankel",
-    "targetId": "3373"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "John Altman",
-    "targetId": "3374"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Digby Fairweather",
-    "targetId": "3375"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Malcolm Griffiths",
-    "targetId": "3376"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Michael Henry",
-    "targetId": "3377"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Paul Cosh",
-    "targetId": "3378"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Donovan",
-    "targetId": "3379"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Mo Foster",
-    "targetId": "3380"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Linda Taylor",
-    "targetId": "3382"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Sharon Campbell",
-    "targetId": "3384"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Tom Robinson",
-    "targetId": "3385"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Simon Phillips",
-    "targetId": "3386"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "John Etheridge",
-    "targetId": "3387"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Neil Innes",
-    "targetId": "3388"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Ray Russell",
-    "targetId": "3389"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Michael Schenker",
-    "targetId": "7640"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Gary Barden",
-    "targetId": "8794"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Don Airey",
-    "targetId": "8795"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Shelley Preston",
-    "targetId": "8955"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Becci Glover",
-    "targetId": "8957"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Nikki Love",
-    "targetId": "8958"
-  },
-  {
-    "source": "Neil Murray",
-    "target": "Ian Hunter",
-    "targetId": "8959"
-  }
-]
+{
+  "source": "Neil Murray",
+  "targets": [
+    {
+      "name": "Bob Geldof",
+      "targetId": "42"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Midge Ure",
+      "targetId": "96"
+    },
+    {
+      "name": "Phil Collins",
+      "targetId": "97"
+    },
+    {
+      "name": "Chris Cross",
+      "targetId": "100"
+    },
+    {
+      "name": "Sting",
+      "targetId": "122"
+    },
+    {
+      "name": "Brian May",
+      "targetId": "213"
+    },
+    {
+      "name": "Cozy Powell",
+      "targetId": "312"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Mel Collins",
+      "targetId": "532"
+    },
+    {
+      "name": "Martin Drover",
+      "targetId": "834"
+    },
+    {
+      "name": "Jeff Daly",
+      "targetId": "835"
+    },
+    {
+      "name": "Mark Isham",
+      "targetId": "924"
+    },
+    {
+      "name": "Doreen Chanter",
+      "targetId": "1959"
+    },
+    {
+      "name": "Micky Moody",
+      "targetId": "2521"
+    },
+    {
+      "name": "Sheena Easton",
+      "targetId": "2658"
+    },
+    {
+      "name": "Chas Jankel",
+      "targetId": "3373"
+    },
+    {
+      "name": "John Altman",
+      "targetId": "3374"
+    },
+    {
+      "name": "Digby Fairweather",
+      "targetId": "3375"
+    },
+    {
+      "name": "Malcolm Griffiths",
+      "targetId": "3376"
+    },
+    {
+      "name": "Michael Henry",
+      "targetId": "3377"
+    },
+    {
+      "name": "Paul Cosh",
+      "targetId": "3378"
+    },
+    {
+      "name": "Donovan",
+      "targetId": "3379"
+    },
+    {
+      "name": "Mo Foster",
+      "targetId": "3380"
+    },
+    {
+      "name": "Linda Taylor",
+      "targetId": "3382"
+    },
+    {
+      "name": "Sharon Campbell",
+      "targetId": "3384"
+    },
+    {
+      "name": "Tom Robinson",
+      "targetId": "3385"
+    },
+    {
+      "name": "Simon Phillips",
+      "targetId": "3386"
+    },
+    {
+      "name": "John Etheridge",
+      "targetId": "3387"
+    },
+    {
+      "name": "Neil Innes",
+      "targetId": "3388"
+    },
+    {
+      "name": "Ray Russell",
+      "targetId": "3389"
+    },
+    {
+      "name": "Michael Schenker",
+      "targetId": "7640"
+    },
+    {
+      "name": "Gary Barden",
+      "targetId": "8794"
+    },
+    {
+      "name": "Don Airey",
+      "targetId": "8795"
+    },
+    {
+      "name": "Shelley Preston",
+      "targetId": "8955"
+    },
+    {
+      "name": "Becci Glover",
+      "targetId": "8957"
+    },
+    {
+      "name": "Nikki Love",
+      "targetId": "8958"
+    },
+    {
+      "name": "Ian Hunter",
+      "targetId": "8959"
+    }
+  ]
+}

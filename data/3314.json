@@ -1,27 +1,25 @@
-[
-  {
-    "source": "George Chisholm",
-    "target": "Pauly Fuemana",
-    "targetId": "3310"
-  },
-  {
-    "source": "George Chisholm",
-    "target": "Alan Jansson",
-    "targetId": "3315"
-  },
-  {
-    "source": "George Chisholm",
-    "target": "Lee Baker",
-    "targetId": "3316"
-  },
-  {
-    "source": "George Chisholm",
-    "target": "Sina Siapia",
-    "targetId": "3317"
-  },
-  {
-    "source": "George Chisholm",
-    "target": "Hershal Herscher",
-    "targetId": "3325"
-  }
-]
+{
+  "source": "George Chisholm",
+  "targets": [
+    {
+      "name": "Pauly Fuemana",
+      "targetId": "3310"
+    },
+    {
+      "name": "Alan Jansson",
+      "targetId": "3315"
+    },
+    {
+      "name": "Lee Baker",
+      "targetId": "3316"
+    },
+    {
+      "name": "Sina Siapia",
+      "targetId": "3317"
+    },
+    {
+      "name": "Hershal Herscher",
+      "targetId": "3325"
+    }
+  ]
+}

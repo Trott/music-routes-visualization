@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Scott Garrett",
-    "target": "Johnny Marr",
-    "targetId": "2966"
-  },
-  {
-    "source": "Scott Garrett",
-    "target": "Ian Astbury",
-    "targetId": "7862"
-  },
-  {
-    "source": "Scott Garrett",
-    "target": "Billy Duffy",
-    "targetId": "7863"
-  },
-  {
-    "source": "Scott Garrett",
-    "target": "Craig Adams",
-    "targetId": "9503"
-  }
-]
+{
+  "source": "Scott Garrett",
+  "targets": [
+    {
+      "name": "Johnny Marr",
+      "targetId": "2966"
+    },
+    {
+      "name": "Ian Astbury",
+      "targetId": "7862"
+    },
+    {
+      "name": "Billy Duffy",
+      "targetId": "7863"
+    },
+    {
+      "name": "Craig Adams",
+      "targetId": "9503"
+    }
+  ]
+}

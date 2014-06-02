@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tiffany Arbuckle Lee",
-    "target": "Kenny Greenberg",
-    "targetId": "6503"
-  },
-  {
-    "source": "Tiffany Arbuckle Lee",
-    "target": "Mandy Moore",
-    "targetId": "6521"
-  },
-  {
-    "source": "Tiffany Arbuckle Lee",
-    "target": "Keith Thomas",
-    "targetId": "6523"
-  },
-  {
-    "source": "Tiffany Arbuckle Lee",
-    "target": "Jerry McPherson",
-    "targetId": "6524"
-  }
-]
+{
+  "source": "Tiffany Arbuckle Lee",
+  "targets": [
+    {
+      "name": "Kenny Greenberg",
+      "targetId": "6503"
+    },
+    {
+      "name": "Mandy Moore",
+      "targetId": "6521"
+    },
+    {
+      "name": "Keith Thomas",
+      "targetId": "6523"
+    },
+    {
+      "name": "Jerry McPherson",
+      "targetId": "6524"
+    }
+  ]
+}

@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Tonio K.",
-    "target": "Joe B. Mauldin",
-    "targetId": "6283"
-  },
-  {
-    "source": "Tonio K.",
-    "target": "Jerry Allison",
-    "targetId": "6284"
-  },
-  {
-    "source": "Tonio K.",
-    "target": "Sonny Curtis",
-    "targetId": "6285"
-  },
-  {
-    "source": "Tonio K.",
-    "target": "Peter Case",
-    "targetId": "6288"
-  }
-]
+{
+  "source": "Tonio K.",
+  "targets": [
+    {
+      "name": "Joe B. Mauldin",
+      "targetId": "6283"
+    },
+    {
+      "name": "Jerry Allison",
+      "targetId": "6284"
+    },
+    {
+      "name": "Sonny Curtis",
+      "targetId": "6285"
+    },
+    {
+      "name": "Peter Case",
+      "targetId": "6288"
+    }
+  ]
+}

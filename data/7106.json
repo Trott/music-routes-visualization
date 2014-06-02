@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Fred Estby",
-    "target": "David Blomqvist",
-    "targetId": "7101"
-  },
-  {
-    "source": "Fred Estby",
-    "target": "Sharlee D'Angelo",
-    "targetId": "7105"
-  },
-  {
-    "source": "Fred Estby",
-    "target": "Magnus Sahlgren",
-    "targetId": "7107"
-  },
-  {
-    "source": "Fred Estby",
-    "target": "Matti Kärki",
-    "targetId": "7108"
-  }
-]
+{
+  "source": "Fred Estby",
+  "targets": [
+    {
+      "name": "David Blomqvist",
+      "targetId": "7101"
+    },
+    {
+      "name": "Sharlee D'Angelo",
+      "targetId": "7105"
+    },
+    {
+      "name": "Magnus Sahlgren",
+      "targetId": "7107"
+    },
+    {
+      "name": "Matti Kärki",
+      "targetId": "7108"
+    }
+  ]
+}

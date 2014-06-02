@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Geologist",
-    "target": "Avey Tare",
-    "targetId": "8024"
-  },
-  {
-    "source": "Geologist",
-    "target": "Deakin",
-    "targetId": "8025"
-  },
-  {
-    "source": "Geologist",
-    "target": "Panda Bear",
-    "targetId": "8027"
-  }
-]
+{
+  "source": "Geologist",
+  "targets": [
+    {
+      "name": "Avey Tare",
+      "targetId": "8024"
+    },
+    {
+      "name": "Deakin",
+      "targetId": "8025"
+    },
+    {
+      "name": "Panda Bear",
+      "targetId": "8027"
+    }
+  ]
+}

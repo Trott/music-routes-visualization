@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Avey Tare",
-    "target": "Eric Copeland",
-    "targetId": "4994"
-  },
-  {
-    "source": "Avey Tare",
-    "target": "Deakin",
-    "targetId": "8025"
-  },
-  {
-    "source": "Avey Tare",
-    "target": "Geologist",
-    "targetId": "8026"
-  },
-  {
-    "source": "Avey Tare",
-    "target": "Panda Bear",
-    "targetId": "8027"
-  }
-]
+{
+  "source": "Avey Tare",
+  "targets": [
+    {
+      "name": "Eric Copeland",
+      "targetId": "4994"
+    },
+    {
+      "name": "Deakin",
+      "targetId": "8025"
+    },
+    {
+      "name": "Geologist",
+      "targetId": "8026"
+    },
+    {
+      "name": "Panda Bear",
+      "targetId": "8027"
+    }
+  ]
+}

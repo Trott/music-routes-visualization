@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Peter Wood",
-    "target": "Cyndi Lauper",
-    "targetId": "64"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Roger Waters",
-    "targetId": "2003"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Tommy Shaw",
-    "targetId": "2889"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Rick DiFonzo",
-    "targetId": "3442"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Brian Stanley",
-    "targetId": "7846"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Steve Holley",
-    "targetId": "7847"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Snowy White",
-    "targetId": "8413"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Graham Broad",
-    "targetId": "8414"
-  },
-  {
-    "source": "Peter Wood",
-    "target": "Nick Glennie-Smith",
-    "targetId": "8415"
-  }
-]
+{
+  "source": "Peter Wood",
+  "targets": [
+    {
+      "name": "Cyndi Lauper",
+      "targetId": "64"
+    },
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "Roger Waters",
+      "targetId": "2003"
+    },
+    {
+      "name": "Tommy Shaw",
+      "targetId": "2889"
+    },
+    {
+      "name": "Rick DiFonzo",
+      "targetId": "3442"
+    },
+    {
+      "name": "Brian Stanley",
+      "targetId": "7846"
+    },
+    {
+      "name": "Steve Holley",
+      "targetId": "7847"
+    },
+    {
+      "name": "Snowy White",
+      "targetId": "8413"
+    },
+    {
+      "name": "Graham Broad",
+      "targetId": "8414"
+    },
+    {
+      "name": "Nick Glennie-Smith",
+      "targetId": "8415"
+    }
+  ]
+}

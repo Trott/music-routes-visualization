@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John E. Lowe",
-    "target": "John Guerin",
-    "targetId": "508"
-  },
-  {
-    "source": "John E. Lowe",
-    "target": "Dennis Wilson",
-    "targetId": "1476"
-  },
-  {
-    "source": "John E. Lowe",
-    "target": "Ernie Small",
-    "targetId": "10085"
-  }
-]
+{
+  "source": "John E. Lowe",
+  "targets": [
+    {
+      "name": "John Guerin",
+      "targetId": "508"
+    },
+    {
+      "name": "Dennis Wilson",
+      "targetId": "1476"
+    },
+    {
+      "name": "Ernie Small",
+      "targetId": "10085"
+    }
+  ]
+}

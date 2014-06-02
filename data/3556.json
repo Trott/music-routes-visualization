@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Eric Johnson",
-    "target": "Lenny Castro",
-    "targetId": "405"
-  },
-  {
-    "source": "Eric Johnson",
-    "target": "Michael Omartian",
-    "targetId": "3247"
-  },
-  {
-    "source": "Eric Johnson",
-    "target": "Christopher Cross",
-    "targetId": "3548"
-  },
-  {
-    "source": "Eric Johnson",
-    "target": "Andy Salmon",
-    "targetId": "3549"
-  },
-  {
-    "source": "Eric Johnson",
-    "target": "Tommy Taylor",
-    "targetId": "3550"
-  },
-  {
-    "source": "Eric Johnson",
-    "target": "Rob Meurer",
-    "targetId": "3555"
-  },
-  {
-    "source": "Eric Johnson",
-    "target": "Tomás Ramirez",
-    "targetId": "3557"
-  }
-]
+{
+  "source": "Eric Johnson",
+  "targets": [
+    {
+      "name": "Lenny Castro",
+      "targetId": "405"
+    },
+    {
+      "name": "Michael Omartian",
+      "targetId": "3247"
+    },
+    {
+      "name": "Christopher Cross",
+      "targetId": "3548"
+    },
+    {
+      "name": "Andy Salmon",
+      "targetId": "3549"
+    },
+    {
+      "name": "Tommy Taylor",
+      "targetId": "3550"
+    },
+    {
+      "name": "Rob Meurer",
+      "targetId": "3555"
+    },
+    {
+      "name": "Tomás Ramirez",
+      "targetId": "3557"
+    }
+  ]
+}

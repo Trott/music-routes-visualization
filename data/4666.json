@@ -1,47 +1,41 @@
-[
-  {
-    "source": "Brian Banks",
-    "target": "Michael Jackson",
-    "targetId": "40"
-  },
-  {
-    "source": "Brian Banks",
-    "target": "Larry Williams",
-    "targetId": "414"
-  },
-  {
-    "source": "Brian Banks",
-    "target": "Greg Phillinganes",
-    "targetId": "649"
-  },
-  {
-    "source": "Brian Banks",
-    "target": "Jerry Hey",
-    "targetId": "1322"
-  },
-  {
-    "source": "Brian Banks",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Brian Banks",
-    "target": "Bill Reichenbach",
-    "targetId": "1395"
-  },
-  {
-    "source": "Brian Banks",
-    "target": "Rod Temperton",
-    "targetId": "4235"
-  },
-  {
-    "source": "Brian Banks",
-    "target": "Vincent Price",
-    "targetId": "4664"
-  },
-  {
-    "source": "Brian Banks",
-    "target": "David Williams",
-    "targetId": "4665"
-  }
-]
+{
+  "source": "Brian Banks",
+  "targets": [
+    {
+      "name": "Michael Jackson",
+      "targetId": "40"
+    },
+    {
+      "name": "Larry Williams",
+      "targetId": "414"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "targetId": "649"
+    },
+    {
+      "name": "Jerry Hey",
+      "targetId": "1322"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "Bill Reichenbach",
+      "targetId": "1395"
+    },
+    {
+      "name": "Rod Temperton",
+      "targetId": "4235"
+    },
+    {
+      "name": "Vincent Price",
+      "targetId": "4664"
+    },
+    {
+      "name": "David Williams",
+      "targetId": "4665"
+    }
+  ]
+}

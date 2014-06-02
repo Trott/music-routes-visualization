@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Phil Markowitz",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  },
-  {
-    "source": "Phil Markowitz",
-    "target": "Dave Liebman",
-    "targetId": "498"
-  },
-  {
-    "source": "Phil Markowitz",
-    "target": "Joe Lovano",
-    "targetId": "499"
-  },
-  {
-    "source": "Phil Markowitz",
-    "target": "Cecil McBee",
-    "targetId": "500"
-  },
-  {
-    "source": "Phil Markowitz",
-    "target": "Billy Hart",
-    "targetId": "502"
-  }
-]
+{
+  "source": "Phil Markowitz",
+  "targets": [
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    },
+    {
+      "name": "Dave Liebman",
+      "targetId": "498"
+    },
+    {
+      "name": "Joe Lovano",
+      "targetId": "499"
+    },
+    {
+      "name": "Cecil McBee",
+      "targetId": "500"
+    },
+    {
+      "name": "Billy Hart",
+      "targetId": "502"
+    }
+  ]
+}

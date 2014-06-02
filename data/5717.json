@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Ted Parsons",
-    "target": "Troy Gregory",
-    "targetId": "5715"
-  },
-  {
-    "source": "Ted Parsons",
-    "target": "Tommy Victor",
-    "targetId": "5718"
-  }
-]
+{
+  "source": "Ted Parsons",
+  "targets": [
+    {
+      "name": "Troy Gregory",
+      "targetId": "5715"
+    },
+    {
+      "name": "Tommy Victor",
+      "targetId": "5718"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Robin Clayton",
-    "target": "Adrian Smith",
-    "targetId": "178"
-  },
-  {
-    "source": "Robin Clayton",
-    "target": "Zak Starkey",
-    "targetId": "2777"
-  },
-  {
-    "source": "Robin Clayton",
-    "target": "Andy Barnett",
-    "targetId": "5056"
-  },
-  {
-    "source": "Robin Clayton",
-    "target": "Dave Colwell",
-    "targetId": "5057"
-  },
-  {
-    "source": "Robin Clayton",
-    "target": "Richard Young",
-    "targetId": "5058"
-  }
-]
+{
+  "source": "Robin Clayton",
+  "targets": [
+    {
+      "name": "Adrian Smith",
+      "targetId": "178"
+    },
+    {
+      "name": "Zak Starkey",
+      "targetId": "2777"
+    },
+    {
+      "name": "Andy Barnett",
+      "targetId": "5056"
+    },
+    {
+      "name": "Dave Colwell",
+      "targetId": "5057"
+    },
+    {
+      "name": "Richard Young",
+      "targetId": "5058"
+    }
+  ]
+}

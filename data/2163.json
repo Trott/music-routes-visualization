@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Steve Swanson",
-    "target": "Terry Butler",
-    "targetId": "2160"
-  },
-  {
-    "source": "Steve Swanson",
-    "target": "Greg Gall",
-    "targetId": "2164"
-  },
-  {
-    "source": "Steve Swanson",
-    "target": "Chris Barnes",
-    "targetId": "2165"
-  }
-]
+{
+  "source": "Steve Swanson",
+  "targets": [
+    {
+      "name": "Terry Butler",
+      "targetId": "2160"
+    },
+    {
+      "name": "Greg Gall",
+      "targetId": "2164"
+    },
+    {
+      "name": "Chris Barnes",
+      "targetId": "2165"
+    }
+  ]
+}

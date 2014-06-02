@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jesse Hayes",
-    "target": "Ann Yu",
-    "targetId": "10797"
-  },
-  {
-    "source": "Jesse Hayes",
-    "target": "David Farrell",
-    "targetId": "10799"
-  },
-  {
-    "source": "Jesse Hayes",
-    "target": "Ted Parker",
-    "targetId": "10801"
-  }
-]
+{
+  "source": "Jesse Hayes",
+  "targets": [
+    {
+      "name": "Ann Yu",
+      "targetId": "10797"
+    },
+    {
+      "name": "David Farrell",
+      "targetId": "10799"
+    },
+    {
+      "name": "Ted Parker",
+      "targetId": "10801"
+    }
+  ]
+}

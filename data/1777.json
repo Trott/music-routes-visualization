@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Antonio Carlos Jobim",
-    "target": "Frank Sinatra",
-    "targetId": "1763"
-  },
-  {
-    "source": "Antonio Carlos Jobim",
-    "target": "Stan Getz",
-    "targetId": "4089"
-  },
-  {
-    "source": "Antonio Carlos Jobim",
-    "target": "Milton Banana",
-    "targetId": "4090"
-  },
-  {
-    "source": "Antonio Carlos Jobim",
-    "target": "João Gilberto",
-    "targetId": "4091"
-  },
-  {
-    "source": "Antonio Carlos Jobim",
-    "target": "Astrud Gilberto",
-    "targetId": "4092"
-  }
-]
+{
+  "source": "Antonio Carlos Jobim",
+  "targets": [
+    {
+      "name": "Frank Sinatra",
+      "targetId": "1763"
+    },
+    {
+      "name": "Stan Getz",
+      "targetId": "4089"
+    },
+    {
+      "name": "Milton Banana",
+      "targetId": "4090"
+    },
+    {
+      "name": "João Gilberto",
+      "targetId": "4091"
+    },
+    {
+      "name": "Astrud Gilberto",
+      "targetId": "4092"
+    }
+  ]
+}

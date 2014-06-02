@@ -1,152 +1,125 @@
-[
-  {
-    "source": "Alethea Mills",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Brandon Fields",
-    "targetId": "434"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Gladys Knight",
-    "targetId": "697"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Rosemary Butler",
-    "targetId": "1015"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "James Gadson",
-    "targetId": "1533"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Abraham Laboriel, Sr.",
-    "targetId": "2213"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Dave Boruff",
-    "targetId": "2223"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Bob McChesney",
-    "targetId": "2224"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Wayne Bergeron",
-    "targetId": "2343"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Aminah Ofumbi",
-    "targetId": "2346"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Chavonne Morris",
-    "targetId": "2347"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Clarissa Watkins",
-    "targetId": "2348"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Clydene Jackson",
-    "targetId": "2349"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Darryl Phinnessee",
-    "targetId": "2350"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "De'Ante Duckett",
-    "targetId": "2351"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Irene Madison",
-    "targetId": "2352"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "James Burney",
-    "targetId": "2353"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Janey Clewer Gaitsch",
-    "targetId": "2354"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "James Gilstrap",
-    "targetId": "2355"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "John West",
-    "targetId": "2356"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Kevin Dorsey",
-    "targetId": "2357"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Loren Turner",
-    "targetId": "2358"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Sheven Morris",
-    "targetId": "2359"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Terry Woods",
-    "targetId": "2360"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Tom Saviano",
-    "targetId": "2361"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Charles Fearing",
-    "targetId": "2362"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Danny Jacob",
-    "targetId": "2363"
-  },
-  {
-    "source": "Alethea Mills",
-    "target": "Clarence McDonald",
-    "targetId": "2364"
-  }
-]
+{
+  "source": "Alethea Mills",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Brandon Fields",
+      "targetId": "434"
+    },
+    {
+      "name": "Gladys Knight",
+      "targetId": "697"
+    },
+    {
+      "name": "Rosemary Butler",
+      "targetId": "1015"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "James Gadson",
+      "targetId": "1533"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Abraham Laboriel, Sr.",
+      "targetId": "2213"
+    },
+    {
+      "name": "Dave Boruff",
+      "targetId": "2223"
+    },
+    {
+      "name": "Bob McChesney",
+      "targetId": "2224"
+    },
+    {
+      "name": "Wayne Bergeron",
+      "targetId": "2343"
+    },
+    {
+      "name": "Aminah Ofumbi",
+      "targetId": "2346"
+    },
+    {
+      "name": "Chavonne Morris",
+      "targetId": "2347"
+    },
+    {
+      "name": "Clarissa Watkins",
+      "targetId": "2348"
+    },
+    {
+      "name": "Clydene Jackson",
+      "targetId": "2349"
+    },
+    {
+      "name": "Darryl Phinnessee",
+      "targetId": "2350"
+    },
+    {
+      "name": "De'Ante Duckett",
+      "targetId": "2351"
+    },
+    {
+      "name": "Irene Madison",
+      "targetId": "2352"
+    },
+    {
+      "name": "James Burney",
+      "targetId": "2353"
+    },
+    {
+      "name": "Janey Clewer Gaitsch",
+      "targetId": "2354"
+    },
+    {
+      "name": "James Gilstrap",
+      "targetId": "2355"
+    },
+    {
+      "name": "John West",
+      "targetId": "2356"
+    },
+    {
+      "name": "Kevin Dorsey",
+      "targetId": "2357"
+    },
+    {
+      "name": "Loren Turner",
+      "targetId": "2358"
+    },
+    {
+      "name": "Sheven Morris",
+      "targetId": "2359"
+    },
+    {
+      "name": "Terry Woods",
+      "targetId": "2360"
+    },
+    {
+      "name": "Tom Saviano",
+      "targetId": "2361"
+    },
+    {
+      "name": "Charles Fearing",
+      "targetId": "2362"
+    },
+    {
+      "name": "Danny Jacob",
+      "targetId": "2363"
+    },
+    {
+      "name": "Clarence McDonald",
+      "targetId": "2364"
+    }
+  ]
+}

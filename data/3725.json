@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Dave Weckl",
-    "target": "Robert Plant",
-    "targetId": "296"
-  },
-  {
-    "source": "Dave Weckl",
-    "target": "Jimmy Page",
-    "targetId": "301"
-  },
-  {
-    "source": "Dave Weckl",
-    "target": "Paul Shaffer",
-    "targetId": "1038"
-  },
-  {
-    "source": "Dave Weckl",
-    "target": "Nile Rodgers",
-    "targetId": "2204"
-  },
-  {
-    "source": "Dave Weckl",
-    "target": "Wayne Pedziwiatr",
-    "targetId": "3726"
-  }
-]
+{
+  "source": "Dave Weckl",
+  "targets": [
+    {
+      "name": "Robert Plant",
+      "targetId": "296"
+    },
+    {
+      "name": "Jimmy Page",
+      "targetId": "301"
+    },
+    {
+      "name": "Paul Shaffer",
+      "targetId": "1038"
+    },
+    {
+      "name": "Nile Rodgers",
+      "targetId": "2204"
+    },
+    {
+      "name": "Wayne Pedziwiatr",
+      "targetId": "3726"
+    }
+  ]
+}

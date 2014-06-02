@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Guy Pratt",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Guy Pratt",
-    "target": "John Linnell",
-    "targetId": "3068"
-  },
-  {
-    "source": "Guy Pratt",
-    "target": "Dan Miller",
-    "targetId": "3681"
-  },
-  {
-    "source": "Guy Pratt",
-    "target": "Dan Hickey",
-    "targetId": "3683"
-  },
-  {
-    "source": "Guy Pratt",
-    "target": "Luis Jardim",
-    "targetId": "3684"
-  }
-]
+{
+  "source": "Guy Pratt",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    },
+    {
+      "name": "Dan Miller",
+      "targetId": "3681"
+    },
+    {
+      "name": "Dan Hickey",
+      "targetId": "3683"
+    },
+    {
+      "name": "Luis Jardim",
+      "targetId": "3684"
+    }
+  ]
+}

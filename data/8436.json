@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Howard Levy",
-    "target": "Tony Trischka",
-    "targetId": "4839"
-  },
-  {
-    "source": "Howard Levy",
-    "target": "Bobby Previte",
-    "targetId": "8223"
-  },
-  {
-    "source": "Howard Levy",
-    "target": "Barry Mitterhoff",
-    "targetId": "8437"
-  },
-  {
-    "source": "Howard Levy",
-    "target": "Susan Evans",
-    "targetId": "8438"
-  },
-  {
-    "source": "Howard Levy",
-    "target": "Bob Stewart",
-    "targetId": "8439"
-  },
-  {
-    "source": "Howard Levy",
-    "target": "Kenny Kosek",
-    "targetId": "8440"
-  }
-]
+{
+  "source": "Howard Levy",
+  "targets": [
+    {
+      "name": "Tony Trischka",
+      "targetId": "4839"
+    },
+    {
+      "name": "Bobby Previte",
+      "targetId": "8223"
+    },
+    {
+      "name": "Barry Mitterhoff",
+      "targetId": "8437"
+    },
+    {
+      "name": "Susan Evans",
+      "targetId": "8438"
+    },
+    {
+      "name": "Bob Stewart",
+      "targetId": "8439"
+    },
+    {
+      "name": "Kenny Kosek",
+      "targetId": "8440"
+    }
+  ]
+}

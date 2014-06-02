@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Steve Tibbetts",
-    "target": "David Sylvian",
-    "targetId": "4964"
-  },
-  {
-    "source": "Steve Tibbetts",
-    "target": "Steve Jansen",
-    "targetId": "4965"
-  }
-]
+{
+  "source": "Steve Tibbetts",
+  "targets": [
+    {
+      "name": "David Sylvian",
+      "targetId": "4964"
+    },
+    {
+      "name": "Steve Jansen",
+      "targetId": "4965"
+    }
+  ]
+}

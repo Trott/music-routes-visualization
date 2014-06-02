@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Steve Waller",
-    "target": "Manfred Mann",
-    "targetId": "3140"
-  },
-  {
-    "source": "Steve Waller",
-    "target": "Chris Thompson",
-    "targetId": "3874"
-  },
-  {
-    "source": "Steve Waller",
-    "target": "Trevor Rabin",
-    "targetId": "4183"
-  },
-  {
-    "source": "Steve Waller",
-    "target": "Geoff Britton",
-    "targetId": "5543"
-  },
-  {
-    "source": "Steve Waller",
-    "target": "Pat King",
-    "targetId": "5544"
-  },
-  {
-    "source": "Steve Waller",
-    "target": "Matt Irving",
-    "targetId": "5608"
-  },
-  {
-    "source": "Steve Waller",
-    "target": "John Lingwood",
-    "targetId": "5609"
-  },
-  {
-    "source": "Steve Waller",
-    "target": "Shona Laing",
-    "targetId": "5610"
-  }
-]
+{
+  "source": "Steve Waller",
+  "targets": [
+    {
+      "name": "Manfred Mann",
+      "targetId": "3140"
+    },
+    {
+      "name": "Chris Thompson",
+      "targetId": "3874"
+    },
+    {
+      "name": "Trevor Rabin",
+      "targetId": "4183"
+    },
+    {
+      "name": "Geoff Britton",
+      "targetId": "5543"
+    },
+    {
+      "name": "Pat King",
+      "targetId": "5544"
+    },
+    {
+      "name": "Matt Irving",
+      "targetId": "5608"
+    },
+    {
+      "name": "John Lingwood",
+      "targetId": "5609"
+    },
+    {
+      "name": "Shona Laing",
+      "targetId": "5610"
+    }
+  ]
+}

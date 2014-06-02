@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Joe Baiza",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Joe Baiza",
-    "target": "Spot",
-    "targetId": "752"
-  },
-  {
-    "source": "Joe Baiza",
-    "target": "Nels Cline",
-    "targetId": "758"
-  },
-  {
-    "source": "Joe Baiza",
-    "target": "Carla Bozulich",
-    "targetId": "759"
-  },
-  {
-    "source": "Joe Baiza",
-    "target": "Michael Preussner",
-    "targetId": "761"
-  },
-  {
-    "source": "Joe Baiza",
-    "target": "Danny Frankel",
-    "targetId": "763"
-  },
-  {
-    "source": "Joe Baiza",
-    "target": "Paul Roessler",
-    "targetId": "764"
-  }
-]
+{
+  "source": "Joe Baiza",
+  "targets": [
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Spot",
+      "targetId": "752"
+    },
+    {
+      "name": "Nels Cline",
+      "targetId": "758"
+    },
+    {
+      "name": "Carla Bozulich",
+      "targetId": "759"
+    },
+    {
+      "name": "Michael Preussner",
+      "targetId": "761"
+    },
+    {
+      "name": "Danny Frankel",
+      "targetId": "763"
+    },
+    {
+      "name": "Paul Roessler",
+      "targetId": "764"
+    }
+  ]
+}

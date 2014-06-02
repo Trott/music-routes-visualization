@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Nigel Preston",
-    "target": "Ian Astbury",
-    "targetId": "7862"
-  },
-  {
-    "source": "Nigel Preston",
-    "target": "Billy Duffy",
-    "targetId": "7863"
-  },
-  {
-    "source": "Nigel Preston",
-    "target": "Jamie Stewart",
-    "targetId": "7864"
-  }
-]
+{
+  "source": "Nigel Preston",
+  "targets": [
+    {
+      "name": "Ian Astbury",
+      "targetId": "7862"
+    },
+    {
+      "name": "Billy Duffy",
+      "targetId": "7863"
+    },
+    {
+      "name": "Jamie Stewart",
+      "targetId": "7864"
+    }
+  ]
+}

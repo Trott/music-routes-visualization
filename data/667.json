@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Michael Lennon",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "Michael Lennon",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "Michael Lennon",
-    "target": "Jeff Porcaro",
-    "targetId": "404"
-  },
-  {
-    "source": "Michael Lennon",
-    "target": "Bob Glaub",
-    "targetId": "642"
-  },
-  {
-    "source": "Michael Lennon",
-    "target": "Jorge Calderón",
-    "targetId": "663"
-  },
-  {
-    "source": "Michael Lennon",
-    "target": "Kip Lennon",
-    "targetId": "665"
-  },
-  {
-    "source": "Michael Lennon",
-    "target": "Mark Lennon",
-    "targetId": "666"
-  }
-]
+{
+  "source": "Michael Lennon",
+  "targets": [
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "Jeff Porcaro",
+      "targetId": "404"
+    },
+    {
+      "name": "Bob Glaub",
+      "targetId": "642"
+    },
+    {
+      "name": "Jorge Calderón",
+      "targetId": "663"
+    },
+    {
+      "name": "Kip Lennon",
+      "targetId": "665"
+    },
+    {
+      "name": "Mark Lennon",
+      "targetId": "666"
+    }
+  ]
+}

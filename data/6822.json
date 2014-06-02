@@ -1,187 +1,153 @@
-[
-  {
-    "source": "Toots Hibbert",
-    "target": "Willie Nelson",
-    "targetId": "68"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Eric Clapton",
-    "targetId": "85"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Bootsy Collins",
-    "targetId": "207"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Jeff Beck",
-    "targetId": "313"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Ryan Adams",
-    "targetId": "655"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Bonnie Raitt",
-    "targetId": "692"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Ben Harper",
-    "targetId": "828"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Jackie Jackson",
-    "targetId": "1473"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Gwen Stefani",
-    "targetId": "1842"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Adrian Young",
-    "targetId": "1843"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Tony Kanal",
-    "targetId": "1844"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Tom Dumont",
-    "targetId": "1845"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Keith Richards",
-    "targetId": "1996"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Rachael Yamagata",
-    "targetId": "2878"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Terry Hall",
-    "targetId": "3558"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Trey Anastasio",
-    "targetId": "4731"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Marcia Griffiths",
-    "targetId": "5864"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Paul Douglas",
-    "targetId": "6823"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Charles \"The Bulge\" Farquharson",
-    "targetId": "6824"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Dwight Pickney",
-    "targetId": "6825"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Dean Fraser",
-    "targetId": "6826"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "David Madden",
-    "targetId": "6827"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Ronald \"Nambo\" Robinson",
-    "targetId": "6828"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Uziah \"Sticky\" Thompson",
-    "targetId": "6829"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Leba Thomas",
-    "targetId": "6830"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Jenieve Hibbert Bailey",
-    "targetId": "6831"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Shaggy",
-    "targetId": "6832"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Rahzel",
-    "targetId": "6833"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Questlove",
-    "targetId": "6834"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Kamal Gray",
-    "targetId": "6835"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Ken Boothe",
-    "targetId": "6836"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Bunny Wailer",
-    "targetId": "6837"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Manu Chao",
-    "targetId": "6838"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "U-Roy",
-    "targetId": "6839"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Devon James",
-    "targetId": "6840"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Lloyd Knibb",
-    "targetId": "6841"
-  },
-  {
-    "source": "Toots Hibbert",
-    "target": "Ken Stewart",
-    "targetId": "6842"
-  }
-]
+{
+  "source": "Toots Hibbert",
+  "targets": [
+    {
+      "name": "Willie Nelson",
+      "targetId": "68"
+    },
+    {
+      "name": "Eric Clapton",
+      "targetId": "85"
+    },
+    {
+      "name": "Bootsy Collins",
+      "targetId": "207"
+    },
+    {
+      "name": "Jeff Beck",
+      "targetId": "313"
+    },
+    {
+      "name": "Ryan Adams",
+      "targetId": "655"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "targetId": "692"
+    },
+    {
+      "name": "Ben Harper",
+      "targetId": "828"
+    },
+    {
+      "name": "Jackie Jackson",
+      "targetId": "1473"
+    },
+    {
+      "name": "Gwen Stefani",
+      "targetId": "1842"
+    },
+    {
+      "name": "Adrian Young",
+      "targetId": "1843"
+    },
+    {
+      "name": "Tony Kanal",
+      "targetId": "1844"
+    },
+    {
+      "name": "Tom Dumont",
+      "targetId": "1845"
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "1996"
+    },
+    {
+      "name": "Rachael Yamagata",
+      "targetId": "2878"
+    },
+    {
+      "name": "Terry Hall",
+      "targetId": "3558"
+    },
+    {
+      "name": "Trey Anastasio",
+      "targetId": "4731"
+    },
+    {
+      "name": "Marcia Griffiths",
+      "targetId": "5864"
+    },
+    {
+      "name": "Paul Douglas",
+      "targetId": "6823"
+    },
+    {
+      "name": "Charles \"The Bulge\" Farquharson",
+      "targetId": "6824"
+    },
+    {
+      "name": "Dwight Pickney",
+      "targetId": "6825"
+    },
+    {
+      "name": "Dean Fraser",
+      "targetId": "6826"
+    },
+    {
+      "name": "David Madden",
+      "targetId": "6827"
+    },
+    {
+      "name": "Ronald \"Nambo\" Robinson",
+      "targetId": "6828"
+    },
+    {
+      "name": "Uziah \"Sticky\" Thompson",
+      "targetId": "6829"
+    },
+    {
+      "name": "Leba Thomas",
+      "targetId": "6830"
+    },
+    {
+      "name": "Jenieve Hibbert Bailey",
+      "targetId": "6831"
+    },
+    {
+      "name": "Shaggy",
+      "targetId": "6832"
+    },
+    {
+      "name": "Rahzel",
+      "targetId": "6833"
+    },
+    {
+      "name": "Questlove",
+      "targetId": "6834"
+    },
+    {
+      "name": "Kamal Gray",
+      "targetId": "6835"
+    },
+    {
+      "name": "Ken Boothe",
+      "targetId": "6836"
+    },
+    {
+      "name": "Bunny Wailer",
+      "targetId": "6837"
+    },
+    {
+      "name": "Manu Chao",
+      "targetId": "6838"
+    },
+    {
+      "name": "U-Roy",
+      "targetId": "6839"
+    },
+    {
+      "name": "Devon James",
+      "targetId": "6840"
+    },
+    {
+      "name": "Lloyd Knibb",
+      "targetId": "6841"
+    },
+    {
+      "name": "Ken Stewart",
+      "targetId": "6842"
+    }
+  ]
+}

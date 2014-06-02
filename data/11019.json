@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Dorothy Jones",
-    "target": "Mel Tormé",
-    "targetId": "7599"
-  },
-  {
-    "source": "Dorothy Jones",
-    "target": "Earl-Jean McCrea",
-    "targetId": "11020"
-  },
-  {
-    "source": "Dorothy Jones",
-    "target": "Margaret Ross",
-    "targetId": "11021"
-  }
-]
+{
+  "source": "Dorothy Jones",
+  "targets": [
+    {
+      "name": "Mel Tormé",
+      "targetId": "7599"
+    },
+    {
+      "name": "Earl-Jean McCrea",
+      "targetId": "11020"
+    },
+    {
+      "name": "Margaret Ross",
+      "targetId": "11021"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Eric Ozenne",
-    "target": "Travis Barker",
-    "targetId": "1559"
-  },
-  {
-    "source": "Eric Ozenne",
-    "target": "Tim Armstrong",
-    "targetId": "2551"
-  },
-  {
-    "source": "Eric Ozenne",
-    "target": "Rob Aston",
-    "targetId": "8922"
-  }
-]
+{
+  "source": "Eric Ozenne",
+  "targets": [
+    {
+      "name": "Travis Barker",
+      "targetId": "1559"
+    },
+    {
+      "name": "Tim Armstrong",
+      "targetId": "2551"
+    },
+    {
+      "name": "Rob Aston",
+      "targetId": "8922"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Scarlett Johansson",
-    "target": "David Bowie",
-    "targetId": "132"
-  },
-  {
-    "source": "Scarlett Johansson",
-    "target": "Pete Yorn",
-    "targetId": "7677"
-  }
-]
+{
+  "source": "Scarlett Johansson",
+  "targets": [
+    {
+      "name": "David Bowie",
+      "targetId": "132"
+    },
+    {
+      "name": "Pete Yorn",
+      "targetId": "7677"
+    }
+  ]
+}

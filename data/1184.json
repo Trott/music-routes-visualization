@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Ladislas Czabanyck",
-    "target": "Joseph Reinhardt",
-    "targetId": "1145"
-  },
-  {
-    "source": "Ladislas Czabanyck",
-    "target": "Django Reinhardt",
-    "targetId": "1156"
-  },
-  {
-    "source": "Ladislas Czabanyck",
-    "target": "Hubert Rostaing",
-    "targetId": "1185"
-  },
-  {
-    "source": "Ladislas Czabanyck",
-    "target": "André Jourdan",
-    "targetId": "1186"
-  }
-]
+{
+  "source": "Ladislas Czabanyck",
+  "targets": [
+    {
+      "name": "Joseph Reinhardt",
+      "targetId": "1145"
+    },
+    {
+      "name": "Django Reinhardt",
+      "targetId": "1156"
+    },
+    {
+      "name": "Hubert Rostaing",
+      "targetId": "1185"
+    },
+    {
+      "name": "André Jourdan",
+      "targetId": "1186"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Berton Averre",
-    "target": "Terry Bozzio",
-    "targetId": "1344"
-  },
-  {
-    "source": "Berton Averre",
-    "target": "Doug Fieger",
-    "targetId": "4366"
-  },
-  {
-    "source": "Berton Averre",
-    "target": "Prescott Niles",
-    "targetId": "4368"
-  }
-]
+{
+  "source": "Berton Averre",
+  "targets": [
+    {
+      "name": "Terry Bozzio",
+      "targetId": "1344"
+    },
+    {
+      "name": "Doug Fieger",
+      "targetId": "4366"
+    },
+    {
+      "name": "Prescott Niles",
+      "targetId": "4368"
+    }
+  ]
+}

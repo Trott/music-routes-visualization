@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Lynda Hayes",
-    "target": "Marty Willson-Piper",
-    "targetId": "3794"
-  },
-  {
-    "source": "Lynda Hayes",
-    "target": "Mark Price",
-    "targetId": "7810"
-  },
-  {
-    "source": "Lynda Hayes",
-    "target": "Andy Cousin",
-    "targetId": "7811"
-  },
-  {
-    "source": "Lynda Hayes",
-    "target": "Julianne Regan",
-    "targetId": "7812"
-  }
-]
+{
+  "source": "Lynda Hayes",
+  "targets": [
+    {
+      "name": "Marty Willson-Piper",
+      "targetId": "3794"
+    },
+    {
+      "name": "Mark Price",
+      "targetId": "7810"
+    },
+    {
+      "name": "Andy Cousin",
+      "targetId": "7811"
+    },
+    {
+      "name": "Julianne Regan",
+      "targetId": "7812"
+    }
+  ]
+}

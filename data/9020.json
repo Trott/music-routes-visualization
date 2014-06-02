@@ -1,177 +1,145 @@
-[
-  {
-    "source": "Stan Kenton",
-    "target": "Shelly Manne",
-    "targetId": "6037"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Art Pepper",
-    "targetId": "8669"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bud Shank",
-    "targetId": "8670"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Milt Bernhart",
-    "targetId": "8885"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Al Sunseri",
-    "targetId": "9012"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bill Catalano",
-    "targetId": "9013"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bud Brisbois",
-    "targetId": "9014"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Frank Huggins",
-    "targetId": "9015"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Jack Sheldon",
-    "targetId": "9016"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bob Olson",
-    "targetId": "9017"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Jim Amlotte",
-    "targetId": "9018"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Kent Larsen",
-    "targetId": "9019"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Jerry McKenzie",
-    "targetId": "9021"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Thomas \"Red\" Kelly",
-    "targetId": "9022"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bill Perkins",
-    "targetId": "9023"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bill Robinson",
-    "targetId": "9024"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bill Trujillo",
-    "targetId": "9025"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Lennie Niehaus",
-    "targetId": "9026"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Steve Perlow",
-    "targetId": "9027"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Archie Lecoque",
-    "targetId": "9028"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bill Smiley",
-    "targetId": "9029"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Shorty Rogers",
-    "targetId": "9030"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Maynard Ferguson",
-    "targetId": "9031"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Jim Salko",
-    "targetId": "9032"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Chico Álvarez",
-    "targetId": "9033"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Buddy Childers",
-    "targetId": "9034"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "John Halliburton",
-    "targetId": "9035"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Herb Harper",
-    "targetId": "9036"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Harry Betts",
-    "targetId": "9037"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Don Bagley",
-    "targetId": "9038"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Laurindo Almeida",
-    "targetId": "9039"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bob Gioga",
-    "targetId": "9040"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bob Cooper",
-    "targetId": "9041"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bart Caldarelli",
-    "targetId": "9042"
-  },
-  {
-    "source": "Stan Kenton",
-    "target": "Bob Fitzpatrick",
-    "targetId": "9043"
-  }
-]
+{
+  "source": "Stan Kenton",
+  "targets": [
+    {
+      "name": "Shelly Manne",
+      "targetId": "6037"
+    },
+    {
+      "name": "Art Pepper",
+      "targetId": "8669"
+    },
+    {
+      "name": "Bud Shank",
+      "targetId": "8670"
+    },
+    {
+      "name": "Milt Bernhart",
+      "targetId": "8885"
+    },
+    {
+      "name": "Al Sunseri",
+      "targetId": "9012"
+    },
+    {
+      "name": "Bill Catalano",
+      "targetId": "9013"
+    },
+    {
+      "name": "Bud Brisbois",
+      "targetId": "9014"
+    },
+    {
+      "name": "Frank Huggins",
+      "targetId": "9015"
+    },
+    {
+      "name": "Jack Sheldon",
+      "targetId": "9016"
+    },
+    {
+      "name": "Bob Olson",
+      "targetId": "9017"
+    },
+    {
+      "name": "Jim Amlotte",
+      "targetId": "9018"
+    },
+    {
+      "name": "Kent Larsen",
+      "targetId": "9019"
+    },
+    {
+      "name": "Jerry McKenzie",
+      "targetId": "9021"
+    },
+    {
+      "name": "Thomas \"Red\" Kelly",
+      "targetId": "9022"
+    },
+    {
+      "name": "Bill Perkins",
+      "targetId": "9023"
+    },
+    {
+      "name": "Bill Robinson",
+      "targetId": "9024"
+    },
+    {
+      "name": "Bill Trujillo",
+      "targetId": "9025"
+    },
+    {
+      "name": "Lennie Niehaus",
+      "targetId": "9026"
+    },
+    {
+      "name": "Steve Perlow",
+      "targetId": "9027"
+    },
+    {
+      "name": "Archie Lecoque",
+      "targetId": "9028"
+    },
+    {
+      "name": "Bill Smiley",
+      "targetId": "9029"
+    },
+    {
+      "name": "Shorty Rogers",
+      "targetId": "9030"
+    },
+    {
+      "name": "Maynard Ferguson",
+      "targetId": "9031"
+    },
+    {
+      "name": "Jim Salko",
+      "targetId": "9032"
+    },
+    {
+      "name": "Chico Álvarez",
+      "targetId": "9033"
+    },
+    {
+      "name": "Buddy Childers",
+      "targetId": "9034"
+    },
+    {
+      "name": "John Halliburton",
+      "targetId": "9035"
+    },
+    {
+      "name": "Herb Harper",
+      "targetId": "9036"
+    },
+    {
+      "name": "Harry Betts",
+      "targetId": "9037"
+    },
+    {
+      "name": "Don Bagley",
+      "targetId": "9038"
+    },
+    {
+      "name": "Laurindo Almeida",
+      "targetId": "9039"
+    },
+    {
+      "name": "Bob Gioga",
+      "targetId": "9040"
+    },
+    {
+      "name": "Bob Cooper",
+      "targetId": "9041"
+    },
+    {
+      "name": "Bart Caldarelli",
+      "targetId": "9042"
+    },
+    {
+      "name": "Bob Fitzpatrick",
+      "targetId": "9043"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John Stanier",
-    "target": "Mike Patton",
-    "targetId": "3213"
-  },
-  {
-    "source": "John Stanier",
-    "target": "Kevin Rutmanis",
-    "targetId": "5488"
-  },
-  {
-    "source": "John Stanier",
-    "target": "Duane Denison",
-    "targetId": "6860"
-  }
-]
+{
+  "source": "John Stanier",
+  "targets": [
+    {
+      "name": "Mike Patton",
+      "targetId": "3213"
+    },
+    {
+      "name": "Kevin Rutmanis",
+      "targetId": "5488"
+    },
+    {
+      "name": "Duane Denison",
+      "targetId": "6860"
+    }
+  ]
+}

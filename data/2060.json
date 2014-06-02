@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Mike Edwards",
-    "target": "Alan Doughty",
-    "targetId": "2059"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Jerry De Borg",
-    "targetId": "2061"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Iain Baker",
-    "targetId": "2062"
-  },
-  {
-    "source": "Mike Edwards",
-    "target": "Tony Arthy",
-    "targetId": "2063"
-  }
-]
+{
+  "source": "Mike Edwards",
+  "targets": [
+    {
+      "name": "Alan Doughty",
+      "targetId": "2059"
+    },
+    {
+      "name": "Jerry De Borg",
+      "targetId": "2061"
+    },
+    {
+      "name": "Iain Baker",
+      "targetId": "2062"
+    },
+    {
+      "name": "Tony Arthy",
+      "targetId": "2063"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Greg Brown",
-    "target": "Stevie Wonder",
-    "targetId": "83"
-  },
-  {
-    "source": "Greg Brown",
-    "target": "Dean Parks",
-    "targetId": "408"
-  },
-  {
-    "source": "Greg Brown",
-    "target": "Herbie Hancock",
-    "targetId": "1264"
-  },
-  {
-    "source": "Greg Brown",
-    "target": "Nathan Watts",
-    "targetId": "7438"
-  },
-  {
-    "source": "Greg Brown",
-    "target": "Mary Lee Whitney",
-    "targetId": "7453"
-  },
-  {
-    "source": "Greg Brown",
-    "target": "David Henson",
-    "targetId": "7461"
-  },
-  {
-    "source": "Greg Brown",
-    "target": "Josette Valentino",
-    "targetId": "7463"
-  },
-  {
-    "source": "Greg Brown",
-    "target": "Yolanda Simmons",
-    "targetId": "7470"
-  }
-]
+{
+  "source": "Greg Brown",
+  "targets": [
+    {
+      "name": "Stevie Wonder",
+      "targetId": "83"
+    },
+    {
+      "name": "Dean Parks",
+      "targetId": "408"
+    },
+    {
+      "name": "Herbie Hancock",
+      "targetId": "1264"
+    },
+    {
+      "name": "Nathan Watts",
+      "targetId": "7438"
+    },
+    {
+      "name": "Mary Lee Whitney",
+      "targetId": "7453"
+    },
+    {
+      "name": "David Henson",
+      "targetId": "7461"
+    },
+    {
+      "name": "Josette Valentino",
+      "targetId": "7463"
+    },
+    {
+      "name": "Yolanda Simmons",
+      "targetId": "7470"
+    }
+  ]
+}

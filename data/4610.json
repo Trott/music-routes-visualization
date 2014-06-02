@@ -1,152 +1,125 @@
-[
-  {
-    "source": "John Scofield",
-    "target": "Ernie Watts",
-    "targetId": "413"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Michael Brecker",
-    "targetId": "459"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Randy Brecker",
-    "targetId": "469"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Ron Carter",
-    "targetId": "1201"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Ralph MacDonald",
-    "targetId": "1268"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Alphonso Johnson",
-    "targetId": "1321"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Ruth Underwood",
-    "targetId": "1328"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Tony Williams",
-    "targetId": "3839"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Hubert Laws",
-    "targetId": "4230"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Billy Cobham",
-    "targetId": "4609"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Dawilli Gonga",
-    "targetId": "4611"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Julian Priester",
-    "targetId": "4612"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Jimmy Owens",
-    "targetId": "4613"
-  },
-  {
-    "source": "John Scofield",
-    "target": "John Williams",
-    "targetId": "4614"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Chet Baker",
-    "targetId": "8133"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Richard Beirach",
-    "targetId": "8134"
-  },
-  {
-    "source": "John Scofield",
-    "target": "David Nadien",
-    "targetId": "8135"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Rochelle Abramson",
-    "targetId": "8136"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Max Ellen",
-    "targetId": "8137"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Paul Gersham",
-    "targetId": "8138"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Diana Halprin",
-    "targetId": "8139"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Harold Kohon",
-    "targetId": "8140"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Charles Libove",
-    "targetId": "8141"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Marvin Morgenstern",
-    "targetId": "8142"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Matthew Raimondi",
-    "targetId": "8143"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Jesse Levy",
-    "targetId": "8144"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Charles McCracken",
-    "targetId": "8145"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Alan Shulman",
-    "targetId": "8146"
-  },
-  {
-    "source": "John Scofield",
-    "target": "Don Sebesky",
-    "targetId": "8147"
-  },
-  {
-    "source": "John Scofield",
-    "target": "John Campo",
-    "targetId": "8148"
-  }
-]
+{
+  "source": "John Scofield",
+  "targets": [
+    {
+      "name": "Ernie Watts",
+      "targetId": "413"
+    },
+    {
+      "name": "Michael Brecker",
+      "targetId": "459"
+    },
+    {
+      "name": "Randy Brecker",
+      "targetId": "469"
+    },
+    {
+      "name": "Ron Carter",
+      "targetId": "1201"
+    },
+    {
+      "name": "Ralph MacDonald",
+      "targetId": "1268"
+    },
+    {
+      "name": "Alphonso Johnson",
+      "targetId": "1321"
+    },
+    {
+      "name": "Ruth Underwood",
+      "targetId": "1328"
+    },
+    {
+      "name": "Tony Williams",
+      "targetId": "3839"
+    },
+    {
+      "name": "Hubert Laws",
+      "targetId": "4230"
+    },
+    {
+      "name": "Billy Cobham",
+      "targetId": "4609"
+    },
+    {
+      "name": "Dawilli Gonga",
+      "targetId": "4611"
+    },
+    {
+      "name": "Julian Priester",
+      "targetId": "4612"
+    },
+    {
+      "name": "Jimmy Owens",
+      "targetId": "4613"
+    },
+    {
+      "name": "John Williams",
+      "targetId": "4614"
+    },
+    {
+      "name": "Chet Baker",
+      "targetId": "8133"
+    },
+    {
+      "name": "Richard Beirach",
+      "targetId": "8134"
+    },
+    {
+      "name": "David Nadien",
+      "targetId": "8135"
+    },
+    {
+      "name": "Rochelle Abramson",
+      "targetId": "8136"
+    },
+    {
+      "name": "Max Ellen",
+      "targetId": "8137"
+    },
+    {
+      "name": "Paul Gersham",
+      "targetId": "8138"
+    },
+    {
+      "name": "Diana Halprin",
+      "targetId": "8139"
+    },
+    {
+      "name": "Harold Kohon",
+      "targetId": "8140"
+    },
+    {
+      "name": "Charles Libove",
+      "targetId": "8141"
+    },
+    {
+      "name": "Marvin Morgenstern",
+      "targetId": "8142"
+    },
+    {
+      "name": "Matthew Raimondi",
+      "targetId": "8143"
+    },
+    {
+      "name": "Jesse Levy",
+      "targetId": "8144"
+    },
+    {
+      "name": "Charles McCracken",
+      "targetId": "8145"
+    },
+    {
+      "name": "Alan Shulman",
+      "targetId": "8146"
+    },
+    {
+      "name": "Don Sebesky",
+      "targetId": "8147"
+    },
+    {
+      "name": "John Campo",
+      "targetId": "8148"
+    }
+  ]
+}

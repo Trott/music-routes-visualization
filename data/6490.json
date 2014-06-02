@@ -1,172 +1,141 @@
-[
-  {
-    "source": "David Angell",
-    "target": "Bob Seger",
-    "targetId": "415"
-  },
-  {
-    "source": "David Angell",
-    "target": "Jon Anderson",
-    "targetId": "536"
-  },
-  {
-    "source": "David Angell",
-    "target": "Brent Rowan",
-    "targetId": "593"
-  },
-  {
-    "source": "David Angell",
-    "target": "Laura Creamer",
-    "targetId": "1305"
-  },
-  {
-    "source": "David Angell",
-    "target": "Eric Darken",
-    "targetId": "1373"
-  },
-  {
-    "source": "David Angell",
-    "target": "Béla Fleck",
-    "targetId": "4375"
-  },
-  {
-    "source": "David Angell",
-    "target": "Victor Wooten",
-    "targetId": "5883"
-  },
-  {
-    "source": "David Angell",
-    "target": "Jeff Coffin",
-    "targetId": "5884"
-  },
-  {
-    "source": "David Angell",
-    "target": "Future Man",
-    "targetId": "5885"
-  },
-  {
-    "source": "David Angell",
-    "target": "Paul McCandless",
-    "targetId": "5888"
-  },
-  {
-    "source": "David Angell",
-    "target": "Shawn Colvin",
-    "targetId": "5889"
-  },
-  {
-    "source": "David Angell",
-    "target": "JT Corenflos",
-    "targetId": "6189"
-  },
-  {
-    "source": "David Angell",
-    "target": "Leslie Mills",
-    "targetId": "6475"
-  },
-  {
-    "source": "David Angell",
-    "target": "Shaun Murphy",
-    "targetId": "6477"
-  },
-  {
-    "source": "David Angell",
-    "target": "Glenn Worf",
-    "targetId": "6478"
-  },
-  {
-    "source": "David Angell",
-    "target": "Eddie Bayers",
-    "targetId": "6479"
-  },
-  {
-    "source": "David Angell",
-    "target": "John Hobbs",
-    "targetId": "6485"
-  },
-  {
-    "source": "David Angell",
-    "target": "Carl Gorodetzky",
-    "targetId": "6486"
-  },
-  {
-    "source": "David Angell",
-    "target": "Carole Rabinowitz",
-    "targetId": "6487"
-  },
-  {
-    "source": "David Angell",
-    "target": "Conni Ellisor",
-    "targetId": "6488"
-  },
-  {
-    "source": "David Angell",
-    "target": "Craig Nelson",
-    "targetId": "6489"
-  },
-  {
-    "source": "David Angell",
-    "target": "David Davidson",
-    "targetId": "6491"
-  },
-  {
-    "source": "David Angell",
-    "target": "Elisabeth Small",
-    "targetId": "6492"
-  },
-  {
-    "source": "David Angell",
-    "target": "Gary Vanosdale",
-    "targetId": "6493"
-  },
-  {
-    "source": "David Angell",
-    "target": "Jim Grosjean",
-    "targetId": "6494"
-  },
-  {
-    "source": "David Angell",
-    "target": "John Catchings",
-    "targetId": "6495"
-  },
-  {
-    "source": "David Angell",
-    "target": "Mary Kathryn Vanosdale",
-    "targetId": "6496"
-  },
-  {
-    "source": "David Angell",
-    "target": "Matt Walker",
-    "targetId": "6497"
-  },
-  {
-    "source": "David Angell",
-    "target": "Pam Sixfin",
-    "targetId": "6498"
-  },
-  {
-    "source": "David Angell",
-    "target": "Zeneba Bowers",
-    "targetId": "6499"
-  },
-  {
-    "source": "David Angell",
-    "target": "Kristin Wilkinson",
-    "targetId": "6805"
-  },
-  {
-    "source": "David Angell",
-    "target": "Paul Hanson",
-    "targetId": "8630"
-  },
-  {
-    "source": "David Angell",
-    "target": "Rita Sahai",
-    "targetId": "8631"
-  },
-  {
-    "source": "David Angell",
-    "target": "Kongar-ool Ondar",
-    "targetId": "8632"
-  }
-]
+{
+  "source": "David Angell",
+  "targets": [
+    {
+      "name": "Bob Seger",
+      "targetId": "415"
+    },
+    {
+      "name": "Jon Anderson",
+      "targetId": "536"
+    },
+    {
+      "name": "Brent Rowan",
+      "targetId": "593"
+    },
+    {
+      "name": "Laura Creamer",
+      "targetId": "1305"
+    },
+    {
+      "name": "Eric Darken",
+      "targetId": "1373"
+    },
+    {
+      "name": "Béla Fleck",
+      "targetId": "4375"
+    },
+    {
+      "name": "Victor Wooten",
+      "targetId": "5883"
+    },
+    {
+      "name": "Jeff Coffin",
+      "targetId": "5884"
+    },
+    {
+      "name": "Future Man",
+      "targetId": "5885"
+    },
+    {
+      "name": "Paul McCandless",
+      "targetId": "5888"
+    },
+    {
+      "name": "Shawn Colvin",
+      "targetId": "5889"
+    },
+    {
+      "name": "JT Corenflos",
+      "targetId": "6189"
+    },
+    {
+      "name": "Leslie Mills",
+      "targetId": "6475"
+    },
+    {
+      "name": "Shaun Murphy",
+      "targetId": "6477"
+    },
+    {
+      "name": "Glenn Worf",
+      "targetId": "6478"
+    },
+    {
+      "name": "Eddie Bayers",
+      "targetId": "6479"
+    },
+    {
+      "name": "John Hobbs",
+      "targetId": "6485"
+    },
+    {
+      "name": "Carl Gorodetzky",
+      "targetId": "6486"
+    },
+    {
+      "name": "Carole Rabinowitz",
+      "targetId": "6487"
+    },
+    {
+      "name": "Conni Ellisor",
+      "targetId": "6488"
+    },
+    {
+      "name": "Craig Nelson",
+      "targetId": "6489"
+    },
+    {
+      "name": "David Davidson",
+      "targetId": "6491"
+    },
+    {
+      "name": "Elisabeth Small",
+      "targetId": "6492"
+    },
+    {
+      "name": "Gary Vanosdale",
+      "targetId": "6493"
+    },
+    {
+      "name": "Jim Grosjean",
+      "targetId": "6494"
+    },
+    {
+      "name": "John Catchings",
+      "targetId": "6495"
+    },
+    {
+      "name": "Mary Kathryn Vanosdale",
+      "targetId": "6496"
+    },
+    {
+      "name": "Matt Walker",
+      "targetId": "6497"
+    },
+    {
+      "name": "Pam Sixfin",
+      "targetId": "6498"
+    },
+    {
+      "name": "Zeneba Bowers",
+      "targetId": "6499"
+    },
+    {
+      "name": "Kristin Wilkinson",
+      "targetId": "6805"
+    },
+    {
+      "name": "Paul Hanson",
+      "targetId": "8630"
+    },
+    {
+      "name": "Rita Sahai",
+      "targetId": "8631"
+    },
+    {
+      "name": "Kongar-ool Ondar",
+      "targetId": "8632"
+    }
+  ]
+}

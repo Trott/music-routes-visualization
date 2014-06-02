@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Eddie Watkins",
-    "target": "Ash Bowie",
-    "targetId": "477"
-  },
-  {
-    "source": "Eddie Watkins",
-    "target": "Dave Brylawski",
-    "targetId": "479"
-  },
-  {
-    "source": "Eddie Watkins",
-    "target": "Steve Popson",
-    "targetId": "481"
-  }
-]
+{
+  "source": "Eddie Watkins",
+  "targets": [
+    {
+      "name": "Ash Bowie",
+      "targetId": "477"
+    },
+    {
+      "name": "Dave Brylawski",
+      "targetId": "479"
+    },
+    {
+      "name": "Steve Popson",
+      "targetId": "481"
+    }
+  ]
+}

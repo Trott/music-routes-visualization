@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Ronald Chamberlain",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "Harry Klein",
-    "targetId": "1988"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "Rex Morris",
-    "targetId": "9710"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "Raymond Newman",
-    "targetId": "9852"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "David Smith",
-    "targetId": "9853"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "Dennis Walton",
-    "targetId": "9854"
-  },
-  {
-    "source": "Ronald Chamberlain",
-    "target": "Jim Chester",
-    "targetId": "9856"
-  }
-]
+{
+  "source": "Ronald Chamberlain",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Harry Klein",
+      "targetId": "1988"
+    },
+    {
+      "name": "Rex Morris",
+      "targetId": "9710"
+    },
+    {
+      "name": "Raymond Newman",
+      "targetId": "9852"
+    },
+    {
+      "name": "David Smith",
+      "targetId": "9853"
+    },
+    {
+      "name": "Dennis Walton",
+      "targetId": "9854"
+    },
+    {
+      "name": "Jim Chester",
+      "targetId": "9856"
+    }
+  ]
+}

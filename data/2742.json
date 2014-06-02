@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sterling Morrison",
-    "target": "John Cale",
-    "targetId": "956"
-  },
-  {
-    "source": "Sterling Morrison",
-    "target": "Nico",
-    "targetId": "1954"
-  },
-  {
-    "source": "Sterling Morrison",
-    "target": "Maureen \"Moe\" Tucker",
-    "targetId": "2741"
-  },
-  {
-    "source": "Sterling Morrison",
-    "target": "Lou Reed",
-    "targetId": "2743"
-  }
-]
+{
+  "source": "Sterling Morrison",
+  "targets": [
+    {
+      "name": "John Cale",
+      "targetId": "956"
+    },
+    {
+      "name": "Nico",
+      "targetId": "1954"
+    },
+    {
+      "name": "Maureen \"Moe\" Tucker",
+      "targetId": "2741"
+    },
+    {
+      "name": "Lou Reed",
+      "targetId": "2743"
+    }
+  ]
+}

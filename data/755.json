@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Cris Kirkwood",
-    "target": "Dave Grohl",
-    "targetId": "338"
-  },
-  {
-    "source": "Cris Kirkwood",
-    "target": "J Mascis",
-    "targetId": "737"
-  },
-  {
-    "source": "Cris Kirkwood",
-    "target": "Mike Watt",
-    "targetId": "751"
-  },
-  {
-    "source": "Cris Kirkwood",
-    "target": "Eddie Vedder",
-    "targetId": "756"
-  },
-  {
-    "source": "Cris Kirkwood",
-    "target": "Curt Kirkwood",
-    "targetId": "757"
-  },
-  {
-    "source": "Cris Kirkwood",
-    "target": "Nels Cline",
-    "targetId": "758"
-  }
-]
+{
+  "source": "Cris Kirkwood",
+  "targets": [
+    {
+      "name": "Dave Grohl",
+      "targetId": "338"
+    },
+    {
+      "name": "J Mascis",
+      "targetId": "737"
+    },
+    {
+      "name": "Mike Watt",
+      "targetId": "751"
+    },
+    {
+      "name": "Eddie Vedder",
+      "targetId": "756"
+    },
+    {
+      "name": "Curt Kirkwood",
+      "targetId": "757"
+    },
+    {
+      "name": "Nels Cline",
+      "targetId": "758"
+    }
+  ]
+}

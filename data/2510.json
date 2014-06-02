@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Arthur Lee",
-    "target": "Hal Blaine",
-    "targetId": "226"
-  },
-  {
-    "source": "Arthur Lee",
-    "target": "Carol Kaye",
-    "targetId": "521"
-  },
-  {
-    "source": "Arthur Lee",
-    "target": "Billy Strange",
-    "targetId": "1490"
-  },
-  {
-    "source": "Arthur Lee",
-    "target": "Don Randi",
-    "targetId": "1516"
-  },
-  {
-    "source": "Arthur Lee",
-    "target": "Ken Forssi",
-    "targetId": "2506"
-  },
-  {
-    "source": "Arthur Lee",
-    "target": "Michael Stuart",
-    "targetId": "2507"
-  },
-  {
-    "source": "Arthur Lee",
-    "target": "John Echols",
-    "targetId": "2508"
-  },
-  {
-    "source": "Arthur Lee",
-    "target": "Bryan Maclean",
-    "targetId": "2509"
-  }
-]
+{
+  "source": "Arthur Lee",
+  "targets": [
+    {
+      "name": "Hal Blaine",
+      "targetId": "226"
+    },
+    {
+      "name": "Carol Kaye",
+      "targetId": "521"
+    },
+    {
+      "name": "Billy Strange",
+      "targetId": "1490"
+    },
+    {
+      "name": "Don Randi",
+      "targetId": "1516"
+    },
+    {
+      "name": "Ken Forssi",
+      "targetId": "2506"
+    },
+    {
+      "name": "Michael Stuart",
+      "targetId": "2507"
+    },
+    {
+      "name": "John Echols",
+      "targetId": "2508"
+    },
+    {
+      "name": "Bryan Maclean",
+      "targetId": "2509"
+    }
+  ]
+}

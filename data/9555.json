@@ -1,12 +1,13 @@
-[
-  {
-    "source": "John Ore",
-    "target": "Thelonious Monk",
-    "targetId": "7250"
-  },
-  {
-    "source": "John Ore",
-    "target": "Frankie Dunlop",
-    "targetId": "7933"
-  }
-]
+{
+  "source": "John Ore",
+  "targets": [
+    {
+      "name": "Thelonious Monk",
+      "targetId": "7250"
+    },
+    {
+      "name": "Frankie Dunlop",
+      "targetId": "7933"
+    }
+  ]
+}

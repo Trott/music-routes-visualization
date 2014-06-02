@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Joan Jett",
-    "target": "Peaches",
-    "targetId": "1831"
-  },
-  {
-    "source": "Joan Jett",
-    "target": "David Catching",
-    "targetId": "2086"
-  },
-  {
-    "source": "Joan Jett",
-    "target": "Lita Ford",
-    "targetId": "5289"
-  },
-  {
-    "source": "Joan Jett",
-    "target": "Jackie Fox",
-    "targetId": "5294"
-  },
-  {
-    "source": "Joan Jett",
-    "target": "Sandy West",
-    "targetId": "5295"
-  },
-  {
-    "source": "Joan Jett",
-    "target": "Cherie Currie",
-    "targetId": "5296"
-  },
-  {
-    "source": "Joan Jett",
-    "target": "Samantha Maloney",
-    "targetId": "5392"
-  },
-  {
-    "source": "Joan Jett",
-    "target": "Brian O'Connor",
-    "targetId": "5393"
-  }
-]
+{
+  "source": "Joan Jett",
+  "targets": [
+    {
+      "name": "Peaches",
+      "targetId": "1831"
+    },
+    {
+      "name": "David Catching",
+      "targetId": "2086"
+    },
+    {
+      "name": "Lita Ford",
+      "targetId": "5289"
+    },
+    {
+      "name": "Jackie Fox",
+      "targetId": "5294"
+    },
+    {
+      "name": "Sandy West",
+      "targetId": "5295"
+    },
+    {
+      "name": "Cherie Currie",
+      "targetId": "5296"
+    },
+    {
+      "name": "Samantha Maloney",
+      "targetId": "5392"
+    },
+    {
+      "name": "Brian O'Connor",
+      "targetId": "5393"
+    }
+  ]
+}

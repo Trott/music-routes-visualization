@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Chuck Domanico",
-    "target": "Jim Gordon",
-    "targetId": "522"
-  },
-  {
-    "source": "Chuck Domanico",
-    "target": "David Lindley",
-    "targetId": "641"
-  },
-  {
-    "source": "Chuck Domanico",
-    "target": "Jamie Muhoberac",
-    "targetId": "1070"
-  },
-  {
-    "source": "Chuck Domanico",
-    "target": "Iggy Pop",
-    "targetId": "1832"
-  },
-  {
-    "source": "Chuck Domanico",
-    "target": "Kenny Aronoff",
-    "targetId": "4158"
-  },
-  {
-    "source": "Chuck Domanico",
-    "target": "Dennis Budimir",
-    "targetId": "8786"
-  },
-  {
-    "source": "Chuck Domanico",
-    "target": "Marlena Shaw",
-    "targetId": "10965"
-  },
-  {
-    "source": "Chuck Domanico",
-    "target": "Bill Mays",
-    "targetId": "10969"
-  }
-]
+{
+  "source": "Chuck Domanico",
+  "targets": [
+    {
+      "name": "Jim Gordon",
+      "targetId": "522"
+    },
+    {
+      "name": "David Lindley",
+      "targetId": "641"
+    },
+    {
+      "name": "Jamie Muhoberac",
+      "targetId": "1070"
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "1832"
+    },
+    {
+      "name": "Kenny Aronoff",
+      "targetId": "4158"
+    },
+    {
+      "name": "Dennis Budimir",
+      "targetId": "8786"
+    },
+    {
+      "name": "Marlena Shaw",
+      "targetId": "10965"
+    },
+    {
+      "name": "Bill Mays",
+      "targetId": "10969"
+    }
+  ]
+}

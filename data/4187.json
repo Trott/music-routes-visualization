@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Brad Delp",
-    "target": "Gary Pihl",
-    "targetId": "1739"
-  },
-  {
-    "source": "Brad Delp",
-    "target": "Jim Masdea",
-    "targetId": "4188"
-  },
-  {
-    "source": "Brad Delp",
-    "target": "Tom Scholz",
-    "targetId": "4189"
-  }
-]
+{
+  "source": "Brad Delp",
+  "targets": [
+    {
+      "name": "Gary Pihl",
+      "targetId": "1739"
+    },
+    {
+      "name": "Jim Masdea",
+      "targetId": "4188"
+    },
+    {
+      "name": "Tom Scholz",
+      "targetId": "4189"
+    }
+  ]
+}

@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Rick Pelletier",
-    "target": "Neil Burke",
-    "targetId": "4999"
-  },
-  {
-    "source": "Rick Pelletier",
-    "target": "Sam \"Bland\" McPheeters",
-    "targetId": "5001"
-  },
-  {
-    "source": "Rick Pelletier",
-    "target": "John Dwyer",
-    "targetId": "5309"
-  },
-  {
-    "source": "Rick Pelletier",
-    "target": "Shawn Greenlee",
-    "targetId": "5316"
-  },
-  {
-    "source": "Rick Pelletier",
-    "target": "Joel Kyack",
-    "targetId": "5317"
-  },
-  {
-    "source": "Rick Pelletier",
-    "target": "Dan St. Jacques",
-    "targetId": "5319"
-  },
-  {
-    "source": "Rick Pelletier",
-    "target": "Jeremy Ryan",
-    "targetId": "5320"
-  },
-  {
-    "source": "Rick Pelletier",
-    "target": "John Von Ryan",
-    "targetId": "5321"
-  }
-]
+{
+  "source": "Rick Pelletier",
+  "targets": [
+    {
+      "name": "Neil Burke",
+      "targetId": "4999"
+    },
+    {
+      "name": "Sam \"Bland\" McPheeters",
+      "targetId": "5001"
+    },
+    {
+      "name": "John Dwyer",
+      "targetId": "5309"
+    },
+    {
+      "name": "Shawn Greenlee",
+      "targetId": "5316"
+    },
+    {
+      "name": "Joel Kyack",
+      "targetId": "5317"
+    },
+    {
+      "name": "Dan St. Jacques",
+      "targetId": "5319"
+    },
+    {
+      "name": "Jeremy Ryan",
+      "targetId": "5320"
+    },
+    {
+      "name": "John Von Ryan",
+      "targetId": "5321"
+    }
+  ]
+}

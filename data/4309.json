@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Michael Todd",
-    "target": "Taylor Hawkins",
-    "targetId": "2137"
-  },
-  {
-    "source": "Michael Todd",
-    "target": "Chondra Echert",
-    "targetId": "4306"
-  },
-  {
-    "source": "Michael Todd",
-    "target": "Claudio Sanchez",
-    "targetId": "4307"
-  },
-  {
-    "source": "Michael Todd",
-    "target": "Travis Stever",
-    "targetId": "4308"
-  }
-]
+{
+  "source": "Michael Todd",
+  "targets": [
+    {
+      "name": "Taylor Hawkins",
+      "targetId": "2137"
+    },
+    {
+      "name": "Chondra Echert",
+      "targetId": "4306"
+    },
+    {
+      "name": "Claudio Sanchez",
+      "targetId": "4307"
+    },
+    {
+      "name": "Travis Stever",
+      "targetId": "4308"
+    }
+  ]
+}

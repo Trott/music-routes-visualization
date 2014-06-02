@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tony Martin",
-    "target": "Gerry Beckley",
-    "targetId": "228"
-  },
-  {
-    "source": "Tony Martin",
-    "target": "Billy Hinsche",
-    "targetId": "231"
-  },
-  {
-    "source": "Tony Martin",
-    "target": "Carl Wilson",
-    "targetId": "233"
-  },
-  {
-    "source": "Tony Martin",
-    "target": "Blondie Chaplin",
-    "targetId": "6748"
-  },
-  {
-    "source": "Tony Martin",
-    "target": "Ricky Fataar",
-    "targetId": "10095"
-  }
-]
+{
+  "source": "Tony Martin",
+  "targets": [
+    {
+      "name": "Gerry Beckley",
+      "targetId": "228"
+    },
+    {
+      "name": "Billy Hinsche",
+      "targetId": "231"
+    },
+    {
+      "name": "Carl Wilson",
+      "targetId": "233"
+    },
+    {
+      "name": "Blondie Chaplin",
+      "targetId": "6748"
+    },
+    {
+      "name": "Ricky Fataar",
+      "targetId": "10095"
+    }
+  ]
+}

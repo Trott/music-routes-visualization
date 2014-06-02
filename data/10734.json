@@ -1,62 +1,53 @@
-[
-  {
-    "source": "Dave Richmond",
-    "target": "Elton John",
-    "targetId": "805"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Madeline Bell",
-    "targetId": "810"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Kay Garner",
-    "targetId": "811"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Lesley Duncan",
-    "targetId": "812"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Tony Hazzard",
-    "targetId": "813"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Tony Burrows",
-    "targetId": "814"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Barry Morgan",
-    "targetId": "1094"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Frank Clark",
-    "targetId": "10735"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Colin Green",
-    "targetId": "10736"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Clive Hicks",
-    "targetId": "10737"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Brian Dee",
-    "targetId": "10741"
-  },
-  {
-    "source": "Dave Richmond",
-    "target": "Roger Cook",
-    "targetId": "10742"
-  }
-]
+{
+  "source": "Dave Richmond",
+  "targets": [
+    {
+      "name": "Elton John",
+      "targetId": "805"
+    },
+    {
+      "name": "Madeline Bell",
+      "targetId": "810"
+    },
+    {
+      "name": "Kay Garner",
+      "targetId": "811"
+    },
+    {
+      "name": "Lesley Duncan",
+      "targetId": "812"
+    },
+    {
+      "name": "Tony Hazzard",
+      "targetId": "813"
+    },
+    {
+      "name": "Tony Burrows",
+      "targetId": "814"
+    },
+    {
+      "name": "Barry Morgan",
+      "targetId": "1094"
+    },
+    {
+      "name": "Frank Clark",
+      "targetId": "10735"
+    },
+    {
+      "name": "Colin Green",
+      "targetId": "10736"
+    },
+    {
+      "name": "Clive Hicks",
+      "targetId": "10737"
+    },
+    {
+      "name": "Brian Dee",
+      "targetId": "10741"
+    },
+    {
+      "name": "Roger Cook",
+      "targetId": "10742"
+    }
+  ]
+}

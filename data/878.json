@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Simon Lloyd",
-    "target": "Thomas Dolby",
-    "targetId": "859"
-  },
-  {
-    "source": "Simon Lloyd",
-    "target": "John Marsh",
-    "targetId": "879"
-  }
-]
+{
+  "source": "Simon Lloyd",
+  "targets": [
+    {
+      "name": "Thomas Dolby",
+      "targetId": "859"
+    },
+    {
+      "name": "John Marsh",
+      "targetId": "879"
+    }
+  ]
+}

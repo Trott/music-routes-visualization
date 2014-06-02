@@ -1,52 +1,45 @@
-[
-  {
-    "source": "Bob Mann",
-    "target": "Bill Payne",
-    "targetId": "280"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Waddy Wachtel",
-    "targetId": "386"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Carlos Vega",
-    "targetId": "395"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Michael Fisher",
-    "targetId": "422"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Peter Asher",
-    "targetId": "1014"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Rosemary Butler",
-    "targetId": "1015"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Larry Klein",
-    "targetId": "1017"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Michael Landau",
-    "targetId": "2220"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Cher",
-    "targetId": "3456"
-  },
-  {
-    "source": "Bob Mann",
-    "target": "Arnold McCuller",
-    "targetId": "3481"
-  }
-]
+{
+  "source": "Bob Mann",
+  "targets": [
+    {
+      "name": "Bill Payne",
+      "targetId": "280"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "targetId": "386"
+    },
+    {
+      "name": "Carlos Vega",
+      "targetId": "395"
+    },
+    {
+      "name": "Michael Fisher",
+      "targetId": "422"
+    },
+    {
+      "name": "Peter Asher",
+      "targetId": "1014"
+    },
+    {
+      "name": "Rosemary Butler",
+      "targetId": "1015"
+    },
+    {
+      "name": "Larry Klein",
+      "targetId": "1017"
+    },
+    {
+      "name": "Michael Landau",
+      "targetId": "2220"
+    },
+    {
+      "name": "Cher",
+      "targetId": "3456"
+    },
+    {
+      "name": "Arnold McCuller",
+      "targetId": "3481"
+    }
+  ]
+}

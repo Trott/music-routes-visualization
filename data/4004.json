@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Jon Buckland",
-    "target": "Chris Martin",
-    "targetId": "3986"
-  },
-  {
-    "source": "Jon Buckland",
-    "target": "Guy Berryman",
-    "targetId": "4002"
-  },
-  {
-    "source": "Jon Buckland",
-    "target": "Will Champion",
-    "targetId": "4003"
-  }
-]
+{
+  "source": "Jon Buckland",
+  "targets": [
+    {
+      "name": "Chris Martin",
+      "targetId": "3986"
+    },
+    {
+      "name": "Guy Berryman",
+      "targetId": "4002"
+    },
+    {
+      "name": "Will Champion",
+      "targetId": "4003"
+    }
+  ]
+}

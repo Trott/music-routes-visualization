@@ -1,202 +1,165 @@
-[
-  {
-    "source": "John West",
-    "target": "Ray Charles",
-    "targetId": "50"
-  },
-  {
-    "source": "John West",
-    "target": "Brandon Fields",
-    "targetId": "434"
-  },
-  {
-    "source": "John West",
-    "target": "Gladys Knight",
-    "targetId": "697"
-  },
-  {
-    "source": "John West",
-    "target": "Rosemary Butler",
-    "targetId": "1015"
-  },
-  {
-    "source": "John West",
-    "target": "Gary Grant",
-    "targetId": "1394"
-  },
-  {
-    "source": "John West",
-    "target": "James Gadson",
-    "targetId": "1533"
-  },
-  {
-    "source": "John West",
-    "target": "Billy Preston",
-    "targetId": "1674"
-  },
-  {
-    "source": "John West",
-    "target": "Abraham Laboriel, Sr.",
-    "targetId": "2213"
-  },
-  {
-    "source": "John West",
-    "target": "Dave Boruff",
-    "targetId": "2223"
-  },
-  {
-    "source": "John West",
-    "target": "Bob McChesney",
-    "targetId": "2224"
-  },
-  {
-    "source": "John West",
-    "target": "Wayne Bergeron",
-    "targetId": "2343"
-  },
-  {
-    "source": "John West",
-    "target": "Alethea Mills",
-    "targetId": "2345"
-  },
-  {
-    "source": "John West",
-    "target": "Aminah Ofumbi",
-    "targetId": "2346"
-  },
-  {
-    "source": "John West",
-    "target": "Chavonne Morris",
-    "targetId": "2347"
-  },
-  {
-    "source": "John West",
-    "target": "Clarissa Watkins",
-    "targetId": "2348"
-  },
-  {
-    "source": "John West",
-    "target": "Clydene Jackson",
-    "targetId": "2349"
-  },
-  {
-    "source": "John West",
-    "target": "Darryl Phinnessee",
-    "targetId": "2350"
-  },
-  {
-    "source": "John West",
-    "target": "De'Ante Duckett",
-    "targetId": "2351"
-  },
-  {
-    "source": "John West",
-    "target": "Irene Madison",
-    "targetId": "2352"
-  },
-  {
-    "source": "John West",
-    "target": "James Burney",
-    "targetId": "2353"
-  },
-  {
-    "source": "John West",
-    "target": "Janey Clewer Gaitsch",
-    "targetId": "2354"
-  },
-  {
-    "source": "John West",
-    "target": "James Gilstrap",
-    "targetId": "2355"
-  },
-  {
-    "source": "John West",
-    "target": "Kevin Dorsey",
-    "targetId": "2357"
-  },
-  {
-    "source": "John West",
-    "target": "Loren Turner",
-    "targetId": "2358"
-  },
-  {
-    "source": "John West",
-    "target": "Sheven Morris",
-    "targetId": "2359"
-  },
-  {
-    "source": "John West",
-    "target": "Terry Woods",
-    "targetId": "2360"
-  },
-  {
-    "source": "John West",
-    "target": "Tom Saviano",
-    "targetId": "2361"
-  },
-  {
-    "source": "John West",
-    "target": "Charles Fearing",
-    "targetId": "2362"
-  },
-  {
-    "source": "John West",
-    "target": "Danny Jacob",
-    "targetId": "2363"
-  },
-  {
-    "source": "John West",
-    "target": "Clarence McDonald",
-    "targetId": "2364"
-  },
-  {
-    "source": "John West",
-    "target": "Alex Brown",
-    "targetId": "2423"
-  },
-  {
-    "source": "John West",
-    "target": "Lynn Davis",
-    "targetId": "2438"
-  },
-  {
-    "source": "John West",
-    "target": "Marilyn Manson",
-    "targetId": "2571"
-  },
-  {
-    "source": "John West",
-    "target": "Dave Navarro",
-    "targetId": "2572"
-  },
-  {
-    "source": "John West",
-    "target": "Zim Zum",
-    "targetId": "2573"
-  },
-  {
-    "source": "John West",
-    "target": "Twiggy Ramirez",
-    "targetId": "2574"
-  },
-  {
-    "source": "John West",
-    "target": "Danny Saber",
-    "targetId": "2575"
-  },
-  {
-    "source": "John West",
-    "target": "Ginger Fish",
-    "targetId": "2576"
-  },
-  {
-    "source": "John West",
-    "target": "Madonna Wayne Gacy",
-    "targetId": "2577"
-  },
-  {
-    "source": "John West",
-    "target": "Niki Haris",
-    "targetId": "2578"
-  }
-]
+{
+  "source": "John West",
+  "targets": [
+    {
+      "name": "Ray Charles",
+      "targetId": "50"
+    },
+    {
+      "name": "Brandon Fields",
+      "targetId": "434"
+    },
+    {
+      "name": "Gladys Knight",
+      "targetId": "697"
+    },
+    {
+      "name": "Rosemary Butler",
+      "targetId": "1015"
+    },
+    {
+      "name": "Gary Grant",
+      "targetId": "1394"
+    },
+    {
+      "name": "James Gadson",
+      "targetId": "1533"
+    },
+    {
+      "name": "Billy Preston",
+      "targetId": "1674"
+    },
+    {
+      "name": "Abraham Laboriel, Sr.",
+      "targetId": "2213"
+    },
+    {
+      "name": "Dave Boruff",
+      "targetId": "2223"
+    },
+    {
+      "name": "Bob McChesney",
+      "targetId": "2224"
+    },
+    {
+      "name": "Wayne Bergeron",
+      "targetId": "2343"
+    },
+    {
+      "name": "Alethea Mills",
+      "targetId": "2345"
+    },
+    {
+      "name": "Aminah Ofumbi",
+      "targetId": "2346"
+    },
+    {
+      "name": "Chavonne Morris",
+      "targetId": "2347"
+    },
+    {
+      "name": "Clarissa Watkins",
+      "targetId": "2348"
+    },
+    {
+      "name": "Clydene Jackson",
+      "targetId": "2349"
+    },
+    {
+      "name": "Darryl Phinnessee",
+      "targetId": "2350"
+    },
+    {
+      "name": "De'Ante Duckett",
+      "targetId": "2351"
+    },
+    {
+      "name": "Irene Madison",
+      "targetId": "2352"
+    },
+    {
+      "name": "James Burney",
+      "targetId": "2353"
+    },
+    {
+      "name": "Janey Clewer Gaitsch",
+      "targetId": "2354"
+    },
+    {
+      "name": "James Gilstrap",
+      "targetId": "2355"
+    },
+    {
+      "name": "Kevin Dorsey",
+      "targetId": "2357"
+    },
+    {
+      "name": "Loren Turner",
+      "targetId": "2358"
+    },
+    {
+      "name": "Sheven Morris",
+      "targetId": "2359"
+    },
+    {
+      "name": "Terry Woods",
+      "targetId": "2360"
+    },
+    {
+      "name": "Tom Saviano",
+      "targetId": "2361"
+    },
+    {
+      "name": "Charles Fearing",
+      "targetId": "2362"
+    },
+    {
+      "name": "Danny Jacob",
+      "targetId": "2363"
+    },
+    {
+      "name": "Clarence McDonald",
+      "targetId": "2364"
+    },
+    {
+      "name": "Alex Brown",
+      "targetId": "2423"
+    },
+    {
+      "name": "Lynn Davis",
+      "targetId": "2438"
+    },
+    {
+      "name": "Marilyn Manson",
+      "targetId": "2571"
+    },
+    {
+      "name": "Dave Navarro",
+      "targetId": "2572"
+    },
+    {
+      "name": "Zim Zum",
+      "targetId": "2573"
+    },
+    {
+      "name": "Twiggy Ramirez",
+      "targetId": "2574"
+    },
+    {
+      "name": "Danny Saber",
+      "targetId": "2575"
+    },
+    {
+      "name": "Ginger Fish",
+      "targetId": "2576"
+    },
+    {
+      "name": "Madonna Wayne Gacy",
+      "targetId": "2577"
+    },
+    {
+      "name": "Niki Haris",
+      "targetId": "2578"
+    }
+  ]
+}

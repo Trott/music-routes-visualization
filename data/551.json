@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Paul Kimble",
-    "target": "Andrew Mackay",
-    "targetId": "492"
-  },
-  {
-    "source": "Paul Kimble",
-    "target": "Thom Yorke",
-    "targetId": "545"
-  },
-  {
-    "source": "Paul Kimble",
-    "target": "Jonny Greenwood",
-    "targetId": "548"
-  },
-  {
-    "source": "Paul Kimble",
-    "target": "Bernard Butler",
-    "targetId": "550"
-  }
-]
+{
+  "source": "Paul Kimble",
+  "targets": [
+    {
+      "name": "Andrew Mackay",
+      "targetId": "492"
+    },
+    {
+      "name": "Thom Yorke",
+      "targetId": "545"
+    },
+    {
+      "name": "Jonny Greenwood",
+      "targetId": "548"
+    },
+    {
+      "name": "Bernard Butler",
+      "targetId": "550"
+    }
+  ]
+}

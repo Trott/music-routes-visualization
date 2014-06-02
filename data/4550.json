@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Xzibit",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Xzibit",
-    "target": "Dr. Dre",
-    "targetId": "2799"
-  },
-  {
-    "source": "Xzibit",
-    "target": "Eminem",
-    "targetId": "4549"
-  },
-  {
-    "source": "Xzibit",
-    "target": "Nate Dogg",
-    "targetId": "4551"
-  }
-]
+{
+  "source": "Xzibit",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "Dr. Dre",
+      "targetId": "2799"
+    },
+    {
+      "name": "Eminem",
+      "targetId": "4549"
+    },
+    {
+      "name": "Nate Dogg",
+      "targetId": "4551"
+    }
+  ]
+}

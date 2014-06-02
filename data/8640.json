@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Nick Judd",
-    "target": "Brian Eno",
-    "targetId": "201"
-  },
-  {
-    "source": "Nick Judd",
-    "target": "Paul Thompson",
-    "targetId": "491"
-  },
-  {
-    "source": "Nick Judd",
-    "target": "Phil Manzanera",
-    "targetId": "493"
-  },
-  {
-    "source": "Nick Judd",
-    "target": "Marty Simon",
-    "targetId": "567"
-  },
-  {
-    "source": "Nick Judd",
-    "target": "Busta Jones",
-    "targetId": "8638"
-  }
-]
+{
+  "source": "Nick Judd",
+  "targets": [
+    {
+      "name": "Brian Eno",
+      "targetId": "201"
+    },
+    {
+      "name": "Paul Thompson",
+      "targetId": "491"
+    },
+    {
+      "name": "Phil Manzanera",
+      "targetId": "493"
+    },
+    {
+      "name": "Marty Simon",
+      "targetId": "567"
+    },
+    {
+      "name": "Busta Jones",
+      "targetId": "8638"
+    }
+  ]
+}

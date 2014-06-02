@@ -1,52 +1,45 @@
-[
-  {
-    "source": "John Koven",
-    "target": "Paul Chambers",
-    "targetId": "1046"
-  },
-  {
-    "source": "John Koven",
-    "target": "Steve Lacy",
-    "targetId": "4592"
-  },
-  {
-    "source": "John Koven",
-    "target": "Jimmy Cleveland",
-    "targetId": "7928"
-  },
-  {
-    "source": "John Koven",
-    "target": "Jo Jones",
-    "targetId": "8092"
-  },
-  {
-    "source": "John Koven",
-    "target": "Gil Evans",
-    "targetId": "8093"
-  },
-  {
-    "source": "John Koven",
-    "target": "John Carisi",
-    "targetId": "8094"
-  },
-  {
-    "source": "John Koven",
-    "target": "Bart Varsalona",
-    "targetId": "8096"
-  },
-  {
-    "source": "John Koven",
-    "target": "Willie Ruff",
-    "targetId": "8097"
-  },
-  {
-    "source": "John Koven",
-    "target": "Lee Konitz",
-    "targetId": "8098"
-  },
-  {
-    "source": "John Koven",
-    "target": "Dave Kurtzer",
-    "targetId": "8099"
-  }
-]
+{
+  "source": "John Koven",
+  "targets": [
+    {
+      "name": "Paul Chambers",
+      "targetId": "1046"
+    },
+    {
+      "name": "Steve Lacy",
+      "targetId": "4592"
+    },
+    {
+      "name": "Jimmy Cleveland",
+      "targetId": "7928"
+    },
+    {
+      "name": "Jo Jones",
+      "targetId": "8092"
+    },
+    {
+      "name": "Gil Evans",
+      "targetId": "8093"
+    },
+    {
+      "name": "John Carisi",
+      "targetId": "8094"
+    },
+    {
+      "name": "Bart Varsalona",
+      "targetId": "8096"
+    },
+    {
+      "name": "Willie Ruff",
+      "targetId": "8097"
+    },
+    {
+      "name": "Lee Konitz",
+      "targetId": "8098"
+    },
+    {
+      "name": "Dave Kurtzer",
+      "targetId": "8099"
+    }
+  ]
+}

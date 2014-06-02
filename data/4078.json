@@ -1,157 +1,129 @@
-[
-  {
-    "source": "Luis Conte",
-    "target": "Tom Petty",
-    "targetId": "223"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Jim Keltner",
-    "targetId": "288"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Don Henley",
-    "targetId": "380"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Timothy B. Schmit",
-    "targetId": "391"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Emmylou Harris",
-    "targetId": "450"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Mike Campbell",
-    "targetId": "646"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Jorge Calderón",
-    "targetId": "663"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Carlos Santana",
-    "targetId": "1081"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Siedah Garrett",
-    "targetId": "2081"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Niki Haris",
-    "targetId": "2578"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Raul Rekow",
-    "targetId": "2866"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Karl Perazzo",
-    "targetId": "2870"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Melvin \"Wah Wah\" Watson",
-    "targetId": "3402"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Reggie Hamilton",
-    "targetId": "4079"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "James Raymond",
-    "targetId": "4080"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Gil Bernal",
-    "targetId": "4081"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Meshell Ndegeocello",
-    "targetId": "6729"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Frederico González Peña",
-    "targetId": "6732"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Brian Collier",
-    "targetId": "7986"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Rusty Anderson",
-    "targetId": "7987"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Michelle Branch",
-    "targetId": "7988"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Chester Thompson",
-    "targetId": "7989"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Marty Wehner",
-    "targetId": "7990"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Julius Melendez",
-    "targetId": "7991"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Jeff Cressman",
-    "targetId": "7992"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Bill Ortiz",
-    "targetId": "7993"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Andy Vargas",
-    "targetId": "7994"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Tony Lindsay",
-    "targetId": "7995"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Rick Nowels",
-    "targetId": "7996"
-  },
-  {
-    "source": "Luis Conte",
-    "target": "Benny Rietveld",
-    "targetId": "7997"
-  }
-]
+{
+  "source": "Luis Conte",
+  "targets": [
+    {
+      "name": "Tom Petty",
+      "targetId": "223"
+    },
+    {
+      "name": "Jim Keltner",
+      "targetId": "288"
+    },
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Don Henley",
+      "targetId": "380"
+    },
+    {
+      "name": "Timothy B. Schmit",
+      "targetId": "391"
+    },
+    {
+      "name": "Emmylou Harris",
+      "targetId": "450"
+    },
+    {
+      "name": "Mike Campbell",
+      "targetId": "646"
+    },
+    {
+      "name": "Jorge Calderón",
+      "targetId": "663"
+    },
+    {
+      "name": "Carlos Santana",
+      "targetId": "1081"
+    },
+    {
+      "name": "Siedah Garrett",
+      "targetId": "2081"
+    },
+    {
+      "name": "Niki Haris",
+      "targetId": "2578"
+    },
+    {
+      "name": "Raul Rekow",
+      "targetId": "2866"
+    },
+    {
+      "name": "Karl Perazzo",
+      "targetId": "2870"
+    },
+    {
+      "name": "Melvin \"Wah Wah\" Watson",
+      "targetId": "3402"
+    },
+    {
+      "name": "Reggie Hamilton",
+      "targetId": "4079"
+    },
+    {
+      "name": "James Raymond",
+      "targetId": "4080"
+    },
+    {
+      "name": "Gil Bernal",
+      "targetId": "4081"
+    },
+    {
+      "name": "Meshell Ndegeocello",
+      "targetId": "6729"
+    },
+    {
+      "name": "Frederico González Peña",
+      "targetId": "6732"
+    },
+    {
+      "name": "Brian Collier",
+      "targetId": "7986"
+    },
+    {
+      "name": "Rusty Anderson",
+      "targetId": "7987"
+    },
+    {
+      "name": "Michelle Branch",
+      "targetId": "7988"
+    },
+    {
+      "name": "Chester Thompson",
+      "targetId": "7989"
+    },
+    {
+      "name": "Marty Wehner",
+      "targetId": "7990"
+    },
+    {
+      "name": "Julius Melendez",
+      "targetId": "7991"
+    },
+    {
+      "name": "Jeff Cressman",
+      "targetId": "7992"
+    },
+    {
+      "name": "Bill Ortiz",
+      "targetId": "7993"
+    },
+    {
+      "name": "Andy Vargas",
+      "targetId": "7994"
+    },
+    {
+      "name": "Tony Lindsay",
+      "targetId": "7995"
+    },
+    {
+      "name": "Rick Nowels",
+      "targetId": "7996"
+    },
+    {
+      "name": "Benny Rietveld",
+      "targetId": "7997"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Nick Menza",
-    "target": "Dave Mustaine",
-    "targetId": "1362"
-  },
-  {
-    "source": "Nick Menza",
-    "target": "David Ellefson",
-    "targetId": "1365"
-  },
-  {
-    "source": "Nick Menza",
-    "target": "Marty Friedman",
-    "targetId": "1366"
-  }
-]
+{
+  "source": "Nick Menza",
+  "targets": [
+    {
+      "name": "Dave Mustaine",
+      "targetId": "1362"
+    },
+    {
+      "name": "David Ellefson",
+      "targetId": "1365"
+    },
+    {
+      "name": "Marty Friedman",
+      "targetId": "1366"
+    }
+  ]
+}

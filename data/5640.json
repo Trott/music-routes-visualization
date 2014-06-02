@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Arthur Johnson",
-    "target": "Thalia Zedek",
-    "targetId": "5632"
-  },
-  {
-    "source": "Arthur Johnson",
-    "target": "Sean O'Brien",
-    "targetId": "5639"
-  },
-  {
-    "source": "Arthur Johnson",
-    "target": "Chris Brokaw",
-    "targetId": "5641"
-  },
-  {
-    "source": "Arthur Johnson",
-    "target": "Carl Plaster",
-    "targetId": "5642"
-  }
-]
+{
+  "source": "Arthur Johnson",
+  "targets": [
+    {
+      "name": "Thalia Zedek",
+      "targetId": "5632"
+    },
+    {
+      "name": "Sean O'Brien",
+      "targetId": "5639"
+    },
+    {
+      "name": "Chris Brokaw",
+      "targetId": "5641"
+    },
+    {
+      "name": "Carl Plaster",
+      "targetId": "5642"
+    }
+  ]
+}

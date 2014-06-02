@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Roger Lewis",
-    "target": "Lester Adderley",
-    "targetId": "7706"
-  },
-  {
-    "source": "Roger Lewis",
-    "target": "Touter Harvey",
-    "targetId": "7707"
-  },
-  {
-    "source": "Roger Lewis",
-    "target": "Carlton Coffie",
-    "targetId": "7708"
-  },
-  {
-    "source": "Roger Lewis",
-    "target": "Ian Lewis",
-    "targetId": "7709"
-  },
-  {
-    "source": "Roger Lewis",
-    "target": "Lancelot Hall",
-    "targetId": "7711"
-  }
-]
+{
+  "source": "Roger Lewis",
+  "targets": [
+    {
+      "name": "Lester Adderley",
+      "targetId": "7706"
+    },
+    {
+      "name": "Touter Harvey",
+      "targetId": "7707"
+    },
+    {
+      "name": "Carlton Coffie",
+      "targetId": "7708"
+    },
+    {
+      "name": "Ian Lewis",
+      "targetId": "7709"
+    },
+    {
+      "name": "Lancelot Hall",
+      "targetId": "7711"
+    }
+  ]
+}

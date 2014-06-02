@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Patrick Mahoney",
-    "target": "Tyler Pope",
-    "targetId": "2607"
-  },
-  {
-    "source": "Patrick Mahoney",
-    "target": "James Murphy",
-    "targetId": "2608"
-  },
-  {
-    "source": "Patrick Mahoney",
-    "target": "Phil Mossman",
-    "targetId": "2610"
-  },
-  {
-    "source": "Patrick Mahoney",
-    "target": "Nancy Whang",
-    "targetId": "2611"
-  }
-]
+{
+  "source": "Patrick Mahoney",
+  "targets": [
+    {
+      "name": "Tyler Pope",
+      "targetId": "2607"
+    },
+    {
+      "name": "James Murphy",
+      "targetId": "2608"
+    },
+    {
+      "name": "Phil Mossman",
+      "targetId": "2610"
+    },
+    {
+      "name": "Nancy Whang",
+      "targetId": "2611"
+    }
+  ]
+}

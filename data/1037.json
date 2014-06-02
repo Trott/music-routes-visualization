@@ -1,27 +1,25 @@
-[
-  {
-    "source": "David Letterman",
-    "target": "Tony Levin",
-    "targetId": "269"
-  },
-  {
-    "source": "David Letterman",
-    "target": "Warren Zevon",
-    "targetId": "346"
-  },
-  {
-    "source": "David Letterman",
-    "target": "Anton Fig",
-    "targetId": "1036"
-  },
-  {
-    "source": "David Letterman",
-    "target": "Paul Shaffer",
-    "targetId": "1038"
-  },
-  {
-    "source": "David Letterman",
-    "target": "Sid McGinnis",
-    "targetId": "8309"
-  }
-]
+{
+  "source": "David Letterman",
+  "targets": [
+    {
+      "name": "Tony Levin",
+      "targetId": "269"
+    },
+    {
+      "name": "Warren Zevon",
+      "targetId": "346"
+    },
+    {
+      "name": "Anton Fig",
+      "targetId": "1036"
+    },
+    {
+      "name": "Paul Shaffer",
+      "targetId": "1038"
+    },
+    {
+      "name": "Sid McGinnis",
+      "targetId": "8309"
+    }
+  ]
+}

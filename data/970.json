@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Ace Frehley",
-    "target": "Peter Criss",
-    "targetId": "967"
-  },
-  {
-    "source": "Ace Frehley",
-    "target": "Gene Simmons",
-    "targetId": "968"
-  },
-  {
-    "source": "Ace Frehley",
-    "target": "Paul Stanley",
-    "targetId": "969"
-  },
-  {
-    "source": "Ace Frehley",
-    "target": "Josh Ezrin",
-    "targetId": "10170"
-  },
-  {
-    "source": "Ace Frehley",
-    "target": "David Ezrin",
-    "targetId": "10171"
-  },
-  {
-    "source": "Ace Frehley",
-    "target": "Bob Ezrin",
-    "targetId": "10254"
-  }
-]
+{
+  "source": "Ace Frehley",
+  "targets": [
+    {
+      "name": "Peter Criss",
+      "targetId": "967"
+    },
+    {
+      "name": "Gene Simmons",
+      "targetId": "968"
+    },
+    {
+      "name": "Paul Stanley",
+      "targetId": "969"
+    },
+    {
+      "name": "Josh Ezrin",
+      "targetId": "10170"
+    },
+    {
+      "name": "David Ezrin",
+      "targetId": "10171"
+    },
+    {
+      "name": "Bob Ezrin",
+      "targetId": "10254"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Eric Gaffney",
-    "target": "Lou Barlow",
-    "targetId": "2535"
-  },
-  {
-    "source": "Eric Gaffney",
-    "target": "Jason Lowenstein",
-    "targetId": "6901"
-  },
-  {
-    "source": "Eric Gaffney",
-    "target": "Sean Slade",
-    "targetId": "6902"
-  }
-]
+{
+  "source": "Eric Gaffney",
+  "targets": [
+    {
+      "name": "Lou Barlow",
+      "targetId": "2535"
+    },
+    {
+      "name": "Jason Lowenstein",
+      "targetId": "6901"
+    },
+    {
+      "name": "Sean Slade",
+      "targetId": "6902"
+    }
+  ]
+}

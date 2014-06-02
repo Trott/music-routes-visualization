@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Kate Schellenbach",
-    "target": "Amy Ray",
-    "targetId": "2579"
-  },
-  {
-    "source": "Kate Schellenbach",
-    "target": "Emily Saliers",
-    "targetId": "2580"
-  },
-  {
-    "source": "Kate Schellenbach",
-    "target": "Joan Osborne",
-    "targetId": "3438"
-  },
-  {
-    "source": "Kate Schellenbach",
-    "target": "Meshell Ndegeocello",
-    "targetId": "6729"
-  },
-  {
-    "source": "Kate Schellenbach",
-    "target": "Caroline Dale",
-    "targetId": "6741"
-  },
-  {
-    "source": "Kate Schellenbach",
-    "target": "John Reynolds",
-    "targetId": "6743"
-  }
-]
+{
+  "source": "Kate Schellenbach",
+  "targets": [
+    {
+      "name": "Amy Ray",
+      "targetId": "2579"
+    },
+    {
+      "name": "Emily Saliers",
+      "targetId": "2580"
+    },
+    {
+      "name": "Joan Osborne",
+      "targetId": "3438"
+    },
+    {
+      "name": "Meshell Ndegeocello",
+      "targetId": "6729"
+    },
+    {
+      "name": "Caroline Dale",
+      "targetId": "6741"
+    },
+    {
+      "name": "John Reynolds",
+      "targetId": "6743"
+    }
+  ]
+}

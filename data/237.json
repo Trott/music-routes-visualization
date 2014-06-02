@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Crispin Glover",
-    "target": "Bill Mumy",
-    "targetId": "235"
-  },
-  {
-    "source": "Crispin Glover",
-    "target": "Robert Haimer",
-    "targetId": "236"
-  }
-]
+{
+  "source": "Crispin Glover",
+  "targets": [
+    {
+      "name": "Bill Mumy",
+      "targetId": "235"
+    },
+    {
+      "name": "Robert Haimer",
+      "targetId": "236"
+    }
+  ]
+}

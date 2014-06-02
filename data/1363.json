@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Lloyd Grant",
-    "target": "Lars Ulrich",
-    "targetId": "1358"
-  },
-  {
-    "source": "Lloyd Grant",
-    "target": "James Hetfield",
-    "targetId": "1359"
-  },
-  {
-    "source": "Lloyd Grant",
-    "target": "Dave Mustaine",
-    "targetId": "1362"
-  },
-  {
-    "source": "Lloyd Grant",
-    "target": "Ron McGovney",
-    "targetId": "1364"
-  }
-]
+{
+  "source": "Lloyd Grant",
+  "targets": [
+    {
+      "name": "Lars Ulrich",
+      "targetId": "1358"
+    },
+    {
+      "name": "James Hetfield",
+      "targetId": "1359"
+    },
+    {
+      "name": "Dave Mustaine",
+      "targetId": "1362"
+    },
+    {
+      "name": "Ron McGovney",
+      "targetId": "1364"
+    }
+  ]
+}

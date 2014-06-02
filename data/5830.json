@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Cool",
-    "target": "Nas",
-    "targetId": "2184"
-  },
-  {
-    "source": "Cool",
-    "target": "The Game",
-    "targetId": "3858"
-  },
-  {
-    "source": "Cool",
-    "target": "Chris Brown",
-    "targetId": "5826"
-  },
-  {
-    "source": "Cool",
-    "target": "Thomas Hatcher",
-    "targetId": "5827"
-  },
-  {
-    "source": "Cool",
-    "target": "Kevin Mayer",
-    "targetId": "5828"
-  },
-  {
-    "source": "Cool",
-    "target": "Eddie Montilla",
-    "targetId": "5829"
-  },
-  {
-    "source": "Cool",
-    "target": "Dre",
-    "targetId": "5831"
-  }
-]
+{
+  "source": "Cool",
+  "targets": [
+    {
+      "name": "Nas",
+      "targetId": "2184"
+    },
+    {
+      "name": "The Game",
+      "targetId": "3858"
+    },
+    {
+      "name": "Chris Brown",
+      "targetId": "5826"
+    },
+    {
+      "name": "Thomas Hatcher",
+      "targetId": "5827"
+    },
+    {
+      "name": "Kevin Mayer",
+      "targetId": "5828"
+    },
+    {
+      "name": "Eddie Montilla",
+      "targetId": "5829"
+    },
+    {
+      "name": "Dre",
+      "targetId": "5831"
+    }
+  ]
+}

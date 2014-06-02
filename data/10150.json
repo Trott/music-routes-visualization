@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Sadik Hakim",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Sadik Hakim",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Sadik Hakim",
-    "target": "Curly Russell",
-    "targetId": "2945"
-  },
-  {
-    "source": "Sadik Hakim",
-    "target": "Max Roach",
-    "targetId": "2950"
-  }
-]
+{
+  "source": "Sadik Hakim",
+  "targets": [
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Curly Russell",
+      "targetId": "2945"
+    },
+    {
+      "name": "Max Roach",
+      "targetId": "2950"
+    }
+  ]
+}

@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Tom Clancy",
-    "target": "Liam Clancy",
-    "targetId": "8154"
-  },
-  {
-    "source": "Tom Clancy",
-    "target": "Bobby Clancy",
-    "targetId": "8160"
-  },
-  {
-    "source": "Tom Clancy",
-    "target": "Paddy Clancy",
-    "targetId": "8161"
-  },
-  {
-    "source": "Tom Clancy",
-    "target": "Finbar Furey",
-    "targetId": "8178"
-  },
-  {
-    "source": "Tom Clancy",
-    "target": "Eddie Furey",
-    "targetId": "8179"
-  }
-]
+{
+  "source": "Tom Clancy",
+  "targets": [
+    {
+      "name": "Liam Clancy",
+      "targetId": "8154"
+    },
+    {
+      "name": "Bobby Clancy",
+      "targetId": "8160"
+    },
+    {
+      "name": "Paddy Clancy",
+      "targetId": "8161"
+    },
+    {
+      "name": "Finbar Furey",
+      "targetId": "8178"
+    },
+    {
+      "name": "Eddie Furey",
+      "targetId": "8179"
+    }
+  ]
+}

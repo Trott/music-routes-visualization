@@ -1,22 +1,21 @@
-[
-  {
-    "source": "Rick Laird",
-    "target": "John McLaughlin",
-    "targetId": "1633"
-  },
-  {
-    "source": "Rick Laird",
-    "target": "Jerry Goodman",
-    "targetId": "4197"
-  },
-  {
-    "source": "Rick Laird",
-    "target": "Jan Hammer",
-    "targetId": "4559"
-  },
-  {
-    "source": "Rick Laird",
-    "target": "Billy Cobham",
-    "targetId": "4609"
-  }
-]
+{
+  "source": "Rick Laird",
+  "targets": [
+    {
+      "name": "John McLaughlin",
+      "targetId": "1633"
+    },
+    {
+      "name": "Jerry Goodman",
+      "targetId": "4197"
+    },
+    {
+      "name": "Jan Hammer",
+      "targetId": "4559"
+    },
+    {
+      "name": "Billy Cobham",
+      "targetId": "4609"
+    }
+  ]
+}

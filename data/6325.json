@@ -1,32 +1,29 @@
-[
-  {
-    "source": "Bobby Gregg",
-    "target": "Bob Dylan",
-    "targetId": "35"
-  },
-  {
-    "source": "Bobby Gregg",
-    "target": "Al Kooper",
-    "targetId": "559"
-  },
-  {
-    "source": "Bobby Gregg",
-    "target": "Paul Griffin",
-    "targetId": "723"
-  },
-  {
-    "source": "Bobby Gregg",
-    "target": "Harvey Brooks",
-    "targetId": "1635"
-  },
-  {
-    "source": "Bobby Gregg",
-    "target": "Frank Owens",
-    "targetId": "3888"
-  },
-  {
-    "source": "Bobby Gregg",
-    "target": "Mike Bloomfield",
-    "targetId": "6326"
-  }
-]
+{
+  "source": "Bobby Gregg",
+  "targets": [
+    {
+      "name": "Bob Dylan",
+      "targetId": "35"
+    },
+    {
+      "name": "Al Kooper",
+      "targetId": "559"
+    },
+    {
+      "name": "Paul Griffin",
+      "targetId": "723"
+    },
+    {
+      "name": "Harvey Brooks",
+      "targetId": "1635"
+    },
+    {
+      "name": "Frank Owens",
+      "targetId": "3888"
+    },
+    {
+      "name": "Mike Bloomfield",
+      "targetId": "6326"
+    }
+  ]
+}

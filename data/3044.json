@@ -1,37 +1,33 @@
-[
-  {
-    "source": "Bob Mothersbaugh",
-    "target": "David Kendrick",
-    "targetId": "3040"
-  },
-  {
-    "source": "Bob Mothersbaugh",
-    "target": "Mark Mothersbaugh",
-    "targetId": "3045"
-  },
-  {
-    "source": "Bob Mothersbaugh",
-    "target": "Gerald V. Casale",
-    "targetId": "3046"
-  },
-  {
-    "source": "Bob Mothersbaugh",
-    "target": "Robert Casale",
-    "targetId": "3047"
-  },
-  {
-    "source": "Bob Mothersbaugh",
-    "target": "Steve Lindsey",
-    "targetId": "3048"
-  },
-  {
-    "source": "Bob Mothersbaugh",
-    "target": "Greta Greta",
-    "targetId": "3049"
-  },
-  {
-    "source": "Bob Mothersbaugh",
-    "target": "Nan Vernon",
-    "targetId": "3050"
-  }
-]
+{
+  "source": "Bob Mothersbaugh",
+  "targets": [
+    {
+      "name": "David Kendrick",
+      "targetId": "3040"
+    },
+    {
+      "name": "Mark Mothersbaugh",
+      "targetId": "3045"
+    },
+    {
+      "name": "Gerald V. Casale",
+      "targetId": "3046"
+    },
+    {
+      "name": "Robert Casale",
+      "targetId": "3047"
+    },
+    {
+      "name": "Steve Lindsey",
+      "targetId": "3048"
+    },
+    {
+      "name": "Greta Greta",
+      "targetId": "3049"
+    },
+    {
+      "name": "Nan Vernon",
+      "targetId": "3050"
+    }
+  ]
+}

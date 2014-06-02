@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Tanya Devine",
-    "target": "Snoop Dogg",
-    "targetId": "1110"
-  },
-  {
-    "source": "Tanya Devine",
-    "target": "Ricky Harris",
-    "targetId": "1120"
-  }
-]
+{
+  "source": "Tanya Devine",
+  "targets": [
+    {
+      "name": "Snoop Dogg",
+      "targetId": "1110"
+    },
+    {
+      "name": "Ricky Harris",
+      "targetId": "1120"
+    }
+  ]
+}

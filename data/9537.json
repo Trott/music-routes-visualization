@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Paul Collins",
-    "target": "Peter Case",
-    "targetId": "6288"
-  },
-  {
-    "source": "Paul Collins",
-    "target": "Jack Lee",
-    "targetId": "9536"
-  }
-]
+{
+  "source": "Paul Collins",
+  "targets": [
+    {
+      "name": "Peter Case",
+      "targetId": "6288"
+    },
+    {
+      "name": "Jack Lee",
+      "targetId": "9536"
+    }
+  ]
+}

@@ -1,202 +1,165 @@
-[
-  {
-    "source": "Shelly Manne",
-    "target": "Milt Holland",
-    "targetId": "388"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Miles Davis",
-    "targetId": "1044"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Bob Bain",
-    "targetId": "1908"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Dizzy Gillespie",
-    "targetId": "1928"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Charlie Parker",
-    "targetId": "1934"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Vincent DeRosa",
-    "targetId": "3418"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Eddie Safranski",
-    "targetId": "6035"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Buddy DeFranco",
-    "targetId": "6036"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Billy Bauer",
-    "targetId": "6038"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Lennie Tristano",
-    "targetId": "6039"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Ernie Caceres",
-    "targetId": "6040"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Charlie Ventura",
-    "targetId": "6041"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "J.J. Johnson",
-    "targetId": "6042"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Kai Winding",
-    "targetId": "6043"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Fats Navarro",
-    "targetId": "6044"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Jimmy Rowles",
-    "targetId": "7157"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Larry Bunker",
-    "targetId": "7161"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Art Pepper",
-    "targetId": "8669"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Bud Shank",
-    "targetId": "8670"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Milt Bernhart",
-    "targetId": "8885"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Dick Nash",
-    "targetId": "8888"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Ronny Lang",
-    "targetId": "8889"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Stan Kenton",
-    "targetId": "9020"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Shorty Rogers",
-    "targetId": "9030"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Maynard Ferguson",
-    "targetId": "9031"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Jim Salko",
-    "targetId": "9032"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Chico Álvarez",
-    "targetId": "9033"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Buddy Childers",
-    "targetId": "9034"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "John Halliburton",
-    "targetId": "9035"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Herb Harper",
-    "targetId": "9036"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Harry Betts",
-    "targetId": "9037"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Don Bagley",
-    "targetId": "9038"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Laurindo Almeida",
-    "targetId": "9039"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Bob Gioga",
-    "targetId": "9040"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Bob Cooper",
-    "targetId": "9041"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Bart Caldarelli",
-    "targetId": "9042"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Bob Fitzpatrick",
-    "targetId": "9043"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Erno Neufeld",
-    "targetId": "10919"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Bobby Hammack",
-    "targetId": "10920"
-  },
-  {
-    "source": "Shelly Manne",
-    "target": "Frank Flynn",
-    "targetId": "10921"
-  }
-]
+{
+  "source": "Shelly Manne",
+  "targets": [
+    {
+      "name": "Milt Holland",
+      "targetId": "388"
+    },
+    {
+      "name": "Miles Davis",
+      "targetId": "1044"
+    },
+    {
+      "name": "Bob Bain",
+      "targetId": "1908"
+    },
+    {
+      "name": "Dizzy Gillespie",
+      "targetId": "1928"
+    },
+    {
+      "name": "Charlie Parker",
+      "targetId": "1934"
+    },
+    {
+      "name": "Vincent DeRosa",
+      "targetId": "3418"
+    },
+    {
+      "name": "Eddie Safranski",
+      "targetId": "6035"
+    },
+    {
+      "name": "Buddy DeFranco",
+      "targetId": "6036"
+    },
+    {
+      "name": "Billy Bauer",
+      "targetId": "6038"
+    },
+    {
+      "name": "Lennie Tristano",
+      "targetId": "6039"
+    },
+    {
+      "name": "Ernie Caceres",
+      "targetId": "6040"
+    },
+    {
+      "name": "Charlie Ventura",
+      "targetId": "6041"
+    },
+    {
+      "name": "J.J. Johnson",
+      "targetId": "6042"
+    },
+    {
+      "name": "Kai Winding",
+      "targetId": "6043"
+    },
+    {
+      "name": "Fats Navarro",
+      "targetId": "6044"
+    },
+    {
+      "name": "Jimmy Rowles",
+      "targetId": "7157"
+    },
+    {
+      "name": "Larry Bunker",
+      "targetId": "7161"
+    },
+    {
+      "name": "Art Pepper",
+      "targetId": "8669"
+    },
+    {
+      "name": "Bud Shank",
+      "targetId": "8670"
+    },
+    {
+      "name": "Milt Bernhart",
+      "targetId": "8885"
+    },
+    {
+      "name": "Dick Nash",
+      "targetId": "8888"
+    },
+    {
+      "name": "Ronny Lang",
+      "targetId": "8889"
+    },
+    {
+      "name": "Stan Kenton",
+      "targetId": "9020"
+    },
+    {
+      "name": "Shorty Rogers",
+      "targetId": "9030"
+    },
+    {
+      "name": "Maynard Ferguson",
+      "targetId": "9031"
+    },
+    {
+      "name": "Jim Salko",
+      "targetId": "9032"
+    },
+    {
+      "name": "Chico Álvarez",
+      "targetId": "9033"
+    },
+    {
+      "name": "Buddy Childers",
+      "targetId": "9034"
+    },
+    {
+      "name": "John Halliburton",
+      "targetId": "9035"
+    },
+    {
+      "name": "Herb Harper",
+      "targetId": "9036"
+    },
+    {
+      "name": "Harry Betts",
+      "targetId": "9037"
+    },
+    {
+      "name": "Don Bagley",
+      "targetId": "9038"
+    },
+    {
+      "name": "Laurindo Almeida",
+      "targetId": "9039"
+    },
+    {
+      "name": "Bob Gioga",
+      "targetId": "9040"
+    },
+    {
+      "name": "Bob Cooper",
+      "targetId": "9041"
+    },
+    {
+      "name": "Bart Caldarelli",
+      "targetId": "9042"
+    },
+    {
+      "name": "Bob Fitzpatrick",
+      "targetId": "9043"
+    },
+    {
+      "name": "Erno Neufeld",
+      "targetId": "10919"
+    },
+    {
+      "name": "Bobby Hammack",
+      "targetId": "10920"
+    },
+    {
+      "name": "Frank Flynn",
+      "targetId": "10921"
+    }
+  ]
+}

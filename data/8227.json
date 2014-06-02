@@ -1,17 +1,17 @@
-[
-  {
-    "source": "John Lurie",
-    "target": "Tom Waits",
-    "targetId": "1713"
-  },
-  {
-    "source": "John Lurie",
-    "target": "Larry Taylor",
-    "targetId": "2567"
-  },
-  {
-    "source": "John Lurie",
-    "target": "Stephen Taylor Arvizu Hodges",
-    "targetId": "8222"
-  }
-]
+{
+  "source": "John Lurie",
+  "targets": [
+    {
+      "name": "Tom Waits",
+      "targetId": "1713"
+    },
+    {
+      "name": "Larry Taylor",
+      "targetId": "2567"
+    },
+    {
+      "name": "Stephen Taylor Arvizu Hodges",
+      "targetId": "8222"
+    }
+  ]
+}

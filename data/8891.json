@@ -1,162 +1,133 @@
-[
-  {
-    "source": "Al Hendrickson",
-    "target": "Red Callender",
-    "targetId": "382"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Victor Feldman",
-    "targetId": "396"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Bob Bain",
-    "targetId": "1908"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Bill Douglass",
-    "targetId": "1941"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Vincent DeRosa",
-    "targetId": "3418"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Pete Pumiglio",
-    "targetId": "7949"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Rolly Bundock",
-    "targetId": "8878"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Jack Sperling",
-    "targetId": "8879"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Richard Perissi",
-    "targetId": "8880"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Ray Linn",
-    "targetId": "8881"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Uan Rasey",
-    "targetId": "8882"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Pete Candoli",
-    "targetId": "8883"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Frank Beach",
-    "targetId": "8884"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Milt Bernhart",
-    "targetId": "8885"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Karl De Karske",
-    "targetId": "8886"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Jimmy Priddy",
-    "targetId": "8887"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Dick Nash",
-    "targetId": "8888"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Ronny Lang",
-    "targetId": "8889"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Ted Nash",
-    "targetId": "8890"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "John Williams",
-    "targetId": "8892"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "John Cave",
-    "targetId": "8893"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "John Graas",
-    "targetId": "8894"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Herb Harper",
-    "targetId": "9036"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "John Kelson",
-    "targetId": "11001"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Mel Powell",
-    "targetId": "11002"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Bumps Myers",
-    "targetId": "11003"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Vito Mumulo",
-    "targetId": "11004"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Hoyt Bohannon",
-    "targetId": "11005"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Tommy Pederson",
-    "targetId": "11006"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Irving Goodman",
-    "targetId": "11007"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "Jake Porter",
-    "targetId": "11008"
-  },
-  {
-    "source": "Al Hendrickson",
-    "target": "John Best",
-    "targetId": "11009"
-  }
-]
+{
+  "source": "Al Hendrickson",
+  "targets": [
+    {
+      "name": "Red Callender",
+      "targetId": "382"
+    },
+    {
+      "name": "Victor Feldman",
+      "targetId": "396"
+    },
+    {
+      "name": "Bob Bain",
+      "targetId": "1908"
+    },
+    {
+      "name": "Bill Douglass",
+      "targetId": "1941"
+    },
+    {
+      "name": "Vincent DeRosa",
+      "targetId": "3418"
+    },
+    {
+      "name": "Pete Pumiglio",
+      "targetId": "7949"
+    },
+    {
+      "name": "Rolly Bundock",
+      "targetId": "8878"
+    },
+    {
+      "name": "Jack Sperling",
+      "targetId": "8879"
+    },
+    {
+      "name": "Richard Perissi",
+      "targetId": "8880"
+    },
+    {
+      "name": "Ray Linn",
+      "targetId": "8881"
+    },
+    {
+      "name": "Uan Rasey",
+      "targetId": "8882"
+    },
+    {
+      "name": "Pete Candoli",
+      "targetId": "8883"
+    },
+    {
+      "name": "Frank Beach",
+      "targetId": "8884"
+    },
+    {
+      "name": "Milt Bernhart",
+      "targetId": "8885"
+    },
+    {
+      "name": "Karl De Karske",
+      "targetId": "8886"
+    },
+    {
+      "name": "Jimmy Priddy",
+      "targetId": "8887"
+    },
+    {
+      "name": "Dick Nash",
+      "targetId": "8888"
+    },
+    {
+      "name": "Ronny Lang",
+      "targetId": "8889"
+    },
+    {
+      "name": "Ted Nash",
+      "targetId": "8890"
+    },
+    {
+      "name": "John Williams",
+      "targetId": "8892"
+    },
+    {
+      "name": "John Cave",
+      "targetId": "8893"
+    },
+    {
+      "name": "John Graas",
+      "targetId": "8894"
+    },
+    {
+      "name": "Herb Harper",
+      "targetId": "9036"
+    },
+    {
+      "name": "John Kelson",
+      "targetId": "11001"
+    },
+    {
+      "name": "Mel Powell",
+      "targetId": "11002"
+    },
+    {
+      "name": "Bumps Myers",
+      "targetId": "11003"
+    },
+    {
+      "name": "Vito Mumulo",
+      "targetId": "11004"
+    },
+    {
+      "name": "Hoyt Bohannon",
+      "targetId": "11005"
+    },
+    {
+      "name": "Tommy Pederson",
+      "targetId": "11006"
+    },
+    {
+      "name": "Irving Goodman",
+      "targetId": "11007"
+    },
+    {
+      "name": "Jake Porter",
+      "targetId": "11008"
+    },
+    {
+      "name": "John Best",
+      "targetId": "11009"
+    }
+  ]
+}

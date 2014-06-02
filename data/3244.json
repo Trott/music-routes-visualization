@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Mik Kaminski",
-    "target": "Jeff Lynne",
-    "targetId": "224"
-  },
-  {
-    "source": "Mik Kaminski",
-    "target": "Michael de Albuquerque",
-    "targetId": "3239"
-  },
-  {
-    "source": "Mik Kaminski",
-    "target": "Bev Bevan",
-    "targetId": "3240"
-  },
-  {
-    "source": "Mik Kaminski",
-    "target": "Mike Edwards",
-    "targetId": "3242"
-  },
-  {
-    "source": "Mik Kaminski",
-    "target": "Richard Tandy",
-    "targetId": "3243"
-  }
-]
+{
+  "source": "Mik Kaminski",
+  "targets": [
+    {
+      "name": "Jeff Lynne",
+      "targetId": "224"
+    },
+    {
+      "name": "Michael de Albuquerque",
+      "targetId": "3239"
+    },
+    {
+      "name": "Bev Bevan",
+      "targetId": "3240"
+    },
+    {
+      "name": "Mike Edwards",
+      "targetId": "3242"
+    },
+    {
+      "name": "Richard Tandy",
+      "targetId": "3243"
+    }
+  ]
+}

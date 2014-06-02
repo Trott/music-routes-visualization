@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Marty Beller",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Marty Beller",
-    "target": "John Linnell",
-    "targetId": "3068"
-  }
-]
+{
+  "source": "Marty Beller",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    }
+  ]
+}

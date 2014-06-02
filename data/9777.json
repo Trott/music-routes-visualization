@@ -1,37 +1,33 @@
-[
-  {
-    "source": "John Lee",
-    "target": "John Lennon",
-    "targetId": "4"
-  },
-  {
-    "source": "John Lee",
-    "target": "Paul McCartney",
-    "targetId": "5"
-  },
-  {
-    "source": "John Lee",
-    "target": "George Harrison",
-    "targetId": "6"
-  },
-  {
-    "source": "John Lee",
-    "target": "Ringo Starr",
-    "targetId": "7"
-  },
-  {
-    "source": "John Lee",
-    "target": "Barrie Cameron",
-    "targetId": "9774"
-  },
-  {
-    "source": "John Lee",
-    "target": "David Glyde",
-    "targetId": "9775"
-  },
-  {
-    "source": "John Lee",
-    "target": "Alan Holmes",
-    "targetId": "9776"
-  }
-]
+{
+  "source": "John Lee",
+  "targets": [
+    {
+      "name": "John Lennon",
+      "targetId": "4"
+    },
+    {
+      "name": "Paul McCartney",
+      "targetId": "5"
+    },
+    {
+      "name": "George Harrison",
+      "targetId": "6"
+    },
+    {
+      "name": "Ringo Starr",
+      "targetId": "7"
+    },
+    {
+      "name": "Barrie Cameron",
+      "targetId": "9774"
+    },
+    {
+      "name": "David Glyde",
+      "targetId": "9775"
+    },
+    {
+      "name": "Alan Holmes",
+      "targetId": "9776"
+    }
+  ]
+}

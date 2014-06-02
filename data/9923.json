@@ -1,17 +1,17 @@
-[
-  {
-    "source": "Stevie Shears",
-    "target": "Chris Cross",
-    "targetId": "100"
-  },
-  {
-    "source": "Stevie Shears",
-    "target": "Warren Cann",
-    "targetId": "9922"
-  },
-  {
-    "source": "Stevie Shears",
-    "target": "John Foxx",
-    "targetId": "9924"
-  }
-]
+{
+  "source": "Stevie Shears",
+  "targets": [
+    {
+      "name": "Chris Cross",
+      "targetId": "100"
+    },
+    {
+      "name": "Warren Cann",
+      "targetId": "9922"
+    },
+    {
+      "name": "John Foxx",
+      "targetId": "9924"
+    }
+  ]
+}

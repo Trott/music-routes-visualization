@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Dick Parry",
-    "target": "David Gilmour",
-    "targetId": "275"
-  },
-  {
-    "source": "Dick Parry",
-    "target": "Lesley Duncan",
-    "targetId": "812"
-  },
-  {
-    "source": "Dick Parry",
-    "target": "Liza Strike",
-    "targetId": "983"
-  },
-  {
-    "source": "Dick Parry",
-    "target": "Doris Troy",
-    "targetId": "994"
-  },
-  {
-    "source": "Dick Parry",
-    "target": "Nick Mason",
-    "targetId": "2001"
-  },
-  {
-    "source": "Dick Parry",
-    "target": "Richard Wright",
-    "targetId": "2002"
-  },
-  {
-    "source": "Dick Parry",
-    "target": "Roger Waters",
-    "targetId": "2003"
-  },
-  {
-    "source": "Dick Parry",
-    "target": "Barry St. John",
-    "targetId": "2006"
-  }
-]
+{
+  "source": "Dick Parry",
+  "targets": [
+    {
+      "name": "David Gilmour",
+      "targetId": "275"
+    },
+    {
+      "name": "Lesley Duncan",
+      "targetId": "812"
+    },
+    {
+      "name": "Liza Strike",
+      "targetId": "983"
+    },
+    {
+      "name": "Doris Troy",
+      "targetId": "994"
+    },
+    {
+      "name": "Nick Mason",
+      "targetId": "2001"
+    },
+    {
+      "name": "Richard Wright",
+      "targetId": "2002"
+    },
+    {
+      "name": "Roger Waters",
+      "targetId": "2003"
+    },
+    {
+      "name": "Barry St. John",
+      "targetId": "2006"
+    }
+  ]
+}

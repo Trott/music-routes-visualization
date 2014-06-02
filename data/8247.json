@@ -1,27 +1,25 @@
-[
-  {
-    "source": "Don McGreevy",
-    "target": "Bill Frisell",
-    "targetId": "4402"
-  },
-  {
-    "source": "Don McGreevy",
-    "target": "Adrienne Davies",
-    "targetId": "8248"
-  },
-  {
-    "source": "Don McGreevy",
-    "target": "Steve Moore",
-    "targetId": "8249"
-  },
-  {
-    "source": "Don McGreevy",
-    "target": "Dylan Carlson",
-    "targetId": "8250"
-  },
-  {
-    "source": "Don McGreevy",
-    "target": "Milky Burgess",
-    "targetId": "8251"
-  }
-]
+{
+  "source": "Don McGreevy",
+  "targets": [
+    {
+      "name": "Bill Frisell",
+      "targetId": "4402"
+    },
+    {
+      "name": "Adrienne Davies",
+      "targetId": "8248"
+    },
+    {
+      "name": "Steve Moore",
+      "targetId": "8249"
+    },
+    {
+      "name": "Dylan Carlson",
+      "targetId": "8250"
+    },
+    {
+      "name": "Milky Burgess",
+      "targetId": "8251"
+    }
+  ]
+}

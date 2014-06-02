@@ -1,12 +1,13 @@
-[
-  {
-    "source": "Margaret Seiler",
-    "target": "John Flansburgh",
-    "targetId": "3067"
-  },
-  {
-    "source": "Margaret Seiler",
-    "target": "John Linnell",
-    "targetId": "3068"
-  }
-]
+{
+  "source": "Margaret Seiler",
+  "targets": [
+    {
+      "name": "John Flansburgh",
+      "targetId": "3067"
+    },
+    {
+      "name": "John Linnell",
+      "targetId": "3068"
+    }
+  ]
+}

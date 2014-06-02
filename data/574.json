@@ -1,42 +1,37 @@
-[
-  {
-    "source": "Billy Ray Cyrus",
-    "target": "Loretta Lynn",
-    "targetId": "244"
-  },
-  {
-    "source": "Billy Ray Cyrus",
-    "target": "Tanya Tucker",
-    "targetId": "246"
-  },
-  {
-    "source": "Billy Ray Cyrus",
-    "target": "Dolly Parton",
-    "targetId": "569"
-  },
-  {
-    "source": "Billy Ray Cyrus",
-    "target": "Kathy Mattea",
-    "targetId": "575"
-  },
-  {
-    "source": "Billy Ray Cyrus",
-    "target": "Mary Chapin Carpenter",
-    "targetId": "576"
-  },
-  {
-    "source": "Billy Ray Cyrus",
-    "target": "Pam Tillis",
-    "targetId": "577"
-  },
-  {
-    "source": "Billy Ray Cyrus",
-    "target": "George Jones",
-    "targetId": "3856"
-  },
-  {
-    "source": "Billy Ray Cyrus",
-    "target": "Miley Cyrus",
-    "targetId": "3857"
-  }
-]
+{
+  "source": "Billy Ray Cyrus",
+  "targets": [
+    {
+      "name": "Loretta Lynn",
+      "targetId": "244"
+    },
+    {
+      "name": "Tanya Tucker",
+      "targetId": "246"
+    },
+    {
+      "name": "Dolly Parton",
+      "targetId": "569"
+    },
+    {
+      "name": "Kathy Mattea",
+      "targetId": "575"
+    },
+    {
+      "name": "Mary Chapin Carpenter",
+      "targetId": "576"
+    },
+    {
+      "name": "Pam Tillis",
+      "targetId": "577"
+    },
+    {
+      "name": "George Jones",
+      "targetId": "3856"
+    },
+    {
+      "name": "Miley Cyrus",
+      "targetId": "3857"
+    }
+  ]
+}
