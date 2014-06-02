@@ -118,10 +118,8 @@ d3.json('data/' + id + '.json', function (error, links) {
     .call(d3.behavior.zoom().scaleExtent([.12, 16]).on("zoom", zoom))
     .append("g");
 
-  var radius = 2 * (width > height ? width : height);
-
   var background = svg.append("circle")
-    .attr("r", radius)
+    .attr("r", 2048)
     .attr("cx", width/2)
     .attr("cy", height/2)
     .attr("fill", "#ddd")
