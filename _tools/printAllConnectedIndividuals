@@ -7,7 +7,7 @@ var fs = require("graceful-fs");
 /* TODO: path.join, eh */
 /* TODO: publish music-routes-data via npm and grab data from node_modules instead
        of magically expecting it to be at the same level as music-routes-visualization */
-var sourceDataDir = "../../music-routes-data/data";
+var sourceDataDir = __dirname + "/../../music-routes-data/data";
 var individuals = require(sourceDataDir + "/individuals.json");
 var individualIds = individuals.map(function(elem) { return elem._id; });
 var individual_track = require(sourceDataDir + "/individual_track.json");
@@ -45,10 +45,10 @@ var generateJson = function (individualId) {
     return {name: getName(elem.individual_id), targetId: elem.individual_id};
   });
 
-  var file = individualId + '.json';
+  var file = individualId + ".json";
   var formattedOutput = JSON.stringify({source: sourceLabel, targets: connectedIndividuals}, null, 2);
 
-  fs.writeFile('../htdocs/data/' + file, formattedOutput,
+  fs.writeFile(__dirname + "/../data/" + file, formattedOutput,
     function (err) {
       if (err) throw err;
     }
