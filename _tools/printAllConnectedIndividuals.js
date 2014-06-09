@@ -4,7 +4,6 @@
 
 var fs = require("graceful-fs");
 
-/* TODO: path.join, eh */
 /* TODO: publish music-routes-data via npm and grab data from node_modules instead
        of magically expecting it to be at the same level as music-routes-visualization */
 var sourceDataDir = __dirname + "/../../music-routes-data/data";
