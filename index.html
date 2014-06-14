@@ -6,6 +6,7 @@
 body {
   margin:0;
 }
+
 .link {
   fill: none;
   stroke: none;
@@ -41,8 +42,20 @@ progress {
 <script>
 var id = location.search.substring(1) || '1';
 d3.json('data/' + id + '.json', function (error, links) {
-  // TODO: handle error
-  // if (error) return console.warn(error);
+  if (error) {
+    d3.select(".visualization").remove();
+    var body = d3.select("body");
+    body.append("p").text("Something went wrong.");
+    body.append("p").text("Check your network connection and reload the page.");
+    body.append("p").text("If the problem persists, you can email rtrott@gmail.com and I'll try to fix it.");
+    body.append("p").text("If you do that, please include as much detail as you can:");
+    var ul = body.append("ul");
+    ul.append("li").text("what you did leading up to the problem");
+    ul.append("li").text("the current URL of this page");
+    ul.append("li").text("anything else you might think would be relevant");
+    body.append("p").text("Thanks!");
+    return error;
+  }
 
   var wrap = function (text, width) {
     text.each(function() {
