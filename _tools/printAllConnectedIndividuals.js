@@ -4,9 +4,7 @@
 
 var fs = require("graceful-fs");
 
-/* TODO: publish music-routes-data via npm and grab data from node_modules instead
-       of magically expecting it to be at the same level as music-routes-visualization */
-var sourceDataDir = __dirname + "/../../music-routes-data/data";
+var sourceDataDir = __dirname + "/node_modules/music-routes-data/data";
 var individuals = require(sourceDataDir + "/individuals.json");
 var individualIds = individuals.map(function(elem) { return elem._id; });
 var individual_track = require(sourceDataDir + "/individual_track.json");
