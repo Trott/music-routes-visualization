@@ -139,9 +139,15 @@ d3.json('data/' + id + '.json', function (error, links) {
 
   var nodes = svg.append("g").selectAll(".node")
       .data(force.nodes())
-    .enter().append("svg:a").attr("xlink:href", function(d) { return "?" + d.targetId;}).append("circle")
+    .enter().append("circle")
       .attr("r", 64)
-      .attr("class", "node");
+      .attr("class", "node")
+      .on("click", function (datum,index,that) { 
+        console.dir(datum); 
+        console.dir(index); 
+        console.dir(that); 
+        window.location = "?" + datum.targetId;
+      });
 
   var text = svg.append("g").selectAll("text")
       .data(force.nodes())
