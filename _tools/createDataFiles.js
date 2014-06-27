@@ -16,6 +16,8 @@ var getName = function (id) {
 };
 
 var generateJson = function (individualId) {
+  console.log("Generating JSON data for individual with ID of " + individualId + "...");
+
   var sourceLabel = getName(individualId);
 
   var tracksWithIndividual = individual_track.filter(function (elem) {
@@ -54,6 +56,5 @@ var generateJson = function (individualId) {
 };
 
 individualIds.forEach(function (individualId) {
-  console.log("Generating JSON data for individual with ID of " + individualId + "...");
   generateJson(individualId);
 });
