@@ -8,4 +8,4 @@ music-routes-visualization tools
 
 ## Rebuilding data for the site
 
-* `node printAllConnectedIndividuals.js`
+* `node createDataFiles.js`
