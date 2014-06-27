@@ -48,10 +48,12 @@ var generateJson = function (individualId) {
   fs.writeFile(__dirname + "/../data/" + file, formattedOutput,
     function (err) {
       if (err) throw err;
+      console.log("Wrote JSON file for individual with ID of " + individualId);
     }
   );
 };
 
 individualIds.forEach(function (individualId) {
+  console.log("Generating JSON data for individual with ID of " + individualId + "...");
   generateJson(individualId);
 });
