@@ -146,7 +146,9 @@ d3.json('data/' + id + '.json', function (error, links) {
         console.dir(datum); 
         console.dir(index); 
         console.dir(that);
-        d3.select(this).transition().attr("r", 256);
+        var thisCircle = d3.select(this);
+        var newRadius = thisCircle.attr("r")==="64" ? "256" : "64";
+        thisCircle.transition().attr("r", newRadius);
       });
 
   var text = svg.append("g").selectAll("text")
