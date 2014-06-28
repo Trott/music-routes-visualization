@@ -9,3 +9,5 @@ music-routes-visualization tools
 ## Rebuilding data for the site
 
 * `node createDataFiles.js`
+
+Use `-q` if you don't want to see all the logging messages.
