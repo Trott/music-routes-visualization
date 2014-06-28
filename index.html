@@ -142,11 +142,11 @@ d3.json('data/' + id + '.json', function (error, links) {
     .enter().append("circle")
       .attr("r", 64)
       .attr("class", "node")
-      .on("click", function (datum,index,that) { 
+      .on("click", function (datum,index,that) {
         console.dir(datum); 
         console.dir(index); 
-        console.dir(that); 
-        window.location = "?" + datum.targetId;
+        console.dir(that);
+        d3.select(this).transition().attr("r", 256);
       });
 
   var text = svg.append("g").selectAll("text")
