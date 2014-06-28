@@ -2,7 +2,17 @@
 
 /* Writes files for JSON representation of all individuals on tracks with a given individual */
 
+var EventEmitter = require("events").EventEmitter;
+var argv = require("minimist")(process.argv.slice(2));
 var fs = require("graceful-fs");
+
+var logger = new EventEmitter();
+
+if (! argv.q) {
+  logger.on("log", function (msg) {
+    console.log(msg);
+  });
+}
 
 var sourceDataDir = __dirname + "/node_modules/music-routes-data/data";
 var individuals = require(sourceDataDir + "/individuals.json");
@@ -16,7 +26,7 @@ var getName = function (id) {
 };
 
 var generateJson = function (individualId) {
-  console.log("Generating JSON data for individual with ID of " + individualId + "...");
+  logger.emit("log", "Generating JSON data for individual with ID of " + individualId + "...");
 
   var sourceLabel = getName(individualId);
 
@@ -50,7 +60,7 @@ var generateJson = function (individualId) {
   fs.writeFile(__dirname + "/../data/" + file, formattedOutput,
     function (err) {
       if (err) throw err;
-      console.log("Wrote JSON file for individual with ID of " + individualId);
+      logger.emit("log", "Wrote JSON file for individual with ID of " + individualId);
     }
   );
 };
