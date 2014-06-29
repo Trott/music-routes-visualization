@@ -142,18 +142,23 @@ d3.json('data/' + id + '.json', function (error, links) {
       .attr("r", 64)
       .attr("class", "node")
       .on("click", function (datum,index) {
+        var transform = d3.transform(d3.select(this).attr("transform")).translate;
+        var x = transform[0];
+        var y = transform[1]
         var parent = d3.select(this.parentNode.parentNode);
         // TODO: style link to the target's page "or tap again to close"
         // TODO: consistent cursor--different for close (click handler) vs. link to new graph 
+        // TODO: if you click on the label, it doesn't bubble up to the click event for the circle...
+        //   (set pointer-events:none on just those labels)
         var container = parent.append("circle")
           .attr("r", "256")
-          .attr("cx", d3.event.x)
-          .attr("cy", d3.event.y)
+          .attr("cx", x)
+          .attr("cy", y)
           .attr("class", "more-info");
         var close = parent.append("text")
           .attr("text-anchor", "middle")
-          .attr("dx", d3.event.x)
-          .attr("dy", d3.event.y + 48)
+          .attr("dx", x)
+          .attr("dy", y + 48)
           .text("Close")
           .on("click", function () {
             container.remove();
@@ -164,8 +169,8 @@ d3.json('data/' + id + '.json', function (error, links) {
             .attr("xlink:href", function(d) { return "?" + datum.targetId;})
             .append("text")
               .attr("text-anchor", "middle")
-              .attr("dx", d3.event.x)
-              .attr("dy", d3.event.y)
+              .attr("dx", x)
+              .attr("dy", y)
               .text(datum.name);
       });
 
