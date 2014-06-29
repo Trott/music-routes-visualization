@@ -158,9 +158,9 @@ d3.json('data/' + id + '.json', function (error, links) {
           .attr("class", "more-info");
         var close = parent.append("text")
           .attr("text-anchor", "middle")
-          .attr("dx", x + 96)
-          .attr("dy", y + 96)
-          .text("Close")
+          .attr("dx", x + 120)
+          .attr("dy", y - 112)
+          .text("✖")
           .on("click", function () {
             container.remove();
             label.remove();
