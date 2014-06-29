@@ -18,6 +18,10 @@ body {
   stroke: #ddd;
 }
 
+.details {
+  font-size: 14px;
+}
+
 .name {
   font-size: 18px;
 }
@@ -143,36 +147,39 @@ d3.json('data/' + id + '.json', function (error, links) {
       .attr("class", "node")
       .on("click", function (datum,index) {
         var transform = d3.transform(d3.select(this).attr("transform")).translate;
-        var x = transform[0];
-        var y = transform[1]
+        var width = 320;
+        var height = 320;
+        var x = transform[0] - width/2;
+        var y = transform[1] - height/2;
         var parent = d3.select(this.parentNode.parentNode);
         // TODO: style link to the target's page "or tap again to close"
         // TODO: consistent cursor--different for close (click handler) vs. link to new graph 
         // TODO: if you click on the label, it doesn't bubble up to the click event for the circle...
         //   (set pointer-events:none on just those labels)
         var container = parent.append("rect")
-          .attr("width", "256")
-          .attr("height", "256")
-          .attr("x", x - 128)
-          .attr("y", y - 128)
+          .attr("width", width)
+          .attr("height", height)
+          .attr("x", x)
+          .attr("y", y)
           .attr("class", "more-info");
         var close = parent.append("text")
           .attr("text-anchor", "middle")
-          .attr("dx", x + 120)
-          .attr("dy", y - 112)
+          .attr("dx", x + width - 8)
+          .attr("dy", y + 16)
           .text("✖")
           .on("click", function () {
             container.remove();
-            label.remove();
+            details.remove();
             d3.select(this).remove();
           });
-        var label = parent.append("svg:a")
+        var detailsText = datum.name + " played with " + links.source;
+        var details = parent.append("svg:a")
             .attr("xlink:href", function(d) { return "?" + datum.targetId;})
             .append("text")
-              .attr("text-anchor", "middle")
+              .attr("class", "details")
               .attr("dx", x)
-              .attr("dy", y)
-              .text(datum.name);
+              .attr("dy", y + 32)
+              .text(detailsText);
       });
 
   var text = svg.append("g").selectAll("text")
