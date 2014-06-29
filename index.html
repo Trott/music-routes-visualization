@@ -5,6 +5,7 @@
 <style>
 body {
   margin:0;
+  font-family: sans-serif;
 }
 
 .link {
@@ -17,9 +18,25 @@ body {
   stroke: #ddd;
 }
 
-text {
-  font-family: sans-serif;
-  pointer-events: none;
+.more-info {
+  fill: white;
+  stroke: black;
+}
+
+.details {
+  font-size: 14px;
+}
+
+.hyperlink {
+  fill: blue;
+}
+
+.control {
+  fill: #eee;
+  font-size: 32px;
+}
+
+.name {
   font-size: 18px;
 }
 
@@ -40,7 +57,7 @@ progress {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
 <script>
-var id = location.search.substring(1) || '1';
+var id = location.search.substring(1) || "1";
 d3.json('data/' + id + '.json', function (error, links) {
   if (error) {
     d3.select(".visualization").remove();
@@ -139,13 +156,57 @@ d3.json('data/' + id + '.json', function (error, links) {
 
   var nodes = svg.append("g").selectAll(".node")
       .data(force.nodes())
-    .enter().append("svg:a").attr("xlink:href", function(d) { return "?" + d.targetId;}).append("circle")
+    .enter().append("circle")
       .attr("r", 64)
-      .attr("class", "node");
+      .attr("class", "node")
+      .on("click", function (datum,index) {
+        var transform = d3.transform(d3.select(this).attr("transform")).translate;
+        var width = 320;
+        var height = 320;
+        var x = transform[0] - width/2;
+        var y = transform[1] - height/2;
+        var parent = d3.select(this.parentNode.parentNode);
+        // TODO: consistent cursor--different for close (click handler) vs. link to new graph 
+        // TODO: if you click on the label, it doesn't bubble up to the click event for the circle...
+        //   (set pointer-events:none on just those labels)
+        var container = parent.append("rect")
+          .attr("width", width)
+          .attr("height", height)
+          .attr("x", x)
+          .attr("y", y)
+          .attr("class", "more-info");
+        var close = parent.append("text")
+          .attr("text-anchor", "middle")
+          .attr("class", "control")
+          .attr("dx", x + width - 16)
+          .attr("dy", y + 32)
+          .text("☓")
+          .on("click", function () {
+            container.remove();
+            details.remove();
+            name.remove();
+            d3.select(this).remove();
+          });
+        var name = parent.append("svg:a")
+          .attr("xlink:href", function(d) { return "?" + datum.targetId;})
+          .append("text")
+            .attr("class", "details hyperlink")
+            .attr("dx", x + 8)
+            .attr("dy", y + 32)
+            .text(datum.name);
+        var detailsText = " played with " + links.source;
+        var details = parent.append("svg:a")
+            .append("text")
+              .attr("class", "details")
+              .attr("dx", x + 16)
+              .attr("dy", y + 64)
+              .text(detailsText);
+      });
 
   var text = svg.append("g").selectAll("text")
       .data(force.nodes())
     .enter().append("text")
+      .attr("class", "name")
       .attr("text-anchor", "middle")
       .text(function(d) { return d.name; })
       .call(wrap, 112);
