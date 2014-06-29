@@ -13,9 +13,14 @@ body {
   stroke: none;
 }
 
-.node, .more-info {
+.node {
   fill: white;
   stroke: #ddd;
+}
+
+.more-info {
+  fill: white;
+  stroke: black;
 }
 
 .details {
@@ -23,7 +28,12 @@ body {
 }
 
 .hyperlink {
-  stroke: blue;
+  fill: blue;
+}
+
+.control {
+  fill: #eee;
+  font-size: 32px;
 }
 
 .name {
@@ -168,9 +178,10 @@ d3.json('data/' + id + '.json', function (error, links) {
           .attr("class", "more-info");
         var close = parent.append("text")
           .attr("text-anchor", "middle")
-          .attr("dx", x + width - 8)
-          .attr("dy", y + 16)
-          .text("✖")
+          .attr("class", "control")
+          .attr("dx", x + width - 16)
+          .attr("dy", y + 32)
+          .text("☓")
           .on("click", function () {
             container.remove();
             details.remove();
