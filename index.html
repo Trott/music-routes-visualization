@@ -196,7 +196,6 @@ d3.json('data/' + id + '.json', function (error, links) {
             .text(datum.name);
         var detailsText = " played with " + links.source;
         var details = parent.append("svg:a")
-            .attr("xlink:href", function(d) { return "?" + datum.targetId;})
             .append("text")
               .attr("class", "details")
               .attr("dx", x + 16)
