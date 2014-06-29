@@ -22,6 +22,10 @@ body {
   font-size: 14px;
 }
 
+.hyperlink {
+  stroke: blue;
+}
+
 .name {
   font-size: 18px;
 }
@@ -170,15 +174,23 @@ d3.json('data/' + id + '.json', function (error, links) {
           .on("click", function () {
             container.remove();
             details.remove();
+            name.remove();
             d3.select(this).remove();
           });
-        var detailsText = datum.name + " played with " + links.source;
+        var name = parent.append("svg:a")
+          .attr("xlink:href", function(d) { return "?" + datum.targetId;})
+          .append("text")
+            .attr("class", "details hyperlink")
+            .attr("dx", x + 8)
+            .attr("dy", y + 32)
+            .text(datum.name);
+        var detailsText = " played with " + links.source;
         var details = parent.append("svg:a")
             .attr("xlink:href", function(d) { return "?" + datum.targetId;})
             .append("text")
               .attr("class", "details")
-              .attr("dx", x)
-              .attr("dy", y + 32)
+              .attr("dx", x + 16)
+              .attr("dy", y + 64)
               .text(detailsText);
       });
 
