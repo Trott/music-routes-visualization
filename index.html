@@ -177,6 +177,7 @@ d3.json('data/' + id + '.json', function (error, links) {
   var text = svg.append("g").selectAll("text")
       .data(force.nodes())
     .enter().append("text")
+      .attr("class", "name")
       .attr("text-anchor", "middle")
       .text(function(d) { return d.name; })
       .call(wrap, 112);
