@@ -194,7 +194,7 @@ d3.json('data/' + id + '.json', function (error, links) {
             .attr("dx", x + 8)
             .attr("dy", y + 32)
             .text(datum.name);
-        var detailsText = " played with " + links.source;
+        var detailsText = " recorded with " + links.source;
         var details = parent.append("svg:a")
             .append("text")
               .attr("class", "details")
