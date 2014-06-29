@@ -12,7 +12,7 @@ body {
   stroke: none;
 }
 
-.node {
+.node, .more-info {
   fill: white;
   stroke: #ddd;
 }
@@ -143,12 +143,25 @@ d3.json('data/' + id + '.json', function (error, links) {
       .attr("r", 64)
       .attr("class", "node")
       .on("click", function (datum,index,that) {
-        console.dir(datum); 
-        console.dir(index); 
-        console.dir(that);
-        var thisCircle = d3.select(this);
-        var newRadius = thisCircle.attr("r")==="64" ? "256" : "64";
-        thisCircle.transition().attr("r", newRadius);
+        var that = d3.select(this);
+        var parent = d3.select(this.parentNode.parentNode);
+        // TODO: have circle appear where the click/touch happened (where the original 
+        //    circle is), not in the middle of the viewport
+        // TODO: link to the target's page "or tap again to close"
+        var container = parent.append("circle")
+          .attr("r", "256")
+          .attr("cx", width/2)
+          .attr("cy", height/2)
+          .attr("class", "more-info")
+          .on ("click", function () {
+            d3.select(this).remove();
+            label.remove();
+          });
+        var label = parent.append("text")
+          .attr("text-anchor", "middle")
+          .attr("dx", width/2)
+          .attr("dy", height/2)
+          .text(datum.name);
       });
 
   var text = svg.append("g").selectAll("text")
