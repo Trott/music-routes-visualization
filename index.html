@@ -141,22 +141,19 @@ d3.json('data/' + id + '.json', function (error, links) {
     .enter().append("circle")
       .attr("r", 64)
       .attr("class", "node")
-      .on("click", function (datum,index,that) {
-        var that = d3.select(this);
+      .on("click", function (datum,index) {
         var parent = d3.select(this.parentNode.parentNode);
-        // TODO: have circle appear where the click/touch happened (where the original 
-        //    circle is), not in the middle of the viewport
         // TODO: style link to the target's page "or tap again to close"
         // TODO: consistent cursor--different for close (click handler) vs. link to new graph 
         var container = parent.append("circle")
           .attr("r", "256")
-          .attr("cx", width/2)
-          .attr("cy", height/2)
+          .attr("cx", d3.event.x)
+          .attr("cy", d3.event.y)
           .attr("class", "more-info");
         var close = parent.append("text")
           .attr("text-anchor", "middle")
-          .attr("dx", width/2)
-          .attr("dy", height/2 + 48)
+          .attr("dx", d3.event.x)
+          .attr("dy", d3.event.y + 48)
           .text("Close")
           .on("click", function () {
             container.remove();
@@ -167,8 +164,8 @@ d3.json('data/' + id + '.json', function (error, links) {
             .attr("xlink:href", function(d) { return "?" + datum.targetId;})
             .append("text")
               .attr("text-anchor", "middle")
-              .attr("dx", width/2)
-              .attr("dy", height/2)
+              .attr("dx", d3.event.x)
+              .attr("dy", d3.event.y)
               .text(datum.name);
       });
 
