@@ -19,7 +19,6 @@ body {
 
 text {
   font-family: sans-serif;
-  pointer-events: none;
   font-size: 18px;
 }
 
@@ -147,21 +146,30 @@ d3.json('data/' + id + '.json', function (error, links) {
         var parent = d3.select(this.parentNode.parentNode);
         // TODO: have circle appear where the click/touch happened (where the original 
         //    circle is), not in the middle of the viewport
-        // TODO: link to the target's page "or tap again to close"
+        // TODO: style link to the target's page "or tap again to close"
+        // TODO: consistent cursor--different for close (click handler) vs. link to new graph 
         var container = parent.append("circle")
           .attr("r", "256")
           .attr("cx", width/2)
           .attr("cy", height/2)
-          .attr("class", "more-info")
-          .on ("click", function () {
-            d3.select(this).remove();
-            label.remove();
-          });
-        var label = parent.append("text")
+          .attr("class", "more-info");
+        var close = parent.append("text")
           .attr("text-anchor", "middle")
           .attr("dx", width/2)
-          .attr("dy", height/2)
-          .text(datum.name);
+          .attr("dy", height/2 + 48)
+          .text("Close")
+          .on("click", function () {
+            container.remove();
+            label.remove();
+            d3.select(this).remove();
+          });
+        var label = parent.append("svg:a")
+            .attr("xlink:href", function(d) { return "?" + datum.targetId;})
+            .append("text")
+              .attr("text-anchor", "middle")
+              .attr("dx", width/2)
+              .attr("dy", height/2)
+              .text(datum.name);
       });
 
   var text = svg.append("g").selectAll("text")
