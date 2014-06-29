@@ -17,7 +17,7 @@ body {
   stroke: #ddd;
 }
 
-text {
+.name {
   font-family: sans-serif;
   font-size: 18px;
 }
@@ -39,7 +39,7 @@ progress {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
 <script>
-var id = location.search.substring(1) || '1';
+var id = location.search.substring(1) || "1";
 d3.json('data/' + id + '.json', function (error, links) {
   if (error) {
     d3.select(".visualization").remove();
