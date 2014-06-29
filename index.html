@@ -150,15 +150,16 @@ d3.json('data/' + id + '.json', function (error, links) {
         // TODO: consistent cursor--different for close (click handler) vs. link to new graph 
         // TODO: if you click on the label, it doesn't bubble up to the click event for the circle...
         //   (set pointer-events:none on just those labels)
-        var container = parent.append("circle")
-          .attr("r", "256")
-          .attr("cx", x)
-          .attr("cy", y)
+        var container = parent.append("rect")
+          .attr("width", "256")
+          .attr("height", "256")
+          .attr("x", x - 128)
+          .attr("y", y - 128)
           .attr("class", "more-info");
         var close = parent.append("text")
           .attr("text-anchor", "middle")
-          .attr("dx", x)
-          .attr("dy", y + 48)
+          .attr("dx", x + 96)
+          .attr("dy", y + 96)
           .text("Close")
           .on("click", function () {
             container.remove();
