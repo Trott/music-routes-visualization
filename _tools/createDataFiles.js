@@ -36,22 +36,26 @@ var generateJson = function (individualId) {
     return elem.track_id;
   });
 
-  var seen = [];
+  var trackCounts = {};
   var connectedIndividuals = individual_track.filter(function (elem) {
-    if (seen.indexOf(elem.individual_id) != -1) {
-      return false;
-    }
-
     if (tracksWithIndividual.indexOf(elem.track_id) > -1) {
       if (elem.individual_id != individualId) {
-        seen.push(elem.individual_id);
+        if (trackCounts[elem.individual_id]) {
+          trackCounts[elem.individual_id]++;
+          return false;
+        }
+        trackCounts[elem.individual_id] = 1;
         return true;
       }
     }
 
     return false;
   }).map(function (elem) {
-    return {name: getName(elem.individual_id), targetId: elem.individual_id};
+    return {
+      name: getName(elem.individual_id),
+      targetId: elem.individual_id,
+      trackCount: trackCounts[elem.individual_id]
+    };
   });
 
   var file = individualId + ".json";
