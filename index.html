@@ -194,7 +194,9 @@ d3.json('data/' + id + '.json', function (error, links) {
             .attr("dx", x + 8)
             .attr("dy", y + 32)
             .text(datum.name);
-        var detailsText = " recorded with " + links.source;
+        var detailsText = " recorded with " + links.source + " on " + datum.trackCount + " track" 
+          + (datum.trackCount > 1 ? "s" : "");
+          //TODO: text wrapping on this
         var details = parent.append("svg:a")
             .append("text")
               .attr("class", "details")
@@ -208,7 +210,7 @@ d3.json('data/' + id + '.json', function (error, links) {
     .enter().append("text")
       .attr("class", "name")
       .attr("text-anchor", "middle")
-      .text(function(d) { return d.name; })
+      .text(function (d) { return d.name; })
       .call(wrap, 112);
 
   d3.select("#progress").remove();
