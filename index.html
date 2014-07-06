@@ -74,7 +74,8 @@ d3.json('data/' + id + '.json', function (error, links) {
     return error;
   }
 
-  var wrap = function (text, width) {
+  var wrap = function (text, width, x) {
+    x = x || 0;
     text.each(function() {
       var text = d3.select(this),
         words = text.text().split(/\s+/).reverse(),
@@ -91,7 +92,7 @@ d3.json('data/' + id + '.json', function (error, links) {
           line.pop();
           tspan.text(line.join(" "));
           line = [word];
-          tspan = text.append("tspan").attr("x", 0).attr("dy", 18).text(word);
+          tspan = text.append("tspan").attr("x", x).attr("dy", 18).text(word);
         }
       }
     });
@@ -194,15 +195,14 @@ d3.json('data/' + id + '.json', function (error, links) {
             .attr("dx", x + 8)
             .attr("dy", y + 32)
             .text(datum.name);
-        var detailsText = " recorded with " + links.source + " on " + datum.trackCount + " track" 
+        var detailsText = "recorded with " + links.source + " on " + datum.trackCount + " track" 
           + (datum.trackCount > 1 ? "s" : "");
-          //TODO: text wrapping on this
-        var details = parent.append("svg:a")
-            .append("text")
-              .attr("class", "details")
-              .attr("dx", x + 16)
-              .attr("dy", y + 64)
-              .text(detailsText);
+        var details = parent.append("text")
+            .attr("class", "details")
+            .attr("dx", x + 16)
+            .attr("dy", y + 64)
+            .text(detailsText)
+            .call(wrap, 303, x + 16);
       });
 
   var text = svg.append("g").selectAll("text")
