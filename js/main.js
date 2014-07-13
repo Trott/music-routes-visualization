@@ -37,16 +37,16 @@ d3.json('data/' + id + '.json', function (error, links) {
         }
       }
     });
-  }
+  };
 
   var transform = function (d) {
     return "translate(" + d.x + "," + d.y + ")";
-  }
+  };
 
   var textTransform = function (d) {
     var y = d.y + 8;
     return "translate(" + d.x + "," + y + ")";
-  }
+  };
 
   var tick = function () {
     nodes.attr("transform", transform);
@@ -62,7 +62,7 @@ d3.json('data/' + id + '.json', function (error, links) {
   links.targets.forEach(function(link, index) {
     link.source = nodes[0];
     link.target = nodes[index+1];
-  })
+  });
 
   var linkCount = links.targets.length;
 
@@ -134,7 +134,7 @@ d3.json('data/' + id + '.json', function (error, links) {
             .attr("dx", x + 8)
             .attr("dy", y + 32)
             .text(datum.name);
-        var detailsText = "recorded with " + links.source + " on " + datum.trackCount + " track" 
+        var detailsText = "recorded with " + links.source + " on " + datum.trackCount + " track"
           + (datum.trackCount > 1 ? "s" : "");
         var details = parent.append("text")
             .attr("class", "details")
