@@ -39,6 +39,7 @@ body {
 
 .name {
   font-size: 18px;
+  pointer-events: none;
 }
 
 .visualization {
@@ -168,8 +169,7 @@ d3.json('data/' + id + '.json', function (error, links) {
         var x = transform[0] - width/2;
         var y = transform[1] - height/2;
         var parent = d3.select(this.parentNode.parentNode);
-        // TODO: if you click on the label, it doesn't bubble up to the click event for the circle...
-        //   (set pointer-events:none on just those labels)
+        
         var container = parent.append("rect")
           .attr("width", width)
           .attr("height", height)
