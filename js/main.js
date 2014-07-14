@@ -1,6 +1,7 @@
 var id = location.search.substring(1) || "1";
 d3.json('data/' + id + '.json', function (error, links) {
   if (error) {
+    //TODO: This should be a redirect to a static page.
     d3.select(".visualization").remove();
     var body = d3.select("body");
     body.append("p").text("Something went wrong.");
