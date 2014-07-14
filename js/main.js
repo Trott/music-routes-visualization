@@ -57,11 +57,11 @@ d3.json('data/' + id + '.json', function (error, links) {
     svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
   };
 
-  var nodes = [{name: links.source, targetId: id}].concat(links.targets);
+  var vertices = [{name: links.source, targetId: id}].concat(links.targets);
 
   links.targets.forEach(function(link, index) {
-    link.source = nodes[0];
-    link.target = nodes[index+1];
+    link.source = vertices[0];
+    link.target = vertices[index+1];
   });
 
   var linkCount = links.targets.length;
@@ -70,7 +70,7 @@ d3.json('data/' + id + '.json', function (error, links) {
       height = window.innerHeight || 500;
 
   var force = d3.layout.force()
-    .nodes(d3.values(nodes))
+    .nodes(d3.values(vertices))
     .links(links.targets)
     .size([width, height])
     .linkDistance(function (undefined, index) {
