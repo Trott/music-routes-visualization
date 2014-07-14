@@ -86,7 +86,7 @@ d3.json('data/' + id + '.json', function (error, links) {
     .attr("width", width)
     .attr("height", height)
     .append("g")
-    .call(d3.behavior.zoom().scaleExtent([.12, 16]).on("zoom", zoom))
+    .call(d3.behavior.zoom().scaleExtent([0.12, 16]).on("zoom", zoom))
     .append("g");
 
   var background = svg.append("circle")
