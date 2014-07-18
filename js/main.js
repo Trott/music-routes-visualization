@@ -1,4 +1,4 @@
-var id = location.search.substring(1) || "1";
+var id = location.search.substring(1).replace(/\W/g, '') || "1";
 d3.json('data/' + id + '.json', function (error, links) {
   if (error) {
     d3.select(".visualization").remove();
