@@ -57,7 +57,7 @@ d3.json('data/' + id + '.json', function (error, links) {
     svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
   };
 
-  var vertices = [{name: links.source, targetId: id}].concat(links.targets);
+  var vertices = [{name: links.source, trackCount: links.trackCount, targetId: id}].concat(links.targets);
 
   links.targets.forEach(function(link, index) {
     link.source = vertices[0];
@@ -134,8 +134,12 @@ d3.json('data/' + id + '.json', function (error, links) {
             .attr("dx", x + 8)
             .attr("dy", y + 32)
             .text(datum.name);
-        var detailsText = "recorded with " + links.source + " on " + datum.trackCount +
-          " track" + (datum.trackCount > 1 ? "s" : "");
+        var detailsText = "";
+        if (links.source !== datum.name) {
+          detailsText = "recorded with " + links.source + " on ";
+        }
+        detailsText += datum.trackCount + " track" + (datum.trackCount > 1 ? "s" : "");
+
         var details = parent.append("text")
             .attr("class", "details")
             .attr("dx", x + 16)
