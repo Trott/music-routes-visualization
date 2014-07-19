@@ -59,7 +59,11 @@ var generateJson = function (individualId) {
   });
 
   var file = individualId + ".json";
-  var formattedOutput = JSON.stringify({source: sourceLabel, targets: connectedIndividuals}, null, 2);
+  var formattedOutput = JSON.stringify({
+    source: sourceLabel,
+    trackCount: tracksWithIndividual.length,
+    targets: connectedIndividuals
+  }, null, 2);
 
   fs.writeFile(__dirname + "/../data/" + file, formattedOutput,
     function (err) {
