@@ -101,7 +101,10 @@ d3.json('data/' + id + '.json', function (error, links) {
     .enter().append("circle")
       .attr("r", 64)
       .attr("class", "node")
-      .on("click", function (datum,index) {
+      .on("click", function (datum, index) {
+        if (d3.event.defaultPrevented) {
+          return;
+        }
         var transform = d3.transform(d3.select(this).attr("transform")).translate;
         var width = 320;
         var height = 320;
@@ -122,6 +125,9 @@ d3.json('data/' + id + '.json', function (error, links) {
           .attr("dy", y + 32)
           .text("☓")
           .on("click", function () {
+            if (d3.event.defaultPrevented) {
+              return;
+            }
             container.remove();
             details.remove();
             name.remove();
