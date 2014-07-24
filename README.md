@@ -17,3 +17,18 @@ Demo: https://trott.github.io/music-routes-visualization
 * `node _tools/createDataFiles.js`
 
 Use `-q` if you don't want to see all the logging messages.
+
+# Site
+
+## Prerequisite
+
+* Install [Jekyll](http://jekyllrb.com/)
+
+## Build
+
+* `jekyll build` to build the site in `_site`
+* `jekyll serve` to build the site and serve the results at http://localhost:4000/
+
+# License
+
+MIT
