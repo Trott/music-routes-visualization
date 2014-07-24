@@ -14,7 +14,7 @@ if (! argv.q) {
   });
 }
 
-var sourceDataDir = __dirname + "/node_modules/music-routes-data/data";
+var sourceDataDir = __dirname + "/../node_modules/music-routes-data/data";
 var individuals = require(sourceDataDir + "/individuals.json");
 var individualIds = individuals.map(function(elem) { return elem._id; });
 var individual_track = require(sourceDataDir + "/individual_track.json");
