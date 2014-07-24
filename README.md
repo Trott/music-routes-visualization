@@ -5,7 +5,7 @@ Visualization for [Music Routes data](https://github.com/Trott/music-routes-data
 
 Demo: https://trott.github.io/music-routes-visualization
 
-# Build tools
+# Data tools
 
 ## Installation
 
@@ -18,7 +18,7 @@ Demo: https://trott.github.io/music-routes-visualization
 
 Use `-q` if you don't want to see all the logging messages.
 
-# Site
+# Site tools
 
 ## Prerequisite
 
