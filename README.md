@@ -12,7 +12,7 @@ Demo: https://trott.github.io/music-routes-visualization
 * Install [Node.js](http://nodejs.org/)
 * `npm install`
 
-## Rebuilding data for the site
+## Build
 
 * `node _tools/createDataFiles.js`
 
