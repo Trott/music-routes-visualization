@@ -67,7 +67,9 @@ var generateJson = function (individualId) {
 
   fs.writeFile(__dirname + "/../data/" + file, formattedOutput,
     function (err) {
-      if (err) throw err;
+      if (err) {
+        throw err;
+      }
       logger.emit("log", "Wrote JSON file for individual with ID of " + individualId);
     }
   );
