@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "Visualization for music-routes-data",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "jshint ."
   },
   "author": "Rich Trott <rtrott@gmail.com> (https://github.com/Trott)",
   "license": "MIT",
@@ -17,5 +18,6 @@
     "minimist": "^0.2.0",
     "music-routes-data": "latest",
     "precommit-hook": "latest"
-  }
+  },
+  "precommit": ["lint"]
 }
