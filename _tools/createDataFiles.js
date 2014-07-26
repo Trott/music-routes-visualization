@@ -42,6 +42,7 @@ var generateJson = function (individualId) {
     return tracksWithIndividual.indexOf(elem._id) > -1;
   });
 
+  //TODO: add a tracks array that contains just the ids in common with the source individual
   var trackCounts = {};
   var connectedIndividuals = individual_track.filter(function (elem) {
     if (tracksWithIndividual.indexOf(elem.track_id) > -1) {
