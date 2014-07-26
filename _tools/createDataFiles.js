@@ -19,6 +19,8 @@ var individuals = require(sourceDataDir + "/individuals.json");
 var individualIds = individuals.map(function(elem) { return elem._id; });
 var individual_track = require(sourceDataDir + "/individual_track.json");
 var tracks = require(sourceDataDir + "/tracks.json");
+var releases = require(sourceDataDir + "/releases.json");
+var track_release = require(sourceDataDir + "/track_release.json");
 
 var getName = function (id) {
   return individuals.filter(function(elem) {
@@ -37,9 +39,19 @@ var generateJson = function (individualId) {
     return elem.track_id;
   });
 
-  //TODO: get release info too
   var tracksDetailsForIndividual = tracks.filter(function (elem) {
     return tracksWithIndividual.indexOf(elem._id) > -1;
+  });
+
+  tracksDetailsForIndividual.forEach(function (track) {
+    var trackReleaseIds = track_release.filter(function (relation) {
+      return relation.track_id === track._id;
+    }).map(function(elem) { return elem.release_id; });
+
+    track.releases = releases.filter(function (release) {
+      return trackReleaseIds.indexOf(release._id) > -1;
+    });
+
   });
 
   //TODO: add a tracks array that contains just the ids in common with the source individual
@@ -83,6 +95,8 @@ var generateJson = function (individualId) {
   );
 };
 
-individualIds.forEach(function (individualId) {
-  generateJson(individualId);
-});
+generateJson(individualIds[0]);
+
+// individualIds.forEach(function (individualId) {
+//   generateJson(individualId);
+// });
