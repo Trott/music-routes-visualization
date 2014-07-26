@@ -18,6 +18,7 @@ var sourceDataDir = __dirname + "/../node_modules/music-routes-data/data";
 var individuals = require(sourceDataDir + "/individuals.json");
 var individualIds = individuals.map(function(elem) { return elem._id; });
 var individual_track = require(sourceDataDir + "/individual_track.json");
+var tracks = require(sourceDataDir + "/tracks.json");
 
 var getName = function (id) {
   return individuals.filter(function(elem) {
@@ -34,6 +35,10 @@ var generateJson = function (individualId) {
     return elem.individual_id === individualId;
   }).map(function (elem) {
     return elem.track_id;
+  });
+
+  var tracksDetailsForIndividual = tracks.filter(function (elem) {
+    return tracksWithIndividual.indexOf(elem._id) > -1;
   });
 
   var trackCounts = {};
@@ -62,6 +67,7 @@ var generateJson = function (individualId) {
   var formattedOutput = JSON.stringify({
     source: sourceLabel,
     trackCount: tracksWithIndividual.length,
+    tracks: tracksDetailsForIndividual,
     targets: connectedIndividuals
   }, null, 2);
 
