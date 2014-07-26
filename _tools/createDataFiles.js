@@ -95,8 +95,6 @@ var generateJson = function (individualId) {
   );
 };
 
-generateJson(individualIds[0]);
-
-// individualIds.forEach(function (individualId) {
-//   generateJson(individualId);
-// });
+individualIds.forEach(function (individualId) {
+  generateJson(individualId);
+});
