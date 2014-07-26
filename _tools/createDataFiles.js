@@ -37,6 +37,7 @@ var generateJson = function (individualId) {
     return elem.track_id;
   });
 
+  //TODO: get release info too
   var tracksDetailsForIndividual = tracks.filter(function (elem) {
     return tracksWithIndividual.indexOf(elem._id) > -1;
   });
