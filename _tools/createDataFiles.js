@@ -56,14 +56,17 @@ var generateJson = function (individualId) {
 
   //TODO: add a tracks array that contains just the ids in common with the source individual
   var trackCounts = {};
+  var trackArrays = {};
   var connectedIndividuals = individual_track.filter(function (elem) {
     if (tracksWithIndividual.indexOf(elem.track_id) > -1) {
       if (elem.individual_id != individualId) {
         if (trackCounts[elem.individual_id]) {
           trackCounts[elem.individual_id]++;
+          trackArrays[elem.individual_id].push(elem.track_id);
           return false;
         }
         trackCounts[elem.individual_id] = 1;
+        trackArrays[elem.individual_id] = [elem.track_id];
         return true;
       }
     }
@@ -73,7 +76,8 @@ var generateJson = function (individualId) {
     return {
       name: getName(elem.individual_id),
       targetId: elem.individual_id,
-      trackCount: trackCounts[elem.individual_id]
+      trackCount: trackCounts[elem.individual_id],
+      tracks: trackArrays[elem.individual_id]
     };
   });
 
