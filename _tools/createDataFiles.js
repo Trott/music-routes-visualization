@@ -54,7 +54,6 @@ var generateJson = function (individualId) {
 
   });
 
-  //TODO: add a tracks array that contains just the ids in common with the source individual
   var trackCounts = {};
   var trackArrays = {};
   var connectedIndividuals = individual_track.filter(function (elem) {
