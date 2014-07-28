@@ -1,11 +1,38 @@
 {
   "source": "Rainer Ptacek",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3619",
+      "names": [
+        "21 Years"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3619"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Claude Dupras",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "703",
+      "names": [
+        "Kypros"
+      ],
+      "releases": [
+        {
+          "_id": "246",
+          "names": [
+            "Izitso"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "170",
+          "names": [
+            "Cat Stevens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Cat Stevens",
       "targetId": "1088",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "703"
+      ]
     }
   ]
 }

@@ -1,21 +1,76 @@
 {
   "source": "Dean Garcia",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2051",
+      "names": [
+        "Ever After"
+      ],
+      "releases": [
+        {
+          "_id": "463",
+          "names": [
+            "Dirty Bomb"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "344",
+          "names": [
+            "KGC"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2052",
+      "names": [
+        "Bleeding Heart"
+      ],
+      "releases": [
+        {
+          "_id": "464",
+          "names": [
+            "Gift"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "345",
+          "names": [
+            "Curve"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sascha Konietzko",
       "targetId": "885",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2051"
+      ]
     },
     {
       "name": "Lucia Cifarelli",
       "targetId": "2380",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2051"
+      ]
     },
     {
       "name": "Toni Halliday",
       "targetId": "2381",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2052"
+      ]
     }
   ]
 }

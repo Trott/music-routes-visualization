@@ -1,31 +1,95 @@
 {
   "source": "Cone McCaslin",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6468",
+      "names": [
+        "Little Know It All"
+      ],
+      "releases": [
+        {
+          "_id": "1289",
+          "names": [
+            "Skull Ring"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6472",
+      "names": [
+        "Motivation"
+      ],
+      "releases": [
+        {
+          "_id": "1290",
+          "names": [
+            "All Killer No Filler"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "996",
+          "names": [
+            "Sum 41"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Iggy Pop",
       "targetId": "1832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6468"
+      ]
     },
     {
       "name": "Steve Jocz",
       "targetId": "3033",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6468",
+        "6472"
+      ]
     },
     {
       "name": "Deryck Whibley",
       "targetId": "6297",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6468",
+        "6472"
+      ]
     },
     {
       "name": "Dave Baksh",
       "targetId": "6305",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6468",
+        "6472"
+      ]
     },
     {
       "name": "Greig Nori",
       "targetId": "6309",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6472"
+      ]
     }
   ]
 }

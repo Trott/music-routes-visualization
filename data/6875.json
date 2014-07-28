@@ -1,21 +1,54 @@
 {
   "source": "Rosie Gaines",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7079",
+      "names": [
+        "Gett Off"
+      ],
+      "releases": [
+        {
+          "_id": "1402",
+          "names": [
+            "Diamonds and Pearls"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "372",
+          "names": [
+            "Prince"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Prince",
       "targetId": "712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7079"
+      ]
     },
     {
       "name": "Eric Leeds",
       "targetId": "6873",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7079"
+      ]
     },
     {
       "name": "Tony M.",
       "targetId": "6874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7079"
+      ]
     }
   ]
 }

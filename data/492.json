@@ -1,116 +1,318 @@
 {
   "source": "Andrew Mackay",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "146",
+      "names": [
+        "Virginia Plain"
+      ],
+      "releases": [
+        {
+          "_id": "110",
+          "names": [
+            "Roxy Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "83",
+          "names": [
+            "Roxy Music"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "174",
+      "names": [
+        "Ladytron"
+      ],
+      "releases": [
+        {
+          "_id": "131",
+          "names": [
+            "Velvet Goldmine (soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "94",
+          "names": [
+            "The Venus In Furs"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4428",
+      "names": [
+        "Aquarium"
+      ],
+      "releases": [
+        {
+          "_id": "885",
+          "names": [
+            "Four Five Six"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "698",
+          "names": [
+            "The Grid"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7125",
+      "names": [
+        "Love Comes Quickly"
+      ],
+      "releases": [
+        {
+          "_id": "1412",
+          "names": [
+            "Please/Further Listening 1984-1986"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1088",
+          "names": [
+            "Pet Shop Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9230",
+      "names": [
+        "On Some Faraway Beach"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9233",
+      "names": [
+        "Some Of Them Are Old"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "146",
+        "9230",
+        "9233"
+      ]
     },
     {
       "name": "Robert Fripp",
       "targetId": "339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4428"
+      ]
     },
     {
       "name": "Bryan Ferry",
       "targetId": "490",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     },
     {
       "name": "Paul Thompson",
       "targetId": "491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     },
     {
       "name": "Phil Manzanera",
       "targetId": "493",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     },
     {
       "name": "Rik Kenton",
       "targetId": "494",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     },
     {
       "name": "Thom Yorke",
       "targetId": "545",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "174"
+      ]
     },
     {
       "name": "Jonny Greenwood",
       "targetId": "548",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "174"
+      ]
     },
     {
       "name": "Bernard Butler",
       "targetId": "550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "174"
+      ]
     },
     {
       "name": "Paul Kimble",
       "targetId": "551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "174"
+      ]
     },
     {
       "name": "Simon King",
       "targetId": "566",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9230"
+      ]
     },
     {
       "name": "Neil Tennant",
       "targetId": "2971",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7125"
+      ]
     },
     {
       "name": "Steve Sidelnyk",
       "targetId": "2976",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4428"
+      ]
     },
     {
       "name": "Alex Gifford",
       "targetId": "4538",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4428"
+      ]
     },
     {
       "name": "Dave Ball",
       "targetId": "4542",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4428"
+      ]
     },
     {
       "name": "Sacha Souter",
       "targetId": "4544",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4428"
+      ]
     },
     {
       "name": "Dagmar Krause",
       "targetId": "4545",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4428"
+      ]
     },
     {
       "name": "Richard Norris",
       "targetId": "4546",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4428"
+      ]
     },
     {
       "name": "Chris Lowe",
       "targetId": "6899",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7125"
+      ]
     },
     {
       "name": "Busta Jones",
       "targetId": "8638",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9230"
+      ]
     },
     {
       "name": "Marc Scott",
       "targetId": "8641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9230"
+      ]
     },
     {
       "name": "Lloyd Watson",
       "targetId": "8643",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9233"
+      ]
     }
   ]
 }

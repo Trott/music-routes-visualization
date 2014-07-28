@@ -1,11 +1,38 @@
 {
   "source": "Milton Nascimento",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7507",
+      "names": [
+        "Cor Do Amor"
+      ],
+      "releases": [
+        {
+          "_id": "1479",
+          "names": [
+            "The Storyteller"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andreas Vollenweider",
       "targetId": "7175",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7507"
+      ]
     }
   ]
 }

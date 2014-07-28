@@ -1,26 +1,62 @@
 {
   "source": "Willie B",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1229",
+      "names": [
+        "Fox Confessor Brings The Flood"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neko Case",
       "targetId": "1685",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1229"
+      ]
     },
     {
       "name": "Paul Rigby",
       "targetId": "1689",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1229"
+      ]
     },
     {
       "name": "Tom Ray",
       "targetId": "1692",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1229"
+      ]
     },
     {
       "name": "Howe Gelb",
       "targetId": "1694",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1229"
+      ]
     }
   ]
 }

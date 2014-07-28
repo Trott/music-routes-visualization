@@ -1,36 +1,105 @@
 {
   "source": "Eric Morecambe",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12352",
+      "names": [
+        "Speech: Eric Morecambe And Ernie Wise"
+      ],
+      "releases": [
+        {
+          "_id": "2221",
+          "names": [
+            "Anthology 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12353",
+      "names": [
+        "Moonlight Bay"
+      ],
+      "releases": [
+        {
+          "_id": "2221",
+          "names": [
+            "Anthology 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12352",
+        "12353"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12352",
+        "12353"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12352",
+        "12353"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12352",
+        "12353"
+      ]
     },
     {
       "name": "Ernie Wise",
       "targetId": "10239",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12352",
+        "12353"
+      ]
     },
     {
       "name": "Kenny Powell",
       "targetId": "10240",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12353"
+      ]
     }
   ]
 }

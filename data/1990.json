@@ -1,41 +1,92 @@
 {
   "source": "Bill Jackman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1770",
+      "names": [
+        "Lady Madonna"
+      ],
+      "releases": [
+        {
+          "_id": "398",
+          "names": [
+            "Past Masters, Volume Two"
+          ]
+        },
+        {
+          "_id": "2128",
+          "names": [
+            "Mono Masters, Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "Ronnie Scott",
       "targetId": "1987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "Harry Klein",
       "targetId": "1988",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "Bill Povey",
       "targetId": "1989",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     }
   ]
 }

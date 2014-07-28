@@ -1,31 +1,92 @@
 {
   "source": "Mike Skinner",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3994",
+      "names": [
+        "Nite Nite"
+      ],
+      "releases": [
+        {
+          "_id": "815",
+          "names": [
+            "Home Sweet Home"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "638",
+          "names": [
+            "Kano"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3995",
+      "names": [
+        "Who Knows Who"
+      ],
+      "releases": [
+        {
+          "_id": "816",
+          "names": [
+            "Muselive.com (Internet leak)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "641",
+          "names": [
+            "Muse & The Streets"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kano",
       "targetId": "4160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3994"
+      ]
     },
     {
       "name": "Leo Ihenacho",
       "targetId": "4162",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3994"
+      ]
     },
     {
       "name": "Matthew Bellamy",
       "targetId": "4163",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3995"
+      ]
     },
     {
       "name": "Christopher Wolstenholme",
       "targetId": "4164",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3995"
+      ]
     },
     {
       "name": "Dominic Howard",
       "targetId": "4165",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3995"
+      ]
     }
   ]
 }

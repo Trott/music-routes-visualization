@@ -1,26 +1,62 @@
 {
   "source": "Clare Torry",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1794",
+      "names": [
+        "The Great Gig In The Sky"
+      ],
+      "releases": [
+        {
+          "_id": "400",
+          "names": [
+            "The Dark Side Of The Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "45",
+          "names": [
+            "Pink Floyd"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Gilmour",
       "targetId": "275",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1794"
+      ]
     },
     {
       "name": "Nick Mason",
       "targetId": "2001",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1794"
+      ]
     },
     {
       "name": "Richard Wright",
       "targetId": "2002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1794"
+      ]
     },
     {
       "name": "Roger Waters",
       "targetId": "2003",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1794"
+      ]
     }
   ]
 }

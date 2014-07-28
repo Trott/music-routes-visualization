@@ -1,26 +1,62 @@
 {
   "source": "Evie",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "422",
+      "names": [
+        "Mysterious Ways"
+      ],
+      "releases": [
+        {
+          "_id": "208",
+          "names": [
+            "Agogo"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "144",
+          "names": [
+            "KMFDM"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Charles Levi",
       "targetId": "884",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "422"
+      ]
     },
     {
       "name": "Sascha Konietzko",
       "targetId": "885",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "422"
+      ]
     },
     {
       "name": "Mark Durante",
       "targetId": "886",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "422"
+      ]
     },
     {
       "name": "Lee Popa",
       "targetId": "887",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "422"
+      ]
     }
   ]
 }

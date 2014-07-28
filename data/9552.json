@@ -1,51 +1,252 @@
 {
   "source": "C.F. Turner",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "10775",
+      "names": [
+        "You Ain't Seen Nothing Yet"
+      ],
+      "releases": [
+        {
+          "_id": "2057",
+          "names": [
+            "The 70's - 1974  -  Back In The Groove CD 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10797",
+      "names": [
+        "Roll On Down The High Way"
+      ],
+      "releases": [
+        {
+          "_id": "2060",
+          "names": [
+            "The 70's - 1975 - CD 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12698",
+      "names": [
+        "Don't Ya Say It"
+      ],
+      "releases": [
+        {
+          "_id": "2275",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12723",
+      "names": [
+        "Amelia Earhart"
+      ],
+      "releases": [
+        {
+          "_id": "2280",
+          "names": [
+            "Rock N' Roll Nights"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12724",
+      "names": [
+        "Here She Comes Again"
+      ],
+      "releases": [
+        {
+          "_id": "2280",
+          "names": [
+            "Rock N' Roll Nights"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12725",
+      "names": [
+        "Jamaica"
+      ],
+      "releases": [
+        {
+          "_id": "2280",
+          "names": [
+            "Rock N' Roll Nights"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12726",
+      "names": [
+        "Rock And Roll Hell"
+      ],
+      "releases": [
+        {
+          "_id": "2280",
+          "names": [
+            "Rock N' Roll Nights"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "12698",
+        "12723",
+        "12724",
+        "12725",
+        "12726"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12698"
+      ]
     },
     {
       "name": "Colina Phillips",
       "targetId": "2469",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12698"
+      ]
     },
     {
       "name": "Sharon Lee Williams",
       "targetId": "2496",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12698"
+      ]
     },
     {
       "name": "Randy Bachman",
       "targetId": "3490",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10775",
+        "10797"
+      ]
     },
     {
       "name": "Blair Thornton",
       "targetId": "9553",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "10775",
+        "10797",
+        "12723",
+        "12724",
+        "12725",
+        "12726"
+      ]
     },
     {
       "name": "Rob Bachman",
       "targetId": "9554",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "10775",
+        "10797",
+        "12723",
+        "12724",
+        "12725",
+        "12726"
+      ]
     },
     {
       "name": "Gene Meros",
       "targetId": "10344",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12698"
+      ]
     },
     {
       "name": "Jim Clench",
       "targetId": "10361",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12723",
+        "12724",
+        "12725",
+        "12726"
+      ]
     }
   ]
 }

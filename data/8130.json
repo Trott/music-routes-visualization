@@ -1,26 +1,106 @@
 {
   "source": "Jay Sean",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "8764",
+      "names": [
+        "Down"
+      ],
+      "releases": [
+        {
+          "_id": "1681",
+          "names": [
+            "All Or Nothing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1284",
+          "names": [
+            "Jay Sean"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8765",
+      "names": [
+        "Do You Remember"
+      ],
+      "releases": [
+        {
+          "_id": "1681",
+          "names": [
+            "All Or Nothing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1284",
+          "names": [
+            "Jay Sean"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8766",
+      "names": [
+        "Stuck In The Middle"
+      ],
+      "releases": [
+        {
+          "_id": "1681",
+          "names": [
+            "All Or Nothing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1284",
+          "names": [
+            "Jay Sean"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lil Wayne",
       "targetId": "3859",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8764"
+      ]
     },
     {
       "name": "Lil Jon",
       "targetId": "7318",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8765"
+      ]
     },
     {
       "name": "Sean Paul",
       "targetId": "8131",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8765"
+      ]
     },
     {
       "name": "Jared Cotter",
       "targetId": "8132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8766"
+      ]
     }
   ]
 }

@@ -1,41 +1,86 @@
 {
   "source": "Ted Templeman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "248",
+      "names": [
+        "Something's Happening"
+      ],
+      "releases": [
+        {
+          "_id": "163",
+          "names": [
+            "Behind The Sun"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "112",
+          "names": [
+            "Eric Clapton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lindsey Buckingham",
       "targetId": "48",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "248"
+      ]
     },
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "248"
+      ]
     },
     {
       "name": "Nathan East",
       "targetId": "403",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "248"
+      ]
     },
     {
       "name": "Greg Phillinganes",
       "targetId": "649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "248"
+      ]
     },
     {
       "name": "James Newton Howard",
       "targetId": "650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "248"
+      ]
     },
     {
       "name": "Jerry Lynn Williams",
       "targetId": "652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "248"
+      ]
     },
     {
       "name": "John \"J. R.\" Robinson",
       "targetId": "653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "248"
+      ]
     }
   ]
 }

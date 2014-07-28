@@ -1,26 +1,62 @@
 {
   "source": "Michael Stuart",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2097",
+      "names": [
+        "A House Is Not A Motel"
+      ],
+      "releases": [
+        {
+          "_id": "479",
+          "names": [
+            "Forever Changes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "359",
+          "names": [
+            "Love"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ken Forssi",
       "targetId": "2506",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2097"
+      ]
     },
     {
       "name": "John Echols",
       "targetId": "2508",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2097"
+      ]
     },
     {
       "name": "Bryan Maclean",
       "targetId": "2509",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2097"
+      ]
     },
     {
       "name": "Arthur Lee",
       "targetId": "2510",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2097"
+      ]
     }
   ]
 }

@@ -1,26 +1,68 @@
 {
   "source": "Lloyd Parks",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10940",
+      "names": [
+        "Everything I Own"
+      ],
+      "releases": [
+        {
+          "_id": "2063",
+          "names": [
+            "The 70's - 1974 - CD 2"
+          ]
+        },
+        {
+          "_id": "2081",
+          "names": [
+            "Everything I Own"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1589",
+          "names": [
+            "Ken Boothe"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ken Boothe",
       "targetId": "6836",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10940"
+      ]
     },
     {
       "name": "Lloyd Charmers",
       "targetId": "9614",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10940"
+      ]
     },
     {
       "name": "Paul Williams",
       "targetId": "9616",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10940"
+      ]
     },
     {
       "name": "Willie Lindo",
       "targetId": "9617",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10940"
+      ]
     }
   ]
 }

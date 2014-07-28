@@ -1,11 +1,61 @@
 {
   "source": "David Brown",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5466",
+      "names": [
+        "Still In Love With You"
+      ],
+      "releases": [
+        {
+          "_id": "537",
+          "names": [
+            "Karen Carpenter"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "408",
+          "names": [
+            "Karen Carpenter"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5468",
+      "names": [
+        "Still Crazy After All These Years"
+      ],
+      "releases": [
+        {
+          "_id": "537",
+          "names": [
+            "Karen Carpenter"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "408",
+          "names": [
+            "Karen Carpenter"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Karen Carpenter",
       "targetId": "2111",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5466",
+        "5468"
+      ]
     }
   ]
 }

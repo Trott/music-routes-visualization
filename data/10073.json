@@ -1,11 +1,38 @@
 {
   "source": "Colin Gregory",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11963",
+      "names": [
+        "(Don't Cut Me Down) Mary Quant In Blue"
+      ],
+      "releases": [
+        {
+          "_id": "2180",
+          "names": [
+            "The Brit Box Disc 02"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1617",
+          "names": [
+            "The Dylans"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Rodger",
       "targetId": "10074",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11963"
+      ]
     }
   ]
 }

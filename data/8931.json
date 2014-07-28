@@ -1,16 +1,46 @@
 {
   "source": "Funkmaster Flex",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9655",
+      "names": [
+        "Ante Up (Robbin Hoodz Theory)"
+      ],
+      "releases": [
+        {
+          "_id": "1849",
+          "names": [
+            "Warriorz"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1432",
+          "names": [
+            "M.O.P."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lil' Fame",
       "targetId": "8929",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9655"
+      ]
     },
     {
       "name": "Billy Danze",
       "targetId": "8930",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9655"
+      ]
     }
   ]
 }

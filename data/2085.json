@@ -1,11 +1,38 @@
 {
   "source": "Mocky",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1976",
+      "names": [
+        "Rock The Shocker"
+      ],
+      "releases": [
+        {
+          "_id": "426",
+          "names": [
+            "Impeach My Bush"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "257",
+          "names": [
+            "Peaches"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Peaches",
       "targetId": "1831",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1976"
+      ]
     }
   ]
 }

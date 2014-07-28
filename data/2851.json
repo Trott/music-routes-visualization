@@ -1,11 +1,38 @@
 {
   "source": "Barbara Manning",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2312",
+      "names": [
+        "San Diego Zoo"
+      ],
+      "releases": [
+        {
+          "_id": "584",
+          "names": [
+            "Wasps' Nests"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2312"
+      ]
     }
   ]
 }

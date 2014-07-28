@@ -1,46 +1,116 @@
 {
   "source": "Chuck Domanico",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6125",
+      "names": [
+        "Moonlight Lady"
+      ],
+      "releases": [
+        {
+          "_id": "1228",
+          "names": [
+            "Brick By Brick"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13432",
+      "names": [
+        "Rose Marie (Mon Cherie)"
+      ],
+      "releases": [
+        {
+          "_id": "2458",
+          "names": [
+            "Who Is This Bitch, Anyway?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1749",
+          "names": [
+            "Marlena Shaw"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Gordon",
       "targetId": "522",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13432"
+      ]
     },
     {
       "name": "David Lindley",
       "targetId": "641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6125"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6125"
+      ]
     },
     {
       "name": "Iggy Pop",
       "targetId": "1832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6125"
+      ]
     },
     {
       "name": "Kenny Aronoff",
       "targetId": "4158",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6125"
+      ]
     },
     {
       "name": "Dennis Budimir",
       "targetId": "8786",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13432"
+      ]
     },
     {
       "name": "Marlena Shaw",
       "targetId": "10965",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13432"
+      ]
     },
     {
       "name": "Bill Mays",
       "targetId": "10969",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13432"
+      ]
     }
   ]
 }

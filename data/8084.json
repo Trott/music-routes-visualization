@@ -1,36 +1,106 @@
 {
   "source": "Sidney Arodin",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8707",
+      "names": [
+        "Sing It Way Down Low"
+      ],
+      "releases": [
+        {
+          "_id": "1669",
+          "names": [
+            "\"Sing It Way Down Low\" 78 RPM single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "814",
+          "names": [
+            "Louis Prima"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8708",
+      "names": [
+        "Let's Have A Jubilee"
+      ],
+      "releases": [
+        {
+          "_id": "1669",
+          "names": [
+            "\"Sing It Way Down Low\" 78 RPM single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "814",
+          "names": [
+            "Louis Prima"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Louis Prima",
       "targetId": "1795",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8707",
+        "8708"
+      ]
     },
     {
       "name": "Claude Thornhill",
       "targetId": "8082",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8707",
+        "8708"
+      ]
     },
     {
       "name": "George Brunies",
       "targetId": "8083",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8707",
+        "8708"
+      ]
     },
     {
       "name": "George Van Eps",
       "targetId": "8085",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8707",
+        "8708"
+      ]
     },
     {
       "name": "Bonnie Pottle",
       "targetId": "8086",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8707",
+        "8708"
+      ]
     },
     {
       "name": "Stan King",
       "targetId": "8087",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8707",
+        "8708"
+      ]
     }
   ]
 }

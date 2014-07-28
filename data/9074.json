@@ -1,21 +1,79 @@
 {
   "source": "Alison Pate",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9828",
+      "names": [
+        "Cucumber Sandwich"
+      ],
+      "releases": [
+        {
+          "_id": "1887",
+          "names": [
+            "\"Cucumber Sandwich\" b/w \"Friendly Fire\" 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1458",
+          "names": [
+            "The Architects Of Disaster"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9829",
+      "names": [
+        "Friendly Fire"
+      ],
+      "releases": [
+        {
+          "_id": "1887",
+          "names": [
+            "\"Cucumber Sandwich\" b/w \"Friendly Fire\" 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1458",
+          "names": [
+            "The Architects Of Disaster"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Wright",
       "targetId": "9071",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9828",
+        "9829"
+      ]
     },
     {
       "name": "Tony Pettitt",
       "targetId": "9072",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9828",
+        "9829"
+      ]
     },
     {
       "name": "Phil Parfitt",
       "targetId": "9075",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9828",
+        "9829"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Robin George",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3614",
+      "names": [
+        "Red For Danger"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3614"
+      ]
     }
   ]
 }

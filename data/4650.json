@@ -1,36 +1,78 @@
 {
   "source": "Alvin \"Red\" Tyler",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4500",
+      "names": [
+        "Tutti Frutti"
+      ],
+      "releases": [
+        {
+          "_id": "903",
+          "names": [
+            "The Georgia Peach"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "711",
+          "names": [
+            "Little Richard"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Little Richard",
       "targetId": "4645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Frank Fields",
       "targetId": "4646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Earl Palmer",
       "targetId": "4647",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Justin Adams",
       "targetId": "4648",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Huey \"Piano\" Smith",
       "targetId": "4649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Lee Allen",
       "targetId": "4651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     }
   ]
 }

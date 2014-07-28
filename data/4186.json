@@ -1,26 +1,62 @@
 {
   "source": "Patrick Gleeson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4016",
+      "names": [
+        "Fast Times At Ridgemont High"
+      ],
+      "releases": [
+        {
+          "_id": "821",
+          "names": [
+            "The Essential Red Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "248",
+          "names": [
+            "Sammy Hagar"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sammy Hagar",
       "targetId": "1735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4016"
+      ]
     },
     {
       "name": "Bill Church",
       "targetId": "1737",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4016"
+      ]
     },
     {
       "name": "Gary Pihl",
       "targetId": "1739",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4016"
+      ]
     },
     {
       "name": "David Lauser",
       "targetId": "1744",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4016"
+      ]
     }
   ]
 }

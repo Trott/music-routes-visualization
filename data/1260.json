@@ -1,66 +1,148 @@
 {
   "source": "Herb Bushler",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "872",
+      "names": [
+        "Too High"
+      ],
+      "releases": [
+        {
+          "_id": "270",
+          "names": [
+            "Playtime: 10 Pure 70s Jazz-Funk Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "191",
+          "names": [
+            "Joe Farrell"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "876",
+      "names": [
+        "Sesame Street Fever"
+      ],
+      "releases": [
+        {
+          "_id": "272",
+          "names": [
+            "Sesame Street Fever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Big Bird",
       "targetId": "240",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "The Count",
       "targetId": "245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Joe Farrell",
       "targetId": "1259",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "872"
+      ]
     },
     {
       "name": "Don Alias",
       "targetId": "1261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "872"
+      ]
     },
     {
       "name": "Steve Gadd",
       "targetId": "1262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "872"
+      ]
     },
     {
       "name": "Joe Beck",
       "targetId": "1263",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "872"
+      ]
     },
     {
       "name": "Herbie Hancock",
       "targetId": "1264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "872"
+      ]
     },
     {
       "name": "Richard Crooks",
       "targetId": "1270",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Robin Gibb",
       "targetId": "1279",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Grover",
       "targetId": "1280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Ernie",
       "targetId": "1281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Cookie Monster",
       "targetId": "1282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     }
   ]
 }

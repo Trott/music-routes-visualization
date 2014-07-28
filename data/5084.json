@@ -1,21 +1,54 @@
 {
   "source": "Nick Luca",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4952",
+      "names": [
+        "Cachaça"
+      ],
+      "releases": [
+        {
+          "_id": "995",
+          "names": [
+            "Travelall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "608",
+          "names": [
+            "Calexico"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joey Burns",
       "targetId": "1686",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4952"
+      ]
     },
     {
       "name": "John Convertino",
       "targetId": "1700",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4952"
+      ]
     },
     {
       "name": "Martin Wenk",
       "targetId": "3972",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4952"
+      ]
     }
   ]
 }

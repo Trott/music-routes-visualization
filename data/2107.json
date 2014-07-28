@@ -1,46 +1,140 @@
 {
   "source": "Marky Ramone",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1987",
+      "names": [
+        "Wicked World"
+      ],
+      "releases": [
+        {
+          "_id": "433",
+          "names": [
+            "Osaka Popstar And The American Legends Of Punk"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "315",
+          "names": [
+            "Osaka Popstar"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1988",
+      "names": [
+        "I Wanna Be Sedated"
+      ],
+      "releases": [
+        {
+          "_id": "434",
+          "names": [
+            "Road To Ruin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "316",
+          "names": [
+            "The Ramones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2118",
+      "names": [
+        "R.A.M.O.N.E.S."
+      ],
+      "releases": [
+        {
+          "_id": "494",
+          "names": [
+            "We're Outta Here!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "316",
+          "names": [
+            "The Ramones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dez Cadena",
       "targetId": "1625",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1987"
+      ]
     },
     {
       "name": "John Cafiero",
       "targetId": "2104",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1987"
+      ]
     },
     {
       "name": "Jerry Only",
       "targetId": "2105",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1987"
+      ]
     },
     {
       "name": "Ivan Julian",
       "targetId": "2106",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1987"
+      ]
     },
     {
       "name": "Joey Ramone",
       "targetId": "2108",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1988",
+        "2118"
+      ]
     },
     {
       "name": "Johnny Ramone",
       "targetId": "2109",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1988",
+        "2118"
+      ]
     },
     {
       "name": "Dee Dee Ramone",
       "targetId": "2110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1988"
+      ]
     },
     {
       "name": "Lemmy Kilmister",
       "targetId": "2550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2118"
+      ]
     }
   ]
 }

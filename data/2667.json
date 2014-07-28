@@ -1,41 +1,207 @@
 {
   "source": "Kevin Haskins",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "2207",
+      "names": [
+        "Double Dare"
+      ],
+      "releases": [
+        {
+          "_id": "528",
+          "names": [
+            "Crackle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "399",
+          "names": [
+            "Bauhaus"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2208",
+      "names": [
+        "If There's A Heaven Above"
+      ],
+      "releases": [
+        {
+          "_id": "529",
+          "names": [
+            "Seventh Dream Of Teenage Heaven"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "400",
+          "names": [
+            "Love and Rockets"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4648",
+      "names": [
+        "Pearl"
+      ],
+      "releases": [
+        {
+          "_id": "950",
+          "names": [
+            "Sweet F.A."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "400",
+          "names": [
+            "Love and Rockets"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4649",
+      "names": [
+        "Sad And Beautiful World"
+      ],
+      "releases": [
+        {
+          "_id": "950",
+          "names": [
+            "Sweet F.A."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "400",
+          "names": [
+            "Love and Rockets"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4650",
+      "names": [
+        "Shelf Life"
+      ],
+      "releases": [
+        {
+          "_id": "950",
+          "names": [
+            "Sweet F.A."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "400",
+          "names": [
+            "Love and Rockets"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7081",
+      "names": [
+        "No New Tale To Tell"
+      ],
+      "releases": [
+        {
+          "_id": "1404",
+          "names": [
+            "Earth Sun Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "400",
+          "names": [
+            "Love and Rockets"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Kaphan",
       "targetId": "1065",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4650"
+      ]
     },
     {
       "name": "Carrie Bradley",
       "targetId": "2641",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4648",
+        "4649"
+      ]
     },
     {
       "name": "Peter Murphy",
       "targetId": "2665",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2207"
+      ]
     },
     {
       "name": "David J",
       "targetId": "2666",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "2207",
+        "2208",
+        "4648",
+        "4649",
+        "4650",
+        "7081"
+      ]
     },
     {
       "name": "Daniel Ash",
       "targetId": "2668",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "2207",
+        "2208",
+        "4648",
+        "4649",
+        "4650",
+        "7081"
+      ]
     },
     {
       "name": "Delphine Thirteen",
       "targetId": "4931",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4650"
+      ]
     },
     {
       "name": "Mel Thorpe",
       "targetId": "6880",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7081"
+      ]
     }
   ]
 }

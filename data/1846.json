@@ -1,11 +1,61 @@
 {
   "source": "Robert Del Naja",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1562",
+      "names": [
+        "Karmacoma"
+      ],
+      "releases": [
+        {
+          "_id": "369",
+          "names": [
+            "Protection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "264",
+          "names": [
+            "Massive Attack"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1563",
+      "names": [
+        "Eurochild"
+      ],
+      "releases": [
+        {
+          "_id": "369",
+          "names": [
+            "Protection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "264",
+          "names": [
+            "Massive Attack"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1562",
+        "1563"
+      ]
     }
   ]
 }

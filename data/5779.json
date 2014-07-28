@@ -1,76 +1,435 @@
 {
   "source": "Owen Pallett",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "5854",
+      "names": [
+        "Nantes"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5855",
+      "names": [
+        "A Sunday Smile"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5856",
+      "names": [
+        "Guyamas Sonora"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5858",
+      "names": [
+        "Cliquot"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5860",
+      "names": [
+        "Forks And Knives (La Fête)"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5861",
+      "names": [
+        "In The Mausoleum"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5862",
+      "names": [
+        "Un Dernier Verre (Pour La Route)"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5863",
+      "names": [
+        "Cherbourg"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5864",
+      "names": [
+        "St. Apollonia"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5865",
+      "names": [
+        "The Flying Club Cup"
+      ],
+      "releases": [
+        {
+          "_id": "1157",
+          "names": [
+            "The Flying Club Cup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5866",
+      "names": [
+        "Wake Up"
+      ],
+      "releases": [
+        {
+          "_id": "1158",
+          "names": [
+            "Live EP (Live At Fashion Rocks)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        },
+        {
+          "_id": "474",
+          "names": [
+            "Arcade Fire"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5867",
+      "names": [
+        "Five Years"
+      ],
+      "releases": [
+        {
+          "_id": "1158",
+          "names": [
+            "Live EP (Live At Fashion Rocks)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        },
+        {
+          "_id": "474",
+          "names": [
+            "Arcade Fire"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5866",
+        "5867"
+      ]
     },
     {
       "name": "Win Butler",
       "targetId": "3010",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5866",
+        "5867"
+      ]
     },
     {
       "name": "Zach Condon",
       "targetId": "5770",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "5854",
+        "5855",
+        "5856",
+        "5858",
+        "5860",
+        "5861",
+        "5862",
+        "5863",
+        "5864",
+        "5865"
+      ]
     },
     {
       "name": "Perrin Cloutier",
       "targetId": "5772",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "5854",
+        "5855",
+        "5856",
+        "5860",
+        "5861",
+        "5862",
+        "5864",
+        "5865"
+      ]
     },
     {
       "name": "Heather Trost",
       "targetId": "5774",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5855",
+        "5858"
+      ]
     },
     {
       "name": "Griffin Rodriguez",
       "targetId": "5775",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5860"
+      ]
     },
     {
       "name": "Jason Poranski",
       "targetId": "5776",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5856",
+        "5860",
+        "5862",
+        "5864"
+      ]
     },
     {
       "name": "Kristin Ferebee",
       "targetId": "5777",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "5854",
+        "5855",
+        "5860",
+        "5861",
+        "5863",
+        "5865"
+      ]
     },
     {
       "name": "Nick Petree",
       "targetId": "5778",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "5856",
+        "5858",
+        "5860",
+        "5861",
+        "5864",
+        "5865"
+      ]
     },
     {
       "name": "Paul Collins",
       "targetId": "5780",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5856",
+        "5864"
+      ]
     },
     {
       "name": "Jon Natchez",
       "targetId": "5781",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5860",
+        "5862",
+        "5864",
+        "5865"
+      ]
     },
     {
       "name": "Kendrick Strauch",
       "targetId": "5782",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5856",
+        "5861",
+        "5862",
+        "5865"
+      ]
     },
     {
       "name": "Kelly Pratt",
       "targetId": "5783",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5862"
+      ]
     },
     {
       "name": "Tracy Pratt",
       "targetId": "5784",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5862"
+      ]
     }
   ]
 }

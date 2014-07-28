@@ -1,16 +1,46 @@
 {
   "source": "Alexis Corner",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3611",
+      "names": [
+        "Operator"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3611"
+      ]
     },
     {
       "name": "Steve Miller",
       "targetId": "3732",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3611"
+      ]
     }
   ]
 }

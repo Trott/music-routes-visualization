@@ -1,11 +1,61 @@
 {
   "source": "Ed Goldfarb",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "522",
+      "names": [
+        "Days Of The Soft Break I"
+      ],
+      "releases": [
+        {
+          "_id": "9",
+          "names": [
+            "Days of the Soft Break"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "9",
+          "names": [
+            "The Slow Poisoners"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "525",
+      "names": [
+        "Strange Things Happening"
+      ],
+      "releases": [
+        {
+          "_id": "9",
+          "names": [
+            "Days of the Soft Break"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "9",
+          "names": [
+            "The Slow Poisoners"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andrew Poisoner",
       "targetId": "13",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "522",
+        "525"
+      ]
     }
   ]
 }

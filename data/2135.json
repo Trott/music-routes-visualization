@@ -1,46 +1,116 @@
 {
   "source": "Chris Shiflett",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1996",
+      "names": [
+        "Rocket Man"
+      ],
+      "releases": [
+        {
+          "_id": "441",
+          "names": [
+            "Have A Ball"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "323",
+          "names": [
+            "Me First and the Gimme Gimmes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1997",
+      "names": [
+        "Tired Of You"
+      ],
+      "releases": [
+        {
+          "_id": "442",
+          "names": [
+            "One By One"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "324",
+          "names": [
+            "The Foo Fighters"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian May",
       "targetId": "213",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Dave Grohl",
       "targetId": "338",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Fat Mike",
       "targetId": "2131",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1996"
+      ]
     },
     {
       "name": "Spike Slawson",
       "targetId": "2132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1996"
+      ]
     },
     {
       "name": "Joey Cape",
       "targetId": "2133",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1996"
+      ]
     },
     {
       "name": "Dave Raun",
       "targetId": "2134",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1996"
+      ]
     },
     {
       "name": "Nate Mendel",
       "targetId": "2136",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Taylor Hawkins",
       "targetId": "2137",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     }
   ]
 }

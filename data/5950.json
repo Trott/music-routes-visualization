@@ -1,21 +1,54 @@
 {
   "source": "Yea-Ming Chen",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6007",
+      "names": [
+        "Can I Look At You?"
+      ],
+      "releases": [
+        {
+          "_id": "1204",
+          "names": [
+            "Let's Go To The Sea"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "935",
+          "names": [
+            "Brian Glaze"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Greg Ashley",
       "targetId": "1590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6007"
+      ]
     },
     {
       "name": "Brian Glaze",
       "targetId": "5948",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6007"
+      ]
     },
     {
       "name": "Pete Webster",
       "targetId": "5949",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6007"
+      ]
     }
   ]
 }

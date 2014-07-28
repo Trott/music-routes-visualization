@@ -1,166 +1,486 @@
 {
   "source": "Henry Lowther",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "5624",
+      "names": [
+        "(I Can't Get No) Satisfaction"
+      ],
+      "releases": [
+        {
+          "_id": "1111",
+          "names": [
+            "Manfred Mann: Down The Road Apiece (Their EMI Recordings 1963-1966)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "489",
+          "names": [
+            "Manfred Mann"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5625",
+      "names": [
+        "Spirit Feel"
+      ],
+      "releases": [
+        {
+          "_id": "1111",
+          "names": [
+            "Manfred Mann: Down The Road Apiece (Their EMI Recordings 1963-1966)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "489",
+          "names": [
+            "Manfred Mann"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8718",
+      "names": [
+        "Frames Part 1"
+      ],
+      "releases": [
+        {
+          "_id": "1673",
+          "names": [
+            "Frames: Music For An Imaginary Film"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1278",
+          "names": [
+            "Keith Tippett's Ark"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8719",
+      "names": [
+        "Frames Part 2"
+      ],
+      "releases": [
+        {
+          "_id": "1673",
+          "names": [
+            "Frames: Music For An Imaginary Film"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1278",
+          "names": [
+            "Keith Tippett's Ark"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8720",
+      "names": [
+        "Frames Part 3"
+      ],
+      "releases": [
+        {
+          "_id": "1673",
+          "names": [
+            "Frames: Music For An Imaginary Film"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1278",
+          "names": [
+            "Keith Tippett's Ark"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8721",
+      "names": [
+        "Frames Part 4"
+      ],
+      "releases": [
+        {
+          "_id": "1673",
+          "names": [
+            "Frames: Music For An Imaginary Film"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1278",
+          "names": [
+            "Keith Tippett's Ark"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8722",
+      "names": [
+        "Waiting Around"
+      ],
+      "releases": [
+        {
+          "_id": "1674",
+          "names": [
+            "The Battle Of North West Six"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1279",
+          "names": [
+            "Keef Hartley Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Keith Tippett",
       "targetId": "537",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Nick Evans",
       "targetId": "540",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Jack Bruce",
       "targetId": "1733",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Miller Anderson",
       "targetId": "2912",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Chris Mercer",
       "targetId": "2914",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Manfred Mann",
       "targetId": "3140",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Tom McGuinness",
       "targetId": "3141",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Mike Hugg",
       "targetId": "3142",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Elton Dean",
       "targetId": "3302",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Larry Stabbins",
       "targetId": "4489",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Tim Kramer",
       "targetId": "5416",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Mark Charig",
       "targetId": "5419",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Brian Smith",
       "targetId": "5425",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Dave Amis",
       "targetId": "5429",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Harry Miller",
       "targetId": "5436",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Julie Tippetts",
       "targetId": "5440",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Rod Skeaping",
       "targetId": "5452",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Lyn Dobson",
       "targetId": "5645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Gary Thain",
       "targetId": "8081",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Stan Tracey",
       "targetId": "8106",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Trevor Watts",
       "targetId": "8107",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Maggie Nichols",
       "targetId": "8108",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Steve Levine",
       "targetId": "8109",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Phil Wachsmann",
       "targetId": "8110",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Alexandra Robinson",
       "targetId": "8111",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Peter Kowald",
       "targetId": "8112",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Geoffrey Wharton",
       "targetId": "8113",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Frank Perry",
       "targetId": "8114",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Louis Moholo",
       "targetId": "8115",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8718",
+        "8719",
+        "8720",
+        "8721"
+      ]
     },
     {
       "name": "Keef Hartley",
       "targetId": "8116",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Jim Jewell",
       "targetId": "8117",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Mick Weaver",
       "targetId": "8118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     }
   ]
 }

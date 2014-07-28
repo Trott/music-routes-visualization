@@ -1,11 +1,61 @@
 {
   "source": "Dan Seiden",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9509",
+      "names": [
+        "Do You Sleep?"
+      ],
+      "releases": [
+        {
+          "_id": "1831",
+          "names": [
+            "Tails"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9513",
+      "names": [
+        "Alone"
+      ],
+      "releases": [
+        {
+          "_id": "1831",
+          "names": [
+            "Tails"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Loeb",
       "targetId": "8844",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9509",
+        "9513"
+      ]
     }
   ]
 }

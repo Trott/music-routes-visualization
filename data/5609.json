@@ -1,36 +1,103 @@
 {
   "source": "John Lingwood",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5563",
+      "names": [
+        "Redemption Song"
+      ],
+      "releases": [
+        {
+          "_id": "1098",
+          "names": [
+            "Somewhere In Afrika"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "592",
+          "names": [
+            "Manfred Mann's Earth Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5564",
+      "names": [
+        "Demolition Man"
+      ],
+      "releases": [
+        {
+          "_id": "1098",
+          "names": [
+            "Somewhere In Afrika"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "592",
+          "names": [
+            "Manfred Mann's Earth Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Manfred Mann",
       "targetId": "3140",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5563",
+        "5564"
+      ]
     },
     {
       "name": "Chris Thompson",
       "targetId": "3874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5563"
+      ]
     },
     {
       "name": "Trevor Rabin",
       "targetId": "4183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5563"
+      ]
     },
     {
       "name": "Steve Waller",
       "targetId": "5545",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5563",
+        "5564"
+      ]
     },
     {
       "name": "Matt Irving",
       "targetId": "5608",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5563",
+        "5564"
+      ]
     },
     {
       "name": "Shona Laing",
       "targetId": "5610",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5564"
+      ]
     }
   ]
 }

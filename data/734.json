@@ -1,41 +1,407 @@
 {
   "source": "Karl Alvarez",
   "trackCount": 14,
+  "tracks": [
+    {
+      "_id": "278",
+      "names": [
+        "Black Gown"
+      ],
+      "releases": [
+        {
+          "_id": "176",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "122",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "279",
+      "names": [
+        "December"
+      ],
+      "releases": [
+        {
+          "_id": "176",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "122",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "281",
+      "names": [
+        "No Backbone"
+      ],
+      "releases": [
+        {
+          "_id": "176",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "122",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "282",
+      "names": [
+        "Steve's Boy"
+      ],
+      "releases": [
+        {
+          "_id": "176",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "122",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7345",
+      "names": [
+        "Everything Sux"
+      ],
+      "releases": [
+        {
+          "_id": "1442",
+          "names": [
+            "Everything Sucks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1111",
+          "names": [
+            "Descendents"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7346",
+      "names": [
+        "I'm The One"
+      ],
+      "releases": [
+        {
+          "_id": "1442",
+          "names": [
+            "Everything Sucks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1111",
+          "names": [
+            "Descendents"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7347",
+      "names": [
+        "Coffee Mug"
+      ],
+      "releases": [
+        {
+          "_id": "1442",
+          "names": [
+            "Everything Sucks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1111",
+          "names": [
+            "Descendents"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7348",
+      "names": [
+        "Rotting Out"
+      ],
+      "releases": [
+        {
+          "_id": "1442",
+          "names": [
+            "Everything Sucks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1111",
+          "names": [
+            "Descendents"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7349",
+      "names": [
+        "Sick-O-Me"
+      ],
+      "releases": [
+        {
+          "_id": "1442",
+          "names": [
+            "Everything Sucks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1111",
+          "names": [
+            "Descendents"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7350",
+      "names": [
+        "Caught"
+      ],
+      "releases": [
+        {
+          "_id": "1442",
+          "names": [
+            "Everything Sucks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1111",
+          "names": [
+            "Descendents"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7351",
+      "names": [
+        "When I Get Old"
+      ],
+      "releases": [
+        {
+          "_id": "1442",
+          "names": [
+            "Everything Sucks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1111",
+          "names": [
+            "Descendents"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10121",
+      "names": [
+        "Dot"
+      ],
+      "releases": [
+        {
+          "_id": "1945",
+          "names": [
+            "Dot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1506",
+          "names": [
+            "ALL"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10122",
+      "names": [
+        "Boy Named Sue"
+      ],
+      "releases": [
+        {
+          "_id": "1945",
+          "names": [
+            "Dot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1506",
+          "names": [
+            "ALL"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10123",
+      "names": [
+        "Can't Say"
+      ],
+      "releases": [
+        {
+          "_id": "1945",
+          "names": [
+            "Dot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1506",
+          "names": [
+            "ALL"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Garth Hudson",
       "targetId": "33",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "278",
+        "279"
+      ]
     },
     {
       "name": "Evan Dando",
       "targetId": "730",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "278",
+        "279",
+        "281",
+        "282"
+      ]
     },
     {
       "name": "Bill Stevenson",
       "targetId": "733",
-      "trackCount": 14
+      "trackCount": 14,
+      "tracks": [
+        "278",
+        "279",
+        "281",
+        "282",
+        "7345",
+        "7346",
+        "7347",
+        "7348",
+        "7349",
+        "7350",
+        "7351",
+        "10121",
+        "10122",
+        "10123"
+      ]
     },
     {
       "name": "J Mascis",
       "targetId": "737",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "281",
+        "282"
+      ]
     },
     {
       "name": "Milo Aukerman",
       "targetId": "7041",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "7345",
+        "7346",
+        "7347",
+        "7348",
+        "7349",
+        "7350",
+        "7351"
+      ]
     },
     {
       "name": "Stephen Egerton",
       "targetId": "7042",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "7345",
+        "7346",
+        "7347",
+        "7348",
+        "7349",
+        "7350",
+        "7351",
+        "10121",
+        "10122",
+        "10123"
+      ]
     },
     {
       "name": "Scott Reynolds",
       "targetId": "9260",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10121",
+        "10122",
+        "10123"
+      ]
     }
   ]
 }

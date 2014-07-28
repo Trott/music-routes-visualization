@@ -1,81 +1,210 @@
 {
   "source": "Phil Jones",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2124",
+      "names": [
+        "Stop Draggin' My Heart Around"
+      ],
+      "releases": [
+        {
+          "_id": "500",
+          "names": [
+            "Bella Donna"
+          ]
+        },
+        {
+          "_id": "2041",
+          "names": [
+            "80s Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "375",
+          "names": [
+            "Stevie Nicks"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2310",
+      "names": [
+        "Outside The Rain"
+      ],
+      "releases": [
+        {
+          "_id": "500",
+          "names": [
+            "Bella Donna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "375",
+          "names": [
+            "Stevie Nicks"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2935",
+      "names": [
+        "Got My Mind Made Up"
+      ],
+      "releases": [
+        {
+          "_id": "134",
+          "names": [
+            "Knocked Out Loaded"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2935"
+      ]
     },
     {
       "name": "Tom Petty",
       "targetId": "223",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2124",
+        "2935"
+      ]
     },
     {
       "name": "Stevie Nicks",
       "targetId": "355",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2124",
+        "2310"
+      ]
     },
     {
       "name": "Carol Dennis",
       "targetId": "561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2935"
+      ]
     },
     {
       "name": "Madelyn Quebec",
       "targetId": "562",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2935"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2124",
+        "2310",
+        "2935"
+      ]
     },
     {
       "name": "Mike Campbell",
       "targetId": "646",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2124",
+        "2310",
+        "2935"
+      ]
     },
     {
       "name": "Howie Epstein",
       "targetId": "921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2935"
+      ]
     },
     {
       "name": "Donald \"Duck\" Dunn",
       "targetId": "1805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2124"
+      ]
     },
     {
       "name": "Stan Lynch",
       "targetId": "2563",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2124",
+        "2310",
+        "2935"
+      ]
     },
     {
       "name": "Sharon Celani",
       "targetId": "2565",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2124",
+        "2310"
+      ]
     },
     {
       "name": "Lori Perry-Nicks",
       "targetId": "2566",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2124",
+        "2310"
+      ]
     },
     {
       "name": "Tom Moncrieff",
       "targetId": "2848",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2310"
+      ]
     },
     {
       "name": "Queen Esther Marrow",
       "targetId": "3269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2935"
+      ]
     },
     {
       "name": "Elisecia Wright",
       "targetId": "3275",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2935"
+      ]
     }
   ]
 }

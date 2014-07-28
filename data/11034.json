@@ -1,21 +1,54 @@
 {
   "source": "Emily Hughes",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13470",
+      "names": [
+        "Regretroid"
+      ],
+      "releases": [
+        {
+          "_id": "2476",
+          "names": [
+            "Starbomb"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1760",
+          "names": [
+            "Starbomb"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Arin Hanson",
       "targetId": "11030",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13470"
+      ]
     },
     {
       "name": "Leigh Daniel Avidan",
       "targetId": "11031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13470"
+      ]
     },
     {
       "name": "Brian Wecht",
       "targetId": "11032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13470"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Lincoln Mayorga",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4478",
+      "names": [
+        "Easy For Me"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4478"
+      ]
     }
   ]
 }

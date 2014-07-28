@@ -1,66 +1,174 @@
 {
   "source": "Vicki Randle",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3088",
+      "names": [
+        "Tonight's The Night"
+      ],
+      "releases": [
+        {
+          "_id": "664",
+          "names": [
+            "Magic Windows"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "519",
+          "names": [
+            "Herbie Hancock"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3089",
+      "names": [
+        "Everybody's Broke"
+      ],
+      "releases": [
+        {
+          "_id": "664",
+          "names": [
+            "Magic Windows"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "519",
+          "names": [
+            "Herbie Hancock"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3090",
+      "names": [
+        "Help Yourself"
+      ],
+      "releases": [
+        {
+          "_id": "664",
+          "names": [
+            "Magic Windows"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "519",
+          "names": [
+            "Herbie Hancock"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Brecker",
       "targetId": "459",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3088",
+        "3090"
+      ]
     },
     {
       "name": "John \"J. R.\" Robinson",
       "targetId": "653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3089"
+      ]
     },
     {
       "name": "Herbie Hancock",
       "targetId": "1264",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3088",
+        "3089",
+        "3090"
+      ]
     },
     {
       "name": "James Gadson",
       "targetId": "1533",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3090"
+      ]
     },
     {
       "name": "Ray Parker, Jr.",
       "targetId": "3391",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3088"
+      ]
     },
     {
       "name": "Donna Dickerson",
       "targetId": "3394",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3088"
+      ]
     },
     {
       "name": "Ngoh Spencer",
       "targetId": "3395",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3088"
+      ]
     },
     {
       "name": "Louis Johnson",
       "targetId": "3397",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3089"
+      ]
     },
     {
       "name": "George Johnson",
       "targetId": "3398",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3089"
+      ]
     },
     {
       "name": "Gavin Christopher",
       "targetId": "3399",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3089",
+        "3090"
+      ]
     },
     {
       "name": "Eddie N. Watkins",
       "targetId": "3400",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3090"
+      ]
     },
     {
       "name": "Al McKay",
       "targetId": "3401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3090"
+      ]
     }
   ]
 }

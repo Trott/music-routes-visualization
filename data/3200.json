@@ -1,31 +1,70 @@
 {
   "source": "Ian Duck",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2808",
+      "names": [
+        "Coconut"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Gordon",
       "targetId": "522",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2808"
+      ]
     },
     {
       "name": "Herbie Flowers",
       "targetId": "800",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2808"
+      ]
     },
     {
       "name": "Caleb Quaye",
       "targetId": "806",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2808"
+      ]
     },
     {
       "name": "Roger Pope",
       "targetId": "807",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2808"
+      ]
     },
     {
       "name": "Harry Nilsson",
       "targetId": "3193",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2808"
+      ]
     }
   ]
 }

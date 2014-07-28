@@ -1,41 +1,144 @@
 {
   "source": "Jeff Magnum",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2083",
+      "names": [
+        "I Won't Look Back"
+      ],
+      "releases": [
+        {
+          "_id": "475",
+          "names": [
+            "We Have Come For Your Children"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "355",
+          "names": [
+            "The Dead Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2084",
+      "names": [
+        "(I Don't Wanna Be No) Catholic Boy"
+      ],
+      "releases": [
+        {
+          "_id": "475",
+          "names": [
+            "We Have Come For Your Children"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "355",
+          "names": [
+            "The Dead Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10946",
+      "names": [
+        "Sonic Reducer"
+      ],
+      "releases": [
+        {
+          "_id": "2055",
+          "names": [
+            "No Thanks! The '70s Punk Rebellion"
+          ]
+        },
+        {
+          "_id": "2086",
+          "names": [
+            "Young Loud And Snotty"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "355",
+          "names": [
+            "The Dead Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Felix Pappalardi",
       "targetId": "1734",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2083"
+      ]
     },
     {
       "name": "Joey Ramone",
       "targetId": "2108",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2084"
+      ]
     },
     {
       "name": "Dee Dee Ramone",
       "targetId": "2110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2084"
+      ]
     },
     {
       "name": "Stiv Bators",
       "targetId": "2442",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2083",
+        "2084",
+        "10946"
+      ]
     },
     {
       "name": "Johnny Blitz",
       "targetId": "2443",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2083",
+        "2084",
+        "10946"
+      ]
     },
     {
       "name": "Cheetah Chrome",
       "targetId": "2445",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2083",
+        "2084",
+        "10946"
+      ]
     },
     {
       "name": "Jimmy Zero",
       "targetId": "2446",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2083",
+        "2084",
+        "10946"
+      ]
     }
   ]
 }

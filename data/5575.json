@@ -1,31 +1,70 @@
 {
   "source": "Nick Magnus",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5505",
+      "names": [
+        "Cassandra"
+      ],
+      "releases": [
+        {
+          "_id": "1091",
+          "names": [
+            "Feedback 86"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "860",
+          "names": [
+            "Steve Hackett"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian May",
       "targetId": "213",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5505"
+      ]
     },
     {
       "name": "Steve Hackett",
       "targetId": "1582",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5505"
+      ]
     },
     {
       "name": "Chris Thompson",
       "targetId": "3874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5505"
+      ]
     },
     {
       "name": "Pete Trewavas",
       "targetId": "5573",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5505"
+      ]
     },
     {
       "name": "Ian Mosely",
       "targetId": "5574",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5505"
+      ]
     }
   ]
 }

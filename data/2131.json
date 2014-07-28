@@ -1,56 +1,157 @@
 {
   "source": "Fat Mike",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1995",
+      "names": [
+        "Leave It Alone"
+      ],
+      "releases": [
+        {
+          "_id": "440",
+          "names": [
+            "Punk In Drublic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "322",
+          "names": [
+            "NOFX"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1996",
+      "names": [
+        "Rocket Man"
+      ],
+      "releases": [
+        {
+          "_id": "441",
+          "names": [
+            "Have A Ball"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "323",
+          "names": [
+            "Me First and the Gimme Gimmes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2218",
+      "names": [
+        "Dig"
+      ],
+      "releases": [
+        {
+          "_id": "440",
+          "names": [
+            "Punk In Drublic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "322",
+          "names": [
+            "NOFX"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Erik Sandin",
       "targetId": "2128",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1995",
+        "2218"
+      ]
     },
     {
       "name": "El Hefe",
       "targetId": "2129",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1995",
+        "2218"
+      ]
     },
     {
       "name": "Eric Melvin",
       "targetId": "2130",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1995",
+        "2218"
+      ]
     },
     {
       "name": "Spike Slawson",
       "targetId": "2132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1996"
+      ]
     },
     {
       "name": "Joey Cape",
       "targetId": "2133",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1996"
+      ]
     },
     {
       "name": "Dave Raun",
       "targetId": "2134",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1996"
+      ]
     },
     {
       "name": "Chris Shiflett",
       "targetId": "2135",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1996"
+      ]
     },
     {
       "name": "Mr. Rojers",
       "targetId": "2693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2218"
+      ]
     },
     {
       "name": "Christopher Dowd",
       "targetId": "2694",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2218"
+      ]
     },
     {
       "name": "Kenny Lyon",
       "targetId": "2695",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2218"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Dejay Choi",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13298",
+      "names": [
+        "Magic Rabbit"
+      ],
+      "releases": [
+        {
+          "_id": "2403",
+          "names": [
+            "Stereo Radio / Right"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1711",
+          "names": [
+            "The Pancakes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Laura Watling",
       "targetId": "10793",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13298"
+      ]
     }
   ]
 }

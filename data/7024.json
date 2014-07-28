@@ -1,36 +1,104 @@
 {
   "source": "Peter Mosely",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7338",
+      "names": [
+        "Two Weeks From Twenty"
+      ],
+      "releases": [
+        {
+          "_id": "1437",
+          "names": [
+            "Lights And Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1107",
+          "names": [
+            "Yellowcard"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7339",
+      "names": [
+        "How I Go"
+      ],
+      "releases": [
+        {
+          "_id": "1437",
+          "names": [
+            "Lights And Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1107",
+          "names": [
+            "Yellowcard"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Printz Board",
       "targetId": "7023",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7338"
+      ]
     },
     {
       "name": "Longineu Parsons III",
       "targetId": "7025",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7338",
+        "7339"
+      ]
     },
     {
       "name": "Benjamin Harper",
       "targetId": "7026",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7338",
+        "7339"
+      ]
     },
     {
       "name": "Sean Mackin",
       "targetId": "7027",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7338",
+        "7339"
+      ]
     },
     {
       "name": "Ryan Key",
       "targetId": "7028",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7338",
+        "7339"
+      ]
     },
     {
       "name": "Natalie Maines",
       "targetId": "7029",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7339"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "David Archuleta",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9158",
+      "names": [
+        "I Wanna Know You"
+      ],
+      "releases": [
+        {
+          "_id": "1756",
+          "names": [
+            "Hannah Montana 3"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "586",
+          "names": [
+            "Hannah Montana"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miley Cyrus",
       "targetId": "3857",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9158"
+      ]
     }
   ]
 }

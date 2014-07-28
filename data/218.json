@@ -1,51 +1,146 @@
 {
   "source": "Alex Neilson",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "37",
+      "names": [
+        "Walking Blues"
+      ],
+      "releases": [
+        {
+          "_id": "33",
+          "names": [
+            "Glasgow Friday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "29",
+          "names": [
+            "Jandek"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "38",
+      "names": [
+        "Cold & Wet"
+      ],
+      "releases": [
+        {
+          "_id": "34",
+          "names": [
+            "Cold & Wet"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "30",
+          "names": [
+            "Bonny \"Prince\" Billy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5138",
+      "names": [
+        "Viking Burial For A French Car"
+      ],
+      "releases": [
+        {
+          "_id": "1023",
+          "names": [
+            "Viking Burial For A French Car"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "809",
+          "names": [
+            "Mirror"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jandek",
       "targetId": "216",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "37"
+      ]
     },
     {
       "name": "Richard Youngs",
       "targetId": "217",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "37"
+      ]
     },
     {
       "name": "Will Oldham",
       "targetId": "219",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "38"
+      ]
     },
     {
       "name": "Matt Sweeney",
       "targetId": "220",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "38"
+      ]
     },
     {
       "name": "Paul Oldham",
       "targetId": "221",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "38"
+      ]
     },
     {
       "name": "Christoph Heemann",
       "targetId": "5279",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5138"
+      ]
     },
     {
       "name": "Andrew Chalk",
       "targetId": "5281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5138"
+      ]
     },
     {
       "name": "David Keenan",
       "targetId": "5282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5138"
+      ]
     },
     {
       "name": "Gavin Laird",
       "targetId": "5283",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5138"
+      ]
     }
   ]
 }

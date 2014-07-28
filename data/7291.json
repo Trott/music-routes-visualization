@@ -1,21 +1,54 @@
 {
   "source": "Pat Berkery",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7622",
+      "names": [
+        "Whisper Down The Lane"
+      ],
+      "releases": [
+        {
+          "_id": "1513",
+          "names": [
+            "Present The Karaoke Meltdowns"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1160",
+          "names": [
+            "The Trolleyvox"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Owen Biddle",
       "targetId": "7282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7622"
+      ]
     },
     {
       "name": "Andrew Chalfen",
       "targetId": "7292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7622"
+      ]
     },
     {
       "name": "Beth Filla",
       "targetId": "7293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7622"
+      ]
     }
   ]
 }

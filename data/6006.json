@@ -1,16 +1,46 @@
 {
   "source": "Tiffany Villarreal",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6058",
+      "names": [
+        "In The Ayer"
+      ],
+      "releases": [
+        {
+          "_id": "1217",
+          "names": [
+            "Mail On Sunday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6058"
+      ]
     },
     {
       "name": "will.i.am",
       "targetId": "6007",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6058"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Darren Robinson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5664",
+      "names": [
+        "California"
+      ],
+      "releases": [
+        {
+          "_id": "1120",
+          "names": [
+            "The Guest"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "874",
+          "names": [
+            "Phantom Planet"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jason Schwartzman",
       "targetId": "5670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5664"
+      ]
     },
     {
       "name": "Alex Greenwald",
       "targetId": "5671",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5664"
+      ]
     },
     {
       "name": "Sam Farrar",
       "targetId": "5672",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5664"
+      ]
     },
     {
       "name": "Jacques Brautbar",
       "targetId": "5673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5664"
+      ]
     }
   ]
 }

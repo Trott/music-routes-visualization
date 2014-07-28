@@ -1,16 +1,46 @@
 {
   "source": "Caroline Crawley",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "205",
+      "names": [
+        "Late Night"
+      ],
+      "releases": [
+        {
+          "_id": "151",
+          "names": [
+            "Blood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "107",
+          "names": [
+            "This Mortal Coil"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ivo Watts-Russell",
       "targetId": "606",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "205"
+      ]
     },
     {
       "name": "Jon Turner",
       "targetId": "609",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "205"
+      ]
     }
   ]
 }

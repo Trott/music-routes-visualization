@@ -1,16 +1,46 @@
 {
   "source": "Fiona Hibbert",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4262",
+      "names": [
+        "Elke"
+      ],
+      "releases": [
+        {
+          "_id": "853",
+          "names": [
+            "Rain Dances"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "674",
+          "names": [
+            "Camel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4262"
+      ]
     },
     {
       "name": "Andy Latimer",
       "targetId": "4414",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4262"
+      ]
     }
   ]
 }

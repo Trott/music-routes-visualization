@@ -1,21 +1,104 @@
 {
   "source": "Pete Sully",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "523",
+      "names": [
+        "The God That Failed"
+      ],
+      "releases": [
+        {
+          "_id": "9",
+          "names": [
+            "Days of the Soft Break"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "9",
+          "names": [
+            "The Slow Poisoners"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "524",
+      "names": [
+        "I Walk A Lonely Road"
+      ],
+      "releases": [
+        {
+          "_id": "9",
+          "names": [
+            "Days of the Soft Break"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "9",
+          "names": [
+            "The Slow Poisoners"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "533",
+      "names": [
+        "Chain Of Flowers"
+      ],
+      "releases": [
+        {
+          "_id": "9",
+          "names": [
+            "Days of the Soft Break"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "9",
+          "names": [
+            "The Slow Poisoners"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rich Trott",
       "targetId": "12",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "523",
+        "524",
+        "533"
+      ]
     },
     {
       "name": "Andrew Poisoner",
       "targetId": "13",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "523",
+        "524",
+        "533"
+      ]
     },
     {
       "name": "Tom Neely",
       "targetId": "974",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "523",
+        "524",
+        "533"
+      ]
     }
   ]
 }

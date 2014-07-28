@@ -1,21 +1,54 @@
 {
   "source": "Kamal Gray",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7004",
+      "names": [
+        "Funky Kingston"
+      ],
+      "releases": [
+        {
+          "_id": "1393",
+          "names": [
+            "True Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1073",
+          "names": [
+            "Toots and the Maytals"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bootsy Collins",
       "targetId": "207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7004"
+      ]
     },
     {
       "name": "Toots Hibbert",
       "targetId": "6822",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7004"
+      ]
     },
     {
       "name": "Questlove",
       "targetId": "6834",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7004"
+      ]
     }
   ]
 }

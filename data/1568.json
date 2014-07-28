@@ -1,251 +1,668 @@
 {
   "source": "Tori Amos",
   "trackCount": 11,
+  "tracks": [
+    {
+      "_id": "1063",
+      "names": [
+        "The Big Picture"
+      ],
+      "releases": [
+        {
+          "_id": "305",
+          "names": [
+            "Y Kant Tori Read"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "220",
+          "names": [
+            "Y Kant Tori Read"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2079",
+      "names": [
+        "Crucify"
+      ],
+      "releases": [
+        {
+          "_id": "474",
+          "names": [
+            "Little Earthquakes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2080",
+      "names": [
+        "Happy Phantom"
+      ],
+      "releases": [
+        {
+          "_id": "474",
+          "names": [
+            "Little Earthquakes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2081",
+      "names": [
+        "China"
+      ],
+      "releases": [
+        {
+          "_id": "474",
+          "names": [
+            "Little Earthquakes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2272",
+      "names": [
+        "Past The Mission"
+      ],
+      "releases": [
+        {
+          "_id": "576",
+          "names": [
+            "Under The Pink"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2273",
+      "names": [
+        "Cornflake Girl"
+      ],
+      "releases": [
+        {
+          "_id": "576",
+          "names": [
+            "Under The Pink"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4290",
+      "names": [
+        "Blue Skies"
+      ],
+      "releases": [
+        {
+          "_id": "860",
+          "names": [
+            "10 Years In The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "677",
+          "names": [
+            "BT"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9115",
+      "names": [
+        "Down By The Seaside"
+      ],
+      "releases": [
+        {
+          "_id": "1740",
+          "names": [
+            "Encomium: A Tribute To Led Zeppelin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        },
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9347",
+      "names": [
+        "You'll Be Taken Care Of"
+      ],
+      "releases": [
+        {
+          "_id": "1808",
+          "names": [
+            "Here Lies Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1400",
+          "names": [
+            "David Byrne"
+          ]
+        },
+        {
+          "_id": "1401",
+          "names": [
+            "Fatboy Slim"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9366",
+      "names": [
+        "Why Don't You Love Me?"
+      ],
+      "releases": [
+        {
+          "_id": "1808",
+          "names": [
+            "Here Lies Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1400",
+          "names": [
+            "David Byrne"
+          ]
+        },
+        {
+          "_id": "1401",
+          "names": [
+            "Fatboy Slim"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9814",
+      "names": [
+        "The Beekeeper"
+      ],
+      "releases": [
+        {
+          "_id": "1879",
+          "names": [
+            "The Beekeeper"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Cyndi Lauper",
       "targetId": "64",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Matt Chamberlain",
       "targetId": "182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9814"
+      ]
     },
     {
       "name": "David Byrne",
       "targetId": "193",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9347",
+        "9366"
+      ]
     },
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9115"
+      ]
     },
     {
       "name": "Paulinho Da Costa",
       "targetId": "411",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2079",
+        "2080",
+        "2272",
+        "2273"
+      ]
     },
     {
       "name": "Matthew Seligman",
       "targetId": "865",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2081"
+      ]
     },
     {
       "name": "David Rhodes",
       "targetId": "913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2081"
+      ]
     },
     {
       "name": "Merry Clayton",
       "targetId": "1403",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2273"
+      ]
     },
     {
       "name": "Matt Sorum",
       "targetId": "1569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1063"
+      ]
     },
     {
       "name": "Nancy Shanks",
       "targetId": "2429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2079"
+      ]
     },
     {
       "name": "Tina Gullickson",
       "targetId": "2430",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2079"
+      ]
     },
     {
       "name": "Jef Scott",
       "targetId": "2431",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2079"
+      ]
     },
     {
       "name": "Ed Greene",
       "targetId": "2432",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2079"
+      ]
     },
     {
       "name": "John Chamberlin",
       "targetId": "2433",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2079"
+      ]
     },
     {
       "name": "Eric Williams",
       "targetId": "2434",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2079",
+        "2080"
+      ]
     },
     {
       "name": "Chris Hughes",
       "targetId": "2435",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2081"
+      ]
     },
     {
       "name": "Will Gregory",
       "targetId": "2436",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2081"
+      ]
     },
     {
       "name": "Stuart Gordon",
       "targetId": "2437",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2081"
+      ]
     },
     {
       "name": "Trent Reznor",
       "targetId": "2820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2272"
+      ]
     },
     {
       "name": "Steve Caton",
       "targetId": "2821",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2272",
+        "2273"
+      ]
     },
     {
       "name": "Carlo Nuccio",
       "targetId": "2822",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2272",
+        "2273"
+      ]
     },
     {
       "name": "George Porter, Jr.",
       "targetId": "2823",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2272",
+        "2273"
+      ]
     },
     {
       "name": "Garo Yellin",
       "targetId": "3691",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Charlie Jones",
       "targetId": "3709",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9115"
+      ]
     },
     {
       "name": "Michael Lee",
       "targetId": "3741",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9115"
+      ]
     },
     {
       "name": "BT",
       "targetId": "4438",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4290"
+      ]
     },
     {
       "name": "Norman Cook",
       "targetId": "8720",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9347"
+      ]
     },
     {
       "name": "Jay Hassler",
       "targetId": "8721",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Tom Gandey",
       "targetId": "8724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "David Gold",
       "targetId": "8727",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Amy Kimball",
       "targetId": "8728",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Galina Zhdanova",
       "targetId": "8729",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Hiroko Taguchi",
       "targetId": "8730",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Pauline Kim",
       "targetId": "8731",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Mauro Refosco",
       "targetId": "8734",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9347"
+      ]
     },
     {
       "name": "Thomas Bartlett",
       "targetId": "8735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9347"
+      ]
     },
     {
       "name": "Graham Hawthorne",
       "targetId": "8737",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9347"
+      ]
     },
     {
       "name": "Arthur Cook",
       "targetId": "8738",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Kenneth Finn",
       "targetId": "8739",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "David Young",
       "targetId": "8740",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Chad Yarbrough",
       "targetId": "8741",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Theodore Primis",
       "targetId": "8742",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "John Sheppard",
       "targetId": "8744",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Kenneth de Carlo",
       "targetId": "8745",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Cyrus Beroukhim",
       "targetId": "8746",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Paul Sandrone",
       "targetId": "8755",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9366"
+      ]
     },
     {
       "name": "Damien Rice",
       "targetId": "9049",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9814"
+      ]
     },
     {
       "name": "Jon Evans",
       "targetId": "9050",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9814"
+      ]
     },
     {
       "name": "Mac Aladdin",
       "targetId": "9051",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9814"
+      ]
     }
   ]
 }

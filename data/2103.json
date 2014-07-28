@@ -1,21 +1,178 @@
 {
   "source": "Andy Summers",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "1986",
+      "names": [
+        "Roxanne"
+      ],
+      "releases": [
+        {
+          "_id": "432",
+          "names": [
+            "Outlandos d'Amour"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "314",
+          "names": [
+            "The Police"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4278",
+      "names": [
+        "Visions Of The Night"
+      ],
+      "releases": [
+        {
+          "_id": "858",
+          "names": [
+            "Police Academy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "676",
+          "names": [
+            "Strontium 90"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4279",
+      "names": [
+        "New World Blues"
+      ],
+      "releases": [
+        {
+          "_id": "858",
+          "names": [
+            "Police Academy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "676",
+          "names": [
+            "Strontium 90"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4280",
+      "names": [
+        "Lady Of Delight"
+      ],
+      "releases": [
+        {
+          "_id": "858",
+          "names": [
+            "Police Academy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "676",
+          "names": [
+            "Strontium 90"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4281",
+      "names": [
+        "The Electron Romance"
+      ],
+      "releases": [
+        {
+          "_id": "858",
+          "names": [
+            "Police Academy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "676",
+          "names": [
+            "Strontium 90"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4282",
+      "names": [
+        "Towers Tumbled"
+      ],
+      "releases": [
+        {
+          "_id": "858",
+          "names": [
+            "Police Academy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "676",
+          "names": [
+            "Strontium 90"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sting",
       "targetId": "122",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "1986",
+        "4278",
+        "4279",
+        "4280",
+        "4281",
+        "4282"
+      ]
     },
     {
       "name": "Stewart Copeland",
       "targetId": "2102",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "1986",
+        "4278",
+        "4279",
+        "4280",
+        "4281",
+        "4282"
+      ]
     },
     {
       "name": "Mike Howlett",
       "targetId": "4430",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4278",
+        "4279",
+        "4280",
+        "4281",
+        "4282"
+      ]
     }
   ]
 }

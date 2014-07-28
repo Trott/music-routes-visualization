@@ -1,16 +1,46 @@
 {
   "source": "Woody Theus",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12119",
+      "names": [
+        "Feel Flows"
+      ],
+      "releases": [
+        {
+          "_id": "2189",
+          "names": [
+            "Sunflower / Surf's Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12119"
+      ]
     },
     {
       "name": "Charles Lloyd",
       "targetId": "10093",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12119"
+      ]
     }
   ]
 }

@@ -1,36 +1,125 @@
 {
   "source": "Billy Bremner",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "11283",
+      "names": [
+        "Love For Sale"
+      ],
+      "releases": [
+        {
+          "_id": "1507",
+          "names": [
+            "Trust"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12959",
+      "names": [
+        "Born Fighter"
+      ],
+      "releases": [
+        {
+          "_id": "2336",
+          "names": [
+            "Labour Of Lust"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1669",
+          "names": [
+            "Nick Lowe"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12960",
+      "names": [
+        "American Squirm"
+      ],
+      "releases": [
+        {
+          "_id": "2336",
+          "names": [
+            "Labour Of Lust"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1669",
+          "names": [
+            "Nick Lowe"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Huey Lewis",
       "targetId": "65",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12959"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11283",
+        "12960"
+      ]
     },
     {
       "name": "Pete Thomas",
       "targetId": "429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12960"
+      ]
     },
     {
       "name": "Terry Williams",
       "targetId": "474",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12959"
+      ]
     },
     {
       "name": "Nick Lowe",
       "targetId": "3600",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12959",
+        "12960"
+      ]
     },
     {
       "name": "Dave Edmunds",
       "targetId": "3734",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12959",
+        "12960"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Lisa Youn",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6008",
+      "names": [
+        "I'll Wait While You Run"
+      ],
+      "releases": [
+        {
+          "_id": "1204",
+          "names": [
+            "Let's Go To The Sea"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "935",
+          "names": [
+            "Brian Glaze"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Greg Ashley",
       "targetId": "1590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6008"
+      ]
     },
     {
       "name": "Brian Glaze",
       "targetId": "5948",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6008"
+      ]
     }
   ]
 }

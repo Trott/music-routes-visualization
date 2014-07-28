@@ -1,41 +1,130 @@
 {
   "source": "Tanya Tucker",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "51",
+      "names": [
+        "You'll Never Take The Texas Out Of Me"
+      ],
+      "releases": [
+        {
+          "_id": "43",
+          "names": [
+            "Sesame Country"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "160",
+      "names": [
+        "Dream Lover"
+      ],
+      "releases": [
+        {
+          "_id": "122",
+          "names": [
+            "Dreamlovers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "91",
+          "names": [
+            "Tanya Tucker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "188",
+      "names": [
+        "Romeo"
+      ],
+      "releases": [
+        {
+          "_id": "143",
+          "names": [
+            "Slow Dancing With The Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Big Bird",
       "targetId": "240",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "51"
+      ]
     },
     {
       "name": "Glen Campbell",
       "targetId": "524",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "160"
+      ]
     },
     {
       "name": "Dolly Parton",
       "targetId": "569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "Billy Ray Cyrus",
       "targetId": "574",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "Kathy Mattea",
       "targetId": "575",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "Mary Chapin Carpenter",
       "targetId": "576",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "Pam Tillis",
       "targetId": "577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     }
   ]
 }

@@ -1,21 +1,129 @@
 {
   "source": "Joe Henderson",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "671",
+      "names": [
+        "Hairy Canary"
+      ],
+      "releases": [
+        {
+          "_id": "242",
+          "names": [
+            "Live In Montreux"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "672",
+      "names": [
+        "Folk Song"
+      ],
+      "releases": [
+        {
+          "_id": "242",
+          "names": [
+            "Live In Montreux"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "673",
+      "names": [
+        "So In love"
+      ],
+      "releases": [
+        {
+          "_id": "242",
+          "names": [
+            "Live In Montreux"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "674",
+      "names": [
+        "Slippery When Wet"
+      ],
+      "releases": [
+        {
+          "_id": "242",
+          "names": [
+            "Live In Montreux"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chick Corea",
       "targetId": "919",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "671",
+        "672",
+        "673",
+        "674"
+      ]
     },
     {
       "name": "Gary Peacock",
       "targetId": "1071",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "671",
+        "672",
+        "673",
+        "674"
+      ]
     },
     {
       "name": "Roy Haynes",
       "targetId": "1073",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "671",
+        "672",
+        "673",
+        "674"
+      ]
     }
   ]
 }

@@ -1,36 +1,84 @@
 {
   "source": "Lizzie Bravo",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1778",
+      "names": [
+        "Across The Universe"
+      ],
+      "releases": [
+        {
+          "_id": "398",
+          "names": [
+            "Past Masters, Volume Two"
+          ]
+        },
+        {
+          "_id": "2128",
+          "names": [
+            "Mono Masters, Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1778"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1778"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1778"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1778"
+      ]
     },
     {
       "name": "George Martin",
       "targetId": "628",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1778"
+      ]
     },
     {
       "name": "Gayleen Pease",
       "targetId": "1991",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1778"
+      ]
     }
   ]
 }

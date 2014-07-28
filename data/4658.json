@@ -1,21 +1,72 @@
 {
   "source": "Marvin Gaye",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4504",
+      "names": [
+        "Pops, We Love You"
+      ],
+      "releases": [
+        {
+          "_id": "907",
+          "names": [
+            "\"Pops, We Love You\"...The Album"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "33",
+          "names": [
+            "Diana Ross"
+          ]
+        },
+        {
+          "_id": "214",
+          "names": [
+            "Smokey Robinson"
+          ]
+        },
+        {
+          "_id": "715",
+          "names": [
+            "Marvin Gaye"
+          ]
+        },
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Smokey Robinson",
       "targetId": "76",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4504"
+      ]
     },
     {
       "name": "Diana Ross",
       "targetId": "78",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4504"
+      ]
     },
     {
       "name": "Stevie Wonder",
       "targetId": "83",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4504"
+      ]
     }
   ]
 }

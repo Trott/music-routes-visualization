@@ -1,56 +1,110 @@
 {
   "source": "David Smith",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11213",
+      "names": [
+        "Honey Pie"
+      ],
+      "releases": [
+        {
+          "_id": "2104",
+          "names": [
+            "The Beatles [White Album] (Disc 2)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Harry Klein",
       "targetId": "1988",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Rex Morris",
       "targetId": "9710",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Raymond Newman",
       "targetId": "9852",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Dennis Walton",
       "targetId": "9854",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Ronald Chamberlain",
       "targetId": "9855",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Jim Chester",
       "targetId": "9856",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     }
   ]
 }

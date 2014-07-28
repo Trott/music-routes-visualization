@@ -1,21 +1,54 @@
 {
   "source": "Erroll Garner",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12181",
+      "names": [
+        "Cool Blues"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Red Callender",
       "targetId": "382",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12181"
+      ]
     },
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12181"
+      ]
     },
     {
       "name": "Harold \"Doc\" West",
       "targetId": "2949",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12181"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Margot Chapman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3782",
+      "names": [
+        "Afternoon Delight"
+      ],
+      "releases": [
+        {
+          "_id": "763",
+          "names": [
+            "Starland Vocal Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "595",
+          "names": [
+            "Starland Vocal Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Danoff",
       "targetId": "3891",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3782"
+      ]
     },
     {
       "name": "Taffy Nivert",
       "targetId": "3892",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3782"
+      ]
     },
     {
       "name": "Jon Carroll",
       "targetId": "3894",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3782"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Crispin Glover",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "45",
+      "names": [
+        "These Boots Are Made For Walking"
+      ],
+      "releases": [
+        {
+          "_id": "40",
+          "names": [
+            "The Big Problem ≠ The Solution. The Solution = Let It Be"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "36",
+          "names": [
+            "Crispin Glover"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Mumy",
       "targetId": "235",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "45"
+      ]
     },
     {
       "name": "Robert Haimer",
       "targetId": "236",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "45"
+      ]
     }
   ]
 }

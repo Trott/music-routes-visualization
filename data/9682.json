@@ -1,26 +1,62 @@
 {
   "source": "Novi Novog",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11027",
+      "names": [
+        "Take Me With U"
+      ],
+      "releases": [
+        {
+          "_id": "2096",
+          "names": [
+            "Purple Rain"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "372",
+          "names": [
+            "Prince"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Prince",
       "targetId": "712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Apollonia",
       "targetId": "1652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Suzie Katayama",
       "targetId": "2293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Dave Coleman",
       "targetId": "9343",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     }
   ]
 }

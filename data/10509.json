@@ -1,11 +1,38 @@
 {
   "source": "Andy Kubiszewski",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13002",
+      "names": [
+        "The Downward Spiral"
+      ],
+      "releases": [
+        {
+          "_id": "2346",
+          "names": [
+            "The Downward Spiral"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "442",
+          "names": [
+            "Nine Inch Nails"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Trent Reznor",
       "targetId": "2820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13002"
+      ]
     }
   ]
 }

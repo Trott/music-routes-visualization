@@ -1,11 +1,38 @@
 {
   "source": "Ethel Merman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1496",
+      "names": [
+        "You're The Top"
+      ],
+      "releases": [
+        {
+          "_id": "356",
+          "names": [
+            "Classic Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1496"
+      ]
     }
   ]
 }

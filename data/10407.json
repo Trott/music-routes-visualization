@@ -1,61 +1,175 @@
 {
   "source": "Douglas Rauch",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "12801",
+      "names": [
+        "Waves Within"
+      ],
+      "releases": [
+        {
+          "_id": "2306",
+          "names": [
+            "Caravanserai"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12802",
+      "names": [
+        "Look Up (To See What's Coming Down)"
+      ],
+      "releases": [
+        {
+          "_id": "2306",
+          "names": [
+            "Caravanserai"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12804",
+      "names": [
+        "If I'm In Luck I Might Get Picked Up"
+      ],
+      "releases": [
+        {
+          "_id": "2307",
+          "names": [
+            "Betty Davis"
+          ]
+        },
+        {
+          "_id": "2308",
+          "names": [
+            "A Monstrous Psychedelic Bubble Exploding In Your Mind Volume 1 - Cosmic Space Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1655",
+          "names": [
+            "Betty Davis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neal Schon",
       "targetId": "174",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12802",
+        "12804"
+      ]
     },
     {
       "name": "Gregg Rolie",
       "targetId": "263",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Carlos Santana",
       "targetId": "1081",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "José Areas",
       "targetId": "1083",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Michael Shrieve",
       "targetId": "1085",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Greg Errico",
       "targetId": "3409",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12804"
+      ]
     },
     {
       "name": "James \"Mingo\" Lewis",
       "targetId": "10404",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Douglas Rodrigues",
       "targetId": "10408",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12804"
+      ]
     },
     {
       "name": "Betty Davis",
       "targetId": "10411",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12804"
+      ]
     },
     {
       "name": "Hershall \"Happiness\" Kennedy",
       "targetId": "10412",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12804"
+      ]
     },
     {
       "name": "Victor Pantoja",
       "targetId": "10413",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12804"
+      ]
     }
   ]
 }

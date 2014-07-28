@@ -1,16 +1,46 @@
 {
   "source": "Del Porter",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5922",
+      "names": [
+        "Clink Clink, Another Drink"
+      ],
+      "releases": [
+        {
+          "_id": "1174",
+          "names": [
+            "Greatest Hits!!!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "913",
+          "names": [
+            "Spike Jones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mel Blanc",
       "targetId": "5839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5922"
+      ]
     },
     {
       "name": "Spike Jones",
       "targetId": "5840",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5922"
+      ]
     }
   ]
 }

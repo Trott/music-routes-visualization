@@ -1,11 +1,38 @@
 {
   "source": "Dexter",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2061",
+      "names": [
+        "Ants"
+      ],
+      "releases": [
+        {
+          "_id": "469",
+          "names": [
+            "The Return Of Dr. Octagon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "350",
+          "names": [
+            "Dr. Octagon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kool Keith",
       "targetId": "2399",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2061"
+      ]
     }
   ]
 }

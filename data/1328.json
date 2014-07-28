@@ -1,101 +1,259 @@
 {
   "source": "Ruth Underwood",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "909",
+      "names": [
+        "Bathtub Man"
+      ],
+      "releases": [
+        {
+          "_id": "277",
+          "names": [
+            "One Shot Deal"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "915",
+      "names": [
+        "Australian Yellow Snow"
+      ],
+      "releases": [
+        {
+          "_id": "277",
+          "names": [
+            "One Shot Deal"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4484",
+      "names": [
+        "Nickels And Dimes"
+      ],
+      "releases": [
+        {
+          "_id": "897",
+          "names": [
+            "Inner Conflicts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "707",
+          "names": [
+            "Billy Cobham"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12596",
+      "names": [
+        "Father O'Blivion"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ernie Watts",
       "targetId": "413",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     },
     {
       "name": "Bruce Fowler",
       "targetId": "432",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "915",
+        "12596"
+      ]
     },
     {
       "name": "Michael Brecker",
       "targetId": "459",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     },
     {
       "name": "Randy Brecker",
       "targetId": "469",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     },
     {
       "name": "Frank Zappa",
       "targetId": "815",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "909",
+        "915",
+        "12596"
+      ]
     },
     {
       "name": "Ian Underwood",
       "targetId": "816",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "915",
+        "12596"
+      ]
     },
     {
       "name": "Tom Fowler",
       "targetId": "1325",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "909",
+        "915",
+        "12596"
+      ]
     },
     {
       "name": "Chester Thompson",
       "targetId": "1326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "909"
+      ]
     },
     {
       "name": "George Duke",
       "targetId": "1327",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "909",
+        "915",
+        "12596"
+      ]
     },
     {
       "name": "Napoleon Muphy Brock",
       "targetId": "1329",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "909"
+      ]
     },
     {
       "name": "Ralph Humphrey",
       "targetId": "1353",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "915",
+        "12596"
+      ]
     },
     {
       "name": "Sal Marquez",
       "targetId": "1354",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "915",
+        "12596"
+      ]
     },
     {
       "name": "Jean-Luc Ponty",
       "targetId": "1355",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "915",
+        "12596"
+      ]
     },
     {
       "name": "Billy Cobham",
       "targetId": "4609",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     },
     {
       "name": "John Scofield",
       "targetId": "4610",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     },
     {
       "name": "Dawilli Gonga",
       "targetId": "4611",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     },
     {
       "name": "Julian Priester",
       "targetId": "4612",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     },
     {
       "name": "Jimmy Owens",
       "targetId": "4613",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     },
     {
       "name": "John Williams",
       "targetId": "4614",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4484"
+      ]
     }
   ]
 }

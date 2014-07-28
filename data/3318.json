@@ -1,21 +1,54 @@
 {
   "source": "Taisha Khutze",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2982",
+      "names": [
+        "Land Of Plenty"
+      ],
+      "releases": [
+        {
+          "_id": "654",
+          "names": [
+            "How Bizarre"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "513",
+          "names": [
+            "OMC"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pauly Fuemana",
       "targetId": "3310",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2982"
+      ]
     },
     {
       "name": "Mia Camilleri",
       "targetId": "3313",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2982"
+      ]
     },
     {
       "name": "Christine Fuemana",
       "targetId": "3319",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2982"
+      ]
     }
   ]
 }

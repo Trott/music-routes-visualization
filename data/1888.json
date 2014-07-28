@@ -1,26 +1,62 @@
 {
   "source": "Jam-Master Jay",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1627",
+      "names": [
+        "Walk This Way"
+      ],
+      "releases": [
+        {
+          "_id": "378",
+          "names": [
+            "Raising Hell"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "270",
+          "names": [
+            "Run-D.M.C."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Run",
       "targetId": "1886",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1627"
+      ]
     },
     {
       "name": "D.M.C.",
       "targetId": "1887",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1627"
+      ]
     },
     {
       "name": "Steven Tyler",
       "targetId": "1889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1627"
+      ]
     },
     {
       "name": "Joe Perry",
       "targetId": "1890",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1627"
+      ]
     }
   ]
 }

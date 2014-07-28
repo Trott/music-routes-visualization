@@ -1,41 +1,86 @@
 {
   "source": "Grover",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "876",
+      "names": [
+        "Sesame Street Fever"
+      ],
+      "releases": [
+        {
+          "_id": "272",
+          "names": [
+            "Sesame Street Fever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Big Bird",
       "targetId": "240",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "The Count",
       "targetId": "245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Herb Bushler",
       "targetId": "1260",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Richard Crooks",
       "targetId": "1270",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Robin Gibb",
       "targetId": "1279",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Ernie",
       "targetId": "1281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Cookie Monster",
       "targetId": "1282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     }
   ]
 }

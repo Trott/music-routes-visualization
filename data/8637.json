@@ -1,41 +1,110 @@
 {
   "source": "Bill MacCormick",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9226",
+      "names": [
+        "Needles In The Camel's Eye"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9231",
+      "names": [
+        "Blank Frank"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9226",
+        "9231"
+      ]
     },
     {
       "name": "Robert Fripp",
       "targetId": "339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9231"
+      ]
     },
     {
       "name": "Phil Manzanera",
       "targetId": "493",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9226"
+      ]
     },
     {
       "name": "Simon King",
       "targetId": "566",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9226",
+        "9231"
+      ]
     },
     {
       "name": "Chris Spedding",
       "targetId": "3195",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9226"
+      ]
     },
     {
       "name": "Marc Scott",
       "targetId": "8641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9231"
+      ]
     },
     {
       "name": "Nick Kool",
       "targetId": "8642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9231"
+      ]
     }
   ]
 }

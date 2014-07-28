@@ -1,76 +1,284 @@
 {
   "source": "Don Byron",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "9133",
+      "names": [
+        "Work Song"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1342",
+          "names": [
+            "Vernon Reid"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9134",
+      "names": [
+        "Self-Portrait In 3 Colors"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1343",
+          "names": [
+            "Bill Frisell"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9135",
+      "names": [
+        "Purple Heart"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1344",
+          "names": [
+            "Henry Rollins"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9139",
+      "names": [
+        "Reincarnation Of A Love Bird / Haitian Fight Song Montage"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1348",
+          "names": [
+            "Hal Willner"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9141",
+      "names": [
+        "The Shoes Of The Fisherman's Wife Are Some Jive Ass Slippers"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1350",
+          "names": [
+            "Hubert Selby, Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9143",
+      "names": [
+        "Eclipse"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "321",
+          "names": [
+            "Leonard Cohen"
+          ]
+        },
+        {
+          "_id": "1308",
+          "names": [
+            "Diamanda Galás"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Henry Rollins",
       "targetId": "185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9135"
+      ]
     },
     {
       "name": "Gregory Cohen",
       "targetId": "428",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "9133",
+        "9134",
+        "9135",
+        "9139",
+        "9141",
+        "9143"
+      ]
     },
     {
       "name": "Michael Blair",
       "targetId": "662",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "9133",
+        "9134",
+        "9135",
+        "9139",
+        "9143"
+      ]
     },
     {
       "name": "Gary Lucas",
       "targetId": "1252",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9139"
+      ]
     },
     {
       "name": "Don Alias",
       "targetId": "1261",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "9133",
+        "9134",
+        "9135",
+        "9139",
+        "9143"
+      ]
     },
     {
       "name": "Leonard Cohen",
       "targetId": "2125",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9143"
+      ]
     },
     {
       "name": "Bill Frisell",
       "targetId": "4402",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "9133",
+        "9134",
+        "9135",
+        "9139",
+        "9141",
+        "9143"
+      ]
     },
     {
       "name": "Diamanda Galás",
       "targetId": "8229",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9143"
+      ]
     },
     {
       "name": "Art Baron",
       "targetId": "8429",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "9133",
+        "9134",
+        "9135",
+        "9141",
+        "9143"
+      ]
     },
     {
       "name": "Francis Thumm",
       "targetId": "8430",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9133",
+        "9134",
+        "9135",
+        "9143"
+      ]
     },
     {
       "name": "Vernon Reid",
       "targetId": "8432",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9133"
+      ]
     },
     {
       "name": "Geri Allen",
       "targetId": "8434",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9133"
+      ]
     },
     {
       "name": "Hal Willner",
       "targetId": "8435",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9139",
+        "9143"
+      ]
     },
     {
       "name": "Hubert Selby, Jr.",
       "targetId": "8441",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9141"
+      ]
     }
   ]
 }

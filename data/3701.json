@@ -1,36 +1,144 @@
 {
   "source": "John Prine",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3579",
+      "names": [
+        "Picture Show"
+      ],
+      "releases": [
+        {
+          "_id": "724",
+          "names": [
+            "The Missing Years"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "560",
+          "names": [
+            "John Prine"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3580",
+      "names": [
+        "Take A Look At My Heart"
+      ],
+      "releases": [
+        {
+          "_id": "724",
+          "names": [
+            "The Missing Years"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "560",
+          "names": [
+            "John Prine"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3581",
+      "names": [
+        "Unlonely"
+      ],
+      "releases": [
+        {
+          "_id": "724",
+          "names": [
+            "The Missing Years"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "560",
+          "names": [
+            "John Prine"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6431",
+      "names": [
+        "Oh Boy!"
+      ],
+      "releases": [
+        {
+          "_id": "1287",
+          "names": [
+            "The Crickets And Their Buddies"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "994",
+          "names": [
+            "The Crickets"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3580"
+      ]
     },
     {
       "name": "Tom Petty",
       "targetId": "223",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3579"
+      ]
     },
     {
       "name": "Bonnie Raitt",
       "targetId": "692",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3581"
+      ]
     },
     {
       "name": "Joe B. Mauldin",
       "targetId": "6283",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6431"
+      ]
     },
     {
       "name": "Jerry Allison",
       "targetId": "6284",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6431"
+      ]
     },
     {
       "name": "Sonny Curtis",
       "targetId": "6285",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6431"
+      ]
     }
   ]
 }

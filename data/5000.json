@@ -1,16 +1,46 @@
 {
   "source": "Fast Forward",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4762",
+      "names": [
+        "Untitled"
+      ],
+      "releases": [
+        {
+          "_id": "970",
+          "names": [
+            "Live At The Common Ground"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "768",
+          "names": [
+            "Krap"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Matt Brinkman",
       "targetId": "4998",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4762"
+      ]
     },
     {
       "name": "Neil Burke",
       "targetId": "4999",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4762"
+      ]
     }
   ]
 }

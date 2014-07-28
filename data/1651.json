@@ -1,41 +1,109 @@
 {
   "source": "Jesse Tobias",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1169",
+      "names": [
+        "Teenage Wristband"
+      ],
+      "releases": [
+        {
+          "_id": "324",
+          "names": [
+            "Blackberry Belle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3314",
+      "names": [
+        "Hard Time Killing Floor"
+      ],
+      "releases": [
+        {
+          "_id": "690",
+          "names": [
+            "She Loves You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Petra Haden",
       "targetId": "774",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Mark Lanegan",
       "targetId": "779",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3314"
+      ]
     },
     {
       "name": "Greg Dulli",
       "targetId": "1641",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1169",
+        "3314"
+      ]
     },
     {
       "name": "Michael Sullivan",
       "targetId": "1649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Hoss",
       "targetId": "1650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Apollonia",
       "targetId": "1652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Steve Myers",
       "targetId": "1653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     }
   ]
 }

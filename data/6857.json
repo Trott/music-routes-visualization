@@ -1,21 +1,79 @@
 {
   "source": "Peter Phillips",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7028",
+      "names": [
+        "The Good Ship"
+      ],
+      "releases": [
+        {
+          "_id": "1394",
+          "names": [
+            "Late Night Thinkin'"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1074",
+          "names": [
+            "Sleepyhead"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7029",
+      "names": [
+        "Teenager"
+      ],
+      "releases": [
+        {
+          "_id": "1394",
+          "names": [
+            "Late Night Thinkin'"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1074",
+          "names": [
+            "Sleepyhead"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Galinsky",
       "targetId": "6854",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7028",
+        "7029"
+      ]
     },
     {
       "name": "Rachel McNally",
       "targetId": "6855",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7028",
+        "7029"
+      ]
     },
     {
       "name": "Chris O'Rourke",
       "targetId": "6856",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7028",
+        "7029"
+      ]
     }
   ]
 }

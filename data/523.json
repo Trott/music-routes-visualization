@@ -1,46 +1,116 @@
 {
   "source": "Bill Cosby",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "157",
+      "names": [
+        "Hikky-Burr"
+      ],
+      "releases": [
+        {
+          "_id": "119",
+          "names": [
+            "The Original Jam Sessions 1969"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "89",
+          "names": [
+            "Bill Cosby"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13384",
+      "names": [
+        "Conga (Intro)"
+      ],
+      "releases": [
+        {
+          "_id": "2431",
+          "names": [
+            "Danzón (Dance On)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1732",
+          "names": [
+            "Arturo Sandoval"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carol Kaye",
       "targetId": "521",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "157"
+      ]
     },
     {
       "name": "Arturo Sandoval",
       "targetId": "10862",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Carlos Gomez",
       "targetId": "10863",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Rigo Herrera",
       "targetId": "10864",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Juan Nogueras",
       "targetId": "10865",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Giovanni Hidalgo",
       "targetId": "10866",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Cheito Quinonez",
       "targetId": "10867",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Rita Quintero",
       "targetId": "10868",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     }
   ]
 }

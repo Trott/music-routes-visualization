@@ -1,26 +1,62 @@
 {
   "source": "Shona Laing",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5564",
+      "names": [
+        "Demolition Man"
+      ],
+      "releases": [
+        {
+          "_id": "1098",
+          "names": [
+            "Somewhere In Afrika"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "592",
+          "names": [
+            "Manfred Mann's Earth Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Manfred Mann",
       "targetId": "3140",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5564"
+      ]
     },
     {
       "name": "Steve Waller",
       "targetId": "5545",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5564"
+      ]
     },
     {
       "name": "Matt Irving",
       "targetId": "5608",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5564"
+      ]
     },
     {
       "name": "John Lingwood",
       "targetId": "5609",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5564"
+      ]
     }
   ]
 }

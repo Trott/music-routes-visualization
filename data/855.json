@@ -1,31 +1,121 @@
 {
   "source": "Kenny Mazur",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "391",
+      "names": [
+        "Looking For Clues"
+      ],
+      "releases": [
+        {
+          "_id": "204",
+          "names": [
+            "Clues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "140",
+          "names": [
+            "Robert Palmer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "392",
+      "names": [
+        "Sulky Girl"
+      ],
+      "releases": [
+        {
+          "_id": "204",
+          "names": [
+            "Clues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "140",
+          "names": [
+            "Robert Palmer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "396",
+      "names": [
+        "Not A Second Time"
+      ],
+      "releases": [
+        {
+          "_id": "204",
+          "names": [
+            "Clues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "140",
+          "names": [
+            "Robert Palmer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Frantz",
       "targetId": "195",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "391"
+      ]
     },
     {
       "name": "Robert Palmer",
       "targetId": "851",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "391",
+        "392",
+        "396"
+      ]
     },
     {
       "name": "Jack Waldman",
       "targetId": "852",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "391",
+        "392",
+        "396"
+      ]
     },
     {
       "name": "Dony Wynn",
       "targetId": "853",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "391",
+        "392",
+        "396"
+      ]
     },
     {
       "name": "Andy Fraser",
       "targetId": "856",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "392",
+        "396"
+      ]
     }
   ]
 }

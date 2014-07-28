@@ -1,21 +1,54 @@
 {
   "source": "Tony Hall",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12669",
+      "names": [
+        "Morning Train (Nine To Five)"
+      ],
+      "releases": [
+        {
+          "_id": "2258",
+          "names": [
+            "Sheena Easton"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1638",
+          "names": [
+            "Sheena Easton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sheena Easton",
       "targetId": "2658",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12669"
+      ]
     },
     {
       "name": "Peter van Hooke",
       "targetId": "6467",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12669"
+      ]
     },
     {
       "name": "Andy Brown",
       "targetId": "10321",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12669"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Jackson Long",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10967",
+      "names": [
+        "Coast Of Carolina"
+      ],
+      "releases": [
+        {
+          "_id": "2089",
+          "names": [
+            "Telekinesis!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1593",
+          "names": [
+            "Telekinesis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Walla",
       "targetId": "6921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10967"
+      ]
     },
     {
       "name": "Michael Benjamin Lerner",
       "targetId": "9645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10967"
+      ]
     }
   ]
 }

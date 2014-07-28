@@ -1,16 +1,46 @@
 {
   "source": "Leo Ihenacho",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3994",
+      "names": [
+        "Nite Nite"
+      ],
+      "releases": [
+        {
+          "_id": "815",
+          "names": [
+            "Home Sweet Home"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "638",
+          "names": [
+            "Kano"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kano",
       "targetId": "4160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3994"
+      ]
     },
     {
       "name": "Mike Skinner",
       "targetId": "4161",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3994"
+      ]
     }
   ]
 }

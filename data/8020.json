@@ -1,21 +1,54 @@
 {
   "source": "Jessica Lea Mayfield",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8585",
+      "names": [
+        "Things Ain't Like They Used To Be"
+      ],
+      "releases": [
+        {
+          "_id": "1650",
+          "names": [
+            "Attack & Release"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1261",
+          "names": [
+            "The Black Keys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Danger Mouse",
       "targetId": "6977",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8585"
+      ]
     },
     {
       "name": "Patrick Carney",
       "targetId": "8016",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8585"
+      ]
     },
     {
       "name": "Dan Auerbach",
       "targetId": "8017",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8585"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Mark Eitzel",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2146",
+      "names": [
+        "Gratitude Walks"
+      ],
+      "releases": [
+        {
+          "_id": "510",
+          "names": [
+            "Mercury"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "385",
+          "names": [
+            "American Music Club"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tim Mooney",
       "targetId": "1001",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2146"
+      ]
     },
     {
       "name": "Bruce Kaphan",
       "targetId": "1065",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2146"
+      ]
     },
     {
       "name": "Dan Pearson",
       "targetId": "2599",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2146"
+      ]
     },
     {
       "name": "Vudi",
       "targetId": "2600",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2146"
+      ]
     }
   ]
 }

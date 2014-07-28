@@ -1,21 +1,54 @@
 {
   "source": "Frankie Fix",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "155",
+      "names": [
+        "Hot Wire My Heart"
+      ],
+      "releases": [
+        {
+          "_id": "117",
+          "names": [
+            "San Francisco's Still Doomed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "88",
+          "names": [
+            "Crime"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Johnny Strike",
       "targetId": "516",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "155"
+      ]
     },
     {
       "name": "Ron \"The Ripper\" Greco",
       "targetId": "519",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "155"
+      ]
     },
     {
       "name": "Ricky Tractor",
       "targetId": "520",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "155"
+      ]
     }
   ]
 }

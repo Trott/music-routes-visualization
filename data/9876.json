@@ -1,16 +1,46 @@
 {
   "source": "Kix Brooks",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11260",
+      "names": [
+        "Honky Tonk Stomp"
+      ],
+      "releases": [
+        {
+          "_id": "2123",
+          "names": [
+            "#1s... And Then Some"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1607",
+          "names": [
+            "Brooks & Dunn"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Gibbons",
       "targetId": "2118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11260"
+      ]
     },
     {
       "name": "Ronnie Dunn",
       "targetId": "6257",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11260"
+      ]
     }
   ]
 }

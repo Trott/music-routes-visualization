@@ -1,31 +1,70 @@
 {
   "source": "Sgt. Floyd Pepper",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2055",
+      "names": [
+        "Can You Picture That?"
+      ],
+      "releases": [
+        {
+          "_id": "467",
+          "names": [
+            "The Muppet Movie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "348",
+          "names": [
+            "Dr. Teeth and the Electric Mayhem"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Animal",
       "targetId": "1356",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2055"
+      ]
     },
     {
       "name": "Dr. Teeth",
       "targetId": "2390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2055"
+      ]
     },
     {
       "name": "Janice",
       "targetId": "2392",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2055"
+      ]
     },
     {
       "name": "Zoot",
       "targetId": "2393",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2055"
+      ]
     },
     {
       "name": "David Garland",
       "targetId": "2394",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2055"
+      ]
     }
   ]
 }

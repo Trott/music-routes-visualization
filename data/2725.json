@@ -1,31 +1,70 @@
 {
   "source": "Joey Spampinato",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2245",
+      "names": [
+        "Wee Wee Hours"
+      ],
+      "releases": [
+        {
+          "_id": "551",
+          "names": [
+            "Hail! Hail! Rock 'n' Roll"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "421",
+          "names": [
+            "Chuck Berry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
     },
     {
       "name": "Chuck Berry",
       "targetId": "2723",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
     },
     {
       "name": "Steve Jordan",
       "targetId": "2724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
     },
     {
       "name": "Johnnie Johnson",
       "targetId": "2726",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
     }
   ]
 }

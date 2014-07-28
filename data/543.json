@@ -1,36 +1,102 @@
 {
   "source": "Michael Giles",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "171",
+      "names": [
+        "Cat Food"
+      ],
+      "releases": [
+        {
+          "_id": "128",
+          "names": [
+            "In The Wake Of Poseidon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "59",
+          "names": [
+            "King Crimson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "172",
+      "names": [
+        "21st Century Schizoid Man"
+      ],
+      "releases": [
+        {
+          "_id": "129",
+          "names": [
+            "In The Court Of The Crimson King"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "59",
+          "names": [
+            "King Crimson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Fripp",
       "targetId": "339",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "171",
+        "172"
+      ]
     },
     {
       "name": "Mel Collins",
       "targetId": "532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "171"
+      ]
     },
     {
       "name": "Keith Tippett",
       "targetId": "537",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "171"
+      ]
     },
     {
       "name": "Greg Lake",
       "targetId": "541",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "171",
+        "172"
+      ]
     },
     {
       "name": "Peter Giles",
       "targetId": "542",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "171"
+      ]
     },
     {
       "name": "Ian McDonald",
       "targetId": "544",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "172"
+      ]
     }
   ]
 }

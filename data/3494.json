@@ -1,136 +1,583 @@
 {
   "source": "Steve Wynn",
   "trackCount": 14,
+  "tracks": [
+    {
+      "_id": "3184",
+      "names": [
+        "Carolyn"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3185",
+      "names": [
+        "Tears Won't Help"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3186",
+      "names": [
+        "The Blue Drifter"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3187",
+      "names": [
+        "Younger"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3188",
+      "names": [
+        "Under The Weather"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3189",
+      "names": [
+        "Here On Earth As Well"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3190",
+      "names": [
+        "Something To Remember Me By"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3191",
+      "names": [
+        "Killing Time"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3192",
+      "names": [
+        "Conspiracy Of The Heart"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3193",
+      "names": [
+        "Kerosene Man"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3194",
+      "names": [
+        "Anthem"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3215",
+      "names": [
+        "Tuesday"
+      ],
+      "releases": [
+        {
+          "_id": "679",
+          "names": [
+            "Dazzling Display"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3216",
+      "names": [
+        "It's Up To You"
+      ],
+      "releases": [
+        {
+          "_id": "680",
+          "names": [
+            "\"It's Up To You\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "533",
+          "names": [
+            "The Suspects"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3217",
+      "names": [
+        "Talking Loud"
+      ],
+      "releases": [
+        {
+          "_id": "680",
+          "names": [
+            "\"It's Up To You\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "533",
+          "names": [
+            "The Suspects"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Peter Buck",
       "targetId": "342",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "D.J. Bonebrake",
       "targetId": "849",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "3186",
+        "3187",
+        "3188",
+        "3191",
+        "3192",
+        "3193"
+      ]
     },
     {
       "name": "Howe Gelb",
       "targetId": "1694",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3187",
+        "3188",
+        "3189",
+        "3194"
+      ]
     },
     {
       "name": "Howard Kaylan",
       "targetId": "1829",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "Mark Volman",
       "targetId": "1830",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "Eric Williams",
       "targetId": "2434",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3184",
+        "3192"
+      ]
     },
     {
       "name": "Steve Berlin",
       "targetId": "2557",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3186",
+        "3187",
+        "3189"
+      ]
     },
     {
       "name": "Johnette Napolitano",
       "targetId": "2650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3192"
+      ]
     },
     {
       "name": "Fernando Saunders",
       "targetId": "3495",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "3186",
+        "3189",
+        "3190",
+        "3191",
+        "3192",
+        "3194"
+      ]
     },
     {
       "name": "Denny Fongheiser",
       "targetId": "3496",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "3184",
+        "3185",
+        "3186",
+        "3187",
+        "3188",
+        "3189",
+        "3190",
+        "3191",
+        "3192",
+        "3194"
+      ]
     },
     {
       "name": "Robert Mache",
       "targetId": "3497",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "3185",
+        "3186",
+        "3187",
+        "3188",
+        "3189",
+        "3190",
+        "3191",
+        "3192",
+        "3193",
+        "3194"
+      ]
     },
     {
       "name": "Jim Lang",
       "targetId": "3498",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "3184",
+        "3185",
+        "3186",
+        "3187",
+        "3189",
+        "3190",
+        "3191",
+        "3192",
+        "3194"
+      ]
     },
     {
       "name": "Melissa Hasin",
       "targetId": "3499",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3184",
+        "3185"
+      ]
     },
     {
       "name": "Stephen McCarthy",
       "targetId": "3500",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3185",
+        "3189",
+        "3193"
+      ]
     },
     {
       "name": "Mark Walton",
       "targetId": "3501",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3185",
+        "3187",
+        "3193"
+      ]
     },
     {
       "name": "Richard Greene",
       "targetId": "3502",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3184",
+        "3187",
+        "3194"
+      ]
     },
     {
       "name": "Chris Cacavas",
       "targetId": "3503",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3184",
+        "3191",
+        "3194"
+      ]
     },
     {
       "name": "Tim Landers",
       "targetId": "3504",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3184",
+        "3188"
+      ]
     },
     {
       "name": "Robert Lloyd",
       "targetId": "3505",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3184",
+        "3187",
+        "3189",
+        "3193"
+      ]
     },
     {
       "name": "Julie Christensen",
       "targetId": "3506",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3190",
+        "3191"
+      ]
     },
     {
       "name": "Joe Barresi",
       "targetId": "3507",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3193"
+      ]
     },
     {
       "name": "John Wesley Harding",
       "targetId": "3515",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "Susan Cowsill",
       "targetId": "3516",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "Russ Tolman",
       "targetId": "3517",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     },
     {
       "name": "Kendra Smith",
       "targetId": "3518",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     },
     {
       "name": "Gavin Blair",
       "targetId": "3519",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     }
   ]
 }

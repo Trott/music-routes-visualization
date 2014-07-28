@@ -1,51 +1,175 @@
 {
   "source": "Jeff \"Tain\" Watts",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3883",
+      "names": [
+        "Twilight"
+      ],
+      "releases": [
+        {
+          "_id": "793",
+          "names": [
+            "Wynton Marsalis"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "621",
+          "names": [
+            "Wynton Marsalis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3884",
+      "names": [
+        "Father Time"
+      ],
+      "releases": [
+        {
+          "_id": "793",
+          "names": [
+            "Wynton Marsalis"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "621",
+          "names": [
+            "Wynton Marsalis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3885",
+      "names": [
+        "I'll Be There When The Time Is Right"
+      ],
+      "releases": [
+        {
+          "_id": "793",
+          "names": [
+            "Wynton Marsalis"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "621",
+          "names": [
+            "Wynton Marsalis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5951",
+      "names": [
+        "Our Love Is Here To Stay"
+      ],
+      "releases": [
+        {
+          "_id": "1188",
+          "names": [
+            "When Harry Met Sally"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "924",
+          "names": [
+            "Harry Connick, Jr."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Wess",
       "targetId": "2758",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5951"
+      ]
     },
     {
       "name": "Wynton Marsalis",
       "targetId": "4082",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3883",
+        "3884",
+        "3885"
+      ]
     },
     {
       "name": "Branford Marsalis",
       "targetId": "4083",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3883",
+        "3884",
+        "3885"
+      ]
     },
     {
       "name": "Kenny Kirkland",
       "targetId": "4084",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3883",
+        "3884",
+        "3885"
+      ]
     },
     {
       "name": "Charles Fambrough",
       "targetId": "4086",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3883"
+      ]
     },
     {
       "name": "Clarence Seay",
       "targetId": "4087",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3884",
+        "3885"
+      ]
     },
     {
       "name": "Ben Wolfe",
       "targetId": "5891",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5951"
+      ]
     },
     {
       "name": "Harry Connick, Jr.",
       "targetId": "5892",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5951"
+      ]
     },
     {
       "name": "Jay Berliner",
       "targetId": "5893",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5951"
+      ]
     }
   ]
 }

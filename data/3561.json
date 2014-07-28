@@ -1,11 +1,38 @@
 {
   "source": "Cath Coffey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3304",
+      "names": [
+        "I Sing for You"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dedi Madden",
       "targetId": "3562",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3304"
+      ]
     }
   ]
 }

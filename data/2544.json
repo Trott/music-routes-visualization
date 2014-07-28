@@ -1,16 +1,68 @@
 {
   "source": "Caetano Veloso",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2114",
+      "names": [
+        "Regresso"
+      ],
+      "releases": [
+        {
+          "_id": "492",
+          "names": [
+            "São Vicente"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "370",
+          "names": [
+            "Cesária Évora"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7016",
+      "names": [
+        "O Leaozinho"
+      ],
+      "releases": [
+        {
+          "_id": "550",
+          "names": [
+            "Rendez-Vous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "420",
+          "names": [
+            "Jane Birkin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Cesária Évora",
       "targetId": "2542",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2114"
+      ]
     },
     {
       "name": "Jane Birkin",
       "targetId": "2722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7016"
+      ]
     }
   ]
 }

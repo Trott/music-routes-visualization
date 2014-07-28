@@ -1,21 +1,54 @@
 {
   "source": "Russ Long",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1932",
+      "names": [
+        "I'm Gonna Sit Right Down And Write Myself A Letter"
+      ],
+      "releases": [
+        {
+          "_id": "418",
+          "names": [
+            "Coolin' Soup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "300",
+          "names": [
+            "Michael Parks"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Thompson",
       "targetId": "2047",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1932"
+      ]
     },
     {
       "name": "Michael Parks",
       "targetId": "2048",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1932"
+      ]
     },
     {
       "name": "Chuck Cowan",
       "targetId": "2050",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1932"
+      ]
     }
   ]
 }

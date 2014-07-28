@@ -1,66 +1,173 @@
 {
   "source": "Gerry Beckley",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "43",
+      "names": [
+        "Hat Trick"
+      ],
+      "releases": [
+        {
+          "_id": "38",
+          "names": [
+            "Hat Trick"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "34",
+          "names": [
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "73",
+      "names": [
+        "You Can Do Magic"
+      ],
+      "releases": [
+        {
+          "_id": "65",
+          "names": [
+            "The Complete Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "34",
+          "names": [
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12133",
+      "names": [
+        "Sail On, Sailor"
+      ],
+      "releases": [
+        {
+          "_id": "2181",
+          "names": [
+            "Classics: Selected By Brian Wilson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "43"
+      ]
     },
     {
       "name": "Dewey Bunnell",
       "targetId": "227",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "43",
+        "73"
+      ]
     },
     {
       "name": "Dan Peek",
       "targetId": "229",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "43"
+      ]
     },
     {
       "name": "David Dickey",
       "targetId": "230",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "43"
+      ]
     },
     {
       "name": "Billy Hinsche",
       "targetId": "231",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "43",
+        "12133"
+      ]
     },
     {
       "name": "Bruce Johnston",
       "targetId": "232",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "43"
+      ]
     },
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "43",
+        "12133"
+      ]
     },
     {
       "name": "Lorene Yarnell",
       "targetId": "234",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "43"
+      ]
     },
     {
       "name": "Russ Ballard",
       "targetId": "317",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "73"
+      ]
     },
     {
       "name": "Blondie Chaplin",
       "targetId": "6748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12133"
+      ]
     },
     {
       "name": "Ricky Fataar",
       "targetId": "10095",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12133"
+      ]
     },
     {
       "name": "Tony Martin",
       "targetId": "10096",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12133"
+      ]
     }
   ]
 }

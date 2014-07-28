@@ -1,11 +1,38 @@
 {
   "source": "Romeo",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9385",
+      "names": [
+        "Take You Away"
+      ],
+      "releases": [
+        {
+          "_id": "1811",
+          "names": [
+            "Colby O"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1404",
+          "names": [
+            "Colby O'Donis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Colby O'Donis",
       "targetId": "5808",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9385"
+      ]
     }
   ]
 }

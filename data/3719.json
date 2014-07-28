@@ -1,26 +1,62 @@
 {
   "source": "Nigel Kennedy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3596",
+      "names": [
+        "Calling To You"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3596"
+      ]
     },
     {
       "name": "Charlie Jones",
       "targetId": "3709",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3596"
+      ]
     },
     {
       "name": "Kevin Scott MacMichael",
       "targetId": "3712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3596"
+      ]
     },
     {
       "name": "Pete Thompson",
       "targetId": "3718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3596"
+      ]
     }
   ]
 }

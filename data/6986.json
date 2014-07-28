@@ -1,16 +1,70 @@
 {
   "source": "David Lynch",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7276",
+      "names": [
+        "Star Eyes (I Can't Catch It)"
+      ],
+      "releases": [
+        {
+          "_id": "1429",
+          "names": [
+            "Dark Night Of The Soul"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1100",
+          "names": [
+            "Danger Mouse & Sparklehorse"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7282",
+      "names": [
+        "Dark Night Of The Soul"
+      ],
+      "releases": [
+        {
+          "_id": "1429",
+          "names": [
+            "Dark Night Of The Soul"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1100",
+          "names": [
+            "Danger Mouse & Sparklehorse"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mark Linkous",
       "targetId": "6972",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7276",
+        "7282"
+      ]
     },
     {
       "name": "Danger Mouse",
       "targetId": "6977",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7276",
+        "7282"
+      ]
     }
   ]
 }

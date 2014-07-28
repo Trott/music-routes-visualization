@@ -1,31 +1,70 @@
 {
   "source": "Hearn Gadbois",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3552",
+      "names": [
+        "Yeh Yeh"
+      ],
+      "releases": [
+        {
+          "_id": "721",
+          "names": [
+            "Mink Car"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3552"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3552"
+      ]
     },
     {
       "name": "Dan Miller",
       "targetId": "3681",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3552"
+      ]
     },
     {
       "name": "Dan Hickey",
       "targetId": "3683",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3552"
+      ]
     },
     {
       "name": "Adam Schlesinger",
       "targetId": "3688",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3552"
+      ]
     }
   ]
 }

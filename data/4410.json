@@ -1,21 +1,54 @@
 {
   "source": "Joe Franco",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4255",
+      "names": [
+        "Temptation"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Al Pitrelli",
       "targetId": "3643",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4255"
+      ]
     },
     {
       "name": "Ted Poley",
       "targetId": "4404",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4255"
+      ]
     },
     {
       "name": "Bruno Ravel",
       "targetId": "4408",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4255"
+      ]
     }
   ]
 }

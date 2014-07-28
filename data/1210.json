@@ -1,16 +1,46 @@
 {
   "source": "Victor Montanez",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "756",
+      "names": [
+        "Peace Like A River"
+      ],
+      "releases": [
+        {
+          "_id": "256",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "180",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Simon",
       "targetId": "79",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "756"
+      ]
     },
     {
       "name": "Joe Osborn",
       "targetId": "1209",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "756"
+      ]
     }
   ]
 }

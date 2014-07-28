@@ -1,91 +1,222 @@
 {
   "source": "Future Man",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5949",
+      "names": [
+        "Hall Of Mirrors"
+      ],
+      "releases": [
+        {
+          "_id": "1187",
+          "names": [
+            "Outbound"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "923",
+          "names": [
+            "Béla Fleck"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5950",
+      "names": [
+        "Aimum"
+      ],
+      "releases": [
+        {
+          "_id": "1187",
+          "names": [
+            "Outbound"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "923",
+          "names": [
+            "Béla Fleck"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9216",
+      "names": [
+        "A Moment So Close"
+      ],
+      "releases": [
+        {
+          "_id": "1187",
+          "names": [
+            "Outbound"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "923",
+          "names": [
+            "Béla Fleck"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5949",
+        "5950"
+      ]
     },
     {
       "name": "Jon Anderson",
       "targetId": "536",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5950",
+        "9216"
+      ]
     },
     {
       "name": "Béla Fleck",
       "targetId": "4375",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5949",
+        "5950",
+        "9216"
+      ]
     },
     {
       "name": "Victor Wooten",
       "targetId": "5883",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5949",
+        "5950",
+        "9216"
+      ]
     },
     {
       "name": "Jeff Coffin",
       "targetId": "5884",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5949",
+        "5950",
+        "9216"
+      ]
     },
     {
       "name": "John Medeski",
       "targetId": "5886",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5949",
+        "5950"
+      ]
     },
     {
       "name": "Paul Hanson",
       "targetId": "5887",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5949"
+      ]
     },
     {
       "name": "Paul McCandless",
       "targetId": "5888",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5949",
+        "9216"
+      ]
     },
     {
       "name": "Shawn Colvin",
       "targetId": "5889",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5949",
+        "5950",
+        "9216"
+      ]
     },
     {
       "name": "Sandip Burman",
       "targetId": "5890",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5950"
+      ]
     },
     {
       "name": "David Angell",
       "targetId": "6490",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9216"
+      ]
     },
     {
       "name": "David Davidson",
       "targetId": "6491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9216"
+      ]
     },
     {
       "name": "John Catchings",
       "targetId": "6495",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9216"
+      ]
     },
     {
       "name": "Kristin Wilkinson",
       "targetId": "6805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9216"
+      ]
     },
     {
       "name": "Paul Hanson",
       "targetId": "8630",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9216"
+      ]
     },
     {
       "name": "Rita Sahai",
       "targetId": "8631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9216"
+      ]
     },
     {
       "name": "Kongar-ool Ondar",
       "targetId": "8632",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9216"
+      ]
     }
   ]
 }

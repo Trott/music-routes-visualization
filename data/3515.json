@@ -1,31 +1,70 @@
 {
   "source": "John Wesley Harding",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3215",
+      "names": [
+        "Tuesday"
+      ],
+      "releases": [
+        {
+          "_id": "679",
+          "names": [
+            "Dazzling Display"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Peter Buck",
       "targetId": "342",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "Howard Kaylan",
       "targetId": "1829",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "Mark Volman",
       "targetId": "1830",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "Steve Wynn",
       "targetId": "3494",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     },
     {
       "name": "Susan Cowsill",
       "targetId": "3516",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3215"
+      ]
     }
   ]
 }

@@ -1,26 +1,114 @@
 {
   "source": "Bob Kesterson",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "12174",
+      "names": [
+        "Lover Man"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12175",
+      "names": [
+        "Bebop"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12176",
+      "names": [
+        "The Gypsy"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12174",
+        "12175",
+        "12176"
+      ]
     },
     {
       "name": "Jimmy Bunn",
       "targetId": "10138",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12174",
+        "12175",
+        "12176"
+      ]
     },
     {
       "name": "Howard McGhee",
       "targetId": "10139",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12174",
+        "12175",
+        "12176"
+      ]
     },
     {
       "name": "Roy Porter",
       "targetId": "10141",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12174",
+        "12175",
+        "12176"
+      ]
     }
   ]
 }

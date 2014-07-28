@@ -1,136 +1,348 @@
 {
   "source": "Steven Soles",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "11658",
+      "names": [
+        "The Other Side Of Summer"
+      ],
+      "releases": [
+        {
+          "_id": "2155",
+          "names": [
+            "Mighty Like A Rose"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11866",
+      "names": [
+        "Señor (Tales Of Yankee Power)"
+      ],
+      "releases": [
+        {
+          "_id": "702",
+          "names": [
+            "Street Legal"
+          ]
+        },
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11870",
+      "names": [
+        "Romance In Durango"
+      ],
+      "releases": [
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11871",
+      "names": [
+        "Isis"
+      ],
+      "releases": [
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11926",
+      "names": [
+        "Hurricane"
+      ],
+      "releases": [
+        {
+          "_id": "2177",
+          "names": [
+            "Desire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "11866",
+        "11870",
+        "11871",
+        "11926"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "Jerry Scheff",
       "targetId": "287",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11658",
+        "11866"
+      ]
     },
     {
       "name": "Mitchell Froom",
       "targetId": "289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Pete Thomas",
       "targetId": "429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "James Burton",
       "targetId": "452",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "Bobbye Hall",
       "targetId": "507",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11866"
+      ]
     },
     {
       "name": "Ian Wallace",
       "targetId": "531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11866"
+      ]
     },
     {
       "name": "Steve Douglas",
       "targetId": "560",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11866"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "Mick Ronson",
       "targetId": "791",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Larry Knechtel",
       "targetId": "1196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "T-Bone Wolk",
       "targetId": "1415",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "Alan Pasqua",
       "targetId": "2263",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11866"
+      ]
     },
     {
       "name": "Richard Page",
       "targetId": "2531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "Billy Cross",
       "targetId": "3618",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11866"
+      ]
     },
     {
       "name": "David Mansfield",
       "targetId": "3619",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11866",
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Steve George",
       "targetId": "7248",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11658"
+      ]
     },
     {
       "name": "Howard Wyeth",
       "targetId": "10056",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11870",
+        "11871",
+        "11926"
+      ]
     },
     {
       "name": "Scarlet Rivera",
       "targetId": "10057",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11870",
+        "11871",
+        "11926"
+      ]
     },
     {
       "name": "Bobby Neuwirth",
       "targetId": "10060",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Rob Stoner",
       "targetId": "10061",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11870",
+        "11871",
+        "11926"
+      ]
     },
     {
       "name": "Luther Rix",
       "targetId": "10062",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Leon Luther",
       "targetId": "10067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11926"
+      ]
     },
     {
       "name": "Ronee Blakley",
       "targetId": "10068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11926"
+      ]
     }
   ]
 }

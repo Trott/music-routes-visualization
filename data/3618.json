@@ -1,61 +1,153 @@
 {
   "source": "Billy Cross",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3443",
+      "names": [
+        "Changing Of The Guards"
+      ],
+      "releases": [
+        {
+          "_id": "702",
+          "names": [
+            "Street Legal"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11866",
+      "names": [
+        "Señor (Tales Of Yankee Power)"
+      ],
+      "releases": [
+        {
+          "_id": "702",
+          "names": [
+            "Street Legal"
+          ]
+        },
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11866"
+      ]
     },
     {
       "name": "Jerry Scheff",
       "targetId": "287",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11866"
+      ]
     },
     {
       "name": "Bobbye Hall",
       "targetId": "507",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11866"
+      ]
     },
     {
       "name": "Ian Wallace",
       "targetId": "531",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11866"
+      ]
     },
     {
       "name": "Steve Douglas",
       "targetId": "560",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11866"
+      ]
     },
     {
       "name": "Carol Dennis",
       "targetId": "561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Alan Pasqua",
       "targetId": "2263",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11866"
+      ]
     },
     {
       "name": "Jo Ann Harris",
       "targetId": "3616",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Helena Springs",
       "targetId": "3617",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "David Mansfield",
       "targetId": "3619",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11866"
+      ]
     },
     {
       "name": "Steven Soles",
       "targetId": "9956",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11866"
+      ]
     }
   ]
 }

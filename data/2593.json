@@ -1,21 +1,76 @@
 {
   "source": "Michael Rother",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2140",
+      "names": [
+        "Watussi"
+      ],
+      "releases": [
+        {
+          "_id": "507",
+          "names": [
+            "Musik Von Harmonia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "382",
+          "names": [
+            "Harmonia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2141",
+      "names": [
+        "Hallogallo"
+      ],
+      "releases": [
+        {
+          "_id": "508",
+          "names": [
+            "Neu!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "383",
+          "names": [
+            "Neu!"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dieter Moebius",
       "targetId": "2590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2140"
+      ]
     },
     {
       "name": "Hans-Joachim Roedelius",
       "targetId": "2591",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2140"
+      ]
     },
     {
       "name": "Klaus Dinger",
       "targetId": "2594",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2141"
+      ]
     }
   ]
 }

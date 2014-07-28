@@ -1,76 +1,212 @@
 {
   "source": "Jack Daley",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2329",
+      "names": [
+        "Wordplay"
+      ],
+      "releases": [
+        {
+          "_id": "586",
+          "names": [
+            "Mr. A-Z"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "451",
+          "names": [
+            "Jason Mraz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6454",
+      "names": [
+        "Alone"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6455",
+      "names": [
+        "I Will Be"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8242",
+      "names": [
+        "Don't Ask Why"
+      ],
+      "releases": [
+        {
+          "_id": "1609",
+          "names": [
+            "Identified"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1228",
+          "names": [
+            "Vanessa Hudgens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Roger Manning",
       "targetId": "1069",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Travis Barker",
       "targetId": "1559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6454"
+      ]
     },
     {
       "name": "Bashiri Johnson",
       "targetId": "2373",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Jason Mraz",
       "targetId": "2864",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Nir Z",
       "targetId": "2873",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Lyle Workman",
       "targetId": "2874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Kevin Kadish",
       "targetId": "2875",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Josh Deutsch",
       "targetId": "2876",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6454",
+        "6455"
+      ]
     },
     {
       "name": "Lukasz Gottwald",
       "targetId": "6293",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6454",
+        "6455",
+        "8242"
+      ]
     },
     {
       "name": "Steven Wolf",
       "targetId": "6294",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6455"
+      ]
     },
     {
       "name": "Max Martin",
       "targetId": "6300",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6454",
+        "6455"
+      ]
     },
     {
       "name": "Vanessa Hudgens",
       "targetId": "7824",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8242"
+      ]
     },
     {
       "name": "Benny Blanco",
       "targetId": "7831",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8242"
+      ]
     }
   ]
 }

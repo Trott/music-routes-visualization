@@ -1,66 +1,228 @@
 {
   "source": "John Mellencamp",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "6879",
+      "names": [
+        "Wild Night"
+      ],
+      "releases": [
+        {
+          "_id": "1368",
+          "names": [
+            "Dance Naked"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1056",
+          "names": [
+            "John Mellencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6880",
+      "names": [
+        "The Big Jack"
+      ],
+      "releases": [
+        {
+          "_id": "1368",
+          "names": [
+            "Dance Naked"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1056",
+          "names": [
+            "John Mellencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8772",
+      "names": [
+        "Like A Rolling Stone"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1056",
+          "names": [
+            "John Mellencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8773",
+      "names": [
+        "Leopard-Skin Pill-Box Hat"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1056",
+          "names": [
+            "John Mellencamp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13259",
+      "names": [
+        "Pink Houses"
+      ],
+      "releases": [
+        {
+          "_id": "2394",
+          "names": [
+            "Live At Shea Stadium: The Concert"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1333",
+          "names": [
+            "Billy Joel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Joel",
       "targetId": "63",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13259"
+      ]
     },
     {
       "name": "Al Kooper",
       "targetId": "559",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8772",
+        "8773"
+      ]
     },
     {
       "name": "David Grissom",
       "targetId": "1390",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8772",
+        "8773"
+      ]
     },
     {
       "name": "Kenny Aronoff",
       "targetId": "4158",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6880",
+        "8772",
+        "8773"
+      ]
     },
     {
       "name": "Andy York",
       "targetId": "6727",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6879",
+        "6880"
+      ]
     },
     {
       "name": "Mike Wanchic",
       "targetId": "6728",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6879",
+        "6880",
+        "8772",
+        "8773"
+      ]
     },
     {
       "name": "Meshell Ndegeocello",
       "targetId": "6729",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6879",
+        "6880"
+      ]
     },
     {
       "name": "Lisa Germano",
       "targetId": "8152",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8772",
+        "8773"
+      ]
     },
     {
       "name": "Sue Medley",
       "targetId": "8153",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8772",
+        "8773"
+      ]
     },
     {
       "name": "John Cascella",
       "targetId": "8158",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8772",
+        "8773"
+      ]
     },
     {
       "name": "Pat Peterson",
       "targetId": "8166",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8772",
+        "8773"
+      ]
     },
     {
       "name": "Toby Myers",
       "targetId": "8172",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8772",
+        "8773"
+      ]
     }
   ]
 }

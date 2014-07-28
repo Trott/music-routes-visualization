@@ -1,46 +1,116 @@
 {
   "source": "Dave Coleman",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10240",
+      "names": [
+        "I Could Hurt You Now"
+      ],
+      "releases": [
+        {
+          "_id": "1961",
+          "names": [
+            "Whatever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11027",
+      "names": [
+        "Take Me With U"
+      ],
+      "releases": [
+        {
+          "_id": "2096",
+          "names": [
+            "Purple Rain"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "372",
+          "names": [
+            "Prince"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10240"
+      ]
     },
     {
       "name": "Prince",
       "targetId": "712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Apollonia",
       "targetId": "1652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Suzie Katayama",
       "targetId": "2293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Buddy Judge",
       "targetId": "3868",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10240"
+      ]
     },
     {
       "name": "Michael Hausman",
       "targetId": "4028",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10240"
+      ]
     },
     {
       "name": "Jon Brion",
       "targetId": "6653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10240"
+      ]
     },
     {
       "name": "Novi Novog",
       "targetId": "9682",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     }
   ]
 }

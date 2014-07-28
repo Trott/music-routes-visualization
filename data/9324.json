@@ -1,16 +1,46 @@
 {
   "source": "Michael Panes",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10196",
+      "names": [
+        "Just Like Anyone"
+      ],
+      "releases": [
+        {
+          "_id": "757",
+          "names": [
+            "Bachelor No. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10196"
+      ]
     },
     {
       "name": "Patrick Warren",
       "targetId": "3870",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10196"
+      ]
     }
   ]
 }

@@ -1,31 +1,136 @@
 {
   "source": "Shirley Jones",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "1501",
+      "names": [
+        "If I Loved You"
+      ],
+      "releases": [
+        {
+          "_id": "356",
+          "names": [
+            "Classic Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7788",
+      "names": [
+        "Piano Lesson & If You Don't Mind My Saying So"
+      ],
+      "releases": [
+        {
+          "_id": "1536",
+          "names": [
+            "The Music Man (Warner Bros. film soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1177",
+          "names": [
+            "Shirley Jones & Pert Kelton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7789",
+      "names": [
+        "Lida Rose & Will I Ever Tell You?"
+      ],
+      "releases": [
+        {
+          "_id": "1536",
+          "names": [
+            "The Music Man (Warner Bros. film soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1178",
+          "names": [
+            "Shirley Jones & The Buffalo Bills"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7790",
+      "names": [
+        "Goodnight, My Someone (reprise)"
+      ],
+      "releases": [
+        {
+          "_id": "1536",
+          "names": [
+            "The Music Man (Warner Bros. film soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1179",
+          "names": [
+            "Shirley Jones & Robert Preston"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1501"
+      ]
     },
     {
       "name": "Pert Kelton",
       "targetId": "7414",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7788"
+      ]
     },
     {
       "name": "Al Shea",
       "targetId": "7415",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7789"
+      ]
     },
     {
       "name": "Vern Reed",
       "targetId": "7416",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7789"
+      ]
     },
     {
       "name": "Robert Preston",
       "targetId": "7417",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7790"
+      ]
     }
   ]
 }

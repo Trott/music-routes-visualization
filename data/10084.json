@@ -1,31 +1,70 @@
 {
   "source": "Dean Torrence",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12087",
+      "names": [
+        "Barbara Ann"
+      ],
+      "releases": [
+        {
+          "_id": "2188",
+          "names": [
+            "Party & Stack-o-Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12087"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12087"
+      ]
     },
     {
       "name": "Dennis Wilson",
       "targetId": "1476",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12087"
+      ]
     },
     {
       "name": "Mike Love",
       "targetId": "1477",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12087"
+      ]
     },
     {
       "name": "Al Jardine",
       "targetId": "1478",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12087"
+      ]
     }
   ]
 }

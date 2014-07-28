@@ -1,26 +1,84 @@
 {
   "source": "Rick James",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3109",
+      "names": [
+        "Ebony Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "668",
+          "names": [
+            "Anthology"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "522",
+          "names": [
+            "Rick James"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4554",
+      "names": [
+        "Party All The Time"
+      ],
+      "releases": [
+        {
+          "_id": "930",
+          "names": [
+            "How Could It Be"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "732",
+          "names": [
+            "Eddie Murphy"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Smokey Robinson",
       "targetId": "76",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3109"
+      ]
     },
     {
       "name": "Cheryl Dunlap",
       "targetId": "3427",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3109"
+      ]
     },
     {
       "name": "Randy Dunlap",
       "targetId": "3428",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3109"
+      ]
     },
     {
       "name": "Eddie Murphy",
       "targetId": "4746",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4554"
+      ]
     }
   ]
 }

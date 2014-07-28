@@ -1,21 +1,54 @@
 {
   "source": "Hank Rank",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "154",
+      "names": [
+        "Across The USA"
+      ],
+      "releases": [
+        {
+          "_id": "116",
+          "names": [
+            "Exalted Masters"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "88",
+          "names": [
+            "Crime"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mickey Tractor",
       "targetId": "514",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "154"
+      ]
     },
     {
       "name": "Count Fink",
       "targetId": "515",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "154"
+      ]
     },
     {
       "name": "Johnny Strike",
       "targetId": "516",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "154"
+      ]
     }
   ]
 }

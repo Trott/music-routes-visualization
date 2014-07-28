@@ -1,21 +1,126 @@
 {
   "source": "Glen Burtnick",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "4447",
+      "names": [
+        "No More Lies"
+      ],
+      "releases": [
+        {
+          "_id": "891",
+          "names": [
+            "Here To Stay"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "703",
+          "names": [
+            "Schon & Hammer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4448",
+      "names": [
+        "Don't Stay Away"
+      ],
+      "releases": [
+        {
+          "_id": "891",
+          "names": [
+            "Here To Stay"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "703",
+          "names": [
+            "Schon & Hammer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4452",
+      "names": [
+        "Long Time"
+      ],
+      "releases": [
+        {
+          "_id": "891",
+          "names": [
+            "Here To Stay"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "703",
+          "names": [
+            "Schon & Hammer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4453",
+      "names": [
+        "Time Again"
+      ],
+      "releases": [
+        {
+          "_id": "891",
+          "names": [
+            "Here To Stay"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "703",
+          "names": [
+            "Schon & Hammer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neal Schon",
       "targetId": "174",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4447",
+        "4448",
+        "4452",
+        "4453"
+      ]
     },
     {
       "name": "Colin Hodgkinson",
       "targetId": "3110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4452"
+      ]
     },
     {
       "name": "Jan Hammer",
       "targetId": "4559",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4447",
+        "4448",
+        "4452",
+        "4453"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Zac Hanson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4576",
+      "names": [
+        "MMMBop"
+      ],
+      "releases": [
+        {
+          "_id": "936",
+          "names": [
+            "Middle Of Nowhere"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "735",
+          "names": [
+            "Hanson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Taylor Hanson",
       "targetId": "4847",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4576"
+      ]
     },
     {
       "name": "Isaac Hanson",
       "targetId": "4848",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4576"
+      ]
     }
   ]
 }

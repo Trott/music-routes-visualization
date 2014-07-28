@@ -1,21 +1,54 @@
 {
   "source": "Carl Young",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4510",
+      "names": [
+        "Wayfarin' Stranger"
+      ],
+      "releases": [
+        {
+          "_id": "911",
+          "names": [
+            "Chocolate Supa Highway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "718",
+          "names": [
+            "Spearhead"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joan Osborne",
       "targetId": "3438",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4510"
+      ]
     },
     {
       "name": "Michael Franti",
       "targetId": "4670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4510"
+      ]
     },
     {
       "name": "David James",
       "targetId": "4671",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4510"
+      ]
     }
   ]
 }

@@ -1,61 +1,392 @@
 {
   "source": "John Giblin",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "9020",
+      "names": [
+        "Some People Are Crazy"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9021",
+      "names": [
+        "Sweet Little Mystery"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9022",
+      "names": [
+        "Baby Please Come Home"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9023",
+      "names": [
+        "Grace And Danger"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9024",
+      "names": [
+        "Lookin' On"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9025",
+      "names": [
+        "Johnny Too Bad"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9026",
+      "names": [
+        "Hurt In Your Heart"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9027",
+      "names": [
+        "Save Some (For Me)"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9028",
+      "names": [
+        "Our Love"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13207",
+      "names": [
+        "Snowed In At Wheeler Street"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13210",
+      "names": [
+        "Wild Man"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13211",
+      "names": [
+        "50 Words For Snow"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Collins",
       "targetId": "97",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "9020",
+        "9021",
+        "9022",
+        "9023",
+        "9024",
+        "9025",
+        "9026",
+        "9027",
+        "9028"
+      ]
     },
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13207"
+      ]
     },
     {
       "name": "Steve Gadd",
       "targetId": "1262",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13207",
+        "13210",
+        "13211"
+      ]
     },
     {
       "name": "Kate Bush",
       "targetId": "2197",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13207",
+        "13210",
+        "13211"
+      ]
     },
     {
       "name": "Andrew Fairweather-Low",
       "targetId": "3184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13210"
+      ]
     },
     {
       "name": "Tommy Eyre",
       "targetId": "3190",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "9020",
+        "9021",
+        "9022",
+        "9023",
+        "9024",
+        "9025",
+        "9026",
+        "9027",
+        "9028"
+      ]
     },
     {
       "name": "John Martyn",
       "targetId": "8311",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "9020",
+        "9021",
+        "9022",
+        "9023",
+        "9024",
+        "9025",
+        "9026",
+        "9027",
+        "9028"
+      ]
     },
     {
       "name": "Dave Lawson",
       "targetId": "8313",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9020",
+        "9021",
+        "9022"
+      ]
     },
     {
       "name": "Del Palmer",
       "targetId": "10728",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13210"
+      ]
     },
     {
       "name": "Dan McIntosh",
       "targetId": "10729",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13207",
+        "13210",
+        "13211"
+      ]
     },
     {
       "name": "Stephen Fry",
       "targetId": "10732",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13211"
+      ]
     }
   ]
 }

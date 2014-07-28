@@ -1,41 +1,108 @@
 {
   "source": "Casey Orr",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1999",
+      "names": [
+        "Immortal Corrupter"
+      ],
+      "releases": [
+        {
+          "_id": "444",
+          "names": [
+            "Violence Has Arrived"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "326",
+          "names": [
+            "GWAR"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2000",
+      "names": [
+        "Welcome To Your Funeral"
+      ],
+      "releases": [
+        {
+          "_id": "445",
+          "names": [
+            "Rigor Mortis"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "327",
+          "names": [
+            "Rigor Mortis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Scaccia",
       "targetId": "2023",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2000"
+      ]
     },
     {
       "name": "Brad Roberts",
       "targetId": "2139",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1999"
+      ]
     },
     {
       "name": "Dave Brockie",
       "targetId": "2141",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1999"
+      ]
     },
     {
       "name": "Mike Derks",
       "targetId": "2142",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1999"
+      ]
     },
     {
       "name": "Zach Blair",
       "targetId": "2143",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1999"
+      ]
     },
     {
       "name": "Bruce Corbitt",
       "targetId": "2144",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2000"
+      ]
     },
     {
       "name": "Harden Harrison",
       "targetId": "2145",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2000"
+      ]
     }
   ]
 }

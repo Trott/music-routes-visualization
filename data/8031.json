@@ -1,26 +1,62 @@
 {
   "source": "Paul D'Amour",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8610",
+      "names": [
+        "Bottom"
+      ],
+      "releases": [
+        {
+          "_id": "1654",
+          "names": [
+            "Undertow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1264",
+          "names": [
+            "Tool"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Henry Rollins",
       "targetId": "185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8610"
+      ]
     },
     {
       "name": "Maynard James Keenan",
       "targetId": "8028",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8610"
+      ]
     },
     {
       "name": "Adam Jones",
       "targetId": "8029",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8610"
+      ]
     },
     {
       "name": "Danny Carey",
       "targetId": "8030",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8610"
+      ]
     }
   ]
 }

@@ -1,56 +1,133 @@
 {
   "source": "Buckethead",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "147",
+      "names": [
+        "The Big Eyeball In The Sky"
+      ],
+      "releases": [
+        {
+          "_id": "111",
+          "names": [
+            "The Big Eyeball In The Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "84",
+          "names": [
+            "Colonel Claypool's Bucket Of Bernie Brains"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6290",
+      "names": [
+        "Sorry"
+      ],
+      "releases": [
+        {
+          "_id": "1257",
+          "names": [
+            "Chinese Democracy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "221",
+          "names": [
+            "Guns N' Roses"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bernie Worrell",
       "targetId": "199",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "147"
+      ]
     },
     {
       "name": "Les Claypool",
       "targetId": "495",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "147"
+      ]
     },
     {
       "name": "Brain",
       "targetId": "496",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "147",
+        "6290"
+      ]
     },
     {
       "name": "Axl Rose",
       "targetId": "1572",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6290"
+      ]
     },
     {
       "name": "Tommy Stinson",
       "targetId": "3076",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6290"
+      ]
     },
     {
       "name": "Robin Finck",
       "targetId": "6157",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6290"
+      ]
     },
     {
       "name": "Ron \"Bumblefoot\" Thal",
       "targetId": "6158",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6290"
+      ]
     },
     {
       "name": "Sebastian Bach",
       "targetId": "6159",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6290"
+      ]
     },
     {
       "name": "Chris Pitman",
       "targetId": "6160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6290"
+      ]
     },
     {
       "name": "Pete Scaturro",
       "targetId": "6161",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6290"
+      ]
     }
   ]
 }

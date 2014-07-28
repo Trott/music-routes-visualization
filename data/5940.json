@@ -1,41 +1,110 @@
 {
   "source": "Peter Nochisaki",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5998",
+      "names": [
+        "All I'm Saying"
+      ],
+      "releases": [
+        {
+          "_id": "1199",
+          "names": [
+            "Intentional Grounding"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "932",
+          "names": [
+            "Continuous Peasant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6801",
+      "names": [
+        "Heaven You Left Me"
+      ],
+      "releases": [
+        {
+          "_id": "1356",
+          "names": [
+            "Exile In Babyville"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "932",
+          "names": [
+            "Continuous Peasant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joel Pickard",
       "targetId": "1593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6801"
+      ]
     },
     {
       "name": "Chris Stroffolino",
       "targetId": "5936",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5998",
+        "6801"
+      ]
     },
     {
       "name": "Mia Lipman",
       "targetId": "5939",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5998"
+      ]
     },
     {
       "name": "Bob Gumbrecht",
       "targetId": "5941",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5998"
+      ]
     },
     {
       "name": "Brandon Watson",
       "targetId": "5942",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5998",
+        "6801"
+      ]
     },
     {
       "name": "Vanessa Beggs",
       "targetId": "6667",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6801"
+      ]
     },
     {
       "name": "Greg Hain",
       "targetId": "6668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6801"
+      ]
     }
   ]
 }

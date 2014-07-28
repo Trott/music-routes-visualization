@@ -1,16 +1,46 @@
 {
   "source": "Junior Vasquez",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9500",
+      "names": [
+        "Same Old Thing"
+      ],
+      "releases": [
+        {
+          "_id": "1829",
+          "names": [
+            "LL 77"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1419",
+          "names": [
+            "Lisa Lisa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Lisa",
       "targetId": "8818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9500"
+      ]
     },
     {
       "name": "Lydia Rhodes",
       "targetId": "8835",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9500"
+      ]
     }
   ]
 }

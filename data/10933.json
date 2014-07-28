@@ -1,21 +1,54 @@
 {
   "source": "Gordon Rutherford",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13406",
+      "names": [
+        "In Purgatory"
+      ],
+      "releases": [
+        {
+          "_id": "2444",
+          "names": [
+            "Nerve Ends In Power Lines"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1739",
+          "names": [
+            "Nocturnal Projections"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brett Jones",
       "targetId": "10932",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13406"
+      ]
     },
     {
       "name": "Graeme Jefferies",
       "targetId": "10934",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13406"
+      ]
     },
     {
       "name": "Peter Jefferies",
       "targetId": "10935",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13406"
+      ]
     }
   ]
 }

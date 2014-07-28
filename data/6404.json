@@ -1,21 +1,54 @@
 {
   "source": "Joe LaBarbera",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6558",
+      "names": [
+        "St. Thomas"
+      ],
+      "releases": [
+        {
+          "_id": "1314",
+          "names": [
+            "Diana In The Autumn Wind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1016",
+          "names": [
+            "Gap Mangione"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tony Levin",
       "targetId": "269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6558"
+      ]
     },
     {
       "name": "Gap Mangione",
       "targetId": "6392",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6558"
+      ]
     },
     {
       "name": "Dhui Mandingo",
       "targetId": "6405",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6558"
+      ]
     }
   ]
 }

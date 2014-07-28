@@ -1,31 +1,70 @@
 {
   "source": "Steve Lindsey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2552",
+      "names": [
+        "Disco Dancer"
+      ],
+      "releases": [
+        {
+          "_id": "614",
+          "names": [
+            "Total Devo"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "476",
+          "names": [
+            "Devo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Kendrick",
       "targetId": "3040",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2552"
+      ]
     },
     {
       "name": "Bob Mothersbaugh",
       "targetId": "3044",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2552"
+      ]
     },
     {
       "name": "Mark Mothersbaugh",
       "targetId": "3045",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2552"
+      ]
     },
     {
       "name": "Gerald V. Casale",
       "targetId": "3046",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2552"
+      ]
     },
     {
       "name": "Robert Casale",
       "targetId": "3047",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2552"
+      ]
     }
   ]
 }

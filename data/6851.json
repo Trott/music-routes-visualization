@@ -1,11 +1,38 @@
 {
   "source": "Françoise Hardy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7021",
+      "names": [
+        "Surannée"
+      ],
+      "releases": [
+        {
+          "_id": "550",
+          "names": [
+            "Rendez-Vous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "420",
+          "names": [
+            "Jane Birkin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jane Birkin",
       "targetId": "2722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7021"
+      ]
     }
   ]
 }

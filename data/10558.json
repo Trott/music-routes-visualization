@@ -1,11 +1,44 @@
 {
   "source": "MC Flipside",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13111",
+      "names": [
+        "Hi Friend!"
+      ],
+      "releases": [
+        {
+          "_id": "2363",
+          "names": [
+            "\"Hi Friend\" 12\""
+          ]
+        },
+        {
+          "_id": "2365",
+          "names": [
+            "For Lack Of A Better Name"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1682",
+          "names": [
+            "deadmau5"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "deadmau5",
       "targetId": "10556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13111"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Maeretha Stewart",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11780",
+      "names": [
+        "If Dogs Run Free"
+      ],
+      "releases": [
+        {
+          "_id": "2163",
+          "names": [
+            "New Morning"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11780"
+      ]
     }
   ]
 }

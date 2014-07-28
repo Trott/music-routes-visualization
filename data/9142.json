@@ -1,41 +1,153 @@
 {
   "source": "Hank Williams, Jr.",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "9946",
+      "names": [
+        "Leave Them Boys Alone"
+      ],
+      "releases": [
+        {
+          "_id": "1914",
+          "names": [
+            "Waylon And Company"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1482",
+          "names": [
+            "Waylon Jennings"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9953",
+      "names": [
+        "The Conversation"
+      ],
+      "releases": [
+        {
+          "_id": "1914",
+          "names": [
+            "Waylon And Company"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1482",
+          "names": [
+            "Waylon Jennings"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9955",
+      "names": [
+        "Mind Your Own Business"
+      ],
+      "releases": [
+        {
+          "_id": "1915",
+          "names": [
+            "Montana Cafe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1483",
+          "names": [
+            "Hank Williams, Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9956",
+      "names": [
+        "Almost Persuaded"
+      ],
+      "releases": [
+        {
+          "_id": "1916",
+          "names": [
+            "Lone Wolf"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1483",
+          "names": [
+            "Hank Williams, Jr."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Waylon Jennings",
       "targetId": "62",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9946",
+        "9953"
+      ]
     },
     {
       "name": "Willie Nelson",
       "targetId": "68",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9955"
+      ]
     },
     {
       "name": "Tom Petty",
       "targetId": "223",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9955"
+      ]
     },
     {
       "name": "Sammy Hagar",
       "targetId": "1735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9956"
+      ]
     },
     {
       "name": "Reba McEntire",
       "targetId": "6255",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9955"
+      ]
     },
     {
       "name": "Ernest Tubb",
       "targetId": "9143",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9946"
+      ]
     },
     {
       "name": "Reverend Ike",
       "targetId": "9148",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9955"
+      ]
     }
   ]
 }

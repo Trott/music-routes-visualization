@@ -1,91 +1,236 @@
 {
   "source": "Helena Springs",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3443",
+      "names": [
+        "Changing Of The Guards"
+      ],
+      "releases": [
+        {
+          "_id": "702",
+          "names": [
+            "Street Legal"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7123",
+      "names": [
+        "West End Girls"
+      ],
+      "releases": [
+        {
+          "_id": "1412",
+          "names": [
+            "Please/Further Listening 1984-1986"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1088",
+          "names": [
+            "Pet Shop Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7124",
+      "names": [
+        "Violence"
+      ],
+      "releases": [
+        {
+          "_id": "1412",
+          "names": [
+            "Please/Further Listening 1984-1986"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1088",
+          "names": [
+            "Pet Shop Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11793",
+      "names": [
+        "Gotta Serve Somebody"
+      ],
+      "releases": [
+        {
+          "_id": "2159",
+          "names": [
+            "The Essential Bob Dylan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11793"
+      ]
     },
     {
       "name": "Jerry Scheff",
       "targetId": "287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Mark Knopfler",
       "targetId": "418",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11793"
+      ]
     },
     {
       "name": "Bobbye Hall",
       "targetId": "507",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Ian Wallace",
       "targetId": "531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Steve Douglas",
       "targetId": "560",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Carol Dennis",
       "targetId": "561",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3443",
+        "11793"
+      ]
     },
     {
       "name": "Barry Beckett",
       "targetId": "1099",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11793"
+      ]
     },
     {
       "name": "Alan Pasqua",
       "targetId": "2263",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Neil Tennant",
       "targetId": "2971",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7123",
+        "7124"
+      ]
     },
     {
       "name": "Tim Drummond",
       "targetId": "3289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11793"
+      ]
     },
     {
       "name": "Jo Ann Harris",
       "targetId": "3616",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Billy Cross",
       "targetId": "3618",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "David Mansfield",
       "targetId": "3619",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3443"
+      ]
     },
     {
       "name": "Chris Lowe",
       "targetId": "6899",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7123",
+        "7124"
+      ]
     },
     {
       "name": "Pick Withers",
       "targetId": "8281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11793"
+      ]
     },
     {
       "name": "Regina Havis",
       "targetId": "10043",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11793"
+      ]
     }
   ]
 }

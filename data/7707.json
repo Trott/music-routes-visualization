@@ -1,31 +1,97 @@
 {
   "source": "Touter Harvey",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8107",
+      "names": [
+        "Sweat (A La La La La Long)"
+      ],
+      "releases": [
+        {
+          "_id": "1583",
+          "names": [
+            "Bad Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1213",
+          "names": [
+            "Inner Circle"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8108",
+      "names": [
+        "Bad Boys"
+      ],
+      "releases": [
+        {
+          "_id": "1583",
+          "names": [
+            "Bad Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1213",
+          "names": [
+            "Inner Circle"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lester Adderley",
       "targetId": "7706",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8107",
+        "8108"
+      ]
     },
     {
       "name": "Carlton Coffie",
       "targetId": "7708",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8107",
+        "8108"
+      ]
     },
     {
       "name": "Ian Lewis",
       "targetId": "7709",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8107",
+        "8108"
+      ]
     },
     {
       "name": "Roger Lewis",
       "targetId": "7710",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8107",
+        "8108"
+      ]
     },
     {
       "name": "Lancelot Hall",
       "targetId": "7711",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8107",
+        "8108"
+      ]
     }
   ]
 }

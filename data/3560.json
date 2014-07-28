@@ -1,11 +1,61 @@
 {
   "source": "Alison Moyet",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3301",
+      "names": [
+        "Make a Change"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9450",
+      "names": [
+        "Don't Go"
+      ],
+      "releases": [
+        {
+          "_id": "1821",
+          "names": [
+            "Upstairs At Eric's"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1411",
+          "names": [
+            "Yazoo",
+            "Yaz"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Vince Clarke",
       "targetId": "8802",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9450"
+      ]
     }
   ]
 }

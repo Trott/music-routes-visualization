@@ -1,56 +1,158 @@
 {
   "source": "Brent Muscat",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5707",
+      "names": [
+        "Friends"
+      ],
+      "releases": [
+        {
+          "_id": "1132",
+          "names": [
+            "Whipped!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "885",
+          "names": [
+            "Faster Pussycat"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5753",
+      "names": [
+        "Revolution"
+      ],
+      "releases": [
+        {
+          "_id": "1138",
+          "names": [
+            "Rips The Covers Off"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "888",
+          "names": [
+            "L.A. Guns"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5754",
+      "names": [
+        "Don't Look At Me That Way"
+      ],
+      "releases": [
+        {
+          "_id": "1138",
+          "names": [
+            "Rips The Covers Off"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "888",
+          "names": [
+            "L.A. Guns"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Nicky Hopkins",
       "targetId": "985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5707"
+      ]
     },
     {
       "name": "Taime Downe",
       "targetId": "5699",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5707"
+      ]
     },
     {
       "name": "Chuck Kavooras",
       "targetId": "5701",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5707"
+      ]
     },
     {
       "name": "Eric Stacy",
       "targetId": "5702",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5707"
+      ]
     },
     {
       "name": "Brett Bradshaw",
       "targetId": "5703",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5707"
+      ]
     },
     {
       "name": "Greg Steele",
       "targetId": "5704",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5707"
+      ]
     },
     {
       "name": "Adam Hamilton",
       "targetId": "5721",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5753",
+        "5754"
+      ]
     },
     {
       "name": "Phil Lewis",
       "targetId": "5722",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5753",
+        "5754"
+      ]
     },
     {
       "name": "Keri Kelli",
       "targetId": "5723",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5753",
+        "5754"
+      ]
     },
     {
       "name": "Steve Riley",
       "targetId": "5724",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5753",
+        "5754"
+      ]
     }
   ]
 }

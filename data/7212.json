@@ -1,21 +1,54 @@
 {
   "source": "Mike Daane",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7523",
+      "names": [
+        "Fame"
+      ],
+      "releases": [
+        {
+          "_id": "1487",
+          "names": [
+            "Mind Blowin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1144",
+          "names": [
+            "Vanilla Ice"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andy Timmons",
       "targetId": "4406",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7523"
+      ]
     },
     {
       "name": "Vanilla Ice",
       "targetId": "7211",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7523"
+      ]
     },
     {
       "name": "Davis Bickston",
       "targetId": "7213",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7523"
+      ]
     }
   ]
 }

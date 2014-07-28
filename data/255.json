@@ -1,16 +1,46 @@
 {
   "source": "Grizzy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "55",
+      "names": [
+        "The Grouch Song"
+      ],
+      "releases": [
+        {
+          "_id": "47",
+          "names": [
+            "The Adventures Of Elmo In Grouchland (soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Oscar the Grouch",
       "targetId": "242",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "55"
+      ]
     },
     {
       "name": "Elmo",
       "targetId": "254",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "55"
+      ]
     }
   ]
 }

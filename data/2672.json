@@ -1,51 +1,124 @@
 {
   "source": "Glen Matlock",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2210",
+      "names": [
+        "Anarchy In The UK"
+      ],
+      "releases": [
+        {
+          "_id": "530",
+          "names": [
+            "Never Mind The Bollocks, Here's The Sex Pistols"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "401",
+          "names": [
+            "The Sex Pistols"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8469",
+      "names": [
+        "Medication"
+      ],
+      "releases": [
+        {
+          "_id": "1636",
+          "names": [
+            "Vanishing Point"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1251",
+          "names": [
+            "Primal Scream"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Jones",
       "targetId": "1630",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2210"
+      ]
     },
     {
       "name": "Paul Cook",
       "targetId": "2669",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2210"
+      ]
     },
     {
       "name": "John Lydon",
       "targetId": "2670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2210"
+      ]
     },
     {
       "name": "Andrew Innes",
       "targetId": "7956",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8469"
+      ]
     },
     {
       "name": "Bobby Gillespie",
       "targetId": "7957",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8469"
+      ]
     },
     {
       "name": "Martin Duffy",
       "targetId": "7959",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8469"
+      ]
     },
     {
       "name": "Paul Mulreany",
       "targetId": "7960",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8469"
+      ]
     },
     {
       "name": "Robert Young",
       "targetId": "7961",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8469"
+      ]
     },
     {
       "name": "Paul Harte",
       "targetId": "7967",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8469"
+      ]
     }
   ]
 }

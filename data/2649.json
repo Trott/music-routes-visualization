@@ -1,31 +1,70 @@
 {
   "source": "Blast Murray",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2200",
+      "names": [
+        "Blue Blue Moon"
+      ],
+      "releases": [
+        {
+          "_id": "523",
+          "names": [
+            "No Talking Just Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "394",
+          "names": [
+            "The Heads"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jerry Harrison",
       "targetId": "192",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Tina Weymouth",
       "targetId": "194",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Chris Frantz",
       "targetId": "195",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Johnette Napolitano",
       "targetId": "2650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Gavin Friday",
       "targetId": "2651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     }
   ]
 }

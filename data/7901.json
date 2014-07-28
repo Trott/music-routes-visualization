@@ -1,26 +1,84 @@
 {
   "source": "Uncle Kracker",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8400",
+      "names": [
+        "Heaven"
+      ],
+      "releases": [
+        {
+          "_id": "1623",
+          "names": [
+            "Double Wide"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1241",
+          "names": [
+            "Uncle Kracker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8401",
+      "names": [
+        "When The Sun Goes Down"
+      ],
+      "releases": [
+        {
+          "_id": "1624",
+          "names": [
+            "When The Sun Goes Down"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1242",
+          "names": [
+            "Kenny Chesney"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kenny Chesney",
       "targetId": "6262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8401"
+      ]
     },
     {
       "name": "Kid Rock",
       "targetId": "6500",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8400"
+      ]
     },
     {
       "name": "Paradime",
       "targetId": "7902",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8400"
+      ]
     },
     {
       "name": "Lynn Owsely",
       "targetId": "7903",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8400"
+      ]
     }
   ]
 }

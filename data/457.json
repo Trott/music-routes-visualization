@@ -1,16 +1,46 @@
 {
   "source": "Dan Fogelberg",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "133",
+      "names": [
+        "Same Old Lang Syne"
+      ],
+      "releases": [
+        {
+          "_id": "99",
+          "names": [
+            "The Innocent Age"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "73",
+          "names": [
+            "Dan Fogelberg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Russ Kunkel",
       "targetId": "458",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "133"
+      ]
     },
     {
       "name": "Michael Brecker",
       "targetId": "459",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "133"
+      ]
     }
   ]
 }

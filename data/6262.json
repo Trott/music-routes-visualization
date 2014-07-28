@@ -1,46 +1,183 @@
 {
   "source": "Kenny Chesney",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "6377",
+      "names": [
+        "Every Other Weekend"
+      ],
+      "releases": [
+        {
+          "_id": "1273",
+          "names": [
+            "Reba: Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "986",
+          "names": [
+            "Reba McEntire"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8401",
+      "names": [
+        "When The Sun Goes Down"
+      ],
+      "releases": [
+        {
+          "_id": "1624",
+          "names": [
+            "When The Sun Goes Down"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1242",
+          "names": [
+            "Kenny Chesney"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10081",
+      "names": [
+        "Hey Good Lookin'"
+      ],
+      "releases": [
+        {
+          "_id": "1937",
+          "names": [
+            "License To Chill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10083",
+      "names": [
+        "Shiftwork"
+      ],
+      "releases": [
+        {
+          "_id": "1938",
+          "names": [
+            "Just Who I Am: Poets & Pirates"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1499",
+          "names": [
+            "Kenny Chesney"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10084",
+      "names": [
+        "Wild Ride"
+      ],
+      "releases": [
+        {
+          "_id": "1938",
+          "names": [
+            "Just Who I Am: Poets & Pirates"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1499",
+          "names": [
+            "Kenny Chesney"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joe Walsh",
       "targetId": "392",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10084"
+      ]
     },
     {
       "name": "Jimmy Buffett",
       "targetId": "1782",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
     },
     {
       "name": "Reba McEntire",
       "targetId": "6255",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6377"
+      ]
     },
     {
       "name": "Uncle Kracker",
       "targetId": "7901",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8401"
+      ]
     },
     {
       "name": "Alan Jackson",
       "targetId": "9236",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
     },
     {
       "name": "Clint Black",
       "targetId": "9237",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
     },
     {
       "name": "George Strait",
       "targetId": "9238",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10081",
+        "10083"
+      ]
     },
     {
       "name": "Toby Keith",
       "targetId": "9239",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
     }
   ]
 }

@@ -1,36 +1,155 @@
 {
   "source": "Joe Quigley",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "9523",
+      "names": [
+        "Drops Me Down"
+      ],
+      "releases": [
+        {
+          "_id": "1832",
+          "names": [
+            "Cake And Pie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9524",
+      "names": [
+        "We Could Still Belong Together"
+      ],
+      "releases": [
+        {
+          "_id": "1832",
+          "names": [
+            "Cake And Pie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9527",
+      "names": [
+        "Payback"
+      ],
+      "releases": [
+        {
+          "_id": "1832",
+          "names": [
+            "Cake And Pie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9528",
+      "names": [
+        "Too Fast Driving"
+      ],
+      "releases": [
+        {
+          "_id": "1832",
+          "names": [
+            "Cake And Pie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Sherwood",
       "targetId": "6280",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9523",
+        "9527",
+        "9528"
+      ]
     },
     {
       "name": "Dweezil Zappa",
       "targetId": "7214",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9523",
+        "9524",
+        "9527",
+        "9528"
+      ]
     },
     {
       "name": "Lisa Loeb",
       "targetId": "8844",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9523",
+        "9524",
+        "9527",
+        "9528"
+      ]
     },
     {
       "name": "Ronny Crawford",
       "targetId": "8866",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9523",
+        "9524",
+        "9527",
+        "9528"
+      ]
     },
     {
       "name": "Mark Spencer",
       "targetId": "8870",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9524"
+      ]
     },
     {
       "name": "Jonatha Brooke",
       "targetId": "8875",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9527"
+      ]
     }
   ]
 }

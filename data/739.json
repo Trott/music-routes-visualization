@@ -1,41 +1,138 @@
 {
   "source": "Donny Baldwin",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "283",
+      "names": [
+        "We Built This City"
+      ],
+      "releases": [
+        {
+          "_id": "178",
+          "names": [
+            "Greatest Hits (Ten Years & Change 1979-1991)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "123",
+          "names": [
+            "Starship"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "284",
+      "names": [
+        "Rock Myself To Sleep"
+      ],
+      "releases": [
+        {
+          "_id": "191",
+          "names": [
+            "Knee Deep In The Hoopla"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "123",
+          "names": [
+            "Starship"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "335",
+      "names": [
+        "Sara"
+      ],
+      "releases": [
+        {
+          "_id": "178",
+          "names": [
+            "Greatest Hits (Ten Years & Change 1979-1991)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "123",
+          "names": [
+            "Starship"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kevin DuBrow",
       "targetId": "144",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "284"
+      ]
     },
     {
       "name": "Grace Slick",
       "targetId": "738",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "283",
+        "284",
+        "335"
+      ]
     },
     {
       "name": "Craig Chaquico",
       "targetId": "740",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "283",
+        "284",
+        "335"
+      ]
     },
     {
       "name": "Mickey Thomas",
       "targetId": "741",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "283",
+        "284",
+        "335"
+      ]
     },
     {
       "name": "Pete Sears",
       "targetId": "742",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "283",
+        "284",
+        "335"
+      ]
     },
     {
       "name": "Les Garland",
       "targetId": "743",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "283"
+      ]
     },
     {
       "name": "Peter Wolf",
       "targetId": "744",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "283"
+      ]
     }
   ]
 }

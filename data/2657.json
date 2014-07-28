@@ -1,61 +1,218 @@
 {
   "source": "Mark E. Smith",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "2201",
+      "names": [
+        "Copped It"
+      ],
+      "releases": [
+        {
+          "_id": "524",
+          "names": [
+            "The Wonderful And Frightening World Of The Fall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "395",
+          "names": [
+            "The Fall"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2202",
+      "names": [
+        "Clear Off!"
+      ],
+      "releases": [
+        {
+          "_id": "524",
+          "names": [
+            "The Wonderful And Frightening World Of The Fall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "395",
+          "names": [
+            "The Fall"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2203",
+      "names": [
+        "Stephen Song"
+      ],
+      "releases": [
+        {
+          "_id": "524",
+          "names": [
+            "The Wonderful And Frightening World Of The Fall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "395",
+          "names": [
+            "The Fall"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7944",
+      "names": [
+        "Not Clean"
+      ],
+      "releases": [
+        {
+          "_id": "1562",
+          "names": [
+            "In Cod We Trust"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1196",
+          "names": [
+            "Ghostigital"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9608",
+      "names": [
+        "Glitter Freeze"
+      ],
+      "releases": [
+        {
+          "_id": "1842",
+          "names": [
+            "Plastic Beach"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "351",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Damon Albarn",
       "targetId": "2401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9608"
+      ]
     },
     {
       "name": "Gavin Friday",
       "targetId": "2651",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Karl Burns",
       "targetId": "2652",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Craig Scanlon",
       "targetId": "2653",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Paul Hanley",
       "targetId": "2654",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Steve Hanley",
       "targetId": "2655",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Brix Smith",
       "targetId": "2656",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Einar Örn",
       "targetId": "7604",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7944"
+      ]
     },
     {
       "name": "Katie Jane Garside",
       "targetId": "7611",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7944"
+      ]
     },
     {
       "name": "Ragnheiður Ásta Pétursdóttir",
       "targetId": "7612",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7944"
+      ]
     },
     {
       "name": "Simon Tong",
       "targetId": "8913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9608"
+      ]
     }
   ]
 }

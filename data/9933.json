@@ -1,21 +1,60 @@
 {
   "source": "DMX",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11576",
+      "names": [
+        "Grand Finale"
+      ],
+      "releases": [
+        {
+          "_id": "2149",
+          "names": [
+            "Belly [soundtrack]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "338",
+          "names": [
+            "Nas"
+          ]
+        },
+        {
+          "_id": "1616",
+          "names": [
+            "DMX"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Nas",
       "targetId": "2184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11576"
+      ]
     },
     {
       "name": "Method Man",
       "targetId": "4390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11576"
+      ]
     },
     {
       "name": "Ja Rule",
       "targetId": "8238",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11576"
+      ]
     }
   ]
 }

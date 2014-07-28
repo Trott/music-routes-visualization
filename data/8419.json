@@ -1,46 +1,117 @@
 {
   "source": "Kelly LeMieux",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9125",
+      "names": [
+        "Open Your Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "1747",
+          "names": [
+            "Open Your Eyes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1337",
+          "names": [
+            "Goldfinger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9127",
+      "names": [
+        "Just Another Day"
+      ],
+      "releases": [
+        {
+          "_id": "1749",
+          "names": [
+            "Electric Love Hogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1338",
+          "names": [
+            "Electric Love Hogs"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tommy Lee",
       "targetId": "1357",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9127"
+      ]
     },
     {
       "name": "Dave Kushner",
       "targetId": "4383",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9127"
+      ]
     },
     {
       "name": "Bert McCraken",
       "targetId": "8420",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9125"
+      ]
     },
     {
       "name": "Brian Arthur",
       "targetId": "8421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9125"
+      ]
     },
     {
       "name": "Darrin Pfeiffer",
       "targetId": "8422",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9125"
+      ]
     },
     {
       "name": "John Feldmann",
       "targetId": "8423",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9125",
+        "9127"
+      ]
     },
     {
       "name": "Donni Campion",
       "targetId": "8427",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9127"
+      ]
     },
     {
       "name": "Bobby Hewitt",
       "targetId": "8428",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9127"
+      ]
     }
   ]
 }

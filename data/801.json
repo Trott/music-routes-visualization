@@ -1,21 +1,54 @@
 {
   "source": "Terry Cox",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "308",
+      "names": [
+        "Space Oddity"
+      ],
+      "releases": [
+        {
+          "_id": "186",
+          "names": [
+            "Space Oddity"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "308"
+      ]
     },
     {
       "name": "Rick Wakeman",
       "targetId": "792",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "308"
+      ]
     },
     {
       "name": "Herbie Flowers",
       "targetId": "800",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "308"
+      ]
     }
   ]
 }

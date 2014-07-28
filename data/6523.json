@@ -1,26 +1,62 @@
 {
   "source": "Keith Thomas",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6645",
+      "names": [
+        "I Wanna Be With You"
+      ],
+      "releases": [
+        {
+          "_id": "1328",
+          "names": [
+            "I Wanna Be With You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1028",
+          "names": [
+            "Mandy Moore"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kenny Greenberg",
       "targetId": "6503",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6645"
+      ]
     },
     {
       "name": "Mandy Moore",
       "targetId": "6521",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6645"
+      ]
     },
     {
       "name": "Tiffany Arbuckle Lee",
       "targetId": "6522",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6645"
+      ]
     },
     {
       "name": "Jerry McPherson",
       "targetId": "6524",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6645"
+      ]
     }
   ]
 }

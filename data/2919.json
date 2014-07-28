@@ -1,26 +1,62 @@
 {
   "source": "Steve Harley",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2357",
+      "names": [
+        "Dandy In The Underworld"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Herbie Flowers",
       "targetId": "800",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2357"
+      ]
     },
     {
       "name": "Marc Bolan",
       "targetId": "1825",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2357"
+      ]
     },
     {
       "name": "Tony Newman",
       "targetId": "2909",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2357"
+      ]
     },
     {
       "name": "Dino Dines",
       "targetId": "2913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2357"
+      ]
     }
   ]
 }

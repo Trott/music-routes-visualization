@@ -1,21 +1,54 @@
 {
   "source": "Jimmy Shortell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4103",
+      "names": [
+        "Sleight Of Mind"
+      ],
+      "releases": [
+        {
+          "_id": "833",
+          "names": [
+            "Eyes Adrift"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "656",
+          "names": [
+            "Eyes Adrift"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Krist Novoselic",
       "targetId": "684",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4103"
+      ]
     },
     {
       "name": "Curt Kirkwood",
       "targetId": "757",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4103"
+      ]
     },
     {
       "name": "Bud Gaugh",
       "targetId": "4325",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4103"
+      ]
     }
   ]
 }

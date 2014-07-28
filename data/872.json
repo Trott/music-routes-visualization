@@ -1,61 +1,171 @@
 {
   "source": "Lesley Fairbairn",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "401",
+      "names": [
+        "Flying North"
+      ],
+      "releases": [
+        {
+          "_id": "205",
+          "names": [
+            "The Golden Age Of Wireless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "141",
+          "names": [
+            "Thomas Dolby"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "402",
+      "names": [
+        "Weightless"
+      ],
+      "releases": [
+        {
+          "_id": "205",
+          "names": [
+            "The Golden Age Of Wireless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "141",
+          "names": [
+            "Thomas Dolby"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "407",
+      "names": [
+        "Cloudburst At Shingle Street"
+      ],
+      "releases": [
+        {
+          "_id": "205",
+          "names": [
+            "The Golden Age Of Wireless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "141",
+          "names": [
+            "Thomas Dolby"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kevin Armstrong",
       "targetId": "369",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "401",
+        "407"
+      ]
     },
     {
       "name": "Thomas Dolby",
       "targetId": "859",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "401",
+        "402",
+        "407"
+      ]
     },
     {
       "name": "Bruce Woolley",
       "targetId": "860",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "402"
+      ]
     },
     {
       "name": "Mark Heyward-Chaplin",
       "targetId": "861",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "407"
+      ]
     },
     {
       "name": "Justin Hildreth",
       "targetId": "862",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "401",
+        "407"
+      ]
     },
     {
       "name": "Dave Birch",
       "targetId": "871",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "401",
+        "402"
+      ]
     },
     {
       "name": "James Allen",
       "targetId": "873",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "402",
+        "407"
+      ]
     },
     {
       "name": "Judy Evans",
       "targetId": "874",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "402",
+        "407"
+      ]
     },
     {
       "name": "Lene Lovich",
       "targetId": "875",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "402",
+        "407"
+      ]
     },
     {
       "name": "Les Chappell",
       "targetId": "876",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "402",
+        "407"
+      ]
     },
     {
       "name": "Justin Heyward-Chaplin",
       "targetId": "877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "402"
+      ]
     }
   ]
 }

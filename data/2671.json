@@ -1,21 +1,54 @@
 {
   "source": "Sid Vicious",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2209",
+      "names": [
+        "Bodies"
+      ],
+      "releases": [
+        {
+          "_id": "530",
+          "names": [
+            "Never Mind The Bollocks, Here's The Sex Pistols"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "401",
+          "names": [
+            "The Sex Pistols"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Jones",
       "targetId": "1630",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2209"
+      ]
     },
     {
       "name": "Paul Cook",
       "targetId": "2669",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2209"
+      ]
     },
     {
       "name": "John Lydon",
       "targetId": "2670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2209"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Chris Brown",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2814",
+      "names": [
+        "Eat Dust"
+      ],
+      "releases": [
+        {
+          "_id": "640",
+          "names": [
+            "Fear No Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "501",
+          "names": [
+            "Bob Ostertag"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Ostertag",
       "targetId": "3201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2814"
+      ]
     },
     {
       "name": "Lynn Breedlove",
       "targetId": "3205",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2814"
+      ]
     },
     {
       "name": "Trevor Dunn",
       "targetId": "3207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2814"
+      ]
     }
   ]
 }

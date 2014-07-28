@@ -1,51 +1,205 @@
 {
   "source": "Howard McGhee",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "12174",
+      "names": [
+        "Lover Man"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12175",
+      "names": [
+        "Bebop"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12176",
+      "names": [
+        "The Gypsy"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12182",
+      "names": [
+        "Relaxin' At Camarillo"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12183",
+      "names": [
+        "Stupendous"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Red Callender",
       "targetId": "382",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "12174",
+        "12175",
+        "12176",
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Jimmy Bunn",
       "targetId": "10138",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12174",
+        "12175",
+        "12176"
+      ]
     },
     {
       "name": "Bob Kesterson",
       "targetId": "10140",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12174",
+        "12175",
+        "12176"
+      ]
     },
     {
       "name": "Roy Porter",
       "targetId": "10141",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12174",
+        "12175",
+        "12176"
+      ]
     },
     {
       "name": "Dodo Marmarosa",
       "targetId": "10142",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Wardell Gray",
       "targetId": "10146",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Don Lamond",
       "targetId": "10147",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     }
   ]
 }

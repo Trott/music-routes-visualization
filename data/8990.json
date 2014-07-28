@@ -1,21 +1,54 @@
 {
   "source": "Chris Witchhunter",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9713",
+      "names": [
+        "Iron Fist"
+      ],
+      "releases": [
+        {
+          "_id": "1865",
+          "names": [
+            "Persecution Mania"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1445",
+          "names": [
+            "Sodom"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Blackfire",
       "targetId": "8987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9713"
+      ]
     },
     {
       "name": "Tom Angelripper",
       "targetId": "8988",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9713"
+      ]
     },
     {
       "name": "Harris Johns",
       "targetId": "8989",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9713"
+      ]
     }
   ]
 }

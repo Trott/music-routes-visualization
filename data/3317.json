@@ -1,31 +1,95 @@
 {
   "source": "Sina Siapia",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2977",
+      "names": [
+        "How Bizarre"
+      ],
+      "releases": [
+        {
+          "_id": "654",
+          "names": [
+            "How Bizarre"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "513",
+          "names": [
+            "OMC"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2983",
+      "names": [
+        "Right On"
+      ],
+      "releases": [
+        {
+          "_id": "654",
+          "names": [
+            "How Bizarre"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "513",
+          "names": [
+            "OMC"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pauly Fuemana",
       "targetId": "3310",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2977",
+        "2983"
+      ]
     },
     {
       "name": "George Chisholm",
       "targetId": "3314",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2977",
+        "2983"
+      ]
     },
     {
       "name": "Alan Jansson",
       "targetId": "3315",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2983"
+      ]
     },
     {
       "name": "Lee Baker",
       "targetId": "3316",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2977",
+        "2983"
+      ]
     },
     {
       "name": "Hershal Herscher",
       "targetId": "3325",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2977"
+      ]
     }
   ]
 }

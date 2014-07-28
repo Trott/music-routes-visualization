@@ -1,11 +1,44 @@
 {
   "source": "Conway Twitty",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13233",
+      "names": [
+        "It's Only Make Believe"
+      ],
+      "releases": [
+        {
+          "_id": "2389",
+          "names": [
+            "We Only Make Believe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "39",
+          "names": [
+            "Loretta Lynn"
+          ]
+        },
+        {
+          "_id": "1699",
+          "names": [
+            "Conway Twitty"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Loretta Lynn",
       "targetId": "244",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13233"
+      ]
     }
   ]
 }

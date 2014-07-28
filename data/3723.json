@@ -1,31 +1,120 @@
 {
   "source": "Jezz Woodroffe",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3601",
+      "names": [
+        "Big Log"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3604",
+      "names": [
+        "Little By Little"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3612",
+      "names": [
+        "Road To The Sun"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Collins",
       "targetId": "97",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3612"
+      ]
     },
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3601",
+        "3604",
+        "3612"
+      ]
     },
     {
       "name": "Richie Hayward",
       "targetId": "648",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3604"
+      ]
     },
     {
       "name": "Robbie Blunt",
       "targetId": "3722",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3601",
+        "3604",
+        "3612"
+      ]
     },
     {
       "name": "Paul Martinez",
       "targetId": "3724",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3601",
+        "3604",
+        "3612"
+      ]
     }
   ]
 }

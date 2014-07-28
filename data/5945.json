@@ -1,26 +1,108 @@
 {
   "source": "Romanthony",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6002",
+      "names": [
+        "One More Time"
+      ],
+      "releases": [
+        {
+          "_id": "1202",
+          "names": [
+            "Discovery"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "933",
+          "names": [
+            "Daft Punk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6003",
+      "names": [
+        "Too Long"
+      ],
+      "releases": [
+        {
+          "_id": "1202",
+          "names": [
+            "Discovery"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "933",
+          "names": [
+            "Daft Punk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6505",
+      "names": [
+        "Miami"
+      ],
+      "releases": [
+        {
+          "_id": "1305",
+          "names": [
+            "Romanthony E.P."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1008",
+          "names": [
+            "Romanthony"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Thomas Bangalter",
       "targetId": "5943",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6002",
+        "6003"
+      ]
     },
     {
       "name": "Guy-Manuel de Homem-Christo",
       "targetId": "5944",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6002",
+        "6003"
+      ]
     },
     {
       "name": "DJ S+M",
       "targetId": "6341",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6505"
+      ]
     },
     {
       "name": "Eve Angel",
       "targetId": "6342",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6505"
+      ]
     }
   ]
 }

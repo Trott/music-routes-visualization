@@ -1,11 +1,38 @@
 {
   "source": "Plácido Domingo",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3781",
+      "names": [
+        "Perhaps Love"
+      ],
+      "releases": [
+        {
+          "_id": "483",
+          "names": [
+            "Definitive All-Time Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "363",
+          "names": [
+            "John Denver"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Denver",
       "targetId": "2523",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3781"
+      ]
     }
   ]
 }

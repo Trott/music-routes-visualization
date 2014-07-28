@@ -1,26 +1,62 @@
 {
   "source": "Jeff Dahl",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4690",
+      "names": [
+        "White Light/White Heat"
+      ],
+      "releases": [
+        {
+          "_id": "957",
+          "names": [
+            "Scratch Up Some Action"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "755",
+          "names": [
+            "Jeff Dahl Group"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Duff",
       "targetId": "4913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4690"
+      ]
     },
     {
       "name": "Del Hopkins",
       "targetId": "4956",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4690"
+      ]
     },
     {
       "name": "Amy Wichman",
       "targetId": "4957",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4690"
+      ]
     },
     {
       "name": "Rikk Agnew",
       "targetId": "4959",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4690"
+      ]
     }
   ]
 }

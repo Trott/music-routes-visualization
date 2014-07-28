@@ -1,26 +1,88 @@
 {
   "source": "Lori Goldston",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3522",
+      "names": [
+        "All Apologies"
+      ],
+      "releases": [
+        {
+          "_id": "712",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "115",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3523",
+      "names": [
+        "The Man Who Sold The World"
+      ],
+      "releases": [
+        {
+          "_id": "712",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "115",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Grohl",
       "targetId": "338",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3522",
+        "3523"
+      ]
     },
     {
       "name": "Kurt Cobain",
       "targetId": "683",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3522",
+        "3523"
+      ]
     },
     {
       "name": "Krist Novoselic",
       "targetId": "684",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3522",
+        "3523"
+      ]
     },
     {
       "name": "Pat Smear",
       "targetId": "784",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3522",
+        "3523"
+      ]
     }
   ]
 }

@@ -1,26 +1,164 @@
 {
   "source": "Bud Powell",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2448",
+      "names": [
+        "Donna Lee"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2449",
+      "names": [
+        "Chasin' The Bird"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2450",
+      "names": [
+        "Cheryl"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2451",
+      "names": [
+        "Buzzy"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2448",
+        "2449",
+        "2450",
+        "2451"
+      ]
     },
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2448",
+        "2449",
+        "2450",
+        "2451"
+      ]
     },
     {
       "name": "Tommy Potter",
       "targetId": "2947",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2448",
+        "2449",
+        "2450",
+        "2451"
+      ]
     },
     {
       "name": "Max Roach",
       "targetId": "2950",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2448",
+        "2449",
+        "2450",
+        "2451"
+      ]
     }
   ]
 }

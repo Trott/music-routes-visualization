@@ -1,21 +1,54 @@
 {
   "source": "Cheryl Dunlap",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3109",
+      "names": [
+        "Ebony Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "668",
+          "names": [
+            "Anthology"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "522",
+          "names": [
+            "Rick James"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Smokey Robinson",
       "targetId": "76",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3109"
+      ]
     },
     {
       "name": "Rick James",
       "targetId": "517",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3109"
+      ]
     },
     {
       "name": "Randy Dunlap",
       "targetId": "3428",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3109"
+      ]
     }
   ]
 }

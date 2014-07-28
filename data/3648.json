@@ -1,26 +1,62 @@
 {
   "source": "Chan Poling",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3516",
+      "names": [
+        "Sixteen Blue"
+      ],
+      "releases": [
+        {
+          "_id": "710",
+          "names": [
+            "Let It Be"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "480",
+          "names": [
+            "The Replacements"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tommy Stinson",
       "targetId": "3076",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3516"
+      ]
     },
     {
       "name": "Chris Mars",
       "targetId": "3077",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3516"
+      ]
     },
     {
       "name": "Paul Westerberg",
       "targetId": "3078",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3516"
+      ]
     },
     {
       "name": "Bob Stinson",
       "targetId": "3647",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3516"
+      ]
     }
   ]
 }

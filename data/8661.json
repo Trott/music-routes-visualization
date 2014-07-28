@@ -1,31 +1,70 @@
 {
   "source": "Jack Johnson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9249",
+      "names": [
+        "Trash"
+      ],
+      "releases": [
+        {
+          "_id": "729",
+          "names": [
+            "Trash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alice Cooper",
       "targetId": "1285",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9249"
+      ]
     },
     {
       "name": "Joey Kramer",
       "targetId": "1891",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9249"
+      ]
     },
     {
       "name": "Tom Hamilton",
       "targetId": "1893",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9249"
+      ]
     },
     {
       "name": "Jon Bon Jovi",
       "targetId": "3422",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9249"
+      ]
     },
     {
       "name": "Mark Frazier",
       "targetId": "8662",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9249"
+      ]
     }
   ]
 }

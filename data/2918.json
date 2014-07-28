@@ -1,61 +1,192 @@
 {
   "source": "Gloria Jones",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2359",
+      "names": [
+        "Universe"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2360",
+      "names": [
+        "I'm A Fool For You, Girl"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3094",
+      "names": [
+        "Dishing Fish Wop"
+      ],
+      "releases": [
+        {
+          "_id": "666",
+          "names": [
+            "Bump 'n' Grind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3095",
+      "names": [
+        "Light Of Love"
+      ],
+      "releases": [
+        {
+          "_id": "666",
+          "names": [
+            "Bump 'n' Grind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Humphrey",
       "targetId": "820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2360"
+      ]
     },
     {
       "name": "Marc Bolan",
       "targetId": "1825",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2359",
+        "2360",
+        "3094",
+        "3095"
+      ]
     },
     {
       "name": "Steve Currie",
       "targetId": "1827",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2359",
+        "3094",
+        "3095"
+      ]
     },
     {
       "name": "Scott Edwards",
       "targetId": "2906",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2360"
+      ]
     },
     {
       "name": "Davey Lutton",
       "targetId": "2907",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2359",
+        "3094",
+        "3095"
+      ]
     },
     {
       "name": "Steve Gregory",
       "targetId": "2911",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2360"
+      ]
     },
     {
       "name": "Dino Dines",
       "targetId": "2913",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2359",
+        "3094"
+      ]
     },
     {
       "name": "Chris Mercer",
       "targetId": "2914",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2359"
+      ]
     },
     {
       "name": "J. Long",
       "targetId": "2915",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2360"
+      ]
     },
     {
       "name": "Colin Jacas",
       "targetId": "2917",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2359"
+      ]
     },
     {
       "name": "Pat Hall",
       "targetId": "3702",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3094"
+      ]
     }
   ]
 }

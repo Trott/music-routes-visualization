@@ -1,21 +1,76 @@
 {
   "source": "Doris Day",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5920",
+      "names": [
+        "Love Somebody"
+      ],
+      "releases": [
+        {
+          "_id": "1172",
+          "names": [
+            "Secret Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "912",
+          "names": [
+            "Doris Day"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5921",
+      "names": [
+        "Freddie, Get Ready"
+      ],
+      "releases": [
+        {
+          "_id": "1173",
+          "names": [
+            "It's Magic: Her Early Years At Warner Bros."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "912",
+          "names": [
+            "Doris Day"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Buddy Clark",
       "targetId": "1940",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5920"
+      ]
     },
     {
       "name": "Jack Carson",
       "targetId": "5838",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5921"
+      ]
     },
     {
       "name": "Mel Blanc",
       "targetId": "5839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5921"
+      ]
     }
   ]
 }

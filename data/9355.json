@@ -1,11 +1,38 @@
 {
   "source": "Peter Bourne",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10273",
+      "names": [
+        "Miracle Drug"
+      ],
+      "releases": [
+        {
+          "_id": "1967",
+          "names": [
+            "The Slow Wonder"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1510",
+          "names": [
+            "A.C. Newman"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "A.C. Newman",
       "targetId": "6169",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10273"
+      ]
     }
   ]
 }

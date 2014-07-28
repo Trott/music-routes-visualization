@@ -1,21 +1,77 @@
 {
   "source": "Bill Mumy",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "44",
+      "names": [
+        "Fighting The Demon"
+      ],
+      "releases": [
+        {
+          "_id": "39",
+          "names": [
+            "Kodovoner"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "35",
+          "names": [
+            "Barnes & Barnes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "45",
+      "names": [
+        "These Boots Are Made For Walking"
+      ],
+      "releases": [
+        {
+          "_id": "40",
+          "names": [
+            "The Big Problem ≠ The Solution. The Solution = Let It Be"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "36",
+          "names": [
+            "Crispin Glover"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dewey Bunnell",
       "targetId": "227",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "44"
+      ]
     },
     {
       "name": "Robert Haimer",
       "targetId": "236",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "44",
+        "45"
+      ]
     },
     {
       "name": "Crispin Glover",
       "targetId": "237",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "45"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "John Earle",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12909",
+      "names": [
+        "Dancing In The Moonlight"
+      ],
+      "releases": [
+        {
+          "_id": "2329",
+          "names": [
+            "Live And Dangerous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1611",
+          "names": [
+            "Thin Lizzy"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Lynott",
       "targetId": "2690",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12909"
+      ]
     },
     {
       "name": "Brian Downey",
       "targetId": "2691",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12909"
+      ]
     },
     {
       "name": "Scott Gorham",
       "targetId": "2692",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12909"
+      ]
     },
     {
       "name": "Brian Robertson",
       "targetId": "9880",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12909"
+      ]
     }
   ]
 }

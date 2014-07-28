@@ -1,116 +1,454 @@
 {
   "source": "Jerry Harrison",
   "trackCount": 11,
+  "tracks": [
+    {
+      "_id": "29",
+      "names": [
+        "Under The Tracks"
+      ],
+      "releases": [
+        {
+          "_id": "24",
+          "names": [
+            "Take Back The Universe And Give Me Yesterday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "23",
+          "names": [
+            "Creeper Lagoon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "30",
+      "names": [
+        "Take Me To The River"
+      ],
+      "releases": [
+        {
+          "_id": "25",
+          "names": [
+            "Stop Making Sense"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "24",
+          "names": [
+            "Talking Heads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "31",
+      "names": [
+        "Born Under Punches (The Heat Goes On)"
+      ],
+      "releases": [
+        {
+          "_id": "26",
+          "names": [
+            "Remain In Light"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "24",
+          "names": [
+            "Talking Heads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "487",
+      "names": [
+        "Pablo Picasso"
+      ],
+      "releases": [
+        {
+          "_id": "221",
+          "names": [
+            "The Modern Lovers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "155",
+          "names": [
+            "The Modern Lovers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2200",
+      "names": [
+        "Blue Blue Moon"
+      ],
+      "releases": [
+        {
+          "_id": "523",
+          "names": [
+            "No Talking Just Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "394",
+          "names": [
+            "The Heads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4515",
+      "names": [
+        "Walk Up The Street"
+      ],
+      "releases": [
+        {
+          "_id": "916",
+          "names": [
+            "Precise Modern Lovers Order"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "155",
+          "names": [
+            "The Modern Lovers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4516",
+      "names": [
+        "The Mixer (Men And Women Together)"
+      ],
+      "releases": [
+        {
+          "_id": "916",
+          "names": [
+            "Precise Modern Lovers Order"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "155",
+          "names": [
+            "The Modern Lovers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4517",
+      "names": [
+        "Fly Into The Mystery"
+      ],
+      "releases": [
+        {
+          "_id": "916",
+          "names": [
+            "Precise Modern Lovers Order"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "155",
+          "names": [
+            "The Modern Lovers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4518",
+      "names": [
+        "I'm Straight"
+      ],
+      "releases": [
+        {
+          "_id": "916",
+          "names": [
+            "Precise Modern Lovers Order"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "155",
+          "names": [
+            "The Modern Lovers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4519",
+      "names": [
+        "Don't Let Our Youth Go To Waste"
+      ],
+      "releases": [
+        {
+          "_id": "916",
+          "names": [
+            "Precise Modern Lovers Order"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "155",
+          "names": [
+            "The Modern Lovers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10077",
+      "names": [
+        "The Great Curve"
+      ],
+      "releases": [
+        {
+          "_id": "26",
+          "names": [
+            "Remain In Light"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "24",
+          "names": [
+            "Talking Heads"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sharky Laguana",
       "targetId": "21",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "29"
+      ]
     },
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "31",
+        "10077"
+      ]
     },
     {
       "name": "Dan Carr",
       "targetId": "189",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "29"
+      ]
     },
     {
       "name": "Dave Kostiner",
       "targetId": "190",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "29"
+      ]
     },
     {
       "name": "Ian Sefchick",
       "targetId": "191",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "29"
+      ]
     },
     {
       "name": "David Byrne",
       "targetId": "193",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "30",
+        "31",
+        "10077"
+      ]
     },
     {
       "name": "Tina Weymouth",
       "targetId": "194",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "30",
+        "31",
+        "2200",
+        "10077"
+      ]
     },
     {
       "name": "Chris Frantz",
       "targetId": "195",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "30",
+        "31",
+        "2200",
+        "10077"
+      ]
     },
     {
       "name": "Ednah Holt",
       "targetId": "196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Lynn Mabry",
       "targetId": "197",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Alex Weir",
       "targetId": "198",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Bernie Worrell",
       "targetId": "199",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Steve Scales",
       "targetId": "200",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "31"
+      ]
     },
     {
       "name": "Jonathan Richman",
       "targetId": "953",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "487",
+        "4515",
+        "4516",
+        "4517",
+        "4518",
+        "4519"
+      ]
     },
     {
       "name": "David Robinson",
       "targetId": "954",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "487",
+        "4515",
+        "4516",
+        "4517",
+        "4518",
+        "4519"
+      ]
     },
     {
       "name": "Ernie Brooks",
       "targetId": "955",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "487",
+        "4515",
+        "4516",
+        "4517",
+        "4518",
+        "4519"
+      ]
     },
     {
       "name": "John Cale",
       "targetId": "956",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "487"
+      ]
     },
     {
       "name": "Blast Murray",
       "targetId": "2649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Johnette Napolitano",
       "targetId": "2650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Gavin Friday",
       "targetId": "2651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "John Felice",
       "targetId": "4677",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4515",
+        "4516",
+        "4517",
+        "4518",
+        "4519"
+      ]
     }
   ]
 }

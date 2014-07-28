@@ -1,36 +1,78 @@
 {
   "source": "Frank Reidy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11095",
+      "names": [
+        "When I'm Sixty-Four"
+      ],
+      "releases": [
+        {
+          "_id": "1798",
+          "names": [
+            "Sgt. Pepper's Lonely Hearts Club Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11095"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11095"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11095"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11095"
+      ]
     },
     {
       "name": "Robert Burns",
       "targetId": "9771",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11095"
+      ]
     },
     {
       "name": "Henry MacKenzie",
       "targetId": "9772",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11095"
+      ]
     }
   ]
 }

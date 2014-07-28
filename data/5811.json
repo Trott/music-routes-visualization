@@ -1,66 +1,171 @@
 {
   "source": "Penelope Magnet",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1998",
+      "names": [
+        "Me Against The Music"
+      ],
+      "releases": [
+        {
+          "_id": "443",
+          "names": [
+            "In The Zone"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "325",
+          "names": [
+            "Britney Spears"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5904",
+      "names": [
+        "Turn It Up"
+      ],
+      "releases": [
+        {
+          "_id": "1167",
+          "names": [
+            "Paris"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "908",
+          "names": [
+            "Paris Hilton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5905",
+      "names": [
+        "Outrageous"
+      ],
+      "releases": [
+        {
+          "_id": "443",
+          "names": [
+            "In The Zone"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "325",
+          "names": [
+            "Britney Spears"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Madonna",
       "targetId": "702",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1998"
+      ]
     },
     {
       "name": "Britney Spears",
       "targetId": "2138",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1998",
+        "5905"
+      ]
     },
     {
       "name": "Donnie Lyle",
       "targetId": "2679",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     },
     {
       "name": "R. Kelly",
       "targetId": "4282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     },
     {
       "name": "Paris Hilton",
       "targetId": "5810",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5904"
+      ]
     },
     {
       "name": "Pooh Bear",
       "targetId": "5812",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5904"
+      ]
     },
     {
       "name": "Taura \"Aura\" Jackson",
       "targetId": "5813",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5904"
+      ]
     },
     {
       "name": "Kendall Nesbitt",
       "targetId": "5814",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     },
     {
       "name": "Roxanne Estrada",
       "targetId": "5815",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     },
     {
       "name": "Gary O'Brien",
       "targetId": "5816",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1998"
+      ]
     },
     {
       "name": "Courtney Copeland",
       "targetId": "5817",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1998"
+      ]
     },
     {
       "name": "Emma Roads",
       "targetId": "5818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1998"
+      ]
     }
   ]
 }

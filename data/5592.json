@@ -1,21 +1,54 @@
 {
   "source": "Bruner, Jr., Ronald",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5516",
+      "names": [
+        "Shinjuku"
+      ],
+      "releases": [
+        {
+          "_id": "1092",
+          "names": [
+            "Kinesthetics"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "861",
+          "names": [
+            "Scott Kinsey"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Scott Kinsey",
       "targetId": "5576",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5516"
+      ]
     },
     {
       "name": "Scott Henderson",
       "targetId": "5579",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5516"
+      ]
     },
     {
       "name": "Jimmy Earl",
       "targetId": "5581",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5516"
+      ]
     }
   ]
 }

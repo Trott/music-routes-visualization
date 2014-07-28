@@ -1,21 +1,54 @@
 {
   "source": "Jay Farrar",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4916",
+      "names": [
+        "Grindstone"
+      ],
+      "releases": [
+        {
+          "_id": "991",
+          "names": [
+            "Uncle Tupelo 89/93: An Anthology"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "786",
+          "names": [
+            "Uncle Tupelo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jeff Tweedy",
       "targetId": "1704",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4916"
+      ]
     },
     {
       "name": "John Keane",
       "targetId": "2587",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4916"
+      ]
     },
     {
       "name": "Mike Heidorn",
       "targetId": "5060",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4916"
+      ]
     }
   ]
 }

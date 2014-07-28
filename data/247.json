@@ -1,36 +1,100 @@
 {
   "source": "Speedy West",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "52",
+      "names": [
+        "I'm A Honky Tonk Girl"
+      ],
+      "releases": [
+        {
+          "_id": "44",
+          "names": [
+            "Honky Tonk Girl: The Loretta Lynn Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "39",
+          "names": [
+            "Loretta Lynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "53",
+      "names": [
+        "Dry Bread"
+      ],
+      "releases": [
+        {
+          "_id": "45",
+          "names": [
+            "Roots Of Rockabilly, Volume 1: 1950"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "40",
+          "names": [
+            "Merle Travis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Loretta Lynn",
       "targetId": "244",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Roy Lanham",
       "targetId": "248",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Harold Hensley",
       "targetId": "249",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Roy Harte",
       "targetId": "250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Billy Liebert",
       "targetId": "251",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Merle Travis",
       "targetId": "252",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "53"
+      ]
     }
   ]
 }

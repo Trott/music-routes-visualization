@@ -1,56 +1,135 @@
 {
   "source": "Murray Foster",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7355",
+      "names": [
+        "Man In A Hat"
+      ],
+      "releases": [
+        {
+          "_id": "1446",
+          "names": [
+            "Jews With Horns"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1115",
+          "names": [
+            "The Klezmatics"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7356",
+      "names": [
+        "King Of Spain"
+      ],
+      "releases": [
+        {
+          "_id": "1447",
+          "names": [
+            "Live Noise"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1116",
+          "names": [
+            "Moxy Früvous"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank London",
       "targetId": "3074",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7355"
+      ]
     },
     {
       "name": "David Licht",
       "targetId": "3233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7355"
+      ]
     },
     {
       "name": "Alicia Svigals",
       "targetId": "6807",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7355"
+      ]
     },
     {
       "name": "Paul Morrissett",
       "targetId": "7053",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7355"
+      ]
     },
     {
       "name": "David Krakauer",
       "targetId": "7054",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7355"
+      ]
     },
     {
       "name": "Lorin Sklamberg",
       "targetId": "7055",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7355"
+      ]
     },
     {
       "name": "Ray \"Chinito\" Diaz",
       "targetId": "7056",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7355"
+      ]
     },
     {
       "name": "David Matheson",
       "targetId": "7057",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7355",
+        "7356"
+      ]
     },
     {
       "name": "Jian Ghomeshi",
       "targetId": "7058",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7355",
+        "7356"
+      ]
     },
     {
       "name": "Mike Ford",
       "targetId": "7059",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7355",
+        "7356"
+      ]
     }
   ]
 }

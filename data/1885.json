@@ -1,11 +1,38 @@
 {
   "source": "Thomas Kolor",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1626",
+      "names": [
+        "Grand Union"
+      ],
+      "releases": [
+        {
+          "_id": "377",
+          "names": [
+            "Fast Fantasy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "269",
+          "names": [
+            "Fred Sherry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Fred Sherry",
       "targetId": "1875",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1626"
+      ]
     }
   ]
 }

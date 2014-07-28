@@ -1,21 +1,54 @@
 {
   "source": "Stefan Roberts",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13208",
+      "names": [
+        "Lake Tahoe"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Gadd",
       "targetId": "1262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13208"
+      ]
     },
     {
       "name": "Kate Bush",
       "targetId": "2197",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13208"
+      ]
     },
     {
       "name": "Michael Wood",
       "targetId": "10731",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13208"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Justin Sullivan",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9820",
+      "names": [
+        "Space"
+      ],
+      "releases": [
+        {
+          "_id": "1884",
+          "names": [
+            "Impurity"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1456",
+          "names": [
+            "New Model Army"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Heaton",
       "targetId": "9064",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9820"
+      ]
     },
     {
       "name": "Joolz Denby",
       "targetId": "9066",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9820"
+      ]
     }
   ]
 }

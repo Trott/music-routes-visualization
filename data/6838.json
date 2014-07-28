@@ -1,16 +1,68 @@
 {
   "source": "Manu Chao",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7009",
+      "names": [
+        "Merry Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1393",
+          "names": [
+            "True Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1073",
+          "names": [
+            "Toots and the Maytals"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7019",
+      "names": [
+        "Te Souviens-Tu?"
+      ],
+      "releases": [
+        {
+          "_id": "550",
+          "names": [
+            "Rendez-Vous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "420",
+          "names": [
+            "Jane Birkin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jane Birkin",
       "targetId": "2722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7019"
+      ]
     },
     {
       "name": "Toots Hibbert",
       "targetId": "6822",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7009"
+      ]
     }
   ]
 }

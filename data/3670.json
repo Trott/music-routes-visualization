@@ -1,41 +1,86 @@
 {
   "source": "Jim Scott",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3530",
+      "names": [
+        "The Cheapest Key"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     },
     {
       "name": "Greg Leisz",
       "targetId": "1061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     },
     {
       "name": "Don Heffington",
       "targetId": "3274",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     },
     {
       "name": "Kathleen Edwards",
       "targetId": "3661",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     },
     {
       "name": "Colin Cripps",
       "targetId": "3663",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     },
     {
       "name": "Bob Packwood",
       "targetId": "3668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     },
     {
       "name": "Paul Reddick",
       "targetId": "3669",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     }
   ]
 }

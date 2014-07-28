@@ -1,46 +1,142 @@
 {
   "source": "Paul Barker",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1069",
+      "names": [
+        "Jesus Built My Hotrod"
+      ],
+      "releases": [
+        {
+          "_id": "311",
+          "names": [
+            "Psalm 69"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "226",
+          "names": [
+            "Ministry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1855",
+      "names": [
+        "Lay Lady Lay"
+      ],
+      "releases": [
+        {
+          "_id": "409",
+          "names": [
+            "Greatest Fits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "226",
+          "names": [
+            "Ministry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5667",
+      "names": [
+        "No Bunny"
+      ],
+      "releases": [
+        {
+          "_id": "1122",
+          "names": [
+            "Side Trax"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "876",
+          "names": [
+            "Pailhead"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gibby Haynes",
       "targetId": "735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1069"
+      ]
     },
     {
       "name": "Bill Rieflin",
       "targetId": "889",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1069",
+        "5667"
+      ]
     },
     {
       "name": "Al Jourgensen",
       "targetId": "1581",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1069",
+        "1855",
+        "5667"
+      ]
     },
     {
       "name": "Mike Scaccia",
       "targetId": "2023",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1069",
+        "1855"
+      ]
     },
     {
       "name": "Rey Washam",
       "targetId": "2025",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1855"
+      ]
     },
     {
       "name": "Louis Svitek",
       "targetId": "2026",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1855"
+      ]
     },
     {
       "name": "Ian MacKaye",
       "targetId": "3156",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5667"
+      ]
     },
     {
       "name": "Eric Spicer",
       "targetId": "5675",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5667"
+      ]
     }
   ]
 }

@@ -1,21 +1,76 @@
 {
   "source": "Harry Wayne Casey",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3524",
+      "names": [
+        "That's The Way (I Like It)"
+      ],
+      "releases": [
+        {
+          "_id": "713",
+          "names": [
+            "KC & The Sunshine Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "553",
+          "names": [
+            "KC & The Sunshine Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3525",
+      "names": [
+        "Yes, I'm Ready"
+      ],
+      "releases": [
+        {
+          "_id": "714",
+          "names": [
+            "The Casablanca Records Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "554",
+          "names": [
+            "Teri DeSario"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Richard Finch",
       "targetId": "3656",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3524"
+      ]
     },
     {
       "name": "Robert Johnson",
       "targetId": "3657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3524"
+      ]
     },
     {
       "name": "Teri DeSario",
       "targetId": "3658",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3525"
+      ]
     }
   ]
 }

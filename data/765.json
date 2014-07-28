@@ -1,41 +1,86 @@
 {
   "source": "Bob Lee",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "292",
+      "names": [
+        "Piss-Bottle Man"
+      ],
+      "releases": [
+        {
+          "_id": "182",
+          "names": [
+            "Ball-Hog Or Tugboat?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "126",
+          "names": [
+            "Mike Watt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Strohm",
       "targetId": "728",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "292"
+      ]
     },
     {
       "name": "Evan Dando",
       "targetId": "730",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "292"
+      ]
     },
     {
       "name": "Mike Watt",
       "targetId": "751",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "292"
+      ]
     },
     {
       "name": "Zander Schloss",
       "targetId": "766",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "292"
+      ]
     },
     {
       "name": "Petra Haden",
       "targetId": "774",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "292"
+      ]
     },
     {
       "name": "Rachel Haden",
       "targetId": "965",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "292"
+      ]
     },
     {
       "name": "Anna Waronker",
       "targetId": "966",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "292"
+      ]
     }
   ]
 }

@@ -1,16 +1,94 @@
 {
   "source": "Thommy Price",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3049",
+      "names": [
+        "The Warrior"
+      ],
+      "releases": [
+        {
+          "_id": "661",
+          "names": [
+            "We Are The '80s"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "517",
+          "names": [
+            "Scandal"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3055",
+      "names": [
+        "Beat Of A Heart"
+      ],
+      "releases": [
+        {
+          "_id": "661",
+          "names": [
+            "We Are The '80s"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "517",
+          "names": [
+            "Scandal"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3057",
+      "names": [
+        "Tonight"
+      ],
+      "releases": [
+        {
+          "_id": "661",
+          "names": [
+            "We Are The '80s"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "517",
+          "names": [
+            "Scandal"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Patty Smyth",
       "targetId": "3347",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3049",
+        "3055",
+        "3057"
+      ]
     },
     {
       "name": "Ivan Elias",
       "targetId": "3348",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3049",
+        "3055",
+        "3057"
+      ]
     }
   ]
 }

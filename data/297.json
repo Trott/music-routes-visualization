@@ -1,31 +1,98 @@
 {
   "source": "Alison Kraus",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "67",
+      "names": [
+        "Gone Gone Gone (Done Moved On)"
+      ],
+      "releases": [
+        {
+          "_id": "59",
+          "names": [
+            "Raising Sand"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "49",
+          "names": [
+            "Alison Kraus"
+          ]
+        },
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "498",
+      "names": [
+        "Coat Of Many Colors"
+      ],
+      "releases": [
+        {
+          "_id": "223",
+          "names": [
+            "Just Because I'm A Woman: Songs Of Dolly Parton"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "157",
+          "names": [
+            "Shania Twain & Alison Kraus"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "67"
+      ]
     },
     {
       "name": "Jay Bellerose",
       "targetId": "298",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "67"
+      ]
     },
     {
       "name": "Dennis Crouch",
       "targetId": "299",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "67"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "67"
+      ]
     },
     {
       "name": "Shania Twain",
       "targetId": "961",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "498"
+      ]
     }
   ]
 }

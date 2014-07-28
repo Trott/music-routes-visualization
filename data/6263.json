@@ -1,11 +1,38 @@
 {
   "source": "Justin Guarini",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6382",
+      "names": [
+        "Timeless"
+      ],
+      "releases": [
+        {
+          "_id": "1274",
+          "names": [
+            "Justin Guarini"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "987",
+          "names": [
+            "Justin Guarini"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kelly Clarkson",
       "targetId": "6254",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6382"
+      ]
     }
   ]
 }

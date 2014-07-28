@@ -1,31 +1,70 @@
 {
   "source": "Tom Hensley",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4472",
+      "names": [
+        "Husbands And Wives"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4472"
+      ]
     },
     {
       "name": "Carl Fortina",
       "targetId": "1479",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4472"
+      ]
     },
     {
       "name": "Richard Bennett",
       "targetId": "3136",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4472"
+      ]
     },
     {
       "name": "Lon Van Eaton",
       "targetId": "4577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4472"
+      ]
     },
     {
       "name": "Vini Poncia",
       "targetId": "4583",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4472"
+      ]
     }
   ]
 }

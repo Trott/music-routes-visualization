@@ -1,126 +1,353 @@
 {
   "source": "Stevie Ray Vaughan",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "3846",
+      "names": [
+        "Let's Dance"
+      ],
+      "releases": [
+        {
+          "_id": "185",
+          "names": [
+            "Changesbowie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3847",
+      "names": [
+        "China Girl"
+      ],
+      "releases": [
+        {
+          "_id": "185",
+          "names": [
+            "Changesbowie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6114",
+      "names": [
+        "10,000 Men"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6116",
+      "names": [
+        "God Knows"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6118",
+      "names": [
+        "Cat's In The Well"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7531",
+      "names": [
+        "Voodoo Chile (Slight Return)"
+      ],
+      "releases": [
+        {
+          "_id": "1493",
+          "names": [
+            "Couldn't Stand The Weather"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1148",
+          "names": [
+            "Stevie Ray Vaughan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "Paulinho Da Costa",
       "targetId": "411",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6116"
+      ]
     },
     {
       "name": "Omar Hakim",
       "targetId": "475",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "David Lindley",
       "targetId": "641",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "Stan Harrison",
       "targetId": "1248",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3846"
+      ]
     },
     {
       "name": "Nile Rodgers",
       "targetId": "2204",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "David Spinner",
       "targetId": "4010",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "Frank Simms",
       "targetId": "4011",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "George Simms",
       "targetId": "4012",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "Carmine Rojas",
       "targetId": "4013",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "Rob Sabino",
       "targetId": "4015",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "Sammy Figueroa",
       "targetId": "4016",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "Steve Elson",
       "targetId": "4017",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3846"
+      ]
     },
     {
       "name": "Robert Aaron",
       "targetId": "4018",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3846"
+      ]
     },
     {
       "name": "Mac Gollehon",
       "targetId": "4019",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3846"
+      ]
     },
     {
       "name": "Kenny Aronoff",
       "targetId": "4158",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "Don Was",
       "targetId": "6055",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "Jimmie Vaughan",
       "targetId": "6056",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "David McMurray",
       "targetId": "6061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6118"
+      ]
     },
     {
       "name": "Rayse Biggs",
       "targetId": "6062",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6118"
+      ]
     },
     {
       "name": "Tommy Shannon",
       "targetId": "7228",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7531"
+      ]
     },
     {
       "name": "Chris \"Whipper\" Layton",
       "targetId": "7229",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7531"
+      ]
     }
   ]
 }

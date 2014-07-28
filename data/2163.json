@@ -1,21 +1,54 @@
 {
   "source": "Steve Swanson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2008",
+      "names": [
+        "War Machine"
+      ],
+      "releases": [
+        {
+          "_id": "452",
+          "names": [
+            "Maximum Violence"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "335",
+          "names": [
+            "Six Feet Under"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Terry Butler",
       "targetId": "2160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2008"
+      ]
     },
     {
       "name": "Greg Gall",
       "targetId": "2164",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2008"
+      ]
     },
     {
       "name": "Chris Barnes",
       "targetId": "2165",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2008"
+      ]
     }
   ]
 }

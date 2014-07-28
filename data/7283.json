@@ -1,26 +1,62 @@
 {
   "source": "Eddie \"Spanky\" Alford",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7619",
+      "names": [
+        "Take Your Time"
+      ],
+      "releases": [
+        {
+          "_id": "1510",
+          "names": [
+            "Lay It Down"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "714",
+          "names": [
+            "Al Green"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Al Green",
       "targetId": "4657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7619"
+      ]
     },
     {
       "name": "Questlove",
       "targetId": "6834",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7619"
+      ]
     },
     {
       "name": "Corinne Bailey Rae",
       "targetId": "7281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7619"
+      ]
     },
     {
       "name": "Owen Biddle",
       "targetId": "7282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7619"
+      ]
     }
   ]
 }

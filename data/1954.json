@@ -1,31 +1,110 @@
 {
   "source": "Nico",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1695",
+      "names": [
+        "The End"
+      ],
+      "releases": [
+        {
+          "_id": "392",
+          "names": [
+            "June 1, 1974"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        },
+        {
+          "_id": "1666",
+          "names": [
+            "Nico"
+          ]
+        },
+        {
+          "_id": "1667",
+          "names": [
+            "Kevin Ayers"
+          ]
+        },
+        {
+          "_id": "1668",
+          "names": [
+            "John Cale"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2251",
+      "names": [
+        "All Tomorrow's Parties"
+      ],
+      "releases": [
+        {
+          "_id": "557",
+          "names": [
+            "The Velvet Underground & Nico"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "425",
+          "names": [
+            "The Velvet Underground"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1695"
+      ]
     },
     {
       "name": "John Cale",
       "targetId": "956",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2251"
+      ]
     },
     {
       "name": "Maureen \"Moe\" Tucker",
       "targetId": "2741",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2251"
+      ]
     },
     {
       "name": "Sterling Morrison",
       "targetId": "2742",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2251"
+      ]
     },
     {
       "name": "Lou Reed",
       "targetId": "2743",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2251"
+      ]
     }
   ]
 }

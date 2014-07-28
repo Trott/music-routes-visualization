@@ -1,26 +1,62 @@
 {
   "source": "Raz Kennedy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2817",
+      "names": [
+        "Positive"
+      ],
+      "releases": [
+        {
+          "_id": "640",
+          "names": [
+            "Fear No Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "501",
+          "names": [
+            "Bob Ostertag"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Ostertag",
       "targetId": "3201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2817"
+      ]
     },
     {
       "name": "Fred Frith",
       "targetId": "3202",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2817"
+      ]
     },
     {
       "name": "Joey Blake",
       "targetId": "3203",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2817"
+      ]
     },
     {
       "name": "JD Reilly",
       "targetId": "3214",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2817"
+      ]
     }
   ]
 }

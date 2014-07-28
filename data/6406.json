@@ -1,21 +1,98 @@
 {
   "source": "Finale",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6559",
+      "names": [
+        "Paid Homage (R.I.P. J Dilla)"
+      ],
+      "releases": [
+        {
+          "_id": "1315",
+          "names": [
+            "A Pipe Dream And A Promise"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1017",
+          "names": [
+            "Finale"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6560",
+      "names": [
+        "Arrival & Departure"
+      ],
+      "releases": [
+        {
+          "_id": "1315",
+          "names": [
+            "A Pipe Dream And A Promise"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1017",
+          "names": [
+            "Finale"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6561",
+      "names": [
+        "A Pipe Dream And A Promise"
+      ],
+      "releases": [
+        {
+          "_id": "1315",
+          "names": [
+            "A Pipe Dream And A Promise"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1017",
+          "names": [
+            "Finale"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Awesome Dré",
       "targetId": "6407",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6560"
+      ]
     },
     {
       "name": "Allan Barnes",
       "targetId": "6408",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6561"
+      ]
     },
     {
       "name": "MonicaBlaire",
       "targetId": "6409",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6561"
+      ]
     }
   ]
 }

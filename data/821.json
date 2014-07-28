@@ -1,21 +1,54 @@
 {
   "source": "Ron Selico",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "336",
+      "names": [
+        "Peaches En Regalia"
+      ],
+      "releases": [
+        {
+          "_id": "192",
+          "names": [
+            "Hot Rats"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Zappa",
       "targetId": "815",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "336"
+      ]
     },
     {
       "name": "Ian Underwood",
       "targetId": "816",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "336"
+      ]
     },
     {
       "name": "Shuggy Otis",
       "targetId": "822",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "336"
+      ]
     }
   ]
 }

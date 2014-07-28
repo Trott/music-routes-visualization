@@ -1,11 +1,44 @@
 {
   "source": "Justin Vernon",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9189",
+      "names": [
+        "Roslyn"
+      ],
+      "releases": [
+        {
+          "_id": "1640",
+          "names": [
+            "New Moon [soundtrack]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1364",
+          "names": [
+            "St. Vincent"
+          ]
+        },
+        {
+          "_id": "1365",
+          "names": [
+            "Bon Iver"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Annie Clark",
       "targetId": "8532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9189"
+      ]
     }
   ]
 }

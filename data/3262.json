@@ -1,21 +1,54 @@
 {
   "source": "Terence Trent D'Arby",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2913",
+      "names": [
+        "Walkin' The Line"
+      ],
+      "releases": [
+        {
+          "_id": "650",
+          "names": [
+            "Brian Wilson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "510",
+          "names": [
+            "Brian Wilson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Russ Titelman",
       "targetId": "378",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2913"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2913"
+      ]
     },
     {
       "name": "Andy Paley",
       "targetId": "3261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2913"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Prince Gabe",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2597",
+      "names": [
+        "Nightclub Jitters"
+      ],
+      "releases": [
+        {
+          "_id": "617",
+          "names": [
+            "Pleased To Meet Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "480",
+          "names": [
+            "The Replacements"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tommy Stinson",
       "targetId": "3076",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2597"
+      ]
     },
     {
       "name": "Chris Mars",
       "targetId": "3077",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2597"
+      ]
     },
     {
       "name": "Paul Westerberg",
       "targetId": "3078",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2597"
+      ]
     }
   ]
 }

@@ -1,21 +1,149 @@
 {
   "source": "Infernus",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "6982",
+      "names": [
+        "Bergtrollets Hevn"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6983",
+      "names": [
+        "Gorgoroth"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6984",
+      "names": [
+        "Sorg"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6985",
+      "names": [
+        "Possessed (By Satan)"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6986",
+      "names": [
+        "Heavens Fall"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Hat",
       "targetId": "6815",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6982",
+        "6983",
+        "6984"
+      ]
     },
     {
       "name": "Kjetil \"Frost\" Haraldstad",
       "targetId": "6816",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6982",
+        "6983",
+        "6984",
+        "6985",
+        "6986"
+      ]
     },
     {
       "name": "Pest",
       "targetId": "6817",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6985",
+        "6986"
+      ]
     }
   ]
 }

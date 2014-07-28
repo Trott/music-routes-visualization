@@ -1,16 +1,46 @@
 {
   "source": "Eric Roberson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6870",
+      "names": [
+        "One Time"
+      ],
+      "releases": [
+        {
+          "_id": "1367",
+          "names": [
+            "Collaborations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1055",
+          "names": [
+            "Jill Scott"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jill Scott",
       "targetId": "6698",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6870"
+      ]
     },
     {
       "name": "Chris Odom",
       "targetId": "6715",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6870"
+      ]
     }
   ]
 }

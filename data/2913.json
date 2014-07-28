@@ -1,76 +1,419 @@
 {
   "source": "Dino Dines",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "2357",
+      "names": [
+        "Dandy In The Underworld"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2358",
+      "names": [
+        "Crimson Moon"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2359",
+      "names": [
+        "Universe"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2361",
+      "names": [
+        "I Love To Boogie"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2362",
+      "names": [
+        "Visions Of Domino"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2363",
+      "names": [
+        "Jason B. Sad"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2364",
+      "names": [
+        "Groove A Little"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2365",
+      "names": [
+        "The Soul Of My Suit"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2366",
+      "names": [
+        "Hang-Ups"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2367",
+      "names": [
+        "Pain And Love"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2368",
+      "names": [
+        "Teen Riot Structure"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3094",
+      "names": [
+        "Dishing Fish Wop"
+      ],
+      "releases": [
+        {
+          "_id": "666",
+          "names": [
+            "Bump 'n' Grind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Herbie Flowers",
       "targetId": "800",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "2357",
+        "2358",
+        "2363",
+        "2364",
+        "2365",
+        "2366",
+        "2368"
+      ]
     },
     {
       "name": "Marc Bolan",
       "targetId": "1825",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "2357",
+        "2358",
+        "2359",
+        "2361",
+        "2362",
+        "2363",
+        "2364",
+        "2365",
+        "2366",
+        "2367",
+        "2368",
+        "3094"
+      ]
     },
     {
       "name": "Steve Currie",
       "targetId": "1827",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2359",
+        "2361",
+        "2362",
+        "3094"
+      ]
     },
     {
       "name": "Davey Lutton",
       "targetId": "2907",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2359",
+        "2361",
+        "2362",
+        "3094"
+      ]
     },
     {
       "name": "Paul Fenton",
       "targetId": "2908",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2362"
+      ]
     },
     {
       "name": "Tony Newman",
       "targetId": "2909",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "2357",
+        "2358",
+        "2363",
+        "2364",
+        "2365",
+        "2366",
+        "2367",
+        "2368"
+      ]
     },
     {
       "name": "Bud Beadle",
       "targetId": "2910",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2363",
+        "2368"
+      ]
     },
     {
       "name": "Miller Anderson",
       "targetId": "2912",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2363"
+      ]
     },
     {
       "name": "Chris Mercer",
       "targetId": "2914",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2359",
+        "2363",
+        "2368"
+      ]
     },
     {
       "name": "Alfalpha",
       "targetId": "2916",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2358",
+        "2365"
+      ]
     },
     {
       "name": "Colin Jacas",
       "targetId": "2917",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2359"
+      ]
     },
     {
       "name": "Gloria Jones",
       "targetId": "2918",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2359",
+        "3094"
+      ]
     },
     {
       "name": "Steve Harley",
       "targetId": "2919",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2357"
+      ]
     },
     {
       "name": "Pat Hall",
       "targetId": "3702",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3094"
+      ]
     }
   ]
 }

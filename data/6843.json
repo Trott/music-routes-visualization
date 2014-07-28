@@ -1,16 +1,46 @@
 {
   "source": "Mickael Furnon",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7011",
+      "names": [
+        "Je M'appelle Jane"
+      ],
+      "releases": [
+        {
+          "_id": "550",
+          "names": [
+            "Rendez-Vous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "420",
+          "names": [
+            "Jane Birkin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Leslie Feist",
       "targetId": "2083",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7011"
+      ]
     },
     {
       "name": "Jane Birkin",
       "targetId": "2722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7011"
+      ]
     }
   ]
 }

@@ -1,31 +1,70 @@
 {
   "source": "Leo Osborne",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3125",
+      "names": [
+        "Pensacola"
+      ],
+      "releases": [
+        {
+          "_id": "670",
+          "names": [
+            "Relish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "524",
+          "names": [
+            "Joan Osborne"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joan Osborne",
       "targetId": "3438",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3125"
+      ]
     },
     {
       "name": "Mark Egan",
       "targetId": "3439",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3125"
+      ]
     },
     {
       "name": "Andy Kravitz",
       "targetId": "3440",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3125"
+      ]
     },
     {
       "name": "Eric Bazilian",
       "targetId": "3441",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3125"
+      ]
     },
     {
       "name": "Rob Hyman",
       "targetId": "3443",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3125"
+      ]
     }
   ]
 }

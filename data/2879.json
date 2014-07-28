@@ -1,11 +1,38 @@
 {
   "source": "Nicole Bayer",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2332",
+      "names": [
+        "Mr. Curiosity"
+      ],
+      "releases": [
+        {
+          "_id": "586",
+          "names": [
+            "Mr. A-Z"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "451",
+          "names": [
+            "Jason Mraz"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jason Mraz",
       "targetId": "2864",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2332"
+      ]
     }
   ]
 }

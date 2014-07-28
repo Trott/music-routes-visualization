@@ -1,26 +1,62 @@
 {
   "source": "Bobby Chouinard",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3638",
+      "names": [
+        "Only My Heart Talkin'"
+      ],
+      "releases": [
+        {
+          "_id": "729",
+          "names": [
+            "Trash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alice Cooper",
       "targetId": "1285",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3638"
+      ]
     },
     {
       "name": "Hugh McDonald",
       "targetId": "1288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3638"
+      ]
     },
     {
       "name": "Steven Tyler",
       "targetId": "1889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3638"
+      ]
     },
     {
       "name": "John McCurry",
       "targetId": "3458",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3638"
+      ]
     }
   ]
 }

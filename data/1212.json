@@ -1,26 +1,62 @@
 {
   "source": "Stefan Grossman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "759",
+      "names": [
+        "Paranoia Blues"
+      ],
+      "releases": [
+        {
+          "_id": "256",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "180",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Simon",
       "targetId": "79",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "759"
+      ]
     },
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "759"
+      ]
     },
     {
       "name": "John Schroer",
       "targetId": "1206",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "759"
+      ]
     },
     {
       "name": "Steve Turre",
       "targetId": "1213",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "759"
+      ]
     }
   ]
 }

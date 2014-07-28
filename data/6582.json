@@ -1,36 +1,128 @@
 {
   "source": "Ian Pritchett",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6714",
+      "names": [
+        "A Book Like This"
+      ],
+      "releases": [
+        {
+          "_id": "1344",
+          "names": [
+            "A Book Like This"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1040",
+          "names": [
+            "Angus and Julia Stone"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6717",
+      "names": [
+        "Soldier"
+      ],
+      "releases": [
+        {
+          "_id": "1344",
+          "names": [
+            "A Book Like This"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1040",
+          "names": [
+            "Angus and Julia Stone"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6720",
+      "names": [
+        "Horse And Cart"
+      ],
+      "releases": [
+        {
+          "_id": "1344",
+          "names": [
+            "A Book Like This"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1040",
+          "names": [
+            "Angus and Julia Stone"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sally Herbert",
       "targetId": "612",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6714"
+      ]
     },
     {
       "name": "Mitchell Connelly",
       "targetId": "6569",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6714",
+        "6717",
+        "6720"
+      ]
     },
     {
       "name": "Angus Stone",
       "targetId": "6570",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6714",
+        "6720"
+      ]
     },
     {
       "name": "Julia Stone",
       "targetId": "6571",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6714",
+        "6717",
+        "6720"
+      ]
     },
     {
       "name": "Cameron Whipp",
       "targetId": "6579",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6717",
+        "6720"
+      ]
     },
     {
       "name": "Sarah Wilson",
       "targetId": "6583",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6714"
+      ]
     }
   ]
 }

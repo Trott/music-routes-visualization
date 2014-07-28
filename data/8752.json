@@ -1,16 +1,52 @@
 {
   "source": "Camille Dalmais",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9355",
+      "names": [
+        "Pretty Face"
+      ],
+      "releases": [
+        {
+          "_id": "1808",
+          "names": [
+            "Here Lies Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1400",
+          "names": [
+            "David Byrne"
+          ]
+        },
+        {
+          "_id": "1401",
+          "names": [
+            "Fatboy Slim"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Byrne",
       "targetId": "193",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9355"
+      ]
     },
     {
       "name": "Tom Gandey",
       "targetId": "8724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9355"
+      ]
     }
   ]
 }

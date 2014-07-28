@@ -1,91 +1,263 @@
 {
   "source": "Chris Frantz",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "30",
+      "names": [
+        "Take Me To The River"
+      ],
+      "releases": [
+        {
+          "_id": "25",
+          "names": [
+            "Stop Making Sense"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "24",
+          "names": [
+            "Talking Heads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "31",
+      "names": [
+        "Born Under Punches (The Heat Goes On)"
+      ],
+      "releases": [
+        {
+          "_id": "26",
+          "names": [
+            "Remain In Light"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "24",
+          "names": [
+            "Talking Heads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "391",
+      "names": [
+        "Looking For Clues"
+      ],
+      "releases": [
+        {
+          "_id": "204",
+          "names": [
+            "Clues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "140",
+          "names": [
+            "Robert Palmer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2200",
+      "names": [
+        "Blue Blue Moon"
+      ],
+      "releases": [
+        {
+          "_id": "523",
+          "names": [
+            "No Talking Just Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "394",
+          "names": [
+            "The Heads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10077",
+      "names": [
+        "The Great Curve"
+      ],
+      "releases": [
+        {
+          "_id": "26",
+          "names": [
+            "Remain In Light"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "24",
+          "names": [
+            "Talking Heads"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "31",
+        "10077"
+      ]
     },
     {
       "name": "Jerry Harrison",
       "targetId": "192",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "30",
+        "31",
+        "2200",
+        "10077"
+      ]
     },
     {
       "name": "David Byrne",
       "targetId": "193",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "30",
+        "31",
+        "10077"
+      ]
     },
     {
       "name": "Tina Weymouth",
       "targetId": "194",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "30",
+        "31",
+        "2200",
+        "10077"
+      ]
     },
     {
       "name": "Ednah Holt",
       "targetId": "196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Lynn Mabry",
       "targetId": "197",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Alex Weir",
       "targetId": "198",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Bernie Worrell",
       "targetId": "199",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Steve Scales",
       "targetId": "200",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "30"
+      ]
     },
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "31"
+      ]
     },
     {
       "name": "Robert Palmer",
       "targetId": "851",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "391"
+      ]
     },
     {
       "name": "Jack Waldman",
       "targetId": "852",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "391"
+      ]
     },
     {
       "name": "Dony Wynn",
       "targetId": "853",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "391"
+      ]
     },
     {
       "name": "Kenny Mazur",
       "targetId": "855",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "391"
+      ]
     },
     {
       "name": "Blast Murray",
       "targetId": "2649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Johnette Napolitano",
       "targetId": "2650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Gavin Friday",
       "targetId": "2651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     }
   ]
 }

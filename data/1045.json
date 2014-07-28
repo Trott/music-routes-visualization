@@ -1,121 +1,474 @@
 {
   "source": "Jimmy Cobb",
   "trackCount": 11,
+  "tracks": [
+    {
+      "_id": "633",
+      "names": [
+        "So What"
+      ],
+      "releases": [
+        {
+          "_id": "236",
+          "names": [
+            "Kind Of Blue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "634",
+      "names": [
+        "Freddie Freeloader"
+      ],
+      "releases": [
+        {
+          "_id": "236",
+          "names": [
+            "Kind Of Blue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "635",
+      "names": [
+        "Blue In Green"
+      ],
+      "releases": [
+        {
+          "_id": "236",
+          "names": [
+            "Kind Of Blue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "636",
+      "names": [
+        "All Blues"
+      ],
+      "releases": [
+        {
+          "_id": "236",
+          "names": [
+            "Kind Of Blue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "637",
+      "names": [
+        "Flamenco Sketches"
+      ],
+      "releases": [
+        {
+          "_id": "236",
+          "names": [
+            "Kind Of Blue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8413",
+      "names": [
+        "Freight Trane"
+      ],
+      "releases": [
+        {
+          "_id": "1628",
+          "names": [
+            "Kenny Burrell & John Coltrane"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1246",
+          "names": [
+            "Kenny Burrell & John Coltrane"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8414",
+      "names": [
+        "I Never Knew"
+      ],
+      "releases": [
+        {
+          "_id": "1628",
+          "names": [
+            "Kenny Burrell & John Coltrane"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1246",
+          "names": [
+            "Kenny Burrell & John Coltrane"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8415",
+      "names": [
+        "Lyresto"
+      ],
+      "releases": [
+        {
+          "_id": "1628",
+          "names": [
+            "Kenny Burrell & John Coltrane"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1246",
+          "names": [
+            "Kenny Burrell & John Coltrane"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8416",
+      "names": [
+        "Big Paul"
+      ],
+      "releases": [
+        {
+          "_id": "1628",
+          "names": [
+            "Kenny Burrell & John Coltrane"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1246",
+          "names": [
+            "Kenny Burrell & John Coltrane"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12230",
+      "names": [
+        "Flamenco Sketches (Alternate Take)"
+      ],
+      "releases": [
+        {
+          "_id": "236",
+          "names": [
+            "Kind Of Blue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13398",
+      "names": [
+        "Summertime"
+      ],
+      "releases": [
+        {
+          "_id": "2437",
+          "names": [
+            "Porgy And Bess"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "633",
+        "634",
+        "635",
+        "636",
+        "637",
+        "12230",
+        "13398"
+      ]
     },
     {
       "name": "Paul Chambers",
       "targetId": "1046",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "633",
+        "634",
+        "635",
+        "636",
+        "637",
+        "8413",
+        "8414",
+        "8415",
+        "8416",
+        "12230",
+        "13398"
+      ]
     },
     {
       "name": "Bill Evans",
       "targetId": "1047",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "633",
+        "635",
+        "636",
+        "637",
+        "12230"
+      ]
     },
     {
       "name": "Wynton Kelly",
       "targetId": "1048",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "634"
+      ]
     },
     {
       "name": "John Coltrane",
       "targetId": "1049",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "633",
+        "634",
+        "635",
+        "636",
+        "637",
+        "8413",
+        "8414",
+        "8415",
+        "8416",
+        "12230"
+      ]
     },
     {
       "name": "Julian \"Cannonball\" Adderly",
       "targetId": "1050",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "633",
+        "634",
+        "636",
+        "637",
+        "12230",
+        "13398"
+      ]
     },
     {
       "name": "Tommy Flanagan",
       "targetId": "4557",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8413",
+        "8414",
+        "8415",
+        "8416"
+      ]
     },
     {
       "name": "Julius Watkins",
       "targetId": "4601",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Jerome Richardson",
       "targetId": "6400",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Kenny Burrell",
       "targetId": "7926",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8413",
+        "8414",
+        "8415",
+        "8416"
+      ]
     },
     {
       "name": "Jimmy Cleveland",
       "targetId": "7928",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Danny Bank",
       "targetId": "7930",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Willie Ruff",
       "targetId": "8097",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Bill Barber",
       "targetId": "10688",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Gunther Schuller",
       "targetId": "10693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Johnny Coles",
       "targetId": "10909",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Bernie Glow",
       "targetId": "10910",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Ernie Royal",
       "targetId": "10911",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Louis Mucci",
       "targetId": "10912",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Joe Bennett",
       "targetId": "10913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Frank Rehak",
       "targetId": "10914",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Dick Hixson",
       "targetId": "10915",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     },
     {
       "name": "Romeo Penque",
       "targetId": "10916",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13398"
+      ]
     }
   ]
 }

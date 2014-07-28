@@ -1,66 +1,154 @@
 {
   "source": "M.L. Benoit",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5644",
+      "names": [
+        "Coconut Telegraph"
+      ],
+      "releases": [
+        {
+          "_id": "1114",
+          "names": [
+            "Coconut Telegraph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5645",
+      "names": [
+        "It's My Job"
+      ],
+      "releases": [
+        {
+          "_id": "1114",
+          "names": [
+            "Coconut Telegraph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "J.D. Souther",
       "targetId": "390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5645"
+      ]
     },
     {
       "name": "Jimmy Buffett",
       "targetId": "1782",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "Deborah McColl",
       "targetId": "3051",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5644"
+      ]
     },
     {
       "name": "Matt Betton",
       "targetId": "3054",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "Josh Leo",
       "targetId": "3055",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "Michael Utley",
       "targetId": "3057",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5645"
+      ]
     },
     {
       "name": "Mac McAnally",
       "targetId": "3134",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5645"
+      ]
     },
     {
       "name": "Barry Chance",
       "targetId": "5650",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "Andy McMahon",
       "targetId": "5651",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "David Briggs",
       "targetId": "5652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5644"
+      ]
     },
     {
       "name": "Harry Dailey",
       "targetId": "5653",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "Greg \"Fingers\" Taylor",
       "targetId": "5655",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5645"
+      ]
     }
   ]
 }

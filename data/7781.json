@@ -1,11 +1,38 @@
 {
   "source": "Steve Nye",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8208",
+      "names": [
+        "Where The Railroad Meets The Sea"
+      ],
+      "releases": [
+        {
+          "_id": "1557",
+          "names": [
+            "Gone To Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1191",
+          "names": [
+            "David Sylvian"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Sylvian",
       "targetId": "4964",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8208"
+      ]
     }
   ]
 }

@@ -1,41 +1,133 @@
 {
   "source": "Chad Smith",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "4571",
+      "names": [
+        "Soap On A Rope"
+      ],
+      "releases": [
+        {
+          "_id": "933",
+          "names": [
+            "Chickenfoot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "733",
+          "names": [
+            "Chickenfoot"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4572",
+      "names": [
+        "Down The Drain"
+      ],
+      "releases": [
+        {
+          "_id": "933",
+          "names": [
+            "Chickenfoot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "733",
+          "names": [
+            "Chickenfoot"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4574",
+      "names": [
+        "Breaking The Girl"
+      ],
+      "releases": [
+        {
+          "_id": "934",
+          "names": [
+            "Blood Sugar Sex Magik"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "96",
+          "names": [
+            "Red Hot Chili Peppers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flea",
       "targetId": "553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4574"
+      ]
     },
     {
       "name": "Michael Anthony",
       "targetId": "897",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4571",
+        "4572"
+      ]
     },
     {
       "name": "Joe Satriani",
       "targetId": "1286",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4571",
+        "4572"
+      ]
     },
     {
       "name": "John Frusciante",
       "targetId": "1726",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4574"
+      ]
     },
     {
       "name": "Anthony Kiedis",
       "targetId": "1728",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4574"
+      ]
     },
     {
       "name": "Sammy Hagar",
       "targetId": "1735",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4571",
+        "4572"
+      ]
     },
     {
       "name": "Brendan O'Brien",
       "targetId": "4846",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4574"
+      ]
     }
   ]
 }

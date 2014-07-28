@@ -1,86 +1,280 @@
 {
   "source": "Larry Young",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "1161",
+      "names": [
+        "Pharaoh's Dance"
+      ],
+      "releases": [
+        {
+          "_id": "323",
+          "names": [
+            "Bitches Brew"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1163",
+      "names": [
+        "Spanish Key"
+      ],
+      "releases": [
+        {
+          "_id": "323",
+          "names": [
+            "Bitches Brew"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1164",
+      "names": [
+        "John McLaughlin"
+      ],
+      "releases": [
+        {
+          "_id": "323",
+          "names": [
+            "Bitches Brew"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1165",
+      "names": [
+        "Miles Runs The Voodoo Down"
+      ],
+      "releases": [
+        {
+          "_id": "323",
+          "names": [
+            "Bitches Brew"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3746",
+      "names": [
+        "Two Worlds"
+      ],
+      "releases": [
+        {
+          "_id": "750",
+          "names": [
+            "Ego"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "582",
+          "names": [
+            "The Tony Williams Lifetime"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chick Corea",
       "targetId": "919",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "Don Alias",
       "targetId": "1261",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165",
+        "3746"
+      ]
     },
     {
       "name": "Wayne Shorter",
       "targetId": "1631",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "Bennie Maupin",
       "targetId": "1632",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "John McLaughlin",
       "targetId": "1633",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "Dave Holland",
       "targetId": "1634",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "Harvey Brooks",
       "targetId": "1635",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1161",
+        "1163",
+        "1165"
+      ]
     },
     {
       "name": "Lenny White",
       "targetId": "1636",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "Jack DeJohnette",
       "targetId": "1637",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "Juma Santos",
       "targetId": "1638",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1161",
+        "1163",
+        "1164",
+        "1165"
+      ]
     },
     {
       "name": "Joe Zawinul",
       "targetId": "1640",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1161",
+        "1163"
+      ]
     },
     {
       "name": "Jack Bruce",
       "targetId": "1733",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3746"
+      ]
     },
     {
       "name": "Warren Smith",
       "targetId": "3837",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3746"
+      ]
     },
     {
       "name": "Ted Dunbar",
       "targetId": "3838",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3746"
+      ]
     },
     {
       "name": "Tony Williams",
       "targetId": "3839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3746"
+      ]
     }
   ]
 }

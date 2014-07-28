@@ -1,16 +1,46 @@
 {
   "source": "Rob Zabrecky",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4294",
+      "names": [
+        "Blackhole"
+      ],
+      "releases": [
+        {
+          "_id": "863",
+          "names": [
+            "Mellow Gold"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "165",
+          "names": [
+            "Beck"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Petra Haden",
       "targetId": "774",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4294"
+      ]
     },
     {
       "name": "Beck",
       "targetId": "1057",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4294"
+      ]
     }
   ]
 }

@@ -1,71 +1,365 @@
 {
   "source": "Larry Mullen, Jr.",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "32",
+      "names": [
+        "With Or Without You"
+      ],
+      "releases": [
+        {
+          "_id": "27",
+          "names": [
+            "The Joshua Tree"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "25",
+          "names": [
+            "U2"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "105",
+      "names": [
+        "Miracle Drug"
+      ],
+      "releases": [
+        {
+          "_id": "82",
+          "names": [
+            "How To Dismantle An Atomic Bomb"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "25",
+          "names": [
+            "U2"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "178",
+      "names": [
+        "Love Rescue Me"
+      ],
+      "releases": [
+        {
+          "_id": "135",
+          "names": [
+            "Rattle and Hum"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "25",
+          "names": [
+            "U2"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "179",
+      "names": [
+        "When Love Comes To Town"
+      ],
+      "releases": [
+        {
+          "_id": "135",
+          "names": [
+            "Rattle and Hum"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "25",
+          "names": [
+            "U2"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "342",
+      "names": [
+        "Miss Sarajevo"
+      ],
+      "releases": [
+        {
+          "_id": "193",
+          "names": [
+            "Original Soundtracks 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "132",
+          "names": [
+            "Passengers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "343",
+      "names": [
+        "Elvis Ate America"
+      ],
+      "releases": [
+        {
+          "_id": "193",
+          "names": [
+            "Original Soundtracks 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "132",
+          "names": [
+            "Passengers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "344",
+      "names": [
+        "Where The Streets Have No Name"
+      ],
+      "releases": [
+        {
+          "_id": "27",
+          "names": [
+            "The Joshua Tree"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "25",
+          "names": [
+            "U2"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2032",
+      "names": [
+        "Sweet Fire Of Love"
+      ],
+      "releases": [
+        {
+          "_id": "460",
+          "names": [
+            "Robbie Robertson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "341",
+          "names": [
+            "Robbie Robertson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2037",
+      "names": [
+        "Testimony"
+      ],
+      "releases": [
+        {
+          "_id": "460",
+          "names": [
+            "Robbie Robertson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "341",
+          "names": [
+            "Robbie Robertson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4529",
+      "names": [
+        "The Wanderer"
+      ],
+      "releases": [
+        {
+          "_id": "918",
+          "names": [
+            "Zooropa"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "25",
+          "names": [
+            "U2"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robbie Robertson",
       "targetId": "31",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2032",
+        "2037"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "178"
+      ]
     },
     {
       "name": "Bono",
       "targetId": "111",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "32",
+        "105",
+        "178",
+        "179",
+        "342",
+        "343",
+        "344",
+        "2032",
+        "2037",
+        "4529"
+      ]
     },
     {
       "name": "Adam Clayton",
       "targetId": "112",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "32",
+        "105",
+        "178",
+        "179",
+        "342",
+        "343",
+        "344",
+        "2032",
+        "2037",
+        "4529"
+      ]
     },
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "32",
+        "342",
+        "343",
+        "344",
+        "4529"
+      ]
     },
     {
       "name": "The Edge",
       "targetId": "202",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "32",
+        "105",
+        "178",
+        "179",
+        "342",
+        "343",
+        "344",
+        "2032",
+        "2037",
+        "4529"
+      ]
     },
     {
       "name": "Johnny Cash",
       "targetId": "222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4529"
+      ]
     },
     {
       "name": "B.B. King",
       "targetId": "565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "179"
+      ]
     },
     {
       "name": "Luciano Pavarotti",
       "targetId": "823",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "342"
+      ]
     },
     {
       "name": "Howie B",
       "targetId": "824",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "343"
+      ]
     },
     {
       "name": "Daniel Lanois",
       "targetId": "2195",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2032",
+        "2037"
+      ]
     },
     {
       "name": "Bill Dillon",
       "targetId": "2210",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2037"
+      ]
     },
     {
       "name": "Ivan Neville",
       "targetId": "2216",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2037"
+      ]
     }
   ]
 }

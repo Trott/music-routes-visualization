@@ -1,21 +1,91 @@
 {
   "source": "Matt Reber",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13410",
+      "names": [
+        "Snap Decision"
+      ],
+      "releases": [
+        {
+          "_id": "2448",
+          "names": [
+            "Roadkill"
+          ]
+        },
+        {
+          "_id": "2449",
+          "names": [
+            "At Rope's End"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1743",
+          "names": [
+            "New Bomb Turks"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13411",
+      "names": [
+        "Defiled"
+      ],
+      "releases": [
+        {
+          "_id": "2448",
+          "names": [
+            "Roadkill"
+          ]
+        },
+        {
+          "_id": "2449",
+          "names": [
+            "At Rope's End"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1743",
+          "names": [
+            "New Bomb Turks"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Randt",
       "targetId": "10945",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13410",
+        "13411"
+      ]
     },
     {
       "name": "Jim Weber",
       "targetId": "10946",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13410",
+        "13411"
+      ]
     },
     {
       "name": "Eric Davidson",
       "targetId": "10947",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13410",
+        "13411"
+      ]
     }
   ]
 }

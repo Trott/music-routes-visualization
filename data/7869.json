@@ -1,31 +1,96 @@
 {
   "source": "Tom Ball",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8338",
+      "names": [
+        "Angermeans"
+      ],
+      "releases": [
+        {
+          "_id": "1617",
+          "names": [
+            "Angermeans"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1235",
+          "names": [
+            "Strife"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8339",
+      "names": [
+        "From These Graves"
+      ],
+      "releases": [
+        {
+          "_id": "1617",
+          "names": [
+            "Angermeans"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1235",
+          "names": [
+            "Strife"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rick Rodney",
       "targetId": "7865",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8338",
+        "8339"
+      ]
     },
     {
       "name": "Chad Peterson",
       "targetId": "7866",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8338",
+        "8339"
+      ]
     },
     {
       "name": "Sidney Niesen",
       "targetId": "7867",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8338",
+        "8339"
+      ]
     },
     {
       "name": "Andrew Kline",
       "targetId": "7868",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8338",
+        "8339"
+      ]
     },
     {
       "name": "Eric Bobo",
       "targetId": "7870",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8339"
+      ]
     }
   ]
 }

@@ -1,31 +1,95 @@
 {
   "source": "Emmanuel Soudieux",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "739",
+      "names": [
+        "H.C.Q. Strut"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "742",
+      "names": [
+        "The Man I Love"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joseph Reinhardt",
       "targetId": "1145",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "742"
+      ]
     },
     {
       "name": "Django Reinhardt",
       "targetId": "1156",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "739",
+        "742"
+      ]
     },
     {
       "name": "Stéphane Grappelli",
       "targetId": "1160",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "739",
+        "742"
+      ]
     },
     {
       "name": "Eugéne Vées",
       "targetId": "1162",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "739",
+        "742"
+      ]
     },
     {
       "name": "Perre \"Barot\" Ferret",
       "targetId": "1165",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "739"
+      ]
     }
   ]
 }

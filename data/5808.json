@@ -1,31 +1,159 @@
 {
   "source": "Colby O'Donis",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "5903",
+      "names": [
+        "Just Dance"
+      ],
+      "releases": [
+        {
+          "_id": "1166",
+          "names": [
+            "The Fame"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "907",
+          "names": [
+            "Lady Gaga"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9383",
+      "names": [
+        "What You Got"
+      ],
+      "releases": [
+        {
+          "_id": "1811",
+          "names": [
+            "Colby O"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1404",
+          "names": [
+            "Colby O'Donis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9384",
+      "names": [
+        "She Wanna Go"
+      ],
+      "releases": [
+        {
+          "_id": "1811",
+          "names": [
+            "Colby O"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1404",
+          "names": [
+            "Colby O'Donis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9385",
+      "names": [
+        "Take You Away"
+      ],
+      "releases": [
+        {
+          "_id": "1811",
+          "names": [
+            "Colby O"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1404",
+          "names": [
+            "Colby O'Donis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9386",
+      "names": [
+        "Natural High"
+      ],
+      "releases": [
+        {
+          "_id": "1811",
+          "names": [
+            "Colby O"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1404",
+          "names": [
+            "Colby O'Donis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Akon",
       "targetId": "4044",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5903",
+        "9383"
+      ]
     },
     {
       "name": "Lady Gaga",
       "targetId": "5809",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5903"
+      ]
     },
     {
       "name": "T-Pain",
       "targetId": "6004",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9386"
+      ]
     },
     {
       "name": "Paul Wall",
       "targetId": "8777",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9384"
+      ]
     },
     {
       "name": "Romeo",
       "targetId": "8778",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9385"
+      ]
     }
   ]
 }

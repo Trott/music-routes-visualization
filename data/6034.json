@@ -1,66 +1,149 @@
 {
   "source": "Lionel Hampton",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6102",
+      "names": [
+        "Flying On A V-Disc (Part I)"
+      ],
+      "releases": [
+        {
+          "_id": "1223",
+          "names": [
+            "A Life In Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "950",
+          "names": [
+            "Louis Armstrong"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7865",
+      "names": [
+        "On A Coconut Island"
+      ],
+      "releases": [
+        {
+          "_id": "1549",
+          "names": [
+            "Vintage Hawaiian Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "950",
+          "names": [
+            "Louis Armstrong"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Louis Armstrong",
       "targetId": "1785",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6102",
+        "7865"
+      ]
     },
     {
       "name": "Barney Bigard",
       "targetId": "1903",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Roy Eldridge",
       "targetId": "5524",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Oscar Pettiford",
       "targetId": "6028",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Sidney Catlett",
       "targetId": "6029",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Art Tatum",
       "targetId": "6030",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Coleman Hawkins",
       "targetId": "6031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Al Casey",
       "targetId": "6033",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Sam Koki",
       "targetId": "7549",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     },
     {
       "name": "George Archer",
       "targetId": "7550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     },
     {
       "name": "Harry Baty",
       "targetId": "7551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     },
     {
       "name": "Joe Nawahi",
       "targetId": "7552",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     }
   ]
 }

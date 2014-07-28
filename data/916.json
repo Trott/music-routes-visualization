@@ -1,21 +1,54 @@
 {
   "source": "Ric Grech",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "452",
+      "names": [
+        "Can't Find My Way Home"
+      ],
+      "releases": [
+        {
+          "_id": "214",
+          "names": [
+            "Blind Faith"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "150",
+          "names": [
+            "Blind Faith"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "452"
+      ]
     },
     {
       "name": "Steve Winwood",
       "targetId": "905",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "452"
+      ]
     },
     {
       "name": "Ginger Baker",
       "targetId": "915",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "452"
+      ]
     }
   ]
 }

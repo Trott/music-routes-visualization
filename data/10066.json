@@ -1,36 +1,106 @@
 {
   "source": "Clay Meyers",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "11923",
+      "names": [
+        "Tweedle Dee & Tweedle Dum"
+      ],
+      "releases": [
+        {
+          "_id": "2175",
+          "names": [
+            "Love And Theft"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11924",
+      "names": [
+        "Honest With Me"
+      ],
+      "releases": [
+        {
+          "_id": "2175",
+          "names": [
+            "Love And Theft"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11923",
+        "11924"
+      ]
     },
     {
       "name": "Tony Garnier",
       "targetId": "5456",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11923",
+        "11924"
+      ]
     },
     {
       "name": "Auggie Meyers",
       "targetId": "5457",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11923",
+        "11924"
+      ]
     },
     {
       "name": "David Kemper",
       "targetId": "5462",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11923",
+        "11924"
+      ]
     },
     {
       "name": "Charlie Sexton",
       "targetId": "8703",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11923",
+        "11924"
+      ]
     },
     {
       "name": "Larry Campbell",
       "targetId": "10065",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11923",
+        "11924"
+      ]
     }
   ]
 }

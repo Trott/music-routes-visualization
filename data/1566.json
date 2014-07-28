@@ -1,26 +1,62 @@
 {
   "source": "Tom DeLonge",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1062",
+      "names": [
+        "All Of This"
+      ],
+      "releases": [
+        {
+          "_id": "304",
+          "names": [
+            "Blink-182"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "219",
+          "names": [
+            "Blink-182"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Smith",
       "targetId": "363",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1062"
+      ]
     },
     {
       "name": "Travis Barker",
       "targetId": "1559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1062"
+      ]
     },
     {
       "name": "Mark Hoppus",
       "targetId": "1565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1062"
+      ]
     },
     {
       "name": "John Morrical",
       "targetId": "1567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1062"
+      ]
     }
   ]
 }

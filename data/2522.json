@@ -1,26 +1,62 @@
 {
   "source": "Paul Williams",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2102",
+      "names": [
+        "Promised Land"
+      ],
+      "releases": [
+        {
+          "_id": "482",
+          "names": [
+            "Pieces"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "362",
+          "names": [
+            "Juicy Lucy"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jean Roussel",
       "targetId": "1090",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2102"
+      ]
     },
     {
       "name": "Andy Pyle",
       "targetId": "2519",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2102"
+      ]
     },
     {
       "name": "Ron Berg",
       "targetId": "2520",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2102"
+      ]
     },
     {
       "name": "Micky Moody",
       "targetId": "2521",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2102"
+      ]
     }
   ]
 }

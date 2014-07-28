@@ -1,16 +1,46 @@
 {
   "source": "Kevin Fennell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2877",
+      "names": [
+        "Hardcore UFO's"
+      ],
+      "releases": [
+        {
+          "_id": "645",
+          "names": [
+            "Bee Thousand"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "505",
+          "names": [
+            "Guided By Voices"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Pollard",
       "targetId": "3236",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2877"
+      ]
     },
     {
       "name": "Tobin Sprout",
       "targetId": "3237",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2877"
+      ]
     }
   ]
 }

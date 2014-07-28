@@ -1,216 +1,557 @@
 {
   "source": "Diana Ross",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "18",
+      "names": [
+        "We Are The World"
+      ],
+      "releases": [
+        {
+          "_id": "16",
+          "names": [
+            "We Are The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "16",
+          "names": [
+            "USA For Africa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "42",
+      "names": [
+        "Theme From Mahogany (Do You Know Where You're Going To)"
+      ],
+      "releases": [
+        {
+          "_id": "37",
+          "names": [
+            "All The Great Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "33",
+          "names": [
+            "Diana Ross"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4504",
+      "names": [
+        "Pops, We Love You"
+      ],
+      "releases": [
+        {
+          "_id": "907",
+          "names": [
+            "\"Pops, We Love You\"...The Album"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "33",
+          "names": [
+            "Diana Ross"
+          ]
+        },
+        {
+          "_id": "214",
+          "names": [
+            "Smokey Robinson"
+          ]
+        },
+        {
+          "_id": "715",
+          "names": [
+            "Marvin Gaye"
+          ]
+        },
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5939",
+      "names": [
+        "Stop! In The Name Of Love"
+      ],
+      "releases": [
+        {
+          "_id": "1183",
+          "names": [
+            "More Hits By The Supremes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "921",
+          "names": [
+            "The Supremes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10807",
+      "names": [
+        "Reflections"
+      ],
+      "releases": [
+        {
+          "_id": "2027",
+          "names": [
+            "Best Of Motown I [Disc 1]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "33",
+          "names": [
+            "Diana Ross"
+          ]
+        },
+        {
+          "_id": "921",
+          "names": [
+            "The Supremes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10808",
+      "names": [
+        "Endless Love"
+      ],
+      "releases": [
+        {
+          "_id": "2027",
+          "names": [
+            "Best Of Motown I [Disc 1]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "33",
+          "names": [
+            "Diana Ross"
+          ]
+        },
+        {
+          "_id": "1578",
+          "names": [
+            "Lionel Richie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10809",
+      "names": [
+        "You Can't Hurry Love"
+      ],
+      "releases": [
+        {
+          "_id": "2064",
+          "names": [
+            "Best Of Motown I [Disc 2]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "921",
+          "names": [
+            "The Supremes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10810",
+      "names": [
+        "Ain't No Mountain High Enough"
+      ],
+      "releases": [
+        {
+          "_id": "2064",
+          "names": [
+            "Best Of Motown I [Disc 2]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "33",
+          "names": [
+            "Diana Ross"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Michael Jackson",
       "targetId": "40",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Lionel Richie",
       "targetId": "41",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "18",
+        "10808"
+      ]
     },
     {
       "name": "Bob Geldof",
       "targetId": "42",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Dan Aykroyd",
       "targetId": "43",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Harry Belafonte",
       "targetId": "44",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Lindsey Buckingham",
       "targetId": "48",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Kim Carnes",
       "targetId": "49",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Ray Charles",
       "targetId": "50",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Sheila E.",
       "targetId": "51",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Daryl Hall",
       "targetId": "53",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "James Ingram",
       "targetId": "54",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Jackie Jackson",
       "targetId": "55",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Marlon Jackson",
       "targetId": "56",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "LaToya Jackson",
       "targetId": "57",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Tito Jackson",
       "targetId": "60",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Al Jarreau",
       "targetId": "61",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Waylon Jennings",
       "targetId": "62",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Billy Joel",
       "targetId": "63",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Cyndi Lauper",
       "targetId": "64",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Huey Lewis",
       "targetId": "65",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Kenny Loggins",
       "targetId": "66",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Bette Midler",
       "targetId": "67",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Willie Nelson",
       "targetId": "68",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "John Oates",
       "targetId": "69",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Jeffrey Osborne",
       "targetId": "70",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Steve Perry",
       "targetId": "71",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Anita Pointer",
       "targetId": "73",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Ruth Pointer",
       "targetId": "74",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "June Pointer",
       "targetId": "75",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Smokey Robinson",
       "targetId": "76",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "18",
+        "4504"
+      ]
     },
     {
       "name": "Kenny Rogers",
       "targetId": "77",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Paul Simon",
       "targetId": "79",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Tina Turner",
       "targetId": "81",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Dionne Warwick",
       "targetId": "82",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Stevie Wonder",
       "targetId": "83",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "18",
+        "4504"
+      ]
     },
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "42"
+      ]
     },
     {
       "name": "Marvin Gaye",
       "targetId": "4658",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4504"
+      ]
     },
     {
       "name": "Randy Jackson",
       "targetId": "5836",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "18"
+      ]
     },
     {
       "name": "Florence Ballard",
       "targetId": "5875",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5939",
+        "10807",
+        "10809"
+      ]
     },
     {
       "name": "Mary Wilson",
       "targetId": "5876",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5939",
+        "10807",
+        "10809"
+      ]
     }
   ]
 }

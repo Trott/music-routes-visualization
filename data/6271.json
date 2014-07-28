@@ -1,46 +1,118 @@
 {
   "source": "Bill Bottrell",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6410",
+      "names": [
+        "Black Or White"
+      ],
+      "releases": [
+        {
+          "_id": "1280",
+          "names": [
+            "Dangerous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "146",
+          "names": [
+            "Michael Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6411",
+      "names": [
+        "Give In To Me"
+      ],
+      "releases": [
+        {
+          "_id": "1280",
+          "names": [
+            "Dangerous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "146",
+          "names": [
+            "Michael Jackson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Jackson",
       "targetId": "40",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6410",
+        "6411"
+      ]
     },
     {
       "name": "Slash",
       "targetId": "1287",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6410",
+        "6411"
+      ]
     },
     {
       "name": "Terry Jackson",
       "targetId": "1300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Tim Pierce",
       "targetId": "1718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Bryan Loren",
       "targetId": "6268",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Jasun Martz",
       "targetId": "6269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "John Barnes",
       "targetId": "6270",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Brad Buxer",
       "targetId": "6272",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     }
   ]
 }

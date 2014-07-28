@@ -1,16 +1,46 @@
 {
   "source": "James Gaylyn",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2980",
+      "names": [
+        "Angel In Disguise"
+      ],
+      "releases": [
+        {
+          "_id": "654",
+          "names": [
+            "How Bizarre"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "513",
+          "names": [
+            "OMC"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pauly Fuemana",
       "targetId": "3310",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2980"
+      ]
     },
     {
       "name": "Juliet Primrose",
       "targetId": "3321",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2980"
+      ]
     }
   ]
 }

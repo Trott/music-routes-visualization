@@ -1,51 +1,227 @@
 {
   "source": "Paul Rodgers",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "472",
+      "names": [
+        "Radioactive"
+      ],
+      "releases": [
+        {
+          "_id": "217",
+          "names": [
+            "The Firm"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "152",
+          "names": [
+            "The Firm"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6414",
+      "names": [
+        "I Don't Live Today"
+      ],
+      "releases": [
+        {
+          "_id": "1283",
+          "names": [
+            "Stone Free: A Tribute To Jimi Hendrix"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "991",
+          "names": [
+            "Slash"
+          ]
+        },
+        {
+          "_id": "1423",
+          "names": [
+            "Paul Rodgers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12766",
+      "names": [
+        "Can't Get Enough"
+      ],
+      "releases": [
+        {
+          "_id": "2300",
+          "names": [
+            "10 From 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1652",
+          "names": [
+            "Bad Company"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12767",
+      "names": [
+        "Ready For Love"
+      ],
+      "releases": [
+        {
+          "_id": "2300",
+          "names": [
+            "10 From 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1652",
+          "names": [
+            "Bad Company"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12768",
+      "names": [
+        "Bad Company"
+      ],
+      "releases": [
+        {
+          "_id": "2300",
+          "names": [
+            "10 From 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1652",
+          "names": [
+            "Bad Company"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12769",
+      "names": [
+        "Movin' On"
+      ],
+      "releases": [
+        {
+          "_id": "2300",
+          "names": [
+            "10 From 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1652",
+          "names": [
+            "Bad Company"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "472"
+      ]
     },
     {
       "name": "Boz Burrell",
       "targetId": "533",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12766",
+        "12767",
+        "12768",
+        "12769"
+      ]
     },
     {
       "name": "Chris Slade",
       "targetId": "940",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "472"
+      ]
     },
     {
       "name": "Tony Franklin",
       "targetId": "941",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "472"
+      ]
     },
     {
       "name": "Slash",
       "targetId": "1287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6414"
+      ]
     },
     {
       "name": "Billy Cox",
       "targetId": "6277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6414"
+      ]
     },
     {
       "name": "Buddy Miles",
       "targetId": "6278",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6414"
+      ]
     },
     {
       "name": "Simon Kirke",
       "targetId": "9370",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12766",
+        "12767",
+        "12768",
+        "12769"
+      ]
     },
     {
       "name": "Mick Ralphs",
       "targetId": "10391",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12766",
+        "12767",
+        "12768",
+        "12769"
+      ]
     }
   ]
 }

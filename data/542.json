@@ -1,31 +1,70 @@
 {
   "source": "Peter Giles",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "171",
+      "names": [
+        "Cat Food"
+      ],
+      "releases": [
+        {
+          "_id": "128",
+          "names": [
+            "In The Wake Of Poseidon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "59",
+          "names": [
+            "King Crimson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Fripp",
       "targetId": "339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "171"
+      ]
     },
     {
       "name": "Mel Collins",
       "targetId": "532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "171"
+      ]
     },
     {
       "name": "Keith Tippett",
       "targetId": "537",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "171"
+      ]
     },
     {
       "name": "Greg Lake",
       "targetId": "541",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "171"
+      ]
     },
     {
       "name": "Michael Giles",
       "targetId": "543",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "171"
+      ]
     }
   ]
 }

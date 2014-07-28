@@ -1,11 +1,38 @@
 {
   "source": "Pleasure P",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6063",
+      "names": [
+        "Shone"
+      ],
+      "releases": [
+        {
+          "_id": "1218",
+          "names": [
+            "R.O.O.T.S."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6063"
+      ]
     }
   ]
 }

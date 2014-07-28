@@ -1,36 +1,104 @@
 {
   "source": "Achim Kirschning",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8013",
+      "names": [
+        "Speedy's Coming"
+      ],
+      "releases": [
+        {
+          "_id": "1570",
+          "names": [
+            "Gold"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1204",
+          "names": [
+            "Scorpions"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8014",
+      "names": [
+        "In Trance"
+      ],
+      "releases": [
+        {
+          "_id": "1570",
+          "names": [
+            "Gold"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1204",
+          "names": [
+            "Scorpions"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Klaus Meine",
       "targetId": "7637",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8013",
+        "8014"
+      ]
     },
     {
       "name": "Rudolf Schenker",
       "targetId": "7641",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8013",
+        "8014"
+      ]
     },
     {
       "name": "Jürgen Rosenthal",
       "targetId": "7642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8013"
+      ]
     },
     {
       "name": "Uli Jon Roth",
       "targetId": "7643",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8013",
+        "8014"
+      ]
     },
     {
       "name": "Francis Buchholz",
       "targetId": "7645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8013",
+        "8014"
+      ]
     },
     {
       "name": "Rudy Lenners",
       "targetId": "7646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8014"
+      ]
     }
   ]
 }

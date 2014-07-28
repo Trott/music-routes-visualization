@@ -1,21 +1,60 @@
 {
   "source": "Bruce Langhorne",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11820",
+      "names": [
+        "Corrina, Corrina"
+      ],
+      "releases": [
+        {
+          "_id": "2167",
+          "names": [
+            "The Freewheelin' Bob Dylan"
+          ]
+        },
+        {
+          "_id": "2179",
+          "names": [
+            "The Future Is Unwritten"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11820"
+      ]
     },
     {
       "name": "Herb Lovelle",
       "targetId": "10050",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11820"
+      ]
     },
     {
       "name": "Leonard Gaskin",
       "targetId": "10051",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11820"
+      ]
     }
   ]
 }

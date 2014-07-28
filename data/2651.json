@@ -1,61 +1,196 @@
 {
   "source": "Gavin Friday",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2200",
+      "names": [
+        "Blue Blue Moon"
+      ],
+      "releases": [
+        {
+          "_id": "523",
+          "names": [
+            "No Talking Just Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "394",
+          "names": [
+            "The Heads"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2201",
+      "names": [
+        "Copped It"
+      ],
+      "releases": [
+        {
+          "_id": "524",
+          "names": [
+            "The Wonderful And Frightening World Of The Fall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "395",
+          "names": [
+            "The Fall"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2202",
+      "names": [
+        "Clear Off!"
+      ],
+      "releases": [
+        {
+          "_id": "524",
+          "names": [
+            "The Wonderful And Frightening World Of The Fall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "395",
+          "names": [
+            "The Fall"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2203",
+      "names": [
+        "Stephen Song"
+      ],
+      "releases": [
+        {
+          "_id": "524",
+          "names": [
+            "The Wonderful And Frightening World Of The Fall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "395",
+          "names": [
+            "The Fall"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jerry Harrison",
       "targetId": "192",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Tina Weymouth",
       "targetId": "194",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Chris Frantz",
       "targetId": "195",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Blast Murray",
       "targetId": "2649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Johnette Napolitano",
       "targetId": "2650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2200"
+      ]
     },
     {
       "name": "Karl Burns",
       "targetId": "2652",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Craig Scanlon",
       "targetId": "2653",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Paul Hanley",
       "targetId": "2654",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Steve Hanley",
       "targetId": "2655",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Brix Smith",
       "targetId": "2656",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     },
     {
       "name": "Mark E. Smith",
       "targetId": "2657",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2201",
+        "2202",
+        "2203"
+      ]
     }
   ]
 }

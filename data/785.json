@@ -1,21 +1,54 @@
 {
   "source": "Todd Tigione",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "301",
+      "names": [
+        "Tell 'Em Boy"
+      ],
+      "releases": [
+        {
+          "_id": "182",
+          "names": [
+            "Ball-Hog Or Tugboat?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "126",
+          "names": [
+            "Mike Watt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Watt",
       "targetId": "751",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "301"
+      ]
     },
     {
       "name": "John Molo",
       "targetId": "780",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "301"
+      ]
     },
     {
       "name": "Dave Pirner",
       "targetId": "786",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "301"
+      ]
     }
   ]
 }

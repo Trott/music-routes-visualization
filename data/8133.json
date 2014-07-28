@@ -1,146 +1,400 @@
 {
   "source": "Chet Baker",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "8767",
+      "names": [
+        "Love For Sale"
+      ],
+      "releases": [
+        {
+          "_id": "1682",
+          "names": [
+            "You Can't Go Home Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1285",
+          "names": [
+            "Chet Baker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8768",
+      "names": [
+        "Un Poco Loco"
+      ],
+      "releases": [
+        {
+          "_id": "1682",
+          "names": [
+            "You Can't Go Home Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1285",
+          "names": [
+            "Chet Baker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8769",
+      "names": [
+        "El Morro"
+      ],
+      "releases": [
+        {
+          "_id": "1682",
+          "names": [
+            "You Can't Go Home Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1285",
+          "names": [
+            "Chet Baker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8770",
+      "names": [
+        "You Can't Go Home"
+      ],
+      "releases": [
+        {
+          "_id": "1682",
+          "names": [
+            "You Can't Go Home Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1285",
+          "names": [
+            "Chet Baker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11421",
+      "names": [
+        "Shipbuilding"
+      ],
+      "releases": [
+        {
+          "_id": "2137",
+          "names": [
+            "Punch The Clock"
+          ]
+        },
+        {
+          "_id": "2157",
+          "names": [
+            "Best Of"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11421"
+      ]
     },
     {
       "name": "Pete Thomas",
       "targetId": "429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11421"
+      ]
     },
     {
       "name": "Michael Brecker",
       "targetId": "459",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769"
+      ]
     },
     {
       "name": "Ron Carter",
       "targetId": "1201",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Ralph MacDonald",
       "targetId": "1268",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8769"
+      ]
     },
     {
       "name": "Alphonso Johnson",
       "targetId": "1321",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Steve Nieve",
       "targetId": "3222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11421"
+      ]
     },
     {
       "name": "Tony Williams",
       "targetId": "3839",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Hubert Laws",
       "targetId": "4230",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8768",
+        "8769"
+      ]
     },
     {
       "name": "John Scofield",
       "targetId": "4610",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769"
+      ]
     },
     {
       "name": "Paul Desmond",
       "targetId": "4637",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8770"
+      ]
     },
     {
       "name": "Bruce Thomas",
       "targetId": "7277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11421"
+      ]
     },
     {
       "name": "Richard Beirach",
       "targetId": "8134",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769"
+      ]
     },
     {
       "name": "David Nadien",
       "targetId": "8135",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Rochelle Abramson",
       "targetId": "8136",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Max Ellen",
       "targetId": "8137",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Paul Gersham",
       "targetId": "8138",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Diana Halprin",
       "targetId": "8139",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Harold Kohon",
       "targetId": "8140",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Charles Libove",
       "targetId": "8141",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Marvin Morgenstern",
       "targetId": "8142",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Matthew Raimondi",
       "targetId": "8143",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Jesse Levy",
       "targetId": "8144",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Charles McCracken",
       "targetId": "8145",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Alan Shulman",
       "targetId": "8146",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8767",
+        "8768",
+        "8769",
+        "8770"
+      ]
     },
     {
       "name": "Don Sebesky",
       "targetId": "8147",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8768",
+        "8770"
+      ]
     },
     {
       "name": "John Campo",
       "targetId": "8148",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8769"
+      ]
     },
     {
       "name": "Kenny Barron",
       "targetId": "8149",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8770"
+      ]
     }
   ]
 }

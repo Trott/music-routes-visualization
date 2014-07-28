@@ -1,21 +1,54 @@
 {
   "source": "Erland Dahlen",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10413",
+      "names": [
+        "Cast Anchor"
+      ],
+      "releases": [
+        {
+          "_id": "2016",
+          "names": [
+            "Little Things"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1554",
+          "names": [
+            "Hanne Hukkelberg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jørn Raknes",
       "targetId": "9460",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10413"
+      ]
     },
     {
       "name": "Hanne Hukkelberg",
       "targetId": "9461",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10413"
+      ]
     },
     {
       "name": "Kåre Christoffer Vestrheim",
       "targetId": "9462",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10413"
+      ]
     }
   ]
 }

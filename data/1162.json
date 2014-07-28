@@ -1,41 +1,212 @@
 {
   "source": "Eugéne Vées",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "735",
+      "names": [
+        "Daphné"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "736",
+      "names": [
+        "Souvenirs"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "737",
+      "names": [
+        "Honeysuckle Rose"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "739",
+      "names": [
+        "H.C.Q. Strut"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "741",
+      "names": [
+        "Sweet Georgia Brown"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "742",
+      "names": [
+        "The Man I Love"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joseph Reinhardt",
       "targetId": "1145",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "742"
+      ]
     },
     {
       "name": "Django Reinhardt",
       "targetId": "1156",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "735",
+        "736",
+        "737",
+        "739",
+        "742"
+      ]
     },
     {
       "name": "Stéphane Grappelli",
       "targetId": "1160",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "735",
+        "736",
+        "737",
+        "739",
+        "741",
+        "742"
+      ]
     },
     {
       "name": "Louis Vola",
       "targetId": "1161",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "735",
+        "736",
+        "737",
+        "741"
+      ]
     },
     {
       "name": "Roger Chaput",
       "targetId": "1163",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "735",
+        "736",
+        "737",
+        "741"
+      ]
     },
     {
       "name": "Emmanuel Soudieux",
       "targetId": "1164",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "739",
+        "742"
+      ]
     },
     {
       "name": "Perre \"Barot\" Ferret",
       "targetId": "1165",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "739"
+      ]
     }
   ]
 }

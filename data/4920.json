@@ -1,16 +1,46 @@
 {
   "source": "Luke Vibert",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4608",
+      "names": [
+        "Tom 'n' Us"
+      ],
+      "releases": [
+        {
+          "_id": "944",
+          "names": [
+            "Drum 'n' Bass 'n' Steel"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "743",
+          "names": [
+            "Luke Vibert & BJ Cole"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian \"BJ\" Cole",
       "targetId": "3188",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4608"
+      ]
     },
     {
       "name": "Tom Jenkinson",
       "targetId": "4921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4608"
+      ]
     }
   ]
 }

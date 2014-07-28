@@ -1,21 +1,54 @@
 {
   "source": "Greg Douglass",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5484",
+      "names": [
+        "Jungle Love"
+      ],
+      "releases": [
+        {
+          "_id": "1087",
+          "names": [
+            "Book Of Dreams"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5484"
+      ]
     },
     {
       "name": "Gary Mallaber",
       "targetId": "330",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5484"
+      ]
     },
     {
       "name": "Lonnie Turner",
       "targetId": "3061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5484"
+      ]
     }
   ]
 }

@@ -1,106 +1,516 @@
 {
   "source": "Brian Blade",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "5346",
+      "names": [
+        "Love Sick"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5348",
+      "names": [
+        "Standing In The Doorway"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5349",
+      "names": [
+        "Million Miles"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5351",
+      "names": [
+        "Til I Fell In Love With You"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5352",
+      "names": [
+        "Not Dark Yet"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        },
+        {
+          "_id": "2159",
+          "names": [
+            "The Essential Bob Dylan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5355",
+      "names": [
+        "Can't Wait"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12646",
+      "names": [
+        "Seven Years"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12648",
+      "names": [
+        "Feelin' The Same Way"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12650",
+      "names": [
+        "Shoot The Moon"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12652",
+      "names": [
+        "Lonestar"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12653",
+      "names": [
+        "I've Got To See You Again"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12654",
+      "names": [
+        "Painter Song"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12656",
+      "names": [
+        "Nightingale"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "5346",
+        "5348",
+        "5349",
+        "5351",
+        "5352",
+        "5355"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "5346",
+        "5348",
+        "5349",
+        "5351",
+        "5352",
+        "5355"
+      ]
     },
     {
       "name": "Daniel Lanois",
       "targetId": "2195",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "5346",
+        "5348",
+        "5349",
+        "5351",
+        "5352",
+        "5355"
+      ]
     },
     {
       "name": "Norah Jones",
       "targetId": "2219",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "12646",
+        "12648",
+        "12650",
+        "12652",
+        "12653",
+        "12654",
+        "12656"
+      ]
     },
     {
       "name": "Jim Dickinson",
       "targetId": "3082",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "5346",
+        "5349",
+        "5351",
+        "5352",
+        "5355"
+      ]
     },
     {
       "name": "Tony Garnier",
       "targetId": "5456",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "5346",
+        "5348",
+        "5349",
+        "5351",
+        "5352",
+        "5355"
+      ]
     },
     {
       "name": "Auggie Meyers",
       "targetId": "5457",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "5346",
+        "5348",
+        "5349",
+        "5351",
+        "5352",
+        "5355"
+      ]
     },
     {
       "name": "Bucky Baxter",
       "targetId": "5458",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5348",
+        "5352"
+      ]
     },
     {
       "name": "Duke Robillard",
       "targetId": "5459",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5349",
+        "5355"
+      ]
     },
     {
       "name": "Robert Britt",
       "targetId": "5460",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5348",
+        "5351",
+        "5352"
+      ]
     },
     {
       "name": "Cindy Cashdollar",
       "targetId": "5461",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5348",
+        "5352"
+      ]
     },
     {
       "name": "Tony Mangurian",
       "targetId": "5464",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5348",
+        "5349",
+        "5355"
+      ]
     },
     {
       "name": "Rob Burger",
       "targetId": "6050",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12652",
+        "12654"
+      ]
     },
     {
       "name": "Tony Scherr",
       "targetId": "6052",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12652"
+      ]
     },
     {
       "name": "Jesse Harris",
       "targetId": "8845",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12650",
+        "12653",
+        "12656"
+      ]
     },
     {
       "name": "Lee Alexander",
       "targetId": "10315",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "12646",
+        "12648",
+        "12650",
+        "12652",
+        "12653",
+        "12654",
+        "12656"
+      ]
     },
     {
       "name": "Kevin Breit",
       "targetId": "10316",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12646",
+        "12648"
+      ]
     },
     {
       "name": "Adam Levy",
       "targetId": "10317",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "12650",
+        "12652",
+        "12653",
+        "12654",
+        "12656"
+      ]
     },
     {
       "name": "Sam Yahel",
       "targetId": "10318",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12650"
+      ]
     },
     {
       "name": "Jenny Scheinman",
       "targetId": "10320",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12653"
+      ]
     }
   ]
 }

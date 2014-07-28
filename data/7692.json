@@ -1,71 +1,161 @@
 {
   "source": "Jason Kleinberg",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8086",
+      "names": [
+        "A Good Man Is Easy To Kill"
+      ],
+      "releases": [
+        {
+          "_id": "1581",
+          "names": [
+            "The Coast Is Never Clear"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1212",
+          "names": [
+            "Beulah"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8088",
+      "names": [
+        "Gene Autry"
+      ],
+      "releases": [
+        {
+          "_id": "1581",
+          "names": [
+            "The Coast Is Never Clear"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1212",
+          "names": [
+            "Beulah"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andrew Borger",
       "targetId": "5042",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8086"
+      ]
     },
     {
       "name": "Bill Evans",
       "targetId": "7686",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8086",
+        "8088"
+      ]
     },
     {
       "name": "Miles Kurosky",
       "targetId": "7687",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8086",
+        "8088"
+      ]
     },
     {
       "name": "Steve LaFollette",
       "targetId": "7688",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8086",
+        "8088"
+      ]
     },
     {
       "name": "Pat Noel",
       "targetId": "7689",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8086",
+        "8088"
+      ]
     },
     {
       "name": "Bill Swan",
       "targetId": "7690",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8086",
+        "8088"
+      ]
     },
     {
       "name": "Wallace Harvey",
       "targetId": "7691",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8086"
+      ]
     },
     {
       "name": "Anne Mellinger",
       "targetId": "7693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8086"
+      ]
     },
     {
       "name": "Margaret Moore",
       "targetId": "7694",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8086"
+      ]
     },
     {
       "name": "Steve St. Cin",
       "targetId": "7696",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8088"
+      ]
     },
     {
       "name": "Dan Sullivan",
       "targetId": "7697",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8088"
+      ]
     },
     {
       "name": "John Peters",
       "targetId": "7698",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8088"
+      ]
     },
     {
       "name": "Ben Riseling",
       "targetId": "7699",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8088"
+      ]
     }
   ]
 }

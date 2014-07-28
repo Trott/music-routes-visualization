@@ -1,26 +1,62 @@
 {
   "source": "George Whitsell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2950",
+      "names": [
+        "Vampire Blues"
+      ],
+      "releases": [
+        {
+          "_id": "114",
+          "names": [
+            "On The Beach"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "87",
+          "names": [
+            "Neil Young"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neil Young",
       "targetId": "45",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2950"
+      ]
     },
     {
       "name": "Ben Keith",
       "targetId": "512",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2950"
+      ]
     },
     {
       "name": "Ralph Molina",
       "targetId": "3288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2950"
+      ]
     },
     {
       "name": "Tim Drummond",
       "targetId": "3289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2950"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Ralph Grierson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "125",
+      "names": [
+        "Same Girl"
+      ],
+      "releases": [
+        {
+          "_id": "93",
+          "names": [
+            "Trouble In Paradise"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Randy Newman",
       "targetId": "370",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "125"
+      ]
     },
     {
       "name": "Michael Boddicker",
       "targetId": "385",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "125"
+      ]
     }
   ]
 }

@@ -1,56 +1,136 @@
 {
   "source": "Rosetta Hightower",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3984",
+      "names": [
+        "Bye Bye Blackbird"
+      ],
+      "releases": [
+        {
+          "_id": "813",
+          "names": [
+            "With A Little Help From My Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "637",
+          "names": [
+            "Joe Cocker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3991",
+      "names": [
+        "With A Little Help From My Friends"
+      ],
+      "releases": [
+        {
+          "_id": "813",
+          "names": [
+            "With A Little Help From My Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "637",
+          "names": [
+            "Joe Cocker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3984",
+        "3991"
+      ]
     },
     {
       "name": "Madeline Bell",
       "targetId": "810",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3984",
+        "3991"
+      ]
     },
     {
       "name": "Tony Visconti",
       "targetId": "1247",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3984"
+      ]
     },
     {
       "name": "Tommy Eyre",
       "targetId": "3190",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3991"
+      ]
     },
     {
       "name": "Joe Cocker",
       "targetId": "4141",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3984",
+        "3991"
+      ]
     },
     {
       "name": "Sunny Hightower",
       "targetId": "4148",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3984"
+      ]
     },
     {
       "name": "Chris Stainton",
       "targetId": "4149",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3984",
+        "3991"
+      ]
     },
     {
       "name": "Clem Cattini",
       "targetId": "4150",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3984"
+      ]
     },
     {
       "name": "Sunny Wheetman",
       "targetId": "4152",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3991"
+      ]
     },
     {
       "name": "B.J. Wilson",
       "targetId": "4156",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3991"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Todd Youth",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2054",
+      "names": [
+        "Black Mass"
+      ],
+      "releases": [
+        {
+          "_id": "466",
+          "names": [
+            "I Luciferi"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "347",
+          "names": [
+            "Danzig"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joey Castillo",
       "targetId": "1851",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2054"
+      ]
     },
     {
       "name": "Howie Pyro",
       "targetId": "2387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2054"
+      ]
     },
     {
       "name": "Glenn Danzig",
       "targetId": "2389",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2054"
+      ]
     }
   ]
 }

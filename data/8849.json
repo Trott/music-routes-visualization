@@ -1,16 +1,70 @@
 {
   "source": "Jennifer Frautschi",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9505",
+      "names": [
+        "It's Over"
+      ],
+      "releases": [
+        {
+          "_id": "1831",
+          "names": [
+            "Tails"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9511",
+      "names": [
+        "Rose-Colored Times"
+      ],
+      "releases": [
+        {
+          "_id": "1831",
+          "names": [
+            "Tails"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Loeb",
       "targetId": "8844",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9505",
+        "9511"
+      ]
     },
     {
       "name": "Eric Gaenslen",
       "targetId": "8846",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9505",
+        "9511"
+      ]
     }
   ]
 }

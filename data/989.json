@@ -1,66 +1,174 @@
 {
   "source": "Peter Robinson",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "540",
+      "names": [
+        "Embrace Me, You Child"
+      ],
+      "releases": [
+        {
+          "_id": "226",
+          "names": [
+            "No Secrets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "160",
+          "names": [
+            "Carly Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11184",
+      "names": [
+        "I Know There's Something Going On"
+      ],
+      "releases": [
+        {
+          "_id": "2113",
+          "names": [
+            "Something's Going On"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1601",
+          "names": [
+            "Frida"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11185",
+      "names": [
+        "Here We'll Stay"
+      ],
+      "releases": [
+        {
+          "_id": "2113",
+          "names": [
+            "Something's Going On"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1601",
+          "names": [
+            "Frida"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Collins",
       "targetId": "97",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11184",
+        "11185"
+      ]
     },
     {
       "name": "Andy Newmark",
       "targetId": "271",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "540"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "540"
+      ]
     },
     {
       "name": "Carly Simon",
       "targetId": "979",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "540"
+      ]
     },
     {
       "name": "Jimmy Ryan",
       "targetId": "980",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "540"
+      ]
     },
     {
       "name": "Daryl Stuermer",
       "targetId": "2791",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11184",
+        "11185"
+      ]
     },
     {
       "name": "Anni-Frid Lyngstad",
       "targetId": "2897",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11184",
+        "11185"
+      ]
     },
     {
       "name": "Mo Foster",
       "targetId": "3380",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11184",
+        "11185"
+      ]
     },
     {
       "name": "Don Myrick",
       "targetId": "9845",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11185"
+      ]
     },
     {
       "name": "Michael Harris",
       "targetId": "9846",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11185"
+      ]
     },
     {
       "name": "Rahmlee Michael Davis",
       "targetId": "9847",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11185"
+      ]
     },
     {
       "name": "Louis Satterfield",
       "targetId": "9848",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11185"
+      ]
     }
   ]
 }

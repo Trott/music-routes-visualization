@@ -1,21 +1,54 @@
 {
   "source": "Kate Moss",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1969",
+      "names": [
+        "Fade Away"
+      ],
+      "releases": [
+        {
+          "_id": "422",
+          "names": [
+            "Help"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "305",
+          "names": [
+            "Oasis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Noel Gallagher",
       "targetId": "2067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1969"
+      ]
     },
     {
       "name": "Liam Gallagher",
       "targetId": "2068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1969"
+      ]
     },
     {
       "name": "Lisa Morrish",
       "targetId": "2069",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1969"
+      ]
     }
   ]
 }

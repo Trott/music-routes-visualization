@@ -1,11 +1,38 @@
 {
   "source": "Gael Garcia Bernal",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2341",
+      "names": [
+        "Cristobal"
+      ],
+      "releases": [
+        {
+          "_id": "588",
+          "names": [
+            "Smokey Rolls Down Thunder Canyon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "452",
+          "names": [
+            "Devendra Banhart"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Devendra Banhart",
       "targetId": "2882",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2341"
+      ]
     }
   ]
 }

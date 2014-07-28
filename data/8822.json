@@ -1,26 +1,62 @@
 {
   "source": "Curt-T-T",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9483",
+      "names": [
+        "A Face in The Crowd"
+      ],
+      "releases": [
+        {
+          "_id": "1828",
+          "names": [
+            "Spanish Fly"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1418",
+          "names": [
+            "Lisa Lisa & Cult Jam"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Lisa",
       "targetId": "8818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9483"
+      ]
     },
     {
       "name": "Spanador",
       "targetId": "8819",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9483"
+      ]
     },
     {
       "name": "Mike Hughes",
       "targetId": "8820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9483"
+      ]
     },
     {
       "name": "Baby Gerry",
       "targetId": "8821",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9483"
+      ]
     }
   ]
 }

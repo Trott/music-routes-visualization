@@ -1,26 +1,88 @@
 {
   "source": "Andy White",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "11086",
+      "names": [
+        "Love Me Do"
+      ],
+      "releases": [
+        {
+          "_id": "2103",
+          "names": [
+            "Please Please Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11087",
+      "names": [
+        "P.S. I Love You"
+      ],
+      "releases": [
+        {
+          "_id": "2103",
+          "names": [
+            "Please Please Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11086",
+        "11087"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11086",
+        "11087"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11086",
+        "11087"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11086",
+        "11087"
+      ]
     }
   ]
 }

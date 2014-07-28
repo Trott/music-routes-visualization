@@ -1,11 +1,38 @@
 {
   "source": "Ane Brun",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6167",
+      "names": [
+        "Song No. 6"
+      ],
+      "releases": [
+        {
+          "_id": "1239",
+          "names": [
+            "A Temporary Dive"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "958",
+          "names": [
+            "Ane Brun"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ron Sexsmith",
       "targetId": "6092",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6167"
+      ]
     }
   ]
 }

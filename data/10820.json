@@ -1,21 +1,54 @@
 {
   "source": "Mardou Fox",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13343",
+      "names": [
+        "Taurus Woman"
+      ],
+      "releases": [
+        {
+          "_id": "2000",
+          "names": [
+            "The Rebirth Of Cool"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1718",
+          "names": [
+            "The Subterraneans"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Marco Nelson",
       "targetId": "7962",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13343"
+      ]
     },
     {
       "name": "Maxton Beesley, Jr.",
       "targetId": "10818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13343"
+      ]
     },
     {
       "name": "Jonzi",
       "targetId": "10819",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13343"
+      ]
     }
   ]
 }

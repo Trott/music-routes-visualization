@@ -1,31 +1,70 @@
 {
   "source": "CIV",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3401",
+      "names": [
+        "EZ.2.B.Anti"
+      ],
+      "releases": [
+        {
+          "_id": "696",
+          "names": [
+            "F.T.T.W."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "544",
+          "names": [
+            "H2O"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adam Blake",
       "targetId": "3592",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3401"
+      ]
     },
     {
       "name": "Todd Friend",
       "targetId": "3593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3401"
+      ]
     },
     {
       "name": "Rusty Pistachio",
       "targetId": "3594",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3401"
+      ]
     },
     {
       "name": "Todd Morse",
       "targetId": "3595",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3401"
+      ]
     },
     {
       "name": "Toby Morse",
       "targetId": "3596",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3401"
+      ]
     }
   ]
 }

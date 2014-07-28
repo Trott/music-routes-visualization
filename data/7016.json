@@ -1,21 +1,54 @@
 {
   "source": "Charlie Francis",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7336",
+      "names": [
+        "Harlem"
+      ],
+      "releases": [
+        {
+          "_id": "1435",
+          "names": [
+            "Toshack Highway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1105",
+          "names": [
+            "Toshack Highway"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adam Franklin",
       "targetId": "7014",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7336"
+      ]
     },
     {
       "name": "Jeff Townsin",
       "targetId": "7015",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7336"
+      ]
     },
     {
       "name": "Heinz Riegler",
       "targetId": "7017",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7336"
+      ]
     }
   ]
 }

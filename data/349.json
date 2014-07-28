@@ -1,106 +1,418 @@
 {
   "source": "Chuck D",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "98",
+      "names": [
+        "Caught, Can We Get A Witness?"
+      ],
+      "releases": [
+        {
+          "_id": "79",
+          "names": [
+            "It Takes A Nation Of Millions To Hold Us Back"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "64",
+          "names": [
+            "Public Enemy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "99",
+      "names": [
+        "Prophets Of Rage"
+      ],
+      "releases": [
+        {
+          "_id": "79",
+          "names": [
+            "It Takes A Nation Of Millions To Hold Us Back"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "64",
+          "names": [
+            "Public Enemy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "106",
+      "names": [
+        "Bring The Noise"
+      ],
+      "releases": [
+        {
+          "_id": "83",
+          "names": [
+            "Attack of the Killer B's"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "66",
+          "names": [
+            "Anthrax"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "107",
+      "names": [
+        "Rise Above"
+      ],
+      "releases": [
+        {
+          "_id": "84",
+          "names": [
+            "Rise Above: 24 Black Flag Songs To Benefit The West Memphis Three"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "67",
+          "names": [
+            "Chuck D"
+          ]
+        },
+        {
+          "_id": "1344",
+          "names": [
+            "Henry Rollins"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6005",
+      "names": [
+        "State Of Accomodation: Why Aren't You Angry"
+      ],
+      "releases": [
+        {
+          "_id": "1203",
+          "names": [
+            "360 Degrees Of Power"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "934",
+          "names": [
+            "Sister Souljah"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9137",
+      "names": [
+        "Gunslinging Bird Or If Charlie Parker We're A Gunslinger, There'd Be A Whole Lot Of Dead Copycats"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1347",
+          "names": [
+            "Chuck D"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10021",
+      "names": [
+        "Funny Vibe"
+      ],
+      "releases": [
+        {
+          "_id": "1925",
+          "names": [
+            "Vivid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1489",
+          "names": [
+            "Living Colour"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12583",
+      "names": [
+        "Brother's Gonna Work It Out"
+      ],
+      "releases": [
+        {
+          "_id": "2252",
+          "names": [
+            "Drums Of Death"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1635",
+          "names": [
+            "DJ Spooky"
+          ]
+        },
+        {
+          "_id": "1636",
+          "names": [
+            "Dave Lombardo"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12584",
+      "names": [
+        "B-Side Winds Again 2005"
+      ],
+      "releases": [
+        {
+          "_id": "2252",
+          "names": [
+            "Drums Of Death"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1635",
+          "names": [
+            "DJ Spooky"
+          ]
+        },
+        {
+          "_id": "1636",
+          "names": [
+            "Dave Lombardo"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12585",
+      "names": [
+        "Public Enemy #1 2005"
+      ],
+      "releases": [
+        {
+          "_id": "2252",
+          "names": [
+            "Drums Of Death"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1635",
+          "names": [
+            "DJ Spooky"
+          ]
+        },
+        {
+          "_id": "1636",
+          "names": [
+            "Dave Lombardo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Henry Rollins",
       "targetId": "185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "107"
+      ]
     },
     {
       "name": "Flavor Flav",
       "targetId": "350",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "98",
+        "99",
+        "10021"
+      ]
     },
     {
       "name": "Professor Griff",
       "targetId": "351",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "98"
+      ]
     },
     {
       "name": "Terminator X",
       "targetId": "352",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "98"
+      ]
     },
     {
       "name": "Scott Ian",
       "targetId": "356",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "106"
+      ]
     },
     {
       "name": "Dan Spitz",
       "targetId": "358",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "106"
+      ]
     },
     {
       "name": "Frank Bello",
       "targetId": "359",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "106"
+      ]
     },
     {
       "name": "Charlie Benante",
       "targetId": "360",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "106"
+      ]
     },
     {
       "name": "Gregory Cohen",
       "targetId": "428",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9137"
+      ]
     },
     {
       "name": "Michael Blair",
       "targetId": "662",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9137"
+      ]
     },
     {
       "name": "Don Alias",
       "targetId": "1261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9137"
+      ]
     },
     {
       "name": "Dave Lombardo",
       "targetId": "1456",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12583",
+        "12584",
+        "12585"
+      ]
     },
     {
       "name": "Muzz Skillings",
       "targetId": "3744",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10021"
+      ]
     },
     {
       "name": "Bill Frisell",
       "targetId": "4402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9137"
+      ]
     },
     {
       "name": "Sister Souljah",
       "targetId": "5947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6005"
+      ]
     },
     {
       "name": "Art Baron",
       "targetId": "8429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9137"
+      ]
     },
     {
       "name": "Vernon Reid",
       "targetId": "8432",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10021"
+      ]
     },
     {
       "name": "Will Calhoun",
       "targetId": "9198",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10021"
+      ]
     },
     {
       "name": "Corey Clover",
       "targetId": "9199",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10021"
+      ]
     },
     {
       "name": "DJ Spooky",
       "targetId": "10288",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12583",
+        "12584",
+        "12585"
+      ]
     }
   ]
 }

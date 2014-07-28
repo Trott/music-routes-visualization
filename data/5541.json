@@ -1,11 +1,38 @@
 {
   "source": "Bob James",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5465",
+      "names": [
+        "Remember When Lovin' Took All Night"
+      ],
+      "releases": [
+        {
+          "_id": "537",
+          "names": [
+            "Karen Carpenter"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "408",
+          "names": [
+            "Karen Carpenter"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Karen Carpenter",
       "targetId": "2111",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5465"
+      ]
     }
   ]
 }

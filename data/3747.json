@@ -1,31 +1,70 @@
 {
   "source": "Oliver Woods",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3621",
+      "names": [
+        "Rude World"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3621"
+      ]
     },
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3621"
+      ]
     },
     {
       "name": "Charlie Jones",
       "targetId": "3709",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3621"
+      ]
     },
     {
       "name": "Michael Lee",
       "targetId": "3741",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3621"
+      ]
     },
     {
       "name": "Phil Andrews",
       "targetId": "3748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3621"
+      ]
     }
   ]
 }

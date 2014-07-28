@@ -1,21 +1,54 @@
 {
   "source": "Gary Jules",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10414",
+      "names": [
+        "Mad World (Alternate Version)"
+      ],
+      "releases": [
+        {
+          "_id": "2017",
+          "names": [
+            "Donnie Darko: Music From The Original Motion Picture Score"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1555",
+          "names": [
+            "Michael Andrews"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Andrews",
       "targetId": "9463",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10414"
+      ]
     },
     {
       "name": "Sam Shelton",
       "targetId": "9465",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10414"
+      ]
     },
     {
       "name": "Tori Haberman",
       "targetId": "9466",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10414"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Doyle",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2262",
+      "names": [
+        "20 Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "566",
+          "names": [
+            "Walk Among Us"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "432",
+          "names": [
+            "The Misfits"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jerry Only",
       "targetId": "2105",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2262"
+      ]
     },
     {
       "name": "Glenn Danzig",
       "targetId": "2389",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2262"
+      ]
     },
     {
       "name": "Arthur Googy",
       "targetId": "2783",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2262"
+      ]
     }
   ]
 }

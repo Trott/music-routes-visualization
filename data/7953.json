@@ -1,46 +1,116 @@
 {
   "source": "Darian Sahanaja",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8458",
+      "names": [
+        "Desert Drive"
+      ],
+      "releases": [
+        {
+          "_id": "1635",
+          "names": [
+            "Gettin' In Over My Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "510",
+          "names": [
+            "Brian Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10220",
+      "names": [
+        "Humpty Dumpty"
+      ],
+      "releases": [
+        {
+          "_id": "1960",
+          "names": [
+            "Lost In Space"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10220"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8458"
+      ]
     },
     {
       "name": "Andy Paley",
       "targetId": "3261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8458"
+      ]
     },
     {
       "name": "Buddy Judge",
       "targetId": "3868",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10220"
+      ]
     },
     {
       "name": "Michael Lockwood",
       "targetId": "3869",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10220"
+      ]
     },
     {
       "name": "Jeffrey Foskett",
       "targetId": "7954",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8458"
+      ]
     },
     {
       "name": "Scott Bennett",
       "targetId": "7955",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8458"
+      ]
     },
     {
       "name": "John Sands",
       "targetId": "8920",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10220"
+      ]
     }
   ]
 }

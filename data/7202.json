@@ -1,11 +1,38 @@
 {
   "source": "Brother Marquis",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7518",
+      "names": [
+        "The Real One"
+      ],
+      "releases": [
+        {
+          "_id": "1484",
+          "names": [
+            "The Real One"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1142",
+          "names": [
+            "2 Live Crew"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ice-T",
       "targetId": "2798",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7518"
+      ]
     }
   ]
 }

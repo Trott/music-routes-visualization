@@ -1,41 +1,108 @@
 {
   "source": "Andrew Chalfen",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7622",
+      "names": [
+        "Whisper Down The Lane"
+      ],
+      "releases": [
+        {
+          "_id": "1513",
+          "names": [
+            "Present The Karaoke Meltdowns"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1160",
+          "names": [
+            "The Trolleyvox"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7637",
+      "names": [
+        "Sun Goes Down"
+      ],
+      "releases": [
+        {
+          "_id": "1515",
+          "names": [
+            "The Way You Shine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1162",
+          "names": [
+            "The Shimmers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jonathan Segel",
       "targetId": "1605",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7637"
+      ]
     },
     {
       "name": "Owen Biddle",
       "targetId": "7282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7622"
+      ]
     },
     {
       "name": "Pat Berkery",
       "targetId": "7291",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7622"
+      ]
     },
     {
       "name": "Beth Filla",
       "targetId": "7293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7622"
+      ]
     },
     {
       "name": "Eden Daniels",
       "targetId": "7297",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7637"
+      ]
     },
     {
       "name": "David Bielanko",
       "targetId": "7298",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7637"
+      ]
     },
     {
       "name": "Ronnie Vance",
       "targetId": "7299",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7637"
+      ]
     }
   ]
 }

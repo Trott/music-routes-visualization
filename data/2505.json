@@ -1,16 +1,46 @@
 {
   "source": "Jeremy Taggart",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2096",
+      "names": [
+        "Home On The Strange"
+      ],
+      "releases": [
+        {
+          "_id": "478",
+          "names": [
+            "My Favorite Headache"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "358",
+          "names": [
+            "Geddy Lee"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Geddy Lee",
       "targetId": "2450",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2096"
+      ]
     },
     {
       "name": "Ben Mink",
       "targetId": "2504",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2096"
+      ]
     }
   ]
 }

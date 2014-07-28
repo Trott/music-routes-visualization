@@ -1,251 +1,773 @@
 {
   "source": "Glen Campbell",
   "trackCount": 14,
+  "tracks": [
+    {
+      "_id": "49",
+      "names": [
+        "Keep On Smilin'"
+      ],
+      "releases": [
+        {
+          "_id": "43",
+          "names": [
+            "Sesame Country"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "158",
+      "names": [
+        "Wichita Lineman"
+      ],
+      "releases": [
+        {
+          "_id": "120",
+          "names": [
+            "Wichita Lineman"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "90",
+          "names": [
+            "Glen Campbell"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "159",
+      "names": [
+        "Rhinestone Cowboy"
+      ],
+      "releases": [
+        {
+          "_id": "121",
+          "names": [
+            "Rhinestone Cowboy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "90",
+          "names": [
+            "Glen Campbell"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "160",
+      "names": [
+        "Dream Lover"
+      ],
+      "releases": [
+        {
+          "_id": "122",
+          "names": [
+            "Dreamlovers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "91",
+          "names": [
+            "Tanya Tucker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1040",
+      "names": [
+        "That's Not Me"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1041",
+      "names": [
+        "Don't Talk (Put Your Head On My Shoulder)"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1046",
+      "names": [
+        "I Know There's An Answer"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1048",
+      "names": [
+        "I Just Wasn't Made For These Times"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1050",
+      "names": [
+        "Caroline No"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        },
+        {
+          "_id": "2181",
+          "names": [
+            "Classics: Selected By Brian Wilson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2074",
+      "names": [
+        "Papa Gene's Blues"
+      ],
+      "releases": [
+        {
+          "_id": "472",
+          "names": [
+            "The Monkees"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "352",
+          "names": [
+            "The Monkees"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2075",
+      "names": [
+        "Sweet Young Thing"
+      ],
+      "releases": [
+        {
+          "_id": "472",
+          "names": [
+            "The Monkees"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "352",
+          "names": [
+            "The Monkees"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12027",
+      "names": [
+        "Hang On To Your Ego"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12151",
+      "names": [
+        "Help Me, Rhonda (Single Version)"
+      ],
+      "releases": [
+        {
+          "_id": "2075",
+          "names": [
+            "Today! / Summer Days (And Summer Nights!!)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12169",
+      "names": [
+        "Help Me Rhonda"
+      ],
+      "releases": [
+        {
+          "_id": "2188",
+          "names": [
+            "Party & Stack-o-Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "1041",
+        "1046",
+        "1048",
+        "1050",
+        "2074",
+        "2075",
+        "12027"
+      ]
     },
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1040",
+        "12151"
+      ]
     },
     {
       "name": "Oscar the Grouch",
       "targetId": "242",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "49"
+      ]
     },
     {
       "name": "Tanya Tucker",
       "targetId": "246",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "160"
+      ]
     },
     {
       "name": "Lyle Ritz",
       "targetId": "373",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1040",
+        "1041",
+        "1046",
+        "1050",
+        "12027"
+      ]
     },
     {
       "name": "James Burton",
       "targetId": "452",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Carol Kaye",
       "targetId": "521",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "158",
+        "159",
+        "1040",
+        "1041",
+        "1050"
+      ]
     },
     {
       "name": "Jim Gordon",
       "targetId": "522",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "158",
+        "2074"
+      ]
     },
     {
       "name": "Steve Douglas",
       "targetId": "560",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1041",
+        "1046",
+        "1048",
+        "1050",
+        "12027"
+      ]
     },
     {
       "name": "Jim Horn",
       "targetId": "670",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1046",
+        "1050",
+        "12027"
+      ]
     },
     {
       "name": "Gary Coleman",
       "targetId": "727",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Jimmy Webb",
       "targetId": "998",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "158"
+      ]
     },
     {
       "name": "Larry Knechtel",
       "targetId": "1196",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1046",
+        "2075",
+        "12027"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "1040",
+        "1041",
+        "1048",
+        "1050",
+        "12027",
+        "12151"
+      ]
     },
     {
       "name": "Dennis Wilson",
       "targetId": "1476",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1040",
+        "12151"
+      ]
     },
     {
       "name": "Mike Love",
       "targetId": "1477",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1040",
+        "1046",
+        "12151"
+      ]
     },
     {
       "name": "Al Jardine",
       "targetId": "1478",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1046",
+        "12151"
+      ]
     },
     {
       "name": "Frank Capp",
       "targetId": "1481",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1041",
+        "1048",
+        "1050"
+      ]
     },
     {
       "name": "Bill Pitman",
       "targetId": "1482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2074"
+      ]
     },
     {
       "name": "Ray Pohlman",
       "targetId": "1484",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1046",
+        "1048",
+        "12027"
+      ]
     },
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1046",
+        "1048",
+        "1050",
+        "12027"
+      ]
     },
     {
       "name": "Al De Lory",
       "targetId": "1486",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1041",
+        "1046",
+        "1050",
+        "12027"
+      ]
     },
     {
       "name": "Jay Migliori",
       "targetId": "1487",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1046",
+        "1048",
+        "1050",
+        "12027"
+      ]
     },
     {
       "name": "Plas Johnson",
       "targetId": "1488",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1048",
+        "1050"
+      ]
     },
     {
       "name": "Billy Strange",
       "targetId": "1490",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1041"
+      ]
     },
     {
       "name": "Julius Wechter",
       "targetId": "1492",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1046",
+        "12027"
+      ]
     },
     {
       "name": "Bill Green",
       "targetId": "1493",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1050"
+      ]
     },
     {
       "name": "Joseph Saxon",
       "targetId": "1497",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1041"
+      ]
     },
     {
       "name": "Norman Botnick",
       "targetId": "1498",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1041"
+      ]
     },
     {
       "name": "Arnold Belnick",
       "targetId": "1499",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1041"
+      ]
     },
     {
       "name": "Ralph Schaeffer",
       "targetId": "1500",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1041"
+      ]
     },
     {
       "name": "Tibor Zelig",
       "targetId": "1501",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1041"
+      ]
     },
     {
       "name": "Sid Sharp",
       "targetId": "1502",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1041"
+      ]
     },
     {
       "name": "Al Casey",
       "targetId": "1509",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Don Randi",
       "targetId": "1516",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1048"
+      ]
     },
     {
       "name": "Tommy Morgan",
       "targetId": "1518",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1046",
+        "1048",
+        "12027"
+      ]
     },
     {
       "name": "Bobby Klein",
       "targetId": "1519",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1046",
+        "1048",
+        "12027"
+      ]
     },
     {
       "name": "Paul Horn",
       "targetId": "1520",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1046",
+        "12027"
+      ]
     },
     {
       "name": "Mike Deasy",
       "targetId": "1522",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2075"
+      ]
     },
     {
       "name": "Chuck Berghofer",
       "targetId": "1526",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1048"
+      ]
     },
     {
       "name": "Mike Melvoin",
       "targetId": "1527",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1048"
+      ]
     },
     {
       "name": "Paul Tanner",
       "targetId": "1528",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1048"
+      ]
     },
     {
       "name": "Micky Dolenz",
       "targetId": "2415",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Peter Tork",
       "targetId": "2416",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Michael Nesmith",
       "targetId": "2417",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Jim Helms",
       "targetId": "2418",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2074"
+      ]
     },
     {
       "name": "Bob West",
       "targetId": "2419",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2075"
+      ]
     },
     {
       "name": "Jimmy Bryant",
       "targetId": "2420",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2075"
+      ]
     },
     {
       "name": "Frank DeVito",
       "targetId": "2421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2075"
+      ]
     }
   ]
 }

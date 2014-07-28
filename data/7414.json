@@ -1,11 +1,38 @@
 {
   "source": "Pert Kelton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7788",
+      "names": [
+        "Piano Lesson & If You Don't Mind My Saying So"
+      ],
+      "releases": [
+        {
+          "_id": "1536",
+          "names": [
+            "The Music Man (Warner Bros. film soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1177",
+          "names": [
+            "Shirley Jones & Pert Kelton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Shirley Jones",
       "targetId": "1790",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7788"
+      ]
     }
   ]
 }

@@ -1,71 +1,397 @@
 {
   "source": "Jamie Sefton",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "6677",
+      "names": [
+        "Mr. Rock and Roll"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6678",
+      "names": [
+        "This Is The Life"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6679",
+      "names": [
+        "Poison Prince"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6680",
+      "names": [
+        "Youth Of Today"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6681",
+      "names": [
+        "Footballer's Wife"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6682",
+      "names": [
+        "Let's Start A Band"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6683",
+      "names": [
+        "L.A."
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6684",
+      "names": [
+        "Run"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6685",
+      "names": [
+        "A Wish For Something More"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6686",
+      "names": [
+        "Barrowland Ballroom"
+      ],
+      "releases": [
+        {
+          "_id": "1337",
+          "names": [
+            "This Is The Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1034",
+          "names": [
+            "Amy Macdonald"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Audrey Riley",
       "targetId": "3785",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6677",
+        "6680",
+        "6681",
+        "6682",
+        "6683"
+      ]
     },
     {
       "name": "Chris Tombling",
       "targetId": "3786",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6677",
+        "6680",
+        "6681",
+        "6682",
+        "6683"
+      ]
     },
     {
       "name": "Amy Macdonald",
       "targetId": "6543",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "6677",
+        "6678",
+        "6679",
+        "6680",
+        "6681",
+        "6682",
+        "6683",
+        "6684",
+        "6685",
+        "6686"
+      ]
     },
     {
       "name": "Sarah Erasmus",
       "targetId": "6544",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6677",
+        "6682",
+        "6683",
+        "6684",
+        "6685",
+        "6686"
+      ]
     },
     {
       "name": "Adam Falkner",
       "targetId": "6546",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "6677",
+        "6678",
+        "6679",
+        "6680",
+        "6681",
+        "6682",
+        "6683",
+        "6684",
+        "6685",
+        "6686"
+      ]
     },
     {
       "name": "Jolyon Dixon",
       "targetId": "6547",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6677",
+        "6679",
+        "6683",
+        "6686"
+      ]
     },
     {
       "name": "Pete Wilkinson",
       "targetId": "6548",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "6677",
+        "6678",
+        "6679",
+        "6680",
+        "6681",
+        "6682",
+        "6683",
+        "6684",
+        "6685",
+        "6686"
+      ]
     },
     {
       "name": "Sue Dench",
       "targetId": "6549",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6677",
+        "6680",
+        "6681",
+        "6682",
+        "6683"
+      ]
     },
     {
       "name": "Jonathan Hill",
       "targetId": "6550",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6677",
+        "6680",
+        "6681",
+        "6682",
+        "6683"
+      ]
     },
     {
       "name": "Laura Melhuish",
       "targetId": "6551",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6677",
+        "6680",
+        "6681",
+        "6682",
+        "6683"
+      ]
     },
     {
       "name": "Richard George",
       "targetId": "6552",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6677",
+        "6680",
+        "6681",
+        "6682",
+        "6683"
+      ]
     },
     {
       "name": "Seton Daunt",
       "targetId": "6553",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "6678",
+        "6680",
+        "6681",
+        "6682",
+        "6683",
+        "6684",
+        "6685"
+      ]
     },
     {
       "name": "Martina Nagel",
       "targetId": "6554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6684"
+      ]
     }
   ]
 }

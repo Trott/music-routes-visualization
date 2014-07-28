@@ -1,86 +1,228 @@
 {
   "source": "Earl Palmer",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "4500",
+      "names": [
+        "Tutti Frutti"
+      ],
+      "releases": [
+        {
+          "_id": "903",
+          "names": [
+            "The Georgia Peach"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "711",
+          "names": [
+            "Little Richard"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11700",
+      "names": [
+        "Eisenhower Blues"
+      ],
+      "releases": [
+        {
+          "_id": "56",
+          "names": [
+            "King Of America"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11701",
+      "names": [
+        "Poisoned Rose"
+      ],
+      "releases": [
+        {
+          "_id": "56",
+          "names": [
+            "King Of America"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12090",
+      "names": [
+        "Please Let Me Wonder"
+      ],
+      "releases": [
+        {
+          "_id": "2075",
+          "names": [
+            "Today! / Summer Days (And Summer Nights!!)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12090"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11700",
+        "11701"
+      ]
     },
     {
       "name": "Mitchell Froom",
       "targetId": "289",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11700",
+        "11701"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11700"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12090"
+      ]
     },
     {
       "name": "Dennis Wilson",
       "targetId": "1476",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12090"
+      ]
     },
     {
       "name": "Mike Love",
       "targetId": "1477",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12090"
+      ]
     },
     {
       "name": "Al Jardine",
       "targetId": "1478",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12090"
+      ]
     },
     {
       "name": "Ray Brown",
       "targetId": "1925",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11700",
+        "11701"
+      ]
     },
     {
       "name": "Little Richard",
       "targetId": "4645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Frank Fields",
       "targetId": "4646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Justin Adams",
       "targetId": "4648",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Huey \"Piano\" Smith",
       "targetId": "4649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Alvin \"Red\" Tyler",
       "targetId": "4650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Lee Allen",
       "targetId": "4651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Tom Canning",
       "targetId": "9972",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11700",
+        "11701"
+      ]
     }
   ]
 }

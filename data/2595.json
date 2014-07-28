@@ -1,16 +1,70 @@
 {
   "source": "Andreas Hohmann",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2142",
+      "names": [
+        "Ruckzuck"
+      ],
+      "releases": [
+        {
+          "_id": "509",
+          "names": [
+            "Kraftwerk"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "384",
+          "names": [
+            "Kraftwerk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2143",
+      "names": [
+        "Stratovarius"
+      ],
+      "releases": [
+        {
+          "_id": "509",
+          "names": [
+            "Kraftwerk"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "384",
+          "names": [
+            "Kraftwerk"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Florian Schneider",
       "targetId": "2596",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2142",
+        "2143"
+      ]
     },
     {
       "name": "Ralf Hütter",
       "targetId": "2597",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2142",
+        "2143"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Cliff Richard",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10323",
+      "names": [
+        "Whenever God Shines His Light"
+      ],
+      "releases": [
+        {
+          "_id": "1996",
+          "names": [
+            "The Best Of Van Morrison"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1541",
+          "names": [
+            "Van Morrison"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Van Morrison",
       "targetId": "87",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10323"
+      ]
     },
     {
       "name": "Steve Pearce",
       "targetId": "9419",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10323"
+      ]
     }
   ]
 }

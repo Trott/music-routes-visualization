@@ -1,26 +1,86 @@
 {
   "source": "Bill Racine",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6318",
+      "names": [
+        "Publish My Love"
+      ],
+      "releases": [
+        {
+          "_id": "1262",
+          "names": [
+            "Descended Like Vultures"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "976",
+          "names": [
+            "Rogue Wave"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6322",
+      "names": [
+        "10:1"
+      ],
+      "releases": [
+        {
+          "_id": "1262",
+          "names": [
+            "Descended Like Vultures"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "976",
+          "names": [
+            "Rogue Wave"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pat Spurgeon",
       "targetId": "6176",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6318",
+        "6322"
+      ]
     },
     {
       "name": "Zach Rogue",
       "targetId": "6178",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6318",
+        "6322"
+      ]
     },
     {
       "name": "Evan Farrell",
       "targetId": "6179",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6318"
+      ]
     },
     {
       "name": "Gram LeBron",
       "targetId": "6181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6318"
+      ]
     }
   ]
 }

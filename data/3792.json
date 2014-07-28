@@ -1,41 +1,152 @@
 {
   "source": "Buck Owens",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3683",
+      "names": [
+        "Streets of Bakersfield"
+      ],
+      "releases": [
+        {
+          "_id": "735",
+          "names": [
+            "The Very Best Of Dwight Yoakam"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "222",
+          "names": [
+            "Dwight Yoakam"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3699",
+      "names": [
+        "Play \"Together Again\" Again"
+      ],
+      "releases": [
+        {
+          "_id": "737",
+          "names": [
+            "The Buck Owens Collection (1959-1990)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "570",
+          "names": [
+            "Buck Owens"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3700",
+      "names": [
+        "Act Naturally [1988]"
+      ],
+      "releases": [
+        {
+          "_id": "737",
+          "names": [
+            "The Buck Owens Collection (1959-1990)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "570",
+          "names": [
+            "Buck Owens"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6662",
+      "names": [
+        "Together Again"
+      ],
+      "releases": [
+        {
+          "_id": "1333",
+          "names": [
+            "21 #1 Hits: The Ultimate Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "570",
+          "names": [
+            "Buck Owens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3700"
+      ]
     },
     {
       "name": "Emmylou Harris",
       "targetId": "450",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3699"
+      ]
     },
     {
       "name": "Dwight Yoakam",
       "targetId": "1573",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3683"
+      ]
     },
     {
       "name": "Mel Taylor",
       "targetId": "6532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6662"
+      ]
     },
     {
       "name": "Don Rich",
       "targetId": "6533",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6662"
+      ]
     },
     {
       "name": "Jelly Sanders",
       "targetId": "6534",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6662"
+      ]
     },
     {
       "name": "Tom Brumley",
       "targetId": "6535",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6662"
+      ]
     }
   ]
 }

@@ -1,21 +1,79 @@
 {
   "source": "Mike Lucas",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1981",
+      "names": [
+        "Istanbul"
+      ],
+      "releases": [
+        {
+          "_id": "428",
+          "names": [
+            "Istanbul 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "310",
+          "names": [
+            "The Phantom Surfers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1982",
+      "names": [
+        "Tokyo Twist"
+      ],
+      "releases": [
+        {
+          "_id": "428",
+          "names": [
+            "Istanbul 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "310",
+          "names": [
+            "The Phantom Surfers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mel Bergman",
       "targetId": "2089",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1981",
+        "1982"
+      ]
     },
     {
       "name": "Maz Kattuah",
       "targetId": "2093",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1981",
+        "1982"
+      ]
     },
     {
       "name": "Russell Quan",
       "targetId": "2094",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1981",
+        "1982"
+      ]
     }
   ]
 }

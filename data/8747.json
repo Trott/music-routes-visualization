@@ -1,11 +1,44 @@
 {
   "source": "Nellie McKay",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9349",
+      "names": [
+        "How Are You?"
+      ],
+      "releases": [
+        {
+          "_id": "1808",
+          "names": [
+            "Here Lies Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1400",
+          "names": [
+            "David Byrne"
+          ]
+        },
+        {
+          "_id": "1401",
+          "names": [
+            "Fatboy Slim"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Norman Cook",
       "targetId": "8720",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9349"
+      ]
     }
   ]
 }

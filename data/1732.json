@@ -1,21 +1,54 @@
 {
   "source": "Yukiko Takahashi",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1285",
+      "names": [
+        "A Song For Yukiko"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1285"
+      ]
     },
     {
       "name": "Mikio Endo",
       "targetId": "1730",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1285"
+      ]
     },
     {
       "name": "John Suzuki",
       "targetId": "1731",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1285"
+      ]
     }
   ]
 }

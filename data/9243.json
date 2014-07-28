@@ -1,26 +1,88 @@
 {
   "source": "Stéphane Misseghers",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10085",
+      "names": [
+        "When She Comes Down"
+      ],
+      "releases": [
+        {
+          "_id": "1939",
+          "names": [
+            "Vantage Point"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1500",
+          "names": [
+            "dEUS"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10086",
+      "names": [
+        "Oh Your God"
+      ],
+      "releases": [
+        {
+          "_id": "1939",
+          "names": [
+            "Vantage Point"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1500",
+          "names": [
+            "dEUS"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mauro Pawlowski",
       "targetId": "6658",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10085",
+        "10086"
+      ]
     },
     {
       "name": "Tom Barman",
       "targetId": "9240",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10085",
+        "10086"
+      ]
     },
     {
       "name": "Alan Gevaert",
       "targetId": "9241",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10085",
+        "10086"
+      ]
     },
     {
       "name": "Klaas Janzoons",
       "targetId": "9242",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10085",
+        "10086"
+      ]
     }
   ]
 }

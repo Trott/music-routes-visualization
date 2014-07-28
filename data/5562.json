@@ -1,21 +1,54 @@
 {
   "source": "Ryan Roxie",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5494",
+      "names": [
+        "Rattlesnake Kisses"
+      ],
+      "releases": [
+        {
+          "_id": "1089",
+          "names": [
+            "Electric Angels"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "859",
+          "names": [
+            "Electric Angels"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jonathan Daniel",
       "targetId": "5560",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5494"
+      ]
     },
     {
       "name": "John Schubert",
       "targetId": "5561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5494"
+      ]
     },
     {
       "name": "Thomas \"Shane\" Riggins",
       "targetId": "5563",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5494"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Joseph Shabalala",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7513",
+      "names": [
+        "Bhambororo!"
+      ],
+      "releases": [
+        {
+          "_id": "1482",
+          "names": [
+            "Kryptos"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andreas Vollenweider",
       "targetId": "7175",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7513"
+      ]
     }
   ]
 }

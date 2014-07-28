@@ -1,16 +1,46 @@
 {
   "source": "Morgan Nagler",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2612",
+      "names": [
+        "Dumb Luck"
+      ],
+      "releases": [
+        {
+          "_id": "619",
+          "names": [
+            "Dumb Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "482",
+          "names": [
+            "Dntel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Tamborello",
       "targetId": "3024",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2612"
+      ]
     },
     {
       "name": "Paul Larson",
       "targetId": "3091",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2612"
+      ]
     }
   ]
 }

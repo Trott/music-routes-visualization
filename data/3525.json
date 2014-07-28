@@ -1,16 +1,46 @@
 {
   "source": "El Bobo D'Amour",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3226",
+      "names": [
+        "Rabbit In The Hole"
+      ],
+      "releases": [
+        {
+          "_id": "681",
+          "names": [
+            "Burn Or Bury"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "534",
+          "names": [
+            "Milk Cult"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dale Flattum",
       "targetId": "3520",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3226"
+      ]
     },
     {
       "name": "Mike Morasky",
       "targetId": "3521",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3226"
+      ]
     }
   ]
 }

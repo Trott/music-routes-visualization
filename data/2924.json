@@ -1,21 +1,54 @@
 {
   "source": "John Cambridge",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2382",
+      "names": [
+        "The Prettiest Star (Single Version)"
+      ],
+      "releases": [
+        {
+          "_id": "596",
+          "names": [
+            "Sound + Vision"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2382"
+      ]
     },
     {
       "name": "Tony Visconti",
       "targetId": "1247",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2382"
+      ]
     },
     {
       "name": "Marc Bolan",
       "targetId": "1825",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2382"
+      ]
     }
   ]
 }

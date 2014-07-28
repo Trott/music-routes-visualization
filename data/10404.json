@@ -1,56 +1,162 @@
 {
   "source": "James \"Mingo\" Lewis",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "12800",
+      "names": [
+        "Eternal Caravan Of Reincarnation"
+      ],
+      "releases": [
+        {
+          "_id": "2306",
+          "names": [
+            "Caravanserai"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12801",
+      "names": [
+        "Waves Within"
+      ],
+      "releases": [
+        {
+          "_id": "2306",
+          "names": [
+            "Caravanserai"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12802",
+      "names": [
+        "Look Up (To See What's Coming Down)"
+      ],
+      "releases": [
+        {
+          "_id": "2306",
+          "names": [
+            "Caravanserai"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neal Schon",
       "targetId": "174",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12800",
+        "12802"
+      ]
     },
     {
       "name": "Gregg Rolie",
       "targetId": "263",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Carlos Santana",
       "targetId": "1081",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12800",
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "José Areas",
       "targetId": "1083",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Michael Shrieve",
       "targetId": "1085",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12800",
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Thomas Rutley",
       "targetId": "10403",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12800"
+      ]
     },
     {
       "name": "Wendy Haas",
       "targetId": "10405",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12800"
+      ]
     },
     {
       "name": "Hadley Caliman",
       "targetId": "10406",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12800"
+      ]
     },
     {
       "name": "Douglas Rauch",
       "targetId": "10407",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Douglas Rodrigues",
       "targetId": "10408",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12801"
+      ]
     }
   ]
 }

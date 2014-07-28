@@ -1,31 +1,98 @@
 {
   "source": "Santogold",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2126",
+      "names": [
+        "My Drive Thru"
+      ],
+      "releases": [
+        {
+          "_id": "502",
+          "names": [
+            "My Drive Thru"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "377",
+          "names": [
+            "Julian Casablancas, Santogold, & Pharrell Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9361",
+      "names": [
+        "Please Don't"
+      ],
+      "releases": [
+        {
+          "_id": "1808",
+          "names": [
+            "Here Lies Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1400",
+          "names": [
+            "David Byrne"
+          ]
+        },
+        {
+          "_id": "1401",
+          "names": [
+            "Fatboy Slim"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Byrne",
       "targetId": "193",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9361"
+      ]
     },
     {
       "name": "Julian Casablancas",
       "targetId": "1850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2126"
+      ]
     },
     {
       "name": "Pharrell Williams",
       "targetId": "2569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2126"
+      ]
     },
     {
       "name": "Mauro Refosco",
       "targetId": "8734",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9361"
+      ]
     },
     {
       "name": "Thomas Bartlett",
       "targetId": "8735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9361"
+      ]
     }
   ]
 }

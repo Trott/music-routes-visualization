@@ -1,11 +1,38 @@
 {
   "source": "Soulja Boy Tell 'Em",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9038",
+      "names": [
+        "Pronto"
+      ],
+      "releases": [
+        {
+          "_id": "1728",
+          "names": [
+            "Malice n Wonderland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "171",
+          "names": [
+            "Snoop Dogg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9038"
+      ]
     }
   ]
 }

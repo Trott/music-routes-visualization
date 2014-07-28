@@ -1,106 +1,444 @@
 {
   "source": "Roy Eldridge",
   "trackCount": 11,
+  "tracks": [
+    {
+      "_id": "5440",
+      "names": [
+        "Stompin' At The Savoy / Air Mail Special"
+      ],
+      "releases": [
+        {
+          "_id": "1078",
+          "names": [
+            "The Quintessence: New York - Los Angeles - Stockholm 1935-1954"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "852",
+          "names": [
+            "Benny Goodman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6101",
+      "names": [
+        "I Love My Man"
+      ],
+      "releases": [
+        {
+          "_id": "1222",
+          "names": [
+            "Lady Day: The Complete Billie Holiday on Columbia 1933-1944"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6102",
+      "names": [
+        "Flying On A V-Disc (Part I)"
+      ],
+      "releases": [
+        {
+          "_id": "1223",
+          "names": [
+            "A Life In Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "950",
+          "names": [
+            "Louis Armstrong"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9262",
+      "names": [
+        "Patti Cake"
+      ],
+      "releases": [
+        {
+          "_id": "1791",
+          "names": [
+            "Nothing But The Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9263",
+      "names": [
+        "Blues For Janet"
+      ],
+      "releases": [
+        {
+          "_id": "1791",
+          "names": [
+            "Nothing But The Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9264",
+      "names": [
+        "Big Red's Boogie Woogie"
+      ],
+      "releases": [
+        {
+          "_id": "1791",
+          "names": [
+            "Nothing But The Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9265",
+      "names": [
+        "Tin Roof Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1791",
+          "names": [
+            "Nothing But The Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9266",
+      "names": [
+        "Royal Garden Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1791",
+          "names": [
+            "Nothing But The Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9267",
+      "names": [
+        "Blues For Junior"
+      ],
+      "releases": [
+        {
+          "_id": "1791",
+          "names": [
+            "Nothing But The Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9268",
+      "names": [
+        "Soft Winds"
+      ],
+      "releases": [
+        {
+          "_id": "1791",
+          "names": [
+            "Nothing But The Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9269",
+      "names": [
+        "Pap's Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1791",
+          "names": [
+            "Nothing But The Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Louis Armstrong",
       "targetId": "1785",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Barney Bigard",
       "targetId": "1903",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Ray Brown",
       "targetId": "1925",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "9262",
+        "9263",
+        "9264",
+        "9265",
+        "9266",
+        "9267",
+        "9268",
+        "9269"
+      ]
     },
     {
       "name": "Stan Levey",
       "targetId": "1932",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "9262",
+        "9263",
+        "9264",
+        "9265",
+        "9266",
+        "9267",
+        "9268",
+        "9269"
+      ]
     },
     {
       "name": "Billie Holiday",
       "targetId": "2704",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6101"
+      ]
     },
     {
       "name": "Stan Getz",
       "targetId": "4089",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "9262",
+        "9263",
+        "9264",
+        "9265",
+        "9266",
+        "9267",
+        "9268",
+        "9269"
+      ]
     },
     {
       "name": "Toots Thielemans",
       "targetId": "4291",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5440"
+      ]
     },
     {
       "name": "Dick Hyman",
       "targetId": "5520",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5440"
+      ]
     },
     {
       "name": "Zoot Sims",
       "targetId": "5525",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5440"
+      ]
     },
     {
       "name": "Ed Shaughnessy",
       "targetId": "5526",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5440"
+      ]
     },
     {
       "name": "Charlie Short",
       "targetId": "5527",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5440"
+      ]
     },
     {
       "name": "Benny Goodman",
       "targetId": "5528",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5440"
+      ]
     },
     {
       "name": "Oscar Pettiford",
       "targetId": "6028",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Sidney Catlett",
       "targetId": "6029",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Art Tatum",
       "targetId": "6030",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Coleman Hawkins",
       "targetId": "6031",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Jack Teagarden",
       "targetId": "6032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6101"
+      ]
     },
     {
       "name": "Al Casey",
       "targetId": "6033",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Lionel Hampton",
       "targetId": "6034",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Herb Ellis",
       "targetId": "7153",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "9262",
+        "9263",
+        "9264",
+        "9265",
+        "9266",
+        "9267",
+        "9268",
+        "9269"
+      ]
     }
   ]
 }

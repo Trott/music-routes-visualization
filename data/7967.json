@@ -1,41 +1,113 @@
 {
   "source": "Paul Harte",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8469",
+      "names": [
+        "Medication"
+      ],
+      "releases": [
+        {
+          "_id": "1636",
+          "names": [
+            "Vanishing Point"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1251",
+          "names": [
+            "Primal Scream"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8470",
+      "names": [
+        "Motörhead"
+      ],
+      "releases": [
+        {
+          "_id": "1636",
+          "names": [
+            "Vanishing Point"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1251",
+          "names": [
+            "Primal Scream"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Glen Matlock",
       "targetId": "2672",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8469"
+      ]
     },
     {
       "name": "Andrew Innes",
       "targetId": "7956",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8469",
+        "8470"
+      ]
     },
     {
       "name": "Bobby Gillespie",
       "targetId": "7957",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8469",
+        "8470"
+      ]
     },
     {
       "name": "Gary \"Mani\" Mounfield",
       "targetId": "7958",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8470"
+      ]
     },
     {
       "name": "Martin Duffy",
       "targetId": "7959",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8469",
+        "8470"
+      ]
     },
     {
       "name": "Paul Mulreany",
       "targetId": "7960",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8469",
+        "8470"
+      ]
     },
     {
       "name": "Robert Young",
       "targetId": "7961",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8469",
+        "8470"
+      ]
     }
   ]
 }

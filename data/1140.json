@@ -1,11 +1,38 @@
 {
   "source": "Édith Piaf",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "732",
+      "names": [
+        "Ça gueule ça, madame"
+      ],
+      "releases": [
+        {
+          "_id": "253",
+          "names": [
+            "La Gualante du Pauvre Jean"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "177",
+          "names": [
+            "Édith Piaf"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jacques Pills",
       "targetId": "1142",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "732"
+      ]
     }
   ]
 }

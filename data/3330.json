@@ -1,16 +1,46 @@
 {
   "source": "Curley Sechler",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3016",
+      "names": [
+        "What Is Home Without Love?"
+      ],
+      "releases": [
+        {
+          "_id": "657",
+          "names": [
+            "Doc & Dawg"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "514",
+          "names": [
+            "Doc Watson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Grisman",
       "targetId": "2115",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3016"
+      ]
     },
     {
       "name": "Doc Watson",
       "targetId": "3328",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3016"
+      ]
     }
   ]
 }

@@ -1,71 +1,191 @@
 {
   "source": "Liam O'Floinn",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "4557",
+      "names": [
+        "Hoedown At Alice's"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4563",
+      "names": [
+        "Freddie's Lilt"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4566",
+      "names": [
+        "Calico Train"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stuart Duncan",
       "targetId": "587",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4566"
+      ]
     },
     {
       "name": "Steve Martin",
       "targetId": "3338",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4557",
+        "4563",
+        "4566"
+      ]
     },
     {
       "name": "Craig Eastman",
       "targetId": "4825",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4557",
+        "4563",
+        "4566"
+      ]
     },
     {
       "name": "Kenny Malone",
       "targetId": "4826",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4563",
+        "4566"
+      ]
     },
     {
       "name": "Bruce Martin",
       "targetId": "4827",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4566"
+      ]
     },
     {
       "name": "John McEuen",
       "targetId": "4828",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4566"
+      ]
     },
     {
       "name": "Skip Ward",
       "targetId": "4829",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4557",
+        "4563",
+        "4566"
+      ]
     },
     {
       "name": "Russ Barenberg",
       "targetId": "4831",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4557",
+        "4563"
+      ]
     },
     {
       "name": "Matt Flinner",
       "targetId": "4833",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4557",
+        "4563",
+        "4566"
+      ]
     },
     {
       "name": "Brittany Haas",
       "targetId": "4834",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4557",
+        "4563",
+        "4566"
+      ]
     },
     {
       "name": "Hans Olson",
       "targetId": "4836",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4566"
+      ]
     },
     {
       "name": "David Amram",
       "targetId": "4840",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4563",
+        "4566"
+      ]
     },
     {
       "name": "Mary Black",
       "targetId": "4841",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4566"
+      ]
     }
   ]
 }

@@ -1,96 +1,255 @@
 {
   "source": "Matt Betton",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2563",
+      "names": [
+        "I Don't Know (Spicoli's Theme)"
+      ],
+      "releases": [
+        {
+          "_id": "480",
+          "names": [
+            "Fast Times At Ridgemont High: Music From The Motion Picture"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5644",
+      "names": [
+        "Coconut Telegraph"
+      ],
+      "releases": [
+        {
+          "_id": "1114",
+          "names": [
+            "Coconut Telegraph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5645",
+      "names": [
+        "It's My Job"
+      ],
+      "releases": [
+        {
+          "_id": "1114",
+          "names": [
+            "Coconut Telegraph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5646",
+      "names": [
+        "Stars Fell On Alabama"
+      ],
+      "releases": [
+        {
+          "_id": "1114",
+          "names": [
+            "Coconut Telegraph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "J.D. Souther",
       "targetId": "390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5645"
+      ]
     },
     {
       "name": "Jimmy Buffett",
       "targetId": "1782",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2563",
+        "5644",
+        "5645",
+        "5646"
+      ]
     },
     {
       "name": "Deborah McColl",
       "targetId": "3051",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2563",
+        "5644"
+      ]
     },
     {
       "name": "Katie Moffatt",
       "targetId": "3052",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2563"
+      ]
     },
     {
       "name": "David Jackson",
       "targetId": "3053",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2563"
+      ]
     },
     {
       "name": "Josh Leo",
       "targetId": "3055",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2563",
+        "5644",
+        "5645",
+        "5646"
+      ]
     },
     {
       "name": "Sam Clayton",
       "targetId": "3056",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2563"
+      ]
     },
     {
       "name": "Michael Utley",
       "targetId": "3057",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2563",
+        "5645",
+        "5646"
+      ]
     },
     {
       "name": "David \"Hawk\" Wolinski",
       "targetId": "3058",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2563"
+      ]
     },
     {
       "name": "Mac McAnally",
       "targetId": "3134",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5645"
+      ]
     },
     {
       "name": "Barry Chance",
       "targetId": "5650",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5644",
+        "5645",
+        "5646"
+      ]
     },
     {
       "name": "Andy McMahon",
       "targetId": "5651",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "David Briggs",
       "targetId": "5652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5644"
+      ]
     },
     {
       "name": "Harry Dailey",
       "targetId": "5653",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "M.L. Benoit",
       "targetId": "5654",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5644",
+        "5645"
+      ]
     },
     {
       "name": "Greg \"Fingers\" Taylor",
       "targetId": "5655",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5645",
+        "5646"
+      ]
     },
     {
       "name": "Norbert Putnam",
       "targetId": "5656",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     },
     {
       "name": "Dominic Cortese",
       "targetId": "5657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     }
   ]
 }

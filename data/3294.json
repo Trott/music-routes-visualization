@@ -1,76 +1,286 @@
 {
   "source": "Steve Kellner",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "2958",
+      "names": [
+        "Edvard Kiraly"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2962",
+      "names": [
+        "Occupation"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2966",
+      "names": [
+        "Toll (II)"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2970",
+      "names": [
+        "Partisans"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2971",
+      "names": [
+        "Modern Times"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2984",
+      "names": [
+        "Pours Out Your Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "654",
+          "names": [
+            "How Bizarre"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "513",
+          "names": [
+            "OMC"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2985",
+      "names": [
+        "She Loves Italian"
+      ],
+      "releases": [
+        {
+          "_id": "654",
+          "names": [
+            "How Bizarre"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "513",
+          "names": [
+            "OMC"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Marshall",
       "targetId": "1951",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2970",
+        "2971"
+      ]
     },
     {
       "name": "Chris Cutler",
       "targetId": "3292",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2970",
+        "2971"
+      ]
     },
     {
       "name": "Richard Wolfson",
       "targetId": "3293",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "2958",
+        "2962",
+        "2966",
+        "2970",
+        "2971"
+      ]
     },
     {
       "name": "Andy Saunders",
       "targetId": "3295",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2958",
+        "2962",
+        "2966"
+      ]
     },
     {
       "name": "Malcolm Miller",
       "targetId": "3297",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2966"
+      ]
     },
     {
       "name": "Endre Szkárosi",
       "targetId": "3298",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2958",
+        "2966",
+        "2970"
+      ]
     },
     {
       "name": "Aleksander Kolkowski",
       "targetId": "3301",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2958",
+        "2970"
+      ]
     },
     {
       "name": "Elton Dean",
       "targetId": "3302",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2962"
+      ]
     },
     {
       "name": "Tim Roseman",
       "targetId": "3305",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2962"
+      ]
     },
     {
       "name": "Gaspar Lawal",
       "targetId": "3306",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2966"
+      ]
     },
     {
       "name": "Pauly Fuemana",
       "targetId": "3310",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2984",
+        "2985"
+      ]
     },
     {
       "name": "Steve Robinson",
       "targetId": "3311",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2984"
+      ]
     },
     {
       "name": "Geoffrey Heath",
       "targetId": "3312",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2984"
+      ]
     },
     {
       "name": "Mia Camilleri",
       "targetId": "3313",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2984"
+      ]
     }
   ]
 }

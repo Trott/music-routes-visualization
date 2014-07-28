@@ -1,21 +1,77 @@
 {
   "source": "Stu Hake",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7665",
+      "names": [
+        "Sometimes Comes The Pain"
+      ],
+      "releases": [
+        {
+          "_id": "1521",
+          "names": [
+            "Mind At Large"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1168",
+          "names": [
+            "Joel Godfrey Primer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7666",
+      "names": [
+        "Desert Sunrise, January 15"
+      ],
+      "releases": [
+        {
+          "_id": "1521",
+          "names": [
+            "Mind At Large"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1168",
+          "names": [
+            "Joel Godfrey Primer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Claude Coleman",
       "targetId": "7321",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7666"
+      ]
     },
     {
       "name": "Joel Godfrey Primer",
       "targetId": "7323",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7665",
+        "7666"
+      ]
     },
     {
       "name": "Matt Snyder",
       "targetId": "7324",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7666"
+      ]
     }
   ]
 }

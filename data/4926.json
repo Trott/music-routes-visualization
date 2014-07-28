@@ -1,26 +1,62 @@
 {
   "source": "David McNulty",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4627",
+      "names": [
+        "Bitches Brew"
+      ],
+      "releases": [
+        {
+          "_id": "946",
+          "names": [
+            "One"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "745",
+          "names": [
+            "NoMeansNo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Wright",
       "targetId": "4922",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4627"
+      ]
     },
     {
       "name": "Rob Wright",
       "targetId": "4923",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4627"
+      ]
     },
     {
       "name": "Tom Holliston",
       "targetId": "4924",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4627"
+      ]
     },
     {
       "name": "Mark Critchley",
       "targetId": "4925",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4627"
+      ]
     }
   ]
 }

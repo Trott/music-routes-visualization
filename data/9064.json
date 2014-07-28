@@ -1,31 +1,92 @@
 {
   "source": "Robert Heaton",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9820",
+      "names": [
+        "Space"
+      ],
+      "releases": [
+        {
+          "_id": "1884",
+          "names": [
+            "Impurity"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1456",
+          "names": [
+            "New Model Army"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9821",
+      "names": [
+        "Dragons And Fables"
+      ],
+      "releases": [
+        {
+          "_id": "1885",
+          "names": [
+            "Independent Days, Vols. 1 & 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "687",
+          "names": [
+            "Hawkwind"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Brock",
       "targetId": "4470",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9821"
+      ]
     },
     {
       "name": "Justin Sullivan",
       "targetId": "9065",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9820"
+      ]
     },
     {
       "name": "Joolz Denby",
       "targetId": "9066",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9820"
+      ]
     },
     {
       "name": "Harvey Bainbridge",
       "targetId": "9067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9821"
+      ]
     },
     {
       "name": "Huw Lloyd-Langton",
       "targetId": "9068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9821"
+      ]
     }
   ]
 }

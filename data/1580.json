@@ -1,26 +1,84 @@
 {
   "source": "Morrissey",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1068",
+      "names": [
+        "Interlude"
+      ],
+      "releases": [
+        {
+          "_id": "310",
+          "names": [
+            "Suedehead: The Best Of Morrissey"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "225",
+          "names": [
+            "Morrissey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4905",
+      "names": [
+        "Bigmouth Strikes Again"
+      ],
+      "releases": [
+        {
+          "_id": "989",
+          "names": [
+            "Singles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "784",
+          "names": [
+            "The Smiths"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Siouxsie Sioux",
       "targetId": "361",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1068"
+      ]
     },
     {
       "name": "Johnny Marr",
       "targetId": "2966",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4905"
+      ]
     },
     {
       "name": "Andy Rourke",
       "targetId": "5054",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4905"
+      ]
     },
     {
       "name": "Mike Joyce",
       "targetId": "5055",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4905"
+      ]
     }
   ]
 }

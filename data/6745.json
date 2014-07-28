@@ -1,11 +1,38 @@
 {
   "source": "Clarence Fountain",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6891",
+      "names": [
+        "Oh Come All Ye Faithful"
+      ],
+      "releases": [
+        {
+          "_id": "1375",
+          "names": [
+            "Go Tell It On The Mountain"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1059",
+          "names": [
+            "Blind Boys Of Alabama"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Meshell Ndegeocello",
       "targetId": "6729",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6891"
+      ]
     }
   ]
 }

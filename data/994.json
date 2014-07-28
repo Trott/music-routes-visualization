@@ -1,136 +1,369 @@
 {
   "source": "Doris Troy",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "543",
+      "names": [
+        "Night Owl"
+      ],
+      "releases": [
+        {
+          "_id": "226",
+          "names": [
+            "No Secrets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "160",
+          "names": [
+            "Carly Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1789",
+      "names": [
+        "You Can't Always Get What You Want"
+      ],
+      "releases": [
+        {
+          "_id": "399",
+          "names": [
+            "Let It Bleed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1793",
+      "names": [
+        "Time"
+      ],
+      "releases": [
+        {
+          "_id": "400",
+          "names": [
+            "The Dark Side Of The Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "45",
+          "names": [
+            "Pink Floyd"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1796",
+      "names": [
+        "Us And Them"
+      ],
+      "releases": [
+        {
+          "_id": "400",
+          "names": [
+            "The Dark Side Of The Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "45",
+          "names": [
+            "Pink Floyd"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1798",
+      "names": [
+        "Brain Damage"
+      ],
+      "releases": [
+        {
+          "_id": "400",
+          "names": [
+            "The Dark Side Of The Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "45",
+          "names": [
+            "Pink Floyd"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1799",
+      "names": [
+        "Eclipse"
+      ],
+      "releases": [
+        {
+          "_id": "400",
+          "names": [
+            "The Dark Side Of The Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "45",
+          "names": [
+            "Pink Floyd"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "David Gilmour",
       "targetId": "275",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1793",
+        "1796",
+        "1798",
+        "1799"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Bill Wyman",
       "targetId": "304",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Mick Jagger",
       "targetId": "305",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Al Kooper",
       "targetId": "559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Linda McCartney",
       "targetId": "631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Madeline Bell",
       "targetId": "810",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Lesley Duncan",
       "targetId": "812",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1793",
+        "1796",
+        "1798",
+        "1799"
+      ]
     },
     {
       "name": "Carly Simon",
       "targetId": "979",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Jimmy Ryan",
       "targetId": "980",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Ray Cooper",
       "targetId": "981",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Liza Strike",
       "targetId": "983",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1793",
+        "1796",
+        "1798",
+        "1799"
+      ]
     },
     {
       "name": "Nicky Hopkins",
       "targetId": "985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Bonnie Bramlett",
       "targetId": "992",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Bobby Keys",
       "targetId": "993",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Jimmy Miller",
       "targetId": "1997",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Nanette Newman",
       "targetId": "1998",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Rocky Dijon",
       "targetId": "2000",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Nick Mason",
       "targetId": "2001",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1793",
+        "1796",
+        "1798",
+        "1799"
+      ]
     },
     {
       "name": "Richard Wright",
       "targetId": "2002",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1793",
+        "1796",
+        "1798",
+        "1799"
+      ]
     },
     {
       "name": "Roger Waters",
       "targetId": "2003",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1793",
+        "1796",
+        "1798",
+        "1799"
+      ]
     },
     {
       "name": "Dick Parry",
       "targetId": "2004",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1796"
+      ]
     },
     {
       "name": "Barry St. John",
       "targetId": "2006",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1793",
+        "1796",
+        "1798",
+        "1799"
+      ]
     }
   ]
 }

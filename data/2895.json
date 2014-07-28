@@ -1,26 +1,62 @@
 {
   "source": "Todd Sucherman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2347",
+      "names": [
+        "I Am The Walrus"
+      ],
+      "releases": [
+        {
+          "_id": "591",
+          "names": [
+            "Big Bang Theory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "453",
+          "names": [
+            "Styx"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tommy Shaw",
       "targetId": "2889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2347"
+      ]
     },
     {
       "name": "Ricky Phillips",
       "targetId": "2891",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2347"
+      ]
     },
     {
       "name": "James \"J.Y.\" Young",
       "targetId": "2893",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2347"
+      ]
     },
     {
       "name": "Lawrence Gowan",
       "targetId": "2894",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2347"
+      ]
     }
   ]
 }

@@ -1,121 +1,398 @@
 {
   "source": "Don Was",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "6110",
+      "names": [
+        "Under The Red Sky"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6111",
+      "names": [
+        "Unbelievable"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6114",
+      "names": [
+        "10,000 Men"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6116",
+      "names": [
+        "God Knows"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6117",
+      "names": [
+        "Handy Dandy"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6118",
+      "names": [
+        "Cat's In The Well"
+      ],
+      "releases": [
+        {
+          "_id": "1227",
+          "names": [
+            "Under The Red Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8779",
+      "names": [
+        "What Was It You Wanted"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "113",
+          "names": [
+            "Willie Nelson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8780",
+      "names": [
+        "I'll Be Your Baby Tonight"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1290",
+          "names": [
+            "Kris Kristofferson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6110"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6110",
+        "6111",
+        "6114",
+        "6116",
+        "6117",
+        "6118"
+      ]
     },
     {
       "name": "Willie Nelson",
       "targetId": "68",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Waddy Wachtel",
       "targetId": "386",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6110",
+        "6111",
+        "6117"
+      ]
     },
     {
       "name": "Paulinho Da Costa",
       "targetId": "411",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6116",
+        "6117"
+      ]
     },
     {
       "name": "Al Kooper",
       "targetId": "559",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6110",
+        "6111",
+        "6117"
+      ]
     },
     {
       "name": "Kris Kristofferson",
       "targetId": "570",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8780"
+      ]
     },
     {
       "name": "David Lindley",
       "targetId": "641",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Mickey Raphael",
       "targetId": "654",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Anton Fig",
       "targetId": "1036",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "Reggie Young",
       "targetId": "1102",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Stevie Ray Vaughan",
       "targetId": "4014",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6114",
+        "6116",
+        "6118"
+      ]
     },
     {
       "name": "Kenny Aronoff",
       "targetId": "4158",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6110",
+        "6111",
+        "6114",
+        "6116",
+        "6117",
+        "6118"
+      ]
     },
     {
       "name": "Jimmie Vaughan",
       "targetId": "6056",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6114",
+        "6116",
+        "6117",
+        "6118"
+      ]
     },
     {
       "name": "\"Sweet Pea\" Atkinson",
       "targetId": "6057",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6117"
+      ]
     },
     {
       "name": "Harry Bowens",
       "targetId": "6058",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6117"
+      ]
     },
     {
       "name": "Donald Ray Mitchell",
       "targetId": "6059",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6117"
+      ]
     },
     {
       "name": "David Was",
       "targetId": "6060",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6117"
+      ]
     },
     {
       "name": "David McMurray",
       "targetId": "6061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6118"
+      ]
     },
     {
       "name": "Rayse Biggs",
       "targetId": "6062",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6118"
+      ]
     }
   ]
 }

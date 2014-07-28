@@ -1,21 +1,54 @@
 {
   "source": "Justin Warfield",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7645",
+      "names": [
+        "Kling To The Wreckage"
+      ],
+      "releases": [
+        {
+          "_id": "1518",
+          "names": [
+            "Divided By Night"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1165",
+          "names": [
+            "The Crystal Method"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ken Jordan",
       "targetId": "7309",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7645"
+      ]
     },
     {
       "name": "Scott Kirkland",
       "targetId": "7310",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7645"
+      ]
     },
     {
       "name": "Stefanie King Warfield",
       "targetId": "7313",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7645"
+      ]
     }
   ]
 }

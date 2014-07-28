@@ -1,31 +1,95 @@
 {
   "source": "Brian Young",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1167",
+      "names": [
+        "Martin Eden"
+      ],
+      "releases": [
+        {
+          "_id": "324",
+          "names": [
+            "Blackberry Belle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3317",
+      "names": [
+        "Black Is The Color Of My True Love's Hair"
+      ],
+      "releases": [
+        {
+          "_id": "690",
+          "names": [
+            "She Loves You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Greg Dulli",
       "targetId": "1641",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1167",
+        "3317"
+      ]
     },
     {
       "name": "Jon Skibic",
       "targetId": "1642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3317"
+      ]
     },
     {
       "name": "Mathias Schneeberger",
       "targetId": "1643",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1167",
+        "3317"
+      ]
     },
     {
       "name": "Scott Ford",
       "targetId": "1644",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1167",
+        "3317"
+      ]
     },
     {
       "name": "Molly McGuire",
       "targetId": "1858",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3317"
+      ]
     }
   ]
 }

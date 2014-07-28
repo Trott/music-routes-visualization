@@ -1,26 +1,86 @@
 {
   "source": "Joey Covington",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1603",
+      "names": [
+        "Mau Mau (Amerikon)"
+      ],
+      "releases": [
+        {
+          "_id": "375",
+          "names": [
+            "Blows Against The Empire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "268",
+          "names": [
+            "Jefferson Starship"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1608",
+      "names": [
+        "Hijack"
+      ],
+      "releases": [
+        {
+          "_id": "375",
+          "names": [
+            "Blows Against The Empire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "268",
+          "names": [
+            "Jefferson Starship"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Graham Nash",
       "targetId": "639",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1608"
+      ]
     },
     {
       "name": "Grace Slick",
       "targetId": "738",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1603",
+        "1608"
+      ]
     },
     {
       "name": "Paul Kantner",
       "targetId": "1868",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1603",
+        "1608"
+      ]
     },
     {
       "name": "Peter Kaukonen",
       "targetId": "1870",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1603"
+      ]
     }
   ]
 }

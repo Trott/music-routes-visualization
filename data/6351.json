@@ -1,36 +1,128 @@
 {
   "source": "Rachid Guissous",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6510",
+      "names": [
+        "Le Toi Du Moi"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6513",
+      "names": [
+        "Le Plus Beau Du Quartier"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6514",
+      "names": [
+        "Chanson Triste"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carla Bruni",
       "targetId": "6343",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6510",
+        "6513",
+        "6514"
+      ]
     },
     {
       "name": "Louis Bertignac",
       "targetId": "6344",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6510",
+        "6513",
+        "6514"
+      ]
     },
     {
       "name": "Laurent Vernerey",
       "targetId": "6346",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6510",
+        "6514"
+      ]
     },
     {
       "name": "Steve Shehan",
       "targetId": "6347",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6513"
+      ]
     },
     {
       "name": "Léna Fablet",
       "targetId": "6349",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6513"
+      ]
     },
     {
       "name": "Régis Ceccarelli",
       "targetId": "6350",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6510",
+        "6514"
+      ]
     }
   ]
 }

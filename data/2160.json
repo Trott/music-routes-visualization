@@ -1,41 +1,108 @@
 {
   "source": "Terry Butler",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2007",
+      "names": [
+        "Spiritual Healing"
+      ],
+      "releases": [
+        {
+          "_id": "451",
+          "names": [
+            "Spiritual Healing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "334",
+          "names": [
+            "Death"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2008",
+      "names": [
+        "War Machine"
+      ],
+      "releases": [
+        {
+          "_id": "452",
+          "names": [
+            "Maximum Violence"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "335",
+          "names": [
+            "Six Feet Under"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "James Murphy",
       "targetId": "2155",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2007"
+      ]
     },
     {
       "name": "Chuck Schuldiner",
       "targetId": "2159",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2007"
+      ]
     },
     {
       "name": "Bill Andrews",
       "targetId": "2161",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2007"
+      ]
     },
     {
       "name": "Eric Greif",
       "targetId": "2162",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2007"
+      ]
     },
     {
       "name": "Steve Swanson",
       "targetId": "2163",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2008"
+      ]
     },
     {
       "name": "Greg Gall",
       "targetId": "2164",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2008"
+      ]
     },
     {
       "name": "Chris Barnes",
       "targetId": "2165",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2008"
+      ]
     }
   ]
 }

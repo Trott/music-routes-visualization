@@ -1,26 +1,87 @@
 {
   "source": "Vinnie Moore",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "886",
+      "names": [
+        "Hurricane Years"
+      ],
+      "releases": [
+        {
+          "_id": "274",
+          "names": [
+            "Hey Stoopid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "889",
+      "names": [
+        "Dirty Dreams"
+      ],
+      "releases": [
+        {
+          "_id": "274",
+          "names": [
+            "Hey Stoopid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alice Cooper",
       "targetId": "1285",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "886",
+        "889"
+      ]
     },
     {
       "name": "Hugh McDonald",
       "targetId": "1288",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "886",
+        "889"
+      ]
     },
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "886",
+        "889"
+      ]
     },
     {
       "name": "Stef Burns",
       "targetId": "1290",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "886"
+      ]
     }
   ]
 }

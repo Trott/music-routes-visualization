@@ -1,11 +1,38 @@
 {
   "source": "Jared Cotter",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8766",
+      "names": [
+        "Stuck In The Middle"
+      ],
+      "releases": [
+        {
+          "_id": "1681",
+          "names": [
+            "All Or Nothing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1284",
+          "names": [
+            "Jay Sean"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jay Sean",
       "targetId": "8130",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8766"
+      ]
     }
   ]
 }

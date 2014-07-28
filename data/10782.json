@@ -1,11 +1,61 @@
 {
   "source": "Kirsten Dunst",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13273",
+      "names": [
+        "This Old Machine"
+      ],
+      "releases": [
+        {
+          "_id": "1119",
+          "names": [
+            "Nighttiming"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "873",
+          "names": [
+            "Coconut Records"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13275",
+      "names": [
+        "Summer Day"
+      ],
+      "releases": [
+        {
+          "_id": "1119",
+          "names": [
+            "Nighttiming"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "873",
+          "names": [
+            "Coconut Records"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jason Schwartzman",
       "targetId": "5670",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13273",
+        "13275"
+      ]
     }
   ]
 }

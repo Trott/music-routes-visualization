@@ -1,16 +1,74 @@
 {
   "source": "Marie Osmond",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9147",
+      "names": [
+        "You're Still New To Me"
+      ],
+      "releases": [
+        {
+          "_id": "1751",
+          "names": [
+            "Dancing With The Best Of Marie Osmond"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1353",
+          "names": [
+            "Marie Osmond"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9148",
+      "names": [
+        "I'm Leaving It All Up To You"
+      ],
+      "releases": [
+        {
+          "_id": "1752",
+          "names": [
+            "20th Century Masters: The Millennium Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1353",
+          "names": [
+            "Marie Osmond"
+          ]
+        },
+        {
+          "_id": "1354",
+          "names": [
+            "Donny Osmond"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Davis",
       "targetId": "318",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9147"
+      ]
     },
     {
       "name": "Donny Osmond",
       "targetId": "7217",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9148"
+      ]
     }
   ]
 }

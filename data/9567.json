@@ -1,16 +1,46 @@
 {
   "source": "Fayette Pinkney",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10806",
+      "names": [
+        "When Will I See You Again"
+      ],
+      "releases": [
+        {
+          "_id": "2063",
+          "names": [
+            "The 70's - 1974 - CD 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1577",
+          "names": [
+            "The Three Degrees"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sheila Ferguson",
       "targetId": "9565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10806"
+      ]
     },
     {
       "name": "Valerie Holiday",
       "targetId": "9566",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10806"
+      ]
     }
   ]
 }

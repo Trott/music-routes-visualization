@@ -1,36 +1,100 @@
 {
   "source": "Helen O'Connell",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6944",
+      "names": [
+        "Surrey With The Fringe On Top"
+      ],
+      "releases": [
+        {
+          "_id": "1387",
+          "names": [
+            "Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "573",
+          "names": [
+            "Bing Crosby"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8784",
+      "names": [
+        "When The Ship Comes In"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1293",
+          "names": [
+            "The Clancy Brothers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bing Crosby",
       "targetId": "1791",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6944"
+      ]
     },
     {
       "name": "Liam Clancy",
       "targetId": "8154",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8784"
+      ]
     },
     {
       "name": "Tommy Makem",
       "targetId": "8155",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8784"
+      ]
     },
     {
       "name": "Bobby Clancy",
       "targetId": "8160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8784"
+      ]
     },
     {
       "name": "Paddy Clancy",
       "targetId": "8161",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8784"
+      ]
     },
     {
       "name": "G.E. Smith",
       "targetId": "8167",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8784"
+      ]
     }
   ]
 }

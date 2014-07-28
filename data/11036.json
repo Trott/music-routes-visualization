@@ -1,16 +1,46 @@
 {
   "source": "Al Bello",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13471",
+      "names": [
+        "Stone Cold Dead In The Market"
+      ],
+      "releases": [
+        {
+          "_id": "2477",
+          "names": [
+            "Miss Calypso"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1761",
+          "names": [
+            "Maya Angelou"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Maya Angelou",
       "targetId": "11035",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13471"
+      ]
     },
     {
       "name": "Tommy Tedesco",
       "targetId": "1529",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13471"
+      ]
     }
   ]
 }

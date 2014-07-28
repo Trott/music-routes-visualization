@@ -1,61 +1,252 @@
 {
   "source": "Dodo Marmarosa",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "12177",
+      "names": [
+        "Moose The Mooche"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12178",
+      "names": [
+        "Yardbird Suite"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12179",
+      "names": [
+        "Ornithology"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12180",
+      "names": [
+        "A Night In Tunisia"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12182",
+      "names": [
+        "Relaxin' At Camarillo"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12183",
+      "names": [
+        "Stupendous"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Red Callender",
       "targetId": "382",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12177",
+        "12178",
+        "12179",
+        "12180"
+      ]
     },
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Lucky Thompson",
       "targetId": "1930",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12177",
+        "12178",
+        "12179",
+        "12180"
+      ]
     },
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "12177",
+        "12178",
+        "12179",
+        "12180",
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Howard McGhee",
       "targetId": "10139",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Roy Porter",
       "targetId": "10141",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12177",
+        "12178",
+        "12179",
+        "12180"
+      ]
     },
     {
       "name": "Vic McMillan",
       "targetId": "10143",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12177",
+        "12178",
+        "12179",
+        "12180"
+      ]
     },
     {
       "name": "Arv Garrison",
       "targetId": "10144",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12178",
+        "12179",
+        "12180"
+      ]
     },
     {
       "name": "Wardell Gray",
       "targetId": "10146",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Don Lamond",
       "targetId": "10147",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     }
   ]
 }

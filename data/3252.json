@@ -1,46 +1,142 @@
 {
   "source": "A.J. Mogis",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2889",
+      "names": [
+        "A Scale, A Mirror, And Those Indifferent Clocks"
+      ],
+      "releases": [
+        {
+          "_id": "648",
+          "names": [
+            "Fevers And Mirrors"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "508",
+          "names": [
+            "Bright Eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10374",
+      "names": [
+        "Misuse Their Bodies"
+      ],
+      "releases": [
+        {
+          "_id": "2007",
+          "names": [
+            "Business Casual"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1548",
+          "names": [
+            "Beep Beep"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10375",
+      "names": [
+        "The Fluorescent Lights"
+      ],
+      "releases": [
+        {
+          "_id": "2007",
+          "names": [
+            "Business Casual"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1548",
+          "names": [
+            "Beep Beep"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Conor Oberst",
       "targetId": "3101",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2889"
+      ]
     },
     {
       "name": "Andy Lemaster",
       "targetId": "3249",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2889"
+      ]
     },
     {
       "name": "Clint Schnase",
       "targetId": "3250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2889"
+      ]
     },
     {
       "name": "Jiha Lee",
       "targetId": "3251",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2889"
+      ]
     },
     {
       "name": "Katie Muth",
       "targetId": "9440",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10374",
+        "10375"
+      ]
     },
     {
       "name": "Mike Sweeney",
       "targetId": "9441",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10374",
+        "10375"
+      ]
     },
     {
       "name": "Eric Bemberger",
       "targetId": "9442",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10374",
+        "10375"
+      ]
     },
     {
       "name": "Chris Hughes",
       "targetId": "9443",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10374",
+        "10375"
+      ]
     }
   ]
 }

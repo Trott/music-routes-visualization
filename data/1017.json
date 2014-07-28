@@ -1,191 +1,487 @@
 {
   "source": "Larry Klein",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "600",
+      "names": [
+        "Rottweiler Blues"
+      ],
+      "releases": [
+        {
+          "_id": "230",
+          "names": [
+            "Mutineer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "602",
+      "names": [
+        "Mutineer"
+      ],
+      "releases": [
+        {
+          "_id": "230",
+          "names": [
+            "Mutineer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2024",
+      "names": [
+        "Mercy Street"
+      ],
+      "releases": [
+        {
+          "_id": "459",
+          "names": [
+            "So"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "109",
+          "names": [
+            "Peter Gabriel"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2028",
+      "names": [
+        "In Your Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "459",
+          "names": [
+            "So"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "109",
+          "names": [
+            "Peter Gabriel"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2030",
+      "names": [
+        "Showdown At Big Sky"
+      ],
+      "releases": [
+        {
+          "_id": "460",
+          "names": [
+            "Robbie Robertson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "341",
+          "names": [
+            "Robbie Robertson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3150",
+      "names": [
+        "Dangerous Times"
+      ],
+      "releases": [
+        {
+          "_id": "672",
+          "names": [
+            "Cher"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "526",
+          "names": [
+            "Cher"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3844",
+      "names": [
+        "How Do You Stop"
+      ],
+      "releases": [
+        {
+          "_id": "782",
+          "names": [
+            "Turbulent Indigo"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "61",
+          "names": [
+            "Joni Mitchell"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10280",
+      "names": [
+        "The Heart Of The Matter"
+      ],
+      "releases": [
+        {
+          "_id": "1973",
+          "names": [
+            "The End Of The Innocence"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1523",
+          "names": [
+            "Don Henley"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robbie Robertson",
       "targetId": "31",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2030"
+      ]
     },
     {
       "name": "Joni Mitchell",
       "targetId": "47",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3844"
+      ]
     },
     {
       "name": "Tony Levin",
       "targetId": "269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2028"
+      ]
     },
     {
       "name": "Bill Payne",
       "targetId": "280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Carmen Twillie",
       "targetId": "282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10280"
+      ]
     },
     {
       "name": "Warren Zevon",
       "targetId": "346",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "600",
+        "602"
+      ]
     },
     {
       "name": "Don Henley",
       "targetId": "380",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10280"
+      ]
     },
     {
       "name": "Waddy Wachtel",
       "targetId": "386",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Carlos Vega",
       "targetId": "395",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3150",
+        "3844"
+      ]
     },
     {
       "name": "Michael Fisher",
       "targetId": "422",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Peter Gabriel",
       "targetId": "620",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2024",
+        "2028"
+      ]
     },
     {
       "name": "Manu Katché",
       "targetId": "621",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2028",
+        "2030"
+      ]
     },
     {
       "name": "Mike Campbell",
       "targetId": "646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10280"
+      ]
     },
     {
       "name": "Jerry Marotta",
       "targetId": "661",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2028"
+      ]
     },
     {
       "name": "David Rhodes",
       "targetId": "913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2028"
+      ]
     },
     {
       "name": "Mark Rivera",
       "targetId": "934",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2024"
+      ]
     },
     {
       "name": "Peter Asher",
       "targetId": "1014",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Rosemary Butler",
       "targetId": "1015",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "602",
+        "3150"
+      ]
     },
     {
       "name": "Julia Waters",
       "targetId": "1401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10280"
+      ]
     },
     {
       "name": "Maxine Waters",
       "targetId": "1402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10280"
+      ]
     },
     {
       "name": "Daniel Lanois",
       "targetId": "2195",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2030"
+      ]
     },
     {
       "name": "Jim Kerr",
       "targetId": "2200",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2028"
+      ]
     },
     {
       "name": "Michael Been",
       "targetId": "2201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2028"
+      ]
     },
     {
       "name": "Ronnie Bright",
       "targetId": "2202",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2028"
+      ]
     },
     {
       "name": "Youssou N'dour",
       "targetId": "2203",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2028"
+      ]
     },
     {
       "name": "Djalma Correa",
       "targetId": "2207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2024"
+      ]
     },
     {
       "name": "Richard Tee",
       "targetId": "2208",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2024",
+        "2028"
+      ]
     },
     {
       "name": "Bill Dillon",
       "targetId": "2210",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2030"
+      ]
     },
     {
       "name": "Sam Llanas",
       "targetId": "2211",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2030"
+      ]
     },
     {
       "name": "Kurt Neumann",
       "targetId": "2212",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2030"
+      ]
     },
     {
       "name": "Michael Landau",
       "targetId": "2220",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3150",
+        "3844"
+      ]
     },
     {
       "name": "Stan Lynch",
       "targetId": "2563",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10280"
+      ]
     },
     {
       "name": "Cher",
       "targetId": "3456",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Arnold McCuller",
       "targetId": "3481",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Bob Mann",
       "targetId": "3482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Seal",
       "targetId": "4007",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3844"
+      ]
     },
     {
       "name": "Steuart Smith",
       "targetId": "4008",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3844"
+      ]
     }
   ]
 }

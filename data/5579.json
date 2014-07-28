@@ -1,46 +1,118 @@
 {
   "source": "Scott Henderson",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5509",
+      "names": [
+        "The Combat Zone"
+      ],
+      "releases": [
+        {
+          "_id": "1092",
+          "names": [
+            "Kinesthetics"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "861",
+          "names": [
+            "Scott Kinsey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5516",
+      "names": [
+        "Shinjuku"
+      ],
+      "releases": [
+        {
+          "_id": "1092",
+          "names": [
+            "Kinesthetics"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "861",
+          "names": [
+            "Scott Kinsey"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Scott Kinsey",
       "targetId": "5576",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5509",
+        "5516"
+      ]
     },
     {
       "name": "Steve Tavaglione",
       "targetId": "5577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5509"
+      ]
     },
     {
       "name": "Tim Hagans",
       "targetId": "5578",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5509"
+      ]
     },
     {
       "name": "Jinshi Ozaki",
       "targetId": "5580",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5509"
+      ]
     },
     {
       "name": "Jimmy Earl",
       "targetId": "5581",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5509",
+        "5516"
+      ]
     },
     {
       "name": "Brad Dutz",
       "targetId": "5586",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5509"
+      ]
     },
     {
       "name": "Cyril Atef",
       "targetId": "5591",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5509"
+      ]
     },
     {
       "name": "Bruner, Jr., Ronald",
       "targetId": "5592",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5516"
+      ]
     }
   ]
 }

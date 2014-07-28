@@ -1,21 +1,54 @@
 {
   "source": "Linda Perry",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6644",
+      "names": [
+        "No Bravery"
+      ],
+      "releases": [
+        {
+          "_id": "1327",
+          "names": [
+            "Back To Bedlam"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1027",
+          "names": [
+            "James Blunt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "James Blunt",
       "targetId": "6506",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6644"
+      ]
     },
     {
       "name": "P. III",
       "targetId": "6518",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6644"
+      ]
     },
     {
       "name": "Brian McCloud",
       "targetId": "6519",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6644"
+      ]
     }
   ]
 }

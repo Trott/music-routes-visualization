@@ -1,26 +1,62 @@
 {
   "source": "Jennifer Cass",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2199",
+      "names": [
+        "On The Wings Of The Haoma"
+      ],
+      "releases": [
+        {
+          "_id": "521",
+          "names": [
+            "Book Of Horizons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "393",
+          "names": [
+            "Secret Chiefs 3"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Shahzad Ismaily",
       "targetId": "1245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2199"
+      ]
     },
     {
       "name": "William Winant",
       "targetId": "2642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2199"
+      ]
     },
     {
       "name": "Trey Spruance",
       "targetId": "2646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2199"
+      ]
     },
     {
       "name": "Ches Smith",
       "targetId": "2648",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2199"
+      ]
     }
   ]
 }

@@ -1,66 +1,217 @@
 {
   "source": "Shahzad Ismaily",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "830",
+      "names": [
+        "Midnight Rounders"
+      ],
+      "releases": [
+        {
+          "_id": "265",
+          "names": [
+            "Flowering Spade"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "188",
+          "names": [
+            "Sean Hayes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "831",
+      "names": [
+        "His Truth Is Marching On"
+      ],
+      "releases": [
+        {
+          "_id": "23",
+          "names": [
+            "Haughty Melodic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "22",
+          "names": [
+            "Mike Doughty"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2199",
+      "names": [
+        "On The Wings Of The Haoma"
+      ],
+      "releases": [
+        {
+          "_id": "521",
+          "names": [
+            "Book Of Horizons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "393",
+          "names": [
+            "Secret Chiefs 3"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4681",
+      "names": [
+        "Lucky Lucky Lucky"
+      ],
+      "releases": [
+        {
+          "_id": "954",
+          "names": [
+            "Hello, Voyager"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "752",
+          "names": [
+            "Evangelista"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4682",
+      "names": [
+        "Truth Is Dark Like Outer Space"
+      ],
+      "releases": [
+        {
+          "_id": "954",
+          "names": [
+            "Hello, Voyager"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "752",
+          "names": [
+            "Evangelista"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Doughty",
       "targetId": "36",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "831"
+      ]
     },
     {
       "name": "Carla Bozulich",
       "targetId": "759",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4681",
+        "4682"
+      ]
     },
     {
       "name": "Todd Roper",
       "targetId": "1242",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "830"
+      ]
     },
     {
       "name": "Sean Hayes",
       "targetId": "1244",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "830"
+      ]
     },
     {
       "name": "William Winant",
       "targetId": "2642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2199"
+      ]
     },
     {
       "name": "Trey Spruance",
       "targetId": "2646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2199"
+      ]
     },
     {
       "name": "Jennifer Cass",
       "targetId": "2647",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2199"
+      ]
     },
     {
       "name": "Ches Smith",
       "targetId": "2648",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2199"
+      ]
     },
     {
       "name": "Tara Barnes",
       "targetId": "4940",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4681",
+        "4682"
+      ]
     },
     {
       "name": "Nadia Moss",
       "targetId": "4941",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4681"
+      ]
     },
     {
       "name": "Jessica Moss",
       "targetId": "4942",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4681"
+      ]
     },
     {
       "name": "Efrim Menuck",
       "targetId": "4943",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4681",
+        "4682"
+      ]
     }
   ]
 }

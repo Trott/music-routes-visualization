@@ -1,21 +1,54 @@
 {
   "source": "Tim Hodgkinson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2960",
+      "names": [
+        "Not Me"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Richard Wolfson",
       "targetId": "3293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2960"
+      ]
     },
     {
       "name": "Andy Saunders",
       "targetId": "3295",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2960"
+      ]
     },
     {
       "name": "Endre Szkárosi",
       "targetId": "3298",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2960"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "MF Doom",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2070",
+      "names": [
+        "November Has Come"
+      ],
+      "releases": [
+        {
+          "_id": "471",
+          "names": [
+            "Demon Days"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "351",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Damon Albarn",
       "targetId": "2401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2070"
+      ]
     }
   ]
 }

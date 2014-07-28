@@ -1,106 +1,252 @@
 {
   "source": "Jay Graydon",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "275",
+      "names": [
+        "Peg"
+      ],
+      "releases": [
+        {
+          "_id": "173",
+          "names": [
+            "Aja"
+          ]
+        },
+        {
+          "_id": "2206",
+          "names": [
+            "Citizen Steely Dan: 1972-1980"
+          ]
+        },
+        {
+          "_id": "2207",
+          "names": [
+            "A Decade of Steely Dan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3286",
+      "names": [
+        "Say You'll Be Mine"
+      ],
+      "releases": [
+        {
+          "_id": "687",
+          "names": [
+            "Christopher Cross"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "539",
+          "names": [
+            "Christopher Cross"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3287",
+      "names": [
+        "I Really Don't Know Anymore"
+      ],
+      "releases": [
+        {
+          "_id": "687",
+          "names": [
+            "Christopher Cross"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "539",
+          "names": [
+            "Christopher Cross"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tom Scott",
       "targetId": "277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Rick Marotta",
       "targetId": "393",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Victor Feldman",
       "targetId": "396",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "275",
+        "3287"
+      ]
     },
     {
       "name": "Lenny Castro",
       "targetId": "405",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3286",
+        "3287"
+      ]
     },
     {
       "name": "Michael McDonald",
       "targetId": "717",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Donald Fagen",
       "targetId": "720",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Chuck Rainey",
       "targetId": "722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Paul Griffin",
       "targetId": "723",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Don Grolnick",
       "targetId": "724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Steve Khan",
       "targetId": "725",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Gary Coleman",
       "targetId": "727",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "275"
+      ]
     },
     {
       "name": "Michael Omartian",
       "targetId": "3247",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3286",
+        "3287"
+      ]
     },
     {
       "name": "Christopher Cross",
       "targetId": "3548",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3286",
+        "3287"
+      ]
     },
     {
       "name": "Andy Salmon",
       "targetId": "3549",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3286",
+        "3287"
+      ]
     },
     {
       "name": "Tommy Taylor",
       "targetId": "3550",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3286",
+        "3287"
+      ]
     },
     {
       "name": "Nicolette Larson",
       "targetId": "3551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3286"
+      ]
     },
     {
       "name": "Marti McCall",
       "targetId": "3552",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3287"
+      ]
     },
     {
       "name": "Myrna Matthews",
       "targetId": "3553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3287"
+      ]
     },
     {
       "name": "Stormie Omartian",
       "targetId": "3554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3287"
+      ]
     },
     {
       "name": "Rob Meurer",
       "targetId": "3555",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3287"
+      ]
     }
   ]
 }

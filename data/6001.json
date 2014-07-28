@@ -1,16 +1,46 @@
 {
   "source": "Sean Price",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6052",
+      "names": [
+        "Gunz 'N Onez"
+      ],
+      "releases": [
+        {
+          "_id": "1216",
+          "names": [
+            "Magnum Force"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "946",
+          "names": [
+            "Heltah Skeltah"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Method Man",
       "targetId": "4390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6052"
+      ]
     },
     {
       "name": "Jahmal Bush",
       "targetId": "6000",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6052"
+      ]
     }
   ]
 }

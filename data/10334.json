@@ -1,46 +1,123 @@
 {
   "source": "Frank Pagano",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12687",
+      "names": [
+        "Blood Brothers"
+      ],
+      "releases": [
+        {
+          "_id": "1106",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12688",
+      "names": [
+        "This Hard Land"
+      ],
+      "releases": [
+        {
+          "_id": "1106",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12687",
+        "12688"
+      ]
     },
     {
       "name": "Roy Bittan",
       "targetId": "463",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12687",
+        "12688"
+      ]
     },
     {
       "name": "Clarence Clemons",
       "targetId": "465",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12687",
+        "12688"
+      ]
     },
     {
       "name": "Danny Federici",
       "targetId": "466",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12687",
+        "12688"
+      ]
     },
     {
       "name": "Garry W. Tallent",
       "targetId": "467",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12687",
+        "12688"
+      ]
     },
     {
       "name": "Max Weinberg",
       "targetId": "468",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12687",
+        "12688"
+      ]
     },
     {
       "name": "Steve Van Zandt",
       "targetId": "5079",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12688"
+      ]
     },
     {
       "name": "Nils Lofgren",
       "targetId": "5631",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12687",
+        "12688"
+      ]
     }
   ]
 }

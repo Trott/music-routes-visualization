@@ -1,151 +1,378 @@
 {
   "source": "David Spinozza",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "753",
+      "names": [
+        "Run That Body Down"
+      ],
+      "releases": [
+        {
+          "_id": "256",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "180",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "755",
+      "names": [
+        "Me And Julio Down By The Schoolyard"
+      ],
+      "releases": [
+        {
+          "_id": "256",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "180",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "874",
+      "names": [
+        "You Girl"
+      ],
+      "releases": [
+        {
+          "_id": "271",
+          "names": [
+            "The Second Coming"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "193",
+          "names": [
+            "Jerry LaCroix"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "875",
+      "names": [
+        "Silent Is The Night"
+      ],
+      "releases": [
+        {
+          "_id": "271",
+          "names": [
+            "The Second Coming"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "193",
+          "names": [
+            "Jerry LaCroix"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2838",
+      "names": [
+        "God Give Me Strength"
+      ],
+      "releases": [
+        {
+          "_id": "642",
+          "names": [
+            "Painted From Memory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5938",
+      "names": [
+        "Which Way Are You Goin'"
+      ],
+      "releases": [
+        {
+          "_id": "1182",
+          "names": [
+            "The Faces I've Been"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "920",
+          "names": [
+            "Jim Croce"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Simon",
       "targetId": "79",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "753",
+        "755"
+      ]
     },
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "753"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2838"
+      ]
     },
     {
       "name": "Rick Marotta",
       "targetId": "393",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5938"
+      ]
     },
     {
       "name": "Randy Brecker",
       "targetId": "469",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "874"
+      ]
     },
     {
       "name": "David Sanborn",
       "targetId": "471",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "874"
+      ]
     },
     {
       "name": "Ron Carter",
       "targetId": "1201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "753"
+      ]
     },
     {
       "name": "Jerry Hahn",
       "targetId": "1203",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "753"
+      ]
     },
     {
       "name": "Mike Manieri",
       "targetId": "1204",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "753"
+      ]
     },
     {
       "name": "Airto Moreira",
       "targetId": "1207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "755"
+      ]
     },
     {
       "name": "Russell George",
       "targetId": "1208",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "755"
+      ]
     },
     {
       "name": "Jerry LaCroix",
       "targetId": "1269",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "874",
+        "875"
+      ]
     },
     {
       "name": "Richard Crooks",
       "targetId": "1270",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "874",
+        "875"
+      ]
     },
     {
       "name": "Stu Woods",
       "targetId": "1271",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "874",
+        "875",
+        "5938"
+      ]
     },
     {
       "name": "Bob Rose",
       "targetId": "1272",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "874",
+        "875"
+      ]
     },
     {
       "name": "Lewis Del Gatto",
       "targetId": "1274",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "874"
+      ]
     },
     {
       "name": "Robert Millikan",
       "targetId": "1275",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "874"
+      ]
     },
     {
       "name": "Gail Kantor",
       "targetId": "1276",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "875"
+      ]
     },
     {
       "name": "Laurel Anne Masse",
       "targetId": "1277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "875"
+      ]
     },
     {
       "name": "Merle Miller",
       "targetId": "1278",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "875"
+      ]
     },
     {
       "name": "T-Bone Wolk",
       "targetId": "1415",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2838"
+      ]
     },
     {
       "name": "Burt Bacharach",
       "targetId": "3221",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2838"
+      ]
     },
     {
       "name": "Chris Parker",
       "targetId": "3224",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2838"
+      ]
     },
     {
       "name": "Rob Mounsey",
       "targetId": "3226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2838"
+      ]
     },
     {
       "name": "David Mansfield",
       "targetId": "3619",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5938"
+      ]
     },
     {
       "name": "Maury Muehleisen",
       "targetId": "5871",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5938"
+      ]
     },
     {
       "name": "Tommy West",
       "targetId": "5872",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5938"
+      ]
     },
     {
       "name": "Jim Croce",
       "targetId": "5873",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5938"
+      ]
     },
     {
       "name": "George Devens",
       "targetId": "5874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5938"
+      ]
     }
   ]
 }

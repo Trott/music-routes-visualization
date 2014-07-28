@@ -1,21 +1,54 @@
 {
   "source": "Gene Lake",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6882",
+      "names": [
+        "Who Is He And What Is He To You"
+      ],
+      "releases": [
+        {
+          "_id": "1370",
+          "names": [
+            "Peace Beyond Passion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1057",
+          "names": [
+            "Meshell Ndegeocello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Preston",
       "targetId": "1674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6882"
+      ]
     },
     {
       "name": "Melvin \"Wah Wah\" Watson",
       "targetId": "3402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6882"
+      ]
     },
     {
       "name": "Meshell Ndegeocello",
       "targetId": "6729",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6882"
+      ]
     }
   ]
 }

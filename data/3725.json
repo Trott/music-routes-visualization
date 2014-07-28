@@ -1,31 +1,70 @@
 {
   "source": "Dave Weckl",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3599",
+      "names": [
+        "Sea Of Love"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3599"
+      ]
     },
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3599"
+      ]
     },
     {
       "name": "Paul Shaffer",
       "targetId": "1038",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3599"
+      ]
     },
     {
       "name": "Nile Rodgers",
       "targetId": "2204",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3599"
+      ]
     },
     {
       "name": "Wayne Pedziwiatr",
       "targetId": "3726",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3599"
+      ]
     }
   ]
 }

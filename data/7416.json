@@ -1,16 +1,46 @@
 {
   "source": "Vern Reed",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7789",
+      "names": [
+        "Lida Rose & Will I Ever Tell You?"
+      ],
+      "releases": [
+        {
+          "_id": "1536",
+          "names": [
+            "The Music Man (Warner Bros. film soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1178",
+          "names": [
+            "Shirley Jones & The Buffalo Bills"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Shirley Jones",
       "targetId": "1790",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7789"
+      ]
     },
     {
       "name": "Al Shea",
       "targetId": "7415",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7789"
+      ]
     }
   ]
 }

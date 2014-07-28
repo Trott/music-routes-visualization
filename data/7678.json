@@ -1,16 +1,46 @@
 {
   "source": "Liz Phair",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8083",
+      "names": [
+        "H.W.C."
+      ],
+      "releases": [
+        {
+          "_id": "1579",
+          "names": [
+            "Liz Phair"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1210",
+          "names": [
+            "Liz Phair"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pete Yorn",
       "targetId": "7677",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8083"
+      ]
     },
     {
       "name": "R. Walt Vincent",
       "targetId": "7679",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8083"
+      ]
     }
   ]
 }

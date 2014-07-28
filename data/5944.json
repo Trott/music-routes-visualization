@@ -1,21 +1,170 @@
 {
   "source": "Guy-Manuel de Homem-Christo",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "5999",
+      "names": [
+        "Da Funk"
+      ],
+      "releases": [
+        {
+          "_id": "1200",
+          "names": [
+            "Homework"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "933",
+          "names": [
+            "Daft Punk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6000",
+      "names": [
+        "Around The World"
+      ],
+      "releases": [
+        {
+          "_id": "1200",
+          "names": [
+            "Homework"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "933",
+          "names": [
+            "Daft Punk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6001",
+      "names": [
+        "Around The World / Harder Better Faster Stronger"
+      ],
+      "releases": [
+        {
+          "_id": "1201",
+          "names": [
+            "Alive 2007"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "933",
+          "names": [
+            "Daft Punk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6002",
+      "names": [
+        "One More Time"
+      ],
+      "releases": [
+        {
+          "_id": "1202",
+          "names": [
+            "Discovery"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "933",
+          "names": [
+            "Daft Punk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6003",
+      "names": [
+        "Too Long"
+      ],
+      "releases": [
+        {
+          "_id": "1202",
+          "names": [
+            "Discovery"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "933",
+          "names": [
+            "Daft Punk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6004",
+      "names": [
+        "Face To Face"
+      ],
+      "releases": [
+        {
+          "_id": "1202",
+          "names": [
+            "Discovery"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "933",
+          "names": [
+            "Daft Punk"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Thomas Bangalter",
       "targetId": "5943",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "5999",
+        "6000",
+        "6001",
+        "6002",
+        "6003",
+        "6004"
+      ]
     },
     {
       "name": "Romanthony",
       "targetId": "5945",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6002",
+        "6003"
+      ]
     },
     {
       "name": "Todd Edwards",
       "targetId": "5946",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6004"
+      ]
     }
   ]
 }

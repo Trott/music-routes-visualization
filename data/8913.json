@@ -1,36 +1,100 @@
 {
   "source": "Simon Tong",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9608",
+      "names": [
+        "Glitter Freeze"
+      ],
+      "releases": [
+        {
+          "_id": "1842",
+          "names": [
+            "Plastic Beach"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "351",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9609",
+      "names": [
+        "Bitter Sweet Symphony"
+      ],
+      "releases": [
+        {
+          "_id": "1843",
+          "names": [
+            "Urban Hymns"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1428",
+          "names": [
+            "The Verve"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Damon Albarn",
       "targetId": "2401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9608"
+      ]
     },
     {
       "name": "Mark E. Smith",
       "targetId": "2657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9608"
+      ]
     },
     {
       "name": "Richard Ashcroft",
       "targetId": "8914",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9609"
+      ]
     },
     {
       "name": "Nick McCabe",
       "targetId": "8915",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9609"
+      ]
     },
     {
       "name": "Simon Jones",
       "targetId": "8916",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9609"
+      ]
     },
     {
       "name": "Peter Salisbury",
       "targetId": "8917",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9609"
+      ]
     }
   ]
 }

@@ -1,16 +1,70 @@
 {
   "source": "David Broecker",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10968",
+      "names": [
+        "Tokyo"
+      ],
+      "releases": [
+        {
+          "_id": "2089",
+          "names": [
+            "Telekinesis!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1593",
+          "names": [
+            "Telekinesis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10969",
+      "names": [
+        "Great Lakes"
+      ],
+      "releases": [
+        {
+          "_id": "2089",
+          "names": [
+            "Telekinesis!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1593",
+          "names": [
+            "Telekinesis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Walla",
       "targetId": "6921",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10968",
+        "10969"
+      ]
     },
     {
       "name": "Michael Benjamin Lerner",
       "targetId": "9645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10968",
+        "10969"
+      ]
     }
   ]
 }

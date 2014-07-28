@@ -1,26 +1,106 @@
 {
   "source": "Laura Nyro",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5161",
+      "names": [
+        "Beads Of Sweat"
+      ],
+      "releases": [
+        {
+          "_id": "1030",
+          "names": [
+            "Christmas And The Beads Of Sweat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "815",
+          "names": [
+            "Laura Nyro"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5162",
+      "names": [
+        "Map To The Treasure"
+      ],
+      "releases": [
+        {
+          "_id": "1030",
+          "names": [
+            "Christmas And The Beads Of Sweat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "815",
+          "names": [
+            "Laura Nyro"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5163",
+      "names": [
+        "A Woman Of The World"
+      ],
+      "releases": [
+        {
+          "_id": "1031",
+          "names": [
+            "Walk The Dog & Light The Light"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "815",
+          "names": [
+            "Laura Nyro"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Freddie Washington",
       "targetId": "2422",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5163"
+      ]
     },
     {
       "name": "Bernard Purdie",
       "targetId": "3114",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5163"
+      ]
     },
     {
       "name": "Duane Allman",
       "targetId": "5303",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5161"
+      ]
     },
     {
       "name": "Alice Coltrane",
       "targetId": "5305",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5162"
+      ]
     }
   ]
 }

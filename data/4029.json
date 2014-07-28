@@ -1,21 +1,54 @@
 {
   "source": "Robert Holmes",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3851",
+      "names": [
+        "Voices Carry"
+      ],
+      "releases": [
+        {
+          "_id": "786",
+          "names": [
+            "Voices Carry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "616",
+          "names": [
+            "'Til Tuesday"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3851"
+      ]
     },
     {
       "name": "Michael Hausman",
       "targetId": "4028",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3851"
+      ]
     },
     {
       "name": "Joey Pesce",
       "targetId": "4030",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3851"
+      ]
     }
   ]
 }

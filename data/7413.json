@@ -1,26 +1,62 @@
 {
   "source": "Dave DeSantis",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7787",
+      "names": [
+        "No Worries"
+      ],
+      "releases": [
+        {
+          "_id": "1535",
+          "names": [
+            "Waiting For You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1176",
+          "names": [
+            "Nick Clemons"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Clarence Clemons",
       "targetId": "465",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7787"
+      ]
     },
     {
       "name": "Nick Clemons",
       "targetId": "7406",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7787"
+      ]
     },
     {
       "name": "Jim Keegan",
       "targetId": "7411",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7787"
+      ]
     },
     {
       "name": "Markus Barth",
       "targetId": "7412",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7787"
+      ]
     }
   ]
 }

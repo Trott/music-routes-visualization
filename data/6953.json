@@ -1,16 +1,46 @@
 {
   "source": "Ted Bruner",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7231",
+      "names": [
+        "Lost"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Josh Freese",
       "targetId": "6296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7231"
+      ]
     },
     {
       "name": "Katy Perry",
       "targetId": "6947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7231"
+      ]
     }
   ]
 }

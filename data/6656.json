@@ -1,11 +1,38 @@
 {
   "source": "Dwele",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6768",
+      "names": [
+        "Flashing Lights"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6768"
+      ]
     }
   ]
 }

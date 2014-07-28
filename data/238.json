@@ -1,21 +1,77 @@
 {
   "source": "Alton Delmore",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "47",
+      "names": [
+        "Rainin' On The Mountain"
+      ],
+      "releases": [
+        {
+          "_id": "42",
+          "names": [
+            "The Very Best Of The Delmore Brothers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "37",
+          "names": [
+            "The Delmore Brothers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "54",
+      "names": [
+        "Over In The Gloryland"
+      ],
+      "releases": [
+        {
+          "_id": "46",
+          "names": [
+            "16 Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "41",
+          "names": [
+            "Brown's Ferry Four"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rabon Delmore",
       "targetId": "239",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "47",
+        "54"
+      ]
     },
     {
       "name": "Merle Travis",
       "targetId": "252",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "54"
+      ]
     },
     {
       "name": "Grandpa Jones",
       "targetId": "253",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "54"
+      ]
     }
   ]
 }

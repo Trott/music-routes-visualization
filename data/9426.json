@@ -1,21 +1,54 @@
 {
   "source": "Willie Exon",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10336",
+      "names": [
+        "Hot Dog"
+      ],
+      "releases": [
+        {
+          "_id": "2001",
+          "names": [
+            "The Complete Stax/Volt Singles 1959-1968 [Disc 5]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1544",
+          "names": [
+            "The Four Shells"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Charles Calvin",
       "targetId": "9425",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10336"
+      ]
     },
     {
       "name": "Billy Harper",
       "targetId": "9427",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10336"
+      ]
     },
     {
       "name": "James Calvin",
       "targetId": "9428",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10336"
+      ]
     }
   ]
 }

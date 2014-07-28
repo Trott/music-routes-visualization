@@ -1,11 +1,44 @@
 {
   "source": "Fisher Rose",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10274",
+      "names": [
+        "On The Table"
+      ],
+      "releases": [
+        {
+          "_id": "1967",
+          "names": [
+            "The Slow Wonder"
+          ]
+        },
+        {
+          "_id": "1968",
+          "names": [
+            "Music From The OC: Mix 4"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1510",
+          "names": [
+            "A.C. Newman"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "A.C. Newman",
       "targetId": "6169",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10274"
+      ]
     }
   ]
 }

@@ -1,21 +1,79 @@
 {
   "source": "Brioschi, Marco",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4004",
+      "names": [
+        "City Of Delusion"
+      ],
+      "releases": [
+        {
+          "_id": "817",
+          "names": [
+            "Black Holes And Revelations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "642",
+          "names": [
+            "Muse"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4006",
+      "names": [
+        "Knights Of Cydonia"
+      ],
+      "releases": [
+        {
+          "_id": "817",
+          "names": [
+            "Black Holes And Revelations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "642",
+          "names": [
+            "Muse"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Matthew Bellamy",
       "targetId": "4163",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4004",
+        "4006"
+      ]
     },
     {
       "name": "Christopher Wolstenholme",
       "targetId": "4164",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4004",
+        "4006"
+      ]
     },
     {
       "name": "Dominic Howard",
       "targetId": "4165",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4004",
+        "4006"
+      ]
     }
   ]
 }

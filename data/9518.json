@@ -1,21 +1,54 @@
 {
   "source": "Arto Lindsay",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10609",
+      "names": [
+        "Hearing Aid"
+      ],
+      "releases": [
+        {
+          "_id": "2042",
+          "names": [
+            "Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10609"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10609"
+      ]
     },
     {
       "name": "Alan Bezozi",
       "targetId": "9517",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10609"
+      ]
     }
   ]
 }

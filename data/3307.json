@@ -1,21 +1,54 @@
 {
   "source": "Andrew Davis",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2973",
+      "names": [
+        "The Bell"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Richard Wolfson",
       "targetId": "3293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2973"
+      ]
     },
     {
       "name": "Andy Saunders",
       "targetId": "3295",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2973"
+      ]
     },
     {
       "name": "Márta Sebestyén",
       "targetId": "3296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2973"
+      ]
     }
   ]
 }

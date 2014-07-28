@@ -1,21 +1,54 @@
 {
   "source": "Jason McGerr",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8496",
+      "names": [
+        "Meet Me On The Equinox"
+      ],
+      "releases": [
+        {
+          "_id": "1640",
+          "names": [
+            "New Moon [soundtrack]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1093",
+          "names": [
+            "Death Cab For Cutie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Gibbard",
       "targetId": "6919",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8496"
+      ]
     },
     {
       "name": "Chris Walla",
       "targetId": "6921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8496"
+      ]
     },
     {
       "name": "Nicholas Harmer",
       "targetId": "6922",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8496"
+      ]
     }
   ]
 }

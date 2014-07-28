@@ -1,16 +1,46 @@
 {
   "source": "Brian Gibson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4747",
+      "names": [
+        "Revenge"
+      ],
+      "releases": [
+        {
+          "_id": "968",
+          "names": [
+            "Repopulation Program Providence RI"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "766",
+          "names": [
+            "Lightning Bolt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Hisham Bharoocha",
       "targetId": "4992",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4747"
+      ]
     },
     {
       "name": "Brian Chippendale",
       "targetId": "4997",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4747"
+      ]
     }
   ]
 }

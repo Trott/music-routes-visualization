@@ -1,21 +1,54 @@
 {
   "source": "Brian Glascock",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "145",
+      "names": [
+        "Stick Heat"
+      ],
+      "releases": [
+        {
+          "_id": "109",
+          "names": [
+            "Toe Fat II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "82",
+          "names": [
+            "Toe Fat"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Glascock",
       "targetId": "485",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "145"
+      ]
     },
     {
       "name": "Cliff Bennett",
       "targetId": "486",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "145"
+      ]
     },
     {
       "name": "Alan Kendall",
       "targetId": "488",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "145"
+      ]
     }
   ]
 }

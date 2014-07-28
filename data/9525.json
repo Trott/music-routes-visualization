@@ -1,16 +1,46 @@
 {
   "source": "Dr. Kenneth Nolan",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10674",
+      "names": [
+        "Lie Still, Little Bottle"
+      ],
+      "releases": [
+        {
+          "_id": "2045",
+          "names": [
+            "Lincoln"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10674"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10674"
+      ]
     }
   ]
 }

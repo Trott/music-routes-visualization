@@ -1,56 +1,135 @@
 {
   "source": "Jeff Ratner",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6709",
+      "names": [
+        "Here We Go Again"
+      ],
+      "releases": [
+        {
+          "_id": "1344",
+          "names": [
+            "A Book Like This"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1040",
+          "names": [
+            "Angus and Julia Stone"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6710",
+      "names": [
+        "Wasted"
+      ],
+      "releases": [
+        {
+          "_id": "1344",
+          "names": [
+            "A Book Like This"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1040",
+          "names": [
+            "Angus and Julia Stone"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sally Herbert",
       "targetId": "612",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6710"
+      ]
     },
     {
       "name": "Mitchell Connelly",
       "targetId": "6569",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6709",
+        "6710"
+      ]
     },
     {
       "name": "Angus Stone",
       "targetId": "6570",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6709",
+        "6710"
+      ]
     },
     {
       "name": "Julia Stone",
       "targetId": "6571",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6709",
+        "6710"
+      ]
     },
     {
       "name": "Christopher Hoffman",
       "targetId": "6573",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6709"
+      ]
     },
     {
       "name": "Elizabeth Meyers",
       "targetId": "6574",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6709"
+      ]
     },
     {
       "name": "Zach Brock",
       "targetId": "6575",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6709"
+      ]
     },
     {
       "name": "Ian Burdge",
       "targetId": "6576",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6710"
+      ]
     },
     {
       "name": "Olli Langford",
       "targetId": "6577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6710"
+      ]
     },
     {
       "name": "Calina De La Mare",
       "targetId": "6578",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6710"
+      ]
     }
   ]
 }

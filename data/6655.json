@@ -1,16 +1,46 @@
 {
   "source": "Mos Def",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6767",
+      "names": [
+        "Drunk And Hot Girls"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6767"
+      ]
     },
     {
       "name": "Jon Brion",
       "targetId": "6653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6767"
+      ]
     }
   ]
 }

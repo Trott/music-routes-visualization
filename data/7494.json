@@ -1,11 +1,38 @@
 {
   "source": "Paco Rabal",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7835",
+      "names": [
+        "Parole Parole"
+      ],
+      "releases": [
+        {
+          "_id": "1545",
+          "names": [
+            "Carmen de España"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1185",
+          "names": [
+            "Carmen Sevilla & Paco Rabal"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carmen Sevilla",
       "targetId": "7493",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7835"
+      ]
     }
   ]
 }

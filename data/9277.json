@@ -1,36 +1,104 @@
 {
   "source": "Terese Taylor",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10150",
+      "names": [
+        "Birds And The Bay"
+      ],
+      "releases": [
+        {
+          "_id": "1949",
+          "names": [
+            "The Size Queens III"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "161",
+          "names": [
+            "The Size Queens"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10152",
+      "names": [
+        "Twenty Minutes"
+      ],
+      "releases": [
+        {
+          "_id": "1949",
+          "names": [
+            "The Size Queens III"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "161",
+          "names": [
+            "The Size Queens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Mullen",
       "targetId": "19",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10150",
+        "10152"
+      ]
     },
     {
       "name": "Adam Klein",
       "targetId": "20",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10150",
+        "10152"
+      ]
     },
     {
       "name": "Glen Swarts",
       "targetId": "510",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10152"
+      ]
     },
     {
       "name": "Tim Mooney",
       "targetId": "1001",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10150",
+        "10152"
+      ]
     },
     {
       "name": "Mike Carnahan",
       "targetId": "9275",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10150",
+        "10152"
+      ]
     },
     {
       "name": "Guillermo Gómez-Peña",
       "targetId": "9278",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10152"
+      ]
     }
   ]
 }

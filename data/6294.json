@@ -1,46 +1,189 @@
 {
   "source": "Steven Wolf",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "6442",
+      "names": [
+        "Girlfriend"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6448",
+      "names": [
+        "Hot"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6453",
+      "names": [
+        "Keep Holding On"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6455",
+      "names": [
+        "I Will Be"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7224",
+      "names": [
+        "I Kissed A Girl"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Larry Corbett",
       "targetId": "1040",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6453"
+      ]
     },
     {
       "name": "Evan Wilson",
       "targetId": "1041",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6453"
+      ]
     },
     {
       "name": "Jack Daley",
       "targetId": "2872",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6455"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6442",
+        "6448",
+        "6453",
+        "6455"
+      ]
     },
     {
       "name": "Lukasz Gottwald",
       "targetId": "6293",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6442",
+        "6448",
+        "6453",
+        "6455",
+        "7224"
+      ]
     },
     {
       "name": "Max Martin",
       "targetId": "6300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6455"
+      ]
     },
     {
       "name": "Katy Perry",
       "targetId": "6947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7224"
+      ]
     },
     {
       "name": "Cathy Dennis",
       "targetId": "6949",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7224"
+      ]
     }
   ]
 }

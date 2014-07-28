@@ -1,21 +1,78 @@
 {
   "source": "Charlie Sepulveda",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10619",
+      "names": [
+        "Istanbul (Not Constantinople)"
+      ],
+      "releases": [
+        {
+          "_id": "2042",
+          "names": [
+            "Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10621",
+      "names": [
+        "Your Racist Friend"
+      ],
+      "releases": [
+        {
+          "_id": "2042",
+          "names": [
+            "Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10619",
+        "10621"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10619",
+        "10621"
+      ]
     },
     {
       "name": "Mark Feldman",
       "targetId": "9513",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10619"
+      ]
     }
   ]
 }

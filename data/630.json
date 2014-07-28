@@ -1,331 +1,856 @@
 {
   "source": "Mal Evans",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "230",
+      "names": [
+        "You Won't See Me"
+      ],
+      "releases": [
+        {
+          "_id": "159",
+          "names": [
+            "Rubber Soul"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1780",
+      "names": [
+        "You Know My Name (Look Up The Number)"
+      ],
+      "releases": [
+        {
+          "_id": "398",
+          "names": [
+            "Past Masters, Volume Two"
+          ]
+        },
+        {
+          "_id": "2128",
+          "names": [
+            "Mono Masters, Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3075",
+      "names": [
+        "Yellow Submarine"
+      ],
+      "releases": [
+        {
+          "_id": "155",
+          "names": [
+            "Revolver"
+          ]
+        },
+        {
+          "_id": "2107",
+          "names": [
+            "Yellow Submarine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6163",
+      "names": [
+        "Helter Skelter"
+      ],
+      "releases": [
+        {
+          "_id": "2104",
+          "names": [
+            "The Beatles [White Album] (Disc 2)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11050",
+      "names": [
+        "Strawberry Fields Forever"
+      ],
+      "releases": [
+        {
+          "_id": "2102",
+          "names": [
+            "Magical Mystery Tour"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11056",
+      "names": [
+        "Magical Mystery Tour"
+      ],
+      "releases": [
+        {
+          "_id": "2102",
+          "names": [
+            "Magical Mystery Tour"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11093",
+      "names": [
+        "Being For The Benefit Of Mr. Kite"
+      ],
+      "releases": [
+        {
+          "_id": "1798",
+          "names": [
+            "Sgt. Pepper's Lonely Hearts Club Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11099",
+      "names": [
+        "A Day In The Life"
+      ],
+      "releases": [
+        {
+          "_id": "1798",
+          "names": [
+            "Sgt. Pepper's Lonely Hearts Club Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11100",
+      "names": [
+        "Dear Prudence"
+      ],
+      "releases": [
+        {
+          "_id": "158",
+          "names": [
+            "The Beatles [White Album] (Disc 1)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11206",
+      "names": [
+        "Birthday"
+      ],
+      "releases": [
+        {
+          "_id": "2104",
+          "names": [
+            "The Beatles [White Album] (Disc 2)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12412",
+      "names": [
+        "A Day In The Life"
+      ],
+      "releases": [
+        {
+          "_id": "2223",
+          "names": [
+            "Anthology 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12428",
+      "names": [
+        "You Know My Name (Look Up The Number)"
+      ],
+      "releases": [
+        {
+          "_id": "2223",
+          "names": [
+            "Anthology 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "230",
+        "1780",
+        "3075",
+        "6163",
+        "11050",
+        "11056",
+        "11093",
+        "11099",
+        "11100",
+        "11206",
+        "12412",
+        "12428"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "230",
+        "1780",
+        "3075",
+        "6163",
+        "11050",
+        "11056",
+        "11093",
+        "11099",
+        "11100",
+        "11206",
+        "12412",
+        "12428"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "230",
+        "1780",
+        "3075",
+        "6163",
+        "11050",
+        "11056",
+        "11093",
+        "11099",
+        "11100",
+        "11206",
+        "12412",
+        "12428"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "230",
+        "1780",
+        "3075",
+        "6163",
+        "11050",
+        "11056",
+        "11093",
+        "11099",
+        "11206",
+        "12412",
+        "12428"
+      ]
     },
     {
       "name": "Marianne Faithfull",
       "targetId": "604",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     },
     {
       "name": "George Martin",
       "targetId": "628",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3075",
+        "11093",
+        "11099"
+      ]
     },
     {
       "name": "Brian Jones",
       "targetId": "1993",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1780",
+        "3075",
+        "12428"
+      ]
     },
     {
       "name": "Yoko Ono",
       "targetId": "2686",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11206"
+      ]
     },
     {
       "name": "Sidney Sax",
       "targetId": "3355",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Jurgen Hess",
       "targetId": "3357",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "John Underwood",
       "targetId": "3359",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Derek Simpson",
       "targetId": "3360",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11050"
+      ]
     },
     {
       "name": "Norman Jones",
       "targetId": "3361",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11050"
+      ]
     },
     {
       "name": "Patti Harrison",
       "targetId": "3363",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3075",
+        "11206"
+      ]
     },
     {
       "name": "Geoff Emerick",
       "targetId": "3364",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     },
     {
       "name": "Alf Bicknell",
       "targetId": "3365",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     },
     {
       "name": "Neil Aspinall",
       "targetId": "3366",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3075",
+        "11050",
+        "11056",
+        "11093"
+      ]
     },
     {
       "name": "Alan Civil",
       "targetId": "3367",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Neil Sanders",
       "targetId": "8684",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "John Hall",
       "targetId": "9686",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11050"
+      ]
     },
     {
       "name": "Terry Doran",
       "targetId": "9687",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11050"
+      ]
     },
     {
       "name": "Tony Fisher",
       "targetId": "9688",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11050"
+      ]
     },
     {
       "name": "Greg Bowen",
       "targetId": "9689",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11050"
+      ]
     },
     {
       "name": "Derek Watkins",
       "targetId": "9690",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11050"
+      ]
     },
     {
       "name": "Stanley Roderick",
       "targetId": "9691",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11050"
+      ]
     },
     {
       "name": "David Mason",
       "targetId": "9699",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11056",
+        "11099"
+      ]
     },
     {
       "name": "Elgar Howarth",
       "targetId": "9723",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11056"
+      ]
     },
     {
       "name": "Roy Copestake",
       "targetId": "9724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11056"
+      ]
     },
     {
       "name": "John Wilbraham",
       "targetId": "9725",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11056"
+      ]
     },
     {
       "name": "Gordon Pearce",
       "targetId": "9757",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Alan Dalziel",
       "targetId": "9758",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Dennis Vigay",
       "targetId": "9759",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Erich Gruenberg",
       "targetId": "9761",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Tristan Fry",
       "targetId": "9778",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Michael Barnes",
       "targetId": "9779",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "T. Moore",
       "targetId": "9780",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Raymond Premru",
       "targetId": "9781",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Raymond Brown",
       "targetId": "9782",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Harold Jackson",
       "targetId": "9783",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Monty Montgomery",
       "targetId": "9784",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Clifford Seville",
       "targetId": "9785",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "David Sanderman",
       "targetId": "9786",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "N. Fawcett",
       "targetId": "9787",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Alfred Waters",
       "targetId": "9788",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Basil Tschaikov",
       "targetId": "9789",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Jack Brymer",
       "targetId": "9790",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Roger Lord",
       "targetId": "9791",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Cyril MacArthur",
       "targetId": "9792",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Alex Nifosi",
       "targetId": "9793",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Francisco Gabarro",
       "targetId": "9794",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "John Meek",
       "targetId": "9795",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Bernard Davis",
       "targetId": "9796",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Gwynne Edwards",
       "targetId": "9797",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Ernest Scott",
       "targetId": "9798",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Henry Datyner",
       "targetId": "9799",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Donald Weekes",
       "targetId": "9800",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "David McCallum",
       "targetId": "9801",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Lionel Bentley",
       "targetId": "9802",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "D. Bradley",
       "targetId": "9803",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "John Marston",
       "targetId": "9804",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Granville Jones",
       "targetId": "9805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Bill Monro",
       "targetId": "9806",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Hans Geiger",
       "targetId": "9807",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11099"
+      ]
     },
     {
       "name": "Jackie Lomax",
       "targetId": "9808",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11100"
+      ]
     },
     {
       "name": "John McCartney",
       "targetId": "9809",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11100"
+      ]
     }
   ]
 }

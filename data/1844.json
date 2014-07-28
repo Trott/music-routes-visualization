@@ -1,36 +1,154 @@
 {
   "source": "Tony Kanal",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "1559",
+      "names": [
+        "Don't Let Me Down"
+      ],
+      "releases": [
+        {
+          "_id": "368",
+          "names": [
+            "Rock Steady"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "263",
+          "names": [
+            "No Doubt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1560",
+      "names": [
+        "Platinum Blonde Life"
+      ],
+      "releases": [
+        {
+          "_id": "368",
+          "names": [
+            "Rock Steady"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "263",
+          "names": [
+            "No Doubt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1561",
+      "names": [
+        "Waiting Room"
+      ],
+      "releases": [
+        {
+          "_id": "368",
+          "names": [
+            "Rock Steady"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "263",
+          "names": [
+            "No Doubt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7002",
+      "names": [
+        "Monkey Man"
+      ],
+      "releases": [
+        {
+          "_id": "1393",
+          "names": [
+            "True Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1073",
+          "names": [
+            "Toots and the Maytals"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Prince",
       "targetId": "712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1561"
+      ]
     },
     {
       "name": "Ric Ocasek",
       "targetId": "959",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1559",
+        "1560"
+      ]
     },
     {
       "name": "Gwen Stefani",
       "targetId": "1842",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1559",
+        "1560",
+        "1561",
+        "7002"
+      ]
     },
     {
       "name": "Adrian Young",
       "targetId": "1843",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1559",
+        "1560",
+        "1561",
+        "7002"
+      ]
     },
     {
       "name": "Tom Dumont",
       "targetId": "1845",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1559",
+        "1560",
+        "1561",
+        "7002"
+      ]
     },
     {
       "name": "Toots Hibbert",
       "targetId": "6822",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7002"
+      ]
     }
   ]
 }

@@ -1,86 +1,274 @@
 {
   "source": "Brian Jones",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "1780",
+      "names": [
+        "You Know My Name (Look Up The Number)"
+      ],
+      "releases": [
+        {
+          "_id": "398",
+          "names": [
+            "Past Masters, Volume Two"
+          ]
+        },
+        {
+          "_id": "2128",
+          "names": [
+            "Mono Masters, Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1786",
+      "names": [
+        "Midnight Rambler"
+      ],
+      "releases": [
+        {
+          "_id": "399",
+          "names": [
+            "Let It Bleed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3075",
+      "names": [
+        "Yellow Submarine"
+      ],
+      "releases": [
+        {
+          "_id": "155",
+          "names": [
+            "Revolver"
+          ]
+        },
+        {
+          "_id": "2107",
+          "names": [
+            "Yellow Submarine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7827",
+      "names": [
+        "We Love You"
+      ],
+      "releases": [
+        {
+          "_id": "1542",
+          "names": [
+            "More Hot Rocks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12428",
+      "names": [
+        "You Know My Name (Look Up The Number)"
+      ],
+      "releases": [
+        {
+          "_id": "2223",
+          "names": [
+            "Anthology 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1780",
+        "3075",
+        "7827",
+        "12428"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1780",
+        "3075",
+        "7827",
+        "12428"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1780",
+        "3075",
+        "12428"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1780",
+        "3075",
+        "12428"
+      ]
     },
     {
       "name": "Bill Wyman",
       "targetId": "304",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1786",
+        "7827"
+      ]
     },
     {
       "name": "Mick Jagger",
       "targetId": "305",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1786",
+        "7827"
+      ]
     },
     {
       "name": "Marianne Faithfull",
       "targetId": "604",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     },
     {
       "name": "George Martin",
       "targetId": "628",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     },
     {
       "name": "Mal Evans",
       "targetId": "630",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1780",
+        "3075",
+        "12428"
+      ]
     },
     {
       "name": "Nicky Hopkins",
       "targetId": "985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7827"
+      ]
     },
     {
       "name": "Charlie Watts",
       "targetId": "1994",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1786",
+        "7827"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1786",
+        "7827"
+      ]
     },
     {
       "name": "Patti Harrison",
       "targetId": "3363",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     },
     {
       "name": "Geoff Emerick",
       "targetId": "3364",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     },
     {
       "name": "Alf Bicknell",
       "targetId": "3365",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     },
     {
       "name": "Neil Aspinall",
       "targetId": "3366",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3075"
+      ]
     }
   ]
 }

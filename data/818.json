@@ -1,41 +1,136 @@
 {
   "source": "Sugar Cane Harris",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "337",
+      "names": [
+        "Willie The Pimp"
+      ],
+      "releases": [
+        {
+          "_id": "192",
+          "names": [
+            "Hot Rats"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "340",
+      "names": [
+        "The Gumbo Variations"
+      ],
+      "releases": [
+        {
+          "_id": "192",
+          "names": [
+            "Hot Rats"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4241",
+      "names": [
+        "Chunga's Revenge"
+      ],
+      "releases": [
+        {
+          "_id": "851",
+          "names": [
+            "Chunga's Revenge"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aynsley Dunbar",
       "targetId": "264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4241"
+      ]
     },
     {
       "name": "John Guerin",
       "targetId": "508",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "337"
+      ]
     },
     {
       "name": "Max Bennett",
       "targetId": "509",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "337",
+        "340",
+        "4241"
+      ]
     },
     {
       "name": "Frank Zappa",
       "targetId": "815",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "337",
+        "340",
+        "4241"
+      ]
     },
     {
       "name": "Ian Underwood",
       "targetId": "816",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "337",
+        "340",
+        "4241"
+      ]
     },
     {
       "name": "Captain Beefheart",
       "targetId": "817",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "337"
+      ]
     },
     {
       "name": "Paul Humphrey",
       "targetId": "820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "340"
+      ]
     }
   ]
 }

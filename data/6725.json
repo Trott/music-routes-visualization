@@ -1,11 +1,38 @@
 {
   "source": "Jeff Bradshaw",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6875",
+      "names": [
+        "Slide"
+      ],
+      "releases": [
+        {
+          "_id": "1367",
+          "names": [
+            "Collaborations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1055",
+          "names": [
+            "Jill Scott"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jill Scott",
       "targetId": "6698",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6875"
+      ]
     }
   ]
 }

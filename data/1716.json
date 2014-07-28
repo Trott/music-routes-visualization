@@ -1,26 +1,109 @@
 {
   "source": "Ambersunshower",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1275",
+      "names": [
+        "Over Me"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1277",
+      "names": [
+        "You Don't Wanna"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1279",
+      "names": [
+        "Your Name"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1275",
+        "1277",
+        "1279"
+      ]
     },
     {
       "name": "Mark Gemini Thwaite",
       "targetId": "1715",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1275",
+        "1279"
+      ]
     },
     {
       "name": "Hawkman",
       "targetId": "1717",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1275"
+      ]
     },
     {
       "name": "Tim Pierce",
       "targetId": "1718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1277"
+      ]
     }
   ]
 }

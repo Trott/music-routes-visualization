@@ -1,31 +1,70 @@
 {
   "source": "Babi Floyd",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "620",
+      "names": [
+        "Fistful Of Rain"
+      ],
+      "releases": [
+        {
+          "_id": "234",
+          "names": [
+            "Life'll Kill Ya"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Warren Zevon",
       "targetId": "346",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "620"
+      ]
     },
     {
       "name": "Jorge Calderón",
       "targetId": "663",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "620"
+      ]
     },
     {
       "name": "Winston Watson",
       "targetId": "1029",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "620"
+      ]
     },
     {
       "name": "Dennis Collins",
       "targetId": "1030",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "620"
+      ]
     },
     {
       "name": "Curtis King",
       "targetId": "1032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "620"
+      ]
     }
   ]
 }

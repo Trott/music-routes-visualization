@@ -1,281 +1,674 @@
 {
   "source": "Al Casey",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "1043",
+      "names": [
+        "Let's Go Away For Awhile"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1044",
+      "names": [
+        "Sloop John B"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1047",
+      "names": [
+        "Here Today"
+      ],
+      "releases": [
+        {
+          "_id": "295",
+          "names": [
+            "Pet Sounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2074",
+      "names": [
+        "Papa Gene's Blues"
+      ],
+      "releases": [
+        {
+          "_id": "472",
+          "names": [
+            "The Monkees"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "352",
+          "names": [
+            "The Monkees"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2075",
+      "names": [
+        "Sweet Young Thing"
+      ],
+      "releases": [
+        {
+          "_id": "472",
+          "names": [
+            "The Monkees"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "352",
+          "names": [
+            "The Monkees"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12162",
+      "names": [
+        "Sloop John B"
+      ],
+      "releases": [
+        {
+          "_id": "2188",
+          "names": [
+            "Party & Stack-o-Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12164",
+      "names": [
+        "Here Today"
+      ],
+      "releases": [
+        {
+          "_id": "2188",
+          "names": [
+            "Party & Stack-o-Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13436",
+      "names": [
+        "Everybody's Talkin'"
+      ],
+      "releases": [
+        {
+          "_id": "2462",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1043",
+        "1044",
+        "2074",
+        "2075",
+        "12162"
+      ]
     },
     {
       "name": "Lyle Ritz",
       "targetId": "373",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1043",
+        "1044",
+        "1047",
+        "12162",
+        "12164"
+      ]
     },
     {
       "name": "Jack Nimitz",
       "targetId": "436",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1044",
+        "1047",
+        "12162",
+        "12164"
+      ]
     },
     {
       "name": "James Burton",
       "targetId": "452",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Carol Kaye",
       "targetId": "521",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1043",
+        "1044",
+        "1047",
+        "12162",
+        "12164"
+      ]
     },
     {
       "name": "Jim Gordon",
       "targetId": "522",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "13436"
+      ]
     },
     {
       "name": "Glen Campbell",
       "targetId": "524",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Steve Douglas",
       "targetId": "560",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1043",
+        "1044",
+        "12162"
+      ]
     },
     {
       "name": "Jim Horn",
       "targetId": "670",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1043",
+        "1044",
+        "12162"
+      ]
     },
     {
       "name": "Gary Coleman",
       "targetId": "727",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Larry Knechtel",
       "targetId": "1196",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1047",
+        "2075",
+        "12164",
+        "13436"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1044"
+      ]
     },
     {
       "name": "Mike Love",
       "targetId": "1477",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1044",
+        "1047"
+      ]
     },
     {
       "name": "Frank Capp",
       "targetId": "1481",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1044",
+        "1047",
+        "12162",
+        "12164"
+      ]
     },
     {
       "name": "Bill Pitman",
       "targetId": "1482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2074"
+      ]
     },
     {
       "name": "Jerry Cole",
       "targetId": "1483",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1044",
+        "12162"
+      ]
     },
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Al De Lory",
       "targetId": "1486",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1043",
+        "1044",
+        "12162"
+      ]
     },
     {
       "name": "Jay Migliori",
       "targetId": "1487",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1043",
+        "1044",
+        "1047",
+        "12162",
+        "12164"
+      ]
     },
     {
       "name": "Plas Johnson",
       "targetId": "1488",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Roy Caton",
       "targetId": "1489",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Billy Strange",
       "targetId": "1490",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1044",
+        "12162"
+      ]
     },
     {
       "name": "Julius Wechter",
       "targetId": "1492",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Joseph Saxon",
       "targetId": "1497",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Arnold Belnick",
       "targetId": "1499",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1043",
+        "13436"
+      ]
     },
     {
       "name": "Ralph Schaeffer",
       "targetId": "1500",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Tibor Zelig",
       "targetId": "1501",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Sid Sharp",
       "targetId": "1502",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Justin DiTullio",
       "targetId": "1503",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Harry Hyams",
       "targetId": "1505",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Leonard Malarsky",
       "targetId": "1506",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "William Kurasch",
       "targetId": "1507",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Jules Jacob",
       "targetId": "1508",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Joseph DiFiore",
       "targetId": "1510",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "James Getzoff",
       "targetId": "1511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1043"
+      ]
     },
     {
       "name": "Jerome Reisler",
       "targetId": "1512",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1043",
+        "13436"
+      ]
     },
     {
       "name": "Don Randi",
       "targetId": "1516",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1047",
+        "12164"
+      ]
     },
     {
       "name": "Darrel Terwilliger",
       "targetId": "1517",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Nick Martinis",
       "targetId": "1521",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1047",
+        "12164"
+      ]
     },
     {
       "name": "Mike Deasy",
       "targetId": "1522",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1047",
+        "2075",
+        "12164"
+      ]
     },
     {
       "name": "Terry Melcher",
       "targetId": "1523",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1047",
+        "12164"
+      ]
     },
     {
       "name": "Gail Martin",
       "targetId": "1524",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1047",
+        "12164"
+      ]
     },
     {
       "name": "Ernie Tack",
       "targetId": "1525",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1047",
+        "12164"
+      ]
     },
     {
       "name": "Mike Melvoin",
       "targetId": "1527",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Micky Dolenz",
       "targetId": "2415",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Peter Tork",
       "targetId": "2416",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Michael Nesmith",
       "targetId": "2417",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2074",
+        "2075"
+      ]
     },
     {
       "name": "Jim Helms",
       "targetId": "2418",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2074"
+      ]
     },
     {
       "name": "Bob West",
       "targetId": "2419",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2075"
+      ]
     },
     {
       "name": "Jimmy Bryant",
       "targetId": "2420",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2075"
+      ]
     },
     {
       "name": "Frank DeVito",
       "targetId": "2421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2075"
+      ]
     },
     {
       "name": "Harry Nilsson",
       "targetId": "3193",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Alfred Lustgarten",
       "targetId": "10986",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Leonard Atkins",
       "targetId": "10987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Wilbert Nuttycombe",
       "targetId": "10988",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     }
   ]
 }

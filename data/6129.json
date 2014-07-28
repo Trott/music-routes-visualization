@@ -1,11 +1,38 @@
 {
   "source": "Mark Eddinger",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6192",
+      "names": [
+        "Pepper"
+      ],
+      "releases": [
+        {
+          "_id": "1248",
+          "names": [
+            "Electriclarryland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "964",
+          "names": [
+            "Butthole Surfers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gibby Haynes",
       "targetId": "735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6192"
+      ]
     }
   ]
 }

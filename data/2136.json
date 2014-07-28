@@ -1,31 +1,93 @@
 {
   "source": "Nate Mendel",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1997",
+      "names": [
+        "Tired Of You"
+      ],
+      "releases": [
+        {
+          "_id": "442",
+          "names": [
+            "One By One"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "324",
+          "names": [
+            "The Foo Fighters"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6383",
+      "names": [
+        "Monkey Wrench"
+      ],
+      "releases": [
+        {
+          "_id": "1275",
+          "names": [
+            "The Colour And The Shape"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "324",
+          "names": [
+            "The Foo Fighters"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian May",
       "targetId": "213",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Dave Grohl",
       "targetId": "338",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1997",
+        "6383"
+      ]
     },
     {
       "name": "Pat Smear",
       "targetId": "784",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6383"
+      ]
     },
     {
       "name": "Chris Shiflett",
       "targetId": "2135",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Taylor Hawkins",
       "targetId": "2137",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     }
   ]
 }

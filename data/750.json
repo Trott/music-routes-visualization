@@ -1,41 +1,108 @@
 {
   "source": "Kathleen Hanna",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "287",
+      "names": [
+        "Letterbomb"
+      ],
+      "releases": [
+        {
+          "_id": "181",
+          "names": [
+            "American Idiot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "125",
+          "names": [
+            "Green Day"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "288",
+      "names": [
+        "Heartbeat"
+      ],
+      "releases": [
+        {
+          "_id": "182",
+          "names": [
+            "Ball-Hog Or Tugboat?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "126",
+          "names": [
+            "Mike Watt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billie Joe Armstrong",
       "targetId": "747",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "287"
+      ]
     },
     {
       "name": "Tré Cool",
       "targetId": "748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "287"
+      ]
     },
     {
       "name": "Mike Dirnt",
       "targetId": "749",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "287"
+      ]
     },
     {
       "name": "Mike Watt",
       "targetId": "751",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "288"
+      ]
     },
     {
       "name": "Spot",
       "targetId": "752",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "288"
+      ]
     },
     {
       "name": "Tiffany Anders",
       "targetId": "753",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "288"
+      ]
     },
     {
       "name": "Richie West",
       "targetId": "754",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "288"
+      ]
     }
   ]
 }

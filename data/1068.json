@@ -1,61 +1,213 @@
 {
   "source": "Dan Chase",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "666",
+      "names": [
+        "Letter To God"
+      ],
+      "releases": [
+        {
+          "_id": "240",
+          "names": [
+            "Wild Flower"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "670",
+      "names": [
+        "Where Has All The Love Gone"
+      ],
+      "releases": [
+        {
+          "_id": "240",
+          "names": [
+            "Wild Flower"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6445",
+      "names": [
+        "The Best Damn Thing"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7223",
+      "names": [
+        "One Of The Boys"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7226",
+      "names": [
+        "Thinking Of You"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sheryl Crow",
       "targetId": "1018",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "666",
+        "670"
+      ]
     },
     {
       "name": "Jeff Trott",
       "targetId": "1022",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "666",
+        "670"
+      ]
     },
     {
       "name": "Brian MacLeod",
       "targetId": "1025",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "666"
+      ]
     },
     {
       "name": "John Shanks",
       "targetId": "1063",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "670"
+      ]
     },
     {
       "name": "Mike Elizondo",
       "targetId": "1067",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "666",
+        "670"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6445"
+      ]
     },
     {
       "name": "Butch Walker",
       "targetId": "6295",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6445",
+        "7223",
+        "7226"
+      ]
     },
     {
       "name": "Josh Freese",
       "targetId": "6296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6445"
+      ]
     },
     {
       "name": "Deryck Whibley",
       "targetId": "6297",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6445"
+      ]
     },
     {
       "name": "Katy Perry",
       "targetId": "6947",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7223",
+        "7226"
+      ]
     },
     {
       "name": "Darren Dodd",
       "targetId": "6948",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7223",
+        "7226"
+      ]
     }
   ]
 }

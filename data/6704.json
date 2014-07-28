@@ -1,11 +1,61 @@
 {
   "source": "Shaun Escoffery",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6860",
+      "names": [
+        "Nice & Slow"
+      ],
+      "releases": [
+        {
+          "_id": "1366",
+          "names": [
+            "Cut To The Chase"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1054",
+          "names": [
+            "MJ Cole"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6866",
+      "names": [
+        "Lost Our Way"
+      ],
+      "releases": [
+        {
+          "_id": "1366",
+          "names": [
+            "Cut To The Chase"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1054",
+          "names": [
+            "MJ Cole"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "MJ Cole",
       "targetId": "6696",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6860",
+        "6866"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Matisyahu",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7644",
+      "names": [
+        "Drown In The Now"
+      ],
+      "releases": [
+        {
+          "_id": "1518",
+          "names": [
+            "Divided By Night"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1165",
+          "names": [
+            "The Crystal Method"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ken Jordan",
       "targetId": "7309",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7644"
+      ]
     },
     {
       "name": "Scott Kirkland",
       "targetId": "7310",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7644"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Enya",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "194",
+      "names": [
+        "Never Get Old"
+      ],
+      "releases": [
+        {
+          "_id": "149",
+          "names": [
+            "The Lion and the Cobra"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "105",
+          "names": [
+            "Sinéad O'Connor"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sinéad O'Connor",
       "targetId": "596",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "194"
+      ]
     }
   ]
 }

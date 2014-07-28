@@ -1,21 +1,77 @@
 {
   "source": "Michael Wolff",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "595",
+      "names": [
+        "Similar To Rain"
+      ],
+      "releases": [
+        {
+          "_id": "230",
+          "names": [
+            "Mutineer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "627",
+      "names": [
+        "You're A Whole Different Person When You're Scared"
+      ],
+      "releases": [
+        {
+          "_id": "235",
+          "names": [
+            "My Ride's Here"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Warren Zevon",
       "targetId": "346",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "595",
+        "627"
+      ]
     },
     {
       "name": "Sheldon Gomberg",
       "targetId": "1035",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "627"
+      ]
     },
     {
       "name": "Anton Fig",
       "targetId": "1036",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "627"
+      ]
     }
   ]
 }

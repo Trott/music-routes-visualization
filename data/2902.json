@@ -1,66 +1,175 @@
 {
   "source": "Janne Schaffer",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2348",
+      "names": [
+        "Eagle"
+      ],
+      "releases": [
+        {
+          "_id": "592",
+          "names": [
+            "The Album"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "456",
+          "names": [
+            "ABBA"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4498",
+      "names": [
+        "Zvampen"
+      ],
+      "releases": [
+        {
+          "_id": "902",
+          "names": [
+            "Zvampen (7\" single)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "710",
+          "names": [
+            "Electric Banana Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4499",
+      "names": [
+        "Storebror"
+      ],
+      "releases": [
+        {
+          "_id": "902",
+          "names": [
+            "Zvampen (7\" single)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "710",
+          "names": [
+            "Electric Banana Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Agnetha Fältskog",
       "targetId": "2698",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2348"
+      ]
     },
     {
       "name": "Benny Andersson",
       "targetId": "2896",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2348"
+      ]
     },
     {
       "name": "Anni-Frid Lyngstad",
       "targetId": "2897",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2348"
+      ]
     },
     {
       "name": "Björn Ulvaeus",
       "targetId": "2898",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2348"
+      ]
     },
     {
       "name": "Rutger Gunnarsson",
       "targetId": "2899",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2348"
+      ]
     },
     {
       "name": "Ola Brunkert",
       "targetId": "2900",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2348"
+      ]
     },
     {
       "name": "Lars O. Carlsson",
       "targetId": "2905",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2348"
+      ]
     },
     {
       "name": "Tommy Cassemar",
       "targetId": "4640",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Per Lindvall",
       "targetId": "4641",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Peter Ljung",
       "targetId": "4642",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Klasse Möllberg",
       "targetId": "4643",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Lasse Åberg",
       "targetId": "4644",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     }
   ]
 }

@@ -1,96 +1,486 @@
 {
   "source": "Bob Harris",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "7861",
+      "names": [
+        "Well"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7862",
+      "names": [
+        "Jamrag"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7863",
+      "names": [
+        "Scumbag"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7864",
+      "names": [
+        "Aü"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12311",
+      "names": [
+        "Blue Powder"
+      ],
+      "releases": [
+        {
+          "_id": "2215",
+          "names": [
+            "Passion & Warfare"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1622",
+          "names": [
+            "Steve Vai"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12593",
+      "names": [
+        "Magic Fingers"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12594",
+      "names": [
+        "The Madison Panty-Sniffing Festival"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12598",
+      "names": [
+        "I'm So Cute"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12601",
+      "names": [
+        "Ms. Pinky"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12602",
+      "names": [
+        "Shove It Right In"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12605",
+      "names": [
+        "Tracy Is A Snob"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12607",
+      "names": [
+        "Emperor Of Ohio"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864"
+      ]
     },
     {
       "name": "Aynsley Dunbar",
       "targetId": "264",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7861"
+      ]
     },
     {
       "name": "Frank Zappa",
       "targetId": "815",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12593",
+        "12594",
+        "12598",
+        "12601",
+        "12602",
+        "12605",
+        "12607"
+      ]
     },
     {
       "name": "Ian Underwood",
       "targetId": "816",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602"
+      ]
     },
     {
       "name": "Vinnie Colaiuta",
       "targetId": "839",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "12593",
+        "12594",
+        "12598",
+        "12601",
+        "12605",
+        "12607"
+      ]
     },
     {
       "name": "Steve Vai",
       "targetId": "1293",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "12311",
+        "12593",
+        "12594",
+        "12598",
+        "12601",
+        "12605",
+        "12607"
+      ]
     },
     {
       "name": "Ike Willis",
       "targetId": "1337",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "12593",
+        "12594",
+        "12598",
+        "12601",
+        "12605",
+        "12607"
+      ]
     },
     {
       "name": "Arthur Barrow",
       "targetId": "1338",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "12593",
+        "12594",
+        "12598",
+        "12601",
+        "12605",
+        "12607"
+      ]
     },
     {
       "name": "Tommy Mars",
       "targetId": "1341",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "12593",
+        "12594",
+        "12598",
+        "12601",
+        "12605",
+        "12607"
+      ]
     },
     {
       "name": "Ray White",
       "targetId": "1350",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "12593",
+        "12594",
+        "12598",
+        "12601",
+        "12605",
+        "12607"
+      ]
     },
     {
       "name": "Howard Kaylan",
       "targetId": "1829",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602"
+      ]
     },
     {
       "name": "Mark Volman",
       "targetId": "1830",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602"
+      ]
     },
     {
       "name": "Yoko Ono",
       "targetId": "2686",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864"
+      ]
     },
     {
       "name": "Don Preston",
       "targetId": "6586",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864"
+      ]
     },
     {
       "name": "Jim Pons",
       "targetId": "7547",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602"
+      ]
     },
     {
       "name": "Stuart Hamm",
       "targetId": "8032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12311"
+      ]
     },
     {
       "name": "Chris Frazier",
       "targetId": "10226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12311"
+      ]
     }
   ]
 }

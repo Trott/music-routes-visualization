@@ -1,21 +1,54 @@
 {
   "source": "Andy Warren",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8110",
+      "names": [
+        "Cleopatra"
+      ],
+      "releases": [
+        {
+          "_id": "1585",
+          "names": [
+            "Dirk Wears White Sox"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "134",
+          "names": [
+            "Adam Ant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adam Ant",
       "targetId": "832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8110"
+      ]
     },
     {
       "name": "Matthew Ashman",
       "targetId": "7713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8110"
+      ]
     },
     {
       "name": "Dave Barbarossa",
       "targetId": "7715",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8110"
+      ]
     }
   ]
 }

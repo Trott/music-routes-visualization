@@ -1,11 +1,38 @@
 {
   "source": "Jack Johnson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5647",
+      "names": [
+        "With My Own Two Hands"
+      ],
+      "releases": [
+        {
+          "_id": "1115",
+          "names": [
+            "Sing-A-Longs & Lullabies For The Film Curious George"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "870",
+          "names": [
+            "Jack Johnson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Harper",
       "targetId": "828",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5647"
+      ]
     }
   ]
 }

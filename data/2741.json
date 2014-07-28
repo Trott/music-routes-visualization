@@ -1,26 +1,62 @@
 {
   "source": "Maureen \"Moe\" Tucker",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2251",
+      "names": [
+        "All Tomorrow's Parties"
+      ],
+      "releases": [
+        {
+          "_id": "557",
+          "names": [
+            "The Velvet Underground & Nico"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "425",
+          "names": [
+            "The Velvet Underground"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Cale",
       "targetId": "956",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2251"
+      ]
     },
     {
       "name": "Nico",
       "targetId": "1954",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2251"
+      ]
     },
     {
       "name": "Sterling Morrison",
       "targetId": "2742",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2251"
+      ]
     },
     {
       "name": "Lou Reed",
       "targetId": "2743",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2251"
+      ]
     }
   ]
 }

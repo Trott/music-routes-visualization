@@ -1,56 +1,132 @@
 {
   "source": "Vincent Price",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4507",
+      "names": [
+        "Thriller"
+      ],
+      "releases": [
+        {
+          "_id": "210",
+          "names": [
+            "Thriller"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "146",
+          "names": [
+            "Michael Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4508",
+      "names": [
+        "Devil's Food"
+      ],
+      "releases": [
+        {
+          "_id": "909",
+          "names": [
+            "Welcome To My Nightmare"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Jackson",
       "targetId": "40",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Larry Williams",
       "targetId": "414",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Greg Phillinganes",
       "targetId": "649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Alice Cooper",
       "targetId": "1285",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4508"
+      ]
     },
     {
       "name": "Jerry Hey",
       "targetId": "1322",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Gary Grant",
       "targetId": "1394",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Bill Reichenbach",
       "targetId": "1395",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Rod Temperton",
       "targetId": "4235",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "David Williams",
       "targetId": "4665",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Brian Banks",
       "targetId": "4666",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     }
   ]
 }

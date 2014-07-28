@@ -1,41 +1,180 @@
 {
   "source": "Kendra Smith",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "3216",
+      "names": [
+        "It's Up To You"
+      ],
+      "releases": [
+        {
+          "_id": "680",
+          "names": [
+            "\"It's Up To You\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "533",
+          "names": [
+            "The Suspects"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3217",
+      "names": [
+        "Talking Loud"
+      ],
+      "releases": [
+        {
+          "_id": "680",
+          "names": [
+            "\"It's Up To You\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "533",
+          "names": [
+            "The Suspects"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8130",
+      "names": [
+        "Flying On The Ground Is Wrong"
+      ],
+      "releases": [
+        {
+          "_id": "1592",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1217",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8133",
+      "names": [
+        "Holocaust"
+      ],
+      "releases": [
+        {
+          "_id": "1592",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1217",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8135",
+      "names": [
+        "I'll Be Your Mirror"
+      ],
+      "releases": [
+        {
+          "_id": "1592",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1217",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Wynn",
       "targetId": "3494",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     },
     {
       "name": "Russ Tolman",
       "targetId": "3517",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     },
     {
       "name": "Gavin Blair",
       "targetId": "3519",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     },
     {
       "name": "Susanna Hoffs",
       "targetId": "6616",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8130",
+        "8135"
+      ]
     },
     {
       "name": "David Roback",
       "targetId": "7745",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8130",
+        "8133",
+        "8135"
+      ]
     },
     {
       "name": "Will Glenn",
       "targetId": "7748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8133"
+      ]
     },
     {
       "name": "Steven Roback",
       "targetId": "7752",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8133"
+      ]
     }
   ]
 }

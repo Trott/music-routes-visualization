@@ -1,21 +1,76 @@
 {
   "source": "Colbie Caillat",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4512",
+      "names": [
+        "Lucky"
+      ],
+      "releases": [
+        {
+          "_id": "913",
+          "names": [
+            "We Sing. We Dance. We Steal Things."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "451",
+          "names": [
+            "Jason Mraz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4513",
+      "names": [
+        "Breathe"
+      ],
+      "releases": [
+        {
+          "_id": "914",
+          "names": [
+            "Fearless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "720",
+          "names": [
+            "Taylor Swift"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jason Mraz",
       "targetId": "2864",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4512"
+      ]
     },
     {
       "name": "Taylor Swift",
       "targetId": "4676",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4513"
+      ]
     },
     {
       "name": "Tim Marks",
       "targetId": "6438",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4513"
+      ]
     }
   ]
 }

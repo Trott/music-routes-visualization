@@ -1,26 +1,62 @@
 {
   "source": "Mike d'Abo",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2685",
+      "names": [
+        "The Mighty Quinn (Quinn the Eskimo)"
+      ],
+      "releases": [
+        {
+          "_id": "626",
+          "names": [
+            "Chapter Two: The Best Of The Fontana Years"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "489",
+          "names": [
+            "Manfred Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2685"
+      ]
     },
     {
       "name": "Manfred Mann",
       "targetId": "3140",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2685"
+      ]
     },
     {
       "name": "Tom McGuinness",
       "targetId": "3141",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2685"
+      ]
     },
     {
       "name": "Mike Hugg",
       "targetId": "3142",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2685"
+      ]
     }
   ]
 }

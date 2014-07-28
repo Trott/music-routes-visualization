@@ -1,31 +1,70 @@
 {
   "source": "Rik Kenton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "146",
+      "names": [
+        "Virginia Plain"
+      ],
+      "releases": [
+        {
+          "_id": "110",
+          "names": [
+            "Roxy Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "83",
+          "names": [
+            "Roxy Music"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     },
     {
       "name": "Bryan Ferry",
       "targetId": "490",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     },
     {
       "name": "Paul Thompson",
       "targetId": "491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     },
     {
       "name": "Andrew Mackay",
       "targetId": "492",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     },
     {
       "name": "Phil Manzanera",
       "targetId": "493",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "146"
+      ]
     }
   ]
 }

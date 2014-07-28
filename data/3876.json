@@ -1,26 +1,62 @@
 {
   "source": "Harold Wheeler",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3772",
+      "names": [
+        "Blinded By The Light"
+      ],
+      "releases": [
+        {
+          "_id": "760",
+          "names": [
+            "Greetings From Asbury Park N.J."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3772"
+      ]
     },
     {
       "name": "Clarence Clemons",
       "targetId": "465",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3772"
+      ]
     },
     {
       "name": "Vinnie Lopez",
       "targetId": "3875",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3772"
+      ]
     },
     {
       "name": "David Sancious",
       "targetId": "3877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3772"
+      ]
     }
   ]
 }

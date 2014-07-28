@@ -1,41 +1,108 @@
 {
   "source": "Brody Armstrong",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6794",
+      "names": [
+        "Speaking In Tongues"
+      ],
+      "releases": [
+        {
+          "_id": "1355",
+          "names": [
+            "Peace Love Death Metal"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1048",
+          "names": [
+            "Eagles Of Death Metal"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9624",
+      "names": [
+        "Weigh On My Mind"
+      ],
+      "releases": [
+        {
+          "_id": "1845",
+          "names": [
+            "Transplants"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1429",
+          "names": [
+            "Transplants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Travis Barker",
       "targetId": "1559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9624"
+      ]
     },
     {
       "name": "Josh Homme",
       "targetId": "1847",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6794"
+      ]
     },
     {
       "name": "Tim Armstrong",
       "targetId": "2551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9624"
+      ]
     },
     {
       "name": "Tim Vanhamel",
       "targetId": "6661",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6794"
+      ]
     },
     {
       "name": "Jesse Hughes",
       "targetId": "6664",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6794"
+      ]
     },
     {
       "name": "Micah Roy Hughes",
       "targetId": "6666",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6794"
+      ]
     },
     {
       "name": "Rob Aston",
       "targetId": "8922",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9624"
+      ]
     }
   ]
 }

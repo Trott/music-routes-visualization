@@ -1,16 +1,46 @@
 {
   "source": "Ashley D. Valentin",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8247",
+      "names": [
+        "Party On The Moon"
+      ],
+      "releases": [
+        {
+          "_id": "1609",
+          "names": [
+            "Identified"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1228",
+          "names": [
+            "Vanessa Hudgens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Vanessa Hudgens",
       "targetId": "7824",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8247"
+      ]
     },
     {
       "name": "Nasri Atweh",
       "targetId": "7835",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8247"
+      ]
     }
   ]
 }

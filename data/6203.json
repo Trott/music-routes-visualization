@@ -1,11 +1,38 @@
 {
   "source": "Fantasia Barrino",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6336",
+      "names": [
+        "Put You Up On Game"
+      ],
+      "releases": [
+        {
+          "_id": "1264",
+          "names": [
+            "Jewels In The Crown: All-Star Duets With The Queen"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "725",
+          "names": [
+            "Aretha Franklin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aretha Franklin",
       "targetId": "1765",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6336"
+      ]
     }
   ]
 }

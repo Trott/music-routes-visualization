@@ -1,16 +1,46 @@
 {
   "source": "William Frank Hinds",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12781",
+      "names": [
+        "Amie"
+      ],
+      "releases": [
+        {
+          "_id": "2302",
+          "names": [
+            "Bustin' Out"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1654",
+          "names": [
+            "Pure Prairie League"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Craig Fuller",
       "targetId": "10394",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12781"
+      ]
     },
     {
       "name": "George Ed Powell",
       "targetId": "10395",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12781"
+      ]
     }
   ]
 }

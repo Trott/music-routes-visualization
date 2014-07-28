@@ -1,41 +1,167 @@
 {
   "source": "Harvey Ragsdale",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2250",
+      "names": [
+        "Burma Train"
+      ],
+      "releases": [
+        {
+          "_id": "556",
+          "names": [
+            "Primitiva"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "277",
+          "names": [
+            "Martin Denny"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13403",
+      "names": [
+        "Quiet Village"
+      ],
+      "releases": [
+        {
+          "_id": "2441",
+          "names": [
+            "Quiet Village & The Enchanted Sea"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "277",
+          "names": [
+            "Martin Denny"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13451",
+      "names": [
+        "Llama Serenade (Peruvian Llama Song)"
+      ],
+      "releases": [
+        {
+          "_id": "556",
+          "names": [
+            "Primitiva"
+          ]
+        },
+        {
+          "_id": "2471",
+          "names": [
+            "The Exotic Sounds Of Martin Denny (Disc 1)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "277",
+          "names": [
+            "Martin Denny"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13452",
+      "names": [
+        "Buddhist Bells"
+      ],
+      "releases": [
+        {
+          "_id": "556",
+          "names": [
+            "Primitiva"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "277",
+          "names": [
+            "Martin Denny"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Julius Wechter",
       "targetId": "1492",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2250",
+        "13403",
+        "13451",
+        "13452"
+      ]
     },
     {
       "name": "Augie Colon",
       "targetId": "1943",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2250",
+        "13403",
+        "13451",
+        "13452"
+      ]
     },
     {
       "name": "Martin Denny",
       "targetId": "1945",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2250",
+        "13403",
+        "13451",
+        "13452"
+      ]
     },
     {
       "name": "Tak Shindo",
       "targetId": "2739",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13452"
+      ]
     },
     {
       "name": "Johnny Frigo",
       "targetId": "8660",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13403"
+      ]
     },
     {
       "name": "Raymond Alexander",
       "targetId": "10923",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13403"
+      ]
     },
     {
       "name": "Jose Bethancourt",
       "targetId": "10924",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13403"
+      ]
     }
   ]
 }

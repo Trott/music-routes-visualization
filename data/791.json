@@ -1,91 +1,341 @@
 {
   "source": "Mick Ronson",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "305",
+      "names": [
+        "Changes"
+      ],
+      "releases": [
+        {
+          "_id": "183",
+          "names": [
+            "Hunky Dory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "309",
+      "names": [
+        "John, I'm Only Dancing"
+      ],
+      "releases": [
+        {
+          "_id": "185",
+          "names": [
+            "Changesbowie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "310",
+      "names": [
+        "Ziggy Stardust"
+      ],
+      "releases": [
+        {
+          "_id": "187",
+          "names": [
+            "The Rise & Fall Of Ziggy Stardust And The Spiders From Mars"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "333",
+      "names": [
+        "Madman Across the Water (Original Version)"
+      ],
+      "releases": [
+        {
+          "_id": "190",
+          "names": [
+            "Tumbleweed Connection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "729",
+      "names": [
+        "The Man Who Sold The World"
+      ],
+      "releases": [
+        {
+          "_id": "250",
+          "names": [
+            "Pop Masters: Old Fashioned Girl"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "174",
+          "names": [
+            "Lulu"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11870",
+      "names": [
+        "Romance In Durango"
+      ],
+      "releases": [
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11871",
+      "names": [
+        "Isis"
+      ],
+      "releases": [
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13455",
+      "names": [
+        "Kooks"
+      ],
+      "releases": [
+        {
+          "_id": "183",
+          "names": [
+            "Hunky Dory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "305",
+        "309",
+        "310",
+        "729",
+        "13455"
+      ]
     },
     {
       "name": "Aynsley Dunbar",
       "targetId": "264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "729"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Rick Wakeman",
       "targetId": "792",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "305",
+        "13455"
+      ]
     },
     {
       "name": "Trevor Bolder",
       "targetId": "793",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "305",
+        "309",
+        "310",
+        "729",
+        "13455"
+      ]
     },
     {
       "name": "Mick Woodmansey",
       "targetId": "794",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "305",
+        "309",
+        "310",
+        "13455"
+      ]
     },
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "333"
+      ]
     },
     {
       "name": "Lulu",
       "targetId": "1126",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "729"
+      ]
     },
     {
       "name": "Mike Garson",
       "targetId": "1127",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "729"
+      ]
     },
     {
       "name": "David Mansfield",
       "targetId": "3619",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Steven Soles",
       "targetId": "9956",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Howard Wyeth",
       "targetId": "10056",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Scarlet Rivera",
       "targetId": "10057",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Bobby Neuwirth",
       "targetId": "10060",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Rob Stoner",
       "targetId": "10061",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     },
     {
       "name": "Luther Rix",
       "targetId": "10062",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11870",
+        "11871"
+      ]
     }
   ]
 }

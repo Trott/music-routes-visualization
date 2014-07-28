@@ -1,11 +1,44 @@
 {
   "source": "John Williams",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2222",
+      "names": [
+        "Won't Get Fooled Again"
+      ],
+      "releases": [
+        {
+          "_id": "540",
+          "names": [
+            "The Secret Policeman's Ball"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "411",
+          "names": [
+            "John Williams"
+          ]
+        },
+        {
+          "_id": "1109",
+          "names": [
+            "Pete Townshend"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pete Townshend",
       "targetId": "1985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2222"
+      ]
     }
   ]
 }

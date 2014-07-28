@@ -1,116 +1,303 @@
 {
   "source": "Gary Barnacle",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "4400",
+      "names": [
+        "Word Is Out"
+      ],
+      "releases": [
+        {
+          "_id": "878",
+          "names": [
+            "Greatest Hits 87-97"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "691",
+          "names": [
+            "Kylie Minogue"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7920",
+      "names": [
+        "Big Wheels In Shanty Town"
+      ],
+      "releases": [
+        {
+          "_id": "1556",
+          "names": [
+            "Rain Tree Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1190",
+          "names": [
+            "Rain Tree Crow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11605",
+      "names": [
+        "The Only Flame In Town"
+      ],
+      "releases": [
+        {
+          "_id": "2151",
+          "names": [
+            "Goodbye Cruel World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11608",
+      "names": [
+        "Inch By Inch"
+      ],
+      "releases": [
+        {
+          "_id": "2151",
+          "names": [
+            "Goodbye Cruel World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11611",
+      "names": [
+        "I Wanna Be Loved"
+      ],
+      "releases": [
+        {
+          "_id": "2151",
+          "names": [
+            "Goodbye Cruel World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Daryl Hall",
       "targetId": "53",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11605"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11605",
+        "11608",
+        "11611"
+      ]
     },
     {
       "name": "Pete Thomas",
       "targetId": "429",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11605",
+        "11608",
+        "11611"
+      ]
     },
     {
       "name": "Miriam Stockley",
       "targetId": "863",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4400"
+      ]
     },
     {
       "name": "John Thirkell",
       "targetId": "2962",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4400",
+        "7920"
+      ]
     },
     {
       "name": "Steve Nieve",
       "targetId": "3222",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11605",
+        "11608",
+        "11611"
+      ]
     },
     {
       "name": "Richard Barbieri",
       "targetId": "3539",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7920"
+      ]
     },
     {
       "name": "Leroy Osbourne",
       "targetId": "4482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4400"
+      ]
     },
     {
       "name": "Kylie Minogue",
       "targetId": "4496",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4400"
+      ]
     },
     {
       "name": "Julian Gingell",
       "targetId": "4497",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4400"
+      ]
     },
     {
       "name": "Mike Stock",
       "targetId": "4498",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4400"
+      ]
     },
     {
       "name": "Peter Thoms",
       "targetId": "4500",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4400"
+      ]
     },
     {
       "name": "Lance Ellington",
       "targetId": "4501",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4400"
+      ]
     },
     {
       "name": "Mae McKenna",
       "targetId": "4502",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4400"
+      ]
     },
     {
       "name": "Mick Karn",
       "targetId": "4963",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7920"
+      ]
     },
     {
       "name": "David Sylvian",
       "targetId": "4964",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7920"
+      ]
     },
     {
       "name": "Steve Jansen",
       "targetId": "4965",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7920"
+      ]
     },
     {
       "name": "Bruce Thomas",
       "targetId": "7277",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11605",
+        "11608",
+        "11611"
+      ]
     },
     {
       "name": "Bill Nelson",
       "targetId": "7573",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7920"
+      ]
     },
     {
       "name": "Djene Doumbouya",
       "targetId": "7574",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7920"
+      ]
     },
     {
       "name": "Djanka Diabate",
       "targetId": "7575",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7920"
+      ]
     },
     {
       "name": "Green Gartside",
       "targetId": "9936",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11611"
+      ]
     }
   ]
 }

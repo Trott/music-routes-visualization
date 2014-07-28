@@ -1,26 +1,62 @@
 {
   "source": "Paul Fenton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2362",
+      "names": [
+        "Visions Of Domino"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Marc Bolan",
       "targetId": "1825",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2362"
+      ]
     },
     {
       "name": "Steve Currie",
       "targetId": "1827",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2362"
+      ]
     },
     {
       "name": "Davey Lutton",
       "targetId": "2907",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2362"
+      ]
     },
     {
       "name": "Dino Dines",
       "targetId": "2913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2362"
+      ]
     }
   ]
 }

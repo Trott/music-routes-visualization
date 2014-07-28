@@ -1,71 +1,289 @@
 {
   "source": "Jerry Goodman",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "4028",
+      "names": [
+        "The Sons Of Anu"
+      ],
+      "releases": [
+        {
+          "_id": "824",
+          "names": [
+            "Black Utopia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "647",
+          "names": [
+            "Derek Sherinian"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4029",
+      "names": [
+        "Nightmare Cinema"
+      ],
+      "releases": [
+        {
+          "_id": "824",
+          "names": [
+            "Black Utopia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "647",
+          "names": [
+            "Derek Sherinian"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4032",
+      "names": [
+        "Axis Of Evil"
+      ],
+      "releases": [
+        {
+          "_id": "824",
+          "names": [
+            "Black Utopia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "647",
+          "names": [
+            "Derek Sherinian"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4033",
+      "names": [
+        "Gypsy Moth"
+      ],
+      "releases": [
+        {
+          "_id": "824",
+          "names": [
+            "Black Utopia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "647",
+          "names": [
+            "Derek Sherinian"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4034",
+      "names": [
+        "Sweet Lament"
+      ],
+      "releases": [
+        {
+          "_id": "824",
+          "names": [
+            "Black Utopia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "647",
+          "names": [
+            "Derek Sherinian"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4035",
+      "names": [
+        "Black Utopia"
+      ],
+      "releases": [
+        {
+          "_id": "824",
+          "names": [
+            "Black Utopia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "647",
+          "names": [
+            "Derek Sherinian"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13349",
+      "names": [
+        "Meeting Of The Spirits"
+      ],
+      "releases": [
+        {
+          "_id": "2417",
+          "names": [
+            "Inner Mounting Flame"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1724",
+          "names": [
+            "Mahavishnu Orchestra"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Yngwie Malmsteen",
       "targetId": "164",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4028",
+        "4032"
+      ]
     },
     {
       "name": "Steve Lukather",
       "targetId": "402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4034"
+      ]
     },
     {
       "name": "Tony Franklin",
       "targetId": "941",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4028",
+        "4029",
+        "4032",
+        "4033",
+        "4034",
+        "4035"
+      ]
     },
     {
       "name": "John McLaughlin",
       "targetId": "1633",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13349"
+      ]
     },
     {
       "name": "Al Di Meola",
       "targetId": "2007",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4028",
+        "4033"
+      ]
     },
     {
       "name": "Simon Phillips",
       "targetId": "3386",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4028",
+        "4029",
+        "4032",
+        "4033",
+        "4034",
+        "4035"
+      ]
     },
     {
       "name": "Derek Sherinian",
       "targetId": "4194",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4028",
+        "4029",
+        "4032",
+        "4033",
+        "4034",
+        "4035"
+      ]
     },
     {
       "name": "Billy Sheehan",
       "targetId": "4195",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4028",
+        "4032",
+        "4035"
+      ]
     },
     {
       "name": "Brian Tichy",
       "targetId": "4196",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4028",
+        "4032",
+        "4035"
+      ]
     },
     {
       "name": "Zakk Wylde",
       "targetId": "4198",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4029",
+        "4032",
+        "4035"
+      ]
     },
     {
       "name": "Jan Hammer",
       "targetId": "4559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13349"
+      ]
     },
     {
       "name": "Billy Cobham",
       "targetId": "4609",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13349"
+      ]
     },
     {
       "name": "Rick Laird",
       "targetId": "10843",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13349"
+      ]
     }
   ]
 }

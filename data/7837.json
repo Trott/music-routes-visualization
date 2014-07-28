@@ -1,21 +1,54 @@
 {
   "source": "Emanuel Kiriakou",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8249",
+      "names": [
+        "Gone With The Wind"
+      ],
+      "releases": [
+        {
+          "_id": "1609",
+          "names": [
+            "Identified"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1228",
+          "names": [
+            "Vanessa Hudgens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Walter Afanasieff",
       "targetId": "3855",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8249"
+      ]
     },
     {
       "name": "Vanessa Hudgens",
       "targetId": "7824",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8249"
+      ]
     },
     {
       "name": "Kara DioGuardi",
       "targetId": "7836",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8249"
+      ]
     }
   ]
 }

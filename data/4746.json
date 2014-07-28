@@ -1,11 +1,38 @@
 {
   "source": "Eddie Murphy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4554",
+      "names": [
+        "Party All The Time"
+      ],
+      "releases": [
+        {
+          "_id": "930",
+          "names": [
+            "How Could It Be"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "732",
+          "names": [
+            "Eddie Murphy"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rick James",
       "targetId": "517",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4554"
+      ]
     }
   ]
 }

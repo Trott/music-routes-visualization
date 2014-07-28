@@ -1,21 +1,129 @@
 {
   "source": "Sean Malone",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "5687",
+      "names": [
+        "2112"
+      ],
+      "releases": [
+        {
+          "_id": "1127",
+          "names": [
+            "One Night In Chicago"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "881",
+          "names": [
+            "Cygnus and the Sea Monsters"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5688",
+      "names": [
+        "Cygnus X-1"
+      ],
+      "releases": [
+        {
+          "_id": "1127",
+          "names": [
+            "One Night In Chicago"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "881",
+          "names": [
+            "Cygnus and the Sea Monsters"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5689",
+      "names": [
+        "Hemispheres"
+      ],
+      "releases": [
+        {
+          "_id": "1127",
+          "names": [
+            "One Night In Chicago"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "881",
+          "names": [
+            "Cygnus and the Sea Monsters"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5690",
+      "names": [
+        "YYZ"
+      ],
+      "releases": [
+        {
+          "_id": "1127",
+          "names": [
+            "One Night In Chicago"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "881",
+          "names": [
+            "Cygnus and the Sea Monsters"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Portnoy",
       "targetId": "4200",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5687",
+        "5688",
+        "5689",
+        "5690"
+      ]
     },
     {
       "name": "Jason McMaster",
       "targetId": "5682",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5687",
+        "5688",
+        "5689",
+        "5690"
+      ]
     },
     {
       "name": "Paul Gilbert",
       "targetId": "5685",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5687",
+        "5688",
+        "5689",
+        "5690"
+      ]
     }
   ]
 }

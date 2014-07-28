@@ -1,16 +1,137 @@
 {
   "source": "Marilyn Monroe",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "6703",
+      "names": [
+        "Runnin' Wild"
+      ],
+      "releases": [
+        {
+          "_id": "1342",
+          "names": [
+            "Some Like It Hot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1039",
+          "names": [
+            "Marilyn Monroe"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6704",
+      "names": [
+        "I Wanna Be Loved By You"
+      ],
+      "releases": [
+        {
+          "_id": "1342",
+          "names": [
+            "Some Like It Hot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1039",
+          "names": [
+            "Marilyn Monroe"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6705",
+      "names": [
+        "I'm Through With Love"
+      ],
+      "releases": [
+        {
+          "_id": "1342",
+          "names": [
+            "Some Like It Hot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1039",
+          "names": [
+            "Marilyn Monroe"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6706",
+      "names": [
+        "Two Little Girls From Little Rock"
+      ],
+      "releases": [
+        {
+          "_id": "1343",
+          "names": [
+            "The Story Of Marilyn Monroe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1039",
+          "names": [
+            "Marilyn Monroe"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6707",
+      "names": [
+        "When Loves Goes Wrong"
+      ],
+      "releases": [
+        {
+          "_id": "1343",
+          "names": [
+            "The Story Of Marilyn Monroe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1039",
+          "names": [
+            "Marilyn Monroe"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Matty Malneck",
       "targetId": "6567",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6703",
+        "6704",
+        "6705"
+      ]
     },
     {
       "name": "Jane Russell",
       "targetId": "6568",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6706",
+        "6707"
+      ]
     }
   ]
 }

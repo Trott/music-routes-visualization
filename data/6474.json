@@ -1,16 +1,46 @@
 {
   "source": "Nathan Pacheco",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6624",
+      "names": [
+        "Omaggio (Tribute)"
+      ],
+      "releases": [
+        {
+          "_id": "1323",
+          "names": [
+            "Voices"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1025",
+          "names": [
+            "Yanni"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Yanni",
       "targetId": "6472",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6624"
+      ]
     },
     {
       "name": "Chloe Lowery",
       "targetId": "6473",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6624"
+      ]
     }
   ]
 }

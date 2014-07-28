@@ -1,81 +1,174 @@
 {
   "source": "Toni Tennille",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8499",
+      "names": [
+        "Break Away"
+      ],
+      "releases": [
+        {
+          "_id": "1641",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1255",
+          "names": [
+            "Art Garfunkel"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8500",
+      "names": [
+        "Disney Girls"
+      ],
+      "releases": [
+        {
+          "_id": "1641",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1255",
+          "names": [
+            "Art Garfunkel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Johnston",
       "targetId": "232",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8499",
+        "8500"
+      ]
     },
     {
       "name": "Bill Payne",
       "targetId": "280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Russ Kunkel",
       "targetId": "458",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8500"
+      ]
     },
     {
       "name": "David Crosby",
       "targetId": "511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Graham Nash",
       "targetId": "639",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Joe Osborn",
       "targetId": "1209",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8500"
+      ]
     },
     {
       "name": "Art Garfunkel",
       "targetId": "1474",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8499",
+        "8500"
+      ]
     },
     {
       "name": "Steve Cropper",
       "targetId": "1804",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Lon Van Eaton",
       "targetId": "4577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Andrew Gold",
       "targetId": "7972",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8500"
+      ]
     },
     {
       "name": "Rick Shlosser",
       "targetId": "7975",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Joe Clayton",
       "targetId": "7976",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8499"
+      ]
     },
     {
       "name": "Jon Joyce",
       "targetId": "7978",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8500"
+      ]
     }
   ]
 }

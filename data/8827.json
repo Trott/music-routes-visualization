@@ -1,21 +1,54 @@
 {
   "source": "Sidney Phillips",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9488",
+      "names": [
+        "Lost In Emotion"
+      ],
+      "releases": [
+        {
+          "_id": "1828",
+          "names": [
+            "Spanish Fly"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1418",
+          "names": [
+            "Lisa Lisa & Cult Jam"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Lisa",
       "targetId": "8818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9488"
+      ]
     },
     {
       "name": "Spanador",
       "targetId": "8819",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9488"
+      ]
     },
     {
       "name": "Mike Hughes",
       "targetId": "8820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9488"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Kevin Robinson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4988",
+      "names": [
+        "Souvenir"
+      ],
+      "releases": [
+        {
+          "_id": "1001",
+          "names": [
+            "Flaming Pie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "110",
+          "names": [
+            "Paul McCartney"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4988"
+      ]
     },
     {
       "name": "Jeff Lynne",
       "targetId": "224",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4988"
+      ]
     },
     {
       "name": "Chris \"Snake\" Davis",
       "targetId": "5135",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4988"
+      ]
     },
     {
       "name": "Dave Bishop",
       "targetId": "5136",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4988"
+      ]
     }
   ]
 }

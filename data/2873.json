@@ -1,66 +1,173 @@
 {
   "source": "Nir Z",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2329",
+      "names": [
+        "Wordplay"
+      ],
+      "releases": [
+        {
+          "_id": "586",
+          "names": [
+            "Mr. A-Z"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "451",
+          "names": [
+            "Jason Mraz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7195",
+      "names": [
+        "Lazy Sunday"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7197",
+      "names": [
+        "Boombox"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Roger Manning",
       "targetId": "1069",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Julian Casablancas",
       "targetId": "1850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7197"
+      ]
     },
     {
       "name": "Bashiri Johnson",
       "targetId": "2373",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Jason Mraz",
       "targetId": "2864",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Jack Daley",
       "targetId": "2872",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Lyle Workman",
       "targetId": "2874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Kevin Kadish",
       "targetId": "2875",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Josh Deutsch",
       "targetId": "2876",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Andy Samberg",
       "targetId": "6928",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7195",
+        "7197"
+      ]
     },
     {
       "name": "Akiva Schaffer",
       "targetId": "6929",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7195",
+        "7197"
+      ]
     },
     {
       "name": "Jorma Taccone",
       "targetId": "6930",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7195",
+        "7197"
+      ]
     },
     {
       "name": "Chris Parnell",
       "targetId": "6939",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7195"
+      ]
     }
   ]
 }

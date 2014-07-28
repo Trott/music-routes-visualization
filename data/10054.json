@@ -1,11 +1,130 @@
 {
   "source": "Tony Brown",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "11863",
+      "names": [
+        "Up To Me"
+      ],
+      "releases": [
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11908",
+      "names": [
+        "Buckets Of Rain"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11909",
+      "names": [
+        "Simple Twist Of Fate"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11911",
+      "names": [
+        "Shelter From The Storm"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11912",
+      "names": [
+        "You're Gonna Make Me Lonesome When You Go"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "11863",
+        "11908",
+        "11909",
+        "11911",
+        "11912"
+      ]
     }
   ]
 }

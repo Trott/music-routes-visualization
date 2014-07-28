@@ -1,16 +1,46 @@
 {
   "source": "Matthew Herbert",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7942",
+      "names": [
+        "All Thee Above"
+      ],
+      "releases": [
+        {
+          "_id": "1561",
+          "names": [
+            "Likes..."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1195",
+          "names": [
+            "Dani Siciliano"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dani Siciliano",
       "targetId": "7601",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7942"
+      ]
     },
     {
       "name": "Mugison",
       "targetId": "7603",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7942"
+      ]
     }
   ]
 }

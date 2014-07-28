@@ -1,41 +1,109 @@
 {
   "source": "Kelley Deal",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9312",
+      "names": [
+        "Sensational Gravity Boy"
+      ],
+      "releases": [
+        {
+          "_id": "1797",
+          "names": [
+            "Red Hot + Bothered"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1393",
+          "names": [
+            "Freedom Cruise"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9841",
+      "names": [
+        "Cannonball"
+      ],
+      "releases": [
+        {
+          "_id": "1890",
+          "names": [
+            "Last Splash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1461",
+          "names": [
+            "The Breeders"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kim Deal",
       "targetId": "607",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9312",
+        "9841"
+      ]
     },
     {
       "name": "Robert Pollard",
       "targetId": "3236",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9312"
+      ]
     },
     {
       "name": "Tobin Sprout",
       "targetId": "3237",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9312"
+      ]
     },
     {
       "name": "Jim Greer",
       "targetId": "8680",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9312"
+      ]
     },
     {
       "name": "Jim Pollard",
       "targetId": "8681",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9312"
+      ]
     },
     {
       "name": "Josephine Wiggs",
       "targetId": "9078",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9841"
+      ]
     },
     {
       "name": "Jim MacPherson",
       "targetId": "9080",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9841"
+      ]
     }
   ]
 }

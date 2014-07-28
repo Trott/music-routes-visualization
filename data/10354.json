@@ -1,66 +1,175 @@
 {
   "source": "Peter Bjerring",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "12710",
+      "names": [
+        "Remember"
+      ],
+      "releases": [
+        {
+          "_id": "2275",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12741",
+      "names": [
+        "Open Soul Surgery"
+      ],
+      "releases": [
+        {
+          "_id": "2287",
+          "names": [
+            "Prism"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1647",
+          "names": [
+            "Prism"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12742",
+      "names": [
+        "Spaceship Superstar"
+      ],
+      "releases": [
+        {
+          "_id": "2287",
+          "names": [
+            "Prism"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1647",
+          "names": [
+            "Prism"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12710",
+        "12741",
+        "12742"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12710"
+      ]
     },
     {
       "name": "David Sinclair",
       "targetId": "2453",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12742"
+      ]
     },
     {
       "name": "Nancy Nash",
       "targetId": "3464",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12710"
+      ]
     },
     {
       "name": "Bruce Fairbairn",
       "targetId": "10338",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12710",
+        "12742"
+      ]
     },
     {
       "name": "Tom Keenlyside",
       "targetId": "10340",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12710"
+      ]
     },
     {
       "name": "Ralph Eppel",
       "targetId": "10355",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12710"
+      ]
     },
     {
       "name": "Ron Tabak",
       "targetId": "10367",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12741",
+        "12742"
+      ]
     },
     {
       "name": "Lindsay Mitchell",
       "targetId": "10368",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12741",
+        "12742"
+      ]
     },
     {
       "name": "Richard Christie",
       "targetId": "10369",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12741"
+      ]
     },
     {
       "name": "Graeme Coleman",
       "targetId": "10374",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12742"
+      ]
     },
     {
       "name": "Jack Lavin",
       "targetId": "10375",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12742"
+      ]
     }
   ]
 }

@@ -1,46 +1,116 @@
 {
   "source": "Garth Brooks",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "274",
+      "names": [
+        "One Heart At A Time"
+      ],
+      "releases": [
+        {
+          "_id": "172",
+          "names": [
+            "One Heart At A Time (single)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "119",
+          "names": [
+            "Garth Brooks, Billy Dean, Faith Hill, Olivia Newton-John, Neal McCoy, Michael McDonald, Victoria Shaw, and Bryan White"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13253",
+      "names": [
+        "Shameless"
+      ],
+      "releases": [
+        {
+          "_id": "2394",
+          "names": [
+            "Live At Shea Stadium: The Concert"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1333",
+          "names": [
+            "Billy Joel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Joel",
       "targetId": "63",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13253"
+      ]
     },
     {
       "name": "Faith Hill",
       "targetId": "695",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "274"
+      ]
     },
     {
       "name": "Billy Dean",
       "targetId": "714",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "274"
+      ]
     },
     {
       "name": "Olivia Newton-John",
       "targetId": "715",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "274"
+      ]
     },
     {
       "name": "Neal McCoy",
       "targetId": "716",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "274"
+      ]
     },
     {
       "name": "Michael McDonald",
       "targetId": "717",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "274"
+      ]
     },
     {
       "name": "Victoria Shaw",
       "targetId": "718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "274"
+      ]
     },
     {
       "name": "Bryan White",
       "targetId": "719",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "274"
+      ]
     }
   ]
 }

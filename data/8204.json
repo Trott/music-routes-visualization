@@ -1,16 +1,46 @@
 {
   "source": "Grand Puba",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8828",
+      "names": [
+        "My Struggles"
+      ],
+      "releases": [
+        {
+          "_id": "1694",
+          "names": [
+            "The Cookbook"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1304",
+          "names": [
+            "Missy Elliott"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mary J. Blige",
       "targetId": "4043",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8828"
+      ]
     },
     {
       "name": "Missy Elliott",
       "targetId": "8203",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8828"
+      ]
     }
   ]
 }

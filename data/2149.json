@@ -1,31 +1,96 @@
 {
   "source": "Tiny Tim",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2002",
+      "names": [
+        "Be My Baby"
+      ],
+      "releases": [
+        {
+          "_id": "447",
+          "names": [
+            "You Are What You Eat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "329",
+          "names": [
+            "Tiny Tim"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2003",
+      "names": [
+        "I Got You Babe"
+      ],
+      "releases": [
+        {
+          "_id": "447",
+          "names": [
+            "You Are What You Eat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "329",
+          "names": [
+            "Tiny Tim"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rick Danko",
       "targetId": "29",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2002",
+        "2003"
+      ]
     },
     {
       "name": "Richard Manuel",
       "targetId": "30",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2002",
+        "2003"
+      ]
     },
     {
       "name": "Robbie Robertson",
       "targetId": "31",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2002",
+        "2003"
+      ]
     },
     {
       "name": "Garth Hudson",
       "targetId": "33",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2002",
+        "2003"
+      ]
     },
     {
       "name": "Eleanor Baruchian",
       "targetId": "2150",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2003"
+      ]
     }
   ]
 }

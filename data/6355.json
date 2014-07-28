@@ -1,16 +1,46 @@
 {
   "source": "Lhasa de Sela",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6519",
+      "names": [
+        "That Leaving Feeling"
+      ],
+      "releases": [
+        {
+          "_id": "1307",
+          "names": [
+            "Leaving Songs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1010",
+          "names": [
+            "Stuart A. Staples"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stuart A. Staples",
       "targetId": "6352",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6519"
+      ]
     },
     {
       "name": "Adrian Stout",
       "targetId": "6356",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6519"
+      ]
     }
   ]
 }

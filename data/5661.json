@@ -1,31 +1,70 @@
 {
   "source": "Raymond Jones",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5648",
+      "names": [
+        "Memories"
+      ],
+      "releases": [
+        {
+          "_id": "1116",
+          "names": [
+            "One Down"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "871",
+          "names": [
+            "Material"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Laswell",
       "targetId": "2205",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     },
     {
       "name": "Michael Beinhorn",
       "targetId": "5659",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     },
     {
       "name": "Yogi Horton",
       "targetId": "5660",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     },
     {
       "name": "Archie Shepp",
       "targetId": "5662",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     },
     {
       "name": "Whitney Houston",
       "targetId": "5663",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     }
   ]
 }

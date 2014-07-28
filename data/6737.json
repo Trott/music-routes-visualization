@@ -1,31 +1,94 @@
 {
   "source": "Simon Ratcliffe",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6887",
+      "names": [
+        "Right Here's The Spot"
+      ],
+      "releases": [
+        {
+          "_id": "1373",
+          "names": [
+            "Kish Kash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1058",
+          "names": [
+            "Basement Jaxx"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6888",
+      "names": [
+        "Feels Like Home"
+      ],
+      "releases": [
+        {
+          "_id": "1373",
+          "names": [
+            "Kish Kash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1058",
+          "names": [
+            "Basement Jaxx"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Meshell Ndegeocello",
       "targetId": "6729",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6887",
+        "6888"
+      ]
     },
     {
       "name": "Felix Buxton",
       "targetId": "6736",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6887",
+        "6888"
+      ]
     },
     {
       "name": "Sharlene Hector",
       "targetId": "6738",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6887"
+      ]
     },
     {
       "name": "Cassie Watson",
       "targetId": "6739",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6887"
+      ]
     },
     {
       "name": "Jason-Anthoney Wright",
       "targetId": "6740",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6887"
+      ]
     }
   ]
 }

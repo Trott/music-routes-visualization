@@ -1,241 +1,801 @@
 {
   "source": "Jim Price",
   "trackCount": 14,
+  "tracks": [
+    {
+      "_id": "2802",
+      "names": [
+        "Gotta Get Up"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2806",
+      "names": [
+        "Down"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5362",
+      "names": [
+        "Bitch"
+      ],
+      "releases": [
+        {
+          "_id": "1063",
+          "names": [
+            "Sticky Fingers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5363",
+      "names": [
+        "I Got The Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1063",
+          "names": [
+            "Sticky Fingers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5366",
+      "names": [
+        "Moonlight Mile"
+      ],
+      "releases": [
+        {
+          "_id": "1063",
+          "names": [
+            "Sticky Fingers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6746",
+      "names": [
+        "Let It Down"
+      ],
+      "releases": [
+        {
+          "_id": "1349",
+          "names": [
+            "All Things Must Pass"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6748",
+      "names": [
+        "Wah-Wah"
+      ],
+      "releases": [
+        {
+          "_id": "1349",
+          "names": [
+            "All Things Must Pass"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6750",
+      "names": [
+        "What Is Life"
+      ],
+      "releases": [
+        {
+          "_id": "1349",
+          "names": [
+            "All Things Must Pass"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7791",
+      "names": [
+        "She Came In Through The Bathroom Window"
+      ],
+      "releases": [
+        {
+          "_id": "1537",
+          "names": [
+            "Mad Dogs & Englishmen"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "637",
+          "names": [
+            "Joe Cocker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7792",
+      "names": [
+        "Space Captain"
+      ],
+      "releases": [
+        {
+          "_id": "1537",
+          "names": [
+            "Mad Dogs & Englishmen"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "637",
+          "names": [
+            "Joe Cocker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7793",
+      "names": [
+        "The Letter"
+      ],
+      "releases": [
+        {
+          "_id": "1537",
+          "names": [
+            "Mad Dogs & Englishmen"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "637",
+          "names": [
+            "Joe Cocker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7794",
+      "names": [
+        "Delta Lady"
+      ],
+      "releases": [
+        {
+          "_id": "1537",
+          "names": [
+            "Mad Dogs & Englishmen"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "637",
+          "names": [
+            "Joe Cocker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9549",
+      "names": [
+        "Cold Turkey"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9550",
+      "names": [
+        "Don't Worry Kyoko"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6746",
+        "6748",
+        "6750",
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6748"
+      ]
     },
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6746",
+        "6748",
+        "6750",
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "2806",
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Bill Wyman",
       "targetId": "304",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5362",
+        "5363",
+        "5366"
+      ]
     },
     {
       "name": "Mick Jagger",
       "targetId": "305",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5362",
+        "5363",
+        "5366"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "2802",
+        "2806",
+        "6748",
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Jim Gordon",
       "targetId": "522",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "2802",
+        "2806",
+        "6746",
+        "6750",
+        "7791",
+        "7792",
+        "7793",
+        "7794",
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Bobby Keyes",
       "targetId": "644",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5362",
+        "5363"
+      ]
     },
     {
       "name": "Richard Perry",
       "targetId": "987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2802"
+      ]
     },
     {
       "name": "Bonnie Bramlett",
       "targetId": "992",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Bobby Keys",
       "targetId": "993",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "2806",
+        "6746",
+        "6748",
+        "6750",
+        "7791",
+        "7792",
+        "7793",
+        "7794",
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Billy Preston",
       "targetId": "1674",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5363",
+        "6748"
+      ]
     },
     {
       "name": "Keith Moon",
       "targetId": "1984",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Charlie Watts",
       "targetId": "1994",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5362",
+        "5363",
+        "5366"
+      ]
     },
     {
       "name": "Mick Taylor",
       "targetId": "1995",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5362",
+        "5363",
+        "5366"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5362",
+        "5363"
+      ]
     },
     {
       "name": "Jimmy Miller",
       "targetId": "1997",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5362"
+      ]
     },
     {
       "name": "Leon Russell",
       "targetId": "1999",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Yoko Ono",
       "targetId": "2686",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Harry Nilsson",
       "targetId": "3193",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2802",
+        "2806"
+      ]
     },
     {
       "name": "Chris Spedding",
       "targetId": "3195",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2802",
+        "2806"
+      ]
     },
     {
       "name": "Henry Krein",
       "targetId": "3196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2802"
+      ]
     },
     {
       "name": "Roger Coolan",
       "targetId": "3198",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2806"
+      ]
     },
     {
       "name": "Gary Wright",
       "targetId": "3199",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6746",
+        "6748"
+      ]
     },
     {
       "name": "Joe Cocker",
       "targetId": "4141",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Chris Stainton",
       "targetId": "4149",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Alan White",
       "targetId": "4428",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9549",
+        "9550"
+      ]
     },
     {
       "name": "Bobby Whitlock",
       "targetId": "5331",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6746",
+        "6750"
+      ]
     },
     {
       "name": "Carl Radle",
       "targetId": "5332",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6746",
+        "6750",
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Gary Brooker",
       "targetId": "6635",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6746"
+      ]
     },
     {
       "name": "Mike Gibbins",
       "targetId": "6636",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6748",
+        "6750"
+      ]
     },
     {
       "name": "Chuck Blackwell",
       "targetId": "7418",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Sandy Konikoff",
       "targetId": "7419",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Bobby Torres",
       "targetId": "7420",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Don Preston",
       "targetId": "7421",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Rita Coolidge",
       "targetId": "7422",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Claudia Linnear",
       "targetId": "7423",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Daniel Moore",
       "targetId": "7424",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Donna Weiss",
       "targetId": "7425",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Pamela Polland",
       "targetId": "7426",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Matthew Moore",
       "targetId": "7427",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Donna Washburn",
       "targetId": "7428",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Nickey Barclay",
       "targetId": "7429",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Bobby Jones",
       "targetId": "7430",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7791",
+        "7792",
+        "7793",
+        "7794"
+      ]
     },
     {
       "name": "Delaney Bramlett",
       "targetId": "8898",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9549",
+        "9550"
+      ]
     }
   ]
 }

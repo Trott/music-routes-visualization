@@ -1,66 +1,148 @@
 {
   "source": "Joe Lala",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2053",
+      "names": [
+        "Stayin' Alive"
+      ],
+      "releases": [
+        {
+          "_id": "465",
+          "names": [
+            "Saturday Night Fever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "346",
+          "names": [
+            "The Bee Gees"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2100",
+      "names": [
+        "Never Surrender"
+      ],
+      "releases": [
+        {
+          "_id": "480",
+          "names": [
+            "Fast Times At Ridgemont High: Music From The Motion Picture"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "360",
+          "names": [
+            "Don Felder"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alan Kendall",
       "targetId": "488",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2053"
+      ]
     },
     {
       "name": "Dave Mason",
       "targetId": "635",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "Don Felder",
       "targetId": "668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "Robin Gibb",
       "targetId": "1279",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2053"
+      ]
     },
     {
       "name": "Barry Gibb",
       "targetId": "2382",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2053"
+      ]
     },
     {
       "name": "Maurice Gibb",
       "targetId": "2383",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2053"
+      ]
     },
     {
       "name": "Blue Weaver",
       "targetId": "2384",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2053"
+      ]
     },
     {
       "name": "Dennis Bryon",
       "targetId": "2386",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2053"
+      ]
     },
     {
       "name": "George Hawkins",
       "targetId": "2511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "Tris Imboden",
       "targetId": "2512",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "James Pankow",
       "targetId": "2513",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "Lee Loughnane",
       "targetId": "2514",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     }
   ]
 }

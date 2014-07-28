@@ -1,41 +1,216 @@
 {
   "source": "Steve Shehan",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "6506",
+      "names": [
+        "Quelqu'un M'a Dit"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6508",
+      "names": [
+        "Tout Le Monde"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6509",
+      "names": [
+        "La Noyée"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6512",
+      "names": [
+        "J'en Connais"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6513",
+      "names": [
+        "Le Plus Beau Du Quartier"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6515",
+      "names": [
+        "L'excessive"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carla Bruni",
       "targetId": "6343",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509",
+        "6512",
+        "6513",
+        "6515"
+      ]
     },
     {
       "name": "Louis Bertignac",
       "targetId": "6344",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509",
+        "6512",
+        "6513",
+        "6515"
+      ]
     },
     {
       "name": "Vincent Catulescu",
       "targetId": "6345",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509"
+      ]
     },
     {
       "name": "Laurent Vernerey",
       "targetId": "6346",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509",
+        "6515"
+      ]
     },
     {
       "name": "Roselyne Macario",
       "targetId": "6348",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509"
+      ]
     },
     {
       "name": "Léna Fablet",
       "targetId": "6349",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509",
+        "6513"
+      ]
     },
     {
       "name": "Rachid Guissous",
       "targetId": "6351",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6513"
+      ]
     }
   ]
 }

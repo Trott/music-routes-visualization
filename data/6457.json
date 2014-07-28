@@ -1,21 +1,79 @@
 {
   "source": "Frode Unneland",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6609",
+      "names": [
+        "Minor Earth Major Sky"
+      ],
+      "releases": [
+        {
+          "_id": "1320",
+          "names": [
+            "Minor Earth Major Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1022",
+          "names": [
+            "a-ha"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6610",
+      "names": [
+        "The Company Man"
+      ],
+      "releases": [
+        {
+          "_id": "1320",
+          "names": [
+            "Minor Earth Major Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1022",
+          "names": [
+            "a-ha"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Morten Harket",
       "targetId": "6454",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6609",
+        "6610"
+      ]
     },
     {
       "name": "Magne Furuholmen",
       "targetId": "6455",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6609",
+        "6610"
+      ]
     },
     {
       "name": "Paul Waaktaar-Savoy",
       "targetId": "6456",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6609",
+        "6610"
+      ]
     }
   ]
 }

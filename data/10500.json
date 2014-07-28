@@ -1,41 +1,112 @@
 {
   "source": "Silenoz",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12996",
+      "names": [
+        "Endings And Continuations"
+      ],
+      "releases": [
+        {
+          "_id": "2345",
+          "names": [
+            "Abrahadabra"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1674",
+          "names": [
+            "Dimmu Borgir"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12997",
+      "names": [
+        "Gateways"
+      ],
+      "releases": [
+        {
+          "_id": "2345",
+          "names": [
+            "Abrahadabra"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1674",
+          "names": [
+            "Dimmu Borgir"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Shagrath",
       "targetId": "10499",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12996",
+        "12997"
+      ]
     },
     {
       "name": "Galder",
       "targetId": "10501",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12996",
+        "12997"
+      ]
     },
     {
       "name": "Daray",
       "targetId": "10502",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12996",
+        "12997"
+      ]
     },
     {
       "name": "Ricky Black",
       "targetId": "10503",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12996"
+      ]
     },
     {
       "name": "Agnete Kjølsrud",
       "targetId": "10504",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12996",
+        "12997"
+      ]
     },
     {
       "name": "Kristoffer Rygg",
       "targetId": "10505",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12996"
+      ]
     },
     {
       "name": "Andy Sneap",
       "targetId": "10506",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12997"
+      ]
     }
   ]
 }

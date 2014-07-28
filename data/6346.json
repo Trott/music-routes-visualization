@@ -1,66 +1,355 @@
 {
   "source": "Laurent Vernerey",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "6506",
+      "names": [
+        "Quelqu'un M'a Dit"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6507",
+      "names": [
+        "Raphaël"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6508",
+      "names": [
+        "Tout Le Monde"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6509",
+      "names": [
+        "La Noyée"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6510",
+      "names": [
+        "Le Toi Du Moi"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6511",
+      "names": [
+        "Le Ciel Dans Une Chambre"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6514",
+      "names": [
+        "Chanson Triste"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6515",
+      "names": [
+        "L'excessive"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6516",
+      "names": [
+        "L'amour"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6661",
+      "names": [
+        "The More I Look"
+      ],
+      "releases": [
+        {
+          "_id": "1332",
+          "names": [
+            "Open The Door"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1030",
+          "names": [
+            "Roger Hodgson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Trevor Rabin",
       "targetId": "4183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6661"
+      ]
     },
     {
       "name": "Carla Bruni",
       "targetId": "6343",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "6506",
+        "6507",
+        "6508",
+        "6509",
+        "6510",
+        "6511",
+        "6514",
+        "6515",
+        "6516"
+      ]
     },
     {
       "name": "Louis Bertignac",
       "targetId": "6344",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "6506",
+        "6507",
+        "6508",
+        "6509",
+        "6510",
+        "6511",
+        "6514",
+        "6515",
+        "6516"
+      ]
     },
     {
       "name": "Vincent Catulescu",
       "targetId": "6345",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509",
+        "6511"
+      ]
     },
     {
       "name": "Steve Shehan",
       "targetId": "6347",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509",
+        "6515"
+      ]
     },
     {
       "name": "Roselyne Macario",
       "targetId": "6348",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509"
+      ]
     },
     {
       "name": "Léna Fablet",
       "targetId": "6349",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6506",
+        "6508",
+        "6509",
+        "6511"
+      ]
     },
     {
       "name": "Régis Ceccarelli",
       "targetId": "6350",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6507",
+        "6510",
+        "6514",
+        "6516"
+      ]
     },
     {
       "name": "Rachid Guissous",
       "targetId": "6351",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6510",
+        "6514"
+      ]
     },
     {
       "name": "Roger Hodgson",
       "targetId": "6527",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6661"
+      ]
     },
     {
       "name": "Loïc Ponthieu",
       "targetId": "6530",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6661"
+      ]
     },
     {
       "name": "Olivier Rousseau",
       "targetId": "6531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6661"
+      ]
     }
   ]
 }

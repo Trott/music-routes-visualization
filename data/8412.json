@@ -1,11 +1,38 @@
 {
   "source": "Wayne Newton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9121",
+      "names": [
+        "While The Feeling's Good"
+      ],
+      "releases": [
+        {
+          "_id": "1744",
+          "names": [
+            "Dynasty Collection #4: Country"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1335",
+          "names": [
+            "Wayne Newton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tammy Wynette",
       "targetId": "578",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9121"
+      ]
     }
   ]
 }

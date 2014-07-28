@@ -1,26 +1,140 @@
 {
   "source": "Bob Lozaga",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "4268",
+      "names": [
+        "Arabesque Intro"
+      ],
+      "releases": [
+        {
+          "_id": "856",
+          "names": [
+            "Time Is The Key"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "675",
+          "names": [
+            "Gong"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4269",
+      "names": [
+        "Arabesque"
+      ],
+      "releases": [
+        {
+          "_id": "856",
+          "names": [
+            "Time Is The Key"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "675",
+          "names": [
+            "Gong"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4270",
+      "names": [
+        "Esnuria Part Two"
+      ],
+      "releases": [
+        {
+          "_id": "856",
+          "names": [
+            "Time Is The Key"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "675",
+          "names": [
+            "Gong"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4271",
+      "names": [
+        "Time Is The Key"
+      ],
+      "releases": [
+        {
+          "_id": "856",
+          "names": [
+            "Time Is The Key"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "675",
+          "names": [
+            "Gong"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Allan Holdsworth",
       "targetId": "461",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4268",
+        "4269",
+        "4270",
+        "4271"
+      ]
     },
     {
       "name": "Hansford Rowe",
       "targetId": "4424",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4268",
+        "4269",
+        "4270",
+        "4271"
+      ]
     },
     {
       "name": "Pierre Moerlen",
       "targetId": "4425",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4268",
+        "4269",
+        "4270",
+        "4271"
+      ]
     },
     {
       "name": "Peter Lemer",
       "targetId": "4427",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4268",
+        "4269",
+        "4270",
+        "4271"
+      ]
     }
   ]
 }

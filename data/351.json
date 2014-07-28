@@ -1,21 +1,54 @@
 {
   "source": "Professor Griff",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "98",
+      "names": [
+        "Caught, Can We Get A Witness?"
+      ],
+      "releases": [
+        {
+          "_id": "79",
+          "names": [
+            "It Takes A Nation Of Millions To Hold Us Back"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "64",
+          "names": [
+            "Public Enemy"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chuck D",
       "targetId": "349",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "98"
+      ]
     },
     {
       "name": "Flavor Flav",
       "targetId": "350",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "98"
+      ]
     },
     {
       "name": "Terminator X",
       "targetId": "352",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "98"
+      ]
     }
   ]
 }

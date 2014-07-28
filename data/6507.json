@@ -1,41 +1,138 @@
 {
   "source": "Mike Tarantino",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6635",
+      "names": [
+        "High"
+      ],
+      "releases": [
+        {
+          "_id": "1327",
+          "names": [
+            "Back To Bedlam"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1027",
+          "names": [
+            "James Blunt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6636",
+      "names": [
+        "You're Beautiful"
+      ],
+      "releases": [
+        {
+          "_id": "1327",
+          "names": [
+            "Back To Bedlam"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1027",
+          "names": [
+            "James Blunt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6641",
+      "names": [
+        "So Long, Jimmy"
+      ],
+      "releases": [
+        {
+          "_id": "1327",
+          "names": [
+            "Back To Bedlam"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1027",
+          "names": [
+            "James Blunt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eric Gorfain",
       "targetId": "1664",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6636"
+      ]
     },
     {
       "name": "James Blunt",
       "targetId": "6506",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6635",
+        "6636",
+        "6641"
+      ]
     },
     {
       "name": "Sasha Kristov",
       "targetId": "6508",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6635",
+        "6636",
+        "6641"
+      ]
     },
     {
       "name": "Charlie Paxon",
       "targetId": "6509",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6635",
+        "6636",
+        "6641"
+      ]
     },
     {
       "name": "John Nau",
       "targetId": "6510",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6635",
+        "6636",
+        "6641"
+      ]
     },
     {
       "name": "John \"Gumby\" Goodwin",
       "targetId": "6512",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6641"
+      ]
     },
     {
       "name": "M. Chait",
       "targetId": "6514",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6641"
+      ]
     }
   ]
 }

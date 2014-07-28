@@ -1,11 +1,61 @@
 {
   "source": "Nancy Sinatra",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1493",
+      "names": [
+        "You Make Me Feel So Young (Old)"
+      ],
+      "releases": [
+        {
+          "_id": "356",
+          "names": [
+            "Classic Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1503",
+      "names": [
+        "Side By Side"
+      ],
+      "releases": [
+        {
+          "_id": "356",
+          "names": [
+            "Classic Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1493",
+        "1503"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Dee Dee Scott",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9485",
+      "names": [
+        "Talking Nonsense"
+      ],
+      "releases": [
+        {
+          "_id": "1828",
+          "names": [
+            "Spanish Fly"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1418",
+          "names": [
+            "Lisa Lisa & Cult Jam"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Lisa",
       "targetId": "8818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9485"
+      ]
     },
     {
       "name": "Spanador",
       "targetId": "8819",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9485"
+      ]
     },
     {
       "name": "Mike Hughes",
       "targetId": "8820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9485"
+      ]
     }
   ]
 }

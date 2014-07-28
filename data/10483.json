@@ -1,26 +1,62 @@
 {
   "source": "Kenny Passarelli",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12972",
+      "names": [
+        "Sorry Seems To Be The Hardest Word"
+      ],
+      "releases": [
+        {
+          "_id": "2338",
+          "names": [
+            "Blue Moves"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "James Newton Howard",
       "targetId": "650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12972"
+      ]
     },
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12972"
+      ]
     },
     {
       "name": "Ray Cooper",
       "targetId": "981",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12972"
+      ]
     },
     {
       "name": "Carl Fortina",
       "targetId": "1479",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12972"
+      ]
     }
   ]
 }

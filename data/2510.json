@@ -1,46 +1,142 @@
 {
   "source": "Arthur Lee",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2097",
+      "names": [
+        "A House Is Not A Motel"
+      ],
+      "releases": [
+        {
+          "_id": "479",
+          "names": [
+            "Forever Changes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "359",
+          "names": [
+            "Love"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2098",
+      "names": [
+        "Andmoreagain"
+      ],
+      "releases": [
+        {
+          "_id": "479",
+          "names": [
+            "Forever Changes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "359",
+          "names": [
+            "Love"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2099",
+      "names": [
+        "The Daily Planet"
+      ],
+      "releases": [
+        {
+          "_id": "479",
+          "names": [
+            "Forever Changes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "359",
+          "names": [
+            "Love"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2098",
+        "2099"
+      ]
     },
     {
       "name": "Carol Kaye",
       "targetId": "521",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2098",
+        "2099"
+      ]
     },
     {
       "name": "Billy Strange",
       "targetId": "1490",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2098",
+        "2099"
+      ]
     },
     {
       "name": "Don Randi",
       "targetId": "1516",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2098",
+        "2099"
+      ]
     },
     {
       "name": "Ken Forssi",
       "targetId": "2506",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2097"
+      ]
     },
     {
       "name": "Michael Stuart",
       "targetId": "2507",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2097"
+      ]
     },
     {
       "name": "John Echols",
       "targetId": "2508",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2097"
+      ]
     },
     {
       "name": "Bryan Maclean",
       "targetId": "2509",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2097"
+      ]
     }
   ]
 }

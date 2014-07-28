@@ -1,21 +1,54 @@
 {
   "source": "Josh Lattanzi",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "280",
+      "names": [
+        "Rule Of Three"
+      ],
+      "releases": [
+        {
+          "_id": "176",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "122",
+          "names": [
+            "The Lemonheads"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Evan Dando",
       "targetId": "730",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "280"
+      ]
     },
     {
       "name": "Bill Stevenson",
       "targetId": "733",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "280"
+      ]
     },
     {
       "name": "Gibby Haynes",
       "targetId": "735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "280"
+      ]
     }
   ]
 }

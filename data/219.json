@@ -1,26 +1,84 @@
 {
   "source": "Will Oldham",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "38",
+      "names": [
+        "Cold & Wet"
+      ],
+      "releases": [
+        {
+          "_id": "34",
+          "names": [
+            "Cold & Wet"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "30",
+          "names": [
+            "Bonny \"Prince\" Billy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "39",
+      "names": [
+        "I See A Darkness"
+      ],
+      "releases": [
+        {
+          "_id": "35",
+          "names": [
+            "American III: Solitary Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "31",
+          "names": [
+            "Johnny Cash"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alex Neilson",
       "targetId": "218",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "38"
+      ]
     },
     {
       "name": "Matt Sweeney",
       "targetId": "220",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "38"
+      ]
     },
     {
       "name": "Paul Oldham",
       "targetId": "221",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "38"
+      ]
     },
     {
       "name": "Johnny Cash",
       "targetId": "222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "39"
+      ]
     }
   ]
 }

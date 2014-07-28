@@ -1,26 +1,62 @@
 {
   "source": "Alex Darqui",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10312",
+      "names": [
+        "Continuum"
+      ],
+      "releases": [
+        {
+          "_id": "1987",
+          "names": [
+            "Jaco Pastorius"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1530",
+          "names": [
+            "Jaco Pastorius"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jaco Pastorius",
       "targetId": "345",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10312"
+      ]
     },
     {
       "name": "Don Alias",
       "targetId": "1261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10312"
+      ]
     },
     {
       "name": "Herbie Hancock",
       "targetId": "1264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10312"
+      ]
     },
     {
       "name": "Lenny White",
       "targetId": "1636",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10312"
+      ]
     }
   ]
 }

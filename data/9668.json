@@ -1,46 +1,144 @@
 {
   "source": "Ames Asbell",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "11014",
+      "names": [
+        "Black Like Me"
+      ],
+      "releases": [
+        {
+          "_id": "2093",
+          "names": [
+            "Ga Ga Ga Ga Ga"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1595",
+          "names": [
+            "Spoon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11016",
+      "names": [
+        "Two Sides Of Monsieur Valentine"
+      ],
+      "releases": [
+        {
+          "_id": "2094",
+          "names": [
+            "Gimme Fiction"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1595",
+          "names": [
+            "Spoon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11025",
+      "names": [
+        "Merchants Of Soul"
+      ],
+      "releases": [
+        {
+          "_id": "2094",
+          "names": [
+            "Gimme Fiction"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1595",
+          "names": [
+            "Spoon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Catchings",
       "targetId": "6495",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11014"
+      ]
     },
     {
       "name": "Britt Daniel",
       "targetId": "9654",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11014",
+        "11016",
+        "11025"
+      ]
     },
     {
       "name": "Eric Harvey",
       "targetId": "9655",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11014"
+      ]
     },
     {
       "name": "Jim Eno",
       "targetId": "9656",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11014",
+        "11016",
+        "11025"
+      ]
     },
     {
       "name": "Rob Pope",
       "targetId": "9657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11014"
+      ]
     },
     {
       "name": "Leigh Mahoney",
       "targetId": "9669",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11014"
+      ]
     },
     {
       "name": "Sara Nelson",
       "targetId": "9670",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11014",
+        "11016",
+        "11025"
+      ]
     },
     {
       "name": "Tracy Seeger",
       "targetId": "9671",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11014"
+      ]
     }
   ]
 }

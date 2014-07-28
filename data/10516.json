@@ -1,36 +1,150 @@
 {
   "source": "Chucho Merchan",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "13027",
+      "names": [
+        "I Eat Heavy Metal"
+      ],
+      "releases": [
+        {
+          "_id": "2349",
+          "names": [
+            "The Iron Man: A Musical"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1109",
+          "names": [
+            "Pete Townshend"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13028",
+      "names": [
+        "Over The Top"
+      ],
+      "releases": [
+        {
+          "_id": "2349",
+          "names": [
+            "The Iron Man: A Musical"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1109",
+          "names": [
+            "Pete Townshend"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13029",
+      "names": [
+        "Man Machines"
+      ],
+      "releases": [
+        {
+          "_id": "2349",
+          "names": [
+            "The Iron Man: A Musical"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1109",
+          "names": [
+            "Pete Townshend"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13030",
+      "names": [
+        "A Friend Is A Friend"
+      ],
+      "releases": [
+        {
+          "_id": "2349",
+          "names": [
+            "The Iron Man: A Musical"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1109",
+          "names": [
+            "Pete Townshend"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John \"Rabbit\" Bundrick",
       "targetId": "1960",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13030"
+      ]
     },
     {
       "name": "Pete Townshend",
       "targetId": "1985",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "13027",
+        "13028",
+        "13029",
+        "13030"
+      ]
     },
     {
       "name": "Simon Phillips",
       "targetId": "3386",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13027",
+        "13028",
+        "13029"
+      ]
     },
     {
       "name": "Charlie Morgan",
       "targetId": "9679",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13030"
+      ]
     },
     {
       "name": "John Lee Hooker",
       "targetId": "10515",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13027",
+        "13028"
+      ]
     },
     {
       "name": "Simon Townshend",
       "targetId": "10517",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13029"
+      ]
     }
   ]
 }

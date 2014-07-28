@@ -1,16 +1,46 @@
 {
   "source": "Gerry Devaux",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3827",
+      "names": [
+        "Better Late Than Never"
+      ],
+      "releases": [
+        {
+          "_id": "774",
+          "names": [
+            "Holy Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "604",
+          "names": [
+            "Legacy Of Sound"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Rönningen",
       "targetId": "3959",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3827"
+      ]
     },
     {
       "name": "Meja",
       "targetId": "3960",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3827"
+      ]
     }
   ]
 }

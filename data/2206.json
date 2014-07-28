@@ -1,81 +1,220 @@
 {
   "source": "Laurie Anderson",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2027",
+      "names": [
+        "This Is The Picture (Excellent Birds)"
+      ],
+      "releases": [
+        {
+          "_id": "459",
+          "names": [
+            "So"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "109",
+          "names": [
+            "Peter Gabriel"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2256",
+      "names": [
+        "Sharkey's Night"
+      ],
+      "releases": [
+        {
+          "_id": "562",
+          "names": [
+            "Mister Heartbreak"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "429",
+          "names": [
+            "Laurie Anderson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2257",
+      "names": [
+        "Sharkey's Day"
+      ],
+      "releases": [
+        {
+          "_id": "562",
+          "names": [
+            "Mister Heartbreak"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "429",
+          "names": [
+            "Laurie Anderson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3208",
+      "names": [
+        "Hang On To Your Emotions"
+      ],
+      "releases": [
+        {
+          "_id": "678",
+          "names": [
+            "Set The Twilight Reeling"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "532",
+          "names": [
+            "Lou Reed"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2256",
+        "2257"
+      ]
     },
     {
       "name": "Peter Gabriel",
       "targetId": "620",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2027"
+      ]
     },
     {
       "name": "Manu Katché",
       "targetId": "621",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2027"
+      ]
     },
     {
       "name": "B.J. Nelson",
       "targetId": "1426",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2257"
+      ]
     },
     {
       "name": "Daniel Lanois",
       "targetId": "2195",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2027"
+      ]
     },
     {
       "name": "Nile Rodgers",
       "targetId": "2204",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2027"
+      ]
     },
     {
       "name": "Bill Laswell",
       "targetId": "2205",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2027",
+        "2256",
+        "2257"
+      ]
     },
     {
       "name": "Lou Reed",
       "targetId": "2743",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3208"
+      ]
     },
     {
       "name": "Anton Fier",
       "targetId": "2771",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2256",
+        "2257"
+      ]
     },
     {
       "name": "Daniel Ponce",
       "targetId": "2772",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2257"
+      ]
     },
     {
       "name": "William S. Burroughs",
       "targetId": "2773",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2256"
+      ]
     },
     {
       "name": "Dolette McDonald",
       "targetId": "2774",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2257"
+      ]
     },
     {
       "name": "Michelle Cobbs",
       "targetId": "2775",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2257"
+      ]
     },
     {
       "name": "Fernando Saunders",
       "targetId": "3495",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3208"
+      ]
     },
     {
       "name": "Tony \"Thunder\" Smith",
       "targetId": "3510",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3208"
+      ]
     }
   ]
 }

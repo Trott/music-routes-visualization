@@ -1,51 +1,157 @@
 {
   "source": "Kevin Osborne",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2577",
+      "names": [
+        "Sleeping In The Flowers"
+      ],
+      "releases": [
+        {
+          "_id": "616",
+          "names": [
+            "John Henry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2584",
+      "names": [
+        "No One Knows My Plan"
+      ],
+      "releases": [
+        {
+          "_id": "616",
+          "names": [
+            "John Henry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2589",
+      "names": [
+        "Thermostat"
+      ],
+      "releases": [
+        {
+          "_id": "616",
+          "names": [
+            "John Henry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Quine",
       "targetId": "2770",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2577",
+        "2584"
+      ]
     },
     {
       "name": "Tony Maimone",
       "targetId": "2921",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2577",
+        "2589"
+      ]
     },
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2577",
+        "2584",
+        "2589"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2577",
+        "2584",
+        "2589"
+      ]
     },
     {
       "name": "Graham Maby",
       "targetId": "3069",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2584"
+      ]
     },
     {
       "name": "Brian Doherty",
       "targetId": "3070",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2577",
+        "2584",
+        "2589"
+      ]
     },
     {
       "name": "Kurt Hoffman",
       "targetId": "3072",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2577",
+        "2584",
+        "2589"
+      ]
     },
     {
       "name": "Frank London",
       "targetId": "3074",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2577"
+      ]
     },
     {
       "name": "Steven Bernstein",
       "targetId": "3075",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2584",
+        "2589"
+      ]
     }
   ]
 }

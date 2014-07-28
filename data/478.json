@@ -1,16 +1,46 @@
 {
   "source": "Shawn King Devlin",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "141",
+      "names": [
+        "Pat's Trick"
+      ],
+      "releases": [
+        {
+          "_id": "105",
+          "names": [
+            "The Dirt Of Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "79",
+          "names": [
+            "Helium"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mary Timony",
       "targetId": "476",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "141"
+      ]
     },
     {
       "name": "Ash Bowie",
       "targetId": "477",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "141"
+      ]
     }
   ]
 }

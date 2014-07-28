@@ -1,16 +1,46 @@
 {
   "source": "Paul Simpson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4887",
+      "names": [
+        "Satisfaction"
+      ],
+      "releases": [
+        {
+          "_id": "986",
+          "names": [
+            "Floored Genius 3"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "782",
+          "names": [
+            "Julian Cope"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Julian Cope",
       "targetId": "3879",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4887"
+      ]
     },
     {
       "name": "Will Sergeant",
       "targetId": "5047",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4887"
+      ]
     }
   ]
 }

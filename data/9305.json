@@ -1,41 +1,137 @@
 {
   "source": "Brian Reitzel",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "10165",
+      "names": [
+        "Gamera"
+      ],
+      "releases": [
+        {
+          "_id": "1954",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1512",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10168",
+      "names": [
+        "Where's The Moment"
+      ],
+      "releases": [
+        {
+          "_id": "1954",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1512",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10171",
+      "names": [
+        "Green"
+      ],
+      "releases": [
+        {
+          "_id": "1954",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1512",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Ralicke",
       "targetId": "5931",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10168",
+        "10171"
+      ]
     },
     {
       "name": "Greg Kurstin",
       "targetId": "9044",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10165",
+        "10168",
+        "10171"
+      ]
     },
     {
       "name": "Yogi",
       "targetId": "9301",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10165",
+        "10168",
+        "10171"
+      ]
     },
     {
       "name": "Gabrial McNair",
       "targetId": "9302",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10168",
+        "10171"
+      ]
     },
     {
       "name": "Daniel Shulman",
       "targetId": "9303",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10165",
+        "10168"
+      ]
     },
     {
       "name": "Sean Lennon",
       "targetId": "9306",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10165"
+      ]
     },
     {
       "name": "Pamelia Kurstin",
       "targetId": "9308",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10171"
+      ]
     }
   ]
 }

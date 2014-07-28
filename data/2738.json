@@ -1,16 +1,46 @@
 {
   "source": "Ron Eglit",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2249",
+      "names": [
+        "Ghostriders In The Sky"
+      ],
+      "releases": [
+        {
+          "_id": "555",
+          "names": [
+            "Unknown Territory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "424",
+          "names": [
+            "Dick Dale"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Huey Lewis",
       "targetId": "65",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2249"
+      ]
     },
     {
       "name": "Dick Dale",
       "targetId": "2737",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2249"
+      ]
     }
   ]
 }

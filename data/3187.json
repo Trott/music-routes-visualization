@@ -1,41 +1,113 @@
 {
   "source": "Nigel Jenkins",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2793",
+      "names": [
+        "Baker Street"
+      ],
+      "releases": [
+        {
+          "_id": "638",
+          "names": [
+            "City To City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "499",
+          "names": [
+            "Gerry Rafferty"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2799",
+      "names": [
+        "Home And Dry"
+      ],
+      "releases": [
+        {
+          "_id": "638",
+          "names": [
+            "City To City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "499",
+          "names": [
+            "Gerry Rafferty"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gerry Rafferty",
       "targetId": "3172",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2793",
+        "2799"
+      ]
     },
     {
       "name": "Gary Taylor",
       "targetId": "3175",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2793",
+        "2799"
+      ]
     },
     {
       "name": "Glen LeFleur",
       "targetId": "3181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2793"
+      ]
     },
     {
       "name": "Henry Spinetti",
       "targetId": "3182",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2793",
+        "2799"
+      ]
     },
     {
       "name": "Hugh Burns",
       "targetId": "3185",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2793",
+        "2799"
+      ]
     },
     {
       "name": "Tommy Eyre",
       "targetId": "3190",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2793",
+        "2799"
+      ]
     },
     {
       "name": "Raphael Ravenscroft",
       "targetId": "3191",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2793"
+      ]
     }
   ]
 }

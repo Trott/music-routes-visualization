@@ -1,26 +1,87 @@
 {
   "source": "Ian St. Pe",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4718",
+      "names": [
+        "Born To Be A Man"
+      ],
+      "releases": [
+        {
+          "_id": "962",
+          "names": [
+            "\"Born To Be A Man\" b/w \"Hippys\" 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "760",
+          "names": [
+            "Black Lips"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4719",
+      "names": [
+        "Hippys"
+      ],
+      "releases": [
+        {
+          "_id": "962",
+          "names": [
+            "\"Born To Be A Man\" b/w \"Hippys\" 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "760",
+          "names": [
+            "Black Lips"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Cole Alexander",
       "targetId": "4969",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4718",
+        "4719"
+      ]
     },
     {
       "name": "Jaredy Swilley",
       "targetId": "4970",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4718",
+        "4719"
+      ]
     },
     {
       "name": "Joe Bradley",
       "targetId": "4971",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4718",
+        "4719"
+      ]
     },
     {
       "name": "King Khan",
       "targetId": "4973",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4718"
+      ]
     }
   ]
 }

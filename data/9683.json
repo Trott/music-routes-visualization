@@ -1,11 +1,38 @@
 {
   "source": "Chip Kinman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11034",
+      "names": [
+        "Mr. Big"
+      ],
+      "releases": [
+        {
+          "_id": "2055",
+          "names": [
+            "No Thanks! The '70s Punk Rebellion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1597",
+          "names": [
+            "The Dils"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tony Kinman",
       "targetId": "9684",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11034"
+      ]
     }
   ]
 }

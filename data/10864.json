@@ -1,71 +1,159 @@
 {
   "source": "Rigo Herrera",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13384",
+      "names": [
+        "Conga (Intro)"
+      ],
+      "releases": [
+        {
+          "_id": "2431",
+          "names": [
+            "Danzón (Dance On)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1732",
+          "names": [
+            "Arturo Sandoval"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13385",
+      "names": [
+        "Africa"
+      ],
+      "releases": [
+        {
+          "_id": "2431",
+          "names": [
+            "Danzón (Dance On)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1732",
+          "names": [
+            "Arturo Sandoval"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Cosby",
       "targetId": "523",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Gloria Estefan",
       "targetId": "1768",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13385"
+      ]
     },
     {
       "name": "Arturo Sandoval",
       "targetId": "10862",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13384",
+        "13385"
+      ]
     },
     {
       "name": "Carlos Gomez",
       "targetId": "10863",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13384",
+        "13385"
+      ]
     },
     {
       "name": "Juan Nogueras",
       "targetId": "10865",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Giovanni Hidalgo",
       "targetId": "10866",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13384",
+        "13385"
+      ]
     },
     {
       "name": "Cheito Quinonez",
       "targetId": "10867",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Rita Quintero",
       "targetId": "10868",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13384"
+      ]
     },
     {
       "name": "Dana Teboe",
       "targetId": "10869",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13385"
+      ]
     },
     {
       "name": "Ed Calle",
       "targetId": "10870",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13385"
+      ]
     },
     {
       "name": "Rene Luis Toledo",
       "targetId": "10871",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13385"
+      ]
     },
     {
       "name": "Richard Eddy",
       "targetId": "10872",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13385"
+      ]
     },
     {
       "name": "Kenny Anderson",
       "targetId": "10873",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13385"
+      ]
     }
   ]
 }

@@ -1,56 +1,135 @@
 {
   "source": "Hoss",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1169",
+      "names": [
+        "Teenage Wristband"
+      ],
+      "releases": [
+        {
+          "_id": "324",
+          "names": [
+            "Blackberry Belle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1170",
+      "names": [
+        "Number Nine"
+      ],
+      "releases": [
+        {
+          "_id": "324",
+          "names": [
+            "Blackberry Belle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Petra Haden",
       "targetId": "774",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1169",
+        "1170"
+      ]
     },
     {
       "name": "Mark Lanegan",
       "targetId": "779",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1170"
+      ]
     },
     {
       "name": "Greg Dulli",
       "targetId": "1641",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1169",
+        "1170"
+      ]
     },
     {
       "name": "Jon Skibic",
       "targetId": "1642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1170"
+      ]
     },
     {
       "name": "Michael Sullivan",
       "targetId": "1649",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1169",
+        "1170"
+      ]
     },
     {
       "name": "Jesse Tobias",
       "targetId": "1651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Apollonia",
       "targetId": "1652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Steve Myers",
       "targetId": "1653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Richard Ford",
       "targetId": "1654",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1170"
+      ]
     },
     {
       "name": "Rick Steff",
       "targetId": "1655",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1170"
+      ]
     }
   ]
 }

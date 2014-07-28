@@ -1,26 +1,88 @@
 {
   "source": "Patrick Pantano",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13412",
+      "names": [
+        "2+2=?"
+      ],
+      "releases": [
+        {
+          "_id": "2450",
+          "names": [
+            "\"2+2=?\" 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1744",
+          "names": [
+            "Seger Liberation Army"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13413",
+      "names": [
+        "East Side Story"
+      ],
+      "releases": [
+        {
+          "_id": "2450",
+          "names": [
+            "\"2+2=?\" 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1744",
+          "names": [
+            "Seger Liberation Army"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Weber",
       "targetId": "10946",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13412",
+        "13413"
+      ]
     },
     {
       "name": "Frederick Beldin",
       "targetId": "10949",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13412",
+        "13413"
+      ]
     },
     {
       "name": "James Diamond",
       "targetId": "10950",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13412",
+        "13413"
+      ]
     },
     {
       "name": "Thomas Potter",
       "targetId": "10951",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13412",
+        "13413"
+      ]
     }
   ]
 }

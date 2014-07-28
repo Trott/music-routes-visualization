@@ -1,11 +1,38 @@
 {
   "source": "Barry Hay",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6688",
+      "names": [
+        "I Don't Want To Be"
+      ],
+      "releases": [
+        {
+          "_id": "1339",
+          "names": [
+            "Leave The Light On (Dutch Special Edition, 2005)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1036",
+          "names": [
+            "Beth Hart"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Beth Hart",
       "targetId": "6558",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6688"
+      ]
     }
   ]
 }

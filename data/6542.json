@@ -1,11 +1,38 @@
 {
   "source": "Mariza",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6676",
+      "names": [
+        "A Thousand Years"
+      ],
+      "releases": [
+        {
+          "_id": "1336",
+          "names": [
+            "Unity: The Official Athens 2004 Olympic Games Album"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1033",
+          "names": [
+            "Sting & Mariza"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sting",
       "targetId": "122",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6676"
+      ]
     }
   ]
 }

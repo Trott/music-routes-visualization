@@ -1,26 +1,114 @@
 {
   "source": "Joe Byrd",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "9270",
+      "names": [
+        "Undecided"
+      ],
+      "releases": [
+        {
+          "_id": "1792",
+          "names": [
+            "Great Guitars"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1388",
+          "names": [
+            "Great Guitars"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9271",
+      "names": [
+        "Topsy"
+      ],
+      "releases": [
+        {
+          "_id": "1792",
+          "names": [
+            "Great Guitars"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1388",
+          "names": [
+            "Great Guitars"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9272",
+      "names": [
+        "Benny's Bugle"
+      ],
+      "releases": [
+        {
+          "_id": "1792",
+          "names": [
+            "Great Guitars"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1388",
+          "names": [
+            "Great Guitars"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9270",
+        "9271",
+        "9272"
+      ]
     },
     {
       "name": "Herb Ellis",
       "targetId": "7153",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9270",
+        "9271",
+        "9272"
+      ]
     },
     {
       "name": "Charlie Byrd",
       "targetId": "8672",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9270",
+        "9271",
+        "9272"
+      ]
     },
     {
       "name": "John Rae",
       "targetId": "8674",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9270",
+        "9271",
+        "9272"
+      ]
     }
   ]
 }

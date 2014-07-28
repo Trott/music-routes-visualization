@@ -1,21 +1,54 @@
 {
   "source": "Elliot Wolff",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7517",
+      "names": [
+        "Straight Up"
+      ],
+      "releases": [
+        {
+          "_id": "1483",
+          "names": [
+            "Forever Your Girl"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1141",
+          "names": [
+            "Paula Abdul"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dann Huff",
       "targetId": "1450",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7517"
+      ]
     },
     {
       "name": "Paula Abdul",
       "targetId": "7186",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7517"
+      ]
     },
     {
       "name": "Delisa Davis",
       "targetId": "7200",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7517"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Emilie Autumn",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8818",
+      "names": [
+        "DIA"
+      ],
+      "releases": [
+        {
+          "_id": "1689",
+          "names": [
+            "TheFutureEmbrace"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1301",
+          "names": [
+            "Billy Corgan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Chamberlin",
       "targetId": "2826",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8818"
+      ]
     },
     {
       "name": "Billy Corgan",
       "targetId": "2827",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8818"
+      ]
     }
   ]
 }

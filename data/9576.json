@@ -1,26 +1,62 @@
 {
   "source": "Trevor Burton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10860",
+      "names": [
+        "You Got Me Floatin'"
+      ],
+      "releases": [
+        {
+          "_id": "2067",
+          "names": [
+            "Axis: Bold As Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "406",
+          "names": [
+            "The Jimi Hendrix Experience"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mitch Mitchell",
       "targetId": "2685",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10860"
+      ]
     },
     {
       "name": "Noel Redding",
       "targetId": "2688",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10860"
+      ]
     },
     {
       "name": "Jimi Hendrix",
       "targetId": "2689",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10860"
+      ]
     },
     {
       "name": "Roy Wood",
       "targetId": "3351",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10860"
+      ]
     }
   ]
 }

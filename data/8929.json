@@ -1,41 +1,132 @@
 {
   "source": "Lil' Fame",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "9655",
+      "names": [
+        "Ante Up (Robbin Hoodz Theory)"
+      ],
+      "releases": [
+        {
+          "_id": "1849",
+          "names": [
+            "Warriorz"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1432",
+          "names": [
+            "M.O.P."
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9656",
+      "names": [
+        "Symphony"
+      ],
+      "releases": [
+        {
+          "_id": "1850",
+          "names": [
+            "Out Of Business"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1433",
+          "names": [
+            "EPMD"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9660",
+      "names": [
+        "Who Got Gunz"
+      ],
+      "releases": [
+        {
+          "_id": "1851",
+          "names": [
+            "The Ownerz"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1434",
+          "names": [
+            "Gang Starr"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "DJ Premier",
       "targetId": "6657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9660"
+      ]
     },
     {
       "name": "Billy Danze",
       "targetId": "8930",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9655",
+        "9656",
+        "9660"
+      ]
     },
     {
       "name": "Funkmaster Flex",
       "targetId": "8931",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9655"
+      ]
     },
     {
       "name": "Erick Sermon",
       "targetId": "8932",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9656"
+      ]
     },
     {
       "name": "Parrish Smith",
       "targetId": "8933",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9656"
+      ]
     },
     {
       "name": "Guru",
       "targetId": "8936",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9660"
+      ]
     },
     {
       "name": "Fat Joe",
       "targetId": "8938",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9660"
+      ]
     }
   ]
 }

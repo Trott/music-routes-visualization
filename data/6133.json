@@ -1,11 +1,38 @@
 {
   "source": "Amy Dorsey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6195",
+      "names": [
+        "Baby Got Back"
+      ],
+      "releases": [
+        {
+          "_id": "1251",
+          "names": [
+            "Mack Daddy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "551",
+          "names": [
+            "Sir Mix-A-Lot"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sir Mix-A-Lot",
       "targetId": "3653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6195"
+      ]
     }
   ]
 }

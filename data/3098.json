@@ -1,21 +1,54 @@
 {
   "source": "Grant Olsen",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2616",
+      "names": [
+        "The Distance"
+      ],
+      "releases": [
+        {
+          "_id": "619",
+          "names": [
+            "Dumb Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "482",
+          "names": [
+            "Dntel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Tamborello",
       "targetId": "3024",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2616"
+      ]
     },
     {
       "name": "Scott Blue",
       "targetId": "3096",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2616"
+      ]
     },
     {
       "name": "Sonya Westcott",
       "targetId": "3097",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2616"
+      ]
     }
   ]
 }

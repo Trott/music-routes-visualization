@@ -1,121 +1,359 @@
 {
   "source": "Glenn Frey",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "116",
+      "names": [
+        "Rednecks"
+      ],
+      "releases": [
+        {
+          "_id": "90",
+          "names": [
+            "Good Old Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "119",
+      "names": [
+        "Short People"
+      ],
+      "releases": [
+        {
+          "_id": "91",
+          "names": [
+            "Little Criminals"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "120",
+      "names": [
+        "Little Criminals"
+      ],
+      "releases": [
+        {
+          "_id": "91",
+          "names": [
+            "Little Criminals"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "357",
+      "names": [
+        "The French Inhaler"
+      ],
+      "releases": [
+        {
+          "_id": "195",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "575",
+      "names": [
+        "Carmelita"
+      ],
+      "releases": [
+        {
+          "_id": "195",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2231",
+      "names": [
+        "Drivin' Wheel"
+      ],
+      "releases": [
+        {
+          "_id": "542",
+          "names": [
+            "B.B. King & Friends - 80"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "413",
+          "names": [
+            "B.B. King"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2268",
+      "names": [
+        "Hotel California"
+      ],
+      "releases": [
+        {
+          "_id": "572",
+          "names": [
+            "Hotel California"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "439",
+          "names": [
+            "The Eagles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andy Newmark",
       "targetId": "271",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "116",
+        "120"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "119"
+      ]
     },
     {
       "name": "Warren Zevon",
       "targetId": "346",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "357",
+        "575"
+      ]
     },
     {
       "name": "Randy Newman",
       "targetId": "370",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "116",
+        "119",
+        "120"
+      ]
     },
     {
       "name": "Al Perkins",
       "targetId": "377",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "116"
+      ]
     },
     {
       "name": "Russ Titelman",
       "targetId": "378",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "116"
+      ]
     },
     {
       "name": "Don Henley",
       "targetId": "380",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "116",
+        "357",
+        "2268"
+      ]
     },
     {
       "name": "Bernie Leadon",
       "targetId": "381",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "116"
+      ]
     },
     {
       "name": "Willie Weeks",
       "targetId": "384",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "120"
+      ]
     },
     {
       "name": "Michael Boddicker",
       "targetId": "385",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "119",
+        "120"
+      ]
     },
     {
       "name": "Waddy Wachtel",
       "targetId": "386",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "119",
+        "357",
+        "575"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "119"
+      ]
     },
     {
       "name": "Milt Holland",
       "targetId": "388",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "119",
+        "120"
+      ]
     },
     {
       "name": "J.D. Souther",
       "targetId": "390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "119"
+      ]
     },
     {
       "name": "Timothy B. Schmit",
       "targetId": "391",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "119"
+      ]
     },
     {
       "name": "Joe Walsh",
       "targetId": "392",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "120",
+        "2268"
+      ]
     },
     {
       "name": "Rick Marotta",
       "targetId": "393",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "120"
+      ]
     },
     {
       "name": "B.B. King",
       "targetId": "565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2231"
+      ]
     },
     {
       "name": "David Lindley",
       "targetId": "641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "575"
+      ]
     },
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "357",
+        "575"
+      ]
     },
     {
       "name": "Larry Zack",
       "targetId": "643",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "357",
+        "575"
+      ]
     },
     {
       "name": "Don Felder",
       "targetId": "668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2268"
+      ]
     },
     {
       "name": "Randy Meisner",
       "targetId": "2813",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2268"
+      ]
     }
   ]
 }

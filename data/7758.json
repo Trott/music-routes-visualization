@@ -1,21 +1,54 @@
 {
   "source": "Bea Rosse",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8157",
+      "names": [
+        "'A' - You're Adorable"
+      ],
+      "releases": [
+        {
+          "_id": "1595",
+          "names": [
+            "The Very Best Of Perry Como"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1219",
+          "names": [
+            "Perry Como"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Perry Como",
       "targetId": "7757",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8157"
+      ]
     },
     {
       "name": "Marge Rosse",
       "targetId": "7759",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8157"
+      ]
     },
     {
       "name": "Geri Rosse",
       "targetId": "7760",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8157"
+      ]
     }
   ]
 }

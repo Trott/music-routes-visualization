@@ -1,31 +1,95 @@
 {
   "source": "B.P. Hurding",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10772",
+      "names": [
+        "The Day The World Turned Day-Glo"
+      ],
+      "releases": [
+        {
+          "_id": "2055",
+          "names": [
+            "No Thanks! The '70s Punk Rebellion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1568",
+          "names": [
+            "X-Ray Spex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10773",
+      "names": [
+        "Oh Bondage Up Yours!"
+      ],
+      "releases": [
+        {
+          "_id": "2055",
+          "names": [
+            "No Thanks! The '70s Punk Rebellion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1568",
+          "names": [
+            "X-Ray Spex"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Dean",
       "targetId": "9545",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10772",
+        "10773"
+      ]
     },
     {
       "name": "Poly Styrene",
       "targetId": "9546",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10772",
+        "10773"
+      ]
     },
     {
       "name": "Jak Airport",
       "targetId": "9547",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10772",
+        "10773"
+      ]
     },
     {
       "name": "Ted Bunting",
       "targetId": "9549",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10772"
+      ]
     },
     {
       "name": "Lora Logic",
       "targetId": "9550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10773"
+      ]
     }
   ]
 }

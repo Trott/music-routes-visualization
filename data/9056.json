@@ -1,76 +1,189 @@
 {
   "source": "Leo Kottke",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "9816",
+      "names": [
+        "Cold Canyon"
+      ],
+      "releases": [
+        {
+          "_id": "1881",
+          "names": [
+            "The Blind Leading The Naked"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1454",
+          "names": [
+            "Violent Femmes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9817",
+      "names": [
+        "Baltimore"
+      ],
+      "releases": [
+        {
+          "_id": "1882",
+          "names": [
+            "Joshua Judges Ruth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "488",
+          "names": [
+            "Lyle Lovett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9818",
+      "names": [
+        "Family Reserve"
+      ],
+      "releases": [
+        {
+          "_id": "1882",
+          "names": [
+            "Joshua Judges Ruth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "488",
+          "names": [
+            "Lyle Lovett"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Russ Kunkel",
       "targetId": "458",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9818"
+      ]
     },
     {
       "name": "Matt Rollings",
       "targetId": "589",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9817",
+        "9818"
+      ]
     },
     {
       "name": "Kevin Dorsey",
       "targetId": "2357",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9818"
+      ]
     },
     {
       "name": "Lyle Lovett",
       "targetId": "3124",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9817",
+        "9818"
+      ]
     },
     {
       "name": "John Hagen",
       "targetId": "3125",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9817",
+        "9818"
+      ]
     },
     {
       "name": "Francine Reed",
       "targetId": "3131",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9818"
+      ]
     },
     {
       "name": "Arnold McCuller",
       "targetId": "3481",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9818"
+      ]
     },
     {
       "name": "\"Sweet Pea\" Atkinson",
       "targetId": "6057",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9818"
+      ]
     },
     {
       "name": "Harry Bowens",
       "targetId": "6058",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9818"
+      ]
     },
     {
       "name": "Gordon Gano",
       "targetId": "9057",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9816"
+      ]
     },
     {
       "name": "Victor DeLorenzo",
       "targetId": "9058",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9816"
+      ]
     },
     {
       "name": "Brian Ritchie",
       "targetId": "9059",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9816"
+      ]
     },
     {
       "name": "Edgar Meyer",
       "targetId": "9060",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9818"
+      ]
     },
     {
       "name": "Kathy Hazzard",
       "targetId": "9061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9818"
+      ]
     }
   ]
 }

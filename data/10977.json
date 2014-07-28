@@ -1,26 +1,62 @@
 {
   "source": "Art Blakey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13434",
+      "names": [
+        "Four In One"
+      ],
+      "releases": [
+        {
+          "_id": "2460",
+          "names": [
+            "Genius Of Modern Music: Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1154",
+          "names": [
+            "Thelonious Monk"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Milt Jackson",
       "targetId": "1931",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13434"
+      ]
     },
     {
       "name": "Thelonious Monk",
       "targetId": "7250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13434"
+      ]
     },
     {
       "name": "Al McKibbon",
       "targetId": "10692",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13434"
+      ]
     },
     {
       "name": "Sahib Shihab",
       "targetId": "10976",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13434"
+      ]
     }
   ]
 }

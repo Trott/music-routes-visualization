@@ -1,21 +1,54 @@
 {
   "source": "Neil Gust",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13",
+      "names": [
+        "Get Lucky"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tony Lash",
       "targetId": "14",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13"
+      ]
     },
     {
       "name": "Sam Coomes",
       "targetId": "23",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13"
+      ]
     },
     {
       "name": "Elliott Smith",
       "targetId": "25",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "David Ricketts",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "605",
+      "names": [
+        "Leaving Las Vegas"
+      ],
+      "releases": [
+        {
+          "_id": "232",
+          "names": [
+            "Tuesday Night Music Club"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sheryl Crow",
       "targetId": "1018",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "605"
+      ]
     }
   ]
 }

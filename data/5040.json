@@ -1,31 +1,96 @@
 {
   "source": "Steve Rossi",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4872",
+      "names": [
+        "Dream Gasoline"
+      ],
+      "releases": [
+        {
+          "_id": "982",
+          "names": [
+            "Moon In Grenadine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "779",
+          "names": [
+            "Emily Bezar"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4873",
+      "names": [
+        "Dancing Past Elysium"
+      ],
+      "releases": [
+        {
+          "_id": "982",
+          "names": [
+            "Moon In Grenadine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "779",
+          "names": [
+            "Emily Bezar"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Grady",
       "targetId": "996",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4872",
+        "4873"
+      ]
     },
     {
       "name": "Emily Bezar",
       "targetId": "5037",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4872",
+        "4873"
+      ]
     },
     {
       "name": "David Barret",
       "targetId": "5038",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4872"
+      ]
     },
     {
       "name": "Andrew Higgins",
       "targetId": "5039",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4872",
+        "4873"
+      ]
     },
     {
       "name": "Morris Acevedo",
       "targetId": "5041",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4872",
+        "4873"
+      ]
     }
   ]
 }

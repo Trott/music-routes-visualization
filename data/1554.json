@@ -1,31 +1,70 @@
 {
   "source": "Lonnie Mack",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1059",
+      "names": [
+        "Roadhouse Blues"
+      ],
+      "releases": [
+        {
+          "_id": "301",
+          "names": [
+            "Morrison Hotel"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "217",
+          "names": [
+            "The Doors"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Morrison",
       "targetId": "1550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "Robby Krieger",
       "targetId": "1551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "Ray Manzarek",
       "targetId": "1552",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "John Densmore",
       "targetId": "1553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "John Sebastian",
       "targetId": "1555",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     }
   ]
 }

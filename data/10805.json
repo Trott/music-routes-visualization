@@ -1,16 +1,46 @@
 {
   "source": "Andy Runyon",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13322",
+      "names": [
+        "Wooly"
+      ],
+      "releases": [
+        {
+          "_id": "2407",
+          "names": [
+            "The Good Old Days Are Gone"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1714",
+          "names": [
+            "Mosshead"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Marty Mattern",
       "targetId": "10803",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13322"
+      ]
     },
     {
       "name": "Fred Gray",
       "targetId": "10804",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13322"
+      ]
     }
   ]
 }

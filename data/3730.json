@@ -1,26 +1,88 @@
 {
   "source": "Chris Brown",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3609",
+      "names": [
+        "Hey Joe"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3610",
+      "names": [
+        "For What It's Worth"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3609",
+        "3610"
+      ]
     },
     {
       "name": "John Bonham",
       "targetId": "303",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3609",
+        "3610"
+      ]
     },
     {
       "name": "Kevin Gammond",
       "targetId": "3729",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3609",
+        "3610"
+      ]
     },
     {
       "name": "Paul Lockie",
       "targetId": "3731",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3609",
+        "3610"
+      ]
     }
   ]
 }

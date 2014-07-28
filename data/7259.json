@@ -1,36 +1,232 @@
 {
   "source": "Percy Heath",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "7605",
+      "names": [
+        "Bags' Groove (Take 1)"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7606",
+      "names": [
+        "Bags' Groove (Take 2)"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7607",
+      "names": [
+        "Airegin"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7608",
+      "names": [
+        "Oleo"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7609",
+      "names": [
+        "But Not For Me (Take 2)"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7610",
+      "names": [
+        "Doxy"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7611",
+      "names": [
+        "But Not For Me (Take 1)"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "7605",
+        "7606",
+        "7607",
+        "7608",
+        "7609",
+        "7610",
+        "7611"
+      ]
     },
     {
       "name": "Milt Jackson",
       "targetId": "1931",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7605",
+        "7606"
+      ]
     },
     {
       "name": "Sonny Rollins",
       "targetId": "4556",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7607",
+        "7608",
+        "7609",
+        "7610",
+        "7611"
+      ]
     },
     {
       "name": "Thelonious Monk",
       "targetId": "7250",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7605",
+        "7606"
+      ]
     },
     {
       "name": "Kenny Clarke",
       "targetId": "7260",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "7605",
+        "7606",
+        "7607",
+        "7608",
+        "7609",
+        "7610",
+        "7611"
+      ]
     },
     {
       "name": "Horace Silver",
       "targetId": "7261",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7607",
+        "7608",
+        "7609",
+        "7610",
+        "7611"
+      ]
     }
   ]
 }

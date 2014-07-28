@@ -1,21 +1,76 @@
 {
   "source": "Ben Kweller",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4511",
+      "names": [
+        "Bruised"
+      ],
+      "releases": [
+        {
+          "_id": "912",
+          "names": [
+            "Supersunnyspeedgraphic, The LP"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "719",
+          "names": [
+            "Ben Folds"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7343",
+      "names": [
+        "How It Should Be (Sha Sha)"
+      ],
+      "releases": [
+        {
+          "_id": "1440",
+          "names": [
+            "Sha Sha"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1110",
+          "names": [
+            "Ben Kweller"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Folds",
       "targetId": "180",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4511"
+      ]
     },
     {
       "name": "Ben Lee",
       "targetId": "4674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4511"
+      ]
     },
     {
       "name": "Kimya Dawson",
       "targetId": "7040",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7343"
+      ]
     }
   ]
 }

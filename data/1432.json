@@ -1,61 +1,419 @@
 {
   "source": "Chris Squire",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "951",
+      "names": [
+        "Roundabout"
+      ],
+      "releases": [
+        {
+          "_id": "284",
+          "names": [
+            "Fragile"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "952",
+      "names": [
+        "South Side Of The Sky"
+      ],
+      "releases": [
+        {
+          "_id": "284",
+          "names": [
+            "Fragile"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "953",
+      "names": [
+        "Long Distance Runaround"
+      ],
+      "releases": [
+        {
+          "_id": "284",
+          "names": [
+            "Fragile"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "954",
+      "names": [
+        "Heart Of The Sunrise"
+      ],
+      "releases": [
+        {
+          "_id": "284",
+          "names": [
+            "Fragile"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3888",
+      "names": [
+        "Cadillac Dreams"
+      ],
+      "releases": [
+        {
+          "_id": "795",
+          "names": [
+            "Original Syn 1965-2004"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "623",
+          "names": [
+            "Narsquijack"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3889",
+      "names": [
+        "Sunset Boulevard Lament"
+      ],
+      "releases": [
+        {
+          "_id": "795",
+          "names": [
+            "Original Syn 1965-2004"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "623",
+          "names": [
+            "Narsquijack"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4272",
+      "names": [
+        "Machine Messiah"
+      ],
+      "releases": [
+        {
+          "_id": "857",
+          "names": [
+            "Drama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4273",
+      "names": [
+        "White Car"
+      ],
+      "releases": [
+        {
+          "_id": "857",
+          "names": [
+            "Drama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4274",
+      "names": [
+        "Does It Really Happen?"
+      ],
+      "releases": [
+        {
+          "_id": "857",
+          "names": [
+            "Drama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4275",
+      "names": [
+        "Into The Lens"
+      ],
+      "releases": [
+        {
+          "_id": "857",
+          "names": [
+            "Drama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4276",
+      "names": [
+        "Run Through The Light"
+      ],
+      "releases": [
+        {
+          "_id": "857",
+          "names": [
+            "Drama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4277",
+      "names": [
+        "Tempus Fugit"
+      ],
+      "releases": [
+        {
+          "_id": "857",
+          "names": [
+            "Drama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13357",
+      "names": [
+        "Beyond And Before"
+      ],
+      "releases": [
+        {
+          "_id": "2423",
+          "names": [
+            "Yes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "201",
+          "names": [
+            "Yes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Bruford",
       "targetId": "340",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "13357"
+      ]
     },
     {
       "name": "Jon Anderson",
       "targetId": "536",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "13357"
+      ]
     },
     {
       "name": "Rick Wakeman",
       "targetId": "792",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "951",
+        "952",
+        "953",
+        "954"
+      ]
     },
     {
       "name": "Steve Howe",
       "targetId": "1431",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "951",
+        "952",
+        "953",
+        "954",
+        "4272",
+        "4273",
+        "4274",
+        "4275",
+        "4276",
+        "4277"
+      ]
     },
     {
       "name": "Geoff Downes",
       "targetId": "3639",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4272",
+        "4273",
+        "4274",
+        "4275",
+        "4276",
+        "4277"
+      ]
     },
     {
       "name": "Andrew Jackman",
       "targetId": "4093",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3888",
+        "3889"
+      ]
     },
     {
       "name": "Steve Nardelli",
       "targetId": "4094",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3888",
+        "3889"
+      ]
     },
     {
       "name": "Alan White",
       "targetId": "4428",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4272",
+        "4273",
+        "4274",
+        "4275",
+        "4276",
+        "4277"
+      ]
     },
     {
       "name": "Trevor Horn",
       "targetId": "4429",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4272",
+        "4273",
+        "4274",
+        "4275",
+        "4276",
+        "4277"
+      ]
     },
     {
       "name": "Peter Banks",
       "targetId": "10847",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13357"
+      ]
     },
     {
       "name": "Tony Kaye",
       "targetId": "10851",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13357"
+      ]
     }
   ]
 }

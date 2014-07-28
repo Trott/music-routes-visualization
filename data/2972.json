@@ -1,21 +1,54 @@
 {
   "source": "Donald Johnson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2494",
+      "names": [
+        "Feel Every Beat"
+      ],
+      "releases": [
+        {
+          "_id": "607",
+          "names": [
+            "Get The Message: The Best Of Electronic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "469",
+          "names": [
+            "Electronic"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Palmer",
       "targetId": "2959",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2494"
+      ]
     },
     {
       "name": "Johnny Marr",
       "targetId": "2966",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2494"
+      ]
     },
     {
       "name": "Bernard Sumner",
       "targetId": "2967",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2494"
+      ]
     }
   ]
 }

@@ -1,51 +1,179 @@
 {
   "source": "Glen Swarts",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "12",
+      "names": [
+        "Ringing The Changes"
+      ],
+      "releases": [
+        {
+          "_id": "10",
+          "names": [
+            "Your Trendy Dump"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "10",
+          "names": [
+            "Glasstown"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "318",
+      "names": [
+        "Half Light"
+      ],
+      "releases": [
+        {
+          "_id": "10",
+          "names": [
+            "Your Trendy Dump"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "10",
+          "names": [
+            "Glasstown"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10140",
+      "names": [
+        "Downtown"
+      ],
+      "releases": [
+        {
+          "_id": "1949",
+          "names": [
+            "The Size Queens III"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "161",
+          "names": [
+            "The Size Queens"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10152",
+      "names": [
+        "Twenty Minutes"
+      ],
+      "releases": [
+        {
+          "_id": "1949",
+          "names": [
+            "The Size Queens III"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "161",
+          "names": [
+            "The Size Queens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rich Trott",
       "targetId": "12",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12",
+        "318"
+      ]
     },
     {
       "name": "Alex Laipenieks",
       "targetId": "17",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12",
+        "318"
+      ]
     },
     {
       "name": "Jim Sweeney",
       "targetId": "18",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12",
+        "318"
+      ]
     },
     {
       "name": "Michael Mullen",
       "targetId": "19",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12",
+        "318",
+        "10140",
+        "10152"
+      ]
     },
     {
       "name": "Adam Klein",
       "targetId": "20",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12",
+        "318",
+        "10140",
+        "10152"
+      ]
     },
     {
       "name": "Tim Mooney",
       "targetId": "1001",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10140",
+        "10152"
+      ]
     },
     {
       "name": "Mike Carnahan",
       "targetId": "9275",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10140",
+        "10152"
+      ]
     },
     {
       "name": "Terese Taylor",
       "targetId": "9277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10152"
+      ]
     },
     {
       "name": "Guillermo Gómez-Peña",
       "targetId": "9278",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10152"
+      ]
     }
   ]
 }

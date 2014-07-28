@@ -1,21 +1,60 @@
 {
   "source": "MC Dälek",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12590",
+      "names": [
+        "Assisted Suicide"
+      ],
+      "releases": [
+        {
+          "_id": "2252",
+          "names": [
+            "Drums Of Death"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1635",
+          "names": [
+            "DJ Spooky"
+          ]
+        },
+        {
+          "_id": "1636",
+          "names": [
+            "Dave Lombardo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Lombardo",
       "targetId": "1456",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12590"
+      ]
     },
     {
       "name": "DJ Spooky",
       "targetId": "10288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12590"
+      ]
     },
     {
       "name": "Meredith Monk",
       "targetId": "10290",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12590"
+      ]
     }
   ]
 }

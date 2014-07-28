@@ -1,16 +1,46 @@
 {
   "source": "Ender Thomas",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6629",
+      "names": [
+        "Mi Todo Eres Tú (Until The Last Moment)"
+      ],
+      "releases": [
+        {
+          "_id": "1323",
+          "names": [
+            "Voices"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1025",
+          "names": [
+            "Yanni"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Yanni",
       "targetId": "6472",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6629"
+      ]
     },
     {
       "name": "Chloe Lowery",
       "targetId": "6473",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6629"
+      ]
     }
   ]
 }

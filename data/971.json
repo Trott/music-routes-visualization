@@ -1,41 +1,108 @@
 {
   "source": "Rick Derringer",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "511",
+      "names": [
+        "Exciter"
+      ],
+      "releases": [
+        {
+          "_id": "225",
+          "names": [
+            "Lick It Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "159",
+          "names": [
+            "Kiss"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6699",
+      "names": [
+        "Good Morning Little Schoolgirl"
+      ],
+      "releases": [
+        {
+          "_id": "1341",
+          "names": [
+            "Les Paul And Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1038",
+          "names": [
+            "Les Paul"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Vinnie Vincent",
       "targetId": "257",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "511"
+      ]
     },
     {
       "name": "Gene Simmons",
       "targetId": "968",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "511"
+      ]
     },
     {
       "name": "Paul Stanley",
       "targetId": "969",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "511"
+      ]
     },
     {
       "name": "Eric Carr",
       "targetId": "972",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "511"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6699"
+      ]
     },
     {
       "name": "Buddy Guy",
       "targetId": "2172",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6699"
+      ]
     },
     {
       "name": "Les Paul",
       "targetId": "6561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6699"
+      ]
     }
   ]
 }

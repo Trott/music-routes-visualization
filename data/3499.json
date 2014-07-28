@@ -1,61 +1,143 @@
 {
   "source": "Melissa Hasin",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3184",
+      "names": [
+        "Carolyn"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3185",
+      "names": [
+        "Tears Won't Help"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eric Williams",
       "targetId": "2434",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3184"
+      ]
     },
     {
       "name": "Steve Wynn",
       "targetId": "3494",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3184",
+        "3185"
+      ]
     },
     {
       "name": "Denny Fongheiser",
       "targetId": "3496",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3184",
+        "3185"
+      ]
     },
     {
       "name": "Robert Mache",
       "targetId": "3497",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3185"
+      ]
     },
     {
       "name": "Jim Lang",
       "targetId": "3498",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3184",
+        "3185"
+      ]
     },
     {
       "name": "Stephen McCarthy",
       "targetId": "3500",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3185"
+      ]
     },
     {
       "name": "Mark Walton",
       "targetId": "3501",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3185"
+      ]
     },
     {
       "name": "Richard Greene",
       "targetId": "3502",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3184"
+      ]
     },
     {
       "name": "Chris Cacavas",
       "targetId": "3503",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3184"
+      ]
     },
     {
       "name": "Tim Landers",
       "targetId": "3504",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3184"
+      ]
     },
     {
       "name": "Robert Lloyd",
       "targetId": "3505",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3184"
+      ]
     }
   ]
 }

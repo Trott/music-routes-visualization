@@ -1,176 +1,499 @@
 {
   "source": "Ray Cooper",
   "trackCount": 9,
+  "tracks": [
+    {
+      "_id": "535",
+      "names": [
+        "The Right Thing To Do"
+      ],
+      "releases": [
+        {
+          "_id": "226",
+          "names": [
+            "No Secrets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "160",
+          "names": [
+            "Carly Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "543",
+      "names": [
+        "Night Owl"
+      ],
+      "releases": [
+        {
+          "_id": "226",
+          "names": [
+            "No Secrets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "160",
+          "names": [
+            "Carly Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7519",
+      "names": [
+        "Whatever Gets You Thru The Night"
+      ],
+      "releases": [
+        {
+          "_id": "1485",
+          "names": [
+            "Here And There [Remastered, Bonus Tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7520",
+      "names": [
+        "Lucy In The Sky With Diamonds"
+      ],
+      "releases": [
+        {
+          "_id": "1485",
+          "names": [
+            "Here And There [Remastered, Bonus Tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7521",
+      "names": [
+        "I Saw Her Standing There"
+      ],
+      "releases": [
+        {
+          "_id": "1485",
+          "names": [
+            "Here And There [Remastered, Bonus Tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12972",
+      "names": [
+        "Sorry Seems To Be The Hardest Word"
+      ],
+      "releases": [
+        {
+          "_id": "2338",
+          "names": [
+            "Blue Moves"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13229",
+      "names": [
+        "Don't Let The Sun Go Down On Me"
+      ],
+      "releases": [
+        {
+          "_id": "2385",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13369",
+      "names": [
+        "All The Girls Love Alice"
+      ],
+      "releases": [
+        {
+          "_id": "2425",
+          "names": [
+            "Goodbye Yellow Brick Road"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13381",
+      "names": [
+        "Layla"
+      ],
+      "releases": [
+        {
+          "_id": "2428",
+          "names": [
+            "Unplugged"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "112",
+          "names": [
+            "Eric Clapton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7519",
+        "7520",
+        "7521"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13381"
+      ]
     },
     {
       "name": "Billy Hinsche",
       "targetId": "231",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13229"
+      ]
     },
     {
       "name": "Bruce Johnston",
       "targetId": "232",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13229"
+      ]
     },
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13229"
+      ]
     },
     {
       "name": "Andy Newmark",
       "targetId": "271",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "535"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Nathan East",
       "targetId": "403",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13381"
+      ]
     },
     {
       "name": "Linda McCartney",
       "targetId": "631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "James Newton Howard",
       "targetId": "650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12972"
+      ]
     },
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "7519",
+        "7520",
+        "7521",
+        "12972",
+        "13229",
+        "13369"
+      ]
     },
     {
       "name": "Carly Simon",
       "targetId": "979",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "535",
+        "543"
+      ]
     },
     {
       "name": "Jimmy Ryan",
       "targetId": "980",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "535",
+        "543"
+      ]
     },
     {
       "name": "Vicki Brown",
       "targetId": "982",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "535"
+      ]
     },
     {
       "name": "Liza Strike",
       "targetId": "983",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "535"
+      ]
     },
     {
       "name": "Nicky Hopkins",
       "targetId": "985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Bonnie Bramlett",
       "targetId": "992",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Bobby Keys",
       "targetId": "993",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Doris Troy",
       "targetId": "994",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "543"
+      ]
     },
     {
       "name": "Steve Ferrone",
       "targetId": "1420",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13381"
+      ]
     },
     {
       "name": "Carl Fortina",
       "targetId": "1479",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12972"
+      ]
     },
     {
       "name": "Davey Johnstone",
       "targetId": "2845",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7519",
+        "7520",
+        "7521",
+        "13229",
+        "13369"
+      ]
     },
     {
       "name": "Andrew Fairweather-Low",
       "targetId": "3184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13381"
+      ]
     },
     {
       "name": "Chuck Leavell",
       "targetId": "6200",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13381"
+      ]
     },
     {
       "name": "Dee Murray",
       "targetId": "7203",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7519",
+        "7520",
+        "7521",
+        "13229",
+        "13369"
+      ]
     },
     {
       "name": "Nigel Olsson",
       "targetId": "7204",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7519",
+        "7520",
+        "7521",
+        "13229",
+        "13369"
+      ]
     },
     {
       "name": "Kenny Passarelli",
       "targetId": "10483",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12972"
+      ]
     },
     {
       "name": "Katie Kissoon",
       "targetId": "10522",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13381"
+      ]
     },
     {
       "name": "Kiki Dee",
       "targetId": "10524",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13369"
+      ]
     },
     {
       "name": "David Hentschel",
       "targetId": "10739",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13369"
+      ]
     },
     {
       "name": "Toni Tenille",
       "targetId": "10740",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13229"
+      ]
     },
     {
       "name": "Tessa Niles",
       "targetId": "10859",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13381"
+      ]
     }
   ]
 }

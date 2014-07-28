@@ -1,111 +1,438 @@
 {
   "source": "Linda Ronstadt",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "186",
+      "names": [
+        "To Know Him Is To Love Him"
+      ],
+      "releases": [
+        {
+          "_id": "141",
+          "names": [
+            "Trio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        },
+        {
+          "_id": "101",
+          "names": [
+            "Linda Ronstadt"
+          ]
+        },
+        {
+          "_id": "1441",
+          "names": [
+            "Emmylou Harris"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "578",
+      "names": [
+        "Excitable Boy"
+      ],
+      "releases": [
+        {
+          "_id": "166",
+          "names": [
+            "Excitable Boy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1478",
+      "names": [
+        "Moonlight In Vermont"
+      ],
+      "releases": [
+        {
+          "_id": "355",
+          "names": [
+            "Duets II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4934",
+      "names": [
+        "I've Turned You To Stone"
+      ],
+      "releases": [
+        {
+          "_id": "993",
+          "names": [
+            "My Very Special Guests"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "788",
+          "names": [
+            "George Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5518",
+      "names": [
+        "The Pain Of Loving You"
+      ],
+      "releases": [
+        {
+          "_id": "141",
+          "names": [
+            "Trio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        },
+        {
+          "_id": "101",
+          "names": [
+            "Linda Ronstadt"
+          ]
+        },
+        {
+          "_id": "1441",
+          "names": [
+            "Emmylou Harris"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5519",
+      "names": [
+        "Hobo's Meditation"
+      ],
+      "releases": [
+        {
+          "_id": "141",
+          "names": [
+            "Trio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        },
+        {
+          "_id": "101",
+          "names": [
+            "Linda Ronstadt"
+          ]
+        },
+        {
+          "_id": "1441",
+          "names": [
+            "Emmylou Harris"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5520",
+      "names": [
+        "Telling Me Lies"
+      ],
+      "releases": [
+        {
+          "_id": "141",
+          "names": [
+            "Trio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        },
+        {
+          "_id": "101",
+          "names": [
+            "Linda Ronstadt"
+          ]
+        },
+        {
+          "_id": "1441",
+          "names": [
+            "Emmylou Harris"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5521",
+      "names": [
+        "Those Memories Of You"
+      ],
+      "releases": [
+        {
+          "_id": "141",
+          "names": [
+            "Trio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        },
+        {
+          "_id": "101",
+          "names": [
+            "Linda Ronstadt"
+          ]
+        },
+        {
+          "_id": "1441",
+          "names": [
+            "Emmylou Harris"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Payne",
       "targetId": "280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5520"
+      ]
     },
     {
       "name": "Warren Zevon",
       "targetId": "346",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "578"
+      ]
     },
     {
       "name": "Ry Cooder",
       "targetId": "372",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "186"
+      ]
     },
     {
       "name": "Waddy Wachtel",
       "targetId": "386",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "578"
+      ]
     },
     {
       "name": "Leland Sklar",
       "targetId": "421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5519"
+      ]
     },
     {
       "name": "Emmylou Harris",
       "targetId": "450",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "186",
+        "5518",
+        "5519",
+        "5520",
+        "5521"
+      ]
     },
     {
       "name": "Russ Kunkel",
       "targetId": "458",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "186",
+        "578",
+        "5518",
+        "5520",
+        "5521"
+      ]
     },
     {
       "name": "Dolly Parton",
       "targetId": "569",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "186",
+        "5518",
+        "5519",
+        "5520",
+        "5521"
+      ]
     },
     {
       "name": "David Lindley",
       "targetId": "641",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "186",
+        "5518",
+        "5520",
+        "5521"
+      ]
     },
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "578"
+      ]
     },
     {
       "name": "Jim Horn",
       "targetId": "670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "578"
+      ]
     },
     {
       "name": "Kenny Edwards",
       "targetId": "671",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "186",
+        "5518",
+        "5520",
+        "5521"
+      ]
     },
     {
       "name": "Jennifer Warnes",
       "targetId": "1012",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "578"
+      ]
     },
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1478"
+      ]
     },
     {
       "name": "Mark O'Connor",
       "targetId": "3127",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5518",
+        "5521"
+      ]
     },
     {
       "name": "George Jones",
       "targetId": "3856",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4934"
+      ]
     },
     {
       "name": "Albert Lee",
       "targetId": "4155",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "186",
+        "5518",
+        "5520",
+        "5521"
+      ]
     },
     {
       "name": "Steve Fishell",
       "targetId": "5593",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5518",
+        "5519",
+        "5520",
+        "5521"
+      ]
     },
     {
       "name": "John Starling",
       "targetId": "5594",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5519",
+        "5521"
+      ]
     },
     {
       "name": "Charles Veal",
       "targetId": "5595",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5520"
+      ]
     },
     {
       "name": "Herb Pedersen",
       "targetId": "5596",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5519"
+      ]
     }
   ]
 }

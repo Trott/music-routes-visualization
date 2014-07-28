@@ -1,66 +1,196 @@
 {
   "source": "Jack Black",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "4060",
+      "names": [
+        "Kickapoo"
+      ],
+      "releases": [
+        {
+          "_id": "827",
+          "names": [
+            "The Pick Of Destiny"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "650",
+          "names": [
+            "Tenacious D"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4061",
+      "names": [
+        "Beelzeboss (The Final Showdown)"
+      ],
+      "releases": [
+        {
+          "_id": "827",
+          "names": [
+            "The Pick Of Destiny"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "650",
+          "names": [
+            "Tenacious D"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7194",
+      "names": [
+        "Sax Man"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12472",
+      "names": [
+        "Wonderboy"
+      ],
+      "releases": [
+        {
+          "_id": "2236",
+          "names": [
+            "Tenacious D"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "650",
+          "names": [
+            "Tenacious D"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ronnie James Dio",
       "targetId": "139",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4060"
+      ]
     },
     {
       "name": "Dave Grohl",
       "targetId": "338",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4061",
+        "12472"
+      ]
     },
     {
       "name": "Meat Loaf",
       "targetId": "1803",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4060"
+      ]
     },
     {
       "name": "Steve McDonald",
       "targetId": "3009",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12472"
+      ]
     },
     {
       "name": "Kyle Gass",
       "targetId": "4218",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4060",
+        "4061",
+        "12472"
+      ]
     },
     {
       "name": "Liam Lynch",
       "targetId": "4219",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4061"
+      ]
     },
     {
       "name": "John Konesky",
       "targetId": "4220",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4060",
+        "4061"
+      ]
     },
     {
       "name": "Page McConnell",
       "targetId": "4735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12472"
+      ]
     },
     {
       "name": "Andy Samberg",
       "targetId": "6928",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7194"
+      ]
     },
     {
       "name": "Akiva Schaffer",
       "targetId": "6929",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7194"
+      ]
     },
     {
       "name": "Jorma Taccone",
       "targetId": "6930",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7194"
+      ]
     },
     {
       "name": "Andrew Gross",
       "targetId": "10264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12472"
+      ]
     }
   ]
 }

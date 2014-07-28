@@ -1,16 +1,46 @@
 {
   "source": "Lou Carter",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9241",
+      "names": [
+        "Early Autumn"
+      ],
+      "releases": [
+        {
+          "_id": "1786",
+          "names": [
+            "Then And Now"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1382",
+          "names": [
+            "The Soft Winds"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Herb Ellis",
       "targetId": "7153",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9241"
+      ]
     },
     {
       "name": "Johnny Frigo",
       "targetId": "8660",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9241"
+      ]
     }
   ]
 }

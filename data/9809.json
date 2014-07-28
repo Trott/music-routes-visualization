@@ -1,31 +1,70 @@
 {
   "source": "John McCartney",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11100",
+      "names": [
+        "Dear Prudence"
+      ],
+      "releases": [
+        {
+          "_id": "158",
+          "names": [
+            "The Beatles [White Album] (Disc 1)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11100"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11100"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11100"
+      ]
     },
     {
       "name": "Mal Evans",
       "targetId": "630",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11100"
+      ]
     },
     {
       "name": "Jackie Lomax",
       "targetId": "9808",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11100"
+      ]
     }
   ]
 }

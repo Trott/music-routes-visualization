@@ -1,31 +1,139 @@
 {
   "source": "Greg Wells",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "7225",
+      "names": [
+        "Waking Up In Vegas"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7227",
+      "names": [
+        "Mannequin"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7228",
+      "names": [
+        "Ur So Gay"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7234",
+      "names": [
+        "Fingerprints"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dan Higgins",
       "targetId": "1080",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7228"
+      ]
     },
     {
       "name": "Jerry Hey",
       "targetId": "1322",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7228"
+      ]
     },
     {
       "name": "Gary Grant",
       "targetId": "1394",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7228"
+      ]
     },
     {
       "name": "Bill Reichenbach",
       "targetId": "1395",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7228"
+      ]
     },
     {
       "name": "Katy Perry",
       "targetId": "6947",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7225",
+        "7227",
+        "7228",
+        "7234"
+      ]
     }
   ]
 }

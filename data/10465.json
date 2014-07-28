@@ -1,21 +1,54 @@
 {
   "source": "Connie Filapello",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12946",
+      "names": [
+        "Boys Like Me"
+      ],
+      "releases": [
+        {
+          "_id": "2334",
+          "names": [
+            "Dance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1259",
+          "names": [
+            "Gary Numan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gary Numan",
       "targetId": "854",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12946"
+      ]
     },
     {
       "name": "Mick Karn",
       "targetId": "4963",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12946"
+      ]
     },
     {
       "name": "Rob Dean",
       "targetId": "10464",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12946"
+      ]
     }
   ]
 }

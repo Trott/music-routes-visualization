@@ -1,16 +1,94 @@
 {
   "source": "Bessie Smith",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5925",
+      "names": [
+        "Nashville Woman's Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1176",
+          "names": [
+            "The Complete Recordings Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "915",
+          "names": [
+            "Bessie Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5926",
+      "names": [
+        "Careless Love Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1176",
+          "names": [
+            "The Complete Recordings Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "915",
+          "names": [
+            "Bessie Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5927",
+      "names": [
+        "I Ain't Goin' To Play Second Fiddle"
+      ],
+      "releases": [
+        {
+          "_id": "1176",
+          "names": [
+            "The Complete Recordings Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "915",
+          "names": [
+            "Bessie Smith"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Louis Armstrong",
       "targetId": "1785",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5925",
+        "5926",
+        "5927"
+      ]
     },
     {
       "name": "Charlie Green",
       "targetId": "5852",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5925",
+        "5926",
+        "5927"
+      ]
     }
   ]
 }

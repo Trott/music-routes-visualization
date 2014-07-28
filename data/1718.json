@@ -1,151 +1,382 @@
 {
   "source": "Tim Pierce",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "1273",
+      "names": [
+        "Excess"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1277",
+      "names": [
+        "You Don't Wanna"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6410",
+      "names": [
+        "Black Or White"
+      ],
+      "releases": [
+        {
+          "_id": "1280",
+          "names": [
+            "Dangerous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "146",
+          "names": [
+            "Michael Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6449",
+      "names": [
+        "Innocence"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7524",
+      "names": [
+        "Stayin' Alive"
+      ],
+      "releases": [
+        {
+          "_id": "1488",
+          "names": [
+            "Confessions"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1145",
+          "names": [
+            "Dweezil Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7526",
+      "names": [
+        "Stayin' Alive"
+      ],
+      "releases": [
+        {
+          "_id": "1489",
+          "names": [
+            "Prince Of Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "81",
+          "names": [
+            "Ozzy Osbourne"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Jackson",
       "targetId": "40",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Steve Lukather",
       "targetId": "402",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7524",
+        "7526"
+      ]
     },
     {
       "name": "Ozzy Osbourne",
       "targetId": "482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7526"
+      ]
     },
     {
       "name": "Abe Laboriel, Jr.",
       "targetId": "1064",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6449"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1273",
+        "6449"
+      ]
     },
     {
       "name": "Slash",
       "targetId": "1287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Terry Jackson",
       "targetId": "1300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Scott Thunes",
       "targetId": "1351",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7524",
+        "7526"
+      ]
     },
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1273",
+        "1277"
+      ]
     },
     {
       "name": "Mark Gemini Thwaite",
       "targetId": "1715",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Ambersunshower",
       "targetId": "1716",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1277"
+      ]
     },
     {
       "name": "Rob Cavallo",
       "targetId": "1719",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Alanis Morissette",
       "targetId": "1720",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Stephanie McKay",
       "targetId": "1721",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Zakk Wylde",
       "targetId": "4198",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7524",
+        "7526"
+      ]
     },
     {
       "name": "Nuno Bettencourt",
       "targetId": "4419",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7524",
+        "7526"
+      ]
     },
     {
       "name": "Paul Bushnell",
       "targetId": "6113",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6449"
+      ]
     },
     {
       "name": "Bryan Loren",
       "targetId": "6268",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Jasun Martz",
       "targetId": "6269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "John Barnes",
       "targetId": "6270",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Bill Bottrell",
       "targetId": "6271",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Brad Buxer",
       "targetId": "6272",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6410"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6449"
+      ]
     },
     {
       "name": "Josh Freese",
       "targetId": "6296",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7524",
+        "7526"
+      ]
     },
     {
       "name": "Greg Suran",
       "targetId": "6298",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6449"
+      ]
     },
     {
       "name": "Dweezil Zappa",
       "targetId": "7214",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7524",
+        "7526"
+      ]
     },
     {
       "name": "Warren DeMartini",
       "targetId": "7215",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7524",
+        "7526"
+      ]
     },
     {
       "name": "Mike Keneally",
       "targetId": "7216",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7524",
+        "7526"
+      ]
     },
     {
       "name": "Donny Osmond",
       "targetId": "7217",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7524"
+      ]
     }
   ]
 }

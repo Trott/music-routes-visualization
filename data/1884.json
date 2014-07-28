@@ -1,11 +1,84 @@
 {
   "source": "Charles Wuorinen",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1620",
+      "names": [
+        "Fast Fantasy"
+      ],
+      "releases": [
+        {
+          "_id": "377",
+          "names": [
+            "Fast Fantasy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "269",
+          "names": [
+            "Fred Sherry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1622",
+      "names": [
+        "An Orbicle Of Jasp"
+      ],
+      "releases": [
+        {
+          "_id": "377",
+          "names": [
+            "Fast Fantasy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "269",
+          "names": [
+            "Fred Sherry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1624",
+      "names": [
+        "Andante Espressivo"
+      ],
+      "releases": [
+        {
+          "_id": "377",
+          "names": [
+            "Fast Fantasy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "269",
+          "names": [
+            "Fred Sherry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Fred Sherry",
       "targetId": "1875",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1620",
+        "1622",
+        "1624"
+      ]
     }
   ]
 }

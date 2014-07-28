@@ -1,131 +1,465 @@
 {
   "source": "Crispin Cioe",
   "trackCount": 9,
+  "tracks": [
+    {
+      "_id": "7916",
+      "names": [
+        "Pleasure"
+      ],
+      "releases": [
+        {
+          "_id": "1555",
+          "names": [
+            "Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7917",
+      "names": [
+        "Sincerity"
+      ],
+      "releases": [
+        {
+          "_id": "1555",
+          "names": [
+            "Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7918",
+      "names": [
+        "Houston Is Hot Tonight"
+      ],
+      "releases": [
+        {
+          "_id": "1555",
+          "names": [
+            "Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7919",
+      "names": [
+        "Happy Man"
+      ],
+      "releases": [
+        {
+          "_id": "1555",
+          "names": [
+            "Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8861",
+      "names": [
+        "Midtown"
+      ],
+      "releases": [
+        {
+          "_id": "1698",
+          "names": [
+            "Rain Dogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8869",
+      "names": [
+        "Anywhere I Lay My Head"
+      ],
+      "releases": [
+        {
+          "_id": "1698",
+          "names": [
+            "Rain Dogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9136",
+      "names": [
+        "Tonight At Noon"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1341",
+          "names": [
+            "Greg Cohen"
+          ]
+        },
+        {
+          "_id": "1345",
+          "names": [
+            "The Uptown Horns"
+          ]
+        },
+        {
+          "_id": "1346",
+          "names": [
+            "Charlie Watts"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9142",
+      "names": [
+        "Oh Lord, Don't Let Them Drop That Atomic Bomb On Me"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1346",
+          "names": [
+            "Charlie Watts"
+          ]
+        },
+        {
+          "_id": "1351",
+          "names": [
+            "Keith Richards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9904",
+      "names": [
+        "Love Shack"
+      ],
+      "releases": [
+        {
+          "_id": "1904",
+          "names": [
+            "Cosmic Thing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1474",
+          "names": [
+            "The B-52's"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gregory Cohen",
       "targetId": "428",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9136",
+        "9142"
+      ]
     },
     {
       "name": "Bobby Keyes",
       "targetId": "644",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9142"
+      ]
     },
     {
       "name": "Michael Blair",
       "targetId": "662",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8869"
+      ]
     },
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8869"
+      ]
     },
     {
       "name": "Iggy Pop",
       "targetId": "1832",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7916",
+        "7917",
+        "7918",
+        "7919"
+      ]
     },
     {
       "name": "Charlie Watts",
       "targetId": "1994",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9136",
+        "9142"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9142"
+      ]
     },
     {
       "name": "Larry Taylor",
       "targetId": "2567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8861"
+      ]
     },
     {
       "name": "Charley Drayton",
       "targetId": "5834",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9904"
+      ]
     },
     {
       "name": "Kate Pierson",
       "targetId": "6064",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9904"
+      ]
     },
     {
       "name": "Chuck Leavell",
       "targetId": "6200",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9142"
+      ]
     },
     {
       "name": "Bernard Fowler",
       "targetId": "6747",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9142"
+      ]
     },
     {
       "name": "Ivan Kral",
       "targetId": "7565",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7916",
+        "7917",
+        "7918",
+        "7919"
+      ]
     },
     {
       "name": "Rob Duprey",
       "targetId": "7566",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7916",
+        "7917",
+        "7918",
+        "7919"
+      ]
     },
     {
       "name": "Michael Page",
       "targetId": "7567",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7916",
+        "7917",
+        "7918",
+        "7919"
+      ]
     },
     {
       "name": "Douglas Bowne",
       "targetId": "7568",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7916",
+        "7917",
+        "7918",
+        "7919"
+      ]
     },
     {
       "name": "Arno Hecht",
       "targetId": "7569",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "7916",
+        "7917",
+        "7918",
+        "7919",
+        "8861",
+        "8869",
+        "9136",
+        "9142",
+        "9904"
+      ]
     },
     {
       "name": "Bob Funk",
       "targetId": "7571",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "7916",
+        "7917",
+        "7918",
+        "7919",
+        "8861",
+        "8869",
+        "9136",
+        "9142",
+        "9904"
+      ]
     },
     {
       "name": "Paul Litteral",
       "targetId": "7572",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "7916",
+        "7917",
+        "7918",
+        "7919",
+        "8861",
+        "8869",
+        "9136",
+        "9142",
+        "9904"
+      ]
     },
     {
       "name": "Ralph Carney",
       "targetId": "8018",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8861"
+      ]
     },
     {
       "name": "Stephen Taylor Arvizu Hodges",
       "targetId": "8222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8861"
+      ]
     },
     {
       "name": "Sara Lee",
       "targetId": "9118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9904"
+      ]
     },
     {
       "name": "Keith Strickland",
       "targetId": "9119",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9904"
+      ]
     },
     {
       "name": "Cindy Wilson",
       "targetId": "9120",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9904"
+      ]
     },
     {
       "name": "Fred Schneider",
       "targetId": "9121",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9904"
+      ]
     }
   ]
 }

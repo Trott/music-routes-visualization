@@ -1,16 +1,68 @@
 {
   "source": "Chris Knox",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2326",
+      "names": [
+        "When I'm Out Of Town"
+      ],
+      "releases": [
+        {
+          "_id": "584",
+          "names": [
+            "Wasps' Nests"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10465",
+      "names": [
+        "Crush"
+      ],
+      "releases": [
+        {
+          "_id": "2026",
+          "names": [
+            "Hello Cruel World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1561",
+          "names": [
+            "Tall Dwarfs"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2326"
+      ]
     },
     {
       "name": "Alec Bathgate",
       "targetId": "9492",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10465"
+      ]
     }
   ]
 }

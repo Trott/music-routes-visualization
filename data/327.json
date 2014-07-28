@@ -1,31 +1,94 @@
 {
   "source": "Byron Allred",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "76",
+      "names": [
+        "Abracadabra"
+      ],
+      "releases": [
+        {
+          "_id": "68",
+          "names": [
+            "Abracadabra"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3770",
+      "names": [
+        "I Want To Make The World Turn Around"
+      ],
+      "releases": [
+        {
+          "_id": "758",
+          "names": [
+            "Living In The 20th Century"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "76",
+        "3770"
+      ]
     },
     {
       "name": "Gerald Johnson",
       "targetId": "328",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "76"
+      ]
     },
     {
       "name": "Kenny Lee Lewis",
       "targetId": "329",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3770"
+      ]
     },
     {
       "name": "Gary Mallaber",
       "targetId": "330",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "76",
+        "3770"
+      ]
     },
     {
       "name": "Kenny G",
       "targetId": "1438",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3770"
+      ]
     }
   ]
 }

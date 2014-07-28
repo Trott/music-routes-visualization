@@ -1,21 +1,54 @@
 {
   "source": "Alvaro Martins",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7829",
+      "names": [
+        "Noite"
+      ],
+      "releases": [
+        {
+          "_id": "1544",
+          "names": [
+            "Amália Rodrigues Et Les Meilleurs Ensemble De Guitares Et Violes Portugais"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1182",
+          "names": [
+            "Amália Rodrigues"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Amália Rodrigues",
       "targetId": "7480",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7829"
+      ]
     },
     {
       "name": "Antonio Proenca",
       "targetId": "7482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7829"
+      ]
     },
     {
       "name": "José Maria De Carvalho",
       "targetId": "7483",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7829"
+      ]
     }
   ]
 }

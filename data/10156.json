@@ -1,26 +1,62 @@
 {
   "source": "Matt Sherrod",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12222",
+      "names": [
+        "Saturday Sun"
+      ],
+      "releases": [
+        {
+          "_id": "2199",
+          "names": [
+            "Intriguer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1618",
+          "names": [
+            "Crowded House"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neil Finn",
       "targetId": "1027",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12222"
+      ]
     },
     {
       "name": "Nick Seymour",
       "targetId": "10155",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12222"
+      ]
     },
     {
       "name": "Mark Hart",
       "targetId": "10157",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12222"
+      ]
     },
     {
       "name": "Don McGlashan",
       "targetId": "10158",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12222"
+      ]
     }
   ]
 }

@@ -1,26 +1,86 @@
 {
   "source": "Dana Strum",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "58",
+      "names": [
+        "Ashes To Ashes"
+      ],
+      "releases": [
+        {
+          "_id": "50",
+          "names": [
+            "All Systems Go"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "42",
+          "names": [
+            "Vinnie Vincent Invasion"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "60",
+      "names": [
+        "Boyz Are Gonna Rock"
+      ],
+      "releases": [
+        {
+          "_id": "52",
+          "names": [
+            "Vinnie Vincent Invasion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "42",
+          "names": [
+            "Vinnie Vincent Invasion"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Vinnie Vincent",
       "targetId": "257",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "58",
+        "60"
+      ]
     },
     {
       "name": "Mark Slaughter",
       "targetId": "258",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "58"
+      ]
     },
     {
       "name": "Bobby Rock",
       "targetId": "260",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "58",
+        "60"
+      ]
     },
     {
       "name": "Robert Fleischman",
       "targetId": "261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "60"
+      ]
     }
   ]
 }

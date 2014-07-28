@@ -1,21 +1,54 @@
 {
   "source": "Kevin Gritton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10174",
+      "names": [
+        "Man In A Suitcase"
+      ],
+      "releases": [
+        {
+          "_id": "1955",
+          "names": [
+            "Fake"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1513",
+          "names": [
+            "Adorable"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Wil",
       "targetId": "9309",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10174"
+      ]
     },
     {
       "name": "Piotr Fijalkowski",
       "targetId": "9310",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10174"
+      ]
     },
     {
       "name": "Robert Dillam",
       "targetId": "9311",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10174"
+      ]
     }
   ]
 }

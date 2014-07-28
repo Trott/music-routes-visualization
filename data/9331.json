@@ -1,36 +1,102 @@
 {
   "source": "Stacy Jones",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10212",
+      "names": [
+        "Long Shot"
+      ],
+      "releases": [
+        {
+          "_id": "1844",
+          "names": [
+            "I'm With Stupid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10216",
+      "names": [
+        "All Over Now"
+      ],
+      "releases": [
+        {
+          "_id": "1844",
+          "names": [
+            "I'm With Stupid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10212",
+        "10216"
+      ]
     },
     {
       "name": "Bernard Butler",
       "targetId": "550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10216"
+      ]
     },
     {
       "name": "Michael Lockwood",
       "targetId": "3869",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10212"
+      ]
     },
     {
       "name": "Jon Brion",
       "targetId": "6653",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10212",
+        "10216"
+      ]
     },
     {
       "name": "Clayton Scoble",
       "targetId": "8919",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10212"
+      ]
     },
     {
       "name": "John Sands",
       "targetId": "8920",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10212"
+      ]
     }
   ]
 }

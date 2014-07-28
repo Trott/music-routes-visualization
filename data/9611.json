@@ -1,56 +1,136 @@
 {
   "source": "John Dederick",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10939",
+      "names": [
+        "Little Fire"
+      ],
+      "releases": [
+        {
+          "_id": "2080",
+          "names": [
+            "Downtown Church"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1588",
+          "names": [
+            "Patty Griffin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10941",
+      "names": [
+        "If I Had My Way"
+      ],
+      "releases": [
+        {
+          "_id": "2080",
+          "names": [
+            "Downtown Church"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1588",
+          "names": [
+            "Patty Griffin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jay Bellerose",
       "targetId": "298",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10939",
+        "10941"
+      ]
     },
     {
       "name": "Dennis Crouch",
       "targetId": "299",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10939",
+        "10941"
+      ]
     },
     {
       "name": "Emmylou Harris",
       "targetId": "450",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10939"
+      ]
     },
     {
       "name": "Buddy Miller",
       "targetId": "8697",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10941"
+      ]
     },
     {
       "name": "Bryan Owings",
       "targetId": "9609",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10939"
+      ]
     },
     {
       "name": "Patty Griffin",
       "targetId": "9610",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10939",
+        "10941"
+      ]
     },
     {
       "name": "Russ Pahl",
       "targetId": "9612",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10939"
+      ]
     },
     {
       "name": "Doug Lancio",
       "targetId": "9613",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10939",
+        "10941"
+      ]
     },
     {
       "name": "Regina McCrary",
       "targetId": "9618",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10941"
+      ]
     },
     {
       "name": "Ann McCrary",
       "targetId": "9619",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10941"
+      ]
     }
   ]
 }

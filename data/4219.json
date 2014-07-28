@@ -1,26 +1,62 @@
 {
   "source": "Liam Lynch",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4061",
+      "names": [
+        "Beelzeboss (The Final Showdown)"
+      ],
+      "releases": [
+        {
+          "_id": "827",
+          "names": [
+            "The Pick Of Destiny"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "650",
+          "names": [
+            "Tenacious D"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Grohl",
       "targetId": "338",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4061"
+      ]
     },
     {
       "name": "Jack Black",
       "targetId": "4217",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4061"
+      ]
     },
     {
       "name": "Kyle Gass",
       "targetId": "4218",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4061"
+      ]
     },
     {
       "name": "John Konesky",
       "targetId": "4220",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4061"
+      ]
     }
   ]
 }

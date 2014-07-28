@@ -1,21 +1,54 @@
 {
   "source": "Andrew Woolfolk",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2264",
+      "names": [
+        "Wanna Be The Man"
+      ],
+      "releases": [
+        {
+          "_id": "568",
+          "names": [
+            "Heritage"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "435",
+          "names": [
+            "Earth, Wind & Fire"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Philip Bailey",
       "targetId": "2786",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2264"
+      ]
     },
     {
       "name": "Maurice White",
       "targetId": "2787",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2264"
+      ]
     },
     {
       "name": "MC Hammer",
       "targetId": "2790",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2264"
+      ]
     }
   ]
 }

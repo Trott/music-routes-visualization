@@ -1,26 +1,62 @@
 {
   "source": "Doug Kershaw",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11837",
+      "names": [
+        "Blue Moon"
+      ],
+      "releases": [
+        {
+          "_id": "2168",
+          "names": [
+            "Self Portrait"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11837"
+      ]
     },
     {
       "name": "Charlie McCoy",
       "targetId": "1211",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11837"
+      ]
     },
     {
       "name": "Kenny Buttrey",
       "targetId": "10032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11837"
+      ]
     },
     {
       "name": "Robert S. Wilson",
       "targetId": "10052",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11837"
+      ]
     }
   ]
 }

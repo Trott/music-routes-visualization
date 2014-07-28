@@ -1,56 +1,132 @@
 {
   "source": "Apollonia",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1169",
+      "names": [
+        "Teenage Wristband"
+      ],
+      "releases": [
+        {
+          "_id": "324",
+          "names": [
+            "Blackberry Belle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11027",
+      "names": [
+        "Take Me With U"
+      ],
+      "releases": [
+        {
+          "_id": "2096",
+          "names": [
+            "Purple Rain"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "372",
+          "names": [
+            "Prince"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Prince",
       "targetId": "712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Petra Haden",
       "targetId": "774",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Greg Dulli",
       "targetId": "1641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Michael Sullivan",
       "targetId": "1649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Hoss",
       "targetId": "1650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Jesse Tobias",
       "targetId": "1651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Steve Myers",
       "targetId": "1653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1169"
+      ]
     },
     {
       "name": "Suzie Katayama",
       "targetId": "2293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Dave Coleman",
       "targetId": "9343",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     },
     {
       "name": "Novi Novog",
       "targetId": "9682",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11027"
+      ]
     }
   ]
 }

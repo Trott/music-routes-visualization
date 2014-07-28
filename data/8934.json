@@ -1,26 +1,62 @@
 {
   "source": "Redman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9658",
+      "names": [
+        "Symphony 2000"
+      ],
+      "releases": [
+        {
+          "_id": "1850",
+          "names": [
+            "Out Of Business"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1433",
+          "names": [
+            "EPMD"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Method Man",
       "targetId": "4390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9658"
+      ]
     },
     {
       "name": "Erick Sermon",
       "targetId": "8932",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9658"
+      ]
     },
     {
       "name": "Parrish Smith",
       "targetId": "8933",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9658"
+      ]
     },
     {
       "name": "Lady Luck",
       "targetId": "8935",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9658"
+      ]
     }
   ]
 }

@@ -1,41 +1,112 @@
 {
   "source": "Babydaddy",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5953",
+      "names": [
+        "I Don't Feel Like Dancin'"
+      ],
+      "releases": [
+        {
+          "_id": "1190",
+          "names": [
+            "Ta-Dah"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "926",
+          "names": [
+            "Scissor Sisters"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5955",
+      "names": [
+        "Comfortably Numb"
+      ],
+      "releases": [
+        {
+          "_id": "1192",
+          "names": [
+            "Scissor Sisters"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "926",
+          "names": [
+            "Scissor Sisters"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5953"
+      ]
     },
     {
       "name": "Ana Matronic",
       "targetId": "5900",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5953",
+        "5955"
+      ]
     },
     {
       "name": "Del Marquis",
       "targetId": "5902",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5953",
+        "5955"
+      ]
     },
     {
       "name": "Jake Shears",
       "targetId": "5903",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5953",
+        "5955"
+      ]
     },
     {
       "name": "Paddy Boom",
       "targetId": "5904",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5953",
+        "5955"
+      ]
     },
     {
       "name": "Ayan Pal",
       "targetId": "5906",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5955"
+      ]
     },
     {
       "name": "Paul Leschen",
       "targetId": "5907",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5955"
+      ]
     }
   ]
 }

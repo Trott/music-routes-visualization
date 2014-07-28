@@ -1,61 +1,185 @@
 {
   "source": "John Legend",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "6337",
+      "names": [
+        "What Y'all Came To Do"
+      ],
+      "releases": [
+        {
+          "_id": "1264",
+          "names": [
+            "Jewels In The Crown: All-Star Duets With The Queen"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "725",
+          "names": [
+            "Aretha Franklin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6369",
+      "names": [
+        "Everything Is Everything"
+      ],
+      "releases": [
+        {
+          "_id": "1271",
+          "names": [
+            "The Miseducation Of Lauryn Hill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "984",
+          "names": [
+            "Lauryn Hill"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6765",
+      "names": [
+        "Good Life"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13342",
+      "names": [
+        "Never Let Me Down"
+      ],
+      "releases": [
+        {
+          "_id": "2411",
+          "names": [
+            "The College Dropout"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aretha Franklin",
       "targetId": "1765",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6337"
+      ]
     },
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6765",
+        "13342"
+      ]
     },
     {
       "name": "Jay-Z",
       "targetId": "4339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13342"
+      ]
     },
     {
       "name": "T-Pain",
       "targetId": "6004",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6765"
+      ]
     },
     {
       "name": "Ne-Yo",
       "targetId": "6017",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6765"
+      ]
     },
     {
       "name": "Lauryn Hill",
       "targetId": "6249",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6369"
+      ]
     },
     {
       "name": "James Poyser",
       "targetId": "6250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6369"
+      ]
     },
     {
       "name": "Tracie Spencer",
       "targetId": "10814",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13342"
+      ]
     },
     {
       "name": "Glenn Jefferey",
       "targetId": "10815",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13342"
+      ]
     },
     {
       "name": "Ervin Pope",
       "targetId": "10816",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13342"
+      ]
     },
     {
       "name": "J. Ivy",
       "targetId": "10817",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13342"
+      ]
     }
   ]
 }

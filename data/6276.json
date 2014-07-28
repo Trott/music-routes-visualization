@@ -1,26 +1,62 @@
 {
   "source": "Mike Hunter",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6412",
+      "names": [
+        "Always On The Run"
+      ],
+      "releases": [
+        {
+          "_id": "1281",
+          "names": [
+            "Mama Said"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "989",
+          "names": [
+            "Lenny Kravitz"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Slash",
       "targetId": "1287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6412"
+      ]
     },
     {
       "name": "Lenny Kravitz",
       "targetId": "6273",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6412"
+      ]
     },
     {
       "name": "Butch Tomas",
       "targetId": "6274",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6412"
+      ]
     },
     {
       "name": "Karl Denson",
       "targetId": "6275",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6412"
+      ]
     }
   ]
 }

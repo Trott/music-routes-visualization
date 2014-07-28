@@ -1,46 +1,118 @@
 {
   "source": "Ronnie DeVoe",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7522",
+      "names": [
+        "All For Love"
+      ],
+      "releases": [
+        {
+          "_id": "1486",
+          "names": [
+            "All For Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1143",
+          "names": [
+            "New Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9103",
+      "names": [
+        "Poison"
+      ],
+      "releases": [
+        {
+          "_id": "1737",
+          "names": [
+            "Poison"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1332",
+          "names": [
+            "Bell Biv Devoe"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John \"J. R.\" Robinson",
       "targetId": "653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7522"
+      ]
     },
     {
       "name": "Paul Jackson, Jr.",
       "targetId": "1536",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7522"
+      ]
     },
     {
       "name": "Ricky Bell",
       "targetId": "7205",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7522",
+        "9103"
+      ]
     },
     {
       "name": "Michael Bivins",
       "targetId": "7206",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7522",
+        "9103"
+      ]
     },
     {
       "name": "Bobby Brown",
       "targetId": "7207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7522"
+      ]
     },
     {
       "name": "Ralph Tresvant",
       "targetId": "7209",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7522"
+      ]
     },
     {
       "name": "John Duarte",
       "targetId": "7210",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7522"
+      ]
     },
     {
       "name": "Elliot \"Dr. Freeze\" Straite",
       "targetId": "8402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9103"
+      ]
     }
   ]
 }

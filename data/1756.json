@@ -1,26 +1,88 @@
 {
   "source": "Robert F. Brunner",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1426",
+      "names": [
+        "Velouria"
+      ],
+      "releases": [
+        {
+          "_id": "351",
+          "names": [
+            "Bossanova"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "249",
+          "names": [
+            "The Pixies"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1428",
+      "names": [
+        "Is She Weird"
+      ],
+      "releases": [
+        {
+          "_id": "351",
+          "names": [
+            "Bossanova"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "249",
+          "names": [
+            "The Pixies"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kim Deal",
       "targetId": "607",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1426",
+        "1428"
+      ]
     },
     {
       "name": "Frank Black",
       "targetId": "769",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1426",
+        "1428"
+      ]
     },
     {
       "name": "Dave Lovering",
       "targetId": "1750",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1426",
+        "1428"
+      ]
     },
     {
       "name": "Joey Santiago",
       "targetId": "1751",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1426",
+        "1428"
+      ]
     }
   ]
 }

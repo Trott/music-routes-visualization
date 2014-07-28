@@ -1,26 +1,88 @@
 {
   "source": "Steve Abbey",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7368",
+      "names": [
+        "Buried Alive"
+      ],
+      "releases": [
+        {
+          "_id": "1452",
+          "names": [
+            "A Time Of Changes - Phase 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1119",
+          "names": [
+            "Blitzkrieg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7369",
+      "names": [
+        "Blitzkrieg"
+      ],
+      "releases": [
+        {
+          "_id": "1452",
+          "names": [
+            "A Time Of Changes - Phase 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1119",
+          "names": [
+            "Blitzkrieg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Ross",
       "targetId": "7070",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7368",
+        "7369"
+      ]
     },
     {
       "name": "Ian Jones",
       "targetId": "7075",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7368",
+        "7369"
+      ]
     },
     {
       "name": "Steve English",
       "targetId": "7077",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7368",
+        "7369"
+      ]
     },
     {
       "name": "Jim Sirotto",
       "targetId": "7078",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7368",
+        "7369"
+      ]
     }
   ]
 }

@@ -1,21 +1,60 @@
 {
   "source": "Andrew Bodnar",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11544",
+      "names": [
+        "Watching The Detectives"
+      ],
+      "releases": [
+        {
+          "_id": "2142",
+          "names": [
+            "My Aim Is True"
+          ]
+        },
+        {
+          "_id": "2157",
+          "names": [
+            "Best Of"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11544"
+      ]
     },
     {
       "name": "Steven Goulding",
       "targetId": "2057",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11544"
+      ]
     },
     {
       "name": "Steve Nieve",
       "targetId": "3222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11544"
+      ]
     }
   ]
 }

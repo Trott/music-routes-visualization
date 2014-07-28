@@ -1,61 +1,191 @@
 {
   "source": "Mike McCarthy",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "11013",
+      "names": [
+        "My Little Japanese Cigarette Case"
+      ],
+      "releases": [
+        {
+          "_id": "2093",
+          "names": [
+            "Ga Ga Ga Ga Ga"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1595",
+          "names": [
+            "Spoon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11017",
+      "names": [
+        "I Turn My Camera On"
+      ],
+      "releases": [
+        {
+          "_id": "2094",
+          "names": [
+            "Gimme Fiction"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1595",
+          "names": [
+            "Spoon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11018",
+      "names": [
+        "My Mathematical Mind"
+      ],
+      "releases": [
+        {
+          "_id": "2094",
+          "names": [
+            "Gimme Fiction"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1595",
+          "names": [
+            "Spoon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11024",
+      "names": [
+        "They Never Got You"
+      ],
+      "releases": [
+        {
+          "_id": "2094",
+          "names": [
+            "Gimme Fiction"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1595",
+          "names": [
+            "Spoon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Mark Painter",
       "targetId": "183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11018"
+      ]
     },
     {
       "name": "Eric Bachmann",
       "targetId": "6780",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11017"
+      ]
     },
     {
       "name": "Britt Daniel",
       "targetId": "9654",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "11013",
+        "11017",
+        "11018",
+        "11024"
+      ]
     },
     {
       "name": "Eric Harvey",
       "targetId": "9655",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11013",
+        "11018"
+      ]
     },
     {
       "name": "Jim Eno",
       "targetId": "9656",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "11013",
+        "11017",
+        "11018",
+        "11024"
+      ]
     },
     {
       "name": "Rob Pope",
       "targetId": "9657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11013"
+      ]
     },
     {
       "name": "Eggo Johanson",
       "targetId": "9662",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11013"
+      ]
     },
     {
       "name": "Billy White",
       "targetId": "9665",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11013"
+      ]
     },
     {
       "name": "Matthew Colecchi",
       "targetId": "9666",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11013"
+      ]
     },
     {
       "name": "Josh Zarbo",
       "targetId": "9672",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11018"
+      ]
     },
     {
       "name": "Jim Volentine",
       "targetId": "9673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11018"
+      ]
     }
   ]
 }

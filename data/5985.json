@@ -1,111 +1,371 @@
 {
   "source": "Chris Chaney",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "6030",
+      "names": [
+        "Love Song"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6452",
+      "names": [
+        "Contagious"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9537",
+      "names": [
+        "We're All Gonna Die"
+      ],
+      "releases": [
+        {
+          "_id": "1835",
+          "names": [
+            "Slash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "991",
+          "names": [
+            "Slash"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9855",
+      "names": [
+        "Vegas"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9856",
+      "names": [
+        "Bottle It Up"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9857",
+      "names": [
+        "Come Round Soon"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9858",
+      "names": [
+        "Morningside"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13201",
+      "names": [
+        "Ultimate Reason"
+      ],
+      "releases": [
+        {
+          "_id": "2380",
+          "names": [
+            "The Great Escape Artist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1695",
+          "names": [
+            "Jane's Addiction"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Watson",
       "targetId": "135",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6030",
+        "9855",
+        "9856",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Matt Chamberlain",
       "targetId": "182",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6030",
+        "9856"
+      ]
     },
     {
       "name": "Lenny Castro",
       "targetId": "405",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9537"
+      ]
     },
     {
       "name": "Stephen Perkins",
       "targetId": "768",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13201"
+      ]
     },
     {
       "name": "Brian MacLeod",
       "targetId": "1025",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9855",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9856"
+      ]
     },
     {
       "name": "Slash",
       "targetId": "1287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9537"
+      ]
     },
     {
       "name": "Rafael Padilla",
       "targetId": "1312",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9855",
+        "9856",
+        "9858"
+      ]
     },
     {
       "name": "Iggy Pop",
       "targetId": "1832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9537"
+      ]
     },
     {
       "name": "Dave Navarro",
       "targetId": "2572",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13201"
+      ]
     },
     {
       "name": "Lyle Workman",
       "targetId": "2874",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9855",
+        "9856",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "David Andrew Sitek",
       "targetId": "2985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13201"
+      ]
     },
     {
       "name": "Sara Bareilles",
       "targetId": "5983",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6030",
+        "9855",
+        "9856",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Stuart Mathis",
       "targetId": "5984",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6030"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6452"
+      ]
     },
     {
       "name": "Josh Freese",
       "targetId": "6296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9537"
+      ]
     },
     {
       "name": "Deryck Whibley",
       "targetId": "6297",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6452"
+      ]
     },
     {
       "name": "Stevo Wilcken",
       "targetId": "6299",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6452"
+      ]
     },
     {
       "name": "Joel Shearer",
       "targetId": "9084",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9855",
+        "9856",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Eric Ivan Rosse",
       "targetId": "9085",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9855"
+      ]
     },
     {
       "name": "Perry Farrell",
       "targetId": "10724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13201"
+      ]
     }
   ]
 }

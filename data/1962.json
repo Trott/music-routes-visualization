@@ -1,31 +1,70 @@
 {
   "source": "Lindsay Cooper",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1701",
+      "names": [
+        "Tubular Bells Part 1"
+      ],
+      "releases": [
+        {
+          "_id": "393",
+          "names": [
+            "Tubular Bells"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "281",
+          "names": [
+            "Mike Oldfield"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Oldfield",
       "targetId": "1955",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1701"
+      ]
     },
     {
       "name": "John Field",
       "targetId": "1963",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1701"
+      ]
     },
     {
       "name": "Vivian Stanshall",
       "targetId": "1964",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1701"
+      ]
     },
     {
       "name": "Mundy Ellis",
       "targetId": "1966",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1701"
+      ]
     },
     {
       "name": "Sally Oldfield",
       "targetId": "1967",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1701"
+      ]
     }
   ]
 }

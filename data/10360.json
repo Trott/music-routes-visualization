@@ -1,61 +1,142 @@
 {
   "source": "Dave Pickell",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12721",
+      "names": [
+        "Victim Of Love"
+      ],
+      "releases": [
+        {
+          "_id": "2269",
+          "names": [
+            "Into The Fire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12733",
+      "names": [
+        "Someday"
+      ],
+      "releases": [
+        {
+          "_id": "2284",
+          "names": [
+            "The Thin Red Line"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1645",
+          "names": [
+            "Glass Tiger"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12721"
+      ]
     },
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12721",
+        "12733"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12721"
+      ]
     },
     {
       "name": "Dalbello",
       "targetId": "2485",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     },
     {
       "name": "Sharon Lee Williams",
       "targetId": "2496",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     },
     {
       "name": "Dave Taylor",
       "targetId": "7183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12721"
+      ]
     },
     {
       "name": "Keith Scott",
       "targetId": "7184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12721",
+        "12733"
+      ]
     },
     {
       "name": "Ian Stanley",
       "targetId": "10352",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12721"
+      ]
     },
     {
       "name": "Alan Frew",
       "targetId": "10363",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     },
     {
       "name": "Al Connelly",
       "targetId": "10364",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     },
     {
       "name": "Sam Reid",
       "targetId": "10366",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     }
   ]
 }

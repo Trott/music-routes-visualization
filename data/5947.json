@@ -1,16 +1,68 @@
 {
   "source": "Sister Souljah",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6005",
+      "names": [
+        "State Of Accomodation: Why Aren't You Angry"
+      ],
+      "releases": [
+        {
+          "_id": "1203",
+          "names": [
+            "360 Degrees Of Power"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "934",
+          "names": [
+            "Sister Souljah"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6006",
+      "names": [
+        "Killing Me Softly: Deadly Code Of Silence"
+      ],
+      "releases": [
+        {
+          "_id": "1203",
+          "names": [
+            "360 Degrees Of Power"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "934",
+          "names": [
+            "Sister Souljah"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chuck D",
       "targetId": "349",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6005"
+      ]
     },
     {
       "name": "Ice Cube",
       "targetId": "5867",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6006"
+      ]
     }
   ]
 }

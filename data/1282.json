@@ -1,51 +1,130 @@
 {
   "source": "Cookie Monster",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "876",
+      "names": [
+        "Sesame Street Fever"
+      ],
+      "releases": [
+        {
+          "_id": "272",
+          "names": [
+            "Sesame Street Fever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13449",
+      "names": [
+        "(A Monster Went And) Ate My Red Two"
+      ],
+      "releases": [
+        {
+          "_id": "2469",
+          "names": [
+            "Best Of Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        },
+        {
+          "_id": "1575",
+          "names": [
+            "Elmo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Big Bird",
       "targetId": "240",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "The Count",
       "targetId": "245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Elmo",
       "targetId": "254",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13449"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13449"
+      ]
     },
     {
       "name": "Herb Bushler",
       "targetId": "1260",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Richard Crooks",
       "targetId": "1270",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Robin Gibb",
       "targetId": "1279",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Grover",
       "targetId": "1280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     },
     {
       "name": "Ernie",
       "targetId": "1281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "876"
+      ]
     }
   ]
 }

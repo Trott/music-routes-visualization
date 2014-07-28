@@ -1,76 +1,191 @@
 {
   "source": "Jessy Greene",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1255",
+      "names": [
+        "The Lonely"
+      ],
+      "releases": [
+        {
+          "_id": "333",
+          "names": [
+            "Being There"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "244",
+          "names": [
+            "Wilco"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8403",
+      "names": [
+        "Looking Forward To Seeing You"
+      ],
+      "releases": [
+        {
+          "_id": "1625",
+          "names": [
+            "Weird Tales"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1243",
+          "names": [
+            "Golden Smog"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8405",
+      "names": [
+        "Reflections On Me"
+      ],
+      "releases": [
+        {
+          "_id": "1625",
+          "names": [
+            "Weird Tales"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1243",
+          "names": [
+            "Golden Smog"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Pirner",
       "targetId": "786",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8405"
+      ]
     },
     {
       "name": "Greg Leisz",
       "targetId": "1061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1255"
+      ]
     },
     {
       "name": "Jay Bennett",
       "targetId": "1703",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1255"
+      ]
     },
     {
       "name": "Jeff Tweedy",
       "targetId": "1704",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1255",
+        "8403"
+      ]
     },
     {
       "name": "John Stirratt",
       "targetId": "1705",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1255"
+      ]
     },
     {
       "name": "Ken Coomer",
       "targetId": "1706",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1255"
+      ]
     },
     {
       "name": "Max Johnston",
       "targetId": "1707",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1255"
+      ]
     },
     {
       "name": "Jim Boquist",
       "targetId": "7904",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8405"
+      ]
     },
     {
       "name": "Marc Perlman",
       "targetId": "7905",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8403"
+      ]
     },
     {
       "name": "Jody Stephens",
       "targetId": "7906",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8403",
+        "8405"
+      ]
     },
     {
       "name": "Gary Louris",
       "targetId": "7907",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8403",
+        "8405"
+      ]
     },
     {
       "name": "Daniel Murphy",
       "targetId": "7908",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8403",
+        "8405"
+      ]
     },
     {
       "name": "Kraig Jarret Johnson",
       "targetId": "7909",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8403",
+        "8405"
+      ]
     },
     {
       "name": "Tom Merkl",
       "targetId": "7910",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8403"
+      ]
     }
   ]
 }

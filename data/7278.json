@@ -1,41 +1,139 @@
 {
   "source": "John Bentley",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7616",
+      "names": [
+        "Tempted"
+      ],
+      "releases": [
+        {
+          "_id": "1508",
+          "names": [
+            "East Side Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1158",
+          "names": [
+            "Squeeze"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7617",
+      "names": [
+        "There's No Tomorrow"
+      ],
+      "releases": [
+        {
+          "_id": "1508",
+          "names": [
+            "East Side Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1158",
+          "names": [
+            "Squeeze"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7618",
+      "names": [
+        "Black Coffee In Bed"
+      ],
+      "releases": [
+        {
+          "_id": "1509",
+          "names": [
+            "Sweets From A Stranger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1158",
+          "names": [
+            "Squeeze"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Young",
       "targetId": "102",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7618"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7616",
+        "7617",
+        "7618"
+      ]
     },
     {
       "name": "Gilson Lavis",
       "targetId": "3752",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7616",
+        "7617",
+        "7618"
+      ]
     },
     {
       "name": "Paul Carrack",
       "targetId": "6098",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7616",
+        "7617"
+      ]
     },
     {
       "name": "Glenn Tilbrook",
       "targetId": "7275",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7616",
+        "7617",
+        "7618"
+      ]
     },
     {
       "name": "Chris Difford",
       "targetId": "7279",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7616",
+        "7617",
+        "7618"
+      ]
     },
     {
       "name": "Don Snow",
       "targetId": "7280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7618"
+      ]
     }
   ]
 }

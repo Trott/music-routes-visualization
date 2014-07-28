@@ -1,91 +1,595 @@
 {
   "source": "Bill Smiley",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "9800",
+      "names": [
+        "Lullaby Of Broadway"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9801",
+      "names": [
+        "The Party's Over"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9802",
+      "names": [
+        "Baubles, Bangles And Beads"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9803",
+      "names": [
+        "Ev'ry Time We Say Goodbye"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9804",
+      "names": [
+        "Whatever Lola Wants"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9805",
+      "names": [
+        "Bali Ha'i"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9806",
+      "names": [
+        "Hey There"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9807",
+      "names": [
+        "Younger Than Springtime"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9808",
+      "names": [
+        "On The Street Where You Live"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9809",
+      "names": [
+        "I Love Paris"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9810",
+      "names": [
+        "I've Never Been In Love Before"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9811",
+      "names": [
+        "All At Once You Love Her"
+      ],
+      "releases": [
+        {
+          "_id": "1877",
+          "names": [
+            "The Stage Door Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1453",
+          "names": [
+            "Stan Kenton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Al Sunseri",
       "targetId": "9012",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Bill Catalano",
       "targetId": "9013",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Bud Brisbois",
       "targetId": "9014",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Frank Huggins",
       "targetId": "9015",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Jack Sheldon",
       "targetId": "9016",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Bob Olson",
       "targetId": "9017",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Jim Amlotte",
       "targetId": "9018",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Kent Larsen",
       "targetId": "9019",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Stan Kenton",
       "targetId": "9020",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Jerry McKenzie",
       "targetId": "9021",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Thomas \"Red\" Kelly",
       "targetId": "9022",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Bill Perkins",
       "targetId": "9023",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Bill Robinson",
       "targetId": "9024",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Bill Trujillo",
       "targetId": "9025",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Lennie Niehaus",
       "targetId": "9026",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Steve Perlow",
       "targetId": "9027",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     },
     {
       "name": "Archie Lecoque",
       "targetId": "9028",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "9800",
+        "9801",
+        "9802",
+        "9803",
+        "9804",
+        "9805",
+        "9806",
+        "9807",
+        "9808",
+        "9809",
+        "9810",
+        "9811"
+      ]
     }
   ]
 }

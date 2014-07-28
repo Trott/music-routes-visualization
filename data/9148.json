@@ -1,26 +1,62 @@
 {
   "source": "Reverend Ike",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9955",
+      "names": [
+        "Mind Your Own Business"
+      ],
+      "releases": [
+        {
+          "_id": "1915",
+          "names": [
+            "Montana Cafe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1483",
+          "names": [
+            "Hank Williams, Jr."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Willie Nelson",
       "targetId": "68",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9955"
+      ]
     },
     {
       "name": "Tom Petty",
       "targetId": "223",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9955"
+      ]
     },
     {
       "name": "Reba McEntire",
       "targetId": "6255",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9955"
+      ]
     },
     {
       "name": "Hank Williams, Jr.",
       "targetId": "9142",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9955"
+      ]
     }
   ]
 }

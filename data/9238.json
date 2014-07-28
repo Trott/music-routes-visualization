@@ -1,31 +1,116 @@
 {
   "source": "George Strait",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "10081",
+      "names": [
+        "Hey Good Lookin'"
+      ],
+      "releases": [
+        {
+          "_id": "1937",
+          "names": [
+            "License To Chill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10082",
+      "names": [
+        "Sea Of Heartbreak"
+      ],
+      "releases": [
+        {
+          "_id": "1937",
+          "names": [
+            "License To Chill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10083",
+      "names": [
+        "Shiftwork"
+      ],
+      "releases": [
+        {
+          "_id": "1938",
+          "names": [
+            "Just Who I Am: Poets & Pirates"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1499",
+          "names": [
+            "Kenny Chesney"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Buffett",
       "targetId": "1782",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10081",
+        "10082"
+      ]
     },
     {
       "name": "Kenny Chesney",
       "targetId": "6262",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10081",
+        "10083"
+      ]
     },
     {
       "name": "Alan Jackson",
       "targetId": "9236",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
     },
     {
       "name": "Clint Black",
       "targetId": "9237",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
     },
     {
       "name": "Toby Keith",
       "targetId": "9239",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
     }
   ]
 }

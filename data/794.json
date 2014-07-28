@@ -1,26 +1,138 @@
 {
   "source": "Mick Woodmansey",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "305",
+      "names": [
+        "Changes"
+      ],
+      "releases": [
+        {
+          "_id": "183",
+          "names": [
+            "Hunky Dory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "309",
+      "names": [
+        "John, I'm Only Dancing"
+      ],
+      "releases": [
+        {
+          "_id": "185",
+          "names": [
+            "Changesbowie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "310",
+      "names": [
+        "Ziggy Stardust"
+      ],
+      "releases": [
+        {
+          "_id": "187",
+          "names": [
+            "The Rise & Fall Of Ziggy Stardust And The Spiders From Mars"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13455",
+      "names": [
+        "Kooks"
+      ],
+      "releases": [
+        {
+          "_id": "183",
+          "names": [
+            "Hunky Dory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "305",
+        "309",
+        "310",
+        "13455"
+      ]
     },
     {
       "name": "Mick Ronson",
       "targetId": "791",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "305",
+        "309",
+        "310",
+        "13455"
+      ]
     },
     {
       "name": "Rick Wakeman",
       "targetId": "792",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "305",
+        "13455"
+      ]
     },
     {
       "name": "Trevor Bolder",
       "targetId": "793",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "305",
+        "309",
+        "310",
+        "13455"
+      ]
     }
   ]
 }

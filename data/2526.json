@@ -1,36 +1,375 @@
 {
   "source": "Tom Petersson",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "2104",
+      "names": [
+        "Surrender"
+      ],
+      "releases": [
+        {
+          "_id": "484",
+          "names": [
+            "Heaven Tonight"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5665",
+      "names": [
+        "Dead Or Anything"
+      ],
+      "releases": [
+        {
+          "_id": "1121",
+          "names": [
+            "\"Dead or Anything\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "875",
+          "names": [
+            "Dando Lee Petersson Schwartzman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5666",
+      "names": [
+        "Love Song"
+      ],
+      "releases": [
+        {
+          "_id": "1121",
+          "names": [
+            "\"Dead or Anything\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "875",
+          "names": [
+            "Dando Lee Petersson Schwartzman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7817",
+      "names": [
+        "Hello There"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7818",
+      "names": [
+        "Come On, Come On"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7819",
+      "names": [
+        "Lookout"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7820",
+      "names": [
+        "Big Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7821",
+      "names": [
+        "Need Your Love"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7822",
+      "names": [
+        "Ain't That A Shame"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7823",
+      "names": [
+        "I Want You To Want Me"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7824",
+      "names": [
+        "Surrender"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7825",
+      "names": [
+        "Goodnight Now"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7826",
+      "names": [
+        "Clock Strikes Ten"
+      ],
+      "releases": [
+        {
+          "_id": "1541",
+          "names": [
+            "At Budokan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "364",
+          "names": [
+            "Cheap Trick"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Evan Dando",
       "targetId": "730",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5665",
+        "5666"
+      ]
     },
     {
       "name": "Rick Nielsen",
       "targetId": "2119",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "2104",
+        "7817",
+        "7818",
+        "7819",
+        "7820",
+        "7821",
+        "7822",
+        "7823",
+        "7824",
+        "7825",
+        "7826"
+      ]
     },
     {
       "name": "Robin Zander",
       "targetId": "2524",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "2104",
+        "7817",
+        "7818",
+        "7819",
+        "7820",
+        "7821",
+        "7822",
+        "7823",
+        "7824",
+        "7825",
+        "7826"
+      ]
     },
     {
       "name": "Bun E. Carlos",
       "targetId": "2525",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "2104",
+        "7817",
+        "7818",
+        "7819",
+        "7820",
+        "7821",
+        "7822",
+        "7823",
+        "7824",
+        "7825",
+        "7826"
+      ]
     },
     {
       "name": "Ben Lee",
       "targetId": "4674",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5665",
+        "5666"
+      ]
     },
     {
       "name": "Jason Schwartzman",
       "targetId": "5670",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5665",
+        "5666"
+      ]
     }
   ]
 }

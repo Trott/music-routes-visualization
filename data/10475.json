@@ -1,26 +1,62 @@
 {
   "source": "Brett Anderson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12963",
+      "names": [
+        "California Sun"
+      ],
+      "releases": [
+        {
+          "_id": "2337",
+          "names": [
+            "Brats On The Beat: Ramones For Kids"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1670",
+          "names": [
+            "The Gabba Gabba Heys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Huey",
       "targetId": "10469",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12963"
+      ]
     },
     {
       "name": "Spooney",
       "targetId": "10470",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12963"
+      ]
     },
     {
       "name": "Ricky",
       "targetId": "10471",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12963"
+      ]
     },
     {
       "name": "Surly",
       "targetId": "10472",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12963"
+      ]
     }
   ]
 }

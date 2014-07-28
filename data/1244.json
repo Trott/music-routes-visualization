@@ -1,16 +1,46 @@
 {
   "source": "Sean Hayes",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "830",
+      "names": [
+        "Midnight Rounders"
+      ],
+      "releases": [
+        {
+          "_id": "265",
+          "names": [
+            "Flowering Spade"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "188",
+          "names": [
+            "Sean Hayes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Todd Roper",
       "targetId": "1242",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "830"
+      ]
     },
     {
       "name": "Shahzad Ismaily",
       "targetId": "1245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "830"
+      ]
     }
   ]
 }

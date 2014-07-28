@@ -1,36 +1,156 @@
 {
   "source": "Elmo",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "55",
+      "names": [
+        "The Grouch Song"
+      ],
+      "releases": [
+        {
+          "_id": "47",
+          "names": [
+            "The Adventures Of Elmo In Grouchland (soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "57",
+      "names": [
+        "Elmo Says BOO!"
+      ],
+      "releases": [
+        {
+          "_id": "49",
+          "names": [
+            "Elmo Says BOO!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10804",
+      "names": [
+        "From Your Head"
+      ],
+      "releases": [
+        {
+          "_id": "55",
+          "names": [
+            "Songs From The Street: 35 Years Of Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1574",
+          "names": [
+            "Diane Schuur"
+          ]
+        },
+        {
+          "_id": "1575",
+          "names": [
+            "Elmo"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13449",
+      "names": [
+        "(A Monster Went And) Ate My Red Two"
+      ],
+      "releases": [
+        {
+          "_id": "2469",
+          "names": [
+            "Best Of Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        },
+        {
+          "_id": "1575",
+          "names": [
+            "Elmo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Oscar the Grouch",
       "targetId": "242",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "55"
+      ]
     },
     {
       "name": "The Count",
       "targetId": "245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "57"
+      ]
     },
     {
       "name": "Grizzy",
       "targetId": "255",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "55"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13449"
+      ]
     },
     {
       "name": "Cookie Monster",
       "targetId": "1282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13449"
+      ]
     },
     {
       "name": "Diane Schuur",
       "targetId": "9564",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10804"
+      ]
     }
   ]
 }

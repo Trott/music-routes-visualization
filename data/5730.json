@@ -1,36 +1,180 @@
 {
   "source": "Rikki Rockett",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "5767",
+      "names": [
+        "Stand"
+      ],
+      "releases": [
+        {
+          "_id": "1141",
+          "names": [
+            "Native Tongue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "889",
+          "names": [
+            "Poison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5768",
+      "names": [
+        "Theatre Of The Soul"
+      ],
+      "releases": [
+        {
+          "_id": "1142",
+          "names": [
+            "Best Of Ballads & Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "889",
+          "names": [
+            "Poison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5769",
+      "names": [
+        "The Scream"
+      ],
+      "releases": [
+        {
+          "_id": "1141",
+          "names": [
+            "Native Tongue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "889",
+          "names": [
+            "Poison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5770",
+      "names": [
+        "Bastard Son Of A Thousand Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1142",
+          "names": [
+            "Best Of Ballads & Blues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "889",
+          "names": [
+            "Poison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5771",
+      "names": [
+        "7 Days Over You"
+      ],
+      "releases": [
+        {
+          "_id": "1141",
+          "names": [
+            "Native Tongue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "889",
+          "names": [
+            "Poison"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sheila E.",
       "targetId": "51",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5769"
+      ]
     },
     {
       "name": "Jai Winding",
       "targetId": "640",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5767",
+        "5768"
+      ]
     },
     {
       "name": "Billy Powell",
       "targetId": "2712",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5770",
+        "5771"
+      ]
     },
     {
       "name": "Bobby Dall",
       "targetId": "5729",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "5767",
+        "5768",
+        "5769",
+        "5770",
+        "5771"
+      ]
     },
     {
       "name": "Bret Michaels",
       "targetId": "5731",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "5767",
+        "5768",
+        "5769",
+        "5770",
+        "5771"
+      ]
     },
     {
       "name": "Richie Kotzen",
       "targetId": "5732",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "5767",
+        "5768",
+        "5769",
+        "5770",
+        "5771"
+      ]
     }
   ]
 }

@@ -1,41 +1,326 @@
 {
   "source": "Dallas Taylor",
   "trackCount": 9,
+  "tracks": [
+    {
+      "_id": "12821",
+      "names": [
+        "Woodstock"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        },
+        {
+          "_id": "2315",
+          "names": [
+            "Carry On"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12822",
+      "names": [
+        "Teach Your Children"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        },
+        {
+          "_id": "2315",
+          "names": [
+            "Carry On"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12823",
+      "names": [
+        "Almost Cut My Hair"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        },
+        {
+          "_id": "2315",
+          "names": [
+            "Carry On"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12824",
+      "names": [
+        "Helpless"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        },
+        {
+          "_id": "2315",
+          "names": [
+            "Carry On"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12826",
+      "names": [
+        "Our House"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        },
+        {
+          "_id": "2315",
+          "names": [
+            "Carry On"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12828",
+      "names": [
+        "Deja Vu"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12829",
+      "names": [
+        "Carry On"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12830",
+      "names": [
+        "Everybody I Love You"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12831",
+      "names": [
+        "Country Girl: Whiskey Boot Hill/Down, Down, Down/Country Girl (I Think You're Pretty)"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neil Young",
       "targetId": "45",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "12821",
+        "12823",
+        "12824",
+        "12830",
+        "12831"
+      ]
     },
     {
       "name": "David Crosby",
       "targetId": "511",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "12821",
+        "12822",
+        "12823",
+        "12824",
+        "12826",
+        "12828",
+        "12829",
+        "12830",
+        "12831"
+      ]
     },
     {
       "name": "Stephen Stills",
       "targetId": "638",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "12821",
+        "12822",
+        "12823",
+        "12824",
+        "12826",
+        "12828",
+        "12829",
+        "12830",
+        "12831"
+      ]
     },
     {
       "name": "Graham Nash",
       "targetId": "639",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "12821",
+        "12822",
+        "12823",
+        "12824",
+        "12826",
+        "12828",
+        "12829",
+        "12830",
+        "12831"
+      ]
     },
     {
       "name": "Jerry Garcia",
       "targetId": "918",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12822"
+      ]
     },
     {
       "name": "John Sebastian",
       "targetId": "1555",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12828"
+      ]
     },
     {
       "name": "Greg Reeves",
       "targetId": "10420",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "12821",
+        "12823",
+        "12824",
+        "12826",
+        "12828",
+        "12830",
+        "12831"
+      ]
     }
   ]
 }

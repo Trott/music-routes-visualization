@@ -1,21 +1,79 @@
 {
   "source": "John Lee Hooker",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13027",
+      "names": [
+        "I Eat Heavy Metal"
+      ],
+      "releases": [
+        {
+          "_id": "2349",
+          "names": [
+            "The Iron Man: A Musical"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1109",
+          "names": [
+            "Pete Townshend"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13028",
+      "names": [
+        "Over The Top"
+      ],
+      "releases": [
+        {
+          "_id": "2349",
+          "names": [
+            "The Iron Man: A Musical"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1109",
+          "names": [
+            "Pete Townshend"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pete Townshend",
       "targetId": "1985",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13027",
+        "13028"
+      ]
     },
     {
       "name": "Simon Phillips",
       "targetId": "3386",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13027",
+        "13028"
+      ]
     },
     {
       "name": "Chucho Merchan",
       "targetId": "10516",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13027",
+        "13028"
+      ]
     }
   ]
 }

@@ -1,51 +1,197 @@
 {
   "source": "Max Martin",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "6454",
+      "names": [
+        "Alone"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6455",
+      "names": [
+        "I Will Be"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7229",
+      "names": [
+        "Hot N Cold"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7236",
+      "names": [
+        "Since U Been Gone"
+      ],
+      "releases": [
+        {
+          "_id": "1423",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7237",
+      "names": [
+        "Behind These Hazel Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "1423",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Travis Barker",
       "targetId": "1559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6454"
+      ]
     },
     {
       "name": "Shawn Pelton",
       "targetId": "2370",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7237"
+      ]
     },
     {
       "name": "Jack Daley",
       "targetId": "2872",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6454",
+        "6455"
+      ]
     },
     {
       "name": "Kelly Clarkson",
       "targetId": "6254",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7236",
+        "7237"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6454",
+        "6455"
+      ]
     },
     {
       "name": "Lukasz Gottwald",
       "targetId": "6293",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "6454",
+        "6455",
+        "7229",
+        "7236",
+        "7237"
+      ]
     },
     {
       "name": "Steven Wolf",
       "targetId": "6294",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6455"
+      ]
     },
     {
       "name": "Katy Perry",
       "targetId": "6947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7229"
+      ]
     },
     {
       "name": "Olle Dahlstedt",
       "targetId": "6957",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7236"
+      ]
     }
   ]
 }

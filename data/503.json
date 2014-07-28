@@ -1,21 +1,54 @@
 {
   "source": "Chris Hillman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "149",
+      "names": [
+        "Juanita"
+      ],
+      "releases": [
+        {
+          "_id": "113",
+          "names": [
+            "The Definitive Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "86",
+          "names": [
+            "The Flying Burrito Brothers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Ethridge",
       "targetId": "375",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "149"
+      ]
     },
     {
       "name": "Gram Parsons",
       "targetId": "451",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "149"
+      ]
     },
     {
       "name": "\"Sneaky\" Pete Kleinow",
       "targetId": "504",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "149"
+      ]
     }
   ]
 }

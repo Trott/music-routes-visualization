@@ -1,41 +1,111 @@
 {
   "source": "Peter O'Toole",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2128",
+      "names": [
+        "Closer To Fine"
+      ],
+      "releases": [
+        {
+          "_id": "504",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "379",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2129",
+      "names": [
+        "Secure Yourself"
+      ],
+      "releases": [
+        {
+          "_id": "504",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "379",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paulinho Da Costa",
       "targetId": "411",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2128"
+      ]
     },
     {
       "name": "Amy Ray",
       "targetId": "2579",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2128",
+        "2129"
+      ]
     },
     {
       "name": "Emily Saliers",
       "targetId": "2580",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2128",
+        "2129"
+      ]
     },
     {
       "name": "Luka Bloom",
       "targetId": "2581",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2128"
+      ]
     },
     {
       "name": "Liam O'Maonlai",
       "targetId": "2582",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2128",
+        "2129"
+      ]
     },
     {
       "name": "Fiachna O'Braonain",
       "targetId": "2584",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2128"
+      ]
     },
     {
       "name": "Dede Vogt",
       "targetId": "2585",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2129"
+      ]
     }
   ]
 }

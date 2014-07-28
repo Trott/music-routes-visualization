@@ -1,26 +1,62 @@
 {
   "source": "Olivier Rousseau",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6661",
+      "names": [
+        "The More I Look"
+      ],
+      "releases": [
+        {
+          "_id": "1332",
+          "names": [
+            "Open The Door"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1030",
+          "names": [
+            "Roger Hodgson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Trevor Rabin",
       "targetId": "4183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6661"
+      ]
     },
     {
       "name": "Laurent Vernerey",
       "targetId": "6346",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6661"
+      ]
     },
     {
       "name": "Roger Hodgson",
       "targetId": "6527",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6661"
+      ]
     },
     {
       "name": "Loïc Ponthieu",
       "targetId": "6530",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6661"
+      ]
     }
   ]
 }

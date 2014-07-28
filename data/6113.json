@@ -1,91 +1,263 @@
 {
   "source": "Paul Bushnell",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "6186",
+      "names": [
+        "Helpless When She Smiles"
+      ],
+      "releases": [
+        {
+          "_id": "1243",
+          "names": [
+            "Unbreakable"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "960",
+          "names": [
+            "Backstreet Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6187",
+      "names": [
+        "Trouble Is"
+      ],
+      "releases": [
+        {
+          "_id": "1243",
+          "names": [
+            "Unbreakable"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "960",
+          "names": [
+            "Backstreet Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6449",
+      "names": [
+        "Innocence"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7232",
+      "names": [
+        "Self Inflicted"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7239",
+      "names": [
+        "Gone"
+      ],
+      "releases": [
+        {
+          "_id": "1423",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Vinnie Colaiuta",
       "targetId": "839",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6186",
+        "6187"
+      ]
     },
     {
       "name": "John Shanks",
       "targetId": "1063",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6186",
+        "6187",
+        "7239"
+      ]
     },
     {
       "name": "Abe Laboriel, Jr.",
       "targetId": "1064",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6449"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6186",
+        "6187",
+        "6449"
+      ]
     },
     {
       "name": "Tim Pierce",
       "targetId": "1718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6449"
+      ]
     },
     {
       "name": "Howie Dorough",
       "targetId": "6114",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6186",
+        "6187"
+      ]
     },
     {
       "name": "Brian Littrell",
       "targetId": "6115",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6186",
+        "6187"
+      ]
     },
     {
       "name": "A.J. McLean",
       "targetId": "6116",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6186",
+        "6187"
+      ]
     },
     {
       "name": "Nick Carter",
       "targetId": "6117",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6186",
+        "6187"
+      ]
     },
     {
       "name": "Kelly Clarkson",
       "targetId": "6254",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7239"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6449"
+      ]
     },
     {
       "name": "Josh Freese",
       "targetId": "6296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7232"
+      ]
     },
     {
       "name": "Greg Suran",
       "targetId": "6298",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6449"
+      ]
     },
     {
       "name": "Katy Perry",
       "targetId": "6947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7232"
+      ]
     },
     {
       "name": "Scott Cutler",
       "targetId": "6954",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7232"
+      ]
     },
     {
       "name": "David Devita",
       "targetId": "6955",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7232"
+      ]
     },
     {
       "name": "Jeff Rothschild",
       "targetId": "6956",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7239"
+      ]
     }
   ]
 }

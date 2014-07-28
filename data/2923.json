@@ -1,11 +1,38 @@
 {
   "source": "Ruthie Foster",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2381",
+      "names": [
+        "Conversation"
+      ],
+      "releases": [
+        {
+          "_id": "595",
+          "names": [
+            "Get Onboard"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "458",
+          "names": [
+            "Eric Bibb"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eric Bibb",
       "targetId": "2922",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2381"
+      ]
     }
   ]
 }

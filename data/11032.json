@@ -1,26 +1,86 @@
 {
   "source": "Brian Wecht",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13469",
+      "names": [
+        "Luigi's Ballad"
+      ],
+      "releases": [
+        {
+          "_id": "2476",
+          "names": [
+            "Starbomb"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1760",
+          "names": [
+            "Starbomb"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13470",
+      "names": [
+        "Regretroid"
+      ],
+      "releases": [
+        {
+          "_id": "2476",
+          "names": [
+            "Starbomb"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1760",
+          "names": [
+            "Starbomb"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Arin Hanson",
       "targetId": "11030",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13469",
+        "13470"
+      ]
     },
     {
       "name": "Leigh Daniel Avidan",
       "targetId": "11031",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13469",
+        "13470"
+      ]
     },
     {
       "name": "Rachel Bloom",
       "targetId": "11033",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13469"
+      ]
     },
     {
       "name": "Emily Hughes",
       "targetId": "11034",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13470"
+      ]
     }
   ]
 }

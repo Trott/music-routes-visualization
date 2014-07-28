@@ -1,81 +1,208 @@
 {
   "source": "Patti Scialfa",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5588",
+      "names": [
+        "Human Touch"
+      ],
+      "releases": [
+        {
+          "_id": "1104",
+          "names": [
+            "Human Touch"
+          ]
+        },
+        {
+          "_id": "1106",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5589",
+      "names": [
+        "Better Days"
+      ],
+      "releases": [
+        {
+          "_id": "1105",
+          "names": [
+            "Lucky Town"
+          ]
+        },
+        {
+          "_id": "1106",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6725",
+      "names": [
+        "Du He Kah (The Healer)"
+      ],
+      "releases": [
+        {
+          "_id": "1347",
+          "names": [
+            "Requiem For The Americas: Songs From The Lost World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1042",
+          "names": [
+            "Jonathan Elias"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Randy Jackson",
       "targetId": "59",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5588",
+        "5589"
+      ]
     },
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5588",
+        "5589"
+      ]
     },
     {
       "name": "Gary Mallaber",
       "targetId": "330",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5589"
+      ]
     },
     {
       "name": "Jeff Porcaro",
       "targetId": "404",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5588"
+      ]
     },
     {
       "name": "Roy Bittan",
       "targetId": "463",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5588"
+      ]
     },
     {
       "name": "Ian Lloyd",
       "targetId": "931",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6725"
+      ]
     },
     {
       "name": "Warren Cuccurullo",
       "targetId": "1339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6725"
+      ]
     },
     {
       "name": "Stewart Copeland",
       "targetId": "2102",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6725"
+      ]
     },
     {
       "name": "Mark Egan",
       "targetId": "3439",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6725"
+      ]
     },
     {
       "name": "Lisa Lowell",
       "targetId": "5629",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5589"
+      ]
     },
     {
       "name": "Soozie Tyrell",
       "targetId": "5630",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5589"
+      ]
     },
     {
       "name": "Jonathan Elias",
       "targetId": "6600",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6725"
+      ]
     },
     {
       "name": "Gordon Gottlieb",
       "targetId": "6601",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6725"
+      ]
     },
     {
       "name": "Sherman Foote",
       "targetId": "6602",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6725"
+      ]
     },
     {
       "name": "Paul Seymour",
       "targetId": "6605",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6725"
+      ]
     }
   ]
 }

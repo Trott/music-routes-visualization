@@ -1,16 +1,46 @@
 {
   "source": "D'Angelo",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6368",
+      "names": [
+        "Nothing Even Matters"
+      ],
+      "releases": [
+        {
+          "_id": "1271",
+          "names": [
+            "The Miseducation Of Lauryn Hill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "984",
+          "names": [
+            "Lauryn Hill"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lauryn Hill",
       "targetId": "6249",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6368"
+      ]
     },
     {
       "name": "James Poyser",
       "targetId": "6250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6368"
+      ]
     }
   ]
 }

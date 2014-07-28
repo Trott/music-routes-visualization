@@ -1,11 +1,38 @@
 {
   "source": "Lupe Fiasco",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6867",
+      "names": [
+        "Daydreamin'"
+      ],
+      "releases": [
+        {
+          "_id": "1367",
+          "names": [
+            "Collaborations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1055",
+          "names": [
+            "Jill Scott"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jill Scott",
       "targetId": "6698",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6867"
+      ]
     }
   ]
 }

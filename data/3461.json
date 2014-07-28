@@ -1,56 +1,137 @@
 {
   "source": "Phil Ashley",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3144",
+      "names": [
+        "I Found Someone"
+      ],
+      "releases": [
+        {
+          "_id": "672",
+          "names": [
+            "Cher"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "526",
+          "names": [
+            "Cher"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3153",
+      "names": [
+        "Hard Enough Getting Over You"
+      ],
+      "releases": [
+        {
+          "_id": "672",
+          "names": [
+            "Cher"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "526",
+          "names": [
+            "Cher"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Lukather",
       "targetId": "402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3144"
+      ]
     },
     {
       "name": "Will Lee",
       "targetId": "1419",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3144",
+        "3153"
+      ]
     },
     {
       "name": "Chris Parker",
       "targetId": "3224",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3144"
+      ]
     },
     {
       "name": "Cher",
       "targetId": "3456",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3144",
+        "3153"
+      ]
     },
     {
       "name": "Patty Darcy",
       "targetId": "3457",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3144",
+        "3153"
+      ]
     },
     {
       "name": "John McCurry",
       "targetId": "3458",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3144",
+        "3153"
+      ]
     },
     {
       "name": "Doug Katsaros",
       "targetId": "3459",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3144"
+      ]
     },
     {
       "name": "Jeff Bova",
       "targetId": "3460",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3144",
+        "3153"
+      ]
     },
     {
       "name": "Vicki Sue Robinson",
       "targetId": "3486",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3153"
+      ]
     },
     {
       "name": "Ira Siegel",
       "targetId": "3487",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3153"
+      ]
     }
   ]
 }

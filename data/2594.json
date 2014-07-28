@@ -1,21 +1,100 @@
 {
   "source": "Klaus Dinger",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2141",
+      "names": [
+        "Hallogallo"
+      ],
+      "releases": [
+        {
+          "_id": "508",
+          "names": [
+            "Neu!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "383",
+          "names": [
+            "Neu!"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2144",
+      "names": [
+        "Megaherz"
+      ],
+      "releases": [
+        {
+          "_id": "509",
+          "names": [
+            "Kraftwerk"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "384",
+          "names": [
+            "Kraftwerk"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2145",
+      "names": [
+        "Von Himmel Hoch"
+      ],
+      "releases": [
+        {
+          "_id": "509",
+          "names": [
+            "Kraftwerk"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "384",
+          "names": [
+            "Kraftwerk"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Rother",
       "targetId": "2593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2141"
+      ]
     },
     {
       "name": "Florian Schneider",
       "targetId": "2596",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2144",
+        "2145"
+      ]
     },
     {
       "name": "Ralf Hütter",
       "targetId": "2597",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2144",
+        "2145"
+      ]
     }
   ]
 }

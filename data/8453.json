@@ -1,181 +1,458 @@
 {
   "source": "Sherlie Matthews",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "9160",
+      "names": [
+        "Black Cow"
+      ],
+      "releases": [
+        {
+          "_id": "173",
+          "names": [
+            "Aja"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9162",
+      "names": [
+        "Deacon Blues"
+      ],
+      "releases": [
+        {
+          "_id": "173",
+          "names": [
+            "Aja"
+          ]
+        },
+        {
+          "_id": "2206",
+          "names": [
+            "Citizen Steely Dan: 1972-1980"
+          ]
+        },
+        {
+          "_id": "2207",
+          "names": [
+            "A Decade of Steely Dan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9163",
+      "names": [
+        "I Got The News"
+      ],
+      "releases": [
+        {
+          "_id": "173",
+          "names": [
+            "Aja"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12275",
+      "names": [
+        "Kid Charlemagne"
+      ],
+      "releases": [
+        {
+          "_id": "2206",
+          "names": [
+            "Citizen Steely Dan: 1972-1980"
+          ]
+        },
+        {
+          "_id": "2207",
+          "names": [
+            "A Decade of Steely Dan"
+          ]
+        },
+        {
+          "_id": "2211",
+          "names": [
+            "The Royal Scam"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12276",
+      "names": [
+        "My Old School"
+      ],
+      "releases": [
+        {
+          "_id": "2206",
+          "names": [
+            "Citizen Steely Dan: 1972-1980"
+          ]
+        },
+        {
+          "_id": "2207",
+          "names": [
+            "A Decade of Steely Dan"
+          ]
+        },
+        {
+          "_id": "2209",
+          "names": [
+            "Countdown To Ecstasy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tom Scott",
       "targetId": "277",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9160",
+        "9162"
+      ]
     },
     {
       "name": "Victor Feldman",
       "targetId": "396",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9160",
+        "9162",
+        "9163"
+      ]
     },
     {
       "name": "Chuck Findley",
       "targetId": "397",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Dean Parks",
       "targetId": "408",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9163"
+      ]
     },
     {
       "name": "Ernie Watts",
       "targetId": "413",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Larry Carlton",
       "targetId": "506",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9160",
+        "9162",
+        "9163",
+        "12275"
+      ]
     },
     {
       "name": "Jim Horn",
       "targetId": "670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Michael McDonald",
       "targetId": "717",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9163",
+        "12275"
+      ]
     },
     {
       "name": "Donald Fagen",
       "targetId": "720",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "9160",
+        "9162",
+        "9163",
+        "12275",
+        "12276"
+      ]
     },
     {
       "name": "Walter Becker",
       "targetId": "721",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9162",
+        "9163",
+        "12276"
+      ]
     },
     {
       "name": "Chuck Rainey",
       "targetId": "722",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9160",
+        "9163",
+        "12275"
+      ]
     },
     {
       "name": "Paul Griffin",
       "targetId": "723",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12275"
+      ]
     },
     {
       "name": "Don Grolnick",
       "targetId": "724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12275"
+      ]
     },
     {
       "name": "Paul Humphrey",
       "targetId": "820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9160"
+      ]
     },
     {
       "name": "Plas Johnson",
       "targetId": "1488",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Wayne Shorter",
       "targetId": "1631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Ed Greene",
       "targetId": "2432",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9163"
+      ]
     },
     {
       "name": "Bernard Purdie",
       "targetId": "3114",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9162",
+        "12275"
+      ]
     },
     {
       "name": "Dick Hyde",
       "targetId": "3414",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Myrna Matthews",
       "targetId": "3553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Pete Christlieb",
       "targetId": "4224",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Lew McCreary",
       "targetId": "4511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Clydie King",
       "targetId": "4580",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9160",
+        "9162",
+        "9163",
+        "12275"
+      ]
     },
     {
       "name": "Lee Ritenour",
       "targetId": "5905",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Jeff \"Skunk\" Baxter",
       "targetId": "7533",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Johnny Rotella",
       "targetId": "7938",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Joe Sample",
       "targetId": "8451",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9160"
+      ]
     },
     {
       "name": "Venetta Fields",
       "targetId": "8452",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9160",
+        "9162",
+        "9163",
+        "12275"
+      ]
     },
     {
       "name": "Rebecca Louis",
       "targetId": "8454",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9160",
+        "9163"
+      ]
     },
     {
       "name": "Denny Dias",
       "targetId": "8455",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Bill Perkins",
       "targetId": "9023",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9162",
+        "12276"
+      ]
     },
     {
       "name": "Jim Hodder",
       "targetId": "10174",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Jackie Kelso",
       "targetId": "10176",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9162"
+      ]
     },
     {
       "name": "Patricia Hall",
       "targetId": "10178",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Lanny Morgan",
       "targetId": "10179",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     }
   ]
 }

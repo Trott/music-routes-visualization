@@ -1,21 +1,76 @@
 {
   "source": "Pharrell Williams",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2126",
+      "names": [
+        "My Drive Thru"
+      ],
+      "releases": [
+        {
+          "_id": "502",
+          "names": [
+            "My Drive Thru"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "377",
+          "names": [
+            "Julian Casablancas, Santogold, & Pharrell Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2260",
+      "names": [
+        "Niggy Nuts"
+      ],
+      "releases": [
+        {
+          "_id": "565",
+          "names": [
+            "10"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "431",
+          "names": [
+            "LL Cool J"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Julian Casablancas",
       "targetId": "1850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2126"
+      ]
     },
     {
       "name": "Santogold",
       "targetId": "2570",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2126"
+      ]
     },
     {
       "name": "LL Cool J",
       "targetId": "2782",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2260"
+      ]
     }
   ]
 }

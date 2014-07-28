@@ -1,31 +1,162 @@
 {
   "source": "Sky Blu",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "7646",
+      "names": [
+        "Sine Language"
+      ],
+      "releases": [
+        {
+          "_id": "1518",
+          "names": [
+            "Divided By Night"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1165",
+          "names": [
+            "The Crystal Method"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7652",
+      "names": [
+        "I'm In Miami Bitch"
+      ],
+      "releases": [
+        {
+          "_id": "1519",
+          "names": [
+            "Party Rock"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1166",
+          "names": [
+            "LMFAO"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7653",
+      "names": [
+        "I Am Not A Whore"
+      ],
+      "releases": [
+        {
+          "_id": "1519",
+          "names": [
+            "Party Rock"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1166",
+          "names": [
+            "LMFAO"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7654",
+      "names": [
+        "La La La"
+      ],
+      "releases": [
+        {
+          "_id": "1519",
+          "names": [
+            "Party Rock"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1166",
+          "names": [
+            "LMFAO"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7655",
+      "names": [
+        "Shots"
+      ],
+      "releases": [
+        {
+          "_id": "1519",
+          "names": [
+            "Party Rock"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1166",
+          "names": [
+            "LMFAO"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jon Brion",
       "targetId": "6653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7646"
+      ]
     },
     {
       "name": "Ken Jordan",
       "targetId": "7309",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7646"
+      ]
     },
     {
       "name": "Scott Kirkland",
       "targetId": "7310",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7646"
+      ]
     },
     {
       "name": "Redfoo",
       "targetId": "7314",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7646",
+        "7652",
+        "7653",
+        "7654",
+        "7655"
+      ]
     },
     {
       "name": "Lil Jon",
       "targetId": "7318",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7655"
+      ]
     }
   ]
 }

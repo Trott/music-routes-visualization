@@ -1,91 +1,391 @@
 {
   "source": "Pandit Dinesh",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "3245",
+      "names": [
+        "Dizrhythmia"
+      ],
+      "releases": [
+        {
+          "_id": "684",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "536",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3246",
+      "names": [
+        "Standing in the Rain"
+      ],
+      "releases": [
+        {
+          "_id": "684",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "536",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3247",
+      "names": [
+        "It Will Only End in Tears"
+      ],
+      "releases": [
+        {
+          "_id": "684",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "536",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3248",
+      "names": [
+        "Katy Goes to School"
+      ],
+      "releases": [
+        {
+          "_id": "684",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "536",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3249",
+      "names": [
+        "Walking on the Cracks"
+      ],
+      "releases": [
+        {
+          "_id": "684",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "536",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3250",
+      "names": [
+        "8000 Miles"
+      ],
+      "releases": [
+        {
+          "_id": "684",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "536",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3251",
+      "names": [
+        "What Katy Did Next"
+      ],
+      "releases": [
+        {
+          "_id": "684",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "536",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3252",
+      "names": [
+        "A Grown Man Immersed in Tin-Tin"
+      ],
+      "releases": [
+        {
+          "_id": "684",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "536",
+          "names": [
+            "Dizrhythmia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8466",
+      "names": [
+        "Star"
+      ],
+      "releases": [
+        {
+          "_id": "1636",
+          "names": [
+            "Vanishing Point"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1251",
+          "names": [
+            "Primal Scream"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8468",
+      "names": [
+        "Out Of The Void"
+      ],
+      "releases": [
+        {
+          "_id": "1636",
+          "names": [
+            "Vanishing Point"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1251",
+          "names": [
+            "Primal Scream"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Stewart",
       "targetId": "462",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3248"
+      ]
     },
     {
       "name": "Danny Thompson",
       "targetId": "903",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "3245",
+        "3246",
+        "3247",
+        "3248",
+        "3249",
+        "3250",
+        "3251",
+        "3252"
+      ]
     },
     {
       "name": "Wayne Jackson",
       "targetId": "1807",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8466"
+      ]
     },
     {
       "name": "Andrew Love",
       "targetId": "1808",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8466"
+      ]
     },
     {
       "name": "Brian \"BJ\" Cole",
       "targetId": "3188",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3248",
+        "3251"
+      ]
     },
     {
       "name": "Jakko Jakszyk",
       "targetId": "3535",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "3245",
+        "3246",
+        "3247",
+        "3248",
+        "3249",
+        "3250",
+        "3251",
+        "3252"
+      ]
     },
     {
       "name": "Gavin Harrison",
       "targetId": "3536",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "3245",
+        "3246",
+        "3247",
+        "3248",
+        "3249",
+        "3250",
+        "3251",
+        "3252"
+      ]
     },
     {
       "name": "Peter Blegvad",
       "targetId": "3537",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3252"
+      ]
     },
     {
       "name": "Bobby Harrison",
       "targetId": "3538",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3251"
+      ]
     },
     {
       "name": "Andrew Innes",
       "targetId": "7956",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8466",
+        "8468"
+      ]
     },
     {
       "name": "Bobby Gillespie",
       "targetId": "7957",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8466",
+        "8468"
+      ]
     },
     {
       "name": "Gary \"Mani\" Mounfield",
       "targetId": "7958",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8468"
+      ]
     },
     {
       "name": "Martin Duffy",
       "targetId": "7959",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8466",
+        "8468"
+      ]
     },
     {
       "name": "Paul Mulreany",
       "targetId": "7960",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8466",
+        "8468"
+      ]
     },
     {
       "name": "Robert Young",
       "targetId": "7961",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8466",
+        "8468"
+      ]
     },
     {
       "name": "Marco Nelson",
       "targetId": "7962",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8466"
+      ]
     },
     {
       "name": "Augustus Pablo",
       "targetId": "7966",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8466"
+      ]
     }
   ]
 }

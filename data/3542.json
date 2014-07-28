@@ -1,31 +1,122 @@
 {
   "source": "Mikael Åkerfeldt",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3253",
+      "names": [
+        "Deadwing"
+      ],
+      "releases": [
+        {
+          "_id": "685",
+          "names": [
+            "Deadwing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "537",
+          "names": [
+            "Porcupine Tree"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3255",
+      "names": [
+        "Lazarus"
+      ],
+      "releases": [
+        {
+          "_id": "685",
+          "names": [
+            "Deadwing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "537",
+          "names": [
+            "Porcupine Tree"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3257",
+      "names": [
+        "Arriving Somewhere But Not Here"
+      ],
+      "releases": [
+        {
+          "_id": "685",
+          "names": [
+            "Deadwing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "537",
+          "names": [
+            "Porcupine Tree"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3253"
+      ]
     },
     {
       "name": "Gavin Harrison",
       "targetId": "3536",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3253",
+        "3255",
+        "3257"
+      ]
     },
     {
       "name": "Richard Barbieri",
       "targetId": "3539",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3253",
+        "3255",
+        "3257"
+      ]
     },
     {
       "name": "Colin Edwin",
       "targetId": "3540",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3253",
+        "3255",
+        "3257"
+      ]
     },
     {
       "name": "Steven Wilson",
       "targetId": "3541",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3253",
+        "3255",
+        "3257"
+      ]
     }
   ]
 }

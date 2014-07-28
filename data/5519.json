@@ -1,11 +1,38 @@
 {
   "source": "Eubie Blake",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5436",
+      "names": [
+        "School Of Ragtime"
+      ],
+      "releases": [
+        {
+          "_id": "1076",
+          "names": [
+            "Scott Joplin: The Complete Works For Plano"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "850",
+          "names": [
+            "Dick Hyman"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dick Hyman",
       "targetId": "5520",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5436"
+      ]
     }
   ]
 }

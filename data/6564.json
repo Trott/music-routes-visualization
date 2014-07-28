@@ -1,31 +1,92 @@
 {
   "source": "Johnny Rzeznik",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6700",
+      "names": [
+        "All I Want Is You"
+      ],
+      "releases": [
+        {
+          "_id": "1341",
+          "names": [
+            "Les Paul And Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1038",
+          "names": [
+            "Les Paul"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12483",
+      "names": [
+        "For Your Love"
+      ],
+      "releases": [
+        {
+          "_id": "2241",
+          "names": [
+            "Birdland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1631",
+          "names": [
+            "The Yardbirds"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Martin Ditcham",
       "targetId": "906",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12483"
+      ]
     },
     {
       "name": "Les Paul",
       "targetId": "6561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6700"
+      ]
     },
     {
       "name": "Chris Dreja",
       "targetId": "10276",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12483"
+      ]
     },
     {
       "name": "Jim McCarty",
       "targetId": "10277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12483"
+      ]
     },
     {
       "name": "John Idan",
       "targetId": "10280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12483"
+      ]
     }
   ]
 }

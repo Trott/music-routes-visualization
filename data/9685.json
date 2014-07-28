@@ -1,26 +1,62 @@
 {
   "source": "John Scott",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11038",
+      "names": [
+        "You've Got To Hide Your Love Away"
+      ],
+      "releases": [
+        {
+          "_id": "2101",
+          "names": [
+            "Help!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11038"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11038"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11038"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11038"
+      ]
     }
   ]
 }

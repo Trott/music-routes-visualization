@@ -1,51 +1,126 @@
 {
   "source": "Mike Scott",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9168",
+      "names": [
+        "Church Not Made With Hands"
+      ],
+      "releases": [
+        {
+          "_id": "1761",
+          "names": [
+            "A Pagan Place"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1359",
+          "names": [
+            "The Waterboys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9169",
+      "names": [
+        "All The Things She Gave Me"
+      ],
+      "releases": [
+        {
+          "_id": "1761",
+          "names": [
+            "A Pagan Place"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1359",
+          "names": [
+            "The Waterboys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "TV Smith",
       "targetId": "5262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9169"
+      ]
     },
     {
       "name": "Karl Wallinger",
       "targetId": "7000",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9169"
+      ]
     },
     {
       "name": "Anthony Thistlethwaite",
       "targetId": "8505",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9168",
+        "9169"
+      ]
     },
     {
       "name": "Kevin Wilkinson",
       "targetId": "8506",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9168",
+        "9169"
+      ]
     },
     {
       "name": "Roddy Lorimer",
       "targetId": "8507",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9168"
+      ]
     },
     {
       "name": "Barbara Snow",
       "targetId": "8509",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9169"
+      ]
     },
     {
       "name": "Ingrid Schroeder",
       "targetId": "8510",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9169"
+      ]
     },
     {
       "name": "Nick Linden",
       "targetId": "8511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9169"
+      ]
     },
     {
       "name": "Tim Blanthorn",
       "targetId": "8512",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9169"
+      ]
     }
   ]
 }

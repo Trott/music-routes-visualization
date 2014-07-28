@@ -1,166 +1,425 @@
 {
   "source": "Robert Quine",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "2255",
+      "names": [
+        "Girlfriend"
+      ],
+      "releases": [
+        {
+          "_id": "561",
+          "names": [
+            "Girlfriend"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "428",
+          "names": [
+            "Matthew Sweet"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2577",
+      "names": [
+        "Sleeping In The Flowers"
+      ],
+      "releases": [
+        {
+          "_id": "616",
+          "names": [
+            "John Henry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2584",
+      "names": [
+        "No One Knows My Plan"
+      ],
+      "releases": [
+        {
+          "_id": "616",
+          "names": [
+            "John Henry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6156",
+      "names": [
+        "Monkey"
+      ],
+      "releases": [
+        {
+          "_id": "1232",
+          "names": [
+            "Spurts: The Richard Hell Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "955",
+          "names": [
+            "Dim Stars"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8865",
+      "names": [
+        "Blind Love"
+      ],
+      "releases": [
+        {
+          "_id": "1698",
+          "names": [
+            "Rain Dogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8867",
+      "names": [
+        "Downtown Train"
+      ],
+      "releases": [
+        {
+          "_id": "1698",
+          "names": [
+            "Rain Dogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9144",
+      "names": [
+        "Pithecanthropus Erectus"
+      ],
+      "releases": [
+        {
+          "_id": "1750",
+          "names": [
+            "Weird Nightmare: Meditations On Mingus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1348",
+          "names": [
+            "Hal Willner"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tony Levin",
       "targetId": "269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8867"
+      ]
     },
     {
       "name": "Gregory Cohen",
       "targetId": "428",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9144"
+      ]
     },
     {
       "name": "Michael Blair",
       "targetId": "662",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8867",
+        "9144"
+      ]
     },
     {
       "name": "Steve Shelley",
       "targetId": "770",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6156"
+      ]
     },
     {
       "name": "Thurston Moore",
       "targetId": "772",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6156"
+      ]
     },
     {
       "name": "Greg Leisz",
       "targetId": "1061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2255"
+      ]
     },
     {
       "name": "Don Alias",
       "targetId": "1261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9144"
+      ]
     },
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8867"
+      ]
     },
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8865",
+        "8867"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8865"
+      ]
     },
     {
       "name": "Larry Taylor",
       "targetId": "2567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8865"
+      ]
     },
     {
       "name": "Matthew Sweet",
       "targetId": "2765",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2255"
+      ]
     },
     {
       "name": "Fred Maher",
       "targetId": "2769",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2255"
+      ]
     },
     {
       "name": "Tony Maimone",
       "targetId": "2921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2577"
+      ]
     },
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2577",
+        "2584"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2577",
+        "2584"
+      ]
     },
     {
       "name": "Graham Maby",
       "targetId": "3069",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2584"
+      ]
     },
     {
       "name": "Brian Doherty",
       "targetId": "3070",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2577",
+        "2584"
+      ]
     },
     {
       "name": "Kurt Hoffman",
       "targetId": "3072",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2577",
+        "2584"
+      ]
     },
     {
       "name": "Kevin Osborne",
       "targetId": "3073",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2577",
+        "2584"
+      ]
     },
     {
       "name": "Frank London",
       "targetId": "3074",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2577"
+      ]
     },
     {
       "name": "Steven Bernstein",
       "targetId": "3075",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2584"
+      ]
     },
     {
       "name": "Don Fleming",
       "targetId": "3634",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6156"
+      ]
     },
     {
       "name": "Bill Frisell",
       "targetId": "4402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9144"
+      ]
     },
     {
       "name": "Richard Hell",
       "targetId": "6080",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6156"
+      ]
     },
     {
       "name": "G.E. Smith",
       "targetId": "8167",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8867"
+      ]
     },
     {
       "name": "Stephen Taylor Arvizu Hodges",
       "targetId": "8222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8865"
+      ]
     },
     {
       "name": "Ross Levinson",
       "targetId": "8226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8865"
+      ]
     },
     {
       "name": "Robert Kilgore",
       "targetId": "8228",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8867"
+      ]
     },
     {
       "name": "Art Baron",
       "targetId": "8429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9144"
+      ]
     },
     {
       "name": "Francis Thumm",
       "targetId": "8430",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9144"
+      ]
     },
     {
       "name": "Hal Willner",
       "targetId": "8435",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9144"
+      ]
     }
   ]
 }

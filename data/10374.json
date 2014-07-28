@@ -1,46 +1,119 @@
 {
   "source": "Graeme Coleman",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12740",
+      "names": [
+        "It's Over"
+      ],
+      "releases": [
+        {
+          "_id": "2287",
+          "names": [
+            "Prism"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1647",
+          "names": [
+            "Prism"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12742",
+      "names": [
+        "Spaceship Superstar"
+      ],
+      "releases": [
+        {
+          "_id": "2287",
+          "names": [
+            "Prism"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1647",
+          "names": [
+            "Prism"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12740",
+        "12742"
+      ]
     },
     {
       "name": "David Sinclair",
       "targetId": "2453",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12742"
+      ]
     },
     {
       "name": "Bruce Fairbairn",
       "targetId": "10338",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12742"
+      ]
     },
     {
       "name": "Peter Bjerring",
       "targetId": "10354",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12742"
+      ]
     },
     {
       "name": "Ron Tabak",
       "targetId": "10367",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12740",
+        "12742"
+      ]
     },
     {
       "name": "Lindsay Mitchell",
       "targetId": "10368",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12740",
+        "12742"
+      ]
     },
     {
       "name": "Steve Pugsley",
       "targetId": "10373",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12740"
+      ]
     },
     {
       "name": "Jack Lavin",
       "targetId": "10375",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12742"
+      ]
     }
   ]
 }

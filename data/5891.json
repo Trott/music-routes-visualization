@@ -1,26 +1,62 @@
 {
   "source": "Ben Wolfe",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5951",
+      "names": [
+        "Our Love Is Here To Stay"
+      ],
+      "releases": [
+        {
+          "_id": "1188",
+          "names": [
+            "When Harry Met Sally"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "924",
+          "names": [
+            "Harry Connick, Jr."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Wess",
       "targetId": "2758",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5951"
+      ]
     },
     {
       "name": "Jeff \"Tain\" Watts",
       "targetId": "4085",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5951"
+      ]
     },
     {
       "name": "Harry Connick, Jr.",
       "targetId": "5892",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5951"
+      ]
     },
     {
       "name": "Jay Berliner",
       "targetId": "5893",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5951"
+      ]
     }
   ]
 }

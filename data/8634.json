@@ -1,21 +1,54 @@
 {
   "source": "Robert Gutierrez",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9220",
+      "names": [
+        "Linda Paloma"
+      ],
+      "releases": [
+        {
+          "_id": "1780",
+          "names": [
+            "The Pretender"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1376",
+          "names": [
+            "Jackson Browne"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jackson Browne",
       "targetId": "669",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9220"
+      ]
     },
     {
       "name": "Arthur Gerst",
       "targetId": "1008",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9220"
+      ]
     },
     {
       "name": "Luis Damian",
       "targetId": "1009",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9220"
+      ]
     }
   ]
 }

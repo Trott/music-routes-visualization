@@ -1,11 +1,38 @@
 {
   "source": "Chamillionaire",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6194",
+      "names": [
+        "Hip Hop Police"
+      ],
+      "releases": [
+        {
+          "_id": "1250",
+          "names": [
+            "Ultimate Victory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "966",
+          "names": [
+            "Chamillionaire"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Slick Rick",
       "targetId": "6131",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6194"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Marco Villalobos",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6802",
+      "names": [
+        "Where Were You Yesterday? (Chris Mix)"
+      ],
+      "releases": [
+        {
+          "_id": "1357",
+          "names": [
+            "New Orleans Benefit CD"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "932",
+          "names": [
+            "Continuous Peasant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Stroffolino",
       "targetId": "5936",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6802"
+      ]
     },
     {
       "name": "William \"Willy The Mailman\" Seekamp",
       "targetId": "6670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6802"
+      ]
     },
     {
       "name": "Miriam Jacobson",
       "targetId": "6671",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6802"
+      ]
     }
   ]
 }

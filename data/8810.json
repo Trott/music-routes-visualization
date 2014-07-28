@@ -1,21 +1,54 @@
 {
   "source": "Nitin Sawhney",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9467",
+      "names": [
+        "Canvas"
+      ],
+      "releases": [
+        {
+          "_id": "1826",
+          "names": [
+            "Ellipse"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1416",
+          "names": [
+            "Imogen Heap"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ian Burdge",
       "targetId": "6576",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9467"
+      ]
     },
     {
       "name": "Olli Langford",
       "targetId": "6577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9467"
+      ]
     },
     {
       "name": "Imogen Heap",
       "targetId": "8806",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9467"
+      ]
     }
   ]
 }

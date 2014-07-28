@@ -1,86 +1,362 @@
 {
   "source": "Andreas Vollenweider",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "7504",
+      "names": [
+        "Li'l Limba"
+      ],
+      "releases": [
+        {
+          "_id": "1479",
+          "names": [
+            "The Storyteller"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7505",
+      "names": [
+        "Whitespread Wings"
+      ],
+      "releases": [
+        {
+          "_id": "1479",
+          "names": [
+            "The Storyteller"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7506",
+      "names": [
+        "Jugglers In Obsidian"
+      ],
+      "releases": [
+        {
+          "_id": "1479",
+          "names": [
+            "The Storyteller"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7507",
+      "names": [
+        "Cor Do Amor"
+      ],
+      "releases": [
+        {
+          "_id": "1479",
+          "names": [
+            "The Storyteller"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7508",
+      "names": [
+        "Jacob's Dream"
+      ],
+      "releases": [
+        {
+          "_id": "1479",
+          "names": [
+            "The Storyteller"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7509",
+      "names": [
+        "Your Silver Key"
+      ],
+      "releases": [
+        {
+          "_id": "1480",
+          "names": [
+            "Cosmopoly"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7510",
+      "names": [
+        "Ave Maria"
+      ],
+      "releases": [
+        {
+          "_id": "1481",
+          "names": [
+            "Pavarotti & Friends 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "148",
+          "names": [
+            "Luciano Pavarotti"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7511",
+      "names": [
+        "All For Love"
+      ],
+      "releases": [
+        {
+          "_id": "1481",
+          "names": [
+            "Pavarotti & Friends 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "148",
+          "names": [
+            "Luciano Pavarotti"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7512",
+      "names": [
+        "Brindisi"
+      ],
+      "releases": [
+        {
+          "_id": "1481",
+          "names": [
+            "Pavarotti & Friends 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "148",
+          "names": [
+            "Luciano Pavarotti"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7513",
+      "names": [
+        "Bhambororo!"
+      ],
+      "releases": [
+        {
+          "_id": "1482",
+          "names": [
+            "Kryptos"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1140",
+          "names": [
+            "Andreas Vollenweider"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Luciano Pavarotti",
       "targetId": "823",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7510",
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Carly Simon",
       "targetId": "979",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7509"
+      ]
     },
     {
       "name": "Bobby McFerrin",
       "targetId": "1125",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7504"
+      ]
     },
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7511"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Andrea Bocelli",
       "targetId": "6310",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Carlos Nuñez",
       "targetId": "7176",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7505"
+      ]
     },
     {
       "name": "Gerardo Nuñez",
       "targetId": "7177",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7506"
+      ]
     },
     {
       "name": "Milton Nascimento",
       "targetId": "7178",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7507"
+      ]
     },
     {
       "name": "Hans Vollenweider",
       "targetId": "7179",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7508"
+      ]
     },
     {
       "name": "Giorgia",
       "targetId": "7180",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Nancy Gustafson",
       "targetId": "7181",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Tommy Mandel",
       "targetId": "7182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7511"
+      ]
     },
     {
       "name": "Dave Taylor",
       "targetId": "7183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7511"
+      ]
     },
     {
       "name": "Keith Scott",
       "targetId": "7184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7511"
+      ]
     },
     {
       "name": "Joseph Shabalala",
       "targetId": "7185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7513"
+      ]
     }
   ]
 }

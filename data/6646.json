@@ -1,11 +1,38 @@
 {
   "source": "Dar Williams",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6757",
+      "names": [
+        "You're Aging Well"
+      ],
+      "releases": [
+        {
+          "_id": "1351",
+          "names": [
+            "Ring Them Bells"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "938",
+          "names": [
+            "Joan Baez"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joan Baez",
       "targetId": "5959",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6757"
+      ]
     }
   ]
 }

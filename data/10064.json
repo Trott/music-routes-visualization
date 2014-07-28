@@ -1,31 +1,70 @@
 {
   "source": "Mickey Jones",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11874",
+      "names": [
+        "I Don't Believe You (She Acts Like We Never Have Met)"
+      ],
+      "releases": [
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rick Danko",
       "targetId": "29",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11874"
+      ]
     },
     {
       "name": "Richard Manuel",
       "targetId": "30",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11874"
+      ]
     },
     {
       "name": "Robbie Robertson",
       "targetId": "31",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11874"
+      ]
     },
     {
       "name": "Garth Hudson",
       "targetId": "33",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11874"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11874"
+      ]
     }
   ]
 }

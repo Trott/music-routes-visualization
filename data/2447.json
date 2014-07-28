@@ -1,56 +1,234 @@
 {
   "source": "Steve Smith",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "2085",
+      "names": [
+        "Don't Stop Believin'"
+      ],
+      "releases": [
+        {
+          "_id": "476",
+          "names": [
+            "Escape"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4451",
+      "names": [
+        "Self Defense"
+      ],
+      "releases": [
+        {
+          "_id": "891",
+          "names": [
+            "Here To Stay"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "703",
+          "names": [
+            "Schon & Hammer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7187",
+      "names": [
+        "Positive Touch"
+      ],
+      "releases": [
+        {
+          "_id": "1420",
+          "names": [
+            "Raised On Radio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7188",
+      "names": [
+        "The Eyes Of A Woman"
+      ],
+      "releases": [
+        {
+          "_id": "1420",
+          "names": [
+            "Raised On Radio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7189",
+      "names": [
+        "Why Can't This Night Go On Forever"
+      ],
+      "releases": [
+        {
+          "_id": "1420",
+          "names": [
+            "Raised On Radio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12696",
+      "names": [
+        "Heaven"
+      ],
+      "releases": [
+        {
+          "_id": "2273",
+          "names": [
+            "Reckless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Perry",
       "targetId": "71",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "2085",
+        "4451",
+        "7187",
+        "7188",
+        "7189"
+      ]
     },
     {
       "name": "Neal Schon",
       "targetId": "174",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "2085",
+        "4451",
+        "7187",
+        "7188",
+        "7189"
+      ]
     },
     {
       "name": "Ross Valory",
       "targetId": "262",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2085",
+        "4451"
+      ]
     },
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7187",
+        "7188",
+        "7189"
+      ]
     },
     {
       "name": "Jonathan Cain",
       "targetId": "1745",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2085",
+        "7187",
+        "7188",
+        "7189"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12696"
+      ]
     },
     {
       "name": "Rob Sabino",
       "targetId": "4015",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12696"
+      ]
     },
     {
       "name": "Jan Hammer",
       "targetId": "4559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4451"
+      ]
     },
     {
       "name": "Dave Taylor",
       "targetId": "7183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12696"
+      ]
     },
     {
       "name": "Keith Scott",
       "targetId": "7184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12696"
+      ]
     }
   ]
 }

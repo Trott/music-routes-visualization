@@ -1,21 +1,54 @@
 {
   "source": "Thom Schuyler",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9529",
+      "names": [
+        "She's Falling Apart"
+      ],
+      "releases": [
+        {
+          "_id": "1832",
+          "names": [
+            "Cake And Pie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dweezil Zappa",
       "targetId": "7214",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9529"
+      ]
     },
     {
       "name": "Lisa Loeb",
       "targetId": "8844",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9529"
+      ]
     },
     {
       "name": "Derek Holt",
       "targetId": "8876",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9529"
+      ]
     }
   ]
 }

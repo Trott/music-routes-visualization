@@ -1,51 +1,147 @@
 {
   "source": "Tris Imboden",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2100",
+      "names": [
+        "Never Surrender"
+      ],
+      "releases": [
+        {
+          "_id": "480",
+          "names": [
+            "Fast Times At Ridgemont High: Music From The Motion Picture"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "360",
+          "names": [
+            "Don Felder"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12308",
+      "names": [
+        "For The Love Of God"
+      ],
+      "releases": [
+        {
+          "_id": "2215",
+          "names": [
+            "Passion & Warfare"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1622",
+          "names": [
+            "Steve Vai"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12310",
+      "names": [
+        "I Would Love To"
+      ],
+      "releases": [
+        {
+          "_id": "2215",
+          "names": [
+            "Passion & Warfare"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1622",
+          "names": [
+            "Steve Vai"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Mason",
       "targetId": "635",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "Don Felder",
       "targetId": "668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "Steve Vai",
       "targetId": "1293",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12308",
+        "12310"
+      ]
     },
     {
       "name": "Joe Lala",
       "targetId": "2385",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "George Hawkins",
       "targetId": "2511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "James Pankow",
       "targetId": "2513",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "Lee Loughnane",
       "targetId": "2514",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2100"
+      ]
     },
     {
       "name": "Stuart Hamm",
       "targetId": "8032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12308"
+      ]
     },
     {
       "name": "Dave Rosenthal",
       "targetId": "10227",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12310"
+      ]
     }
   ]
 }

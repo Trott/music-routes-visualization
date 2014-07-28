@@ -1,26 +1,62 @@
 {
   "source": "Kenny Bobien",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6366",
+      "names": [
+        "To Zion"
+      ],
+      "releases": [
+        {
+          "_id": "1271",
+          "names": [
+            "The Miseducation Of Lauryn Hill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "984",
+          "names": [
+            "Lauryn Hill"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carlos Santana",
       "targetId": "1081",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6366"
+      ]
     },
     {
       "name": "Lauryn Hill",
       "targetId": "6249",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6366"
+      ]
     },
     {
       "name": "James Poyser",
       "targetId": "6250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6366"
+      ]
     },
     {
       "name": "Sabrina Johnston",
       "targetId": "6251",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6366"
+      ]
     }
   ]
 }

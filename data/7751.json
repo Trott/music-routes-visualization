@@ -1,21 +1,54 @@
 {
   "source": "Vicki Peterson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8132",
+      "names": [
+        "Soon Be Home"
+      ],
+      "releases": [
+        {
+          "_id": "1592",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1217",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Susanna Hoffs",
       "targetId": "6616",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8132"
+      ]
     },
     {
       "name": "David Roback",
       "targetId": "7745",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8132"
+      ]
     },
     {
       "name": "Michael Quercio",
       "targetId": "7749",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8132"
+      ]
     }
   ]
 }

@@ -1,26 +1,88 @@
 {
   "source": "Mike Valerio",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "361",
+      "names": [
+        "Wonderwall"
+      ],
+      "releases": [
+        {
+          "_id": "198",
+          "names": [
+            "Rock Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "136",
+          "names": [
+            "Paul Anka"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "362",
+      "names": [
+        "Jump"
+      ],
+      "releases": [
+        {
+          "_id": "198",
+          "names": [
+            "Rock Swings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "136",
+          "names": [
+            "Paul Anka"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dean Parks",
       "targetId": "408",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "361",
+        "362"
+      ]
     },
     {
       "name": "Mike Lang",
       "targetId": "837",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "361",
+        "362"
+      ]
     },
     {
       "name": "Paul Anka",
       "targetId": "838",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "361",
+        "362"
+      ]
     },
     {
       "name": "Vinnie Colaiuta",
       "targetId": "839",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "361",
+        "362"
+      ]
     }
   ]
 }

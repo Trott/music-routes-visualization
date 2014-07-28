@@ -1,31 +1,97 @@
 {
   "source": "Jane Wiedlin",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2541",
+      "names": [
+        "Cool Places"
+      ],
+      "releases": [
+        {
+          "_id": "613",
+          "names": [
+            "In Outer Space"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "475",
+          "names": [
+            "Sparks"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2548",
+      "names": [
+        "Lucky Me, Lucky You"
+      ],
+      "releases": [
+        {
+          "_id": "613",
+          "names": [
+            "In Outer Space"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "475",
+          "names": [
+            "Sparks"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Russell Mael",
       "targetId": "3031",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2541",
+        "2548"
+      ]
     },
     {
       "name": "Ron Mael",
       "targetId": "3039",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2541",
+        "2548"
+      ]
     },
     {
       "name": "David Kendrick",
       "targetId": "3040",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2541",
+        "2548"
+      ]
     },
     {
       "name": "Bob Haag",
       "targetId": "3041",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2541",
+        "2548"
+      ]
     },
     {
       "name": "Leslie Bohem",
       "targetId": "3042",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2541",
+        "2548"
+      ]
     }
   ]
 }

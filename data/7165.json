@@ -1,36 +1,78 @@
 {
   "source": "Steve Young",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7498",
+      "names": [
+        "Plane Crash"
+      ],
+      "releases": [
+        {
+          "_id": "1476",
+          "names": [
+            "Tin Cans And Car Tires"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1086",
+          "names": [
+            "moe."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rob Derhak",
       "targetId": "6889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7498"
+      ]
     },
     {
       "name": "Chuck Garvey",
       "targetId": "6890",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7498"
+      ]
     },
     {
       "name": "Al Schnier",
       "targetId": "6891",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7498"
+      ]
     },
     {
       "name": "Jane Scarpantoni",
       "targetId": "6980",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7498"
+      ]
     },
     {
       "name": "Lorenza Ponce",
       "targetId": "7164",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7498"
+      ]
     },
     {
       "name": "Vinnie Amico",
       "targetId": "7166",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7498"
+      ]
     }
   ]
 }

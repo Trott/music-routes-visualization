@@ -1,186 +1,514 @@
 {
   "source": "Alanis Morissette",
   "trackCount": 9,
+  "tracks": [
+    {
+      "_id": "1273",
+      "names": [
+        "Excess"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4179",
+      "names": [
+        "Don't Drink The Water"
+      ],
+      "releases": [
+        {
+          "_id": "842",
+          "names": [
+            "Before These Crowded Streets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "664",
+          "names": [
+            "Dave Matthews Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4186",
+      "names": [
+        "Spoon"
+      ],
+      "releases": [
+        {
+          "_id": "842",
+          "names": [
+            "Before These Crowded Streets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "664",
+          "names": [
+            "Dave Matthews Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4187",
+      "names": [
+        "You Oughta Know"
+      ],
+      "releases": [
+        {
+          "_id": "843",
+          "names": [
+            "Jagged Little Pill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "665",
+          "names": [
+            "Alanis Morissette"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6893",
+      "names": [
+        "So Unsexy"
+      ],
+      "releases": [
+        {
+          "_id": "1377",
+          "names": [
+            "Under Rug Swept"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "665",
+          "names": [
+            "Alanis Morissette"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6894",
+      "names": [
+        "You Owe Me Nothing"
+      ],
+      "releases": [
+        {
+          "_id": "1377",
+          "names": [
+            "Under Rug Swept"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "665",
+          "names": [
+            "Alanis Morissette"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7851",
+      "names": [
+        "Mindfield"
+      ],
+      "releases": [
+        {
+          "_id": "1547",
+          "names": [
+            "Vertical Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7855",
+      "names": [
+        "Drift Away"
+      ],
+      "releases": [
+        {
+          "_id": "1547",
+          "names": [
+            "Vertical Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7856",
+      "names": [
+        "I Was Walkin'"
+      ],
+      "releases": [
+        {
+          "_id": "1547",
+          "names": [
+            "Vertical Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7856"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7851",
+        "7855",
+        "7856"
+      ]
     },
     {
       "name": "Dave Matthews",
       "targetId": "186",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4179",
+        "4186"
+      ]
     },
     {
       "name": "Tom Petty",
       "targetId": "223",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7855"
+      ]
     },
     {
       "name": "Joe Walsh",
       "targetId": "392",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7851"
+      ]
     },
     {
       "name": "Flea",
       "targetId": "553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4187"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4187"
+      ]
     },
     {
       "name": "Jim Cox",
       "targetId": "804",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7851",
+        "7855",
+        "7856"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Mark Gemini Thwaite",
       "targetId": "1715",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Tim Pierce",
       "targetId": "1718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Rob Cavallo",
       "targetId": "1719",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Stephanie McKay",
       "targetId": "1721",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1273"
+      ]
     },
     {
       "name": "Steve Cropper",
       "targetId": "1804",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7855",
+        "7856"
+      ]
     },
     {
       "name": "Steven Tyler",
       "targetId": "1889",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7851",
+        "7855",
+        "7856"
+      ]
     },
     {
       "name": "Dave Navarro",
       "targetId": "2572",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4187"
+      ]
     },
     {
       "name": "Stefan Lessard",
       "targetId": "4369",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4179",
+        "4186"
+      ]
     },
     {
       "name": "Carter Beauford",
       "targetId": "4370",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4179",
+        "4186"
+      ]
     },
     {
       "name": "Tim Reynolds",
       "targetId": "4371",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4179",
+        "4186"
+      ]
     },
     {
       "name": "Leroi Moore",
       "targetId": "4372",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4179",
+        "4186"
+      ]
     },
     {
       "name": "Boyd Tinsley",
       "targetId": "4373",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4179",
+        "4186"
+      ]
     },
     {
       "name": "Béla Fleck",
       "targetId": "4375",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4179",
+        "4186"
+      ]
     },
     {
       "name": "Matt Laug",
       "targetId": "4381",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4187"
+      ]
     },
     {
       "name": "Scott Weiland",
       "targetId": "4382",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7851"
+      ]
     },
     {
       "name": "Meshell Ndegeocello",
       "targetId": "6729",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6893",
+        "6894"
+      ]
     },
     {
       "name": "Mark Hudson",
       "targetId": "7498",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7851",
+        "7855",
+        "7856"
+      ]
     },
     {
       "name": "Steve Dudas",
       "targetId": "7499",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7851",
+        "7855",
+        "7856"
+      ]
     },
     {
       "name": "Scott Gordon",
       "targetId": "7509",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7855",
+        "7856"
+      ]
     },
     {
       "name": "Eric Stitt Greedy",
       "targetId": "7514",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7855"
+      ]
     },
     {
       "name": "Christina Rasch",
       "targetId": "7525",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7855"
+      ]
     },
     {
       "name": "John Bergamo",
       "targetId": "7534",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7851"
+      ]
     },
     {
       "name": "Howard McCrary",
       "targetId": "7536",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7855"
+      ]
     },
     {
       "name": "Ollie Woodson",
       "targetId": "7537",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7855"
+      ]
     },
     {
       "name": "Lisa Banks",
       "targetId": "7538",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7855"
+      ]
     },
     {
       "name": "Rose Stone",
       "targetId": "7539",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7855"
+      ]
     }
   ]
 }

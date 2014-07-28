@@ -1,26 +1,62 @@
 {
   "source": "Ahmet Zappa",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10115",
+      "names": [
+        "Lookin' Back On..."
+      ],
+      "releases": [
+        {
+          "_id": "1943",
+          "names": [
+            "Crazy Enough To Sing To You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1504",
+          "names": [
+            "Warren DeMartini"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Daisley",
       "targetId": "315",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10115"
+      ]
     },
     {
       "name": "Dweezil Zappa",
       "targetId": "7214",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10115"
+      ]
     },
     {
       "name": "Warren DeMartini",
       "targetId": "7215",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10115"
+      ]
     },
     {
       "name": "Eric Singer",
       "targetId": "9251",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10115"
+      ]
     }
   ]
 }

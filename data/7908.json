@@ -1,66 +1,202 @@
 {
   "source": "Daniel Murphy",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "8402",
+      "names": [
+        "To Call My Own"
+      ],
+      "releases": [
+        {
+          "_id": "1625",
+          "names": [
+            "Weird Tales"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1243",
+          "names": [
+            "Golden Smog"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8403",
+      "names": [
+        "Looking Forward To Seeing You"
+      ],
+      "releases": [
+        {
+          "_id": "1625",
+          "names": [
+            "Weird Tales"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1243",
+          "names": [
+            "Golden Smog"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8405",
+      "names": [
+        "Reflections On Me"
+      ],
+      "releases": [
+        {
+          "_id": "1625",
+          "names": [
+            "Weird Tales"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1243",
+          "names": [
+            "Golden Smog"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12229",
+      "names": [
+        "Blood Is Thicker Than Water"
+      ],
+      "releases": [
+        {
+          "_id": "2201",
+          "names": [
+            "Beautiful Mess"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1619",
+          "names": [
+            "Thelonious Monster"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Pirner",
       "targetId": "786",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8405",
+        "12229"
+      ]
     },
     {
       "name": "Jeff Tweedy",
       "targetId": "1704",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8402",
+        "8403"
+      ]
     },
     {
       "name": "Jessy Greene",
       "targetId": "1709",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8403",
+        "8405"
+      ]
     },
     {
       "name": "Jim Boquist",
       "targetId": "7904",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8402",
+        "8405"
+      ]
     },
     {
       "name": "Marc Perlman",
       "targetId": "7905",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8402",
+        "8403"
+      ]
     },
     {
       "name": "Jody Stephens",
       "targetId": "7906",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8402",
+        "8403",
+        "8405"
+      ]
     },
     {
       "name": "Gary Louris",
       "targetId": "7907",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8402",
+        "8403",
+        "8405"
+      ]
     },
     {
       "name": "Kraig Jarret Johnson",
       "targetId": "7909",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8403",
+        "8405"
+      ]
     },
     {
       "name": "Tom Merkl",
       "targetId": "7910",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8403"
+      ]
     },
     {
       "name": "Bob Forrest",
       "targetId": "10160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12229"
+      ]
     },
     {
       "name": "Martyn Lenoble",
       "targetId": "10161",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12229"
+      ]
     },
     {
       "name": "Pete Weiss",
       "targetId": "10162",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12229"
+      ]
     }
   ]
 }

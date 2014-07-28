@@ -1,21 +1,78 @@
 {
   "source": "Patrick Woodcock",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10249",
+      "names": [
+        "All I Need"
+      ],
+      "releases": [
+        {
+          "_id": "1964",
+          "names": [
+            "Moon Safari"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1517",
+          "names": [
+            "Air"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10253",
+      "names": [
+        "Ce Matin Là"
+      ],
+      "releases": [
+        {
+          "_id": "1964",
+          "names": [
+            "Moon Safari"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1517",
+          "names": [
+            "Air"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Nicolas Godin",
       "targetId": "9344",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10249",
+        "10253"
+      ]
     },
     {
       "name": "Jean-Benoît Dunckel",
       "targetId": "9345",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10249",
+        "10253"
+      ]
     },
     {
       "name": "Beth Hirsch",
       "targetId": "9351",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10249"
+      ]
     }
   ]
 }

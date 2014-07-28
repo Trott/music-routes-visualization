@@ -1,31 +1,92 @@
 {
   "source": "Al Green",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4503",
+      "names": [
+        "Put A Little Love In Your Heart"
+      ],
+      "releases": [
+        {
+          "_id": "906",
+          "names": [
+            "The Best Of Al Green"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "714",
+          "names": [
+            "Al Green"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7619",
+      "names": [
+        "Take Your Time"
+      ],
+      "releases": [
+        {
+          "_id": "1510",
+          "names": [
+            "Lay It Down"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "714",
+          "names": [
+            "Al Green"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Annie Lennox",
       "targetId": "686",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4503"
+      ]
     },
     {
       "name": "Questlove",
       "targetId": "6834",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7619"
+      ]
     },
     {
       "name": "Corinne Bailey Rae",
       "targetId": "7281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7619"
+      ]
     },
     {
       "name": "Owen Biddle",
       "targetId": "7282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7619"
+      ]
     },
     {
       "name": "Eddie \"Spanky\" Alford",
       "targetId": "7283",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7619"
+      ]
     }
   ]
 }

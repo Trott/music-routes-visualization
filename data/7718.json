@@ -1,36 +1,194 @@
 {
   "source": "Bow Wow",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "8111",
+      "names": [
+        "Bow Wow (That's My Name)"
+      ],
+      "releases": [
+        {
+          "_id": "1586",
+          "names": [
+            "Beware Of Dog"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1215",
+          "names": [
+            "Bow Wow",
+            "Lil' Bow Wow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8112",
+      "names": [
+        "Let's Get Down"
+      ],
+      "releases": [
+        {
+          "_id": "1587",
+          "names": [
+            "Unleashed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1215",
+          "names": [
+            "Bow Wow",
+            "Lil' Bow Wow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8113",
+      "names": [
+        "Let Me Hold You"
+      ],
+      "releases": [
+        {
+          "_id": "1588",
+          "names": [
+            "Wanted"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1215",
+          "names": [
+            "Bow Wow",
+            "Lil' Bow Wow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8114",
+      "names": [
+        "Shortie Like Mine"
+      ],
+      "releases": [
+        {
+          "_id": "1589",
+          "names": [
+            "The Price of Fame"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1215",
+          "names": [
+            "Bow Wow",
+            "Lil' Bow Wow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8115",
+      "names": [
+        "Outta My System"
+      ],
+      "releases": [
+        {
+          "_id": "1589",
+          "names": [
+            "The Price of Fame"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1215",
+          "names": [
+            "Bow Wow",
+            "Lil' Bow Wow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8116",
+      "names": [
+        "I'm A Flirt"
+      ],
+      "releases": [
+        {
+          "_id": "1589",
+          "names": [
+            "The Price of Fame"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1215",
+          "names": [
+            "Bow Wow",
+            "Lil' Bow Wow"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8111"
+      ]
     },
     {
       "name": "Omarion",
       "targetId": "2673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8113"
+      ]
     },
     {
       "name": "R. Kelly",
       "targetId": "4282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8116"
+      ]
     },
     {
       "name": "Chris Brown",
       "targetId": "5826",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8114"
+      ]
     },
     {
       "name": "T-Pain",
       "targetId": "6004",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8115"
+      ]
     },
     {
       "name": "Birdman",
       "targetId": "6005",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8112"
+      ]
     }
   ]
 }

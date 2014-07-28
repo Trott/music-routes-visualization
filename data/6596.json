@@ -1,26 +1,62 @@
 {
   "source": "Tom Bailey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6722",
+      "names": [
+        "Watching"
+      ],
+      "releases": [
+        {
+          "_id": "1346",
+          "names": [
+            "Quick Step and Side Kick"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1041",
+          "names": [
+            "Thompson Twins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Grace Jones",
       "targetId": "6593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6722"
+      ]
     },
     {
       "name": "Monte Brown",
       "targetId": "6594",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6722"
+      ]
     },
     {
       "name": "Joe Leeway",
       "targetId": "6595",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6722"
+      ]
     },
     {
       "name": "Alannah Currie",
       "targetId": "6597",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6722"
+      ]
     }
   ]
 }

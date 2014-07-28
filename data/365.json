@@ -1,36 +1,100 @@
 {
   "source": "Reeves Gabrels",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "109",
+      "names": [
+        "A Sign From God"
+      ],
+      "releases": [
+        {
+          "_id": "86",
+          "names": [
+            "Orgazmo (soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "69",
+          "names": [
+            "Cogasm"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "110",
+      "names": [
+        "Bus Stop"
+      ],
+      "releases": [
+        {
+          "_id": "87",
+          "names": [
+            "Tin Machine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "70",
+          "names": [
+            "Tin Machine"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "110"
+      ]
     },
     {
       "name": "Robert Smith",
       "targetId": "363",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "109"
+      ]
     },
     {
       "name": "Jason Cooper",
       "targetId": "366",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "109"
+      ]
     },
     {
       "name": "Hunt Sales",
       "targetId": "367",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "110"
+      ]
     },
     {
       "name": "Tony Sales",
       "targetId": "368",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "110"
+      ]
     },
     {
       "name": "Kevin Armstrong",
       "targetId": "369",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "110"
+      ]
     }
   ]
 }

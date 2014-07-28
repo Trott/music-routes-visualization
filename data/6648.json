@@ -1,11 +1,38 @@
 {
   "source": "Eric Broucek",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6761",
+      "names": [
+        "Daft Punk Is Playing At My House"
+      ],
+      "releases": [
+        {
+          "_id": "1352",
+          "names": [
+            "LCD Soundsystem"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "387",
+          "names": [
+            "LCD Soundsystem"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "James Murphy",
       "targetId": "2608",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6761"
+      ]
     }
   ]
 }

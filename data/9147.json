@@ -1,11 +1,38 @@
 {
   "source": "Mel Tillis",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9954",
+      "names": [
+        "Mason Dixon Lines"
+      ],
+      "releases": [
+        {
+          "_id": "1914",
+          "names": [
+            "Waylon And Company"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1482",
+          "names": [
+            "Waylon Jennings"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Waylon Jennings",
       "targetId": "62",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9954"
+      ]
     }
   ]
 }

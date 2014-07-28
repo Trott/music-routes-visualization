@@ -1,36 +1,100 @@
 {
   "source": "Camp Lo",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8644",
+      "names": [
+        "Yes Yes Y'all"
+      ],
+      "releases": [
+        {
+          "_id": "1661",
+          "names": [
+            "Big Willie Style"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1269",
+          "names": [
+            "Will Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9945",
+      "names": [
+        "Limelighters"
+      ],
+      "releases": [
+        {
+          "_id": "1913",
+          "names": [
+            "Bazooka Tooth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1480",
+          "names": [
+            "Aesop Rock"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Will Smith",
       "targetId": "5877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8644"
+      ]
     },
     {
       "name": "Lanar \"Kern\" Brantley",
       "targetId": "8046",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8644"
+      ]
     },
     {
       "name": "David Foreman",
       "targetId": "8048",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8644"
+      ]
     },
     {
       "name": "Timothy \"Tyme\" Riley",
       "targetId": "8049",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8644"
+      ]
     },
     {
       "name": "DJ Jazzy Jeff",
       "targetId": "8051",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8644"
+      ]
     },
     {
       "name": "Aesop Rock",
       "targetId": "9136",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9945"
+      ]
     }
   ]
 }

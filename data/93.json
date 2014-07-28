@@ -1,16 +1,70 @@
 {
   "source": "Brad Neighbors",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "22",
+      "names": [
+        "Terrific Hair (Three Words (The Potato's Deliverance))"
+      ],
+      "releases": [
+        {
+          "_id": "19",
+          "names": [
+            "Original Cast Soundtrack Recording"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "17",
+          "names": [
+            "Palace Family Steak House"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "314",
+      "names": [
+        "Chocolate Fred"
+      ],
+      "releases": [
+        {
+          "_id": "19",
+          "names": [
+            "Original Cast Soundtrack Recording"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "17",
+          "names": [
+            "Palace Family Steak House"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rich Trott",
       "targetId": "12",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "22",
+        "314"
+      ]
     },
     {
       "name": "Anu Kirk",
       "targetId": "92",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "22",
+        "314"
+      ]
     }
   ]
 }

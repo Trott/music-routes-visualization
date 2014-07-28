@@ -1,41 +1,135 @@
 {
   "source": "David Wallumrød",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7150",
+      "names": [
+        "Just A Little Bit"
+      ],
+      "releases": [
+        {
+          "_id": "1414",
+          "names": [
+            "Mellow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1090",
+          "names": [
+            "Maria Mena"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7154",
+      "names": [
+        "Take You With me"
+      ],
+      "releases": [
+        {
+          "_id": "1414",
+          "names": [
+            "Mellow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1090",
+          "names": [
+            "Maria Mena"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7159",
+      "names": [
+        "Sorry"
+      ],
+      "releases": [
+        {
+          "_id": "1414",
+          "names": [
+            "Mellow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1090",
+          "names": [
+            "Maria Mena"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Maria Mena",
       "targetId": "6903",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7150",
+        "7154",
+        "7159"
+      ]
     },
     {
       "name": "Vemund Stavnes",
       "targetId": "6905",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7150",
+        "7154"
+      ]
     },
     {
       "name": "Fredrik Wallumrød",
       "targetId": "6906",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7150",
+        "7154"
+      ]
     },
     {
       "name": "Arvid Solvang",
       "targetId": "6907",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7150",
+        "7154"
+      ]
     },
     {
       "name": "Celsius",
       "targetId": "6910",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7150"
+      ]
     },
     {
       "name": "Elias Muri",
       "targetId": "6912",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7154"
+      ]
     },
     {
       "name": "Håvard Caspersen",
       "targetId": "6913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7159"
+      ]
     }
   ]
 }

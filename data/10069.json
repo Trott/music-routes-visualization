@@ -1,31 +1,150 @@
 {
   "source": "Sheena Seidenberg",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "11927",
+      "names": [
+        "Isis"
+      ],
+      "releases": [
+        {
+          "_id": "2177",
+          "names": [
+            "Desire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11931",
+      "names": [
+        "Black Diamond Bay"
+      ],
+      "releases": [
+        {
+          "_id": "2177",
+          "names": [
+            "Desire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11932",
+      "names": [
+        "Oh, Sister"
+      ],
+      "releases": [
+        {
+          "_id": "2177",
+          "names": [
+            "Desire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11933",
+      "names": [
+        "One More Cup Of Coffee"
+      ],
+      "releases": [
+        {
+          "_id": "2177",
+          "names": [
+            "Desire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "11927",
+        "11931",
+        "11932",
+        "11933"
+      ]
     },
     {
       "name": "Emmylou Harris",
       "targetId": "450",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11931",
+        "11932",
+        "11933"
+      ]
     },
     {
       "name": "Howard Wyeth",
       "targetId": "10056",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "11927",
+        "11931",
+        "11932",
+        "11933"
+      ]
     },
     {
       "name": "Scarlet Rivera",
       "targetId": "10057",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "11927",
+        "11931",
+        "11932",
+        "11933"
+      ]
     },
     {
       "name": "Rob Stoner",
       "targetId": "10061",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "11927",
+        "11931",
+        "11932",
+        "11933"
+      ]
     }
   ]
 }

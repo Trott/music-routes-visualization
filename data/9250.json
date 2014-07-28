@@ -1,11 +1,38 @@
 {
   "source": "David Guetta",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10108",
+      "names": [
+        "Sexy Bitch"
+      ],
+      "releases": [
+        {
+          "_id": "1942",
+          "names": [
+            "One Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1503",
+          "names": [
+            "David Guetta"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Akon",
       "targetId": "4044",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10108"
+      ]
     }
   ]
 }

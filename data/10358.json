@@ -1,36 +1,78 @@
 {
   "source": "John Eddie",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12714",
+      "names": [
+        "Somebody"
+      ],
+      "releases": [
+        {
+          "_id": "2273",
+          "names": [
+            "Reckless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12714"
+      ]
     },
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12714"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12714"
+      ]
     },
     {
       "name": "Tommy Mandel",
       "targetId": "7182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12714"
+      ]
     },
     {
       "name": "Dave Taylor",
       "targetId": "7183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12714"
+      ]
     },
     {
       "name": "Keith Scott",
       "targetId": "7184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12714"
+      ]
     }
   ]
 }

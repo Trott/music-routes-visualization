@@ -1,11 +1,38 @@
 {
   "source": "Courtney Pine",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10812",
+      "names": [
+        "Summertime"
+      ],
+      "releases": [
+        {
+          "_id": "2065",
+          "names": [
+            "The Glory Of Gershwin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1579",
+          "names": [
+            "Courtney Pine"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Larry Adler",
       "targetId": "9568",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10812"
+      ]
     }
   ]
 }

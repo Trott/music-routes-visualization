@@ -1,11 +1,61 @@
 {
   "source": "John Vesely",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7782",
+      "names": [
+        "Stranger"
+      ],
+      "releases": [
+        {
+          "_id": "1534",
+          "names": [
+            "A Twist In My Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1175",
+          "names": [
+            "Secondhand Serenade"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7783",
+      "names": [
+        "Your Call"
+      ],
+      "releases": [
+        {
+          "_id": "1534",
+          "names": [
+            "A Twist In My Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1175",
+          "names": [
+            "Secondhand Serenade"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Matthew Compton",
       "targetId": "6940",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7782",
+        "7783"
+      ]
     }
   ]
 }

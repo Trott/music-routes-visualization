@@ -1,36 +1,102 @@
 {
   "source": "Steve Kinch",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5565",
+      "names": [
+        "Pleasure And Pain"
+      ],
+      "releases": [
+        {
+          "_id": "1099",
+          "names": [
+            "Soft Vengeance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "592",
+          "names": [
+            "Manfred Mann's Earth Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5566",
+      "names": [
+        "Lose The Touch"
+      ],
+      "releases": [
+        {
+          "_id": "1099",
+          "names": [
+            "Soft Vengeance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "592",
+          "names": [
+            "Manfred Mann's Earth Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Manfred Mann",
       "targetId": "3140",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5565",
+        "5566"
+      ]
     },
     {
       "name": "Chris Thompson",
       "targetId": "3874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5565"
+      ]
     },
     {
       "name": "Mick Rogers",
       "targetId": "5607",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5565",
+        "5566"
+      ]
     },
     {
       "name": "David Farmer",
       "targetId": "5612",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5565"
+      ]
     },
     {
       "name": "Clive Bunker",
       "targetId": "5613",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5566"
+      ]
     },
     {
       "name": "Noel McCalla",
       "targetId": "5614",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5566"
+      ]
     }
   ]
 }

@@ -1,91 +1,437 @@
 {
   "source": "Max Bennett",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "91",
+      "names": [
+        "Furry Sings The Blues"
+      ],
+      "releases": [
+        {
+          "_id": "75",
+          "names": [
+            "Hejira"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "61",
+          "names": [
+            "Joni Mitchell"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "337",
+      "names": [
+        "Willie The Pimp"
+      ],
+      "releases": [
+        {
+          "_id": "192",
+          "names": [
+            "Hot Rats"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "338",
+      "names": [
+        "Son Of Mr. Green Genes"
+      ],
+      "releases": [
+        {
+          "_id": "192",
+          "names": [
+            "Hot Rats"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "339",
+      "names": [
+        "Little Umbrellas"
+      ],
+      "releases": [
+        {
+          "_id": "192",
+          "names": [
+            "Hot Rats"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "340",
+      "names": [
+        "The Gumbo Variations"
+      ],
+      "releases": [
+        {
+          "_id": "192",
+          "names": [
+            "Hot Rats"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "341",
+      "names": [
+        "It Must Be A Camel"
+      ],
+      "releases": [
+        {
+          "_id": "192",
+          "names": [
+            "Hot Rats"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4233",
+      "names": [
+        "Transylvania Boogie"
+      ],
+      "releases": [
+        {
+          "_id": "851",
+          "names": [
+            "Chunga's Revenge"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4235",
+      "names": [
+        "Twenty Small Cigars"
+      ],
+      "releases": [
+        {
+          "_id": "851",
+          "names": [
+            "Chunga's Revenge"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4241",
+      "names": [
+        "Chunga's Revenge"
+      ],
+      "releases": [
+        {
+          "_id": "851",
+          "names": [
+            "Chunga's Revenge"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8501",
+      "names": [
+        "Waters Of March"
+      ],
+      "releases": [
+        {
+          "_id": "1641",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1255",
+          "names": [
+            "Art Garfunkel"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12782",
+      "names": [
+        "Hari's On Tour (Express)"
+      ],
+      "releases": [
+        {
+          "_id": "2303",
+          "names": [
+            "Dark Horse"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12783",
+      "names": [
+        "Simply Shady"
+      ],
+      "releases": [
+        {
+          "_id": "2303",
+          "names": [
+            "Dark Horse"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12782",
+        "12783"
+      ]
     },
     {
       "name": "Neil Young",
       "targetId": "45",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "91"
+      ]
     },
     {
       "name": "Joni Mitchell",
       "targetId": "47",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "91"
+      ]
     },
     {
       "name": "Aynsley Dunbar",
       "targetId": "264",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4233",
+        "4241"
+      ]
     },
     {
       "name": "Tom Scott",
       "targetId": "277",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12782",
+        "12783"
+      ]
     },
     {
       "name": "Bill Payne",
       "targetId": "280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8501"
+      ]
     },
     {
       "name": "John Guerin",
       "targetId": "508",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "91",
+        "337",
+        "339",
+        "341",
+        "4235",
+        "8501",
+        "12782",
+        "12783"
+      ]
     },
     {
       "name": "Frank Zappa",
       "targetId": "815",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "337",
+        "338",
+        "339",
+        "340",
+        "341",
+        "4233",
+        "4235",
+        "4241"
+      ]
     },
     {
       "name": "Ian Underwood",
       "targetId": "816",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "337",
+        "338",
+        "339",
+        "340",
+        "341",
+        "4233",
+        "4235",
+        "4241"
+      ]
     },
     {
       "name": "Captain Beefheart",
       "targetId": "817",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "337"
+      ]
     },
     {
       "name": "Sugar Cane Harris",
       "targetId": "818",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "337",
+        "340",
+        "4241"
+      ]
     },
     {
       "name": "Paul Humphrey",
       "targetId": "820",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "338",
+        "340"
+      ]
     },
     {
       "name": "Jean-Luc Ponty",
       "targetId": "1355",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "341"
+      ]
     },
     {
       "name": "Robben Ford",
       "targetId": "1385",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12782",
+        "12783"
+      ]
     },
     {
       "name": "Art Garfunkel",
       "targetId": "1474",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8501"
+      ]
     },
     {
       "name": "Louis Shelton",
       "targetId": "7818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8501"
+      ]
     },
     {
       "name": "Roger Kellaway",
       "targetId": "7931",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12782",
+        "12783"
+      ]
     }
   ]
 }

@@ -1,41 +1,92 @@
 {
   "source": "Ruth Jackson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12344",
+      "names": [
+        "My Hometown"
+      ],
+      "releases": [
+        {
+          "_id": "1106",
+          "names": [
+            "Greatest Hits"
+          ]
+        },
+        {
+          "_id": "2200",
+          "names": [
+            "Born In The U.S.A."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12344"
+      ]
     },
     {
       "name": "Roy Bittan",
       "targetId": "463",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12344"
+      ]
     },
     {
       "name": "Clarence Clemons",
       "targetId": "465",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12344"
+      ]
     },
     {
       "name": "Danny Federici",
       "targetId": "466",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12344"
+      ]
     },
     {
       "name": "Garry W. Tallent",
       "targetId": "467",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12344"
+      ]
     },
     {
       "name": "Max Weinberg",
       "targetId": "468",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12344"
+      ]
     },
     {
       "name": "Steve Van Zandt",
       "targetId": "5079",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12344"
+      ]
     }
   ]
 }

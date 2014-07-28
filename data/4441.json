@@ -1,51 +1,125 @@
 {
   "source": "Tanya Haden",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4293",
+      "names": [
+        "Family Functions"
+      ],
+      "releases": [
+        {
+          "_id": "862",
+          "names": [
+            "That Dog."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "678",
+          "names": [
+            "that dog."
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4295",
+      "names": [
+        "World Of Blue"
+      ],
+      "releases": [
+        {
+          "_id": "864",
+          "names": [
+            "The Blue Moods Of Spain"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "679",
+          "names": [
+            "Spain"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Petra Haden",
       "targetId": "774",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4293",
+        "4295"
+      ]
     },
     {
       "name": "Tony Maxwell",
       "targetId": "787",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4293"
+      ]
     },
     {
       "name": "Rachel Haden",
       "targetId": "965",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4293"
+      ]
     },
     {
       "name": "Anna Waronker",
       "targetId": "966",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4293"
+      ]
     },
     {
       "name": "Larry Cady",
       "targetId": "4443",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4295"
+      ]
     },
     {
       "name": "Evan Hartzell",
       "targetId": "4444",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4295"
+      ]
     },
     {
       "name": "Merlo Podlewski",
       "targetId": "4445",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4295"
+      ]
     },
     {
       "name": "Ken Boudakian",
       "targetId": "4446",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4295"
+      ]
     },
     {
       "name": "Josh Haden",
       "targetId": "4447",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4295"
+      ]
     }
   ]
 }

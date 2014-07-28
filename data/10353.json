@@ -1,31 +1,96 @@
 {
   "source": "Pat Steward",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12708",
+      "names": [
+        "One Night Love Affair"
+      ],
+      "releases": [
+        {
+          "_id": "2273",
+          "names": [
+            "Reckless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12716",
+      "names": [
+        "Summer Of '69"
+      ],
+      "releases": [
+        {
+          "_id": "2273",
+          "names": [
+            "Reckless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12708",
+        "12716"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12708",
+        "12716"
+      ]
     },
     {
       "name": "Tommy Mandel",
       "targetId": "7182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12708"
+      ]
     },
     {
       "name": "Dave Taylor",
       "targetId": "7183",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12708",
+        "12716"
+      ]
     },
     {
       "name": "Keith Scott",
       "targetId": "7184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12708",
+        "12716"
+      ]
     }
   ]
 }

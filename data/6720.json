@@ -1,31 +1,115 @@
 {
   "source": "Common",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6872",
+      "names": [
+        "8 Minutes To Sunrise"
+      ],
+      "releases": [
+        {
+          "_id": "1367",
+          "names": [
+            "Collaborations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1055",
+          "names": [
+            "Jill Scott"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6873",
+      "names": [
+        "Funky For You"
+      ],
+      "releases": [
+        {
+          "_id": "1367",
+          "names": [
+            "Collaborations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1055",
+          "names": [
+            "Jill Scott"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10318",
+      "names": [
+        "Drivin' Me Wild"
+      ],
+      "releases": [
+        {
+          "_id": "1992",
+          "names": [
+            "Finding Forever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1537",
+          "names": [
+            "Common"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "James Poyser",
       "targetId": "6250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6873"
+      ]
     },
     {
       "name": "Omar Edwards",
       "targetId": "6649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10318"
+      ]
     },
     {
       "name": "Jill Scott",
       "targetId": "6698",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6872",
+        "6873"
+      ]
     },
     {
       "name": "Bilal",
       "targetId": "6721",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6873"
+      ]
     },
     {
       "name": "Lily Allen",
       "targetId": "9415",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10318"
+      ]
     }
   ]
 }

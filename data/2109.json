@@ -1,26 +1,86 @@
 {
   "source": "Johnny Ramone",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1988",
+      "names": [
+        "I Wanna Be Sedated"
+      ],
+      "releases": [
+        {
+          "_id": "434",
+          "names": [
+            "Road To Ruin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "316",
+          "names": [
+            "The Ramones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2118",
+      "names": [
+        "R.A.M.O.N.E.S."
+      ],
+      "releases": [
+        {
+          "_id": "494",
+          "names": [
+            "We're Outta Here!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "316",
+          "names": [
+            "The Ramones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Marky Ramone",
       "targetId": "2107",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1988",
+        "2118"
+      ]
     },
     {
       "name": "Joey Ramone",
       "targetId": "2108",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1988",
+        "2118"
+      ]
     },
     {
       "name": "Dee Dee Ramone",
       "targetId": "2110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1988"
+      ]
     },
     {
       "name": "Lemmy Kilmister",
       "targetId": "2550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2118"
+      ]
     }
   ]
 }

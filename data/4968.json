@@ -1,26 +1,86 @@
 {
   "source": "Rob Brill",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4716",
+      "names": [
+        "Trash"
+      ],
+      "releases": [
+        {
+          "_id": "961",
+          "names": [
+            "Count Three And Pray"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "759",
+          "names": [
+            "Berlin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4717",
+      "names": [
+        "Pink And Velvet"
+      ],
+      "releases": [
+        {
+          "_id": "961",
+          "names": [
+            "Count Three And Pray"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "759",
+          "names": [
+            "Berlin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ted Nugent",
       "targetId": "168",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4716"
+      ]
     },
     {
       "name": "David Gilmour",
       "targetId": "275",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4717"
+      ]
     },
     {
       "name": "Terri Nunn",
       "targetId": "4966",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4716",
+        "4717"
+      ]
     },
     {
       "name": "John Crawford",
       "targetId": "4967",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4716",
+        "4717"
+      ]
     }
   ]
 }

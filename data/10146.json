@@ -1,36 +1,106 @@
 {
   "source": "Wardell Gray",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12182",
+      "names": [
+        "Relaxin' At Camarillo"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12183",
+      "names": [
+        "Stupendous"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Red Callender",
       "targetId": "382",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Howard McGhee",
       "targetId": "10139",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Dodo Marmarosa",
       "targetId": "10142",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     },
     {
       "name": "Don Lamond",
       "targetId": "10147",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12182",
+        "12183"
+      ]
     }
   ]
 }

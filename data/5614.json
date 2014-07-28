@@ -1,26 +1,62 @@
 {
   "source": "Noel McCalla",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5566",
+      "names": [
+        "Lose The Touch"
+      ],
+      "releases": [
+        {
+          "_id": "1099",
+          "names": [
+            "Soft Vengeance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "592",
+          "names": [
+            "Manfred Mann's Earth Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Manfred Mann",
       "targetId": "3140",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5566"
+      ]
     },
     {
       "name": "Mick Rogers",
       "targetId": "5607",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5566"
+      ]
     },
     {
       "name": "Steve Kinch",
       "targetId": "5611",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5566"
+      ]
     },
     {
       "name": "Clive Bunker",
       "targetId": "5613",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5566"
+      ]
     }
   ]
 }

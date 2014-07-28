@@ -1,81 +1,224 @@
 {
   "source": "Chris Mercer",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2359",
+      "names": [
+        "Universe"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2363",
+      "names": [
+        "Jason B. Sad"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2368",
+      "names": [
+        "Teen Riot Structure"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8722",
+      "names": [
+        "Waiting Around"
+      ],
+      "releases": [
+        {
+          "_id": "1674",
+          "names": [
+            "The Battle Of North West Six"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1279",
+          "names": [
+            "Keef Hartley Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Herbie Flowers",
       "targetId": "800",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2363",
+        "2368"
+      ]
     },
     {
       "name": "Marc Bolan",
       "targetId": "1825",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2359",
+        "2363",
+        "2368"
+      ]
     },
     {
       "name": "Steve Currie",
       "targetId": "1827",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2359"
+      ]
     },
     {
       "name": "Davey Lutton",
       "targetId": "2907",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2359"
+      ]
     },
     {
       "name": "Tony Newman",
       "targetId": "2909",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2363",
+        "2368"
+      ]
     },
     {
       "name": "Bud Beadle",
       "targetId": "2910",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2363",
+        "2368"
+      ]
     },
     {
       "name": "Miller Anderson",
       "targetId": "2912",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2363",
+        "8722"
+      ]
     },
     {
       "name": "Dino Dines",
       "targetId": "2913",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2359",
+        "2363",
+        "2368"
+      ]
     },
     {
       "name": "Colin Jacas",
       "targetId": "2917",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2359"
+      ]
     },
     {
       "name": "Gloria Jones",
       "targetId": "2918",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2359"
+      ]
     },
     {
       "name": "Henry Lowther",
       "targetId": "5646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Gary Thain",
       "targetId": "8081",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Keef Hartley",
       "targetId": "8116",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Jim Jewell",
       "targetId": "8117",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     },
     {
       "name": "Mick Weaver",
       "targetId": "8118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8722"
+      ]
     }
   ]
 }

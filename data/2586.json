@@ -1,56 +1,184 @@
 {
   "source": "Jay Dee Daugherty",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2130",
+      "names": [
+        "Kid Fears"
+      ],
+      "releases": [
+        {
+          "_id": "504",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "379",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2131",
+      "names": [
+        "Prince Of Darkness"
+      ],
+      "releases": [
+        {
+          "_id": "504",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "379",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2135",
+      "names": [
+        "Land Of Canaan"
+      ],
+      "releases": [
+        {
+          "_id": "504",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "379",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3698",
+      "names": [
+        "Feel"
+      ],
+      "releases": [
+        {
+          "_id": "736",
+          "names": [
+            "Under The Milky Way: The Best Of The Church"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "569",
+          "names": [
+            "The Church"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Stipe",
       "targetId": "341",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2130"
+      ]
     },
     {
       "name": "Paulinho Da Costa",
       "targetId": "411",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2130",
+        "2131",
+        "2135"
+      ]
     },
     {
       "name": "Kasim Sulton",
       "targetId": "1814",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2135"
+      ]
     },
     {
       "name": "Amy Ray",
       "targetId": "2579",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2130",
+        "2131",
+        "2135"
+      ]
     },
     {
       "name": "Emily Saliers",
       "targetId": "2580",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2130",
+        "2131",
+        "2135"
+      ]
     },
     {
       "name": "Dede Vogt",
       "targetId": "2585",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2130"
+      ]
     },
     {
       "name": "John Keane",
       "targetId": "2587",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2130",
+        "2131",
+        "2135"
+      ]
     },
     {
       "name": "Peter Koppes",
       "targetId": "3793",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3698"
+      ]
     },
     {
       "name": "Marty Willson-Piper",
       "targetId": "3794",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3698"
+      ]
     },
     {
       "name": "Steve Kilbey",
       "targetId": "3797",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3698"
+      ]
     }
   ]
 }

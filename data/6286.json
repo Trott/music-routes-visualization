@@ -1,26 +1,62 @@
 {
   "source": "Jason Everly",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6420",
+      "names": [
+        "Rave On"
+      ],
+      "releases": [
+        {
+          "_id": "1287",
+          "names": [
+            "The Crickets And Their Buddies"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "994",
+          "names": [
+            "The Crickets"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Everly",
       "targetId": "1005",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6420"
+      ]
     },
     {
       "name": "Joe B. Mauldin",
       "targetId": "6283",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6420"
+      ]
     },
     {
       "name": "Jerry Allison",
       "targetId": "6284",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6420"
+      ]
     },
     {
       "name": "Sonny Curtis",
       "targetId": "6285",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6420"
+      ]
     }
   ]
 }

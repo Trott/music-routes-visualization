@@ -1,21 +1,54 @@
 {
   "source": "Taura \"Aura\" Jackson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5904",
+      "names": [
+        "Turn It Up"
+      ],
+      "releases": [
+        {
+          "_id": "1167",
+          "names": [
+            "Paris"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "908",
+          "names": [
+            "Paris Hilton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paris Hilton",
       "targetId": "5810",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5904"
+      ]
     },
     {
       "name": "Penelope Magnet",
       "targetId": "5811",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5904"
+      ]
     },
     {
       "name": "Pooh Bear",
       "targetId": "5812",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5904"
+      ]
     }
   ]
 }

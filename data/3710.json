@@ -1,46 +1,145 @@
 {
   "source": "Phil Scraggs",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3592",
+      "names": [
+        "Upside Down"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3602",
+      "names": [
+        "Ship Of Fools"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3605",
+      "names": [
+        "Heaven Knows"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3592",
+        "3602",
+        "3605"
+      ]
     },
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3605"
+      ]
     },
     {
       "name": "Toni Halliday",
       "targetId": "2381",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3605"
+      ]
     },
     {
       "name": "Chris Blackwell",
       "targetId": "3706",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3602",
+        "3605"
+      ]
     },
     {
       "name": "Doug Boyle",
       "targetId": "3707",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3592",
+        "3602",
+        "3605"
+      ]
     },
     {
       "name": "Phil Johnstone",
       "targetId": "3708",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3592",
+        "3602",
+        "3605"
+      ]
     },
     {
       "name": "Kirsty MacColl",
       "targetId": "3727",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3605"
+      ]
     },
     {
       "name": "Marie Pierre",
       "targetId": "3728",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3605"
+      ]
     }
   ]
 }

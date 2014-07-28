@@ -1,26 +1,85 @@
 {
   "source": "Vic Chesnutt",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7262",
+      "names": [
+        "Sunshine"
+      ],
+      "releases": [
+        {
+          "_id": "1426",
+          "names": [
+            "Good Morning Spider"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1099",
+          "names": [
+            "Sparklehorse"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7281",
+      "names": [
+        "Grim Augury"
+      ],
+      "releases": [
+        {
+          "_id": "1429",
+          "names": [
+            "Dark Night Of The Soul"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1100",
+          "names": [
+            "Danger Mouse & Sparklehorse"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mark Linkous",
       "targetId": "6972",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7262",
+        "7281"
+      ]
     },
     {
       "name": "Melissa Moore",
       "targetId": "6975",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7262"
+      ]
     },
     {
       "name": "Sophie Michalitsianos",
       "targetId": "6976",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7262"
+      ]
     },
     {
       "name": "Danger Mouse",
       "targetId": "6977",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7281"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "John Clayton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13378",
+      "names": [
+        "You Couldn't Be Cuter"
+      ],
+      "releases": [
+        {
+          "_id": "2427",
+          "names": [
+            "Songs Of Joy & Peace"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1730",
+          "names": [
+            "Yo-Yo Ma"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Yo-Yo Ma",
       "targetId": "1124",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13378"
+      ]
     },
     {
       "name": "Diana Krall",
       "targetId": "2228",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13378"
+      ]
     }
   ]
 }

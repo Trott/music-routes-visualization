@@ -1,16 +1,46 @@
 {
   "source": "Jason Cooper",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "109",
+      "names": [
+        "A Sign From God"
+      ],
+      "releases": [
+        {
+          "_id": "86",
+          "names": [
+            "Orgazmo (soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "69",
+          "names": [
+            "Cogasm"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Smith",
       "targetId": "363",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "109"
+      ]
     },
     {
       "name": "Reeves Gabrels",
       "targetId": "365",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "109"
+      ]
     }
   ]
 }

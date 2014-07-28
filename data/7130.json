@@ -1,36 +1,128 @@
 {
   "source": "John McDermott",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7438",
+      "names": [
+        "Vacuum Bag"
+      ],
+      "releases": [
+        {
+          "_id": "1467",
+          "names": [
+            "Rip It Off"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1132",
+          "names": [
+            "Stroke 9"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7439",
+      "names": [
+        "Do It Again"
+      ],
+      "releases": [
+        {
+          "_id": "1467",
+          "names": [
+            "Rip It Off"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1132",
+          "names": [
+            "Stroke 9"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7440",
+      "names": [
+        "Reject"
+      ],
+      "releases": [
+        {
+          "_id": "1467",
+          "names": [
+            "Rip It Off"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1132",
+          "names": [
+            "Stroke 9"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Semyon Kobialka",
       "targetId": "674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7440"
+      ]
     },
     {
       "name": "John Shanks",
       "targetId": "1063",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7438"
+      ]
     },
     {
       "name": "Butch Walker",
       "targetId": "6295",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7439"
+      ]
     },
     {
       "name": "Greg Gueldner",
       "targetId": "7128",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7438",
+        "7439",
+        "7440"
+      ]
     },
     {
       "name": "Eric Stock",
       "targetId": "7129",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7438",
+        "7439",
+        "7440"
+      ]
     },
     {
       "name": "Luke Esterkyn",
       "targetId": "7131",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7438",
+        "7439",
+        "7440"
+      ]
     }
   ]
 }

@@ -1,36 +1,127 @@
 {
   "source": "Shania Twain",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "498",
+      "names": [
+        "Coat Of Many Colors"
+      ],
+      "releases": [
+        {
+          "_id": "223",
+          "names": [
+            "Just Because I'm A Woman: Songs Of Dolly Parton"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "157",
+          "names": [
+            "Shania Twain & Alison Kraus"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7183",
+      "names": [
+        "(You Make Me Feel Like A) Natural Woman"
+      ],
+      "releases": [
+        {
+          "_id": "1419",
+          "names": [
+            "VH1 Divas Live"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1095",
+          "names": [
+            "The Divas"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7184",
+      "names": [
+        "Testimony"
+      ],
+      "releases": [
+        {
+          "_id": "1419",
+          "names": [
+            "VH1 Divas Live"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1095",
+          "names": [
+            "The Divas"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alison Kraus",
       "targetId": "297",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "498"
+      ]
     },
     {
       "name": "Céline Dion",
       "targetId": "693",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7183",
+        "7184"
+      ]
     },
     {
       "name": "Carole King",
       "targetId": "1673",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7183",
+        "7184"
+      ]
     },
     {
       "name": "Aretha Franklin",
       "targetId": "1765",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7183",
+        "7184"
+      ]
     },
     {
       "name": "Gloria Estefan",
       "targetId": "1768",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7183",
+        "7184"
+      ]
     },
     {
       "name": "Mariah Carey",
       "targetId": "6126",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7183",
+        "7184"
+      ]
     }
   ]
 }

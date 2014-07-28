@@ -1,46 +1,168 @@
 {
   "source": "Al Connelly",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "12730",
+      "names": [
+        "Diamond Sun"
+      ],
+      "releases": [
+        {
+          "_id": "2282",
+          "names": [
+            "Diamond Sun"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1645",
+          "names": [
+            "Glass Tiger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12731",
+      "names": [
+        "Give It Away"
+      ],
+      "releases": [
+        {
+          "_id": "2283",
+          "names": [
+            "No Turning Back"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1645",
+          "names": [
+            "Glass Tiger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12732",
+      "names": [
+        "No Turning Back"
+      ],
+      "releases": [
+        {
+          "_id": "2283",
+          "names": [
+            "No Turning Back"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1645",
+          "names": [
+            "Glass Tiger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12733",
+      "names": [
+        "Someday"
+      ],
+      "releases": [
+        {
+          "_id": "2284",
+          "names": [
+            "The Thin Red Line"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1645",
+          "names": [
+            "Glass Tiger"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12730",
+        "12731",
+        "12732",
+        "12733"
+      ]
     },
     {
       "name": "Dalbello",
       "targetId": "2485",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     },
     {
       "name": "Sharon Lee Williams",
       "targetId": "2496",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     },
     {
       "name": "Keith Scott",
       "targetId": "7184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     },
     {
       "name": "Dave Pickell",
       "targetId": "10360",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12733"
+      ]
     },
     {
       "name": "Alan Frew",
       "targetId": "10363",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12730",
+        "12731",
+        "12732",
+        "12733"
+      ]
     },
     {
       "name": "Rene Worst",
       "targetId": "10365",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12730"
+      ]
     },
     {
       "name": "Sam Reid",
       "targetId": "10366",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12731",
+        "12732",
+        "12733"
+      ]
     }
   ]
 }

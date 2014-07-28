@@ -1,21 +1,54 @@
 {
   "source": "Sean Slade",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7148",
+      "names": [
+        "Spoiled"
+      ],
+      "releases": [
+        {
+          "_id": "1413",
+          "names": [
+            "III"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1089",
+          "names": [
+            "Sebadoh"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lou Barlow",
       "targetId": "2535",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7148"
+      ]
     },
     {
       "name": "Eric Gaffney",
       "targetId": "6900",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7148"
+      ]
     },
     {
       "name": "Jason Lowenstein",
       "targetId": "6901",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7148"
+      ]
     }
   ]
 }

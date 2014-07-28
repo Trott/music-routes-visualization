@@ -1,21 +1,54 @@
 {
   "source": "Mia Doi Todd",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2617",
+      "names": [
+        "Rock My Boat"
+      ],
+      "releases": [
+        {
+          "_id": "619",
+          "names": [
+            "Dumb Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "482",
+          "names": [
+            "Dntel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Tamborello",
       "targetId": "3024",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2617"
+      ]
     },
     {
       "name": "Paul Larson",
       "targetId": "3091",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2617"
+      ]
     },
     {
       "name": "Chris Hathwell",
       "targetId": "3092",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2617"
+      ]
     }
   ]
 }

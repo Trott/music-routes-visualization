@@ -1,166 +1,437 @@
 {
   "source": "Gilson Lavis",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "3623",
+      "names": [
+        "Let That Boogie Woogie Roll"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7616",
+      "names": [
+        "Tempted"
+      ],
+      "releases": [
+        {
+          "_id": "1508",
+          "names": [
+            "East Side Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1158",
+          "names": [
+            "Squeeze"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7617",
+      "names": [
+        "There's No Tomorrow"
+      ],
+      "releases": [
+        {
+          "_id": "1508",
+          "names": [
+            "East Side Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1158",
+          "names": [
+            "Squeeze"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7618",
+      "names": [
+        "Black Coffee In Bed"
+      ],
+      "releases": [
+        {
+          "_id": "1509",
+          "names": [
+            "Sweets From A Stranger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1158",
+          "names": [
+            "Squeeze"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13115",
+      "names": [
+        "Odd Man Out"
+      ],
+      "releases": [
+        {
+          "_id": "2367",
+          "names": [
+            "Tom Jones & Jools Holland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1684",
+          "names": [
+            "Tom Jones"
+          ]
+        },
+        {
+          "_id": "1685",
+          "names": [
+            "Jools Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13116",
+      "names": [
+        "Sally Suzas"
+      ],
+      "releases": [
+        {
+          "_id": "2367",
+          "names": [
+            "Tom Jones & Jools Holland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1684",
+          "names": [
+            "Tom Jones"
+          ]
+        },
+        {
+          "_id": "1685",
+          "names": [
+            "Jools Holland"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Young",
       "targetId": "102",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7618"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7616",
+        "7617",
+        "7618"
+      ]
     },
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3623"
+      ]
     },
     {
       "name": "Tom Jones",
       "targetId": "605",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Jools Holland",
       "targetId": "3751",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3623",
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Mark Flanagan",
       "targetId": "3753",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3623",
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Dave Swift",
       "targetId": "3754",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3623",
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Nick Lunt",
       "targetId": "3755",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3623",
+        "13115"
+      ]
     },
     {
       "name": "Mark Hall",
       "targetId": "3756",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3623"
+      ]
     },
     {
       "name": "Roy Hall",
       "targetId": "3757",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3623"
+      ]
     },
     {
       "name": "G. Fofie",
       "targetId": "3758",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3623"
+      ]
     },
     {
       "name": "Paul Carrack",
       "targetId": "6098",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7616",
+        "7617"
+      ]
     },
     {
       "name": "Glenn Tilbrook",
       "targetId": "7275",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7616",
+        "7617",
+        "7618"
+      ]
     },
     {
       "name": "John Bentley",
       "targetId": "7278",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7616",
+        "7617",
+        "7618"
+      ]
     },
     {
       "name": "Chris Difford",
       "targetId": "7279",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7616",
+        "7617",
+        "7618"
+      ]
     },
     {
       "name": "Don Snow",
       "targetId": "7280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7618"
+      ]
     },
     {
       "name": "Adrian Revell",
       "targetId": "10559",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Garry Christian",
       "targetId": "10564",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13115"
+      ]
     },
     {
       "name": "Henry Priestman",
       "targetId": "10565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13115"
+      ]
     },
     {
       "name": "Russell Christian",
       "targetId": "10566",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13115"
+      ]
     },
     {
       "name": "Chris Holland",
       "targetId": "10567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13115"
+      ]
     },
     {
       "name": "Lisa Graham",
       "targetId": "10568",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Michael \"Bami\" Rose",
       "targetId": "10569",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Pete Long",
       "targetId": "10570",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Phil Veacock",
       "targetId": "10571",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Alistair White",
       "targetId": "10572",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Rico Rodriguez",
       "targetId": "10573",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Roger Goslyn",
       "targetId": "10574",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Winston Rollins",
       "targetId": "10575",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Chris Storr",
       "targetId": "10576",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Jason McDermid",
       "targetId": "10577",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     },
     {
       "name": "Jon Scott",
       "targetId": "10578",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13115",
+        "13116"
+      ]
     }
   ]
 }

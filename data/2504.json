@@ -1,21 +1,101 @@
 {
   "source": "Ben Mink",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2094",
+      "names": [
+        "My Favorite Headache"
+      ],
+      "releases": [
+        {
+          "_id": "478",
+          "names": [
+            "My Favorite Headache"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "358",
+          "names": [
+            "Geddy Lee"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2095",
+      "names": [
+        "Grace To Grace"
+      ],
+      "releases": [
+        {
+          "_id": "478",
+          "names": [
+            "My Favorite Headache"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "358",
+          "names": [
+            "Geddy Lee"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2096",
+      "names": [
+        "Home On The Strange"
+      ],
+      "releases": [
+        {
+          "_id": "478",
+          "names": [
+            "My Favorite Headache"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "358",
+          "names": [
+            "Geddy Lee"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Matt Cameron",
       "targetId": "337",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2094",
+        "2095"
+      ]
     },
     {
       "name": "Geddy Lee",
       "targetId": "2450",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2094",
+        "2095",
+        "2096"
+      ]
     },
     {
       "name": "Jeremy Taggart",
       "targetId": "2505",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2096"
+      ]
     }
   ]
 }

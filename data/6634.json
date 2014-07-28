@@ -1,51 +1,226 @@
 {
   "source": "Pete Drake",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "6745",
+      "names": [
+        "Behind That Locked Door"
+      ],
+      "releases": [
+        {
+          "_id": "1349",
+          "names": [
+            "All Things Must Pass"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11767",
+      "names": [
+        "Down Along The Cove"
+      ],
+      "releases": [
+        {
+          "_id": "2162",
+          "names": [
+            "John Wesley Harding"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11768",
+      "names": [
+        "I'll Be Your Baby Tonight"
+      ],
+      "releases": [
+        {
+          "_id": "2162",
+          "names": [
+            "John Wesley Harding"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11832",
+      "names": [
+        "Living The Blues"
+      ],
+      "releases": [
+        {
+          "_id": "2168",
+          "names": [
+            "Self Portrait"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11833",
+      "names": [
+        "Take Me As I Am"
+      ],
+      "releases": [
+        {
+          "_id": "2168",
+          "names": [
+            "Self Portrait"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11834",
+      "names": [
+        "I Forgot More Than You'll Ever Know"
+      ],
+      "releases": [
+        {
+          "_id": "2168",
+          "names": [
+            "Self Portrait"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6745"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "11767",
+        "11768",
+        "11832",
+        "11833",
+        "11834"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6745"
+      ]
     },
     {
       "name": "Charlie McCoy",
       "targetId": "1211",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "11767",
+        "11768",
+        "11832",
+        "11833",
+        "11834"
+      ]
     },
     {
       "name": "Billy Preston",
       "targetId": "1674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6745"
+      ]
     },
     {
       "name": "Gary Wright",
       "targetId": "3199",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6745"
+      ]
     },
     {
       "name": "Alan White",
       "targetId": "4428",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6745"
+      ]
     },
     {
       "name": "Kenny Buttrey",
       "targetId": "10032",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "11767",
+        "11768",
+        "11832",
+        "11833",
+        "11834"
+      ]
     },
     {
       "name": "Robert S. Wilson",
       "targetId": "10052",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11832",
+        "11833",
+        "11834"
+      ]
     }
   ]
 }

@@ -1,31 +1,97 @@
 {
   "source": "Sean Nelson",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7180",
+      "names": [
+        "Blacking Out The Friction"
+      ],
+      "releases": [
+        {
+          "_id": "1417",
+          "names": [
+            "The Photo Album"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1093",
+          "names": [
+            "Death Cab For Cutie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7181",
+      "names": [
+        "I Was a Kaleidoscope"
+      ],
+      "releases": [
+        {
+          "_id": "1417",
+          "names": [
+            "The Photo Album"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1093",
+          "names": [
+            "Death Cab For Cutie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Gibbard",
       "targetId": "6919",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7180",
+        "7181"
+      ]
     },
     {
       "name": "Chris Walla",
       "targetId": "6921",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7180",
+        "7181"
+      ]
     },
     {
       "name": "Nicholas Harmer",
       "targetId": "6922",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7180",
+        "7181"
+      ]
     },
     {
       "name": "Michael Schorr",
       "targetId": "6923",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7180",
+        "7181"
+      ]
     },
     {
       "name": "John Vanderslice",
       "targetId": "6924",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7180",
+        "7181"
+      ]
     }
   ]
 }

@@ -1,41 +1,155 @@
 {
   "source": "Marc Almond",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3427",
+      "names": [
+        "Volcana!"
+      ],
+      "releases": [
+        {
+          "_id": "698",
+          "names": [
+            "Hyacinths & Thistles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4843",
+      "names": [
+        "Stolen Kisses"
+      ],
+      "releases": [
+        {
+          "_id": "979",
+          "names": [
+            "Force The Hand Of Chance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "770",
+          "names": [
+            "Psychic TV"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4845",
+      "names": [
+        "Guiltless"
+      ],
+      "releases": [
+        {
+          "_id": "979",
+          "names": [
+            "Force The Hand Of Chance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "770",
+          "names": [
+            "Psychic TV"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7353",
+      "names": [
+        "Threat Of Love"
+      ],
+      "releases": [
+        {
+          "_id": "1444",
+          "names": [
+            "Open All Night"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1113",
+          "names": [
+            "Marc Almond"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Siouxsie Sioux",
       "targetId": "361",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7353"
+      ]
     },
     {
       "name": "Budgie",
       "targetId": "364",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7353"
+      ]
     },
     {
       "name": "Genesis P-Orridge",
       "targetId": "1578",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4843",
+        "4845"
+      ]
     },
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3427"
+      ]
     },
     {
       "name": "Peter \"Sleazy\" Christopherson",
       "targetId": "4885",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4843",
+        "4845"
+      ]
     },
     {
       "name": "Alex Fergusson",
       "targetId": "5026",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4843",
+        "4845"
+      ]
     },
     {
       "name": "Olli Langford",
       "targetId": "6577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7353"
+      ]
     }
   ]
 }

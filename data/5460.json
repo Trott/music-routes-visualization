@@ -1,61 +1,210 @@
 {
   "source": "Robert Britt",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "5348",
+      "names": [
+        "Standing In The Doorway"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5351",
+      "names": [
+        "Til I Fell In Love With You"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5352",
+      "names": [
+        "Not Dark Yet"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        },
+        {
+          "_id": "2159",
+          "names": [
+            "The Essential Bob Dylan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5353",
+      "names": [
+        "Cold Irons Bound"
+      ],
+      "releases": [
+        {
+          "_id": "1062",
+          "names": [
+            "Time Out Of Mind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5348",
+        "5351",
+        "5352",
+        "5353"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5348",
+        "5351",
+        "5352"
+      ]
     },
     {
       "name": "Daniel Lanois",
       "targetId": "2195",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5348",
+        "5351",
+        "5352",
+        "5353"
+      ]
     },
     {
       "name": "Jim Dickinson",
       "targetId": "3082",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5351",
+        "5352"
+      ]
     },
     {
       "name": "Tony Garnier",
       "targetId": "5456",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5348",
+        "5351",
+        "5352",
+        "5353"
+      ]
     },
     {
       "name": "Auggie Meyers",
       "targetId": "5457",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5348",
+        "5351",
+        "5352",
+        "5353"
+      ]
     },
     {
       "name": "Bucky Baxter",
       "targetId": "5458",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5348",
+        "5352",
+        "5353"
+      ]
     },
     {
       "name": "Cindy Cashdollar",
       "targetId": "5461",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5348",
+        "5352"
+      ]
     },
     {
       "name": "David Kemper",
       "targetId": "5462",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5353"
+      ]
     },
     {
       "name": "Brian Blade",
       "targetId": "5463",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5348",
+        "5351",
+        "5352"
+      ]
     },
     {
       "name": "Tony Mangurian",
       "targetId": "5464",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5348"
+      ]
     }
   ]
 }

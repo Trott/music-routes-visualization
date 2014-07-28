@@ -1,16 +1,94 @@
 {
   "source": "Marlon B",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "10247",
+      "names": [
+        "Sexy Boy"
+      ],
+      "releases": [
+        {
+          "_id": "1964",
+          "names": [
+            "Moon Safari"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1517",
+          "names": [
+            "Air"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10248",
+      "names": [
+        "Kelly Watch The Stars"
+      ],
+      "releases": [
+        {
+          "_id": "1964",
+          "names": [
+            "Moon Safari"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1517",
+          "names": [
+            "Air"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10250",
+      "names": [
+        "Talisman"
+      ],
+      "releases": [
+        {
+          "_id": "1964",
+          "names": [
+            "Moon Safari"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1517",
+          "names": [
+            "Air"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Nicolas Godin",
       "targetId": "9344",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10247",
+        "10248",
+        "10250"
+      ]
     },
     {
       "name": "Jean-Benoît Dunckel",
       "targetId": "9345",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10247",
+        "10248",
+        "10250"
+      ]
     }
   ]
 }

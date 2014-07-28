@@ -1,41 +1,108 @@
 {
   "source": "Scott \"Wino\" Weinrich",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5214",
+      "names": [
+        "On The Hunt"
+      ],
+      "releases": [
+        {
+          "_id": "1041",
+          "names": [
+            "Incarnate"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "824",
+          "names": [
+            "The Obsessed"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5215",
+      "names": [
+        "The Wizard"
+      ],
+      "releases": [
+        {
+          "_id": "1042",
+          "names": [
+            "Nativity In Black: A Tribute To Black Sabbath"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "825",
+          "names": [
+            "Bullring Brummies"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rob Halford",
       "targetId": "145",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5215"
+      ]
     },
     {
       "name": "Geezer Butler",
       "targetId": "1433",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5215"
+      ]
     },
     {
       "name": "Bill Ward",
       "targetId": "1434",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5215"
+      ]
     },
     {
       "name": "Dale Crover",
       "targetId": "4119",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5214"
+      ]
     },
     {
       "name": "Guy Pinhas",
       "targetId": "5323",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5214"
+      ]
     },
     {
       "name": "Brian Tilse",
       "targetId": "5324",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5215"
+      ]
     },
     {
       "name": "Jimmy Wood",
       "targetId": "5325",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5215"
+      ]
     }
   ]
 }

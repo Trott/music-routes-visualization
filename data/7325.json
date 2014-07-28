@@ -1,11 +1,38 @@
 {
   "source": "Michael Feldstein",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7658",
+      "names": [
+        "College Town"
+      ],
+      "releases": [
+        {
+          "_id": "1521",
+          "names": [
+            "Mind At Large"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1168",
+          "names": [
+            "Joel Godfrey Primer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joel Godfrey Primer",
       "targetId": "7323",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7658"
+      ]
     }
   ]
 }

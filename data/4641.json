@@ -1,56 +1,209 @@
 {
   "source": "Per Lindvall",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "4498",
+      "names": [
+        "Zvampen"
+      ],
+      "releases": [
+        {
+          "_id": "902",
+          "names": [
+            "Zvampen (7\" single)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "710",
+          "names": [
+            "Electric Banana Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4499",
+      "names": [
+        "Storebror"
+      ],
+      "releases": [
+        {
+          "_id": "902",
+          "names": [
+            "Zvampen (7\" single)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "710",
+          "names": [
+            "Electric Banana Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6612",
+      "names": [
+        "Velvet"
+      ],
+      "releases": [
+        {
+          "_id": "1320",
+          "names": [
+            "Minor Earth Major Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1022",
+          "names": [
+            "a-ha"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6613",
+      "names": [
+        "Barely Hanging On"
+      ],
+      "releases": [
+        {
+          "_id": "1320",
+          "names": [
+            "Minor Earth Major Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1022",
+          "names": [
+            "a-ha"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6615",
+      "names": [
+        "Mary Ellen Makes The Moment Count"
+      ],
+      "releases": [
+        {
+          "_id": "1320",
+          "names": [
+            "Minor Earth Major Sky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1022",
+          "names": [
+            "a-ha"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Janne Schaffer",
       "targetId": "2902",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Tommy Cassemar",
       "targetId": "4640",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Peter Ljung",
       "targetId": "4642",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Klasse Möllberg",
       "targetId": "4643",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Lasse Åberg",
       "targetId": "4644",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4498",
+        "4499"
+      ]
     },
     {
       "name": "Sven Lindvall",
       "targetId": "6236",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6615"
+      ]
     },
     {
       "name": "Morten Harket",
       "targetId": "6454",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6612",
+        "6613",
+        "6615"
+      ]
     },
     {
       "name": "Magne Furuholmen",
       "targetId": "6455",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6612",
+        "6613",
+        "6615"
+      ]
     },
     {
       "name": "Paul Waaktaar-Savoy",
       "targetId": "6456",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6612",
+        "6613",
+        "6615"
+      ]
     },
     {
       "name": "Simone Larsen",
       "targetId": "6458",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6612"
+      ]
     }
   ]
 }

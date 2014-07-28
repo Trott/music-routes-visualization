@@ -1,26 +1,137 @@
 {
   "source": "Baby Gerry",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "9481",
+      "names": [
+        "Everything Will B-Fine"
+      ],
+      "releases": [
+        {
+          "_id": "1828",
+          "names": [
+            "Spanish Fly"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1418",
+          "names": [
+            "Lisa Lisa & Cult Jam"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9483",
+      "names": [
+        "A Face in The Crowd"
+      ],
+      "releases": [
+        {
+          "_id": "1828",
+          "names": [
+            "Spanish Fly"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1418",
+          "names": [
+            "Lisa Lisa & Cult Jam"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9486",
+      "names": [
+        "A Fool Is Born Everyday"
+      ],
+      "releases": [
+        {
+          "_id": "1828",
+          "names": [
+            "Spanish Fly"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1418",
+          "names": [
+            "Lisa Lisa & Cult Jam"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9487",
+      "names": [
+        "Playing With Fire"
+      ],
+      "releases": [
+        {
+          "_id": "1828",
+          "names": [
+            "Spanish Fly"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1418",
+          "names": [
+            "Lisa Lisa & Cult Jam"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Lisa",
       "targetId": "8818",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9481",
+        "9483",
+        "9486",
+        "9487"
+      ]
     },
     {
       "name": "Spanador",
       "targetId": "8819",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9481",
+        "9483",
+        "9486",
+        "9487"
+      ]
     },
     {
       "name": "Mike Hughes",
       "targetId": "8820",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9481",
+        "9483",
+        "9486",
+        "9487"
+      ]
     },
     {
       "name": "Curt-T-T",
       "targetId": "8822",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9483"
+      ]
     }
   ]
 }

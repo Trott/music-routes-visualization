@@ -1,21 +1,99 @@
 {
   "source": "Rick Springfield",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7597",
+      "names": [
+        "Broken Wings"
+      ],
+      "releases": [
+        {
+          "_id": "1501",
+          "names": [
+            "The Day After Yesterday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1153",
+          "names": [
+            "Rick Springfield"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12746",
+      "names": [
+        "Stand Up For Love"
+      ],
+      "releases": [
+        {
+          "_id": "2291",
+          "names": [
+            "download from Rick Springfield's web site"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1153",
+          "names": [
+            "Rick Springfield"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12752",
+      "names": [
+        "Haven't I Been Good To You?"
+      ],
+      "releases": [
+        {
+          "_id": "1501",
+          "names": [
+            "The Day After Yesterday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1153",
+          "names": [
+            "Rick Springfield"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12746",
+        "12752"
+      ]
     },
     {
       "name": "Richard Page",
       "targetId": "2531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7597"
+      ]
     },
     {
       "name": "John Lowery",
       "targetId": "5314",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7597"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Supawoman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6850",
+      "names": [
+        "Keep On Pushing"
+      ],
+      "releases": [
+        {
+          "_id": "1364",
+          "names": [
+            "http://www.myspace.com/tuffjamproductions"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1052",
+          "names": [
+            "Fully Loaded"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Todd Edwards",
       "targetId": "5946",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6850"
+      ]
     },
     {
       "name": "Karl \"Tuff Enuff\" Brown",
       "targetId": "6693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6850"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Mark Bryan",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12689",
+      "names": [
+        "Hold My Hand"
+      ],
+      "releases": [
+        {
+          "_id": "2265",
+          "names": [
+            "Cracked Rear View"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1641",
+          "names": [
+            "Hootie & The Blowfish"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Crosby",
       "targetId": "511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12689"
+      ]
     },
     {
       "name": "Darius Rucker",
       "targetId": "6722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12689"
+      ]
     },
     {
       "name": "Jim \"Soni\" Sonefeld",
       "targetId": "10335",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12689"
+      ]
     },
     {
       "name": "Dean Felber",
       "targetId": "10336",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12689"
+      ]
     }
   ]
 }

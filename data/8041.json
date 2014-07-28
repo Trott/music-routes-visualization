@@ -1,16 +1,46 @@
 {
   "source": "Margaret Leng Tan",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3420",
+      "names": [
+        "I've Got New York"
+      ],
+      "releases": [
+        {
+          "_id": "698",
+          "names": [
+            "Hyacinths & Thistles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3420"
+      ]
     },
     {
       "name": "Melanie",
       "targetId": "3604",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3420"
+      ]
     }
   ]
 }

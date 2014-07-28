@@ -1,31 +1,197 @@
 {
   "source": "Blair Thornton",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "10775",
+      "names": [
+        "You Ain't Seen Nothing Yet"
+      ],
+      "releases": [
+        {
+          "_id": "2057",
+          "names": [
+            "The 70's - 1974  -  Back In The Groove CD 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10797",
+      "names": [
+        "Roll On Down The High Way"
+      ],
+      "releases": [
+        {
+          "_id": "2060",
+          "names": [
+            "The 70's - 1975 - CD 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12723",
+      "names": [
+        "Amelia Earhart"
+      ],
+      "releases": [
+        {
+          "_id": "2280",
+          "names": [
+            "Rock N' Roll Nights"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12724",
+      "names": [
+        "Here She Comes Again"
+      ],
+      "releases": [
+        {
+          "_id": "2280",
+          "names": [
+            "Rock N' Roll Nights"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12725",
+      "names": [
+        "Jamaica"
+      ],
+      "releases": [
+        {
+          "_id": "2280",
+          "names": [
+            "Rock N' Roll Nights"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12726",
+      "names": [
+        "Rock And Roll Hell"
+      ],
+      "releases": [
+        {
+          "_id": "2280",
+          "names": [
+            "Rock N' Roll Nights"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1569",
+          "names": [
+            "Bachman-Turner Overdrive"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12723",
+        "12724",
+        "12725",
+        "12726"
+      ]
     },
     {
       "name": "Randy Bachman",
       "targetId": "3490",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10775",
+        "10797"
+      ]
     },
     {
       "name": "C.F. Turner",
       "targetId": "9552",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "10775",
+        "10797",
+        "12723",
+        "12724",
+        "12725",
+        "12726"
+      ]
     },
     {
       "name": "Rob Bachman",
       "targetId": "9554",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "10775",
+        "10797",
+        "12723",
+        "12724",
+        "12725",
+        "12726"
+      ]
     },
     {
       "name": "Jim Clench",
       "targetId": "10361",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12723",
+        "12724",
+        "12725",
+        "12726"
+      ]
     }
   ]
 }

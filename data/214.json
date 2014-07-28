@@ -1,31 +1,107 @@
 {
   "source": "John Deacon",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "36",
+      "names": [
+        "Under Pressure"
+      ],
+      "releases": [
+        {
+          "_id": "30",
+          "names": [
+            "The Best Of 1980/1987"
+          ]
+        },
+        {
+          "_id": "2041",
+          "names": [
+            "80s Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "28",
+          "names": [
+            "Queen"
+          ]
+        },
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5435",
+      "names": [
+        "Don't Lose Your Head"
+      ],
+      "releases": [
+        {
+          "_id": "1075",
+          "names": [
+            "A Kind Of Magic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "28",
+          "names": [
+            "Queen"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "36"
+      ]
     },
     {
       "name": "Freddie Mercury",
       "targetId": "212",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "36",
+        "5435"
+      ]
     },
     {
       "name": "Brian May",
       "targetId": "213",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "36",
+        "5435"
+      ]
     },
     {
       "name": "Roger Taylor",
       "targetId": "215",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "36",
+        "5435"
+      ]
     },
     {
       "name": "Joan Armatrading",
       "targetId": "5518",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5435"
+      ]
     }
   ]
 }

@@ -1,146 +1,387 @@
 {
   "source": "Freddie Green",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "2253",
+      "names": [
+        "Too Close For Comfort"
+      ],
+      "releases": [
+        {
+          "_id": "559",
+          "names": [
+            "One O'Clock Jump"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "426",
+          "names": [
+            "Ella Fitzgerald, Count Basie & Joe Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7497",
+      "names": [
+        "He's Funny That Way"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8709",
+      "names": [
+        "Getting Some Fun Out Of Life"
+      ],
+      "releases": [
+        {
+          "_id": "1670",
+          "names": [
+            "Lady Day: The Complete Billie Holiday On Columbia 1933-1944"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8710",
+      "names": [
+        "Who Wants Love?"
+      ],
+      "releases": [
+        {
+          "_id": "1670",
+          "names": [
+            "Lady Day: The Complete Billie Holiday On Columbia 1933-1944"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8711",
+      "names": [
+        "Trav'lin' All Alone"
+      ],
+      "releases": [
+        {
+          "_id": "1670",
+          "names": [
+            "Lady Day: The Complete Billie Holiday On Columbia 1933-1944"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8712",
+      "names": [
+        "He's Funny That Way"
+      ],
+      "releases": [
+        {
+          "_id": "1670",
+          "names": [
+            "Lady Day: The Complete Billie Holiday On Columbia 1933-1944"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ella Fitzgerald",
       "targetId": "1786",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Ray Brown",
       "targetId": "1925",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7497"
+      ]
     },
     {
       "name": "Oscar Peterson",
       "targetId": "2491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7497"
+      ]
     },
     {
       "name": "Billie Holiday",
       "targetId": "2704",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7497",
+        "8709",
+        "8710",
+        "8711",
+        "8712"
+      ]
     },
     {
       "name": "Count Basie",
       "targetId": "2745",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Joe Williams",
       "targetId": "2746",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Wendell Culley",
       "targetId": "2747",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Thad Jones",
       "targetId": "2748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Reunald Jones",
       "targetId": "2749",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Joe Newman",
       "targetId": "2750",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2253",
+        "7497"
+      ]
     },
     {
       "name": "Henry Coker",
       "targetId": "2751",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Bill Hughes",
       "targetId": "2752",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Benny Powell",
       "targetId": "2753",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Frank Foster",
       "targetId": "2754",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Charlie Fowlkes",
       "targetId": "2755",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Bill Graham",
       "targetId": "2756",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Frank Wess",
       "targetId": "2758",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Sonny Payne",
       "targetId": "2759",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Marshall Royal",
       "targetId": "2760",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Eddie Jones",
       "targetId": "2761",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Gus Johnson",
       "targetId": "7162",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7497"
+      ]
     },
     {
       "name": "Paul Quinichette",
       "targetId": "7163",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7497"
+      ]
     },
     {
       "name": "Claude Thornhill",
       "targetId": "8082",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8709",
+        "8710",
+        "8711",
+        "8712"
+      ]
     },
     {
       "name": "Buck Clayton",
       "targetId": "8088",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8709",
+        "8710",
+        "8711",
+        "8712"
+      ]
     },
     {
       "name": "Buster Bailey",
       "targetId": "8089",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8709",
+        "8710",
+        "8711",
+        "8712"
+      ]
     },
     {
       "name": "Lester Young",
       "targetId": "8090",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8709",
+        "8710",
+        "8711",
+        "8712"
+      ]
     },
     {
       "name": "Walter Page",
       "targetId": "8091",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8709",
+        "8710",
+        "8711",
+        "8712"
+      ]
     },
     {
       "name": "Jo Jones",
       "targetId": "8092",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8709",
+        "8710",
+        "8711",
+        "8712"
+      ]
     }
   ]
 }

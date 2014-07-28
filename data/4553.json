@@ -1,36 +1,103 @@
 {
   "source": "Eddie Minnifield",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4439",
+      "names": [
+        "A Love Bizarre"
+      ],
+      "releases": [
+        {
+          "_id": "889",
+          "names": [
+            "Romance 1600"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "701",
+          "names": [
+            "Sheila E."
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4440",
+      "names": [
+        "Toy Box"
+      ],
+      "releases": [
+        {
+          "_id": "889",
+          "names": [
+            "Romance 1600"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "701",
+          "names": [
+            "Sheila E."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sheila E.",
       "targetId": "51",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4439",
+        "4440"
+      ]
     },
     {
       "name": "Prince",
       "targetId": "712",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4439",
+        "4440"
+      ]
     },
     {
       "name": "Juan Escovedo",
       "targetId": "3393",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4439"
+      ]
     },
     {
       "name": "Susie Davis",
       "targetId": "4552",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4439"
+      ]
     },
     {
       "name": "Steph Birnbaum",
       "targetId": "4554",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4439",
+        "4440"
+      ]
     },
     {
       "name": "Mico Weaver",
       "targetId": "4555",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4440"
+      ]
     }
   ]
 }

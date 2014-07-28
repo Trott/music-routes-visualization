@@ -1,46 +1,162 @@
 {
   "source": "Eminem",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "4431",
+      "names": [
+        "Bitch Please II"
+      ],
+      "releases": [
+        {
+          "_id": "887",
+          "names": [
+            "The Marshall Mathers LP"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "700",
+          "names": [
+            "Eminem"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6646",
+      "names": [
+        "Old Time's Sake"
+      ],
+      "releases": [
+        {
+          "_id": "1329",
+          "names": [
+            "Relapse"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "700",
+          "names": [
+            "Eminem"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6647",
+      "names": [
+        "Crack A Bottle"
+      ],
+      "releases": [
+        {
+          "_id": "1329",
+          "names": [
+            "Relapse"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "700",
+          "names": [
+            "Eminem"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8825",
+      "names": [
+        "Forever"
+      ],
+      "releases": [
+        {
+          "_id": "1692",
+          "names": [
+            "More Than A Game"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1302",
+          "names": [
+            "Drake"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4431"
+      ]
     },
     {
       "name": "Dr. Dre",
       "targetId": "2799",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4431",
+        "6646",
+        "6647"
+      ]
     },
     {
       "name": "Lil Wayne",
       "targetId": "3859",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8825"
+      ]
     },
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8825"
+      ]
     },
     {
       "name": "50 Cent",
       "targetId": "4040",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6647"
+      ]
     },
     {
       "name": "Xzibit",
       "targetId": "4550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4431"
+      ]
     },
     {
       "name": "Nate Dogg",
       "targetId": "4551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4431"
+      ]
     },
     {
       "name": "Drake",
       "targetId": "8201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8825"
+      ]
     }
   ]
 }

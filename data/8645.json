@@ -1,16 +1,46 @@
 {
   "source": "Jake Shapiro",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9235",
+      "names": [
+        "Perfect Day"
+      ],
+      "releases": [
+        {
+          "_id": "1781",
+          "names": [
+            "Blender"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1377",
+          "names": [
+            "Collective Soul"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9235"
+      ]
     },
     {
       "name": "Ed Roland",
       "targetId": "8644",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9235"
+      ]
     }
   ]
 }

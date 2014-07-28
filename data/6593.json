@@ -1,216 +1,688 @@
 {
   "source": "Grace Jones",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "6722",
+      "names": [
+        "Watching"
+      ],
+      "releases": [
+        {
+          "_id": "1346",
+          "names": [
+            "Quick Step and Side Kick"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1041",
+          "names": [
+            "Thompson Twins"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6723",
+      "names": [
+        "Within The Lost World"
+      ],
+      "releases": [
+        {
+          "_id": "1347",
+          "names": [
+            "Requiem For The Americas: Songs From The Lost World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1042",
+          "names": [
+            "Jonathan Elias"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6730",
+      "names": [
+        "The Chant Movement"
+      ],
+      "releases": [
+        {
+          "_id": "1347",
+          "names": [
+            "Requiem For The Americas: Songs From The Lost World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1042",
+          "names": [
+            "Jonathan Elias"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6734",
+      "names": [
+        "I'm Not Perfect (But I'm Perfect For You)"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6735",
+      "names": [
+        "Hollywood Liar"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6736",
+      "names": [
+        "Chan Hitchhikes To Shanghai"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6737",
+      "names": [
+        "Victor Should Have Been A Jazz Musician"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6738",
+      "names": [
+        "Party Girl"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6739",
+      "names": [
+        "Crush"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6740",
+      "names": [
+        "Barefoot In Beverly Hills"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6741",
+      "names": [
+        "Scary But Fun"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6742",
+      "names": [
+        "While Collar Crime"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6743",
+      "names": [
+        "Inside Story"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Taylor",
       "targetId": "101",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Nick Rhodes",
       "targetId": "130",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Tony Levin",
       "targetId": "269",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6723",
+        "6730"
+      ]
     },
     {
       "name": "Jeff Porcaro",
       "targetId": "404",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6723"
+      ]
     },
     {
       "name": "Jon Anderson",
       "targetId": "536",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6723"
+      ]
     },
     {
       "name": "Bruce Woolley",
       "targetId": "860",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "6734",
+        "6735",
+        "6736",
+        "6737",
+        "6738",
+        "6739",
+        "6740",
+        "6741",
+        "6742",
+        "6743"
+      ]
     },
     {
       "name": "Curtis King",
       "targetId": "1032",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6734",
+        "6738",
+        "6739",
+        "6740",
+        "6741",
+        "6743"
+      ]
     },
     {
       "name": "Stan Harrison",
       "targetId": "1248",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6735",
+        "6737",
+        "6742",
+        "6743"
+      ]
     },
     {
       "name": "Warren Cuccurullo",
       "targetId": "1339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6723"
+      ]
     },
     {
       "name": "Lenny Pickett",
       "targetId": "1428",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6735",
+        "6737",
+        "6742",
+        "6743"
+      ]
     },
     {
       "name": "Nile Rodgers",
       "targetId": "2204",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "6734",
+        "6735",
+        "6736",
+        "6737",
+        "6738",
+        "6739",
+        "6740",
+        "6741",
+        "6742",
+        "6743"
+      ]
     },
     {
       "name": "Steve Elson",
       "targetId": "4017",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6735",
+        "6737",
+        "6742",
+        "6743"
+      ]
     },
     {
       "name": "Mac Gollehon",
       "targetId": "4019",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6735",
+        "6737",
+        "6742",
+        "6743"
+      ]
     },
     {
       "name": "Cindy Mizelle",
       "targetId": "4377",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6739",
+        "6740"
+      ]
     },
     {
       "name": "Brenda White King",
       "targetId": "4378",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6734",
+        "6738",
+        "6739",
+        "6740",
+        "6741",
+        "6743"
+      ]
     },
     {
       "name": "Monte Brown",
       "targetId": "6594",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6722"
+      ]
     },
     {
       "name": "Joe Leeway",
       "targetId": "6595",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6722"
+      ]
     },
     {
       "name": "Tom Bailey",
       "targetId": "6596",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6722"
+      ]
     },
     {
       "name": "Alannah Currie",
       "targetId": "6597",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6722"
+      ]
     },
     {
       "name": "Clifford Lane",
       "targetId": "6598",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6723"
+      ]
     },
     {
       "name": "Gary Barlough",
       "targetId": "6599",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6723",
+        "6730"
+      ]
     },
     {
       "name": "Jonathan Elias",
       "targetId": "6600",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6723",
+        "6730"
+      ]
     },
     {
       "name": "Gordon Gottlieb",
       "targetId": "6601",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6723"
+      ]
     },
     {
       "name": "Sherman Foote",
       "targetId": "6602",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6723",
+        "6730"
+      ]
     },
     {
       "name": "Belen Pena Magena",
       "targetId": "6608",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Jesus Ibanez Ramiezz",
       "targetId": "6609",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Lazaro Arvizu",
       "targetId": "6610",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Pedro Ruiz",
       "targetId": "6611",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Sergio Ruiz",
       "targetId": "6612",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Harvey Estrin",
       "targetId": "6618",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Chip Jenkins",
       "targetId": "6619",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Liam Ó Maonlai",
       "targetId": "6620",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6730"
+      ]
     },
     {
       "name": "Terry G.",
       "targetId": "6624",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6734",
+        "6738",
+        "6739",
+        "6740",
+        "6741",
+        "6743"
+      ]
     },
     {
       "name": "James Farber",
       "targetId": "6625",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6734",
+        "6738",
+        "6739"
+      ]
     },
     {
       "name": "Philippe Saisse",
       "targetId": "6626",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "6734",
+        "6739",
+        "6740",
+        "6741",
+        "6742",
+        "6743"
+      ]
     },
     {
       "name": "Scott Ansell",
       "targetId": "6627",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6736"
+      ]
     },
     {
       "name": "Diane Garisto",
       "targetId": "6628",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6739",
+        "6740"
+      ]
     },
     {
       "name": "Felicia Collins",
       "targetId": "6629",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6739"
+      ]
     },
     {
       "name": "Christian Jones",
       "targetId": "6630",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6743"
+      ]
     },
     {
       "name": "Clarissa Dane",
       "targetId": "6631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6743"
+      ]
     },
     {
       "name": "Randall Coe",
       "targetId": "6632",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6743"
+      ]
     },
     {
       "name": "Steven Gildenberg",
       "targetId": "6633",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6743"
+      ]
     }
   ]
 }

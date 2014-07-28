@@ -1,16 +1,46 @@
 {
   "source": "Anna McGarrigle",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6753",
+      "names": [
+        "Willie Moore"
+      ],
+      "releases": [
+        {
+          "_id": "1351",
+          "names": [
+            "Ring Them Bells"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "938",
+          "names": [
+            "Joan Baez"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joan Baez",
       "targetId": "5959",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6753"
+      ]
     },
     {
       "name": "Kate McGarrigle",
       "targetId": "6642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6753"
+      ]
     }
   ]
 }

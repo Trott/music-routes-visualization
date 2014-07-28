@@ -1,51 +1,182 @@
 {
   "source": "Alvin Stoller",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2236",
+      "names": [
+        "Easy To Love"
+      ],
+      "releases": [
+        {
+          "_id": "543",
+          "names": [
+            "Night And Day: The Cole Porter Songbook"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7493",
+      "names": [
+        "A Foggy Day"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7495",
+      "names": [
+        "Comes Love"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7496",
+      "names": [
+        "Stars Fell On Alabama"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2236",
+        "7493",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Ray Brown",
       "targetId": "1925",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2236"
+      ]
     },
     {
       "name": "Oscar Peterson",
       "targetId": "2491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2236"
+      ]
     },
     {
       "name": "Billie Holiday",
       "targetId": "2704",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2236",
+        "7493",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Charlie Shavers",
       "targetId": "2705",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2236"
+      ]
     },
     {
       "name": "Harry \"Sweets\" Edison",
       "targetId": "7155",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7493",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Ben Webster",
       "targetId": "7156",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7493",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Jimmy Rowles",
       "targetId": "7157",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7493",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Red Mitchell",
       "targetId": "7158",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7493",
+        "7495",
+        "7496"
+      ]
     }
   ]
 }

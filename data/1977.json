@@ -1,26 +1,87 @@
 {
   "source": "Juanito Vazquez",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1741",
+      "names": [
+        "Lighten Up"
+      ],
+      "releases": [
+        {
+          "_id": "396",
+          "names": [
+            "Check Your Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "207",
+          "names": [
+            "The Beastie Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1751",
+      "names": [
+        "Groove Holmes"
+      ],
+      "releases": [
+        {
+          "_id": "396",
+          "names": [
+            "Check Your Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "207",
+          "names": [
+            "The Beastie Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike D",
       "targetId": "1458",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1741",
+        "1751"
+      ]
     },
     {
       "name": "Ad-Rock",
       "targetId": "1459",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1741",
+        "1751"
+      ]
     },
     {
       "name": "MCA",
       "targetId": "1460",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1741",
+        "1751"
+      ]
     },
     {
       "name": "Arturo \"Ture\" Oliva",
       "targetId": "1976",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1741"
+      ]
     }
   ]
 }

@@ -1,31 +1,114 @@
 {
   "source": "Lil Jon",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7655",
+      "names": [
+        "Shots"
+      ],
+      "releases": [
+        {
+          "_id": "1519",
+          "names": [
+            "Party Rock"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1166",
+          "names": [
+            "LMFAO"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8765",
+      "names": [
+        "Do You Remember"
+      ],
+      "releases": [
+        {
+          "_id": "1681",
+          "names": [
+            "All Or Nothing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1284",
+          "names": [
+            "Jay Sean"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9035",
+      "names": [
+        "1800"
+      ],
+      "releases": [
+        {
+          "_id": "1728",
+          "names": [
+            "Malice n Wonderland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "171",
+          "names": [
+            "Snoop Dogg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9035"
+      ]
     },
     {
       "name": "Redfoo",
       "targetId": "7314",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7655"
+      ]
     },
     {
       "name": "Sky Blu",
       "targetId": "7315",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7655"
+      ]
     },
     {
       "name": "Jay Sean",
       "targetId": "8130",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8765"
+      ]
     },
     {
       "name": "Sean Paul",
       "targetId": "8131",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8765"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Dave Arbus",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1757",
+      "names": [
+        "Baba O'Riley"
+      ],
+      "releases": [
+        {
+          "_id": "397",
+          "names": [
+            "Who's Next"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "285",
+          "names": [
+            "The Who"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Roger Daltrey",
       "targetId": "1982",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1757"
+      ]
     },
     {
       "name": "John Entwistle",
       "targetId": "1983",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1757"
+      ]
     },
     {
       "name": "Keith Moon",
       "targetId": "1984",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1757"
+      ]
     },
     {
       "name": "Pete Townshend",
       "targetId": "1985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1757"
+      ]
     }
   ]
 }

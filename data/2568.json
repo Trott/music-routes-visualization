@@ -1,21 +1,54 @@
 {
   "source": "John Thomassie",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2125",
+      "names": [
+        "Heartattack And Vine"
+      ],
+      "releases": [
+        {
+          "_id": "501",
+          "names": [
+            "Heartattack And Vine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Plas Johnson",
       "targetId": "1488",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2125"
+      ]
     },
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2125"
+      ]
     },
     {
       "name": "Larry Taylor",
       "targetId": "2567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2125"
+      ]
     }
   ]
 }

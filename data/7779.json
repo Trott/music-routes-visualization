@@ -1,31 +1,93 @@
 {
   "source": "Kenny Wheeler",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8199",
+      "names": [
+        "Laughter & Forgetting"
+      ],
+      "releases": [
+        {
+          "_id": "1557",
+          "names": [
+            "Gone To Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1191",
+          "names": [
+            "David Sylvian"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8200",
+      "names": [
+        "Before The Bullfight"
+      ],
+      "releases": [
+        {
+          "_id": "1557",
+          "names": [
+            "Gone To Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1191",
+          "names": [
+            "David Sylvian"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Richard Barbieri",
       "targetId": "3539",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8200"
+      ]
     },
     {
       "name": "David Sylvian",
       "targetId": "4964",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8199",
+        "8200"
+      ]
     },
     {
       "name": "Steve Jansen",
       "targetId": "4965",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8200"
+      ]
     },
     {
       "name": "Bill Nelson",
       "targetId": "7573",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8200"
+      ]
     },
     {
       "name": "John Taylor",
       "targetId": "7780",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8199"
+      ]
     }
   ]
 }

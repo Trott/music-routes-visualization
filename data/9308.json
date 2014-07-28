@@ -1,36 +1,101 @@
 {
   "source": "Pamelia Kurstin",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10171",
+      "names": [
+        "Green"
+      ],
+      "releases": [
+        {
+          "_id": "1954",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1512",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10172",
+      "names": [
+        "The Clapper"
+      ],
+      "releases": [
+        {
+          "_id": "1954",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1512",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Yuval Gabay",
       "targetId": "38",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10172"
+      ]
     },
     {
       "name": "David Ralicke",
       "targetId": "5931",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10171"
+      ]
     },
     {
       "name": "Greg Kurstin",
       "targetId": "9044",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10171",
+        "10172"
+      ]
     },
     {
       "name": "Yogi",
       "targetId": "9301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10171"
+      ]
     },
     {
       "name": "Gabrial McNair",
       "targetId": "9302",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10171"
+      ]
     },
     {
       "name": "Brian Reitzel",
       "targetId": "9305",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10171"
+      ]
     }
   ]
 }

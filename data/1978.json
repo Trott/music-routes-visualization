@@ -1,21 +1,54 @@
 {
   "source": "Drew Lawrence",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1742",
+      "names": [
+        "Finger Lickin' Good"
+      ],
+      "releases": [
+        {
+          "_id": "396",
+          "names": [
+            "Check Your Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "207",
+          "names": [
+            "The Beastie Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike D",
       "targetId": "1458",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1742"
+      ]
     },
     {
       "name": "Ad-Rock",
       "targetId": "1459",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1742"
+      ]
     },
     {
       "name": "MCA",
       "targetId": "1460",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1742"
+      ]
     }
   ]
 }

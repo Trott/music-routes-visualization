@@ -1,36 +1,105 @@
 {
   "source": "Tim Henson",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "702",
+      "names": [
+        "Killin' Time"
+      ],
+      "releases": [
+        {
+          "_id": "246",
+          "names": [
+            "Izitso"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "170",
+          "names": [
+            "Cat Stevens"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "709",
+      "names": [
+        "Child For A Day"
+      ],
+      "releases": [
+        {
+          "_id": "246",
+          "names": [
+            "Izitso"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "170",
+          "names": [
+            "Cat Stevens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Cat Stevens",
       "targetId": "1088",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "702",
+        "709"
+      ]
     },
     {
       "name": "Jimmy Johnson",
       "targetId": "1095",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "702"
+      ]
     },
     {
       "name": "David Hood",
       "targetId": "1096",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "702",
+        "709"
+      ]
     },
     {
       "name": "Roger Hawkins",
       "targetId": "1097",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "702",
+        "709"
+      ]
     },
     {
       "name": "Pete Carr",
       "targetId": "1098",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "702",
+        "709"
+      ]
     },
     {
       "name": "Barry Beckett",
       "targetId": "1099",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "702",
+        "709"
+      ]
     }
   ]
 }

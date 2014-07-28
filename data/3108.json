@@ -1,16 +1,46 @@
 {
   "source": "Lucas Fox",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2639",
+      "names": [
+        "Lost Johnny"
+      ],
+      "releases": [
+        {
+          "_id": "621",
+          "names": [
+            "On Parole"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "484",
+          "names": [
+            "Motörhead"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lemmy Kilmister",
       "targetId": "2550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2639"
+      ]
     },
     {
       "name": "Larry Wallis",
       "targetId": "2940",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2639"
+      ]
     }
   ]
 }

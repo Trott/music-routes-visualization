@@ -1,31 +1,92 @@
 {
   "source": "Nate Wooley",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3729",
+      "names": [
+        "Untitled"
+      ],
+      "releases": [
+        {
+          "_id": "746",
+          "names": [
+            "Violent Forms Of Laughter Part 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "578",
+          "names": [
+            "Mêlée"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3730",
+      "names": [
+        "Appointment With Disappointment"
+      ],
+      "releases": [
+        {
+          "_id": "747",
+          "names": [
+            "Wisps Of An Unknown Face"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "579",
+          "names": [
+            "The Stephen Gauci Quartet"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Hall",
       "targetId": "3826",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3729"
+      ]
     },
     {
       "name": "Hans Buetow",
       "targetId": "3827",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3729"
+      ]
     },
     {
       "name": "Ken Filiano",
       "targetId": "3830",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3730"
+      ]
     },
     {
       "name": "Lou Grassi",
       "targetId": "3831",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3730"
+      ]
     },
     {
       "name": "Stephen Gauci",
       "targetId": "3832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3730"
+      ]
     }
   ]
 }

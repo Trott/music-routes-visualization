@@ -1,51 +1,201 @@
 {
   "source": "Dan McIntosh",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "13206",
+      "names": [
+        "Snowflake"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13207",
+      "names": [
+        "Snowed In At Wheeler Street"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13209",
+      "names": [
+        "Misty"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13210",
+      "names": [
+        "Wild Man"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13211",
+      "names": [
+        "50 Words For Snow"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13207"
+      ]
     },
     {
       "name": "Danny Thompson",
       "targetId": "903",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13209"
+      ]
     },
     {
       "name": "Steve Gadd",
       "targetId": "1262",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "13206",
+        "13207",
+        "13209",
+        "13210",
+        "13211"
+      ]
     },
     {
       "name": "Kate Bush",
       "targetId": "2197",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "13206",
+        "13207",
+        "13209",
+        "13210",
+        "13211"
+      ]
     },
     {
       "name": "Andrew Fairweather-Low",
       "targetId": "3184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13210"
+      ]
     },
     {
       "name": "John Giblin",
       "targetId": "8312",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13207",
+        "13210",
+        "13211"
+      ]
     },
     {
       "name": "Albert McIntosh",
       "targetId": "10727",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13206"
+      ]
     },
     {
       "name": "Del Palmer",
       "targetId": "10728",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13206",
+        "13210"
+      ]
     },
     {
       "name": "Stephen Fry",
       "targetId": "10732",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13211"
+      ]
     }
   ]
 }

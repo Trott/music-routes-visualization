@@ -1,31 +1,70 @@
 {
   "source": "Larry Blackmon",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8646",
+      "names": [
+        "Candy"
+      ],
+      "releases": [
+        {
+          "_id": "1661",
+          "names": [
+            "Big Willie Style"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1269",
+          "names": [
+            "Will Smith"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Will Smith",
       "targetId": "5877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8646"
+      ]
     },
     {
       "name": "Lanar \"Kern\" Brantley",
       "targetId": "8046",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8646"
+      ]
     },
     {
       "name": "David Foreman",
       "targetId": "8048",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8646"
+      ]
     },
     {
       "name": "Cameo",
       "targetId": "8052",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8646"
+      ]
     },
     {
       "name": "Keith Winfield",
       "targetId": "8054",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8646"
+      ]
     }
   ]
 }

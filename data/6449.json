@@ -1,16 +1,46 @@
 {
   "source": "Robyn Hitchcock",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6594",
+      "names": [
+        "An Interlude"
+      ],
+      "releases": [
+        {
+          "_id": "1319",
+          "names": [
+            "The Hazards Of Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1021",
+          "names": [
+            "The Decemberists"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Funk",
       "targetId": "6377",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6594"
+      ]
     },
     {
       "name": "Colin Meloy",
       "targetId": "6444",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6594"
+      ]
     }
   ]
 }

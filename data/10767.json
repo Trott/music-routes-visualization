@@ -1,21 +1,91 @@
 {
   "source": "Michio Kurihara",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13268",
+      "names": [
+        "Fuzzy Reactor"
+      ],
+      "releases": [
+        {
+          "_id": "2398",
+          "names": [
+            "Rainbow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1705",
+          "names": [
+            "Boris"
+          ]
+        },
+        {
+          "_id": "1706",
+          "names": [
+            "Michio Kurihara"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13269",
+      "names": [
+        "Rainbow"
+      ],
+      "releases": [
+        {
+          "_id": "2398",
+          "names": [
+            "Rainbow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1705",
+          "names": [
+            "Boris"
+          ]
+        },
+        {
+          "_id": "1706",
+          "names": [
+            "Michio Kurihara"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Wata",
       "targetId": "10764",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13268",
+        "13269"
+      ]
     },
     {
       "name": "Atsuo",
       "targetId": "10765",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13268",
+        "13269"
+      ]
     },
     {
       "name": "Takeshi",
       "targetId": "10766",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13268",
+        "13269"
+      ]
     }
   ]
 }

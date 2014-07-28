@@ -1,11 +1,38 @@
 {
   "source": "Peabo Bryson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7941",
+      "names": [
+        "All The Things You Are"
+      ],
+      "releases": [
+        {
+          "_id": "1560",
+          "names": [
+            "It Had To Be You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1194",
+          "names": [
+            "Peter Nero"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Peter Nero",
       "targetId": "7596",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7941"
+      ]
     }
   ]
 }

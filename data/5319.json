@@ -1,26 +1,88 @@
 {
   "source": "Dan St. Jacques",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5198",
+      "names": [
+        "Why I Live"
+      ],
+      "releases": [
+        {
+          "_id": "1039",
+          "names": [
+            "How Little Will It Take"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "823",
+          "names": [
+            "Landed"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5199",
+      "names": [
+        "Hit The Land"
+      ],
+      "releases": [
+        {
+          "_id": "1039",
+          "names": [
+            "How Little Will It Take"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "823",
+          "names": [
+            "Landed"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Dwyer",
       "targetId": "5309",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5198",
+        "5199"
+      ]
     },
     {
       "name": "Shawn Greenlee",
       "targetId": "5316",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5198",
+        "5199"
+      ]
     },
     {
       "name": "Joel Kyack",
       "targetId": "5317",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5198",
+        "5199"
+      ]
     },
     {
       "name": "Rick Pelletier",
       "targetId": "5318",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5198",
+        "5199"
+      ]
     }
   ]
 }

@@ -1,31 +1,120 @@
 {
   "source": "Paul Rudolph",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "180",
+      "names": [
+        "Baby's On Fire"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9229",
+      "names": [
+        "Driving Me Backwards"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9234",
+      "names": [
+        "Here Come The Warm Jets"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "180",
+        "9229",
+        "9234"
+      ]
     },
     {
       "name": "Robert Fripp",
       "targetId": "339",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "180",
+        "9229"
+      ]
     },
     {
       "name": "John Wetton",
       "targetId": "527",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "180",
+        "9229"
+      ]
     },
     {
       "name": "Simon King",
       "targetId": "566",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "180",
+        "9229",
+        "9234"
+      ]
     },
     {
       "name": "Marty Simon",
       "targetId": "567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "180"
+      ]
     }
   ]
 }

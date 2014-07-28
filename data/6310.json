@@ -1,81 +1,221 @@
 {
   "source": "Andrea Bocelli",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "6473",
+      "names": [
+        "'O Mare E Tu"
+      ],
+      "releases": [
+        {
+          "_id": "1291",
+          "names": [
+            "Sogno"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "997",
+          "names": [
+            "Andrea Bocelli"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6474",
+      "names": [
+        "The Prayer"
+      ],
+      "releases": [
+        {
+          "_id": "1291",
+          "names": [
+            "Sogno"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "997",
+          "names": [
+            "Andrea Bocelli"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7511",
+      "names": [
+        "All For Love"
+      ],
+      "releases": [
+        {
+          "_id": "1481",
+          "names": [
+            "Pavarotti & Friends 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "148",
+          "names": [
+            "Luciano Pavarotti"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7512",
+      "names": [
+        "Brindisi"
+      ],
+      "releases": [
+        {
+          "_id": "1481",
+          "names": [
+            "Pavarotti & Friends 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "148",
+          "names": [
+            "Luciano Pavarotti"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Céline Dion",
       "targetId": "693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6474"
+      ]
     },
     {
       "name": "Luciano Pavarotti",
       "targetId": "823",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7511"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Dulce Pontes",
       "targetId": "6311",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6473"
+      ]
     },
     {
       "name": "Michele Montefusco",
       "targetId": "6312",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6473"
+      ]
     },
     {
       "name": "Paulo Jorge Santos",
       "targetId": "6313",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6473"
+      ]
     },
     {
       "name": "Ciccio Merolla",
       "targetId": "6314",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6473"
+      ]
     },
     {
       "name": "João Ferreira",
       "targetId": "6315",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6473"
+      ]
     },
     {
       "name": "Andreas Vollenweider",
       "targetId": "7175",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Giorgia",
       "targetId": "7180",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Nancy Gustafson",
       "targetId": "7181",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7511",
+        "7512"
+      ]
     },
     {
       "name": "Tommy Mandel",
       "targetId": "7182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7511"
+      ]
     },
     {
       "name": "Dave Taylor",
       "targetId": "7183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7511"
+      ]
     },
     {
       "name": "Keith Scott",
       "targetId": "7184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7511"
+      ]
     }
   ]
 }

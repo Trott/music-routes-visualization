@@ -1,21 +1,54 @@
 {
   "source": "Stina Nordenstam",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8215",
+      "names": [
+        "Wonderful World"
+      ],
+      "releases": [
+        {
+          "_id": "1603",
+          "names": [
+            "Snow Borne Sorrow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1224",
+          "names": [
+            "Nine Horses"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Sylvian",
       "targetId": "4964",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8215"
+      ]
     },
     {
       "name": "Steve Jansen",
       "targetId": "4965",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8215"
+      ]
     },
     {
       "name": "Keith Lowe",
       "targetId": "7782",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8215"
+      ]
     }
   ]
 }

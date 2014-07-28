@@ -1,16 +1,68 @@
 {
   "source": "Chris Isaak",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9689",
+      "names": [
+        "Breaking Apart"
+      ],
+      "releases": [
+        {
+          "_id": "1857",
+          "names": [
+            "Mr. Lucky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1439",
+          "names": [
+            "Chris Isaak"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9690",
+      "names": [
+        "I Lose My Heart"
+      ],
+      "releases": [
+        {
+          "_id": "1857",
+          "names": [
+            "Mr. Lucky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1439",
+          "names": [
+            "Chris Isaak"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Trisha Yearwood",
       "targetId": "6261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9689"
+      ]
     },
     {
       "name": "Michelle Branch",
       "targetId": "7988",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9690"
+      ]
     }
   ]
 }

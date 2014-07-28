@@ -1,36 +1,103 @@
 {
   "source": "Brian Sperber",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7191",
+      "names": [
+        "Who Said We're Wack?"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7208",
+      "names": [
+        "Incredibad"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andy Samberg",
       "targetId": "6928",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7191",
+        "7208"
+      ]
     },
     {
       "name": "Akiva Schaffer",
       "targetId": "6929",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7191",
+        "7208"
+      ]
     },
     {
       "name": "Jorma Taccone",
       "targetId": "6930",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7191",
+        "7208"
+      ]
     },
     {
       "name": "Chester Tam",
       "targetId": "6932",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7191"
+      ]
     },
     {
       "name": "Matthew Compton",
       "targetId": "6940",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7208"
+      ]
     },
     {
       "name": "James Bairiam",
       "targetId": "6945",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7208"
+      ]
     }
   ]
 }

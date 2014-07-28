@@ -1,61 +1,142 @@
 {
   "source": "Nanette Newman",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1783",
+      "names": [
+        "Country Honk"
+      ],
+      "releases": [
+        {
+          "_id": "399",
+          "names": [
+            "Let It Bleed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1789",
+      "names": [
+        "You Can't Always Get What You Want"
+      ],
+      "releases": [
+        {
+          "_id": "399",
+          "names": [
+            "Let It Bleed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Wyman",
       "targetId": "304",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Mick Jagger",
       "targetId": "305",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1783",
+        "1789"
+      ]
     },
     {
       "name": "Byron Berline",
       "targetId": "456",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1783"
+      ]
     },
     {
       "name": "Al Kooper",
       "targetId": "559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Madeline Bell",
       "targetId": "810",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Doris Troy",
       "targetId": "994",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Charlie Watts",
       "targetId": "1994",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1783"
+      ]
     },
     {
       "name": "Mick Taylor",
       "targetId": "1995",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1783"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1783",
+        "1789"
+      ]
     },
     {
       "name": "Jimmy Miller",
       "targetId": "1997",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     },
     {
       "name": "Rocky Dijon",
       "targetId": "2000",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1789"
+      ]
     }
   ]
 }

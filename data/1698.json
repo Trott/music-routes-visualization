@@ -1,116 +1,340 @@
 {
   "source": "Dallas Good",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "1226",
+      "names": [
+        "Hold On, Hold On"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1230",
+      "names": [
+        "John Saw That Number"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1232",
+      "names": [
+        "Lion's Jaws"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1233",
+      "names": [
+        "Maybe Sparrow"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1235",
+      "names": [
+        "The Needles Has Landed"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4739",
+      "names": [
+        "Veronica Brown"
+      ],
+      "releases": [
+        {
+          "_id": "964",
+          "names": [
+            "Porcella (2xLP version)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "762",
+          "names": [
+            "The Deadly Snakes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Garth Hudson",
       "targetId": "33",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1230",
+        "1233"
+      ]
     },
     {
       "name": "Neko Case",
       "targetId": "1685",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1226",
+        "1230",
+        "1232",
+        "1233",
+        "1235"
+      ]
     },
     {
       "name": "Joey Burns",
       "targetId": "1686",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1226",
+        "1230",
+        "1232",
+        "1235"
+      ]
     },
     {
       "name": "Travis Good",
       "targetId": "1688",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1226",
+        "1232",
+        "1235"
+      ]
     },
     {
       "name": "Paul Rigby",
       "targetId": "1689",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1230",
+        "1232",
+        "1233",
+        "1235"
+      ]
     },
     {
       "name": "Rachel Flotard",
       "targetId": "1690",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1235"
+      ]
     },
     {
       "name": "Tom Ray",
       "targetId": "1692",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1230",
+        "1233"
+      ]
     },
     {
       "name": "Howe Gelb",
       "targetId": "1694",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1232"
+      ]
     },
     {
       "name": "Jon Rauhouse",
       "targetId": "1695",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1230",
+        "1233",
+        "1235"
+      ]
     },
     {
       "name": "Kelly Hogan",
       "targetId": "1696",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1226",
+        "1230",
+        "1232",
+        "1233"
+      ]
     },
     {
       "name": "Sean Dean",
       "targetId": "1699",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1226",
+        "1232",
+        "1235"
+      ]
     },
     {
       "name": "John Convertino",
       "targetId": "1700",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1230",
+        "1233"
+      ]
     },
     {
       "name": "Mike Belitsky",
       "targetId": "1701",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1226",
+        "1232",
+        "1235"
+      ]
     },
     {
       "name": "Jeremi Madsen",
       "targetId": "4975",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     },
     {
       "name": "Max \"Age Of Danger\" McCabe-Lokos",
       "targetId": "4976",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     },
     {
       "name": "André Ethier",
       "targetId": "4977",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     },
     {
       "name": "Matt Carlson",
       "targetId": "4978",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     },
     {
       "name": "Andrew Gunn",
       "targetId": "4979",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     },
     {
       "name": "Chad Ross",
       "targetId": "4980",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     },
     {
       "name": "Greg Cartwright",
       "targetId": "4982",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     },
     {
       "name": "Nathan Salvation",
       "targetId": "4986",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     },
     {
       "name": "Yuri Didrichsons",
       "targetId": "4987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4739"
+      ]
     }
   ]
 }

@@ -1,26 +1,85 @@
 {
   "source": "Sam Farrar",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5664",
+      "names": [
+        "California"
+      ],
+      "releases": [
+        {
+          "_id": "1120",
+          "names": [
+            "The Guest"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "874",
+          "names": [
+            "Phantom Planet"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13281",
+      "names": [
+        "It's Not You It's Me"
+      ],
+      "releases": [
+        {
+          "_id": "1119",
+          "names": [
+            "Nighttiming"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "873",
+          "names": [
+            "Coconut Records"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jason Schwartzman",
       "targetId": "5670",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5664",
+        "13281"
+      ]
     },
     {
       "name": "Alex Greenwald",
       "targetId": "5671",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5664"
+      ]
     },
     {
       "name": "Jacques Brautbar",
       "targetId": "5673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5664"
+      ]
     },
     {
       "name": "Darren Robinson",
       "targetId": "5674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5664"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Screamin' Jay Hawkins",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2437",
+      "names": [
+        "Why Did You Waste My Time"
+      ],
+      "releases": [
+        {
+          "_id": "602",
+          "names": [
+            "Tiny Grimes And His Rocking Highlanders"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "464",
+          "names": [
+            "Tiny Grimes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tiny Grimes",
       "targetId": "2943",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2437"
+      ]
     }
   ]
 }

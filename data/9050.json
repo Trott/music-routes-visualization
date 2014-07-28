@@ -1,26 +1,62 @@
 {
   "source": "Jon Evans",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9814",
+      "names": [
+        "The Beekeeper"
+      ],
+      "releases": [
+        {
+          "_id": "1879",
+          "names": [
+            "The Beekeeper"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Matt Chamberlain",
       "targetId": "182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9814"
+      ]
     },
     {
       "name": "Tori Amos",
       "targetId": "1568",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9814"
+      ]
     },
     {
       "name": "Damien Rice",
       "targetId": "9049",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9814"
+      ]
     },
     {
       "name": "Mac Aladdin",
       "targetId": "9051",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9814"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Matt Chapman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8117",
+      "names": [
+        "Crystal Fortress"
+      ],
+      "releases": [
+        {
+          "_id": "1590",
+          "names": [
+            "TMBG Podcast 37A"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8117"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8117"
+      ]
     },
     {
       "name": "Strong Bad",
       "targetId": "7744",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8117"
+      ]
     }
   ]
 }

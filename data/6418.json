@@ -1,61 +1,204 @@
 {
   "source": "Orville Saunders",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "6565",
+      "names": [
+        "Happy Music"
+      ],
+      "releases": [
+        {
+          "_id": "1316",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1018",
+          "names": [
+            "The Blackbyrds"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6566",
+      "names": [
+        "Rock Creek Park"
+      ],
+      "releases": [
+        {
+          "_id": "1316",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1018",
+          "names": [
+            "The Blackbyrds"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6567",
+      "names": [
+        "Supernatural Feeling"
+      ],
+      "releases": [
+        {
+          "_id": "1316",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1018",
+          "names": [
+            "The Blackbyrds"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6568",
+      "names": [
+        "Soft And Easy"
+      ],
+      "releases": [
+        {
+          "_id": "1316",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1018",
+          "names": [
+            "The Blackbyrds"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ernie Watts",
       "targetId": "413",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6565",
+        "6566",
+        "6568"
+      ]
     },
     {
       "name": "Merry Clayton",
       "targetId": "1403",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6565",
+        "6566"
+      ]
     },
     {
       "name": "Ray Parker, Jr.",
       "targetId": "3391",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "George Bohanon",
       "targetId": "3415",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6565",
+        "6566"
+      ]
     },
     {
       "name": "Ollie Brown",
       "targetId": "5664",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Joe Hall",
       "targetId": "6412",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6565",
+        "6566",
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Keith Kilgo",
       "targetId": "6413",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6565",
+        "6566",
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Kevin Toney",
       "targetId": "6414",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6565",
+        "6566",
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Stephen Johnson",
       "targetId": "6419",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6565",
+        "6566",
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "David Shields",
       "targetId": "6420",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Eddie \"Bongo\" Brown",
       "targetId": "6421",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     }
   ]
 }

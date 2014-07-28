@@ -1,11 +1,38 @@
 {
   "source": "Brigitte Bardot",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2241",
+      "names": [
+        "Bonnie And Clyde"
+      ],
+      "releases": [
+        {
+          "_id": "547",
+          "names": [
+            "The Best Of Bardot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "417",
+          "names": [
+            "Brigitte Bardot"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Serge Gainsbourg",
       "targetId": "2721",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2241"
+      ]
     }
   ]
 }

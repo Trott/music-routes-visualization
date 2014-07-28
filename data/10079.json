@@ -1,26 +1,157 @@
 {
   "source": "Maureen Love",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "12011",
+      "names": [
+        "Catch A Wave"
+      ],
+      "releases": [
+        {
+          "_id": "2183",
+          "names": [
+            "Surfer Girl / Shut Down Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12013",
+      "names": [
+        "In My Room"
+      ],
+      "releases": [
+        {
+          "_id": "2181",
+          "names": [
+            "Classics: Selected By Brian Wilson"
+          ]
+        },
+        {
+          "_id": "2183",
+          "names": [
+            "Surfer Girl / Shut Down Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12020",
+      "names": [
+        "In My Room (German Version)"
+      ],
+      "releases": [
+        {
+          "_id": "2183",
+          "names": [
+            "Surfer Girl / Shut Down Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12098",
+      "names": [
+        "Catch A Wave"
+      ],
+      "releases": [
+        {
+          "_id": "2188",
+          "names": [
+            "Party & Stack-o-Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12163",
+      "names": [
+        "In My Room"
+      ],
+      "releases": [
+        {
+          "_id": "2188",
+          "names": [
+            "Party & Stack-o-Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12013"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12013",
+        "12020"
+      ]
     },
     {
       "name": "Dennis Wilson",
       "targetId": "1476",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12013"
+      ]
     },
     {
       "name": "Mike Love",
       "targetId": "1477",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12011"
+      ]
     }
   ]
 }

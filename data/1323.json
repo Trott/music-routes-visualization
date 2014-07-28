@@ -1,41 +1,112 @@
 {
   "source": "Michael Paulo",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "906",
+      "names": [
+        "I Want To Be Around"
+      ],
+      "releases": [
+        {
+          "_id": "276",
+          "names": [
+            "Tribute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "195",
+          "names": [
+            "Pauline Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "908",
+      "names": [
+        "Dindi"
+      ],
+      "releases": [
+        {
+          "_id": "276",
+          "names": [
+            "Tribute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "195",
+          "names": [
+            "Pauline Wilson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lenny Castro",
       "targetId": "405",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "906",
+        "908"
+      ]
     },
     {
       "name": "Larry Williams",
       "targetId": "414",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "908"
+      ]
     },
     {
       "name": "Pauline Wilson",
       "targetId": "1318",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "906",
+        "908"
+      ]
     },
     {
       "name": "Ken Wild",
       "targetId": "1319",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "906",
+        "908"
+      ]
     },
     {
       "name": "Harvey Mason",
       "targetId": "1320",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "906",
+        "908"
+      ]
     },
     {
       "name": "Jerry Hey",
       "targetId": "1322",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "908"
+      ]
     },
     {
       "name": "Kim Hutchcroft",
       "targetId": "1324",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "908"
+      ]
     }
   ]
 }

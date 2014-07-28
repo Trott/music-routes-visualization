@@ -1,11 +1,38 @@
 {
   "source": "Julio Iglesias",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1464",
+      "names": [
+        "Summer Wind"
+      ],
+      "releases": [
+        {
+          "_id": "354",
+          "names": [
+            "Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1464"
+      ]
     }
   ]
 }

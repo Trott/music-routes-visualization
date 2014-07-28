@@ -1,11 +1,44 @@
 {
   "source": "Pucho",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9898",
+      "names": [
+        "Chicago"
+      ],
+      "releases": [
+        {
+          "_id": "1899",
+          "names": [
+            "21J Día De La Música Heineken"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1468",
+          "names": [
+            "Christina Rosenvinge"
+          ]
+        },
+        {
+          "_id": "1469",
+          "names": [
+            "Vetusta Morla"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Christina Rosenvinge",
       "targetId": "9102",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9898"
+      ]
     }
   ]
 }

@@ -1,46 +1,119 @@
 {
   "source": "Jack Williams",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9703",
+      "names": [
+        "Bluer Than Blue"
+      ],
+      "releases": [
+        {
+          "_id": "1859",
+          "names": [
+            "The Michael Johnson Album"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1440",
+          "names": [
+            "Michael Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9704",
+      "names": [
+        "Almost Like Being In Love"
+      ],
+      "releases": [
+        {
+          "_id": "1859",
+          "names": [
+            "The Michael Johnson Album"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1440",
+          "names": [
+            "Michael Johnson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kenny Malone",
       "targetId": "4826",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9703",
+        "9704"
+      ]
     },
     {
       "name": "Shane Keister",
       "targetId": "5384",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9703"
+      ]
     },
     {
       "name": "Michael Johnson",
       "targetId": "8976",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9703",
+        "9704"
+      ]
     },
     {
       "name": "Farrell Morris",
       "targetId": "8978",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9703",
+        "9704"
+      ]
     },
     {
       "name": "Sheri Kramer",
       "targetId": "8979",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9704"
+      ]
     },
     {
       "name": "Bill LaBounty",
       "targetId": "8980",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9704"
+      ]
     },
     {
       "name": "Steve Gibson",
       "targetId": "8981",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9704"
+      ]
     },
     {
       "name": "Roger Williams",
       "targetId": "8982",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9704"
+      ]
     }
   ]
 }

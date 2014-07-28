@@ -1,26 +1,68 @@
 {
   "source": "Sadik Hakim",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2445",
+      "names": [
+        "Thrivin' On A Riff"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2445"
+      ]
     },
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2445"
+      ]
     },
     {
       "name": "Curly Russell",
       "targetId": "2945",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2445"
+      ]
     },
     {
       "name": "Max Roach",
       "targetId": "2950",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2445"
+      ]
     }
   ]
 }

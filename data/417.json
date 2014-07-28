@@ -1,46 +1,166 @@
 {
   "source": "Guy Fletcher",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "126",
+      "names": [
+        "Dixie Flyer"
+      ],
+      "releases": [
+        {
+          "_id": "94",
+          "names": [
+            "Land Of Dreams"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "136",
+      "names": [
+        "Brothers In Arms"
+      ],
+      "releases": [
+        {
+          "_id": "102",
+          "names": [
+            "Brothers In Arms"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "76",
+          "names": [
+            "Dire Straits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "137",
+      "names": [
+        "Money For Nothing"
+      ],
+      "releases": [
+        {
+          "_id": "102",
+          "names": [
+            "Brothers In Arms"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "76",
+          "names": [
+            "Dire Straits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "271",
+      "names": [
+        "Money For Nothing/Beverly Hillbillies*"
+      ],
+      "releases": [
+        {
+          "_id": "169",
+          "names": [
+            "UHF (Original Motion Picture Soundtrack and Other Stuff)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "116",
+          "names": [
+            "\"Weird Al\" Yankovic"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sting",
       "targetId": "122",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "137"
+      ]
     },
     {
       "name": "Randy Newman",
       "targetId": "370",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "126"
+      ]
     },
     {
       "name": "Mark Knopfler",
       "targetId": "418",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "126",
+        "136",
+        "137",
+        "271"
+      ]
     },
     {
       "name": "John Illsley",
       "targetId": "472",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "136",
+        "137"
+      ]
     },
     {
       "name": "Alan Clark",
       "targetId": "473",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "136",
+        "137"
+      ]
     },
     {
       "name": "Terry Williams",
       "targetId": "474",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "137"
+      ]
     },
     {
       "name": "Omar Hakim",
       "targetId": "475",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "136",
+        "137"
+      ]
     },
     {
       "name": "\"Weird Al\" Yankovic",
       "targetId": "685",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "271"
+      ]
     }
   ]
 }

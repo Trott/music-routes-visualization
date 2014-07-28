@@ -1,36 +1,125 @@
 {
   "source": "Heather Nova",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6158",
+      "names": [
+        "Straight To Hell"
+      ],
+      "releases": [
+        {
+          "_id": "1233",
+          "names": [
+            "Burning London: The Clash Tribute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "262",
+          "names": [
+            "Moby"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6159",
+      "names": [
+        "If I Saw You In A Movie"
+      ],
+      "releases": [
+        {
+          "_id": "1234",
+          "names": [
+            "South"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "956",
+          "names": [
+            "Heather Nova"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6160",
+      "names": [
+        "Talk To Me"
+      ],
+      "releases": [
+        {
+          "_id": "1234",
+          "names": [
+            "South"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "956",
+          "names": [
+            "Heather Nova"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Moby",
       "targetId": "1841",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6158"
+      ]
     },
     {
       "name": "Bastian Juel",
       "targetId": "6082",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6159",
+        "6160"
+      ]
     },
     {
       "name": "Laurie Jenkins",
       "targetId": "6083",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6159",
+        "6160"
+      ]
     },
     {
       "name": "David Ayers",
       "targetId": "6084",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6159"
+      ]
     },
     {
       "name": "Glenn Scott",
       "targetId": "6085",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6159",
+        "6160"
+      ]
     },
     {
       "name": "Berit Fridahl",
       "targetId": "6086",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6160"
+      ]
     }
   ]
 }

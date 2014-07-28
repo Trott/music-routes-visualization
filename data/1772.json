@@ -1,51 +1,124 @@
 {
   "source": "Liza Minnelli",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1470",
+      "names": [
+        "I've Got The World On A Strong"
+      ],
+      "releases": [
+        {
+          "_id": "354",
+          "names": [
+            "Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4159",
+      "names": [
+        "Mama"
+      ],
+      "releases": [
+        {
+          "_id": "839",
+          "names": [
+            "The Black Parade"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "661",
+          "names": [
+            "My Chemical Romance"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1470"
+      ]
     },
     {
       "name": "Bob Bryar",
       "targetId": "4350",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4159"
+      ]
     },
     {
       "name": "Frank Iero",
       "targetId": "4351",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4159"
+      ]
     },
     {
       "name": "Ray Toro",
       "targetId": "4352",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4159"
+      ]
     },
     {
       "name": "Gerard Way",
       "targetId": "4353",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4159"
+      ]
     },
     {
       "name": "Mikey Way",
       "targetId": "4354",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4159"
+      ]
     },
     {
       "name": "Donald James",
       "targetId": "4356",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4159"
+      ]
     },
     {
       "name": "Donna Lee Way",
       "targetId": "4357",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4159"
+      ]
     },
     {
       "name": "Linda Iero",
       "targetId": "4358",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4159"
+      ]
     }
   ]
 }

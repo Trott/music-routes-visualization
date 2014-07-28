@@ -1,26 +1,62 @@
 {
   "source": "Milton Banana",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3887",
+      "names": [
+        "The Girl From Ipanema"
+      ],
+      "releases": [
+        {
+          "_id": "794",
+          "names": [
+            "Getz/Gilberto"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "622",
+          "names": [
+            "Stan Getz"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Antonio Carlos Jobim",
       "targetId": "1777",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3887"
+      ]
     },
     {
       "name": "Stan Getz",
       "targetId": "4089",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3887"
+      ]
     },
     {
       "name": "João Gilberto",
       "targetId": "4091",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3887"
+      ]
     },
     {
       "name": "Astrud Gilberto",
       "targetId": "4092",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3887"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Barry Tracksuit",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10334",
+      "names": [
+        "Red Box"
+      ],
+      "releases": [
+        {
+          "_id": "1999",
+          "names": [
+            "7\" Up!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1542",
+          "names": [
+            "I Jog & The Tracksuits"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "I Jog",
       "targetId": "9421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10334"
+      ]
     },
     {
       "name": "Dave Tracksuit",
       "targetId": "9423",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10334"
+      ]
     },
     {
       "name": "Bob",
       "targetId": "9424",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10334"
+      ]
     }
   ]
 }

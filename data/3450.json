@@ -1,56 +1,134 @@
 {
   "source": "Wade Schuman",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3129",
+      "names": [
+        "Spider Web"
+      ],
+      "releases": [
+        {
+          "_id": "670",
+          "names": [
+            "Relish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "524",
+          "names": [
+            "Joan Osborne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3131",
+      "names": [
+        "Help Me"
+      ],
+      "releases": [
+        {
+          "_id": "670",
+          "names": [
+            "Relish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "524",
+          "names": [
+            "Joan Osborne"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Omar Hakim",
       "targetId": "475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3129"
+      ]
     },
     {
       "name": "Gary Lucas",
       "targetId": "1252",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3129",
+        "3131"
+      ]
     },
     {
       "name": "Joan Osborne",
       "targetId": "3438",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3129",
+        "3131"
+      ]
     },
     {
       "name": "Mark Egan",
       "targetId": "3439",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3131"
+      ]
     },
     {
       "name": "Andy Kravitz",
       "targetId": "3440",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3131"
+      ]
     },
     {
       "name": "Eric Bazilian",
       "targetId": "3441",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3131"
+      ]
     },
     {
       "name": "Rick DiFonzo",
       "targetId": "3442",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3129"
+      ]
     },
     {
       "name": "Sammy Merendino",
       "targetId": "3444",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3129"
+      ]
     },
     {
       "name": "Chris Palmaro",
       "targetId": "3446",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3129"
+      ]
     },
     {
       "name": "Catherine Russell",
       "targetId": "3449",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3129"
+      ]
     }
   ]
 }

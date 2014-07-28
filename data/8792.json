@@ -1,31 +1,122 @@
 {
   "source": "Taylor York",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "9418",
+      "names": [
+        "Ignorance"
+      ],
+      "releases": [
+        {
+          "_id": "1815",
+          "names": [
+            "Brand New Eyes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1407",
+          "names": [
+            "Paramore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9419",
+      "names": [
+        "The Only Exception"
+      ],
+      "releases": [
+        {
+          "_id": "1815",
+          "names": [
+            "Brand New Eyes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1407",
+          "names": [
+            "Paramore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9420",
+      "names": [
+        "Brick By Boring Brick"
+      ],
+      "releases": [
+        {
+          "_id": "1815",
+          "names": [
+            "Brand New Eyes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1407",
+          "names": [
+            "Paramore"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9420"
+      ]
     },
     {
       "name": "Josh Farro",
       "targetId": "8789",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9418",
+        "9419",
+        "9420"
+      ]
     },
     {
       "name": "Zac Farro",
       "targetId": "8790",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9418",
+        "9419",
+        "9420"
+      ]
     },
     {
       "name": "Jeremy Davis",
       "targetId": "8791",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9418",
+        "9419",
+        "9420"
+      ]
     },
     {
       "name": "Hayley Williams",
       "targetId": "8793",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9418",
+        "9419",
+        "9420"
+      ]
     }
   ]
 }

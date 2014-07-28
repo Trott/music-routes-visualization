@@ -1,51 +1,126 @@
 {
   "source": "Randy Brion",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10239",
+      "names": [
+        "Mr. Harris"
+      ],
+      "releases": [
+        {
+          "_id": "1961",
+          "names": [
+            "Whatever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10243",
+      "names": [
+        "Way Back When"
+      ],
+      "releases": [
+        {
+          "_id": "1961",
+          "names": [
+            "Whatever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10239",
+        "10243"
+      ]
     },
     {
       "name": "Sid Sharp",
       "targetId": "1502",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10239"
+      ]
     },
     {
       "name": "Buddy Judge",
       "targetId": "3868",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10243"
+      ]
     },
     {
       "name": "Michael Hausman",
       "targetId": "4028",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10243"
+      ]
     },
     {
       "name": "Jon Brion",
       "targetId": "6653",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10239",
+        "10243"
+      ]
     },
     {
       "name": "Joy Lyle",
       "targetId": "9338",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10239"
+      ]
     },
     {
       "name": "Harry Shirinian",
       "targetId": "9339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10239"
+      ]
     },
     {
       "name": "Harry L. Shultz",
       "targetId": "9340",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10239"
+      ]
     },
     {
       "name": "Mike Breaux",
       "targetId": "9342",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10239"
+      ]
     }
   ]
 }

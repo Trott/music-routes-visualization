@@ -1,41 +1,132 @@
 {
   "source": "Parrish Smith",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "9656",
+      "names": [
+        "Symphony"
+      ],
+      "releases": [
+        {
+          "_id": "1850",
+          "names": [
+            "Out Of Business"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1433",
+          "names": [
+            "EPMD"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9657",
+      "names": [
+        "Rap Is Still Outta Control"
+      ],
+      "releases": [
+        {
+          "_id": "1850",
+          "names": [
+            "Out Of Business"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1433",
+          "names": [
+            "EPMD"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9658",
+      "names": [
+        "Symphony 2000"
+      ],
+      "releases": [
+        {
+          "_id": "1850",
+          "names": [
+            "Out Of Business"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1433",
+          "names": [
+            "EPMD"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Method Man",
       "targetId": "4390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9658"
+      ]
     },
     {
       "name": "Busta Rhymes",
       "targetId": "8467",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9657"
+      ]
     },
     {
       "name": "Lil' Fame",
       "targetId": "8929",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9656"
+      ]
     },
     {
       "name": "Billy Danze",
       "targetId": "8930",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9656"
+      ]
     },
     {
       "name": "Erick Sermon",
       "targetId": "8932",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9656",
+        "9657",
+        "9658"
+      ]
     },
     {
       "name": "Redman",
       "targetId": "8934",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9658"
+      ]
     },
     {
       "name": "Lady Luck",
       "targetId": "8935",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9658"
+      ]
     }
   ]
 }

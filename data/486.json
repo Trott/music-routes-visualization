@@ -1,31 +1,93 @@
 {
   "source": "Cliff Bennett",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "144",
+      "names": [
+        "That's My Love For You"
+      ],
+      "releases": [
+        {
+          "_id": "108",
+          "names": [
+            "Toe Fat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "82",
+          "names": [
+            "Toe Fat"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "145",
+      "names": [
+        "Stick Heat"
+      ],
+      "releases": [
+        {
+          "_id": "109",
+          "names": [
+            "Toe Fat II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "82",
+          "names": [
+            "Toe Fat"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lee Kerslake",
       "targetId": "484",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "144"
+      ]
     },
     {
       "name": "John Glascock",
       "targetId": "485",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "144",
+        "145"
+      ]
     },
     {
       "name": "Ken Hensley",
       "targetId": "487",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "144"
+      ]
     },
     {
       "name": "Alan Kendall",
       "targetId": "488",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "145"
+      ]
     },
     {
       "name": "Brian Glascock",
       "targetId": "489",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "145"
+      ]
     }
   ]
 }

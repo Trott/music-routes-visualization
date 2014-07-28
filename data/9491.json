@@ -1,21 +1,55 @@
 {
   "source": "Jim Walker",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10464",
+      "names": [
+        "Public Image"
+      ],
+      "releases": [
+        {
+          "_id": "2025",
+          "names": [
+            "First Issue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "806",
+          "names": [
+            "Public Image Ltd.",
+            "PiL"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lydon",
       "targetId": "2670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10464"
+      ]
     },
     {
       "name": "Keith Levene",
       "targetId": "5269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10464"
+      ]
     },
     {
       "name": "Jah Wobble",
       "targetId": "5270",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10464"
+      ]
     }
   ]
 }

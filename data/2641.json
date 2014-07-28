@@ -1,66 +1,226 @@
 {
   "source": "Carrie Bradley",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "2186",
+      "names": [
+        "Starting/Ending"
+      ],
+      "releases": [
+        {
+          "_id": "520",
+          "names": [
+            "Exploded View"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "392",
+          "names": [
+            "Granfaloon Bus"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2197",
+      "names": [
+        "Reprise"
+      ],
+      "releases": [
+        {
+          "_id": "520",
+          "names": [
+            "Exploded View"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "392",
+          "names": [
+            "Granfaloon Bus"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2198",
+      "names": [
+        "Dead Pedestrians"
+      ],
+      "releases": [
+        {
+          "_id": "520",
+          "names": [
+            "Exploded View"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "392",
+          "names": [
+            "Granfaloon Bus"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4648",
+      "names": [
+        "Pearl"
+      ],
+      "releases": [
+        {
+          "_id": "950",
+          "names": [
+            "Sweet F.A."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "400",
+          "names": [
+            "Love and Rockets"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4649",
+      "names": [
+        "Sad And Beautiful World"
+      ],
+      "releases": [
+        {
+          "_id": "950",
+          "names": [
+            "Sweet F.A."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "400",
+          "names": [
+            "Love and Rockets"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Patrick Main",
       "targetId": "1233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2186"
+      ]
     },
     {
       "name": "Ajax Green",
       "targetId": "2635",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2186",
+        "2197",
+        "2198"
+      ]
     },
     {
       "name": "Felix Costanza",
       "targetId": "2636",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2186",
+        "2197",
+        "2198"
+      ]
     },
     {
       "name": "Jeff Stevenson",
       "targetId": "2637",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2186",
+        "2197",
+        "2198"
+      ]
     },
     {
       "name": "Jeff Palmer",
       "targetId": "2638",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2186",
+        "2197",
+        "2198"
+      ]
     },
     {
       "name": "Danny Heifetz",
       "targetId": "2639",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2186"
+      ]
     },
     {
       "name": "Marc Capelle",
       "targetId": "2640",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2186",
+        "2197"
+      ]
     },
     {
       "name": "Tami Lipsey",
       "targetId": "2644",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2198"
+      ]
     },
     {
       "name": "Ted Ellison",
       "targetId": "2645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2198"
+      ]
     },
     {
       "name": "David J",
       "targetId": "2666",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4648",
+        "4649"
+      ]
     },
     {
       "name": "Kevin Haskins",
       "targetId": "2667",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4648",
+        "4649"
+      ]
     },
     {
       "name": "Daniel Ash",
       "targetId": "2668",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4648",
+        "4649"
+      ]
     }
   ]
 }

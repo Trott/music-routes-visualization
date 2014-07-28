@@ -1,31 +1,97 @@
 {
   "source": "Robbie King",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12693",
+      "names": [
+        "Another Day"
+      ],
+      "releases": [
+        {
+          "_id": "2269",
+          "names": [
+            "Into The Fire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12701",
+      "names": [
+        "Heat Of The Night"
+      ],
+      "releases": [
+        {
+          "_id": "2269",
+          "names": [
+            "Into The Fire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12693",
+        "12701"
+      ]
     },
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12693",
+        "12701"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12693",
+        "12701"
+      ]
     },
     {
       "name": "Dave Taylor",
       "targetId": "7183",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12693",
+        "12701"
+      ]
     },
     {
       "name": "Keith Scott",
       "targetId": "7184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12693",
+        "12701"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Brother James",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5928",
+      "names": [
+        "Vacant Chair"
+      ],
+      "releases": [
+        {
+          "_id": "1177",
+          "names": [
+            "Steve Winwood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "916",
+          "names": [
+            "Steve Winwood"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Winwood",
       "targetId": "905",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5928"
+      ]
     },
     {
       "name": "Alan Spenner",
       "targetId": "5853",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5928"
+      ]
     },
     {
       "name": "John Susswell",
       "targetId": "5854",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5928"
+      ]
     },
     {
       "name": "Junior Marvin",
       "targetId": "5855",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5928"
+      ]
     }
   ]
 }

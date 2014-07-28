@@ -1,21 +1,153 @@
 {
   "source": "Barry Altschul",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "8040",
+      "names": [
+        "Quartet Piece No. 1"
+      ],
+      "releases": [
+        {
+          "_id": "1576",
+          "names": [
+            "Circulus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8041",
+      "names": [
+        "Quartet Piece No. 2"
+      ],
+      "releases": [
+        {
+          "_id": "1576",
+          "names": [
+            "Circulus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8042",
+      "names": [
+        "Quartet Piece No. 3"
+      ],
+      "releases": [
+        {
+          "_id": "1576",
+          "names": [
+            "Circulus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8043",
+      "names": [
+        "Percussion Piece"
+      ],
+      "releases": [
+        {
+          "_id": "1576",
+          "names": [
+            "Circulus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8044",
+      "names": [
+        "Drone"
+      ],
+      "releases": [
+        {
+          "_id": "1576",
+          "names": [
+            "Circulus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chick Corea",
       "targetId": "919",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "8040",
+        "8041",
+        "8042",
+        "8043",
+        "8044"
+      ]
     },
     {
       "name": "Dave Holland",
       "targetId": "1634",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "8040",
+        "8041",
+        "8042",
+        "8043",
+        "8044"
+      ]
     },
     {
       "name": "Anthony Braxton",
       "targetId": "7657",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8040",
+        "8041",
+        "8042",
+        "8043"
+      ]
     }
   ]
 }

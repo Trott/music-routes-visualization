@@ -1,11 +1,38 @@
 {
   "source": "Rain",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2211",
+      "names": [
+        "Man Up"
+      ],
+      "releases": [
+        {
+          "_id": "531",
+          "names": [
+            "21 (European version)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "402",
+          "names": [
+            "Omarion"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Omarion",
       "targetId": "2673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2211"
+      ]
     }
   ]
 }

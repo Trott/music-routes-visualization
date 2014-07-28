@@ -1,21 +1,104 @@
 {
   "source": "Todd Hoffman",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "10507",
+      "names": [
+        "Northern Man (Demo)"
+      ],
+      "releases": [
+        {
+          "_id": "2030",
+          "names": [
+            "Rare Cult (Disc 5)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1234",
+          "names": [
+            "The Cult"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10508",
+      "names": [
+        "Host Of Angels (Demo)"
+      ],
+      "releases": [
+        {
+          "_id": "2030",
+          "names": [
+            "Rare Cult (Disc 5)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1234",
+          "names": [
+            "The Cult"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10509",
+      "names": [
+        "Auto (Demo Jam)"
+      ],
+      "releases": [
+        {
+          "_id": "2030",
+          "names": [
+            "Rare Cult (Disc 5)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1234",
+          "names": [
+            "The Cult"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ian Astbury",
       "targetId": "7862",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10507",
+        "10508",
+        "10509"
+      ]
     },
     {
       "name": "Billy Duffy",
       "targetId": "7863",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10507",
+        "10508",
+        "10509"
+      ]
     },
     {
       "name": "James Kottak",
       "targetId": "8199",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10507",
+        "10508",
+        "10509"
+      ]
     }
   ]
 }

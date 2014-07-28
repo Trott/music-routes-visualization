@@ -1,21 +1,79 @@
 {
   "source": "Russ Tolman",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3216",
+      "names": [
+        "It's Up To You"
+      ],
+      "releases": [
+        {
+          "_id": "680",
+          "names": [
+            "\"It's Up To You\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "533",
+          "names": [
+            "The Suspects"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3217",
+      "names": [
+        "Talking Loud"
+      ],
+      "releases": [
+        {
+          "_id": "680",
+          "names": [
+            "\"It's Up To You\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "533",
+          "names": [
+            "The Suspects"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Wynn",
       "targetId": "3494",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     },
     {
       "name": "Kendra Smith",
       "targetId": "3518",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     },
     {
       "name": "Gavin Blair",
       "targetId": "3519",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3216",
+        "3217"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Ralph Jezzard",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7391",
+      "names": [
+        "Stoopid Ass"
+      ],
+      "releases": [
+        {
+          "_id": "1456",
+          "names": [
+            "Blame Everyone"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1123",
+          "names": [
+            "Grand Theft Audio"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Barron Ricks",
       "targetId": "2397",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7391"
+      ]
     },
     {
       "name": "Chris McCormack",
       "targetId": "7086",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7391"
+      ]
     },
     {
       "name": "Jay Butler",
       "targetId": "7088",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7391"
+      ]
     },
     {
       "name": "Ritch Battersby",
       "targetId": "7090",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7391"
+      ]
     }
   ]
 }

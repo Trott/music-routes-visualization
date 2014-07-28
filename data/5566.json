@@ -1,21 +1,79 @@
 {
   "source": "Jim Miller",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5496",
+      "names": [
+        "Good Morning"
+      ],
+      "releases": [
+        {
+          "_id": "1090",
+          "names": [
+            "Number 5"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5503",
+      "names": [
+        "Jackson-Kent Blues"
+      ],
+      "releases": [
+        {
+          "_id": "1090",
+          "names": [
+            "Number 5"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5496",
+        "5503"
+      ]
     },
     {
       "name": "Tim Davis",
       "targetId": "5564",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5496",
+        "5503"
+      ]
     },
     {
       "name": "Bobby Winkelman",
       "targetId": "5565",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5496",
+        "5503"
+      ]
     }
   ]
 }

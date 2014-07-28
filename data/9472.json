@@ -1,21 +1,54 @@
 {
   "source": "Neil Combstock",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10426",
+      "names": [
+        "Samba Do Gringo Paulista (Reconstruction)"
+      ],
+      "releases": [
+        {
+          "_id": "2019",
+          "names": [
+            "Suba: Tributo"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1557",
+          "names": [
+            "Zero dB"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neil Bogart",
       "targetId": "9471",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10426"
+      ]
     },
     {
       "name": "Monica Vasconcelos",
       "targetId": "9473",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10426"
+      ]
     },
     {
       "name": "Nigel Price",
       "targetId": "9474",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10426"
+      ]
     }
   ]
 }

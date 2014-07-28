@@ -1,16 +1,46 @@
 {
   "source": "Jason Wade",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9238",
+      "names": [
+        "Breathing"
+      ],
+      "releases": [
+        {
+          "_id": "1784",
+          "names": [
+            "No Name Face"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1379",
+          "names": [
+            "Lifehouse"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9238"
+      ]
     },
     {
       "name": "Walter Rodriguez",
       "targetId": "8653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9238"
+      ]
     }
   ]
 }

@@ -1,41 +1,132 @@
 {
   "source": "Jessica Simpson",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5164",
+      "names": [
+        "Do You Know"
+      ],
+      "releases": [
+        {
+          "_id": "1032",
+          "names": [
+            "Do You Know"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "816",
+          "names": [
+            "Jessica Simpson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8819",
+      "names": [
+        "A Public Affair"
+      ],
+      "releases": [
+        {
+          "_id": "1690",
+          "names": [
+            "A Public Affair"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "816",
+          "names": [
+            "Jessica Simpson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8820",
+      "names": [
+        "The Lover In Me"
+      ],
+      "releases": [
+        {
+          "_id": "1690",
+          "names": [
+            "A Public Affair"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "816",
+          "names": [
+            "Jessica Simpson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dolly Parton",
       "targetId": "569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5164"
+      ]
     },
     {
       "name": "Siedah Garrett",
       "targetId": "2081",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8819",
+        "8820"
+      ]
     },
     {
       "name": "Chris August",
       "targetId": "8193",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8819"
+      ]
     },
     {
       "name": "Dorian Holly",
       "targetId": "8194",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8819",
+        "8820"
+      ]
     },
     {
       "name": "Niki Harris",
       "targetId": "8195",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8819"
+      ]
     },
     {
       "name": "Sherree Brown",
       "targetId": "8196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8819"
+      ]
     },
     {
       "name": "Sharlotte Gibson",
       "targetId": "8197",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8820"
+      ]
     }
   ]
 }

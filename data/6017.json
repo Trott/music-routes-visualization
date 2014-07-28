@@ -1,26 +1,84 @@
 {
   "source": "Ne-Yo",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6066",
+      "names": [
+        "Be On You"
+      ],
+      "releases": [
+        {
+          "_id": "1218",
+          "names": [
+            "R.O.O.T.S."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6765",
+      "names": [
+        "Good Life"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6765"
+      ]
     },
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6066"
+      ]
     },
     {
       "name": "T-Pain",
       "targetId": "6004",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6765"
+      ]
     },
     {
       "name": "John Legend",
       "targetId": "6204",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6765"
+      ]
     }
   ]
 }

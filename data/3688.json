@@ -1,51 +1,150 @@
 {
   "source": "Adam Schlesinger",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3549",
+      "names": [
+        "Another First Kiss"
+      ],
+      "releases": [
+        {
+          "_id": "721",
+          "names": [
+            "Mink Car"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3552",
+      "names": [
+        "Yeh Yeh"
+      ],
+      "releases": [
+        {
+          "_id": "721",
+          "names": [
+            "Mink Car"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4575",
+      "names": [
+        "Kind Of A Girl"
+      ],
+      "releases": [
+        {
+          "_id": "935",
+          "names": [
+            "Kind Of A Girl"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "734",
+          "names": [
+            "Tinted Windows"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bun E. Carlos",
       "targetId": "2525",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4575"
+      ]
     },
     {
       "name": "James Iha",
       "targetId": "2825",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4575"
+      ]
     },
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3549",
+        "3552"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3549",
+        "3552"
+      ]
     },
     {
       "name": "Dan Miller",
       "targetId": "3681",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3549",
+        "3552"
+      ]
     },
     {
       "name": "Dan Weinkauf",
       "targetId": "3682",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3549"
+      ]
     },
     {
       "name": "Dan Hickey",
       "targetId": "3683",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3549",
+        "3552"
+      ]
     },
     {
       "name": "Hearn Gadbois",
       "targetId": "3690",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3552"
+      ]
     },
     {
       "name": "Taylor Hanson",
       "targetId": "4847",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4575"
+      ]
     }
   ]
 }

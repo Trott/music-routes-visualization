@@ -1,36 +1,78 @@
 {
   "source": "Tony Ashton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6749",
+      "names": [
+        "Isn't It A Pity"
+      ],
+      "releases": [
+        {
+          "_id": "1349",
+          "names": [
+            "All Things Must Pass"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6749"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6749"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6749"
+      ]
     },
     {
       "name": "Billy Preston",
       "targetId": "1674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6749"
+      ]
     },
     {
       "name": "Gary Wright",
       "targetId": "3199",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6749"
+      ]
     },
     {
       "name": "Mike Gibbins",
       "targetId": "6636",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6749"
+      ]
     }
   ]
 }

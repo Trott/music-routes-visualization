@@ -1,41 +1,86 @@
 {
   "source": "Barrie Cameron",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11097",
+      "names": [
+        "Good Morning Good Morning"
+      ],
+      "releases": [
+        {
+          "_id": "1798",
+          "names": [
+            "Sgt. Pepper's Lonely Hearts Club Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11097"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11097"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11097"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11097"
+      ]
     },
     {
       "name": "David Glyde",
       "targetId": "9775",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11097"
+      ]
     },
     {
       "name": "Alan Holmes",
       "targetId": "9776",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11097"
+      ]
     },
     {
       "name": "John Lee",
       "targetId": "9777",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11097"
+      ]
     }
   ]
 }

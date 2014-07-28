@@ -1,41 +1,109 @@
 {
   "source": "Bill Danoff",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3780",
+      "names": [
+        "Take Me Home, Country Roads"
+      ],
+      "releases": [
+        {
+          "_id": "483",
+          "names": [
+            "Definitive All-Time Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "363",
+          "names": [
+            "John Denver"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3782",
+      "names": [
+        "Afternoon Delight"
+      ],
+      "releases": [
+        {
+          "_id": "763",
+          "names": [
+            "Starland Vocal Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "595",
+          "names": [
+            "Starland Vocal Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Denver",
       "targetId": "2523",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Frank Owens",
       "targetId": "3888",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Gary Chester",
       "targetId": "3890",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Taffy Nivert",
       "targetId": "3892",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3780",
+        "3782"
+      ]
     },
     {
       "name": "Eric Weissberg",
       "targetId": "3893",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Jon Carroll",
       "targetId": "3894",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3782"
+      ]
     },
     {
       "name": "Margot Chapman",
       "targetId": "3895",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3782"
+      ]
     }
   ]
 }

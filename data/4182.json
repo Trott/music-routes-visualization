@@ -1,46 +1,194 @@
 {
   "source": "Fraser Thorneycroft-Smith",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "4011",
+      "names": [
+        "Buried Alive"
+      ],
+      "releases": [
+        {
+          "_id": "820",
+          "names": [
+            "Return To The Centre Of The Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "643",
+          "names": [
+            "Rick Wakeman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4012",
+      "names": [
+        "Is Anybody There?"
+      ],
+      "releases": [
+        {
+          "_id": "820",
+          "names": [
+            "Return To The Centre Of The Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "643",
+          "names": [
+            "Rick Wakeman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4013",
+      "names": [
+        "Never Is A Long, Long Time"
+      ],
+      "releases": [
+        {
+          "_id": "820",
+          "names": [
+            "Return To The Centre Of The Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "643",
+          "names": [
+            "Rick Wakeman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4014",
+      "names": [
+        "Still Waters Run Deep"
+      ],
+      "releases": [
+        {
+          "_id": "820",
+          "names": [
+            "Return To The Centre Of The Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "643",
+          "names": [
+            "Rick Wakeman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4015",
+      "names": [
+        "Ride Of Your Life"
+      ],
+      "releases": [
+        {
+          "_id": "820",
+          "names": [
+            "Return To The Centre Of The Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "643",
+          "names": [
+            "Rick Wakeman"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ozzy Osbourne",
       "targetId": "482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4011"
+      ]
     },
     {
       "name": "Rick Wakeman",
       "targetId": "792",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4011",
+        "4012",
+        "4013",
+        "4014",
+        "4015"
+      ]
     },
     {
       "name": "Bonnie Tyler",
       "targetId": "3479",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4012"
+      ]
     },
     {
       "name": "Phil Williams",
       "targetId": "4180",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4011",
+        "4012",
+        "4013",
+        "4014",
+        "4015"
+      ]
     },
     {
       "name": "Simon Hanson",
       "targetId": "4181",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4011",
+        "4012",
+        "4013",
+        "4014",
+        "4015"
+      ]
     },
     {
       "name": "Trevor Rabin",
       "targetId": "4183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4013"
+      ]
     },
     {
       "name": "Justin Hayward",
       "targetId": "4184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4014"
+      ]
     },
     {
       "name": "Katrina Leskanich",
       "targetId": "4185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4015"
+      ]
     }
   ]
 }

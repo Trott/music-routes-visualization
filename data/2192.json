@@ -1,11 +1,38 @@
 {
   "source": "Abdominal",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2019",
+      "names": [
+        "Countdown"
+      ],
+      "releases": [
+        {
+          "_id": "458",
+          "names": [
+            "Escape From The Pigeon Hole"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "340",
+          "names": [
+            "Abdominal"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Korry Deez",
       "targetId": "2187",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2019"
+      ]
     }
   ]
 }

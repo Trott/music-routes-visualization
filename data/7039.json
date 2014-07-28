@@ -1,11 +1,38 @@
 {
   "source": "Emma Townshend",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7342",
+      "names": [
+        "Face The Face"
+      ],
+      "releases": [
+        {
+          "_id": "1439",
+          "names": [
+            "White City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1109",
+          "names": [
+            "Pete Townshend"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pete Townshend",
       "targetId": "1985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7342"
+      ]
     }
   ]
 }

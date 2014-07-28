@@ -1,81 +1,320 @@
 {
   "source": "Mike Elizondo",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "664",
+      "names": [
+        "Wildflower"
+      ],
+      "releases": [
+        {
+          "_id": "240",
+          "names": [
+            "Wild Flower"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "666",
+      "names": [
+        "Letter To God"
+      ],
+      "releases": [
+        {
+          "_id": "240",
+          "names": [
+            "Wild Flower"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "667",
+      "names": [
+        "Live It Up"
+      ],
+      "releases": [
+        {
+          "_id": "240",
+          "names": [
+            "Wild Flower"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "668",
+      "names": [
+        "I Don't Wanna Know"
+      ],
+      "releases": [
+        {
+          "_id": "240",
+          "names": [
+            "Wild Flower"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "670",
+      "names": [
+        "Where Has All The Love Gone"
+      ],
+      "releases": [
+        {
+          "_id": "240",
+          "names": [
+            "Wild Flower"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2330",
+      "names": [
+        "Geek In The Pink"
+      ],
+      "releases": [
+        {
+          "_id": "586",
+          "names": [
+            "Mr. A-Z"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "451",
+          "names": [
+            "Jason Mraz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10164",
+      "names": [
+        "Pong Baby"
+      ],
+      "releases": [
+        {
+          "_id": "1954",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1512",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10166",
+      "names": [
+        "No Sleep"
+      ],
+      "releases": [
+        {
+          "_id": "1954",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1512",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Molo",
       "targetId": "780",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10164"
+      ]
     },
     {
       "name": "Sheryl Crow",
       "targetId": "1018",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "664",
+        "666",
+        "667",
+        "668",
+        "670"
+      ]
     },
     {
       "name": "Jeff Trott",
       "targetId": "1022",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "666",
+        "667",
+        "668",
+        "670"
+      ]
     },
     {
       "name": "Brian MacLeod",
       "targetId": "1025",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "666",
+        "667",
+        "668"
+      ]
     },
     {
       "name": "Greg Leisz",
       "targetId": "1061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "668"
+      ]
     },
     {
       "name": "John Shanks",
       "targetId": "1063",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "664",
+        "668",
+        "670"
+      ]
     },
     {
       "name": "Dan Chase",
       "targetId": "1068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "666",
+        "670"
+      ]
     },
     {
       "name": "Roger Manning",
       "targetId": "1069",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "667",
+        "2330"
+      ]
     },
     {
       "name": "Jason Mraz",
       "targetId": "2864",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2330"
+      ]
     },
     {
       "name": "Lyle Workman",
       "targetId": "2874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2330"
+      ]
     },
     {
       "name": "Ahmir \"?uestlove\" Thompson ",
       "targetId": "2877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2330"
+      ]
     },
     {
       "name": "David Ralicke",
       "targetId": "5931",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10164"
+      ]
     },
     {
       "name": "Greg Kurstin",
       "targetId": "9044",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10164",
+        "10166"
+      ]
     },
     {
       "name": "Yogi",
       "targetId": "9301",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10164",
+        "10166"
+      ]
     },
     {
       "name": "José Pasillas",
       "targetId": "9304",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10164",
+        "10166"
+      ]
     }
   ]
 }

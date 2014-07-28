@@ -1,16 +1,46 @@
 {
   "source": "Susaye Greene",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7806",
+      "names": [
+        "Joy Inside My Tears"
+      ],
+      "releases": [
+        {
+          "_id": "1539",
+          "names": [
+            "Songs In The Key of Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stevie Wonder",
       "targetId": "83",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7806"
+      ]
     },
     {
       "name": "Greg Phillinganes",
       "targetId": "649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7806"
+      ]
     }
   ]
 }

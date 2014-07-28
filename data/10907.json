@@ -1,16 +1,46 @@
 {
   "source": "Roy Clark",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13397",
+      "names": [
+        "Funnel Of Love"
+      ],
+      "releases": [
+        {
+          "_id": "2436",
+          "names": [
+            "One Kiss Can Lead To Another"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1734",
+          "names": [
+            "Wanda Jackson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Wanda Jackson",
       "targetId": "10877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13397"
+      ]
     },
     {
       "name": "Marvin Hughes",
       "targetId": "10908",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13397"
+      ]
     }
   ]
 }

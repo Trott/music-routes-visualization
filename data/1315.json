@@ -1,46 +1,117 @@
 {
   "source": "David Owens",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "898",
+      "names": [
+        "Neon Sisters"
+      ],
+      "releases": [
+        {
+          "_id": "275",
+          "names": [
+            "Astronauts & Heretics"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "141",
+          "names": [
+            "Thomas Dolby"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "899",
+      "names": [
+        "Beauty Of A Dream"
+      ],
+      "releases": [
+        {
+          "_id": "275",
+          "names": [
+            "Astronauts & Heretics"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "141",
+          "names": [
+            "Thomas Dolby"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Budgie",
       "targetId": "364",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "898"
+      ]
     },
     {
       "name": "Leland Sklar",
       "targetId": "421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "899"
+      ]
     },
     {
       "name": "Thomas Dolby",
       "targetId": "859",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "898",
+        "899"
+      ]
     },
     {
       "name": "Matthew Seligman",
       "targetId": "865",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "898"
+      ]
     },
     {
       "name": "Jerry Garcia",
       "targetId": "918",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "899"
+      ]
     },
     {
       "name": "Larry Treadwell",
       "targetId": "1302",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "898"
+      ]
     },
     {
       "name": "Jon Klein",
       "targetId": "1316",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "898"
+      ]
     },
     {
       "name": "Bob Weir",
       "targetId": "1317",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "899"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Warren Haynes",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11261",
+      "names": [
+        "Broke Down On The Brazos"
+      ],
+      "releases": [
+        {
+          "_id": "2124",
+          "names": [
+            "By A Thread"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1608",
+          "names": [
+            "Gov't Mule"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Gibbons",
       "targetId": "2118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11261"
+      ]
     },
     {
       "name": "Matt Abts",
       "targetId": "9878",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11261"
+      ]
     },
     {
       "name": "Jorgen Carlsson",
       "targetId": "9879",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11261"
+      ]
     }
   ]
 }

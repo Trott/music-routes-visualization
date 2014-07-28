@@ -1,56 +1,162 @@
 {
   "source": "Eddie \"Bongo\" Brown",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6567",
+      "names": [
+        "Supernatural Feeling"
+      ],
+      "releases": [
+        {
+          "_id": "1316",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1018",
+          "names": [
+            "The Blackbyrds"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6568",
+      "names": [
+        "Soft And Easy"
+      ],
+      "releases": [
+        {
+          "_id": "1316",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1018",
+          "names": [
+            "The Blackbyrds"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7796",
+      "names": [
+        "Love's In Need Of Love Today"
+      ],
+      "releases": [
+        {
+          "_id": "1539",
+          "names": [
+            "Songs In The Key of Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stevie Wonder",
       "targetId": "83",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7796"
+      ]
     },
     {
       "name": "Ernie Watts",
       "targetId": "413",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6568"
+      ]
     },
     {
       "name": "Ray Parker, Jr.",
       "targetId": "3391",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Ollie Brown",
       "targetId": "5664",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Joe Hall",
       "targetId": "6412",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Keith Kilgo",
       "targetId": "6413",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Kevin Toney",
       "targetId": "6414",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Orville Saunders",
       "targetId": "6418",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "Stephen Johnson",
       "targetId": "6419",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     },
     {
       "name": "David Shields",
       "targetId": "6420",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6567",
+        "6568"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Earl Leaf",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12140",
+      "names": [
+        "Bull Session With The \"Big Daddy\""
+      ],
+      "releases": [
+        {
+          "_id": "2075",
+          "names": [
+            "Today! / Summer Days (And Summer Nights!!)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12140"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12140"
+      ]
     }
   ]
 }

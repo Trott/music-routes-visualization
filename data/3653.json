@@ -1,31 +1,92 @@
 {
   "source": "Sir Mix-A-Lot",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3518",
+      "names": [
+        "Freak Momma"
+      ],
+      "releases": [
+        {
+          "_id": "711",
+          "names": [
+            "Judgment Night"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "552",
+          "names": [
+            "Mudhoney & Sir Mix-A-Lot"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6195",
+      "names": [
+        "Baby Got Back"
+      ],
+      "releases": [
+        {
+          "_id": "1251",
+          "names": [
+            "Mack Daddy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "551",
+          "names": [
+            "Sir Mix-A-Lot"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mark Arm",
       "targetId": "3649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3518"
+      ]
     },
     {
       "name": "Steve Turner",
       "targetId": "3650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3518"
+      ]
     },
     {
       "name": "Matt Lukin",
       "targetId": "3651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3518"
+      ]
     },
     {
       "name": "Dan Peters",
       "targetId": "3652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3518"
+      ]
     },
     {
       "name": "Amy Dorsey",
       "targetId": "6133",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6195"
+      ]
     }
   ]
 }

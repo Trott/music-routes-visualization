@@ -1,41 +1,131 @@
 {
   "source": "Korry Deez",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2017",
+      "names": [
+        "Mic T.H.U.G.S."
+      ],
+      "releases": [
+        {
+          "_id": "457",
+          "names": [
+            "Quest For Fire: Firestarter Vol. 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "339",
+          "names": [
+            "Kardinal Offishall"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2018",
+      "names": [
+        "Ol' Time Killin'"
+      ],
+      "releases": [
+        {
+          "_id": "457",
+          "names": [
+            "Quest For Fire: Firestarter Vol. 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "339",
+          "names": [
+            "Kardinal Offishall"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2019",
+      "names": [
+        "Countdown"
+      ],
+      "releases": [
+        {
+          "_id": "458",
+          "names": [
+            "Escape From The Pigeon Hole"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "340",
+          "names": [
+            "Abdominal"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jully Black",
       "targetId": "2185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2018"
+      ]
     },
     {
       "name": "Kardinal Offishall",
       "targetId": "2186",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2017",
+        "2018"
+      ]
     },
     {
       "name": "DJ Kardi Rock",
       "targetId": "2188",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2017"
+      ]
     },
     {
       "name": "Allistair",
       "targetId": "2189",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2018"
+      ]
     },
     {
       "name": "Black Cat",
       "targetId": "2190",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2018"
+      ]
     },
     {
       "name": "Wio-K",
       "targetId": "2191",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2018"
+      ]
     },
     {
       "name": "Abdominal",
       "targetId": "2192",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2019"
+      ]
     }
   ]
 }

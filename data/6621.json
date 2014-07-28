@@ -1,31 +1,70 @@
 {
   "source": "Charlie Sheen",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6733",
+      "names": [
+        "Father And Son"
+      ],
+      "releases": [
+        {
+          "_id": "1347",
+          "names": [
+            "Requiem For The Americas: Songs From The Lost World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1042",
+          "names": [
+            "Jonathan Elias"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Clifford Lane",
       "targetId": "6598",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6733"
+      ]
     },
     {
       "name": "Jonathan Elias",
       "targetId": "6600",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6733"
+      ]
     },
     {
       "name": "Sherman Foote",
       "targetId": "6602",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6733"
+      ]
     },
     {
       "name": "Ray Foote",
       "targetId": "6603",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6733"
+      ]
     },
     {
       "name": "Martin Sheen",
       "targetId": "6622",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6733"
+      ]
     }
   ]
 }

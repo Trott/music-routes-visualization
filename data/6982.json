@@ -1,76 +1,196 @@
 {
   "source": "Joan Wasser",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7268",
+      "names": [
+        "Morning Hollow"
+      ],
+      "releases": [
+        {
+          "_id": "1428",
+          "names": [
+            "Dreamt For Light Years In The Belly Of A Mountain"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1099",
+          "names": [
+            "Sparklehorse"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12384",
+      "names": [
+        "Bird Gerhl"
+      ],
+      "releases": [
+        {
+          "_id": "2224",
+          "names": [
+            "I Am A Bird Now"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1624",
+          "names": [
+            "Antony And The Johnsons"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12385",
+      "names": [
+        "You Are My Sister"
+      ],
+      "releases": [
+        {
+          "_id": "2224",
+          "names": [
+            "I Am A Bird Now"
+          ]
+        },
+        {
+          "_id": "2225",
+          "names": [
+            "Les Inrockuptibles - Une Rentree 2005 Tome 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1624",
+          "names": [
+            "Antony And The Johnsons"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Boy George",
       "targetId": "52",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12385"
+      ]
     },
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7268"
+      ]
     },
     {
       "name": "Devendra Banhart",
       "targetId": "2882",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12385"
+      ]
     },
     {
       "name": "Mark Linkous",
       "targetId": "6972",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7268"
+      ]
     },
     {
       "name": "Sophie Michalitsianos",
       "targetId": "6976",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7268"
+      ]
     },
     {
       "name": "Scott Minor",
       "targetId": "6979",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7268"
+      ]
     },
     {
       "name": "Jane Scarpantoni",
       "targetId": "6980",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7268"
+      ]
     },
     {
       "name": "Dave Fridmann",
       "targetId": "6981",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7268"
+      ]
     },
     {
       "name": "Antony Hegarty",
       "targetId": "10241",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12384",
+        "12385"
+      ]
     },
     {
       "name": "Jeff Langston",
       "targetId": "10242",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12384",
+        "12385"
+      ]
     },
     {
       "name": "Todd Cohen",
       "targetId": "10243",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12384"
+      ]
     },
     {
       "name": "Maxim Moston",
       "targetId": "10244",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12384",
+        "12385"
+      ]
     },
     {
       "name": "Julia Kent",
       "targetId": "10245",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12384",
+        "12385"
+      ]
     },
     {
       "name": "John Bollinger",
       "targetId": "10246",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12385"
+      ]
     }
   ]
 }

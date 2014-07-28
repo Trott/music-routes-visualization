@@ -1,11 +1,38 @@
 {
   "source": "Maud Dillingham",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7667",
+      "names": [
+        "So Should We Go?"
+      ],
+      "releases": [
+        {
+          "_id": "1521",
+          "names": [
+            "Mind At Large"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1168",
+          "names": [
+            "Joel Godfrey Primer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joel Godfrey Primer",
       "targetId": "7323",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7667"
+      ]
     }
   ]
 }

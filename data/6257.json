@@ -1,21 +1,76 @@
 {
   "source": "Ronnie Dunn",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6372",
+      "names": [
+        "Does The Wind Still Blow In Oklahoma?"
+      ],
+      "releases": [
+        {
+          "_id": "1273",
+          "names": [
+            "Reba: Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "986",
+          "names": [
+            "Reba McEntire"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11260",
+      "names": [
+        "Honky Tonk Stomp"
+      ],
+      "releases": [
+        {
+          "_id": "2123",
+          "names": [
+            "#1s... And Then Some"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1607",
+          "names": [
+            "Brooks & Dunn"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Gibbons",
       "targetId": "2118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11260"
+      ]
     },
     {
       "name": "Reba McEntire",
       "targetId": "6255",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6372"
+      ]
     },
     {
       "name": "Kix Brooks",
       "targetId": "9876",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11260"
+      ]
     }
   ]
 }

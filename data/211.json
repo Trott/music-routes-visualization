@@ -1,11 +1,38 @@
 {
   "source": "Pepe the King Prawn",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "35",
+      "names": [
+        "Flashlight (Spaceflight)"
+      ],
+      "releases": [
+        {
+          "_id": "29",
+          "names": [
+            "Muppets From Space"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "27",
+          "names": [
+            "George Clinton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "George Clinton",
       "targetId": "206",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "35"
+      ]
     }
   ]
 }

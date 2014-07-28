@@ -1,26 +1,62 @@
 {
   "source": "Jeff Ballard",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9193",
+      "names": [
+        "Capriccio"
+      ],
+      "releases": [
+        {
+          "_id": "1772",
+          "names": [
+            "Highway Rider"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1368",
+          "names": [
+            "Brad Mehldau"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Matt Chamberlain",
       "targetId": "182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9193"
+      ]
     },
     {
       "name": "Joshua Redman",
       "targetId": "4232",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9193"
+      ]
     },
     {
       "name": "Brad Mehldau",
       "targetId": "8600",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9193"
+      ]
     },
     {
       "name": "Larry Grenadier",
       "targetId": "8601",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9193"
+      ]
     }
   ]
 }

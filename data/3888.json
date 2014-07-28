@@ -1,41 +1,108 @@
 {
   "source": "Frank Owens",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3780",
+      "names": [
+        "Take Me Home, Country Roads"
+      ],
+      "releases": [
+        {
+          "_id": "483",
+          "names": [
+            "Definitive All-Time Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "363",
+          "names": [
+            "John Denver"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11895",
+      "names": [
+        "Maggie's Farm"
+      ],
+      "releases": [
+        {
+          "_id": "2174",
+          "names": [
+            "Bringing It All Back Home"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11895"
+      ]
     },
     {
       "name": "John Denver",
       "targetId": "2523",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Gary Chester",
       "targetId": "3890",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Bill Danoff",
       "targetId": "3891",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Taffy Nivert",
       "targetId": "3892",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Eric Weissberg",
       "targetId": "3893",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3780"
+      ]
     },
     {
       "name": "Bobby Gregg",
       "targetId": "6325",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11895"
+      ]
     }
   ]
 }

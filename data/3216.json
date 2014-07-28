@@ -1,31 +1,70 @@
 {
   "source": "Richie Waits",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2816",
+      "names": [
+        "Right Like A Railroad"
+      ],
+      "releases": [
+        {
+          "_id": "640",
+          "names": [
+            "Fear No Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "501",
+          "names": [
+            "Bob Ostertag"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Ostertag",
       "targetId": "3201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2816"
+      ]
     },
     {
       "name": "Fred Frith",
       "targetId": "3202",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2816"
+      ]
     },
     {
       "name": "Andrea Lewis",
       "targetId": "3211",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2816"
+      ]
     },
     {
       "name": "JD Reilly",
       "targetId": "3214",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2816"
+      ]
     },
     {
       "name": "Annie Toone",
       "targetId": "3215",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2816"
+      ]
     }
   ]
 }

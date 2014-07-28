@@ -1,16 +1,68 @@
 {
   "source": "Serge Gainsbourg",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2241",
+      "names": [
+        "Bonnie And Clyde"
+      ],
+      "releases": [
+        {
+          "_id": "547",
+          "names": [
+            "The Best Of Bardot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "417",
+          "names": [
+            "Brigitte Bardot"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2242",
+      "names": [
+        "69 Année Erotique"
+      ],
+      "releases": [
+        {
+          "_id": "548",
+          "names": [
+            "69 Année Erotique"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "418",
+          "names": [
+            "Serge Gainsbourg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brigitte Bardot",
       "targetId": "2720",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2241"
+      ]
     },
     {
       "name": "Jane Birkin",
       "targetId": "2722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2242"
+      ]
     }
   ]
 }

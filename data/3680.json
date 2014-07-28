@@ -1,46 +1,121 @@
 {
   "source": "Chris Carter",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3543",
+      "names": [
+        "Classic Rot"
+      ],
+      "releases": [
+        {
+          "_id": "720",
+          "names": [
+            "Vinyl"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "557",
+          "names": [
+            "Dramarama"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3544",
+      "names": [
+        "Volunteer, Please"
+      ],
+      "releases": [
+        {
+          "_id": "720",
+          "names": [
+            "Vinyl"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "557",
+          "names": [
+            "Dramarama"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3544"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3543",
+        "3544"
+      ]
     },
     {
       "name": "Brian MacLeod",
       "targetId": "1025",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3543"
+      ]
     },
     {
       "name": "Mick Taylor",
       "targetId": "1995",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3543",
+        "3544"
+      ]
     },
     {
       "name": "Lisa Haley",
       "targetId": "3676",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3543"
+      ]
     },
     {
       "name": "John Easdale",
       "targetId": "3677",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3543",
+        "3544"
+      ]
     },
     {
       "name": "Mr. E",
       "targetId": "3678",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3543",
+        "3544"
+      ]
     },
     {
       "name": "Pete Wood",
       "targetId": "3679",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3543",
+        "3544"
+      ]
     }
   ]
 }

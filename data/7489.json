@@ -1,21 +1,54 @@
 {
   "source": "Martinho Da Assuncao",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7831",
+      "names": [
+        "As Minhas Variacoes Em Ré"
+      ],
+      "releases": [
+        {
+          "_id": "1544",
+          "names": [
+            "Amália Rodrigues Et Les Meilleurs Ensemble De Guitares Et Violes Portugais"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1182",
+          "names": [
+            "Amália Rodrigues"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Amália Rodrigues",
       "targetId": "7480",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7831"
+      ]
     },
     {
       "name": "Jorge Fontes",
       "targetId": "7487",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7831"
+      ]
     },
     {
       "name": "Francisco Peres",
       "targetId": "7488",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7831"
+      ]
     }
   ]
 }

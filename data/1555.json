@@ -1,61 +1,162 @@
 {
   "source": "John Sebastian",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1059",
+      "names": [
+        "Roadhouse Blues"
+      ],
+      "releases": [
+        {
+          "_id": "301",
+          "names": [
+            "Morrison Hotel"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "217",
+          "names": [
+            "The Doors"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1272",
+      "names": [
+        "A Peach In The Orchard"
+      ],
+      "releases": [
+        {
+          "_id": "335",
+          "names": [
+            "Blinking Lights And Other Revelations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "245",
+          "names": [
+            "The Eels"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12828",
+      "names": [
+        "Deja Vu"
+      ],
+      "releases": [
+        {
+          "_id": "2314",
+          "names": [
+            "Deja Vu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Crosby",
       "targetId": "511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12828"
+      ]
     },
     {
       "name": "Stephen Stills",
       "targetId": "638",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12828"
+      ]
     },
     {
       "name": "Graham Nash",
       "targetId": "639",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12828"
+      ]
     },
     {
       "name": "Jim Morrison",
       "targetId": "1550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "Robby Krieger",
       "targetId": "1551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "Ray Manzarek",
       "targetId": "1552",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "John Densmore",
       "targetId": "1553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "Lonnie Mack",
       "targetId": "1554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "Mark Oliver Everett",
       "targetId": "1712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1272"
+      ]
     },
     {
       "name": "Greg Reeves",
       "targetId": "10420",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12828"
+      ]
     },
     {
       "name": "Dallas Taylor",
       "targetId": "10421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12828"
+      ]
     }
   ]
 }

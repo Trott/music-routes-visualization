@@ -1,56 +1,182 @@
 {
   "source": "Busta Jones",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "9227",
+      "names": [
+        "The Paw Paw Negro Blowtorch"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9228",
+      "names": [
+        "Cindy Tells Me"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9230",
+      "names": [
+        "On Some Faraway Beach"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9232",
+      "names": [
+        "Dead Finks Don't Talk"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9227",
+        "9228",
+        "9230",
+        "9232"
+      ]
     },
     {
       "name": "Paul Thompson",
       "targetId": "491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9232"
+      ]
     },
     {
       "name": "Andrew Mackay",
       "targetId": "492",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9230"
+      ]
     },
     {
       "name": "Phil Manzanera",
       "targetId": "493",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9227",
+        "9228"
+      ]
     },
     {
       "name": "Simon King",
       "targetId": "566",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9230"
+      ]
     },
     {
       "name": "Marty Simon",
       "targetId": "567",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9227",
+        "9228"
+      ]
     },
     {
       "name": "Chris Spedding",
       "targetId": "3195",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9227"
+      ]
     },
     {
       "name": "Chris Thomas",
       "targetId": "8639",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9227"
+      ]
     },
     {
       "name": "Nick Judd",
       "targetId": "8640",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9228",
+        "9232"
+      ]
     },
     {
       "name": "Marc Scott",
       "targetId": "8641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9230"
+      ]
     }
   ]
 }

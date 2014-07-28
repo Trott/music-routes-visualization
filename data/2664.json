@@ -1,21 +1,54 @@
 {
   "source": "Tim Skold",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2206",
+      "names": [
+        "Rollcall-Recall"
+      ],
+      "releases": [
+        {
+          "_id": "527",
+          "names": [
+            "Recall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "398",
+          "names": [
+            "Peter Murphy"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sascha Konietzko",
       "targetId": "885",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2206"
+      ]
     },
     {
       "name": "Bill Rieflin",
       "targetId": "889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2206"
+      ]
     },
     {
       "name": "Peter Murphy",
       "targetId": "2665",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2206"
+      ]
     }
   ]
 }

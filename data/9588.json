@@ -1,26 +1,88 @@
 {
   "source": "Yves Desrosiers",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10905",
+      "names": [
+        "Witness"
+      ],
+      "releases": [
+        {
+          "_id": "2070",
+          "names": [
+            "Surfacing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1584",
+          "names": [
+            "Sarah McLachlan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10909",
+      "names": [
+        "Last Dance"
+      ],
+      "releases": [
+        {
+          "_id": "2070",
+          "names": [
+            "Surfacing"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1584",
+          "names": [
+            "Sarah McLachlan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sarah McLachlan",
       "targetId": "706",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10905",
+        "10909"
+      ]
     },
     {
       "name": "Jim Creeggan",
       "targetId": "1137",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10905",
+        "10909"
+      ]
     },
     {
       "name": "Pierre Marchand",
       "targetId": "9584",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10905",
+        "10909"
+      ]
     },
     {
       "name": "Ashwin Sood",
       "targetId": "9586",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10905",
+        "10909"
+      ]
     }
   ]
 }

@@ -1,46 +1,116 @@
 {
   "source": "Allen Ginsberg",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1994",
+      "names": [
+        "Don't Go Home With Your Hard-On"
+      ],
+      "releases": [
+        {
+          "_id": "439",
+          "names": [
+            "Death Of A Ladies' Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "321",
+          "names": [
+            "Leonard Cohen"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4647",
+      "names": [
+        "The Ballad of the Skeletons"
+      ],
+      "releases": [
+        {
+          "_id": "949",
+          "names": [
+            "The Ballad Of The Skeletons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "748",
+          "names": [
+            "Allen Ginsberg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4647"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1994"
+      ]
     },
     {
       "name": "Leonard Cohen",
       "targetId": "2125",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1994"
+      ]
     },
     {
       "name": "Bill Diez",
       "targetId": "2127",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1994"
+      ]
     },
     {
       "name": "Marc Ribot",
       "targetId": "3588",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4647"
+      ]
     },
     {
       "name": "David Mansfield",
       "targetId": "3619",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4647"
+      ]
     },
     {
       "name": "Philip Glass",
       "targetId": "4929",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4647"
+      ]
     },
     {
       "name": "Lenny Kaye",
       "targetId": "4930",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4647"
+      ]
     }
   ]
 }

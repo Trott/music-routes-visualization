@@ -1,96 +1,402 @@
 {
   "source": "Richard Bell",
   "trackCount": 9,
+  "tracks": [
+    {
+      "_id": "1055",
+      "names": [
+        "Move Over"
+      ],
+      "releases": [
+        {
+          "_id": "299",
+          "names": [
+            "Pearl"
+          ]
+        },
+        {
+          "_id": "2072",
+          "names": [
+            "Janis Joplin's Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "216",
+          "names": [
+            "Janis Joplin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1056",
+      "names": [
+        "Cry Baby"
+      ],
+      "releases": [
+        {
+          "_id": "299",
+          "names": [
+            "Pearl"
+          ]
+        },
+        {
+          "_id": "2072",
+          "names": [
+            "Janis Joplin's Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "216",
+          "names": [
+            "Janis Joplin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1057",
+      "names": [
+        "Get It While You Can"
+      ],
+      "releases": [
+        {
+          "_id": "299",
+          "names": [
+            "Pearl"
+          ]
+        },
+        {
+          "_id": "2072",
+          "names": [
+            "Janis Joplin's Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "216",
+          "names": [
+            "Janis Joplin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1058",
+      "names": [
+        "If I Should Fall"
+      ],
+      "releases": [
+        {
+          "_id": "300",
+          "names": [
+            "Jubilation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "14",
+          "names": [
+            "The Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4220",
+      "names": [
+        "Deuce And A Quarter"
+      ],
+      "releases": [
+        {
+          "_id": "849",
+          "names": [
+            "All The King's Men"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "671",
+          "names": [
+            "Scotty Moore & D.J. Fontana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5383",
+      "names": [
+        "One Too Many Mornings"
+      ],
+      "releases": [
+        {
+          "_id": "1067",
+          "names": [
+            "All Blues'd Up: Songs Of Bob Dylan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "14",
+          "names": [
+            "The Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8791",
+      "names": [
+        "When I Paint My Masterpiece"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "14",
+          "names": [
+            "The Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10917",
+      "names": [
+        "Me & Bobby McGee"
+      ],
+      "releases": [
+        {
+          "_id": "2072",
+          "names": [
+            "Janis Joplin's Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "216",
+          "names": [
+            "Janis Joplin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10921",
+      "names": [
+        "Ball & Chain"
+      ],
+      "releases": [
+        {
+          "_id": "2072",
+          "names": [
+            "Janis Joplin's Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "216",
+          "names": [
+            "Janis Joplin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Scotty Moore",
       "targetId": "2",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4220"
+      ]
     },
     {
       "name": "D.J. Fontana",
       "targetId": "8",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4220"
+      ]
     },
     {
       "name": "Rick Danko",
       "targetId": "29",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1058",
+        "4220",
+        "5383",
+        "8791"
+      ]
     },
     {
       "name": "Levon Helm",
       "targetId": "32",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1058",
+        "4220",
+        "5383",
+        "8791"
+      ]
     },
     {
       "name": "Garth Hudson",
       "targetId": "33",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1058",
+        "4220",
+        "5383",
+        "8791"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8791"
+      ]
     },
     {
       "name": "Janis Joplin",
       "targetId": "1542",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1055",
+        "1056",
+        "1057",
+        "10917",
+        "10921"
+      ]
     },
     {
       "name": "Brad Campbell",
       "targetId": "1544",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1055",
+        "1056",
+        "1057",
+        "10917",
+        "10921"
+      ]
     },
     {
       "name": "Clark Pierson",
       "targetId": "1545",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1055",
+        "1056",
+        "1057",
+        "10917",
+        "10921"
+      ]
     },
     {
       "name": "John Till",
       "targetId": "1546",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1055",
+        "1056",
+        "1057",
+        "10917",
+        "10921"
+      ]
     },
     {
       "name": "Ken Pearson",
       "targetId": "1547",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1055",
+        "1056",
+        "1057",
+        "10917",
+        "10921"
+      ]
     },
     {
       "name": "Randy Ciarlante",
       "targetId": "1548",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1058",
+        "5383",
+        "8791"
+      ]
     },
     {
       "name": "Jim Weider",
       "targetId": "1549",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1058",
+        "4220",
+        "5383",
+        "8791"
+      ]
     },
     {
       "name": "Donald \"Duck\" Dunn",
       "targetId": "1805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8791"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4220"
+      ]
     },
     {
       "name": "Stan Lynch",
       "targetId": "2563",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4220"
+      ]
     },
     {
       "name": "Derek Trucks",
       "targetId": "5487",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5383"
+      ]
     },
     {
       "name": "G.E. Smith",
       "targetId": "8167",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8791"
+      ]
     }
   ]
 }

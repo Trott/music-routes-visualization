@@ -1,11 +1,61 @@
 {
   "source": "The-Dream",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9037",
+      "names": [
+        "Gangsta Luv"
+      ],
+      "releases": [
+        {
+          "_id": "1728",
+          "names": [
+            "Malice n Wonderland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "171",
+          "names": [
+            "Snoop Dogg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9042",
+      "names": [
+        "Luv Drunk"
+      ],
+      "releases": [
+        {
+          "_id": "1728",
+          "names": [
+            "Malice n Wonderland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "171",
+          "names": [
+            "Snoop Dogg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9037",
+        "9042"
+      ]
     }
   ]
 }

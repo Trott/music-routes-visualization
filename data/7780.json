@@ -1,16 +1,46 @@
 {
   "source": "John Taylor",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8199",
+      "names": [
+        "Laughter & Forgetting"
+      ],
+      "releases": [
+        {
+          "_id": "1557",
+          "names": [
+            "Gone To Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1191",
+          "names": [
+            "David Sylvian"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Sylvian",
       "targetId": "4964",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8199"
+      ]
     },
     {
       "name": "Kenny Wheeler",
       "targetId": "7779",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8199"
+      ]
     }
   ]
 }

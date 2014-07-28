@@ -1,11 +1,38 @@
 {
   "source": "Richard Patrick",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2274",
+      "names": [
+        "Sanctified"
+      ],
+      "releases": [
+        {
+          "_id": "577",
+          "names": [
+            "Pretty Hate Machine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "442",
+          "names": [
+            "Nine Inch Nails"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Trent Reznor",
       "targetId": "2820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2274"
+      ]
     }
   ]
 }

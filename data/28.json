@@ -1,16 +1,70 @@
 {
   "source": "Corin Tucker",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "15",
+      "names": [
+        "Little Babies"
+      ],
+      "releases": [
+        {
+          "_id": "13",
+          "names": [
+            "Dig Me Out"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "13",
+          "names": [
+            "Sleater-Kinney"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "89",
+      "names": [
+        "Dance Song '97"
+      ],
+      "releases": [
+        {
+          "_id": "13",
+          "names": [
+            "Dig Me Out"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "13",
+          "names": [
+            "Sleater-Kinney"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Janet Weiss",
       "targetId": "26",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "15",
+        "89"
+      ]
     },
     {
       "name": "Carrie Brownstein",
       "targetId": "27",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "15",
+        "89"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Jim Masdea",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4017",
+      "names": [
+        "I Think I Like It"
+      ],
+      "releases": [
+        {
+          "_id": "822",
+          "names": [
+            "Third Stage"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "645",
+          "names": [
+            "Boston"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gary Pihl",
       "targetId": "1739",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4017"
+      ]
     },
     {
       "name": "Brad Delp",
       "targetId": "4187",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4017"
+      ]
     },
     {
       "name": "Tom Scholz",
       "targetId": "4189",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4017"
+      ]
     }
   ]
 }

@@ -1,21 +1,104 @@
 {
   "source": "Milt Hinton",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5437",
+      "names": [
+        "You're So Right For Me"
+      ],
+      "releases": [
+        {
+          "_id": "1077",
+          "names": [
+            "Tony Scott & The Three Dicks: The Complete Milt Hinton And Osie Johnson Quartet Featuring Dick Katz, Dick Garcia And Dick Hyman"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "851",
+          "names": [
+            "The Milt Hinton and Osie Johnson Quartet"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5438",
+      "names": [
+        "Hey Madame"
+      ],
+      "releases": [
+        {
+          "_id": "1077",
+          "names": [
+            "Tony Scott & The Three Dicks: The Complete Milt Hinton And Osie Johnson Quartet Featuring Dick Katz, Dick Garcia And Dick Hyman"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "851",
+          "names": [
+            "The Milt Hinton and Osie Johnson Quartet"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5439",
+      "names": [
+        "Give It All You've Got"
+      ],
+      "releases": [
+        {
+          "_id": "1077",
+          "names": [
+            "Tony Scott & The Three Dicks: The Complete Milt Hinton And Osie Johnson Quartet Featuring Dick Katz, Dick Garcia And Dick Hyman"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "851",
+          "names": [
+            "The Milt Hinton and Osie Johnson Quartet"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dick Hyman",
       "targetId": "5520",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5437",
+        "5438",
+        "5439"
+      ]
     },
     {
       "name": "Tony Scott",
       "targetId": "5521",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5437",
+        "5438",
+        "5439"
+      ]
     },
     {
       "name": "Osie Johnson",
       "targetId": "5523",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5437",
+        "5438",
+        "5439"
+      ]
     }
   ]
 }

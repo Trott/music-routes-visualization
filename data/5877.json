@@ -1,76 +1,261 @@
 {
   "source": "Will Smith",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "5940",
+      "names": [
+        "Got To Be Real"
+      ],
+      "releases": [
+        {
+          "_id": "1184",
+          "names": [
+            "Shark Tale: Motion Picture Soundtrack"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "922",
+          "names": [
+            "Mary J. Blige"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6876",
+      "names": [
+        "The Rain"
+      ],
+      "releases": [
+        {
+          "_id": "1367",
+          "names": [
+            "Collaborations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1055",
+          "names": [
+            "Jill Scott"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8643",
+      "names": [
+        "Big Willie Style"
+      ],
+      "releases": [
+        {
+          "_id": "1661",
+          "names": [
+            "Big Willie Style"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1269",
+          "names": [
+            "Will Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8644",
+      "names": [
+        "Yes Yes Y'all"
+      ],
+      "releases": [
+        {
+          "_id": "1661",
+          "names": [
+            "Big Willie Style"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1269",
+          "names": [
+            "Will Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8645",
+      "names": [
+        "Gettin' Jiggy Wit It"
+      ],
+      "releases": [
+        {
+          "_id": "1661",
+          "names": [
+            "Big Willie Style"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1269",
+          "names": [
+            "Will Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8646",
+      "names": [
+        "Candy"
+      ],
+      "releases": [
+        {
+          "_id": "1661",
+          "names": [
+            "Big Willie Style"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1269",
+          "names": [
+            "Will Smith"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mary J. Blige",
       "targetId": "4043",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5940"
+      ]
     },
     {
       "name": "PNutt",
       "targetId": "5878",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5940"
+      ]
     },
     {
       "name": "Damien DeSandies",
       "targetId": "5879",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5940"
+      ]
     },
     {
       "name": "Dexter Moore",
       "targetId": "5880",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5940"
+      ]
     },
     {
       "name": "Jill Scott",
       "targetId": "6698",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6876"
+      ]
     },
     {
       "name": "Lanar \"Kern\" Brantley",
       "targetId": "8046",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8643",
+        "8644",
+        "8645",
+        "8646"
+      ]
     },
     {
       "name": "Lisa \"Left Eye\" Lopes",
       "targetId": "8047",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8643"
+      ]
     },
     {
       "name": "David Foreman",
       "targetId": "8048",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8643",
+        "8644",
+        "8645",
+        "8646"
+      ]
     },
     {
       "name": "Timothy \"Tyme\" Riley",
       "targetId": "8049",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8643",
+        "8644",
+        "8645"
+      ]
     },
     {
       "name": "Camp Lo",
       "targetId": "8050",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8644"
+      ]
     },
     {
       "name": "DJ Jazzy Jeff",
       "targetId": "8051",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8644",
+        "8645"
+      ]
     },
     {
       "name": "Cameo",
       "targetId": "8052",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8646"
+      ]
     },
     {
       "name": "Larry Blackmon",
       "targetId": "8053",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8646"
+      ]
     },
     {
       "name": "Keith Winfield",
       "targetId": "8054",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8646"
+      ]
     }
   ]
 }

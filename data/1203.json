@@ -1,46 +1,117 @@
 {
   "source": "Jerry Hahn",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "753",
+      "names": [
+        "Run That Body Down"
+      ],
+      "releases": [
+        {
+          "_id": "256",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "180",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "754",
+      "names": [
+        "Armistice Day"
+      ],
+      "releases": [
+        {
+          "_id": "256",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "180",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Simon",
       "targetId": "79",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "753",
+        "754"
+      ]
     },
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "753"
+      ]
     },
     {
       "name": "Ron Carter",
       "targetId": "1201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "753"
+      ]
     },
     {
       "name": "Mike Manieri",
       "targetId": "1204",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "753"
+      ]
     },
     {
       "name": "Fred Lipsius",
       "targetId": "1205",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "754"
+      ]
     },
     {
       "name": "John Schroer",
       "targetId": "1206",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "754"
+      ]
     },
     {
       "name": "Airto Moreira",
       "targetId": "1207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "754"
+      ]
     },
     {
       "name": "David Spinozza",
       "targetId": "1273",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "753"
+      ]
     }
   ]
 }

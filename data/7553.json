@@ -1,16 +1,46 @@
 {
   "source": "Cheryl Lucas",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7866",
+      "names": [
+        "Man From Reno"
+      ],
+      "releases": [
+        {
+          "_id": "1550",
+          "names": [
+            "Welcome To Bregovic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1187",
+          "names": [
+            "Goran Bregovic"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Scott Walker",
       "targetId": "6466",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7866"
+      ]
     },
     {
       "name": "Goran Bregovic",
       "targetId": "7554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7866"
+      ]
     }
   ]
 }

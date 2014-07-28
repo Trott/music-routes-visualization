@@ -1,21 +1,78 @@
 {
   "source": "Jen Wood",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7168",
+      "names": [
+        "Such Great Heights"
+      ],
+      "releases": [
+        {
+          "_id": "1416",
+          "names": [
+            "Give Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1092",
+          "names": [
+            "The Postal Service"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7169",
+      "names": [
+        "Nothing Better"
+      ],
+      "releases": [
+        {
+          "_id": "1416",
+          "names": [
+            "Give Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1092",
+          "names": [
+            "The Postal Service"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Tamborello",
       "targetId": "3024",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7168",
+        "7169"
+      ]
     },
     {
       "name": "Ben Gibbard",
       "targetId": "6919",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7168",
+        "7169"
+      ]
     },
     {
       "name": "Chris Walla",
       "targetId": "6921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7169"
+      ]
     }
   ]
 }

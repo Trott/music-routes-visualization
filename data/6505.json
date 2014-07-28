@@ -1,11 +1,38 @@
 {
   "source": "Kaki King",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6633",
+      "names": [
+        "Ballad Of The Beaconsfield Miners"
+      ],
+      "releases": [
+        {
+          "_id": "1325",
+          "names": [
+            "Echoes, Silence, Patience & Grace"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "324",
+          "names": [
+            "The Foo Fighters"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dave Grohl",
       "targetId": "338",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6633"
+      ]
     }
   ]
 }

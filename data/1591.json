@@ -1,21 +1,54 @@
 {
   "source": "Austin Lucas",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1101",
+      "names": [
+        "Corn Husker"
+      ],
+      "releases": [
+        {
+          "_id": "315",
+          "names": [
+            "The Common Cold"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "230",
+          "names": [
+            "Austin Lucas"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Greg Ashley",
       "targetId": "1590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1101"
+      ]
     },
     {
       "name": "Bob Lucas",
       "targetId": "1592",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1101"
+      ]
     },
     {
       "name": "Joel Pickard",
       "targetId": "1593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1101"
+      ]
     }
   ]
 }

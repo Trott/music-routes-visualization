@@ -1,16 +1,46 @@
 {
   "source": "Momus",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3417",
+      "names": [
+        "As You Turn to Go"
+      ],
+      "releases": [
+        {
+          "_id": "698",
+          "names": [
+            "Hyacinths & Thistles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3417"
+      ]
     },
     {
       "name": "Brian Dewan",
       "targetId": "8045",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3417"
+      ]
     }
   ]
 }

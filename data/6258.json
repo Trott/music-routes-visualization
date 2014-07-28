@@ -1,21 +1,54 @@
 {
   "source": "Gary LeVox",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6374",
+      "names": [
+        "Faith In Love"
+      ],
+      "releases": [
+        {
+          "_id": "1273",
+          "names": [
+            "Reba: Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "986",
+          "names": [
+            "Reba McEntire"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Reba McEntire",
       "targetId": "6255",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6374"
+      ]
     },
     {
       "name": "Jay DeMarcus",
       "targetId": "6259",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6374"
+      ]
     },
     {
       "name": "Joe Don Rooney",
       "targetId": "6260",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6374"
+      ]
     }
   ]
 }

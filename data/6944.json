@@ -1,26 +1,62 @@
 {
   "source": "Natalie Portman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7207",
+      "names": [
+        "Natalie's Rap"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andy Samberg",
       "targetId": "6928",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7207"
+      ]
     },
     {
       "name": "Akiva Schaffer",
       "targetId": "6929",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7207"
+      ]
     },
     {
       "name": "Jorma Taccone",
       "targetId": "6930",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7207"
+      ]
     },
     {
       "name": "Chris Parnell",
       "targetId": "6939",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7207"
+      ]
     }
   ]
 }

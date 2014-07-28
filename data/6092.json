@@ -1,21 +1,76 @@
 {
   "source": "Ron Sexsmith",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6167",
+      "names": [
+        "Song No. 6"
+      ],
+      "releases": [
+        {
+          "_id": "1239",
+          "names": [
+            "A Temporary Dive"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "958",
+          "names": [
+            "Ane Brun"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6168",
+      "names": [
+        "Overcast"
+      ],
+      "releases": [
+        {
+          "_id": "1240",
+          "names": [
+            "Dopamine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "959",
+          "names": [
+            "Mitchell Froom"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mitchell Froom",
       "targetId": "289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6168"
+      ]
     },
     {
       "name": "Pete Thomas",
       "targetId": "429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6168"
+      ]
     },
     {
       "name": "Ane Brun",
       "targetId": "6091",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6167"
+      ]
     }
   ]
 }

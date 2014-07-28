@@ -1,26 +1,62 @@
 {
   "source": "Rick Dufay",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1629",
+      "names": [
+        "Jailbait"
+      ],
+      "releases": [
+        {
+          "_id": "380",
+          "names": [
+            "Rock In A Hard Place"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "271",
+          "names": [
+            "Aerosmith"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steven Tyler",
       "targetId": "1889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1629"
+      ]
     },
     {
       "name": "Joey Kramer",
       "targetId": "1891",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1629"
+      ]
     },
     {
       "name": "Tom Hamilton",
       "targetId": "1893",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1629"
+      ]
     },
     {
       "name": "Jimmy Crespo",
       "targetId": "1895",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1629"
+      ]
     }
   ]
 }

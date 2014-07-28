@@ -1,21 +1,54 @@
 {
   "source": "Jim MacPherson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9841",
+      "names": [
+        "Cannonball"
+      ],
+      "releases": [
+        {
+          "_id": "1890",
+          "names": [
+            "Last Splash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1461",
+          "names": [
+            "The Breeders"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kim Deal",
       "targetId": "607",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9841"
+      ]
     },
     {
       "name": "Kelley Deal",
       "targetId": "8682",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9841"
+      ]
     },
     {
       "name": "Josephine Wiggs",
       "targetId": "9078",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9841"
+      ]
     }
   ]
 }

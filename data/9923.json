@@ -1,21 +1,54 @@
 {
   "source": "Stevie Shears",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11566",
+      "names": [
+        "Saturday Night In The City Of The Dead"
+      ],
+      "releases": [
+        {
+          "_id": "2055",
+          "names": [
+            "No Thanks! The '70s Punk Rebellion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1613",
+          "names": [
+            "Ultravox"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Cross",
       "targetId": "100",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11566"
+      ]
     },
     {
       "name": "Warren Cann",
       "targetId": "9922",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11566"
+      ]
     },
     {
       "name": "John Foxx",
       "targetId": "9924",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11566"
+      ]
     }
   ]
 }

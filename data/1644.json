@@ -1,106 +1,423 @@
 {
   "source": "Scott Ford",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "1167",
+      "names": [
+        "Martin Eden"
+      ],
+      "releases": [
+        {
+          "_id": "324",
+          "names": [
+            "Blackberry Belle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1168",
+      "names": [
+        "Esta Noche"
+      ],
+      "releases": [
+        {
+          "_id": "324",
+          "names": [
+            "Blackberry Belle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1193",
+      "names": [
+        "There's Been An Accident"
+      ],
+      "releases": [
+        {
+          "_id": "327",
+          "names": [
+            "Powder Burns"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1194",
+      "names": [
+        "Bonnie Brae"
+      ],
+      "releases": [
+        {
+          "_id": "327",
+          "names": [
+            "Powder Burns"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1196",
+      "names": [
+        "Powder Burns"
+      ],
+      "releases": [
+        {
+          "_id": "327",
+          "names": [
+            "Powder Burns"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3309",
+      "names": [
+        "Too Tough To Die"
+      ],
+      "releases": [
+        {
+          "_id": "690",
+          "names": [
+            "She Loves You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3311",
+      "names": [
+        "Strange Fruit"
+      ],
+      "releases": [
+        {
+          "_id": "690",
+          "names": [
+            "She Loves You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3315",
+      "names": [
+        "A Love Supreme"
+      ],
+      "releases": [
+        {
+          "_id": "690",
+          "names": [
+            "She Loves You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3316",
+      "names": [
+        "Please Stay (Once You Go Away)"
+      ],
+      "releases": [
+        {
+          "_id": "690",
+          "names": [
+            "She Loves You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3317",
+      "names": [
+        "Black Is The Color Of My True Love's Hair"
+      ],
+      "releases": [
+        {
+          "_id": "690",
+          "names": [
+            "She Loves You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "237",
+          "names": [
+            "The Twilight Singers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mark Lanegan",
       "targetId": "779",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3311",
+        "3315"
+      ]
     },
     {
       "name": "Kamasi Washington",
       "targetId": "1118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1168"
+      ]
     },
     {
       "name": "Greg Dulli",
       "targetId": "1641",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "1167",
+        "1168",
+        "1193",
+        "1194",
+        "1196",
+        "3309",
+        "3311",
+        "3315",
+        "3316",
+        "3317"
+      ]
     },
     {
       "name": "Jon Skibic",
       "targetId": "1642",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "1168",
+        "1193",
+        "1194",
+        "3309",
+        "3311",
+        "3315",
+        "3316",
+        "3317"
+      ]
     },
     {
       "name": "Mathias Schneeberger",
       "targetId": "1643",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1167",
+        "1168",
+        "3317"
+      ]
     },
     {
       "name": "Brian Young",
       "targetId": "1645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1167",
+        "3317"
+      ]
     },
     {
       "name": "Greg Wieczorec",
       "targetId": "1646",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1168",
+        "1193",
+        "1194",
+        "1196"
+      ]
     },
     {
       "name": "Josh Lampkins",
       "targetId": "1647",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1168"
+      ]
     },
     {
       "name": "Chris Gray",
       "targetId": "1648",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1168"
+      ]
     },
     {
       "name": "Richard Dodd",
       "targetId": "1660",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1193",
+        "1196"
+      ]
     },
     {
       "name": "Bobby MacIntyre",
       "targetId": "1661",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1193",
+        "3309",
+        "3311",
+        "3315",
+        "3316"
+      ]
     },
     {
       "name": "Leah Katz",
       "targetId": "1662",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1193",
+        "1196"
+      ]
     },
     {
       "name": "Daphne Chen",
       "targetId": "1663",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1193",
+        "1196"
+      ]
     },
     {
       "name": "Eric Gorfain",
       "targetId": "1664",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1193",
+        "1196"
+      ]
     },
     {
       "name": "Joseph Arthur",
       "targetId": "1665",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1193"
+      ]
     },
     {
       "name": "Ani DiFranco",
       "targetId": "1666",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1194",
+        "1196"
+      ]
     },
     {
       "name": "Mike Napolitano",
       "targetId": "1667",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1196"
+      ]
     },
     {
       "name": "David Rosser",
       "targetId": "1668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1196"
+      ]
     },
     {
       "name": "Molly McGuire",
       "targetId": "1858",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3317"
+      ]
     },
     {
       "name": "John Nooney",
       "targetId": "3563",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3309",
+        "3311",
+        "3315",
+        "3316"
+      ]
     }
   ]
 }

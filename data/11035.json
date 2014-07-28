@@ -1,26 +1,84 @@
 {
   "source": "Maya Angelou",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13471",
+      "names": [
+        "Stone Cold Dead In The Market"
+      ],
+      "releases": [
+        {
+          "_id": "2477",
+          "names": [
+            "Miss Calypso"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1761",
+          "names": [
+            "Maya Angelou"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13472",
+      "names": [
+        "Been Found"
+      ],
+      "releases": [
+        {
+          "_id": "2478",
+          "names": [
+            "Been Found"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1762",
+          "names": [
+            "Ashford & Simpson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Al Bello",
       "targetId": "11036",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13471"
+      ]
     },
     {
       "name": "Tommy Tedesco",
       "targetId": "1529",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13471"
+      ]
     },
     {
       "name": "Nickolas Ashford",
       "targetId": "4284",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13472"
+      ]
     },
     {
       "name": "Valerie Simpson",
       "targetId": "4285",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13472"
+      ]
     }
   ]
 }

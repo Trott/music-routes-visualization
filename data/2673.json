@@ -1,41 +1,131 @@
 {
   "source": "Omarion",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2211",
+      "names": [
+        "Man Up"
+      ],
+      "releases": [
+        {
+          "_id": "531",
+          "names": [
+            "21 (European version)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "402",
+          "names": [
+            "Omarion"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2212",
+      "names": [
+        "Bump Bump Bump"
+      ],
+      "releases": [
+        {
+          "_id": "532",
+          "names": [
+            "Pandemonium!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "403",
+          "names": [
+            "B2K"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8113",
+      "names": [
+        "Let Me Hold You"
+      ],
+      "releases": [
+        {
+          "_id": "1588",
+          "names": [
+            "Wanted"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1215",
+          "names": [
+            "Bow Wow",
+            "Lil' Bow Wow"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rain",
       "targetId": "2674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2211"
+      ]
     },
     {
       "name": "Lil' Fizz",
       "targetId": "2675",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "Raz-B",
       "targetId": "2676",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "J-Boog",
       "targetId": "2677",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "Sean Combs",
       "targetId": "2678",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "Donnie Lyle",
       "targetId": "2679",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "Bow Wow",
       "targetId": "7718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8113"
+      ]
     }
   ]
 }

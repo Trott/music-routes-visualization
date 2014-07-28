@@ -1,51 +1,126 @@
 {
   "source": "Jennifer Choi",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "8844",
+      "names": [
+        "The Quiet Surf"
+      ],
+      "releases": [
+        {
+          "_id": "1697",
+          "names": [
+            "The Gift"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1307",
+          "names": [
+            "John Zorn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8848",
+      "names": [
+        "Mao's Moon"
+      ],
+      "releases": [
+        {
+          "_id": "1697",
+          "names": [
+            "The Gift"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1307",
+          "names": [
+            "John Zorn"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gregory Cohen",
       "targetId": "428",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8848"
+      ]
     },
     {
       "name": "Trevor Dunn",
       "targetId": "3207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8844"
+      ]
     },
     {
       "name": "Marc Ribot",
       "targetId": "3588",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8844"
+      ]
     },
     {
       "name": "Cyro Baptista",
       "targetId": "8214",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8844",
+        "8848"
+      ]
     },
     {
       "name": "Joey Baron",
       "targetId": "8215",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8848"
+      ]
     },
     {
       "name": "Jamie Saft",
       "targetId": "8216",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8844",
+        "8848"
+      ]
     },
     {
       "name": "Raman Ramakrishnan",
       "targetId": "8219",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8848"
+      ]
     },
     {
       "name": "Dave Douglas",
       "targetId": "8220",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8848"
+      ]
     },
     {
       "name": "Masumi Rostad",
       "targetId": "8221",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8848"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Tupac Shakur",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5931",
+      "names": [
+        "Last Wordz"
+      ],
+      "releases": [
+        {
+          "_id": "1179",
+          "names": [
+            "Strictly 4 My N.I.G.G.A.Z."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "918",
+          "names": [
+            "2Pac"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ice-T",
       "targetId": "2798",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5931"
+      ]
     },
     {
       "name": "Ice Cube",
       "targetId": "5867",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5931"
+      ]
     }
   ]
 }

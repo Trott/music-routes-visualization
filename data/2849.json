@@ -1,56 +1,185 @@
 {
   "source": "Richard Bowden",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2311",
+      "names": [
+        "The Highwayman"
+      ],
+      "releases": [
+        {
+          "_id": "500",
+          "names": [
+            "Bella Donna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "375",
+          "names": [
+            "Stevie Nicks"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4687",
+      "names": [
+        "I'm Gone"
+      ],
+      "releases": [
+        {
+          "_id": "956",
+          "names": [
+            "Shiloh"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "754",
+          "names": [
+            "Shiloh"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4688",
+      "names": [
+        "Same Old Story"
+      ],
+      "releases": [
+        {
+          "_id": "956",
+          "names": [
+            "Shiloh"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "754",
+          "names": [
+            "Shiloh"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4689",
+      "names": [
+        "God Is Where You Find Him"
+      ],
+      "releases": [
+        {
+          "_id": "956",
+          "names": [
+            "Shiloh"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "754",
+          "names": [
+            "Shiloh"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stevie Nicks",
       "targetId": "355",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2311"
+      ]
     },
     {
       "name": "Al Perkins",
       "targetId": "377",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4687",
+        "4688",
+        "4689"
+      ]
     },
     {
       "name": "Don Henley",
       "targetId": "380",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2311",
+        "4687",
+        "4688",
+        "4689"
+      ]
     },
     {
       "name": "Mike Campbell",
       "targetId": "646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2311"
+      ]
     },
     {
       "name": "Don Felder",
       "targetId": "668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2311"
+      ]
     },
     {
       "name": "Sharon Celani",
       "targetId": "2565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2311"
+      ]
     },
     {
       "name": "Lori Perry-Nicks",
       "targetId": "2566",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2311"
+      ]
     },
     {
       "name": "Davey Johnstone",
       "targetId": "2845",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2311"
+      ]
     },
     {
       "name": "Jim Norman",
       "targetId": "4954",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4687",
+        "4688",
+        "4689"
+      ]
     },
     {
       "name": "Mike Bowden",
       "targetId": "4955",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4687",
+        "4688",
+        "4689"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Andreas \"Blacky\" Schwarz-Ruszczynski",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9819",
+      "names": [
+        "Romeos"
+      ],
+      "releases": [
+        {
+          "_id": "1883",
+          "names": [
+            "The Breathtaking Blue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1455",
+          "names": [
+            "Alphaville"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miriam Stockley",
       "targetId": "863",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9819"
+      ]
     },
     {
       "name": "Mae McKenna",
       "targetId": "4502",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9819"
+      ]
     },
     {
       "name": "Marian Gold",
       "targetId": "9063",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9819"
+      ]
     }
   ]
 }

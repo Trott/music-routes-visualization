@@ -1,11 +1,61 @@
 {
   "source": "Kesha",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6064",
+      "names": [
+        "Right Round"
+      ],
+      "releases": [
+        {
+          "_id": "1218",
+          "names": [
+            "R.O.O.T.S."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6065",
+      "names": [
+        "Touch Me"
+      ],
+      "releases": [
+        {
+          "_id": "1218",
+          "names": [
+            "R.O.O.T.S."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6064",
+        "6065"
+      ]
     }
   ]
 }

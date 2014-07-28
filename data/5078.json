@@ -1,36 +1,84 @@
 {
   "source": "Mike Appel",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4939",
+      "names": [
+        "Thunder Road"
+      ],
+      "releases": [
+        {
+          "_id": "101",
+          "names": [
+            "Born To Run"
+          ]
+        },
+        {
+          "_id": "1106",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4939"
+      ]
     },
     {
       "name": "Roy Bittan",
       "targetId": "463",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4939"
+      ]
     },
     {
       "name": "Clarence Clemons",
       "targetId": "465",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4939"
+      ]
     },
     {
       "name": "Garry W. Tallent",
       "targetId": "467",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4939"
+      ]
     },
     {
       "name": "Max Weinberg",
       "targetId": "468",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4939"
+      ]
     },
     {
       "name": "Steve Van Zandt",
       "targetId": "5079",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4939"
+      ]
     }
   ]
 }

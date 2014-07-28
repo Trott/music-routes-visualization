@@ -1,16 +1,46 @@
 {
   "source": "Lindsey Perryman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "710",
+      "names": [
+        "Can I Get A Flicc Witchu"
+      ],
+      "releases": [
+        {
+          "_id": "247",
+          "names": [
+            "R&G (Rhythm & Gangsta): The Masterpiece"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "171",
+          "names": [
+            "Snoop Dogg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bootsy Collins",
       "targetId": "207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "710"
+      ]
     },
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "710"
+      ]
     }
   ]
 }

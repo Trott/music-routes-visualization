@@ -1,26 +1,85 @@
 {
   "source": "Ben Hall",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3728",
+      "names": [
+        "Untitled"
+      ],
+      "releases": [
+        {
+          "_id": "745",
+          "names": [
+            "Machine Yardz"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "577",
+          "names": [
+            "Machine Yardz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3729",
+      "names": [
+        "Untitled"
+      ],
+      "releases": [
+        {
+          "_id": "746",
+          "names": [
+            "Violent Forms Of Laughter Part 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "578",
+          "names": [
+            "Mêlée"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Olson",
       "targetId": "3825",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3728"
+      ]
     },
     {
       "name": "Hans Buetow",
       "targetId": "3827",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3728",
+        "3729"
+      ]
     },
     {
       "name": "Tovah Olson",
       "targetId": "3828",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3728"
+      ]
     },
     {
       "name": "Nate Wooley",
       "targetId": "3829",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3729"
+      ]
     }
   ]
 }

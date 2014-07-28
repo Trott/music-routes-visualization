@@ -1,56 +1,132 @@
 {
   "source": "Kenny Greenberg",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6632",
+      "names": [
+        "Real Mean Bottle"
+      ],
+      "releases": [
+        {
+          "_id": "1324",
+          "names": [
+            "Face The Promise"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "969",
+          "names": [
+            "Bob Seger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6645",
+      "names": [
+        "I Wanna Be With You"
+      ],
+      "releases": [
+        {
+          "_id": "1328",
+          "names": [
+            "I Wanna Be With You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1028",
+          "names": [
+            "Mandy Moore"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Seger",
       "targetId": "415",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6632"
+      ]
     },
     {
       "name": "JT Corenflos",
       "targetId": "6189",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6632"
+      ]
     },
     {
       "name": "Kid Rock",
       "targetId": "6500",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6632"
+      ]
     },
     {
       "name": "Michael Rhodes",
       "targetId": "6501",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6632"
+      ]
     },
     {
       "name": "Steve Brewster",
       "targetId": "6502",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6632"
+      ]
     },
     {
       "name": "Gordon Mote",
       "targetId": "6504",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6632"
+      ]
     },
     {
       "name": "Mandy Moore",
       "targetId": "6521",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6645"
+      ]
     },
     {
       "name": "Tiffany Arbuckle Lee",
       "targetId": "6522",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6645"
+      ]
     },
     {
       "name": "Keith Thomas",
       "targetId": "6523",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6645"
+      ]
     },
     {
       "name": "Jerry McPherson",
       "targetId": "6524",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6645"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Jim Hanson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5380",
+      "names": [
+        "Dead Man Walkin'"
+      ],
+      "releases": [
+        {
+          "_id": "1066",
+          "names": [
+            "Music From And Inspired By The Motion Picture Dead Man Walking"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5380"
+      ]
     },
     {
       "name": "Gary Mallaber",
       "targetId": "330",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5380"
+      ]
     },
     {
       "name": "Danny Federici",
       "targetId": "466",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5380"
+      ]
     }
   ]
 }

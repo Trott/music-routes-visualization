@@ -1,301 +1,767 @@
 {
   "source": "Jeff Beck",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "71",
+      "names": [
+        "The Guv'nor"
+      ],
+      "releases": [
+        {
+          "_id": "63",
+          "names": [
+            "Another World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "52",
+          "names": [
+            "Brian May"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3086",
+      "names": [
+        "I Shall Be Released"
+      ],
+      "releases": [
+        {
+          "_id": "663",
+          "names": [
+            "The Secret Policeman's Other Ball"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "518",
+          "names": [
+            "The Secret Police"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6370",
+      "names": [
+        "Up To The Mountain (MLK Song)"
+      ],
+      "releases": [
+        {
+          "_id": "1272",
+          "names": [
+            "iTunes-only single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6413",
+      "names": [
+        "Break Like The Wind"
+      ],
+      "releases": [
+        {
+          "_id": "1282",
+          "names": [
+            "Break Like The Wind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "990",
+          "names": [
+            "Spinal Tap"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6697",
+      "names": [
+        "Good News"
+      ],
+      "releases": [
+        {
+          "_id": "1341",
+          "names": [
+            "Les Paul And Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1038",
+          "names": [
+            "Les Paul"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7001",
+      "names": [
+        "54-46 Was My Number"
+      ],
+      "releases": [
+        {
+          "_id": "1393",
+          "names": [
+            "True Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1073",
+          "names": [
+            "Toots and the Maytals"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8889",
+      "names": [
+        "Lookin' For Another Pure Love"
+      ],
+      "releases": [
+        {
+          "_id": "1700",
+          "names": [
+            "Talking Book"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9453",
+      "names": [
+        "Dirty Mind"
+      ],
+      "releases": [
+        {
+          "_id": "1824",
+          "names": [
+            "You Had It Coming"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1414",
+          "names": [
+            "Jeff Beck"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9454",
+      "names": [
+        "Rollin' And Tumblin'"
+      ],
+      "releases": [
+        {
+          "_id": "1824",
+          "names": [
+            "You Had It Coming"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1414",
+          "names": [
+            "Jeff Beck"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9709",
+      "names": [
+        "Beck's Bolero"
+      ],
+      "releases": [
+        {
+          "_id": "1861",
+          "names": [
+            "Truth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1414",
+          "names": [
+            "Jeff Beck"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9936",
+      "names": [
+        "Never Alone"
+      ],
+      "releases": [
+        {
+          "_id": "1909",
+          "names": [
+            "Emotion & Commotion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1414",
+          "names": [
+            "Jeff Beck"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11263",
+      "names": [
+        "Hey Mr. Millionaire"
+      ],
+      "releases": [
+        {
+          "_id": "2126",
+          "names": [
+            "XXX"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "466",
+          "names": [
+            "ZZ Top"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12488",
+      "names": [
+        "My Blind Life"
+      ],
+      "releases": [
+        {
+          "_id": "2241",
+          "names": [
+            "Birdland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1631",
+          "names": [
+            "The Yardbirds"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Geldof",
       "targetId": "42",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Stevie Wonder",
       "targetId": "83",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8889"
+      ]
     },
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Midge Ure",
       "targetId": "96",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Phil Collins",
       "targetId": "97",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Chris Cross",
       "targetId": "100",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Sting",
       "targetId": "122",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "David St. Hubbins",
       "targetId": "171",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Harry Shearer",
       "targetId": "175",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Brian May",
       "targetId": "213",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "71"
+      ]
     },
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9709"
+      ]
     },
     {
       "name": "John Paul Jones",
       "targetId": "302",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9709"
+      ]
     },
     {
       "name": "Cozy Powell",
       "targetId": "312",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "71"
+      ]
     },
     {
       "name": "Steve Lukather",
       "targetId": "402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Mel Collins",
       "targetId": "532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Martin Drover",
       "targetId": "834",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Jeff Daly",
       "targetId": "835",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Vinnie Colaiuta",
       "targetId": "839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9936"
+      ]
     },
     {
       "name": "Mark Isham",
       "targetId": "924",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Nicky Hopkins",
       "targetId": "985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9709"
+      ]
     },
     {
       "name": "Joe Satriani",
       "targetId": "1286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Slash",
       "targetId": "1287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Buzzy Feiten",
       "targetId": "1407",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8889"
+      ]
     },
     {
       "name": "Doreen Chanter",
       "targetId": "1959",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Keith Moon",
       "targetId": "1984",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9709"
+      ]
     },
     {
       "name": "Billy Gibbons",
       "targetId": "2118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11263"
+      ]
     },
     {
       "name": "Micky Moody",
       "targetId": "2521",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Sheena Easton",
       "targetId": "2658",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Frank Beard",
       "targetId": "2955",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11263"
+      ]
     },
     {
       "name": "Dusty Hill",
       "targetId": "2956",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11263"
+      ]
     },
     {
       "name": "Chas Jankel",
       "targetId": "3373",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "John Altman",
       "targetId": "3374",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Digby Fairweather",
       "targetId": "3375",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Malcolm Griffiths",
       "targetId": "3376",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Michael Henry",
       "targetId": "3377",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Paul Cosh",
       "targetId": "3378",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Donovan",
       "targetId": "3379",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Mo Foster",
       "targetId": "3380",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Neil Murray",
       "targetId": "3381",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Linda Taylor",
       "targetId": "3382",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Sharon Campbell",
       "targetId": "3384",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Tom Robinson",
       "targetId": "3385",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Simon Phillips",
       "targetId": "3386",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "John Etheridge",
       "targetId": "3387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Neil Innes",
       "targetId": "3388",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Ray Russell",
       "targetId": "3389",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3086"
+      ]
     },
     {
       "name": "Kelly Clarkson",
       "targetId": "6254",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6370"
+      ]
     },
     {
       "name": "Les Paul",
       "targetId": "6561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6697"
+      ]
     },
     {
       "name": "Toots Hibbert",
       "targetId": "6822",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7001"
+      ]
     },
     {
       "name": "Shirley Brewer",
       "targetId": "7442",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8889"
+      ]
     },
     {
       "name": "Debra Wilson",
       "targetId": "8232",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8889"
+      ]
     },
     {
       "name": "Loris Harvin",
       "targetId": "8233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8889"
+      ]
     },
     {
       "name": "Imogen Heap",
       "targetId": "8806",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9453",
+        "9454"
+      ]
     },
     {
       "name": "Tal Wilkenfeld",
       "targetId": "9131",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9936"
+      ]
     },
     {
       "name": "Jason Rebello",
       "targetId": "9132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9936"
+      ]
     },
     {
       "name": "Chris Dreja",
       "targetId": "10276",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12488"
+      ]
     },
     {
       "name": "Jim McCarty",
       "targetId": "10277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12488"
+      ]
     },
     {
       "name": "John Idan",
       "targetId": "10280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12488"
+      ]
     },
     {
       "name": "Simon McCarty",
       "targetId": "10281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12488"
+      ]
     }
   ]
 }

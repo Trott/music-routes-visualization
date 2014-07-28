@@ -1,406 +1,974 @@
 {
   "source": "Kathleen Edwards",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "3529",
+      "names": [
+        "Buffalo"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3530",
+      "names": [
+        "The Cheapest Key"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3531",
+      "names": [
+        "Asking for Flowers"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3532",
+      "names": [
+        "Alicia Ross"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3533",
+      "names": [
+        "I Make the Dough, You Get the Glory"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3534",
+      "names": [
+        "Oil Man's War"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3535",
+      "names": [
+        "Sure As Shit"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3536",
+      "names": [
+        "Run"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3537",
+      "names": [
+        "Oh, Canada"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3538",
+      "names": [
+        "Scared At Night"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3539",
+      "names": [
+        "Goodnight, California"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3542",
+      "names": [
+        "The Golden State"
+      ],
+      "releases": [
+        {
+          "_id": "719",
+          "names": [
+            "A Year In The Wilderness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "556",
+          "names": [
+            "John Doe"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9191",
+      "names": [
+        "Wavin' Flag"
+      ],
+      "releases": [
+        {
+          "_id": "1770",
+          "names": [
+            "[digital download]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1366",
+          "names": [
+            "Young Artists For Haiti"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sebastian Steinberg",
       "targetId": "37",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3539"
+      ]
     },
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "3529",
+        "3530",
+        "3531",
+        "3533",
+        "3534",
+        "3536"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3532",
+        "3534",
+        "3536",
+        "3537"
+      ]
     },
     {
       "name": "Greg Leisz",
       "targetId": "1061",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "3530",
+        "3531",
+        "3533",
+        "3537",
+        "3539"
+      ]
     },
     {
       "name": "Jim Creeggan",
       "targetId": "1137",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Jully Black",
       "targetId": "2185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Kardinal Offishall",
       "targetId": "2186",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Tom Cochrane",
       "targetId": "2498",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Don Heffington",
       "targetId": "3274",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "3530",
+        "3531",
+        "3533",
+        "3534",
+        "3536",
+        "3539"
+      ]
     },
     {
       "name": "John Doe",
       "targetId": "3508",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3542"
+      ]
     },
     {
       "name": "Gary Craig",
       "targetId": "3662",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3529",
+        "3532",
+        "3537"
+      ]
     },
     {
       "name": "Colin Cripps",
       "targetId": "3663",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "3529",
+        "3530",
+        "3532",
+        "3533",
+        "3534",
+        "3536",
+        "3537",
+        "3538"
+      ]
     },
     {
       "name": "Jim Bryson",
       "targetId": "3664",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3529",
+        "3531",
+        "3534"
+      ]
     },
     {
       "name": "Anne Lindsay",
       "targetId": "3665",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3529",
+        "3532",
+        "3539"
+      ]
     },
     {
       "name": "Johann Lotter",
       "targetId": "3666",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3529",
+        "3532",
+        "3539"
+      ]
     },
     {
       "name": "Kevin Fox",
       "targetId": "3667",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3529",
+        "3532",
+        "3539"
+      ]
     },
     {
       "name": "Bob Packwood",
       "targetId": "3668",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3530",
+        "3533",
+        "3534"
+      ]
     },
     {
       "name": "Paul Reddick",
       "targetId": "3669",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3530",
+        "3532",
+        "3539"
+      ]
     },
     {
       "name": "Jim Scott",
       "targetId": "3670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     },
     {
       "name": "John Ginty",
       "targetId": "3671",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3531",
+        "3539"
+      ]
     },
     {
       "name": "Paul Bryan",
       "targetId": "3672",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3532",
+        "3537"
+      ]
     },
     {
       "name": "Margaret Edwards",
       "targetId": "3673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3533"
+      ]
     },
     {
       "name": "Burke Carroll",
       "targetId": "3674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3538"
+      ]
     },
     {
       "name": "Justin Rutledge",
       "targetId": "3675",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3538"
+      ]
     },
     {
       "name": "Nelly Furtado",
       "targetId": "6013",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Deryck Whibley",
       "targetId": "6297",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Jacob Hoggard",
       "targetId": "6893",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Esthero",
       "targetId": "7030",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Emily Haines",
       "targetId": "7316",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Kevin Drew",
       "targetId": "8181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Drake",
       "targetId": "8201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Justin Bieber",
       "targetId": "8443",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Pierre Bouvier",
       "targetId": "8547",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Brendan Canning",
       "targetId": "8548",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "K'naan",
       "targetId": "8549",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Sam Roberts",
       "targetId": "8550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Tyler Connolly",
       "targetId": "8551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Josh Ramsay",
       "targetId": "8552",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Jay Malinowski",
       "targetId": "8553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Chin Injeti",
       "targetId": "8554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Red1",
       "targetId": "8555",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Lights",
       "targetId": "8556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Serena Ryder",
       "targetId": "8557",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "James Shaw",
       "targetId": "8558",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Hawksley Workman",
       "targetId": "8559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Ima",
       "targetId": "8560",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Elisapie Isaac",
       "targetId": "8561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Pierre Lapointe",
       "targetId": "8562",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Corb Lund",
       "targetId": "8563",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Fefe Dobson",
       "targetId": "8564",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Kevin Parent",
       "targetId": "8565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Lamar Ashe",
       "targetId": "8566",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Colin James",
       "targetId": "8567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Nikki Yanofsky",
       "targetId": "8568",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Suzie McNeil",
       "targetId": "8569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Stephan Moccio",
       "targetId": "8570",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Aoin Clarke",
       "targetId": "8571",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Jim Cuddy",
       "targetId": "8572",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Shiloh",
       "targetId": "8573",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Stacey McKitrick",
       "targetId": "8574",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Jessie Farrell",
       "targetId": "8575",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Colin MacDonald",
       "targetId": "8576",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Justin Nozuka",
       "targetId": "8577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Hayley Sales",
       "targetId": "8578",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Matt Mays",
       "targetId": "8579",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Dallas Green",
       "targetId": "8580",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Pat Kordyback",
       "targetId": "8581",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Dave Faber",
       "targetId": "8582",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Brandon Lehti",
       "targetId": "8583",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Torquil Campbell",
       "targetId": "8584",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Remigio Pereira",
       "targetId": "8585",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Victor Micallef",
       "targetId": "8586",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Fraser Walters",
       "targetId": "8587",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Clifton Murray",
       "targetId": "8588",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Max Kerman",
       "targetId": "8589",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Mike DeAngelis",
       "targetId": "8590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Dan Griffin",
       "targetId": "8591",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Nick Dika",
       "targetId": "8592",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     },
     {
       "name": "Tim Oxford",
       "targetId": "8593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9191"
+      ]
     }
   ]
 }

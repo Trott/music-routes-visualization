@@ -1,11 +1,38 @@
 {
   "source": "Wendell Crow",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "606",
+      "names": [
+        "We Do What We Can"
+      ],
+      "releases": [
+        {
+          "_id": "232",
+          "names": [
+            "Tuesday Night Music Club"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "162",
+          "names": [
+            "Sheryl Crow"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sheryl Crow",
       "targetId": "1018",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "606"
+      ]
     }
   ]
 }

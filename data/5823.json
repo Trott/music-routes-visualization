@@ -1,26 +1,62 @@
 {
   "source": "Sara Watkins",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5907",
+      "names": [
+        "Helena"
+      ],
+      "releases": [
+        {
+          "_id": "1169",
+          "names": [
+            "Why Should The Fire Die?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "910",
+          "names": [
+            "Nickel Creek"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Thile",
       "targetId": "585",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5907"
+      ]
     },
     {
       "name": "Sean Watkins",
       "targetId": "5820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5907"
+      ]
     },
     {
       "name": "Mark Schatz",
       "targetId": "5824",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5907"
+      ]
     },
     {
       "name": "Eric Valentine",
       "targetId": "5825",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5907"
+      ]
     }
   ]
 }

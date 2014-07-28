@@ -1,206 +1,600 @@
 {
   "source": "Trevor Lawrence",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "4469",
+      "names": [
+        "(It's All Da-Da-Down To) Goodnight Vienna"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4470",
+      "names": [
+        "Occapella"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4471",
+      "names": [
+        "Oo-Wee"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4473",
+      "names": [
+        "Snookeroo"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4474",
+      "names": [
+        "All By Myself"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4476",
+      "names": [
+        "No No Song"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7798",
+      "names": [
+        "Sir Duke"
+      ],
+      "releases": [
+        {
+          "_id": "1539",
+          "names": [
+            "Songs In The Key of Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7799",
+      "names": [
+        "I Wish"
+      ],
+      "releases": [
+        {
+          "_id": "1539",
+          "names": [
+            "Songs In The Key of Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7811",
+      "names": [
+        "Another Star"
+      ],
+      "releases": [
+        {
+          "_id": "1539",
+          "names": [
+            "Songs In The Key of Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8887",
+      "names": [
+        "Superstition"
+      ],
+      "releases": [
+        {
+          "_id": "1700",
+          "names": [
+            "Talking Book"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4469",
+        "4474"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4469",
+        "4470",
+        "4471",
+        "4473",
+        "4474",
+        "4476"
+      ]
     },
     {
       "name": "Robbie Robertson",
       "targetId": "31",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4473"
+      ]
     },
     {
       "name": "Dr. John",
       "targetId": "58",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4470",
+        "4471",
+        "4474"
+      ]
     },
     {
       "name": "Stevie Wonder",
       "targetId": "83",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7798",
+        "7799",
+        "7811",
+        "8887"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4469",
+        "4470",
+        "4471",
+        "4473",
+        "4474"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4469",
+        "4470",
+        "4471",
+        "4473",
+        "4474",
+        "4476"
+      ]
     },
     {
       "name": "Chuck Findley",
       "targetId": "397",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4473"
+      ]
     },
     {
       "name": "Steve Madaio",
       "targetId": "412",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "4469",
+        "4470",
+        "4471",
+        "4473",
+        "4474",
+        "7798",
+        "7799",
+        "7811",
+        "8887"
+      ]
     },
     {
       "name": "Raymond Lee Pounds",
       "targetId": "558",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7798",
+        "7799"
+      ]
     },
     {
       "name": "Bobby Keyes",
       "targetId": "644",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4469",
+        "4470",
+        "4471",
+        "4473",
+        "4474"
+      ]
     },
     {
       "name": "James Newton Howard",
       "targetId": "650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4473"
+      ]
     },
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4473"
+      ]
     },
     {
       "name": "Nicky Hopkins",
       "targetId": "985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4476"
+      ]
     },
     {
       "name": "Richard Perry",
       "targetId": "987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4474"
+      ]
     },
     {
       "name": "Carl Fortina",
       "targetId": "1479",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4469"
+      ]
     },
     {
       "name": "Billy Preston",
       "targetId": "1674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4469"
+      ]
     },
     {
       "name": "James Gilstrap",
       "targetId": "2355",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4470"
+      ]
     },
     {
       "name": "Harry Nilsson",
       "targetId": "3193",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4476"
+      ]
     },
     {
       "name": "Lew McCreary",
       "targetId": "4511",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4470",
+        "4471",
+        "4474"
+      ]
     },
     {
       "name": "Dennis Coffey",
       "targetId": "4572",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4471"
+      ]
     },
     {
       "name": "Lon Van Eaton",
       "targetId": "4577",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4469",
+        "4470"
+      ]
     },
     {
       "name": "Jesse Ed Davis",
       "targetId": "4578",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4469",
+        "4470",
+        "4476"
+      ]
     },
     {
       "name": "Clydie King",
       "targetId": "4580",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4469",
+        "4470",
+        "4471",
+        "4473",
+        "4474"
+      ]
     },
     {
       "name": "Joe Greene",
       "targetId": "4581",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4470",
+        "4473",
+        "4474"
+      ]
     },
     {
       "name": "Ira Hawkins",
       "targetId": "4582",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4470"
+      ]
     },
     {
       "name": "Vini Poncia",
       "targetId": "4583",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4471",
+        "4474"
+      ]
     },
     {
       "name": "Linda Lawrence",
       "targetId": "4585",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4473",
+        "4474"
+      ]
     },
     {
       "name": "Alvin Robinson",
       "targetId": "4586",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4474"
+      ]
     },
     {
       "name": "George Benson",
       "targetId": "6225",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7811"
+      ]
     },
     {
       "name": "Mike Sembello",
       "targetId": "7437",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7798"
+      ]
     },
     {
       "name": "Nathan Watts",
       "targetId": "7438",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7798",
+        "7799",
+        "7811"
+      ]
     },
     {
       "name": "Ben Bridges",
       "targetId": "7439",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7798"
+      ]
     },
     {
       "name": "Josie James",
       "targetId": "7441",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7811"
+      ]
     },
     {
       "name": "Hank Redd",
       "targetId": "7444",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7798",
+        "7799",
+        "7811"
+      ]
     },
     {
       "name": "Raymond Maldonado",
       "targetId": "7445",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7798",
+        "7799",
+        "7811"
+      ]
     },
     {
       "name": "Renee Hardaway",
       "targetId": "7446",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7799"
+      ]
     },
     {
       "name": "Bobbi Humphrey",
       "targetId": "7472",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7811"
+      ]
     },
     {
       "name": "Nathan Alford, Jr.",
       "targetId": "7473",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7811"
+      ]
     },
     {
       "name": "Carmelo Garcia",
       "targetId": "7474",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7811"
+      ]
     }
   ]
 }

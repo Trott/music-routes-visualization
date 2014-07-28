@@ -1,61 +1,164 @@
 {
   "source": "Anthony Kiedis",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "176",
+      "names": [
+        "True Men Don't Kill Coyotes"
+      ],
+      "releases": [
+        {
+          "_id": "133",
+          "names": [
+            "Red Hot Chili Peppers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "96",
+          "names": [
+            "Red Hot Chili Peppers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1276",
+      "names": [
+        "Girls"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4574",
+      "names": [
+        "Breaking The Girl"
+      ],
+      "releases": [
+        {
+          "_id": "934",
+          "names": [
+            "Blood Sugar Sex Magik"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "96",
+          "names": [
+            "Red Hot Chili Peppers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flea",
       "targetId": "553",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "176",
+        "4574"
+      ]
     },
     {
       "name": "Jack Sherman",
       "targetId": "556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "176"
+      ]
     },
     {
       "name": "Cliff Martinez",
       "targetId": "1254",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "176"
+      ]
     },
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1276"
+      ]
     },
     {
       "name": "Mark Gemini Thwaite",
       "targetId": "1715",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1276"
+      ]
     },
     {
       "name": "Wayne Nunes",
       "targetId": "1724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1276"
+      ]
     },
     {
       "name": "Perry Melius",
       "targetId": "1725",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1276"
+      ]
     },
     {
       "name": "John Frusciante",
       "targetId": "1726",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1276",
+        "4574"
+      ]
     },
     {
       "name": "Gareth Bowen",
       "targetId": "1727",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1276"
+      ]
     },
     {
       "name": "Chad Smith",
       "targetId": "4845",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4574"
+      ]
     },
     {
       "name": "Brendan O'Brien",
       "targetId": "4846",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4574"
+      ]
     }
   ]
 }

@@ -1,111 +1,419 @@
 {
   "source": "Joe Satriani",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "879",
+      "names": [
+        "Hey Stoopid"
+      ],
+      "releases": [
+        {
+          "_id": "274",
+          "names": [
+            "Hey Stoopid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "882",
+      "names": [
+        "Burning Our Bed"
+      ],
+      "releases": [
+        {
+          "_id": "274",
+          "names": [
+            "Hey Stoopid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "885",
+      "names": [
+        "Feed My Frankenstein"
+      ],
+      "releases": [
+        {
+          "_id": "274",
+          "names": [
+            "Hey Stoopid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "887",
+      "names": [
+        "Little By Little"
+      ],
+      "releases": [
+        {
+          "_id": "274",
+          "names": [
+            "Hey Stoopid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "890",
+      "names": [
+        "Wind-Up Toy"
+      ],
+      "releases": [
+        {
+          "_id": "274",
+          "names": [
+            "Hey Stoopid"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3842",
+      "names": [
+        "If I Could Fly"
+      ],
+      "releases": [
+        {
+          "_id": "780",
+          "names": [
+            "Is There Love In Space?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "612",
+          "names": [
+            "Joe Satriani"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4571",
+      "names": [
+        "Soap On A Rope"
+      ],
+      "releases": [
+        {
+          "_id": "933",
+          "names": [
+            "Chickenfoot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "733",
+          "names": [
+            "Chickenfoot"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4572",
+      "names": [
+        "Down The Drain"
+      ],
+      "releases": [
+        {
+          "_id": "933",
+          "names": [
+            "Chickenfoot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "733",
+          "names": [
+            "Chickenfoot"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6413",
+      "names": [
+        "Break Like The Wind"
+      ],
+      "releases": [
+        {
+          "_id": "1282",
+          "names": [
+            "Break Like The Wind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "990",
+          "names": [
+            "Spinal Tap"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12485",
+      "names": [
+        "Train Kept A Rollin'"
+      ],
+      "releases": [
+        {
+          "_id": "2241",
+          "names": [
+            "Birdland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1631",
+          "names": [
+            "The Yardbirds"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David St. Hubbins",
       "targetId": "171",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Harry Shearer",
       "targetId": "175",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Jeff Beck",
       "targetId": "313",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Steve Lukather",
       "targetId": "402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6413"
+      ]
     },
     {
       "name": "Ozzy Osbourne",
       "targetId": "482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "879"
+      ]
     },
     {
       "name": "Michael Anthony",
       "targetId": "897",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4571",
+        "4572"
+      ]
     },
     {
       "name": "Alice Cooper",
       "targetId": "1285",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "879",
+        "882",
+        "885",
+        "887",
+        "890"
+      ]
     },
     {
       "name": "Slash",
       "targetId": "1287",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "879",
+        "6413"
+      ]
     },
     {
       "name": "Hugh McDonald",
       "targetId": "1288",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "879",
+        "882",
+        "887",
+        "890"
+      ]
     },
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "879",
+        "882",
+        "885",
+        "887",
+        "890"
+      ]
     },
     {
       "name": "Stef Burns",
       "targetId": "1290",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "879",
+        "882",
+        "885",
+        "887",
+        "890"
+      ]
     },
     {
       "name": "John Webster",
       "targetId": "1291",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "879",
+        "882",
+        "885",
+        "887",
+        "890"
+      ]
     },
     {
       "name": "Nikki Sixx",
       "targetId": "1292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "885"
+      ]
     },
     {
       "name": "Steve Vai",
       "targetId": "1293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "885"
+      ]
     },
     {
       "name": "Sammy Hagar",
       "targetId": "1735",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4571",
+        "4572"
+      ]
     },
     {
       "name": "Jeff Campitelli",
       "targetId": "4005",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3842"
+      ]
     },
     {
       "name": "Matt Bissonette",
       "targetId": "4006",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3842"
+      ]
     },
     {
       "name": "Chad Smith",
       "targetId": "4845",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4571",
+        "4572"
+      ]
     },
     {
       "name": "Chris Dreja",
       "targetId": "10276",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12485"
+      ]
     },
     {
       "name": "Jim McCarty",
       "targetId": "10277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12485"
+      ]
     },
     {
       "name": "John Idan",
       "targetId": "10280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12485"
+      ]
     }
   ]
 }

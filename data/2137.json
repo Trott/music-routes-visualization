@@ -1,46 +1,116 @@
 {
   "source": "Taylor Hawkins",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1997",
+      "names": [
+        "Tired Of You"
+      ],
+      "releases": [
+        {
+          "_id": "442",
+          "names": [
+            "One By One"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "324",
+          "names": [
+            "The Foo Fighters"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4074",
+      "names": [
+        "Gravemakers & Gunslingers"
+      ],
+      "releases": [
+        {
+          "_id": "829",
+          "names": [
+            "No World For Tomorrow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "652",
+          "names": [
+            "Coheed And Cambria"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian May",
       "targetId": "213",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Dave Grohl",
       "targetId": "338",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Chris Shiflett",
       "targetId": "2135",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Nate Mendel",
       "targetId": "2136",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1997"
+      ]
     },
     {
       "name": "Chondra Echert",
       "targetId": "4306",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4074"
+      ]
     },
     {
       "name": "Claudio Sanchez",
       "targetId": "4307",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4074"
+      ]
     },
     {
       "name": "Travis Stever",
       "targetId": "4308",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4074"
+      ]
     },
     {
       "name": "Michael Todd",
       "targetId": "4309",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4074"
+      ]
     }
   ]
 }

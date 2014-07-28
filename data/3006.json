@@ -1,31 +1,70 @@
 {
   "source": "Billy Jenkins",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2533",
+      "names": [
+        "Everybody"
+      ],
+      "releases": [
+        {
+          "_id": "610",
+          "names": [
+            "Act Of Faith"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "472",
+          "names": [
+            "Chris Jagger's Atcha!"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Jagger",
       "targetId": "3000",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2533"
+      ]
     },
     {
       "name": "Charlie Hart",
       "targetId": "3001",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2533"
+      ]
     },
     {
       "name": "Paul Emile",
       "targetId": "3002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2533"
+      ]
     },
     {
       "name": "Malcolm Mortimore",
       "targetId": "3003",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2533"
+      ]
     },
     {
       "name": "Jim Mortimore",
       "targetId": "3004",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2533"
+      ]
     }
   ]
 }

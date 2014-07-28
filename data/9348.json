@@ -1,26 +1,62 @@
 {
   "source": "Caroline Legroux",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10246",
+      "names": [
+        "La Femme D'argent"
+      ],
+      "releases": [
+        {
+          "_id": "1964",
+          "names": [
+            "Moon Safari"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1517",
+          "names": [
+            "Air"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Nicolas Godin",
       "targetId": "9344",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10246"
+      ]
     },
     {
       "name": "Jean-Benoît Dunckel",
       "targetId": "9345",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10246"
+      ]
     },
     {
       "name": "Eric Regert",
       "targetId": "9347",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10246"
+      ]
     },
     {
       "name": "Stéphane \"Alf\" Briat",
       "targetId": "9349",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10246"
+      ]
     }
   ]
 }

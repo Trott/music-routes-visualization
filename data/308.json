@@ -1,311 +1,699 @@
 {
   "source": "Roger McGuinn",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "70",
+      "names": [
+        "...This Town..."
+      ],
+      "releases": [
+        {
+          "_id": "62",
+          "names": [
+            "Spike"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8771",
+      "names": [
+        "Knockin' On Heaven's Door"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8795",
+      "names": [
+        "Mr. Tambourine Man"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1299",
+          "names": [
+            "Roger McGuinn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8797",
+      "names": [
+        "My Back Pages"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "87",
+          "names": [
+            "Neil Young"
+          ]
+        },
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        },
+        {
+          "_id": "112",
+          "names": [
+            "Eric Clapton"
+          ]
+        },
+        {
+          "_id": "529",
+          "names": [
+            "Tom Petty"
+          ]
+        },
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        },
+        {
+          "_id": "1299",
+          "names": [
+            "Roger McGuinn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9032",
+      "names": [
+        "Mr. Tambourine Man"
+      ],
+      "releases": [
+        {
+          "_id": "1725",
+          "names": [
+            "Mr. Tambourine Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1321",
+          "names": [
+            "The Byrds"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10234",
+      "names": [
+        "Could've Been Anyone"
+      ],
+      "releases": [
+        {
+          "_id": "1961",
+          "names": [
+            "Whatever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11796",
+      "names": [
+        "Knockin' On Heaven's Door"
+      ],
+      "releases": [
+        {
+          "_id": "2159",
+          "names": [
+            "The Essential Bob Dylan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8771",
+        "8797"
+      ]
     },
     {
       "name": "Ron Wood",
       "targetId": "34",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8771",
+        "8797",
+        "11796"
+      ]
     },
     {
       "name": "Neil Young",
       "targetId": "45",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8771",
+        "8797"
+      ]
     },
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8771",
+        "8797"
+      ]
     },
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10234"
+      ]
     },
     {
       "name": "Johnny Cash",
       "targetId": "222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Tom Petty",
       "targetId": "223",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8771",
+        "8795",
+        "8797"
+      ]
     },
     {
       "name": "Hal Blaine",
       "targetId": "226",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9032"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "70",
+        "8771",
+        "8795",
+        "8797",
+        "11796"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "Ralph Forbes",
       "targetId": "309",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "Cait O'Riordan",
       "targetId": "311",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "David Crosby",
       "targetId": "511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9032"
+      ]
     },
     {
       "name": "Al Kooper",
       "targetId": "559",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8771",
+        "8797"
+      ]
     },
     {
       "name": "Kris Kristofferson",
       "targetId": "570",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Mary Chapin Carpenter",
       "targetId": "576",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Sinéad O'Connor",
       "targetId": "596",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8795"
+      ]
     },
     {
       "name": "Mike Campbell",
       "targetId": "646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8795"
+      ]
     },
     {
       "name": "Michael Blair",
       "targetId": "662",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "Howie Epstein",
       "targetId": "921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8795"
+      ]
     },
     {
       "name": "Sheryl Crow",
       "targetId": "1018",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Dennis Collins",
       "targetId": "1030",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Curtis King",
       "targetId": "1032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Anton Fig",
       "targetId": "1036",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8771",
+        "8795",
+        "8797"
+      ]
     },
     {
       "name": "Larry Knechtel",
       "targetId": "1196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9032"
+      ]
     },
     {
       "name": "Carl Fortina",
       "targetId": "1479",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11796"
+      ]
     },
     {
       "name": "Bill Pitman",
       "targetId": "1482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9032"
+      ]
     },
     {
       "name": "Jerry Cole",
       "targetId": "1483",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9032"
+      ]
     },
     {
       "name": "Chrissie Hynde",
       "targetId": "1778",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Steve Cropper",
       "targetId": "1804",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8771",
+        "8797"
+      ]
     },
     {
       "name": "Donald \"Duck\" Dunn",
       "targetId": "1805",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8771",
+        "8797"
+      ]
     },
     {
       "name": "Leon Russell",
       "targetId": "1999",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9032"
+      ]
     },
     {
       "name": "Stan Lynch",
       "targetId": "2563",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8771",
+        "8795",
+        "8797"
+      ]
     },
     {
       "name": "Michael Hausman",
       "targetId": "4028",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10234"
+      ]
     },
     {
       "name": "Brenda White King",
       "targetId": "4378",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Shawn Colvin",
       "targetId": "5889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Tracy Chapman",
       "targetId": "6105",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Booker T. Jones",
       "targetId": "6245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Nanci Griffith",
       "targetId": "6289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Jon Brion",
       "targetId": "6653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10234"
+      ]
     },
     {
       "name": "Roseanne Carter Cash",
       "targetId": "8150",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Richie Havens",
       "targetId": "8151",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Liam Clancy",
       "targetId": "8154",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Tommy Makem",
       "targetId": "8155",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "June Carter Cash",
       "targetId": "8159",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Bobby Clancy",
       "targetId": "8160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Paddy Clancy",
       "targetId": "8161",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Christine Ohlman",
       "targetId": "8165",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "G.E. Smith",
       "targetId": "8167",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8771",
+        "8797"
+      ]
     },
     {
       "name": "George Thorogood",
       "targetId": "8188",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Sophie B. Hawkins",
       "targetId": "8189",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Carolyn Hester",
       "targetId": "8190",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8771"
+      ]
     },
     {
       "name": "Gene Clark",
       "targetId": "8318",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9032"
+      ]
     },
     {
       "name": "Terry Paul",
       "targetId": "10046",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11796"
+      ]
     },
     {
       "name": "Carol Hunter",
       "targetId": "10047",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11796"
+      ]
     },
     {
       "name": "Donna Weis",
       "targetId": "10048",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11796"
+      ]
     },
     {
       "name": "Brenda Patterson",
       "targetId": "10049",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11796"
+      ]
     }
   ]
 }

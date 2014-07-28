@@ -1,56 +1,187 @@
 {
   "source": "Justin Adams",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3595",
+      "names": [
+        "Dirt In A Hole"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3600",
+      "names": [
+        "Darkness Darkness"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3606",
+      "names": [
+        "Song to The Siren"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3624",
+      "names": [
+        "Win My Train Fare Home"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3595",
+        "3600",
+        "3606",
+        "3624"
+      ]
     },
     {
       "name": "Clive Deamer",
       "targetId": "2548",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3595",
+        "3600",
+        "3606"
+      ]
     },
     {
       "name": "Charlie Jones",
       "targetId": "3709",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3595",
+        "3600",
+        "3606"
+      ]
     },
     {
       "name": "John Baggott",
       "targetId": "3714",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3595",
+        "3600",
+        "3606"
+      ]
     },
     {
       "name": "Porl Thompson",
       "targetId": "3715",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3595",
+        "3600",
+        "3606"
+      ]
     },
     {
       "name": "May Clee Cadman",
       "targetId": "3716",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3595"
+      ]
     },
     {
       "name": "Ginny Clee",
       "targetId": "3717",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3595"
+      ]
     },
     {
       "name": "Skin Tyson",
       "targetId": "3759",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3624"
+      ]
     },
     {
       "name": "Nicolas Meslien",
       "targetId": "3760",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3624"
+      ]
     },
     {
       "name": "Mathieu Rousseau",
       "targetId": "3761",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3624"
+      ]
     }
   ]
 }

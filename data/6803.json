@@ -1,21 +1,54 @@
 {
   "source": "Caleb Southern",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6973",
+      "names": [
+        "Brick"
+      ],
+      "releases": [
+        {
+          "_id": "1389",
+          "names": [
+            "Whatever And Ever Amen"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1069",
+          "names": [
+            "Ben Folds Five"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Folds",
       "targetId": "180",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6973"
+      ]
     },
     {
       "name": "Darren Jessee",
       "targetId": "6799",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6973"
+      ]
     },
     {
       "name": "Robert Sledge",
       "targetId": "6802",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6973"
+      ]
     }
   ]
 }

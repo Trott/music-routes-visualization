@@ -1,16 +1,68 @@
 {
   "source": "Kool Keith",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2060",
+      "names": [
+        "Eat It"
+      ],
+      "releases": [
+        {
+          "_id": "469",
+          "names": [
+            "The Return Of Dr. Octagon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "350",
+          "names": [
+            "Dr. Octagon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2061",
+      "names": [
+        "Ants"
+      ],
+      "releases": [
+        {
+          "_id": "469",
+          "names": [
+            "The Return Of Dr. Octagon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "350",
+          "names": [
+            "Dr. Octagon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Princess Superstar",
       "targetId": "2395",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2060"
+      ]
     },
     {
       "name": "Dexter",
       "targetId": "2400",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2061"
+      ]
     }
   ]
 }

@@ -1,21 +1,66 @@
 {
   "source": "Steve Stevens",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13232",
+      "names": [
+        "White Wedding"
+      ],
+      "releases": [
+        {
+          "_id": "2386",
+          "names": [
+            "Vital Idol"
+          ]
+        },
+        {
+          "_id": "2387",
+          "names": [
+            "The Wedding Singer"
+          ]
+        },
+        {
+          "_id": "2388",
+          "names": [
+            "Billy Idol's Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1698",
+          "names": [
+            "Billy Idol"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Idol",
       "targetId": "10743",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13232"
+      ]
     },
     {
       "name": "Steve Missal",
       "targetId": "10745",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13232"
+      ]
     },
     {
       "name": "Phil Feit",
       "targetId": "10746",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13232"
+      ]
     }
   ]
 }

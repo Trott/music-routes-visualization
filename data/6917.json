@@ -1,21 +1,54 @@
 {
   "source": "Whimsical",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7161",
+      "names": [
+        "Everytime"
+      ],
+      "releases": [
+        {
+          "_id": "1415",
+          "names": [
+            "The Glow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1091",
+          "names": [
+            "Whimsical"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Maria Mena",
       "targetId": "6903",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7161"
+      ]
     },
     {
       "name": "Celsius",
       "targetId": "6910",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7161"
+      ]
     },
     {
       "name": "Rune Hallandvik",
       "targetId": "6918",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7161"
+      ]
     }
   ]
 }

@@ -1,161 +1,411 @@
 {
   "source": "Raymond Lee Pounds",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "177",
+      "names": [
+        "They Killed Him"
+      ],
+      "releases": [
+        {
+          "_id": "134",
+          "names": [
+            "Knocked Out Loaded"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2930",
+      "names": [
+        "You Wanna Ramble"
+      ],
+      "releases": [
+        {
+          "_id": "134",
+          "names": [
+            "Knocked Out Loaded"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2932",
+      "names": [
+        "Precious Memories"
+      ],
+      "releases": [
+        {
+          "_id": "134",
+          "names": [
+            "Knocked Out Loaded"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7797",
+      "names": [
+        "Contusion"
+      ],
+      "releases": [
+        {
+          "_id": "1539",
+          "names": [
+            "Songs In The Key of Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7798",
+      "names": [
+        "Sir Duke"
+      ],
+      "releases": [
+        {
+          "_id": "1539",
+          "names": [
+            "Songs In The Key of Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7799",
+      "names": [
+        "I Wish"
+      ],
+      "releases": [
+        {
+          "_id": "1539",
+          "names": [
+            "Songs In The Key of Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "944",
+          "names": [
+            "Stevie Wonder"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "177",
+        "2930",
+        "2932"
+      ]
     },
     {
       "name": "Stevie Wonder",
       "targetId": "83",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7797",
+        "7798",
+        "7799"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2930"
+      ]
     },
     {
       "name": "Al Perkins",
       "targetId": "377",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2932"
+      ]
     },
     {
       "name": "Steve Madaio",
       "targetId": "412",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "177",
+        "7798",
+        "7799"
+      ]
     },
     {
       "name": "Jack Sherman",
       "targetId": "556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "177"
+      ]
     },
     {
       "name": "Vito San Filippo",
       "targetId": "557",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "177"
+      ]
     },
     {
       "name": "Al Kooper",
       "targetId": "559",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "177",
+        "2930"
+      ]
     },
     {
       "name": "Steve Douglas",
       "targetId": "560",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "177"
+      ]
     },
     {
       "name": "Carol Dennis",
       "targetId": "561",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "177",
+        "2930",
+        "2932"
+      ]
     },
     {
       "name": "Madelyn Quebec",
       "targetId": "562",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "177",
+        "2930",
+        "2932"
+      ]
     },
     {
       "name": "Muffy Hendrix",
       "targetId": "563",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "177",
+        "2930",
+        "2932"
+      ]
     },
     {
       "name": "Annette May Thomas",
       "targetId": "564",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "177",
+        "2930",
+        "2932"
+      ]
     },
     {
       "name": "Greg Phillinganes",
       "targetId": "649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7797"
+      ]
     },
     {
       "name": "James Jamerson, Jr.",
       "targetId": "3266",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2930",
+        "2932"
+      ]
     },
     {
       "name": "Queen Esther Marrow",
       "targetId": "3269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2932"
+      ]
     },
     {
       "name": "Larry Meyers",
       "targetId": "3270",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2932"
+      ]
     },
     {
       "name": "Milton Gabriel",
       "targetId": "3271",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2932"
+      ]
     },
     {
       "name": "Mike Berment",
       "targetId": "3272",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2932"
+      ]
     },
     {
       "name": "Brian Parris",
       "targetId": "3273",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2932"
+      ]
     },
     {
       "name": "Trevor Lawrence",
       "targetId": "4579",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7798",
+        "7799"
+      ]
     },
     {
       "name": "Mike Sembello",
       "targetId": "7437",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7797",
+        "7798"
+      ]
     },
     {
       "name": "Nathan Watts",
       "targetId": "7438",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7797",
+        "7798",
+        "7799"
+      ]
     },
     {
       "name": "Ben Bridges",
       "targetId": "7439",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7797",
+        "7798"
+      ]
     },
     {
       "name": "Michael Gray",
       "targetId": "7440",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7797"
+      ]
     },
     {
       "name": "Josie James",
       "targetId": "7441",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7797"
+      ]
     },
     {
       "name": "Shirley Brewer",
       "targetId": "7442",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7797"
+      ]
     },
     {
       "name": "Artece May",
       "targetId": "7443",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7797"
+      ]
     },
     {
       "name": "Hank Redd",
       "targetId": "7444",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7798",
+        "7799"
+      ]
     },
     {
       "name": "Raymond Maldonado",
       "targetId": "7445",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7798",
+        "7799"
+      ]
     },
     {
       "name": "Renee Hardaway",
       "targetId": "7446",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7799"
+      ]
     }
   ]
 }

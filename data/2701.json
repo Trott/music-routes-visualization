@@ -1,11 +1,38 @@
 {
   "source": "Etta James",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2223",
+      "names": [
+        "Give It Up"
+      ],
+      "releases": [
+        {
+          "_id": "541",
+          "names": [
+            "The Right Time"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "412",
+          "names": [
+            "Etta James"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Winwood",
       "targetId": "905",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2223"
+      ]
     }
   ]
 }

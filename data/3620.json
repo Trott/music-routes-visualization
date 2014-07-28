@@ -1,31 +1,70 @@
 {
   "source": "Kevin Odegard",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3444",
+      "names": [
+        "Tangled Up In Blue"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3444"
+      ]
     },
     {
       "name": "Bill Berg",
       "targetId": "1093",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3444"
+      ]
     },
     {
       "name": "Chris Weber",
       "targetId": "3621",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3444"
+      ]
     },
     {
       "name": "Bill Peterson",
       "targetId": "3622",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3444"
+      ]
     },
     {
       "name": "Gregg Inhofer",
       "targetId": "3623",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3444"
+      ]
     }
   ]
 }

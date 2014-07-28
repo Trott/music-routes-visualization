@@ -1,41 +1,111 @@
 {
   "source": "Charlie Shavers",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2236",
+      "names": [
+        "Easy To Love"
+      ],
+      "releases": [
+        {
+          "_id": "543",
+          "names": [
+            "Night And Day: The Cole Porter Songbook"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7486",
+      "names": [
+        "What A Little Moonlight Can Do"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2236"
+      ]
     },
     {
       "name": "Ray Brown",
       "targetId": "1925",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2236",
+        "7486"
+      ]
     },
     {
       "name": "Oscar Peterson",
       "targetId": "2491",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2236",
+        "7486"
+      ]
     },
     {
       "name": "Billie Holiday",
       "targetId": "2704",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2236",
+        "7486"
+      ]
     },
     {
       "name": "Alvin Stoller",
       "targetId": "2706",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2236"
+      ]
     },
     {
       "name": "Ed Shaughnessy",
       "targetId": "5526",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7486"
+      ]
     },
     {
       "name": "Herb Ellis",
       "targetId": "7153",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7486"
+      ]
     }
   ]
 }

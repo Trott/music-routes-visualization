@@ -1,26 +1,62 @@
 {
   "source": "Nicolas Meslien",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3624",
+      "names": [
+        "Win My Train Fare Home"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3624"
+      ]
     },
     {
       "name": "Justin Adams",
       "targetId": "3713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3624"
+      ]
     },
     {
       "name": "Skin Tyson",
       "targetId": "3759",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3624"
+      ]
     },
     {
       "name": "Mathieu Rousseau",
       "targetId": "3761",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3624"
+      ]
     }
   ]
 }

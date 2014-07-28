@@ -1,31 +1,122 @@
 {
   "source": "Steven Kennedy",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "11677",
+      "names": [
+        "45"
+      ],
+      "releases": [
+        {
+          "_id": "2156",
+          "names": [
+            "When I Was Cruel"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11688",
+      "names": [
+        "Daddy Can I Turn This?"
+      ],
+      "releases": [
+        {
+          "_id": "2156",
+          "names": [
+            "When I Was Cruel"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11689",
+      "names": [
+        "My Little Blue Window"
+      ],
+      "releases": [
+        {
+          "_id": "2156",
+          "names": [
+            "When I Was Cruel"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11677",
+        "11688",
+        "11689"
+      ]
     },
     {
       "name": "Pete Thomas",
       "targetId": "429",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11677",
+        "11688",
+        "11689"
+      ]
     },
     {
       "name": "Davey Faragher",
       "targetId": "1023",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11677",
+        "11688",
+        "11689"
+      ]
     },
     {
       "name": "Steve Nieve",
       "targetId": "3222",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11677",
+        "11688",
+        "11689"
+      ]
     },
     {
       "name": "Leo Pearson",
       "targetId": "9970",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11689"
+      ]
     }
   ]
 }

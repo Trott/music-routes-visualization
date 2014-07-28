@@ -1,31 +1,76 @@
 {
   "source": "Lionel Loueke",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12832",
+      "names": [
+        "River"
+      ],
+      "releases": [
+        {
+          "_id": "2317",
+          "names": [
+            "Then And Now: The Definitive Herbie Hancock"
+          ]
+        },
+        {
+          "_id": "2318",
+          "names": [
+            "River: The Joni Letters"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "519",
+          "names": [
+            "Herbie Hancock"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Vinnie Colaiuta",
       "targetId": "839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12832"
+      ]
     },
     {
       "name": "Herbie Hancock",
       "targetId": "1264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12832"
+      ]
     },
     {
       "name": "Wayne Shorter",
       "targetId": "1631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12832"
+      ]
     },
     {
       "name": "Dave Holland",
       "targetId": "1634",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12832"
+      ]
     },
     {
       "name": "Corinne Bailey Rae",
       "targetId": "7281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12832"
+      ]
     }
   ]
 }

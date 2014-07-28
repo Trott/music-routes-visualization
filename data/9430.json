@@ -1,31 +1,70 @@
 {
   "source": "Michael Derosier",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10337",
+      "names": [
+        "I've Got The Music In Me"
+      ],
+      "releases": [
+        {
+          "_id": "2002",
+          "names": [
+            "Magazine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1545",
+          "names": [
+            "Heart"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ann Wilson",
       "targetId": "4039",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10337"
+      ]
     },
     {
       "name": "Nancy Wilson",
       "targetId": "9429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10337"
+      ]
     },
     {
       "name": "Howard Leese",
       "targetId": "9431",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10337"
+      ]
     },
     {
       "name": "Steve Fossen",
       "targetId": "9432",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10337"
+      ]
     },
     {
       "name": "Roger Fisher",
       "targetId": "9433",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10337"
+      ]
     }
   ]
 }

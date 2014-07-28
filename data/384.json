@@ -1,156 +1,362 @@
 {
   "source": "Willie Weeks",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "118",
+      "names": [
+        "Louisiana 1927"
+      ],
+      "releases": [
+        {
+          "_id": "90",
+          "names": [
+            "Good Old Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "120",
+      "names": [
+        "Little Criminals"
+      ],
+      "releases": [
+        {
+          "_id": "91",
+          "names": [
+            "Little Criminals"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4207",
+      "names": [
+        "Interfere"
+      ],
+      "releases": [
+        {
+          "_id": "847",
+          "names": [
+            "Not For Beginners"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "669",
+          "names": [
+            "Ronnie Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10078",
+      "names": [
+        "Ain't No Sunshine"
+      ],
+      "releases": [
+        {
+          "_id": "1934",
+          "names": [
+            "Bring 'Em In"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1496",
+          "names": [
+            "Buddy Guy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12784",
+      "names": [
+        "Dark Horse"
+      ],
+      "releases": [
+        {
+          "_id": "2303",
+          "names": [
+            "Dark Horse"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1044",
+          "names": [
+            "George Harrison"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Scotty Moore",
       "targetId": "2",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4207"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12784"
+      ]
     },
     {
       "name": "D.J. Fontana",
       "targetId": "8",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4207"
+      ]
     },
     {
       "name": "Ron Wood",
       "targetId": "34",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4207"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4207"
+      ]
     },
     {
       "name": "Bernie Worrell",
       "targetId": "199",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10078"
+      ]
     },
     {
       "name": "Andy Newmark",
       "targetId": "271",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "118",
+        "120",
+        "12784"
+      ]
     },
     {
       "name": "Tom Scott",
       "targetId": "277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12784"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12784"
+      ]
     },
     {
       "name": "Randy Newman",
       "targetId": "370",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "118",
+        "120"
+      ]
     },
     {
       "name": "Glenn Frey",
       "targetId": "379",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "120"
+      ]
     },
     {
       "name": "Michael Boddicker",
       "targetId": "385",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "120"
+      ]
     },
     {
       "name": "Milt Holland",
       "targetId": "388",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "120"
+      ]
     },
     {
       "name": "Joe Walsh",
       "targetId": "392",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "120"
+      ]
     },
     {
       "name": "Rick Marotta",
       "targetId": "393",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "120"
+      ]
     },
     {
       "name": "Chuck Findley",
       "targetId": "397",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12784"
+      ]
     },
     {
       "name": "Jim Horn",
       "targetId": "670",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10078",
+        "12784"
+      ]
     },
     {
       "name": "Robben Ford",
       "targetId": "1385",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12784"
+      ]
     },
     {
       "name": "Billy Preston",
       "targetId": "1674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12784"
+      ]
     },
     {
       "name": "Andrew Love",
       "targetId": "1808",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10078"
+      ]
     },
     {
       "name": "Buddy Guy",
       "targetId": "2172",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10078"
+      ]
     },
     {
       "name": "Steve Jordan",
       "targetId": "2724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10078"
+      ]
     },
     {
       "name": "Ben Cauley",
       "targetId": "3085",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10078"
+      ]
     },
     {
       "name": "Ian McLagan",
       "targetId": "3163",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4207"
+      ]
     },
     {
       "name": "Jack Hale",
       "targetId": "3813",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10078"
+      ]
     },
     {
       "name": "Ian Jenning",
       "targetId": "4398",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4207"
+      ]
     },
     {
       "name": "Lon Van Eaton",
       "targetId": "4577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12784"
+      ]
     },
     {
       "name": "Derrek Van Eaton",
       "targetId": "4587",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12784"
+      ]
     },
     {
       "name": "Tracy Chapman",
       "targetId": "6105",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10078"
+      ]
     },
     {
       "name": "Keb Mo",
       "targetId": "9230",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10078"
+      ]
     }
   ]
 }

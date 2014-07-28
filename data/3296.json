@@ -1,36 +1,148 @@
 {
   "source": "Márta Sebestyén",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2954",
+      "names": [
+        "The Rose"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2964",
+      "names": [
+        "Organ Loop"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2972",
+      "names": [
+        "The Rose (II)"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2973",
+      "names": [
+        "The Bell"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Marshall",
       "targetId": "1951",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2964"
+      ]
     },
     {
       "name": "Richard Wolfson",
       "targetId": "3293",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2954",
+        "2964",
+        "2972",
+        "2973"
+      ]
     },
     {
       "name": "Andy Saunders",
       "targetId": "3295",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2973"
+      ]
     },
     {
       "name": "Malcolm Miller",
       "targetId": "3297",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2954"
+      ]
     },
     {
       "name": "Endre Szkárosi",
       "targetId": "3298",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2954",
+        "2972"
+      ]
     },
     {
       "name": "Andrew Davis",
       "targetId": "3307",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2973"
+      ]
     }
   ]
 }

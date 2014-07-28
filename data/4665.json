@@ -1,81 +1,178 @@
 {
   "source": "David Williams",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4507",
+      "names": [
+        "Thriller"
+      ],
+      "releases": [
+        {
+          "_id": "210",
+          "names": [
+            "Thriller"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "146",
+          "names": [
+            "Michael Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9008",
+      "names": [
+        "Off The Wall"
+      ],
+      "releases": [
+        {
+          "_id": "1716",
+          "names": [
+            "Off The Wall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "146",
+          "names": [
+            "Michael Jackson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Jackson",
       "targetId": "40",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4507",
+        "9008"
+      ]
     },
     {
       "name": "Paulinho Da Costa",
       "targetId": "411",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9008"
+      ]
     },
     {
       "name": "Larry Williams",
       "targetId": "414",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4507",
+        "9008"
+      ]
     },
     {
       "name": "Greg Phillinganes",
       "targetId": "649",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4507",
+        "9008"
+      ]
     },
     {
       "name": "John \"J. R.\" Robinson",
       "targetId": "653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9008"
+      ]
     },
     {
       "name": "Jerry Hey",
       "targetId": "1322",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4507",
+        "9008"
+      ]
     },
     {
       "name": "Kim Hutchcroft",
       "targetId": "1324",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9008"
+      ]
     },
     {
       "name": "George Duke",
       "targetId": "1327",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9008"
+      ]
     },
     {
       "name": "Gary Grant",
       "targetId": "1394",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4507",
+        "9008"
+      ]
     },
     {
       "name": "Bill Reichenbach",
       "targetId": "1395",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4507",
+        "9008"
+      ]
     },
     {
       "name": "Louis Johnson",
       "targetId": "3397",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9008"
+      ]
     },
     {
       "name": "Rod Temperton",
       "targetId": "4235",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Vincent Price",
       "targetId": "4664",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Brian Banks",
       "targetId": "4666",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4507"
+      ]
     },
     {
       "name": "Marlo Henderson",
       "targetId": "8306",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9008"
+      ]
     }
   ]
 }

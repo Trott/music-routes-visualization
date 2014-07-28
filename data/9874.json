@@ -1,31 +1,70 @@
 {
   "source": "Chris Gestrin",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11254",
+      "names": [
+        "Rockstar"
+      ],
+      "releases": [
+        {
+          "_id": "2118",
+          "names": [
+            "All The Right Reasons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1603",
+          "names": [
+            "Nickelback"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Gibbons",
       "targetId": "2118",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11254"
+      ]
     },
     {
       "name": "Mike Kroeger",
       "targetId": "9870",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11254"
+      ]
     },
     {
       "name": "Daniel Adair",
       "targetId": "9871",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11254"
+      ]
     },
     {
       "name": "Chad Kroeger",
       "targetId": "9872",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11254"
+      ]
     },
     {
       "name": "Ryan Peake",
       "targetId": "9873",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11254"
+      ]
     }
   ]
 }

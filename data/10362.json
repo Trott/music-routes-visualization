@@ -1,11 +1,61 @@
 {
   "source": "Stan Bush",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12727",
+      "names": [
+        "Ain't That Worth Somethin'"
+      ],
+      "releases": [
+        {
+          "_id": "2281",
+          "names": [
+            "Every Beat Of My Heart"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1644",
+          "names": [
+            "Stan Bush"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12728",
+      "names": [
+        "Never Ending Love"
+      ],
+      "releases": [
+        {
+          "_id": "2281",
+          "names": [
+            "Every Beat Of My Heart"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1644",
+          "names": [
+            "Stan Bush"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12727",
+        "12728"
+      ]
     }
   ]
 }

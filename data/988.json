@@ -1,16 +1,46 @@
 {
   "source": "David Henshaw",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "538",
+      "names": [
+        "His Friends Are More Than Fond Of Robin"
+      ],
+      "releases": [
+        {
+          "_id": "226",
+          "names": [
+            "No Secrets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "160",
+          "names": [
+            "Carly Simon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carly Simon",
       "targetId": "979",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "538"
+      ]
     },
     {
       "name": "Jimmy Ryan",
       "targetId": "980",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "538"
+      ]
     }
   ]
 }

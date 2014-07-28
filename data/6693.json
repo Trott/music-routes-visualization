@@ -1,31 +1,115 @@
 {
   "source": "Karl \"Tuff Enuff\" Brown",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6849",
+      "names": [
+        "Y.O.U."
+      ],
+      "releases": [
+        {
+          "_id": "1363",
+          "names": [
+            "\"Y.O.U.\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1052",
+          "names": [
+            "Fully Loaded"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6850",
+      "names": [
+        "Keep On Pushing"
+      ],
+      "releases": [
+        {
+          "_id": "1364",
+          "names": [
+            "http://www.myspace.com/tuffjamproductions"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1052",
+          "names": [
+            "Fully Loaded"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6851",
+      "names": [
+        "All For You"
+      ],
+      "releases": [
+        {
+          "_id": "1365",
+          "names": [
+            "\"Our Destiny\" / \"All For You\" 10\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1053",
+          "names": [
+            "Brown & Cole"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Todd Edwards",
       "targetId": "5946",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6849",
+        "6850"
+      ]
     },
     {
       "name": "Vincent J. Alvis",
       "targetId": "6694",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6849"
+      ]
     },
     {
       "name": "Supawoman",
       "targetId": "6695",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6850"
+      ]
     },
     {
       "name": "MJ Cole",
       "targetId": "6696",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6851"
+      ]
     },
     {
       "name": "Jay-L",
       "targetId": "6697",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6851"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Bud Billings",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5498",
+      "names": [
+        "Hot Chili"
+      ],
+      "releases": [
+        {
+          "_id": "1090",
+          "names": [
+            "Number 5"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5498"
+      ]
     },
     {
       "name": "Nicky Hopkins",
       "targetId": "985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5498"
+      ]
     },
     {
       "name": "Tim Davis",
       "targetId": "5564",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5498"
+      ]
     },
     {
       "name": "Curley Cooke",
       "targetId": "5568",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5498"
+      ]
     }
   ]
 }

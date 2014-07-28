@@ -1,31 +1,92 @@
 {
   "source": "Peter Jefferies",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13406",
+      "names": [
+        "In Purgatory"
+      ],
+      "releases": [
+        {
+          "_id": "2444",
+          "names": [
+            "Nerve Ends In Power Lines"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1739",
+          "names": [
+            "Nocturnal Projections"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13407",
+      "names": [
+        "Lindauer"
+      ],
+      "releases": [
+        {
+          "_id": "2445",
+          "names": [
+            "2 Foot Flame"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1740",
+          "names": [
+            "2 Foot Flame"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brett Jones",
       "targetId": "10932",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13406"
+      ]
     },
     {
       "name": "Gordon Rutherford",
       "targetId": "10933",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13406"
+      ]
     },
     {
       "name": "Graeme Jefferies",
       "targetId": "10934",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13406"
+      ]
     },
     {
       "name": "Michael Morley",
       "targetId": "10936",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13407"
+      ]
     },
     {
       "name": "Jean Smith",
       "targetId": "10937",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13407"
+      ]
     }
   ]
 }

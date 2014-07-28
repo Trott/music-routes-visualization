@@ -1,31 +1,97 @@
 {
   "source": "John Cowsill",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2564",
+      "names": [
+        "867-5309 (Jenny)"
+      ],
+      "releases": [
+        {
+          "_id": "615",
+          "names": [
+            "Tommy Tutone 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "478",
+          "names": [
+            "Tommy Tutone"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2565",
+      "names": [
+        "Baby It's Alright"
+      ],
+      "releases": [
+        {
+          "_id": "615",
+          "names": [
+            "Tommy Tutone 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "478",
+          "names": [
+            "Tommy Tutone"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Keller",
       "targetId": "3059",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2564",
+        "2565"
+      ]
     },
     {
       "name": "Jon Lyons",
       "targetId": "3060",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2564",
+        "2565"
+      ]
     },
     {
       "name": "Tommy Heath",
       "targetId": "3062",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2564",
+        "2565"
+      ]
     },
     {
       "name": "Victor Carberry",
       "targetId": "3064",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2564",
+        "2565"
+      ]
     },
     {
       "name": "Steve Le Gassick",
       "targetId": "3065",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2564",
+        "2565"
+      ]
     }
   ]
 }

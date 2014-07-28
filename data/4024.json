@@ -1,26 +1,62 @@
 {
   "source": "Gunnar Hallin",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3849",
+      "names": [
+        "Johnny the Rucker"
+      ],
+      "releases": [
+        {
+          "_id": "784",
+          "names": [
+            "Magnus Uggla Band sjunger schlagers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "615",
+          "names": [
+            "Magnus Uggla Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Magnus Uggla",
       "targetId": "4020",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3849"
+      ]
     },
     {
       "name": "Stanley Larsson",
       "targetId": "4021",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3849"
+      ]
     },
     {
       "name": "Pluten Larson",
       "targetId": "4022",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3849"
+      ]
     },
     {
       "name": "Reg Ward",
       "targetId": "4023",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3849"
+      ]
     }
   ]
 }

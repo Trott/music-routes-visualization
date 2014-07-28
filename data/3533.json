@@ -1,26 +1,62 @@
 {
   "source": "Paulie Miller",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3241",
+      "names": [
+        "Motivationally Challenged"
+      ],
+      "releases": [
+        {
+          "_id": "683",
+          "names": [
+            "Winterval"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "535",
+          "names": [
+            "Replicator"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Conan Neutron",
       "targetId": "3529",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3241"
+      ]
     },
     {
       "name": "Ben Adrian",
       "targetId": "3530",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3241"
+      ]
     },
     {
       "name": "Chris Bolig",
       "targetId": "3531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3241"
+      ]
     },
     {
       "name": "Ted Nesseth",
       "targetId": "3532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3241"
+      ]
     }
   ]
 }

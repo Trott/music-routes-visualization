@@ -1,46 +1,120 @@
 {
   "source": "Sarah Neufeld",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12989",
+      "names": [
+        "The Suburbs"
+      ],
+      "releases": [
+        {
+          "_id": "2343",
+          "names": [
+            "The Suburbs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "474",
+          "names": [
+            "Arcade Fire"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12990",
+      "names": [
+        "We Used To Wait"
+      ],
+      "releases": [
+        {
+          "_id": "2343",
+          "names": [
+            "The Suburbs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "474",
+          "names": [
+            "Arcade Fire"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Win Butler",
       "targetId": "3010",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12989",
+        "12990"
+      ]
     },
     {
       "name": "Régine Chassagne",
       "targetId": "3011",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12989"
+      ]
     },
     {
       "name": "Will Butler",
       "targetId": "10491",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12989",
+        "12990"
+      ]
     },
     {
       "name": "Jeremy Gara",
       "targetId": "10492",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12989",
+        "12990"
+      ]
     },
     {
       "name": "Tim Kingsbury",
       "targetId": "10493",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12989",
+        "12990"
+      ]
     },
     {
       "name": "Richard Reed Parry",
       "targetId": "10495",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12989"
+      ]
     },
     {
       "name": "Pietro Amato",
       "targetId": "10496",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12990"
+      ]
     },
     {
       "name": "Colin Stetson",
       "targetId": "10497",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12990"
+      ]
     }
   ]
 }

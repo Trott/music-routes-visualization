@@ -1,116 +1,434 @@
 {
   "source": "Lyle Workman",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "2329",
+      "names": [
+        "Wordplay"
+      ],
+      "releases": [
+        {
+          "_id": "586",
+          "names": [
+            "Mr. A-Z"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "451",
+          "names": [
+            "Jason Mraz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2330",
+      "names": [
+        "Geek In The Pink"
+      ],
+      "releases": [
+        {
+          "_id": "586",
+          "names": [
+            "Mr. A-Z"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "451",
+          "names": [
+            "Jason Mraz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9851",
+      "names": [
+        "Men In Black"
+      ],
+      "releases": [
+        {
+          "_id": "1892",
+          "names": [
+            "The Cult Of Ray"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1462",
+          "names": [
+            "Frank Black"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9852",
+      "names": [
+        "You Ain't Me"
+      ],
+      "releases": [
+        {
+          "_id": "1892",
+          "names": [
+            "The Cult Of Ray"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1462",
+          "names": [
+            "Frank Black"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9853",
+      "names": [
+        "The Adventure And The Resolution"
+      ],
+      "releases": [
+        {
+          "_id": "1892",
+          "names": [
+            "The Cult Of Ray"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1462",
+          "names": [
+            "Frank Black"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9854",
+      "names": [
+        "Dance War"
+      ],
+      "releases": [
+        {
+          "_id": "1892",
+          "names": [
+            "The Cult Of Ray"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1462",
+          "names": [
+            "Frank Black"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9855",
+      "names": [
+        "Vegas"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9856",
+      "names": [
+        "Bottle It Up"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9857",
+      "names": [
+        "Come Round Soon"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9858",
+      "names": [
+        "Morningside"
+      ],
+      "releases": [
+        {
+          "_id": "1210",
+          "names": [
+            "Little Voice"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "941",
+          "names": [
+            "Sara Bareilles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Watson",
       "targetId": "135",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9855",
+        "9856",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Matt Chamberlain",
       "targetId": "182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9856"
+      ]
     },
     {
       "name": "Frank Black",
       "targetId": "769",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9851",
+        "9852",
+        "9853",
+        "9854"
+      ]
     },
     {
       "name": "Brian MacLeod",
       "targetId": "1025",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9855",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Mike Elizondo",
       "targetId": "1067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2330"
+      ]
     },
     {
       "name": "Roger Manning",
       "targetId": "1069",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2329",
+        "2330"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9856"
+      ]
     },
     {
       "name": "Rafael Padilla",
       "targetId": "1312",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9855",
+        "9856",
+        "9858"
+      ]
     },
     {
       "name": "Bashiri Johnson",
       "targetId": "2373",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Jason Mraz",
       "targetId": "2864",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2329",
+        "2330"
+      ]
     },
     {
       "name": "Jack Daley",
       "targetId": "2872",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Nir Z",
       "targetId": "2873",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Kevin Kadish",
       "targetId": "2875",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Josh Deutsch",
       "targetId": "2876",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2329"
+      ]
     },
     {
       "name": "Ahmir \"?uestlove\" Thompson ",
       "targetId": "2877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2330"
+      ]
     },
     {
       "name": "Sara Bareilles",
       "targetId": "5983",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9855",
+        "9856",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Chris Chaney",
       "targetId": "5985",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9855",
+        "9856",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Matt Yelton",
       "targetId": "9081",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9851",
+        "9852",
+        "9853",
+        "9854"
+      ]
     },
     {
       "name": "David McCaffrey",
       "targetId": "9082",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9851",
+        "9852",
+        "9853",
+        "9854"
+      ]
     },
     {
       "name": "Scott Boutier",
       "targetId": "9083",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9851",
+        "9852",
+        "9853",
+        "9854"
+      ]
     },
     {
       "name": "Joel Shearer",
       "targetId": "9084",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9855",
+        "9856",
+        "9857",
+        "9858"
+      ]
     },
     {
       "name": "Eric Ivan Rosse",
       "targetId": "9085",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9855"
+      ]
     }
   ]
 }

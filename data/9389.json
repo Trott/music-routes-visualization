@@ -1,21 +1,54 @@
 {
   "source": "Eric McCredie",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10293",
+      "names": [
+        "Chirpy Chirpy Cheep Cheep"
+      ],
+      "releases": [
+        {
+          "_id": "1984",
+          "names": [
+            "Chirpy Chirpy Cheep Cheep"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1528",
+          "names": [
+            "Middle Of The Road"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sally Carr",
       "targetId": "9386",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10293"
+      ]
     },
     {
       "name": "Ken Andrew",
       "targetId": "9387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10293"
+      ]
     },
     {
       "name": "Ian McCredie",
       "targetId": "9388",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10293"
+      ]
     }
   ]
 }

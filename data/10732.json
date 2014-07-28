@@ -1,26 +1,62 @@
 {
   "source": "Stephen Fry",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13211",
+      "names": [
+        "50 Words For Snow"
+      ],
+      "releases": [
+        {
+          "_id": "2383",
+          "names": [
+            "50 Words For Snow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1696",
+          "names": [
+            "Kate Bush"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Gadd",
       "targetId": "1262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13211"
+      ]
     },
     {
       "name": "Kate Bush",
       "targetId": "2197",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13211"
+      ]
     },
     {
       "name": "John Giblin",
       "targetId": "8312",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13211"
+      ]
     },
     {
       "name": "Dan McIntosh",
       "targetId": "10729",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13211"
+      ]
     }
   ]
 }

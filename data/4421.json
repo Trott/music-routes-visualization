@@ -1,36 +1,78 @@
 {
   "source": "Jeff Phillips",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4267",
+      "names": [
+        "Runaway"
+      ],
+      "releases": [
+        {
+          "_id": "855",
+          "names": [
+            "I'm Not Dead"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "564",
+          "names": [
+            "Pink"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pink",
       "targetId": "705",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4267"
+      ]
     },
     {
       "name": "Joey Waronker",
       "targetId": "1053",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4267"
+      ]
     },
     {
       "name": "Andy Timmons",
       "targetId": "4406",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4267"
+      ]
     },
     {
       "name": "Billy Mann",
       "targetId": "4420",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4267"
+      ]
     },
     {
       "name": "Rafael Moreira",
       "targetId": "4422",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4267"
+      ]
     },
     {
       "name": "Justin Meidal-Johnsen",
       "targetId": "4423",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4267"
+      ]
     }
   ]
 }

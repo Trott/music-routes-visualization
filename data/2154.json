@@ -1,11 +1,84 @@
 {
   "source": "Meg White",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2005",
+      "names": [
+        "Seven Nation Army"
+      ],
+      "releases": [
+        {
+          "_id": "449",
+          "names": [
+            "Elephant"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "332",
+          "names": [
+            "The White Stripes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13391",
+      "names": [
+        "The Hardest Button To Button"
+      ],
+      "releases": [
+        {
+          "_id": "449",
+          "names": [
+            "Elephant"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "332",
+          "names": [
+            "The White Stripes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13437",
+      "names": [
+        "We're Going To Be Friends"
+      ],
+      "releases": [
+        {
+          "_id": "2463",
+          "names": [
+            "White Blood Cells"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "332",
+          "names": [
+            "The White Stripes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jack White",
       "targetId": "256",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2005",
+        "13391",
+        "13437"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Lyle Mays",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5483",
+      "names": [
+        "This Is Not America"
+      ],
+      "releases": [
+        {
+          "_id": "1086",
+          "names": [
+            "Best Of Bowie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5483"
+      ]
     },
     {
       "name": "Pat Metheny",
       "targetId": "5554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5483"
+      ]
     },
     {
       "name": "Steve Rodby",
       "targetId": "5556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5483"
+      ]
     },
     {
       "name": "Paul Wertico",
       "targetId": "5557",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5483"
+      ]
     }
   ]
 }

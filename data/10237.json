@@ -1,31 +1,70 @@
 {
   "source": "Al Tellone",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12350",
+      "names": [
+        "The E Street Shuffle"
+      ],
+      "releases": [
+        {
+          "_id": "2220",
+          "names": [
+            "The Wild, The Innocent & The E Street Shuffle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12350"
+      ]
     },
     {
       "name": "Clarence Clemons",
       "targetId": "465",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12350"
+      ]
     },
     {
       "name": "Garry W. Tallent",
       "targetId": "467",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12350"
+      ]
     },
     {
       "name": "Vinnie Lopez",
       "targetId": "3875",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12350"
+      ]
     },
     {
       "name": "David Sancious",
       "targetId": "3877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12350"
+      ]
     }
   ]
 }

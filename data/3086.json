@@ -1,26 +1,114 @@
 {
   "source": "Steve Mackay",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2609",
+      "names": [
+        "1970"
+      ],
+      "releases": [
+        {
+          "_id": "618",
+          "names": [
+            "Fun House"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "481",
+          "names": [
+            "The Stooges"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2610",
+      "names": [
+        "Fun House"
+      ],
+      "releases": [
+        {
+          "_id": "618",
+          "names": [
+            "Fun House"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "481",
+          "names": [
+            "The Stooges"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2611",
+      "names": [
+        "L.A. Blues"
+      ],
+      "releases": [
+        {
+          "_id": "618",
+          "names": [
+            "Fun House"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "481",
+          "names": [
+            "The Stooges"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Iggy Pop",
       "targetId": "1832",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2609",
+        "2610",
+        "2611"
+      ]
     },
     {
       "name": "Dave Alexander",
       "targetId": "3087",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2609",
+        "2610",
+        "2611"
+      ]
     },
     {
       "name": "Ron Asheton",
       "targetId": "3088",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2609",
+        "2610",
+        "2611"
+      ]
     },
     {
       "name": "Scott Asheton",
       "targetId": "3089",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2609",
+        "2610",
+        "2611"
+      ]
     }
   ]
 }

@@ -1,36 +1,108 @@
 {
   "source": "Jeff Carlisi",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2240",
+      "names": [
+        "Hold On Loosely"
+      ],
+      "releases": [
+        {
+          "_id": "546",
+          "names": [
+            "Wild-Eyed Southern Boys"
+          ]
+        },
+        {
+          "_id": "2295",
+          "names": [
+            "Flashback: The Best Of .38 Special"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "416",
+          "names": [
+            ".38 Special"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12754",
+      "names": [
+        "Somebody Like You"
+      ],
+      "releases": [
+        {
+          "_id": "2296",
+          "names": [
+            "Strength In Numbers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "416",
+          "names": [
+            ".38 Special"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12754"
+      ]
     },
     {
       "name": "Don Barnes",
       "targetId": "2714",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2240",
+        "12754"
+      ]
     },
     {
       "name": "Larry Junstrom",
       "targetId": "2715",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2240",
+        "12754"
+      ]
     },
     {
       "name": "Steve Brookins",
       "targetId": "2716",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2240"
+      ]
     },
     {
       "name": "Jack Grondin",
       "targetId": "2718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2240"
+      ]
     },
     {
       "name": "Donnie Van Zant",
       "targetId": "2719",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2240"
+      ]
     }
   ]
 }

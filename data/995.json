@@ -1,16 +1,94 @@
 {
   "source": "Rani Goel",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "546",
+      "names": [
+        "Act One: Trials And Tribulations"
+      ],
+      "releases": [
+        {
+          "_id": "227",
+          "names": [
+            "Melodrama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "9",
+          "names": [
+            "The Slow Poisoners"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "550",
+      "names": [
+        "Act Two: Nefarious Deeds"
+      ],
+      "releases": [
+        {
+          "_id": "227",
+          "names": [
+            "Melodrama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "9",
+          "names": [
+            "The Slow Poisoners"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "557",
+      "names": [
+        "Act Three: Sorrows A-Plenty"
+      ],
+      "releases": [
+        {
+          "_id": "227",
+          "names": [
+            "Melodrama"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "9",
+          "names": [
+            "The Slow Poisoners"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rich Trott",
       "targetId": "12",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "546",
+        "550",
+        "557"
+      ]
     },
     {
       "name": "Andrew Poisoner",
       "targetId": "13",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "546",
+        "550",
+        "557"
+      ]
     }
   ]
 }

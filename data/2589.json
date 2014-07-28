@@ -1,11 +1,38 @@
 {
   "source": "Rick Astley",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2138",
+      "names": [
+        "The Love Has Gone"
+      ],
+      "releases": [
+        {
+          "_id": "505",
+          "names": [
+            "Whenever You Need Somebody"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "380",
+          "names": [
+            "Rick Astley"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ian Curnow",
       "targetId": "911",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2138"
+      ]
     }
   ]
 }

@@ -1,21 +1,76 @@
 {
   "source": "PJ Harvey",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5668",
+      "names": [
+        "You Come Through"
+      ],
+      "releases": [
+        {
+          "_id": "1123",
+          "names": [
+            "The Peel Sessions 1991-2004"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "877",
+          "names": [
+            "PJ Harvey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7264",
+      "names": [
+        "Eyepennies"
+      ],
+      "releases": [
+        {
+          "_id": "1427",
+          "names": [
+            "It's A Wonderful Life"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1099",
+          "names": [
+            "Sparklehorse"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Josh Klinghoffer",
       "targetId": "1729",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5668"
+      ]
     },
     {
       "name": "Adrian Utley",
       "targetId": "2546",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7264"
+      ]
     },
     {
       "name": "Mark Linkous",
       "targetId": "6972",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7264"
+      ]
     }
   ]
 }

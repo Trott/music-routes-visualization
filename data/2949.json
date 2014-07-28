@@ -1,36 +1,203 @@
 {
   "source": "Harold \"Doc\" West",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "2438",
+      "names": [
+        "Tiny's Tempo"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2439",
+      "names": [
+        "I'll Always Love You Just The Same"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2440",
+      "names": [
+        "Romance Without Finance"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2441",
+      "names": [
+        "Red Cross"
+      ],
+      "releases": [
+        {
+          "_id": "603",
+          "names": [
+            "The Savoy And Dial Master Takes"
+          ]
+        },
+        {
+          "_id": "2192",
+          "names": [
+            "Bird/The Savoy Recordings (Master Takes) Vol. 1 "
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12181",
+      "names": [
+        "Cool Blues"
+      ],
+      "releases": [
+        {
+          "_id": "2191",
+          "names": [
+            "The Charlie Parker Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Red Callender",
       "targetId": "382",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12181"
+      ]
     },
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "2438",
+        "2439",
+        "2440",
+        "2441",
+        "12181"
+      ]
     },
     {
       "name": "Tiny Grimes",
       "targetId": "2943",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2438",
+        "2439",
+        "2440",
+        "2441"
+      ]
     },
     {
       "name": "Jimmy Butts",
       "targetId": "2948",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2438",
+        "2439",
+        "2440",
+        "2441"
+      ]
     },
     {
       "name": "Clyde Hart",
       "targetId": "2952",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2438",
+        "2439",
+        "2440",
+        "2441"
+      ]
     },
     {
       "name": "Erroll Garner",
       "targetId": "10145",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12181"
+      ]
     }
   ]
 }

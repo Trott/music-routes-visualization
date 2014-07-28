@@ -1,211 +1,604 @@
 {
   "source": "Stuart Duncan",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "193",
+      "names": [
+        "Shine"
+      ],
+      "releases": [
+        {
+          "_id": "148",
+          "names": [
+            "Little Sparrow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3022",
+      "names": [
+        "Watson Blues"
+      ],
+      "releases": [
+        {
+          "_id": "657",
+          "names": [
+            "Doc & Dawg"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "514",
+          "names": [
+            "Doc Watson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4555",
+      "names": [
+        "Daddy Played The Banjo"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4559",
+      "names": [
+        "Tin Roof"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4561",
+      "names": [
+        "Pretty Flowers"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4562",
+      "names": [
+        "Wally On The Run"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4564",
+      "names": [
+        "Saga Of The Old West"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4566",
+      "names": [
+        "Calico Train"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4568",
+      "names": [
+        "Blue River Waltz"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5381",
+      "names": [
+        "In Your Mind"
+      ],
+      "releases": [
+        {
+          "_id": "1066",
+          "names": [
+            "Music From And Inspired By The Motion Picture Dead Man Walking"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "31",
+          "names": [
+            "Johnny Cash"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Johnny Cash",
       "targetId": "222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Ry Cooder",
       "targetId": "372",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Dolly Parton",
       "targetId": "569",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "193",
+        "4561"
+      ]
     },
     {
       "name": "Vince Gill",
       "targetId": "579",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4561"
+      ]
     },
     {
       "name": "Claire Lynch",
       "targetId": "581",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Keith Little",
       "targetId": "582",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Jerry Douglas",
       "targetId": "583",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "193",
+        "4555",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Bryan Sutton",
       "targetId": "584",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Chris Thile",
       "targetId": "585",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Jim Mills",
       "targetId": "586",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Barry Bales",
       "targetId": "588",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "David Grisman",
       "targetId": "2115",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "Roy Huskey, Jr.",
       "targetId": "2627",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Jim Dickinson",
       "targetId": "3082",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Doc Watson",
       "targetId": "3328",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "Alan O'Bryant",
       "targetId": "3331",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3022",
+        "5381"
+      ]
     },
     {
       "name": "James Kerwin",
       "targetId": "3332",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "Earl Scruggs",
       "targetId": "3334",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4555",
+        "4561"
+      ]
     },
     {
       "name": "Steve Martin",
       "targetId": "3338",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "4555",
+        "4559",
+        "4561",
+        "4562",
+        "4564",
+        "4566",
+        "4568"
+      ]
     },
     {
       "name": "Craig Eastman",
       "targetId": "4825",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "4555",
+        "4559",
+        "4562",
+        "4564",
+        "4566",
+        "4568"
+      ]
     },
     {
       "name": "Kenny Malone",
       "targetId": "4826",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4555",
+        "4559",
+        "4561",
+        "4564",
+        "4566"
+      ]
     },
     {
       "name": "Bruce Martin",
       "targetId": "4827",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4555",
+        "4561",
+        "4562",
+        "4564",
+        "4566"
+      ]
     },
     {
       "name": "John McEuen",
       "targetId": "4828",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4555",
+        "4559",
+        "4561",
+        "4564",
+        "4566"
+      ]
     },
     {
       "name": "Skip Ward",
       "targetId": "4829",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "4555",
+        "4559",
+        "4561",
+        "4562",
+        "4564",
+        "4566",
+        "4568"
+      ]
     },
     {
       "name": "Tim O'Brien",
       "targetId": "4830",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4555"
+      ]
     },
     {
       "name": "Russ Barenberg",
       "targetId": "4831",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4559",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Chris Caswell",
       "targetId": "4832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4559"
+      ]
     },
     {
       "name": "Matt Flinner",
       "targetId": "4833",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4559",
+        "4561",
+        "4562",
+        "4564",
+        "4566"
+      ]
     },
     {
       "name": "Brittany Haas",
       "targetId": "4834",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4559",
+        "4562",
+        "4564",
+        "4566"
+      ]
     },
     {
       "name": "Liam O'Floinn",
       "targetId": "4835",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4566"
+      ]
     },
     {
       "name": "Hans Olson",
       "targetId": "4836",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4555",
+        "4561",
+        "4564",
+        "4566"
+      ]
     },
     {
       "name": "Pete Wernick",
       "targetId": "4837",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4561"
+      ]
     },
     {
       "name": "Michael Daves",
       "targetId": "4838",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4562"
+      ]
     },
     {
       "name": "Tony Trischka",
       "targetId": "4839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4562"
+      ]
     },
     {
       "name": "David Amram",
       "targetId": "4840",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4564",
+        "4566"
+      ]
     },
     {
       "name": "Mary Black",
       "targetId": "4841",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4566"
+      ]
     },
     {
       "name": "Roland White",
       "targetId": "5482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Steve Earle",
       "targetId": "5483",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Joachim Cooder",
       "targetId": "5484",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Patrick Enright",
       "targetId": "5485",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Gene Libbea",
       "targetId": "5486",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     }
   ]
 }

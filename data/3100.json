@@ -1,11 +1,38 @@
 {
   "source": "Andrew Broder",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2618",
+      "names": [
+        "Natural Resources"
+      ],
+      "releases": [
+        {
+          "_id": "619",
+          "names": [
+            "Dumb Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "482",
+          "names": [
+            "Dntel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Tamborello",
       "targetId": "3024",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2618"
+      ]
     }
   ]
 }

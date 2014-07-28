@@ -1,16 +1,68 @@
 {
   "source": "Jewel",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "175",
+      "names": [
+        "Barcelona"
+      ],
+      "releases": [
+        {
+          "_id": "132",
+          "names": [
+            "Spirit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "95",
+          "names": [
+            "Jewel"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6353",
+      "names": [
+        "That's The Way Love Goes"
+      ],
+      "releases": [
+        {
+          "_id": "1269",
+          "names": [
+            "For The Record: 43 Legendary Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "982",
+          "names": [
+            "Merle Haggard"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flea",
       "targetId": "553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "175"
+      ]
     },
     {
       "name": "Merle Haggard",
       "targetId": "6243",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6353"
+      ]
     }
   ]
 }

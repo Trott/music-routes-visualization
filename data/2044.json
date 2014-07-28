@@ -1,36 +1,128 @@
 {
   "source": "Sickie Wifebeater",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1901",
+      "names": [
+        "Promiscuity"
+      ],
+      "releases": [
+        {
+          "_id": "414",
+          "names": [
+            "A Life Of Crime"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "297",
+          "names": [
+            "Zoetrope"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1902",
+      "names": [
+        "NASA"
+      ],
+      "releases": [
+        {
+          "_id": "414",
+          "names": [
+            "A Life Of Crime"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "297",
+          "names": [
+            "Zoetrope"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1908",
+      "names": [
+        "Golden Shower"
+      ],
+      "releases": [
+        {
+          "_id": "415",
+          "names": [
+            "You Axed For It"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "298",
+          "names": [
+            "The Mentors"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Barry Stern",
       "targetId": "2038",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1901",
+        "1902"
+      ]
     },
     {
       "name": "Calvin Humphrey",
       "targetId": "2041",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1901",
+        "1902"
+      ]
     },
     {
       "name": "Ken Black",
       "targetId": "2042",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1901",
+        "1902"
+      ]
     },
     {
       "name": "Kevin Michael",
       "targetId": "2043",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1901",
+        "1902"
+      ]
     },
     {
       "name": "El Duce",
       "targetId": "2045",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1901",
+        "1902",
+        "1908"
+      ]
     },
     {
       "name": "Dr. Heathen Scum",
       "targetId": "2046",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1908"
+      ]
     }
   ]
 }

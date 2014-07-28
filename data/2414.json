@@ -1,11 +1,38 @@
 {
   "source": "Dennis Hopper",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2073",
+      "names": [
+        "Fire Coming Out Of The Monkey's Head"
+      ],
+      "releases": [
+        {
+          "_id": "471",
+          "names": [
+            "Demon Days"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "351",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Damon Albarn",
       "targetId": "2401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2073"
+      ]
     }
   ]
 }

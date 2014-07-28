@@ -1,16 +1,46 @@
 {
   "source": "Ricky Harris",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "712",
+      "names": [
+        "I Love To Give You Light"
+      ],
+      "releases": [
+        {
+          "_id": "247",
+          "names": [
+            "R&G (Rhythm & Gangsta): The Masterpiece"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "171",
+          "names": [
+            "Snoop Dogg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "712"
+      ]
     },
     {
       "name": "Tanya Devine",
       "targetId": "1121",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "712"
+      ]
     }
   ]
 }

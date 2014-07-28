@@ -1,16 +1,46 @@
 {
   "source": "Shaggy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7000",
+      "names": [
+        "Bam Bam"
+      ],
+      "releases": [
+        {
+          "_id": "1393",
+          "names": [
+            "True Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1073",
+          "names": [
+            "Toots and the Maytals"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Toots Hibbert",
       "targetId": "6822",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7000"
+      ]
     },
     {
       "name": "Rahzel",
       "targetId": "6833",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7000"
+      ]
     }
   ]
 }

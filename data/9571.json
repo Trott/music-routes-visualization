@@ -1,26 +1,88 @@
 {
   "source": "Larry Faucette",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10836",
+      "names": [
+        "Rainy Day, Dream Away"
+      ],
+      "releases": [
+        {
+          "_id": "1492",
+          "names": [
+            "Electric Ladyland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "406",
+          "names": [
+            "The Jimi Hendrix Experience"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10837",
+      "names": [
+        "Still Raining, Still Dreaming"
+      ],
+      "releases": [
+        {
+          "_id": "1492",
+          "names": [
+            "Electric Ladyland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "406",
+          "names": [
+            "The Jimi Hendrix Experience"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Fred Smith",
       "targetId": "1539",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10836",
+        "10837"
+      ]
     },
     {
       "name": "Jimi Hendrix",
       "targetId": "2689",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10836",
+        "10837"
+      ]
     },
     {
       "name": "Mike Finnigan",
       "targetId": "4730",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10836",
+        "10837"
+      ]
     },
     {
       "name": "Buddy Miles",
       "targetId": "6278",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10836",
+        "10837"
+      ]
     }
   ]
 }

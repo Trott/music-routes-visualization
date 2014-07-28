@@ -1,106 +1,280 @@
 {
   "source": "Elaine Caswell",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3147",
+      "names": [
+        "Main Man"
+      ],
+      "releases": [
+        {
+          "_id": "672",
+          "names": [
+            "Cher"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "526",
+          "names": [
+            "Cher"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3148",
+      "names": [
+        "Give Our Love A Fightin' Chance"
+      ],
+      "releases": [
+        {
+          "_id": "672",
+          "names": [
+            "Cher"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "526",
+          "names": [
+            "Cher"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3149",
+      "names": [
+        "Perfection"
+      ],
+      "releases": [
+        {
+          "_id": "672",
+          "names": [
+            "Cher"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "526",
+          "names": [
+            "Cher"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3152",
+      "names": [
+        "Working Girl"
+      ],
+      "releases": [
+        {
+          "_id": "672",
+          "names": [
+            "Cher"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "526",
+          "names": [
+            "Cher"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tony Levin",
       "targetId": "269",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3152"
+      ]
     },
     {
       "name": "Joe Lynn Turner",
       "targetId": "323",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3147",
+        "3149",
+        "3152"
+      ]
     },
     {
       "name": "Jerry Marotta",
       "targetId": "661",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3147",
+        "3148",
+        "3149",
+        "3152"
+      ]
     },
     {
       "name": "Cher",
       "targetId": "3456",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3147",
+        "3148",
+        "3149",
+        "3152"
+      ]
     },
     {
       "name": "John McCurry",
       "targetId": "3458",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3147",
+        "3148",
+        "3149"
+      ]
     },
     {
       "name": "Chuck Kentis",
       "targetId": "3463",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3147",
+        "3148",
+        "3149",
+        "3152"
+      ]
     },
     {
       "name": "Bernie Shanahan",
       "targetId": "3465",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3152"
+      ]
     },
     {
       "name": "Desmond Child",
       "targetId": "3466",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3147",
+        "3152"
+      ]
     },
     {
       "name": "Louis Merlino",
       "targetId": "3468",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3147",
+        "3148",
+        "3149",
+        "3152"
+      ]
     },
     {
       "name": "Myriam Valle",
       "targetId": "3469",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3147",
+        "3148",
+        "3149",
+        "3152"
+      ]
     },
     {
       "name": "Diana Graselli",
       "targetId": "3470",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3149"
+      ]
     },
     {
       "name": "Seth Glassman",
       "targetId": "3472",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3147"
+      ]
     },
     {
       "name": "John Putnam",
       "targetId": "3473",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3147",
+        "3152"
+      ]
     },
     {
       "name": "Bette Sussman",
       "targetId": "3474",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3147"
+      ]
     },
     {
       "name": "John Siegler",
       "targetId": "3475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3148"
+      ]
     },
     {
       "name": "Gregg Mangiafico",
       "targetId": "3476",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3148",
+        "3149",
+        "3152"
+      ]
     },
     {
       "name": "Diane Warren",
       "targetId": "3477",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3149"
+      ]
     },
     {
       "name": "Jimmy Bralower",
       "targetId": "3478",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3149",
+        "3152"
+      ]
     },
     {
       "name": "Bonnie Tyler",
       "targetId": "3479",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3149"
+      ]
     },
     {
       "name": "Darlene Love",
       "targetId": "3480",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3149"
+      ]
     }
   ]
 }

@@ -1,36 +1,130 @@
 {
   "source": "Bob Ramos",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7784",
+      "names": [
+        "Waiting For You"
+      ],
+      "releases": [
+        {
+          "_id": "1535",
+          "names": [
+            "Waiting For You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1176",
+          "names": [
+            "Nick Clemons"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7785",
+      "names": [
+        "Love, Patience, Sympathy"
+      ],
+      "releases": [
+        {
+          "_id": "1535",
+          "names": [
+            "Waiting For You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1176",
+          "names": [
+            "Nick Clemons"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7786",
+      "names": [
+        "Run Rabbit Run"
+      ],
+      "releases": [
+        {
+          "_id": "1535",
+          "names": [
+            "Waiting For You"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1176",
+          "names": [
+            "Nick Clemons"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joel Godfrey Primer",
       "targetId": "7323",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7784",
+        "7785",
+        "7786"
+      ]
     },
     {
       "name": "Matt Snyder",
       "targetId": "7324",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7784",
+        "7785",
+        "7786"
+      ]
     },
     {
       "name": "Nick Clemons",
       "targetId": "7406",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7784",
+        "7785",
+        "7786"
+      ]
     },
     {
       "name": "Sly Geralds",
       "targetId": "7407",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7784"
+      ]
     },
     {
       "name": "Karen Teperberg",
       "targetId": "7408",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7784"
+      ]
     },
     {
       "name": "Ronnie Paige",
       "targetId": "7410",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7784",
+        "7785",
+        "7786"
+      ]
     }
   ]
 }

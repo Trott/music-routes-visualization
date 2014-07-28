@@ -1,66 +1,151 @@
 {
   "source": "Reggie Hamilton",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3874",
+      "names": [
+        "Prison Grove"
+      ],
+      "releases": [
+        {
+          "_id": "77",
+          "names": [
+            "The Wind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3875",
+      "names": [
+        "El Amor De Mi Vida"
+      ],
+      "releases": [
+        {
+          "_id": "77",
+          "names": [
+            "The Wind"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3874"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3874",
+        "3875"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3874"
+      ]
     },
     {
       "name": "Warren Zevon",
       "targetId": "346",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3874",
+        "3875"
+      ]
     },
     {
       "name": "Ry Cooder",
       "targetId": "372",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3874"
+      ]
     },
     {
       "name": "David Lindley",
       "targetId": "641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3874"
+      ]
     },
     {
       "name": "Jorge Calderón",
       "targetId": "663",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3874",
+        "3875"
+      ]
     },
     {
       "name": "Jordan Zevon",
       "targetId": "664",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3874"
+      ]
     },
     {
       "name": "Jackson Browne",
       "targetId": "669",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3874"
+      ]
     },
     {
       "name": "Billy Bob Thornton",
       "targetId": "4074",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3874"
+      ]
     },
     {
       "name": "Luis Conte",
       "targetId": "4078",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3875"
+      ]
     },
     {
       "name": "James Raymond",
       "targetId": "4080",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3875"
+      ]
     }
   ]
 }

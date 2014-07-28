@@ -1,56 +1,415 @@
 {
   "source": "Ted Poley",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "4245",
+      "names": [
+        "Lovin' A Girl Like You (Could Be Bad For My Health)"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4246",
+      "names": [
+        "Bang Bang"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4247",
+      "names": [
+        "Feels Like Love"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4248",
+      "names": [
+        "Little Girl's Hot Tonite"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4249",
+      "names": [
+        "Don't Walk Away"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4250",
+      "names": [
+        "One Step From Paradise"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4251",
+      "names": [
+        "Hold On Maria"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4252",
+      "names": [
+        "Rock America"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4253",
+      "names": [
+        "Don't Blame It On Love"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4254",
+      "names": [
+        "Live It Up"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4255",
+      "names": [
+        "Temptation"
+      ],
+      "releases": [
+        {
+          "_id": "852",
+          "names": [
+            "Rare Cuts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4265",
+      "names": [
+        "Slipped Her The Big One"
+      ],
+      "releases": [
+        {
+          "_id": "854",
+          "names": [
+            "Screw It!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4266",
+      "names": [
+        "Yeah, You Want It!"
+      ],
+      "releases": [
+        {
+          "_id": "854",
+          "names": [
+            "Screw It!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "673",
+          "names": [
+            "Danger Danger"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Al Pitrelli",
       "targetId": "3643",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "4246",
+        "4247",
+        "4248",
+        "4250",
+        "4251",
+        "4252",
+        "4253",
+        "4255"
+      ]
     },
     {
       "name": "Andy Timmons",
       "targetId": "4406",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4245",
+        "4265",
+        "4266"
+      ]
     },
     {
       "name": "Kasey Smith",
       "targetId": "4407",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4251",
+        "4252",
+        "4253",
+        "4265",
+        "4266"
+      ]
     },
     {
       "name": "Bruno Ravel",
       "targetId": "4408",
-      "trackCount": 13
+      "trackCount": 13,
+      "tracks": [
+        "4245",
+        "4246",
+        "4247",
+        "4248",
+        "4249",
+        "4250",
+        "4251",
+        "4252",
+        "4253",
+        "4254",
+        "4255",
+        "4265",
+        "4266"
+      ]
     },
     {
       "name": "Steve West",
       "targetId": "4409",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "4245",
+        "4246",
+        "4247",
+        "4248",
+        "4249",
+        "4250",
+        "4251",
+        "4252",
+        "4253",
+        "4254",
+        "4265",
+        "4266"
+      ]
     },
     {
       "name": "Joe Franco",
       "targetId": "4410",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4255"
+      ]
     },
     {
       "name": "George Cintron",
       "targetId": "4411",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4251",
+        "4252",
+        "4253"
+      ]
     },
     {
       "name": "Gary Cherone",
       "targetId": "4417",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4265",
+        "4266"
+      ]
     },
     {
       "name": "Pat Badger",
       "targetId": "4418",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4265",
+        "4266"
+      ]
     },
     {
       "name": "Nuno Bettencourt",
       "targetId": "4419",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4265",
+        "4266"
+      ]
     }
   ]
 }

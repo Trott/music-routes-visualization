@@ -1,31 +1,94 @@
 {
   "source": "Sam Davol",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2327",
+      "names": [
+        "I Die : You Die"
+      ],
+      "releases": [
+        {
+          "_id": "585",
+          "names": [
+            "Random"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "450",
+          "names": [
+            "The Magnetic Fields"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3421",
+      "names": [
+        "Just Like a Movie Star"
+      ],
+      "releases": [
+        {
+          "_id": "698",
+          "names": [
+            "Hyacinths & Thistles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2327",
+        "3421"
+      ]
     },
     {
       "name": "John Woo",
       "targetId": "2862",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2327",
+        "3421"
+      ]
     },
     {
       "name": "Dominique A.",
       "targetId": "3605",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3421"
+      ]
     },
     {
       "name": "Claudia Gonson",
       "targetId": "8042",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3421"
+      ]
     },
     {
       "name": "Ida Pearle",
       "targetId": "8043",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3421"
+      ]
     }
   ]
 }

@@ -1,76 +1,268 @@
 {
   "source": "Jim Hodder",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "12267",
+      "names": [
+        "Reelin' In The Years"
+      ],
+      "releases": [
+        {
+          "_id": "2205",
+          "names": [
+            "Can't Buy A Thrill"
+          ]
+        },
+        {
+          "_id": "2206",
+          "names": [
+            "Citizen Steely Dan: 1972-1980"
+          ]
+        },
+        {
+          "_id": "2207",
+          "names": [
+            "A Decade of Steely Dan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12268",
+      "names": [
+        "Do It Again"
+      ],
+      "releases": [
+        {
+          "_id": "2205",
+          "names": [
+            "Can't Buy A Thrill"
+          ]
+        },
+        {
+          "_id": "2206",
+          "names": [
+            "Citizen Steely Dan: 1972-1980"
+          ]
+        },
+        {
+          "_id": "2207",
+          "names": [
+            "A Decade of Steely Dan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12271",
+      "names": [
+        "Bodhisattva"
+      ],
+      "releases": [
+        {
+          "_id": "2206",
+          "names": [
+            "Citizen Steely Dan: 1972-1980"
+          ]
+        },
+        {
+          "_id": "2207",
+          "names": [
+            "A Decade of Steely Dan"
+          ]
+        },
+        {
+          "_id": "2209",
+          "names": [
+            "Countdown To Ecstasy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12276",
+      "names": [
+        "My Old School"
+      ],
+      "releases": [
+        {
+          "_id": "2206",
+          "names": [
+            "Citizen Steely Dan: 1972-1980"
+          ]
+        },
+        {
+          "_id": "2207",
+          "names": [
+            "A Decade of Steely Dan"
+          ]
+        },
+        {
+          "_id": "2209",
+          "names": [
+            "Countdown To Ecstasy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Victor Feldman",
       "targetId": "396",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12268"
+      ]
     },
     {
       "name": "Ernie Watts",
       "targetId": "413",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Donald Fagen",
       "targetId": "720",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12267",
+        "12268",
+        "12271",
+        "12276"
+      ]
     },
     {
       "name": "Walter Becker",
       "targetId": "721",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12267",
+        "12268",
+        "12271",
+        "12276"
+      ]
     },
     {
       "name": "Myrna Matthews",
       "targetId": "3553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Jeff \"Skunk\" Baxter",
       "targetId": "7533",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12267",
+        "12268",
+        "12271",
+        "12276"
+      ]
     },
     {
       "name": "Johnny Rotella",
       "targetId": "7938",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Sherlie Matthews",
       "targetId": "8453",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Denny Dias",
       "targetId": "8455",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "12267",
+        "12268",
+        "12271",
+        "12276"
+      ]
     },
     {
       "name": "Bill Perkins",
       "targetId": "9023",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "David Palmer",
       "targetId": "10173",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12267"
+      ]
     },
     {
       "name": "Elliott Randall",
       "targetId": "10175",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12267"
+      ]
     },
     {
       "name": "Patricia Hall",
       "targetId": "10178",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     },
     {
       "name": "Lanny Morgan",
       "targetId": "10179",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12276"
+      ]
     }
   ]
 }

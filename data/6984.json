@@ -1,16 +1,46 @@
 {
   "source": "Gruff Rhys",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7271",
+      "names": [
+        "Just War"
+      ],
+      "releases": [
+        {
+          "_id": "1429",
+          "names": [
+            "Dark Night Of The Soul"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1100",
+          "names": [
+            "Danger Mouse & Sparklehorse"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mark Linkous",
       "targetId": "6972",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7271"
+      ]
     },
     {
       "name": "Danger Mouse",
       "targetId": "6977",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7271"
+      ]
     }
   ]
 }

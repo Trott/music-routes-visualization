@@ -1,26 +1,62 @@
 {
   "source": "Berit Fridahl",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6160",
+      "names": [
+        "Talk To Me"
+      ],
+      "releases": [
+        {
+          "_id": "1234",
+          "names": [
+            "South"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "956",
+          "names": [
+            "Heather Nova"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Heather Nova",
       "targetId": "6081",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6160"
+      ]
     },
     {
       "name": "Bastian Juel",
       "targetId": "6082",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6160"
+      ]
     },
     {
       "name": "Laurie Jenkins",
       "targetId": "6083",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6160"
+      ]
     },
     {
       "name": "Glenn Scott",
       "targetId": "6085",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6160"
+      ]
     }
   ]
 }

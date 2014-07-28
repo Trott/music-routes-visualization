@@ -1,71 +1,435 @@
 {
   "source": "Harry \"Sweets\" Edison",
   "trackCount": 11,
+  "tracks": [
+    {
+      "_id": "7493",
+      "names": [
+        "A Foggy Day"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7494",
+      "names": [
+        "Come Rain Or Come Shine"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7495",
+      "names": [
+        "Comes Love"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7496",
+      "names": [
+        "Stars Fell On Alabama"
+      ],
+      "releases": [
+        {
+          "_id": "1474",
+          "names": [
+            "Billie's Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9273",
+      "names": [
+        "Inka-Dinka-Doo"
+      ],
+      "releases": [
+        {
+          "_id": "1793",
+          "names": [
+            "Soft Shoe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        },
+        {
+          "_id": "1389",
+          "names": [
+            "Ray Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9274",
+      "names": [
+        "Soft Shoe"
+      ],
+      "releases": [
+        {
+          "_id": "1793",
+          "names": [
+            "Soft Shoe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        },
+        {
+          "_id": "1389",
+          "names": [
+            "Ray Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9275",
+      "names": [
+        "Edison Lights"
+      ],
+      "releases": [
+        {
+          "_id": "1793",
+          "names": [
+            "Soft Shoe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        },
+        {
+          "_id": "1389",
+          "names": [
+            "Ray Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9276",
+      "names": [
+        "Easter Parade"
+      ],
+      "releases": [
+        {
+          "_id": "1793",
+          "names": [
+            "Soft Shoe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        },
+        {
+          "_id": "1389",
+          "names": [
+            "Ray Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9277",
+      "names": [
+        "Green Dolphin Street"
+      ],
+      "releases": [
+        {
+          "_id": "1793",
+          "names": [
+            "Soft Shoe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        },
+        {
+          "_id": "1389",
+          "names": [
+            "Ray Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9278",
+      "names": [
+        "Ellis Original"
+      ],
+      "releases": [
+        {
+          "_id": "1793",
+          "names": [
+            "Soft Shoe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        },
+        {
+          "_id": "1389",
+          "names": [
+            "Ray Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9279",
+      "names": [
+        "The Flinststones Theme"
+      ],
+      "releases": [
+        {
+          "_id": "1793",
+          "names": [
+            "Soft Shoe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1386",
+          "names": [
+            "Herb Ellis"
+          ]
+        },
+        {
+          "_id": "1389",
+          "names": [
+            "Ray Brown"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "George Duke",
       "targetId": "1327",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "9273",
+        "9274",
+        "9275",
+        "9276",
+        "9277",
+        "9278",
+        "9279"
+      ]
     },
     {
       "name": "Barney Kessel",
       "targetId": "1485",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7493",
+        "7494",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Ray Brown",
       "targetId": "1925",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "9273",
+        "9274",
+        "9275",
+        "9276",
+        "9277",
+        "9278",
+        "9279"
+      ]
     },
     {
       "name": "Billie Holiday",
       "targetId": "2704",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7493",
+        "7494",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Alvin Stoller",
       "targetId": "2706",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7493",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Herb Ellis",
       "targetId": "7153",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "9273",
+        "9274",
+        "9275",
+        "9276",
+        "9277",
+        "9278",
+        "9279"
+      ]
     },
     {
       "name": "Ben Webster",
       "targetId": "7156",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7493",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Jimmy Rowles",
       "targetId": "7157",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7493",
+        "7494",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Red Mitchell",
       "targetId": "7158",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7493",
+        "7495",
+        "7496"
+      ]
     },
     {
       "name": "Benny Carter",
       "targetId": "7159",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7494"
+      ]
     },
     {
       "name": "John Simmons",
       "targetId": "7160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7494"
+      ]
     },
     {
       "name": "Larry Bunker",
       "targetId": "7161",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7494"
+      ]
     },
     {
       "name": "Jake Hanna",
       "targetId": "8675",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "9273",
+        "9274",
+        "9275",
+        "9276",
+        "9277",
+        "9278",
+        "9279"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Pierre Michelot",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "749",
+      "names": [
+        "Night And Day"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Django Reinhardt",
       "targetId": "1156",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "749"
+      ]
     },
     {
       "name": "Jean-Louis Viale",
       "targetId": "1188",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "749"
+      ]
     },
     {
       "name": "Maurice Vander",
       "targetId": "1189",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "749"
+      ]
     }
   ]
 }

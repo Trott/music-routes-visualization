@@ -1,26 +1,62 @@
 {
   "source": "Trevor Griffin",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10598",
+      "names": [
+        "4th Of July"
+      ],
+      "releases": [
+        {
+          "_id": "2036",
+          "names": [
+            "Give Us A Wink"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "559",
+          "names": [
+            "The Sweet"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andy Scott",
       "targetId": "3697",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10598"
+      ]
     },
     {
       "name": "Mick Tucker",
       "targetId": "3699",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10598"
+      ]
     },
     {
       "name": "Steve Norman Priest",
       "targetId": "9510",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10598"
+      ]
     },
     {
       "name": "Brian Francis Connolly",
       "targetId": "9511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10598"
+      ]
     }
   ]
 }

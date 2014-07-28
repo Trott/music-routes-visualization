@@ -1,41 +1,140 @@
 {
   "source": "Buddy Miles",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6414",
+      "names": [
+        "I Don't Live Today"
+      ],
+      "releases": [
+        {
+          "_id": "1283",
+          "names": [
+            "Stone Free: A Tribute To Jimi Hendrix"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "991",
+          "names": [
+            "Slash"
+          ]
+        },
+        {
+          "_id": "1423",
+          "names": [
+            "Paul Rodgers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10836",
+      "names": [
+        "Rainy Day, Dream Away"
+      ],
+      "releases": [
+        {
+          "_id": "1492",
+          "names": [
+            "Electric Ladyland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "406",
+          "names": [
+            "The Jimi Hendrix Experience"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10837",
+      "names": [
+        "Still Raining, Still Dreaming"
+      ],
+      "releases": [
+        {
+          "_id": "1492",
+          "names": [
+            "Electric Ladyland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "406",
+          "names": [
+            "The Jimi Hendrix Experience"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Rodgers",
       "targetId": "939",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6414"
+      ]
     },
     {
       "name": "Slash",
       "targetId": "1287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6414"
+      ]
     },
     {
       "name": "Fred Smith",
       "targetId": "1539",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10836",
+        "10837"
+      ]
     },
     {
       "name": "Jimi Hendrix",
       "targetId": "2689",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10836",
+        "10837"
+      ]
     },
     {
       "name": "Mike Finnigan",
       "targetId": "4730",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10836",
+        "10837"
+      ]
     },
     {
       "name": "Billy Cox",
       "targetId": "6277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6414"
+      ]
     },
     {
       "name": "Larry Faucette",
       "targetId": "9571",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10836",
+        "10837"
+      ]
     }
   ]
 }

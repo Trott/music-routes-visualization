@@ -1,31 +1,70 @@
 {
   "source": "Tony Kiley",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4425",
+      "names": [
+        "The Living Tree"
+      ],
+      "releases": [
+        {
+          "_id": "883",
+          "names": [
+            "Get The Party Started"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "696",
+          "names": [
+            "Shirley Bassey"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Shirley Bassey",
       "targetId": "4525",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4425"
+      ]
     },
     {
       "name": "Catherine Feeney",
       "targetId": "4526",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4425"
+      ]
     },
     {
       "name": "Nikki Lamborn",
       "targetId": "4528",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4425"
+      ]
     },
     {
       "name": "David Levy",
       "targetId": "4535",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4425"
+      ]
     },
     {
       "name": "Clem Clempson",
       "targetId": "4537",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4425"
+      ]
     }
   ]
 }

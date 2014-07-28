@@ -1,21 +1,77 @@
 {
   "source": "Chloe Lowery",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6624",
+      "names": [
+        "Omaggio (Tribute)"
+      ],
+      "releases": [
+        {
+          "_id": "1323",
+          "names": [
+            "Voices"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1025",
+          "names": [
+            "Yanni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6629",
+      "names": [
+        "Mi Todo Eres Tú (Until The Last Moment)"
+      ],
+      "releases": [
+        {
+          "_id": "1323",
+          "names": [
+            "Voices"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1025",
+          "names": [
+            "Yanni"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Yanni",
       "targetId": "6472",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6624",
+        "6629"
+      ]
     },
     {
       "name": "Nathan Pacheco",
       "targetId": "6474",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6624"
+      ]
     },
     {
       "name": "Ender Thomas",
       "targetId": "6476",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6629"
+      ]
     }
   ]
 }

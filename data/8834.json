@@ -1,21 +1,79 @@
 {
   "source": "Debbe Cole",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9496",
+      "names": [
+        "When I Fell In Love"
+      ],
+      "releases": [
+        {
+          "_id": "1829",
+          "names": [
+            "LL 77"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1419",
+          "names": [
+            "Lisa Lisa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9497",
+      "names": [
+        "Acid Rain"
+      ],
+      "releases": [
+        {
+          "_id": "1829",
+          "names": [
+            "LL 77"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1419",
+          "names": [
+            "Lisa Lisa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Lisa",
       "targetId": "8818",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9496",
+        "9497"
+      ]
     },
     {
       "name": "Candy Bell",
       "targetId": "8833",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9496",
+        "9497"
+      ]
     },
     {
       "name": "Lydia Rhodes",
       "targetId": "8835",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9496",
+        "9497"
+      ]
     }
   ]
 }

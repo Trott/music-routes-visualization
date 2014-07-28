@@ -1,21 +1,102 @@
 {
   "source": "Chad Channing",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1853",
+      "names": [
+        "Big Cheese"
+      ],
+      "releases": [
+        {
+          "_id": "408",
+          "names": [
+            "Bleach"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "115",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3520",
+      "names": [
+        "Been A Son"
+      ],
+      "releases": [
+        {
+          "_id": "712",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "115",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3521",
+      "names": [
+        "About A Girl"
+      ],
+      "releases": [
+        {
+          "_id": "712",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "115",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kurt Cobain",
       "targetId": "683",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1853",
+        "3520",
+        "3521"
+      ]
     },
     {
       "name": "Krist Novoselic",
       "targetId": "684",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1853",
+        "3520",
+        "3521"
+      ]
     },
     {
       "name": "Jason Everman",
       "targetId": "2021",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1853"
+      ]
     }
   ]
 }

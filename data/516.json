@@ -1,36 +1,100 @@
 {
   "source": "Johnny Strike",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "154",
+      "names": [
+        "Across The USA"
+      ],
+      "releases": [
+        {
+          "_id": "116",
+          "names": [
+            "Exalted Masters"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "88",
+          "names": [
+            "Crime"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "155",
+      "names": [
+        "Hot Wire My Heart"
+      ],
+      "releases": [
+        {
+          "_id": "117",
+          "names": [
+            "San Francisco's Still Doomed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "88",
+          "names": [
+            "Crime"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Hank Rank",
       "targetId": "513",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "154"
+      ]
     },
     {
       "name": "Mickey Tractor",
       "targetId": "514",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "154"
+      ]
     },
     {
       "name": "Count Fink",
       "targetId": "515",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "154"
+      ]
     },
     {
       "name": "Frankie Fix",
       "targetId": "518",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "155"
+      ]
     },
     {
       "name": "Ron \"The Ripper\" Greco",
       "targetId": "519",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "155"
+      ]
     },
     {
       "name": "Ricky Tractor",
       "targetId": "520",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "155"
+      ]
     }
   ]
 }

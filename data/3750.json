@@ -1,21 +1,54 @@
 {
   "source": "Ted Benham",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3622",
+      "names": [
+        "Little Hands"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3622"
+      ]
     },
     {
       "name": "Charlie Jones",
       "targetId": "3709",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3622"
+      ]
     },
     {
       "name": "Innes Sibun",
       "targetId": "3749",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3622"
+      ]
     }
   ]
 }

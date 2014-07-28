@@ -1,26 +1,109 @@
 {
   "source": "Nash The Slash",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "12944",
+      "names": [
+        "Cry The Clock Said"
+      ],
+      "releases": [
+        {
+          "_id": "2334",
+          "names": [
+            "Dance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1259",
+          "names": [
+            "Gary Numan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12949",
+      "names": [
+        "You Are, You Are"
+      ],
+      "releases": [
+        {
+          "_id": "2334",
+          "names": [
+            "Dance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1259",
+          "names": [
+            "Gary Numan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12950",
+      "names": [
+        "Moral"
+      ],
+      "releases": [
+        {
+          "_id": "2334",
+          "names": [
+            "Dance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1259",
+          "names": [
+            "Gary Numan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Roger Taylor",
       "targetId": "215",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12949",
+        "12950"
+      ]
     },
     {
       "name": "Gary Numan",
       "targetId": "854",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12944",
+        "12949",
+        "12950"
+      ]
     },
     {
       "name": "John Webb",
       "targetId": "8007",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12944"
+      ]
     },
     {
       "name": "Jess Lidyard",
       "targetId": "10468",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12950"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Matt Bissonette",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3842",
+      "names": [
+        "If I Could Fly"
+      ],
+      "releases": [
+        {
+          "_id": "780",
+          "names": [
+            "Is There Love In Space?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "612",
+          "names": [
+            "Joe Satriani"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joe Satriani",
       "targetId": "1286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3842"
+      ]
     },
     {
       "name": "Jeff Campitelli",
       "targetId": "4005",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3842"
+      ]
     }
   ]
 }

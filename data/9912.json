@@ -1,21 +1,54 @@
 {
   "source": "Steve Hazlehurst",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11534",
+      "names": [
+        "Imagination (Is A Powerful Deceiver)"
+      ],
+      "releases": [
+        {
+          "_id": "2142",
+          "names": [
+            "My Aim Is True"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11534"
+      ]
     },
     {
       "name": "Dickie Faulkner",
       "targetId": "9913",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11534"
+      ]
     },
     {
       "name": "Mich Kent",
       "targetId": "9914",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11534"
+      ]
     }
   ]
 }

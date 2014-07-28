@@ -1,16 +1,68 @@
 {
   "source": "Del Tha Funkee Homosapien",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2063",
+      "names": [
+        "Clint Eastwood"
+      ],
+      "releases": [
+        {
+          "_id": "470",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "351",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7833",
+      "names": [
+        "Missing Link"
+      ],
+      "releases": [
+        {
+          "_id": "711",
+          "names": [
+            "Judgment Night"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1183",
+          "names": [
+            "Dinosaur Jr. & Del Tha Funkee Homosapien"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "J Mascis",
       "targetId": "737",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7833"
+      ]
     },
     {
       "name": "Damon Albarn",
       "targetId": "2401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2063"
+      ]
     }
   ]
 }

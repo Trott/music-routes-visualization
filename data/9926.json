@@ -1,21 +1,54 @@
 {
   "source": "Kevin Coleman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11567",
+      "names": [
+        "Walkin' On The Sun"
+      ],
+      "releases": [
+        {
+          "_id": "2147",
+          "names": [
+            "Fush Yu Mang"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1614",
+          "names": [
+            "Smash Mouth"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gregory Camp",
       "targetId": "9925",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11567"
+      ]
     },
     {
       "name": "Steve Harwell",
       "targetId": "9927",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11567"
+      ]
     },
     {
       "name": "Paul De Lisle",
       "targetId": "9928",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11567"
+      ]
     }
   ]
 }

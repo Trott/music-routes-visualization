@@ -1,26 +1,62 @@
 {
   "source": "James Kerwin",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3022",
+      "names": [
+        "Watson Blues"
+      ],
+      "releases": [
+        {
+          "_id": "657",
+          "names": [
+            "Doc & Dawg"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "514",
+          "names": [
+            "Doc Watson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stuart Duncan",
       "targetId": "587",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "David Grisman",
       "targetId": "2115",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "Doc Watson",
       "targetId": "3328",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "Alan O'Bryant",
       "targetId": "3331",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     }
   ]
 }

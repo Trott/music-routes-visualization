@@ -1,116 +1,436 @@
 {
   "source": "Colin Cripps",
   "trackCount": 10,
+  "tracks": [
+    {
+      "_id": "3529",
+      "names": [
+        "Buffalo"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3530",
+      "names": [
+        "The Cheapest Key"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3532",
+      "names": [
+        "Alicia Ross"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3533",
+      "names": [
+        "I Make the Dough, You Get the Glory"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3534",
+      "names": [
+        "Oil Man's War"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3536",
+      "names": [
+        "Run"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3537",
+      "names": [
+        "Oh, Canada"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3538",
+      "names": [
+        "Scared At Night"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12699",
+      "names": [
+        "Flower Grown Wild"
+      ],
+      "releases": [
+        {
+          "_id": "2276",
+          "names": [
+            "11"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12719",
+      "names": [
+        "Tonight We Have The Stars"
+      ],
+      "releases": [
+        {
+          "_id": "2276",
+          "names": [
+            "11"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "3529",
+        "3530",
+        "3533",
+        "3534",
+        "3536"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3532",
+        "3534",
+        "3536",
+        "3537"
+      ]
     },
     {
       "name": "Greg Leisz",
       "targetId": "1061",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3530",
+        "3533",
+        "3537"
+      ]
     },
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12719"
+      ]
     },
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12699",
+        "12719"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12699",
+        "12719"
+      ]
     },
     {
       "name": "Don Heffington",
       "targetId": "3274",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3530",
+        "3533",
+        "3534",
+        "3536"
+      ]
     },
     {
       "name": "Kathleen Edwards",
       "targetId": "3661",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "3529",
+        "3530",
+        "3532",
+        "3533",
+        "3534",
+        "3536",
+        "3537",
+        "3538"
+      ]
     },
     {
       "name": "Gary Craig",
       "targetId": "3662",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3529",
+        "3532",
+        "3537"
+      ]
     },
     {
       "name": "Jim Bryson",
       "targetId": "3664",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3529",
+        "3534"
+      ]
     },
     {
       "name": "Anne Lindsay",
       "targetId": "3665",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3529",
+        "3532"
+      ]
     },
     {
       "name": "Johann Lotter",
       "targetId": "3666",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3529",
+        "3532"
+      ]
     },
     {
       "name": "Kevin Fox",
       "targetId": "3667",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3529",
+        "3532"
+      ]
     },
     {
       "name": "Bob Packwood",
       "targetId": "3668",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3530",
+        "3533",
+        "3534"
+      ]
     },
     {
       "name": "Paul Reddick",
       "targetId": "3669",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3530",
+        "3532"
+      ]
     },
     {
       "name": "Jim Scott",
       "targetId": "3670",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3530"
+      ]
     },
     {
       "name": "Paul Bryan",
       "targetId": "3672",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3532",
+        "3537"
+      ]
     },
     {
       "name": "Margaret Edwards",
       "targetId": "3673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3533"
+      ]
     },
     {
       "name": "Burke Carroll",
       "targetId": "3674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3538"
+      ]
     },
     {
       "name": "Justin Rutledge",
       "targetId": "3675",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3538"
+      ]
     },
     {
       "name": "Gary Breit",
       "targetId": "10346",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12699",
+        "12719"
+      ]
     },
     {
       "name": "Eliot Kennedy",
       "targetId": "10347",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12699"
+      ]
     }
   ]
 }

@@ -1,31 +1,117 @@
 {
   "source": "Ben Lee",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "4511",
+      "names": [
+        "Bruised"
+      ],
+      "releases": [
+        {
+          "_id": "912",
+          "names": [
+            "Supersunnyspeedgraphic, The LP"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "719",
+          "names": [
+            "Ben Folds"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5665",
+      "names": [
+        "Dead Or Anything"
+      ],
+      "releases": [
+        {
+          "_id": "1121",
+          "names": [
+            "\"Dead or Anything\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "875",
+          "names": [
+            "Dando Lee Petersson Schwartzman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5666",
+      "names": [
+        "Love Song"
+      ],
+      "releases": [
+        {
+          "_id": "1121",
+          "names": [
+            "\"Dead or Anything\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "875",
+          "names": [
+            "Dando Lee Petersson Schwartzman"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Folds",
       "targetId": "180",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4511"
+      ]
     },
     {
       "name": "Evan Dando",
       "targetId": "730",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5665",
+        "5666"
+      ]
     },
     {
       "name": "Tom Petersson",
       "targetId": "2526",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5665",
+        "5666"
+      ]
     },
     {
       "name": "Ben Kweller",
       "targetId": "4673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4511"
+      ]
     },
     {
       "name": "Jason Schwartzman",
       "targetId": "5670",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5665",
+        "5666"
+      ]
     }
   ]
 }

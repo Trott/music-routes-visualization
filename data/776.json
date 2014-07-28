@@ -1,21 +1,54 @@
 {
   "source": "Butler",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "296",
+      "names": [
+        "Sexual Military Dynamics"
+      ],
+      "releases": [
+        {
+          "_id": "182",
+          "names": [
+            "Ball-Hog Or Tugboat?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "126",
+          "names": [
+            "Mike Watt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Henry Rollins",
       "targetId": "185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "296"
+      ]
     },
     {
       "name": "Mike Watt",
       "targetId": "751",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "296"
+      ]
     },
     {
       "name": "Wayne Griffin",
       "targetId": "775",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "296"
+      ]
     }
   ]
 }

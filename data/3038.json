@@ -1,16 +1,46 @@
 {
   "source": "Liza Rey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2540",
+      "names": [
+        "Black Mirror"
+      ],
+      "releases": [
+        {
+          "_id": "612",
+          "names": [
+            "Neon Bible"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "474",
+          "names": [
+            "Arcade Fire"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Win Butler",
       "targetId": "3010",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2540"
+      ]
     },
     {
       "name": "Régine Chassagne",
       "targetId": "3011",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2540"
+      ]
     }
   ]
 }

@@ -1,66 +1,149 @@
 {
   "source": "Frank Fields",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4500",
+      "names": [
+        "Tutti Frutti"
+      ],
+      "releases": [
+        {
+          "_id": "903",
+          "names": [
+            "The Georgia Peach"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "711",
+          "names": [
+            "Little Richard"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13433",
+      "names": [
+        "Ain't Got No Home"
+      ],
+      "releases": [
+        {
+          "_id": "2459",
+          "names": [
+            "The Best Of Clarence \"Frogman\" Henry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1750",
+          "names": [
+            "Clarence \"Frogman\" Henry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Little Richard",
       "targetId": "4645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Earl Palmer",
       "targetId": "4647",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Justin Adams",
       "targetId": "4648",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Huey \"Piano\" Smith",
       "targetId": "4649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Alvin \"Red\" Tyler",
       "targetId": "4650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4500"
+      ]
     },
     {
       "name": "Lee Allen",
       "targetId": "4651",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4500",
+        "13433"
+      ]
     },
     {
       "name": "Clarence \"Frogman\" Henry",
       "targetId": "10970",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13433"
+      ]
     },
     {
       "name": "Edgar Myles",
       "targetId": "10971",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13433"
+      ]
     },
     {
       "name": "Eddie Smith",
       "targetId": "10972",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13433"
+      ]
     },
     {
       "name": "Paul Gayten",
       "targetId": "10973",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13433"
+      ]
     },
     {
       "name": "Walter Nelson",
       "targetId": "10974",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13433"
+      ]
     },
     {
       "name": "Eugene Jones",
       "targetId": "10975",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13433"
+      ]
     }
   ]
 }

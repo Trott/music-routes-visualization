@@ -1,11 +1,38 @@
 {
   "source": "Judy Garland",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6949",
+      "names": [
+        "For Me And My Gal"
+      ],
+      "releases": [
+        {
+          "_id": "1387",
+          "names": [
+            "Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "573",
+          "names": [
+            "Bing Crosby"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bing Crosby",
       "targetId": "1791",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6949"
+      ]
     }
   ]
 }

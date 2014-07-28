@@ -1,31 +1,95 @@
 {
   "source": "Evan Parker",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6618",
+      "names": [
+        "Dealker"
+      ],
+      "releases": [
+        {
+          "_id": "1322",
+          "names": [
+            "Climate Of Hunter"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1024",
+          "names": [
+            "Scott Walker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6621",
+      "names": [
+        "Track Six"
+      ],
+      "releases": [
+        {
+          "_id": "1322",
+          "names": [
+            "Climate Of Hunter"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1024",
+          "names": [
+            "Scott Walker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mark Isham",
       "targetId": "924",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6618"
+      ]
     },
     {
       "name": "Mo Foster",
       "targetId": "3380",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6618",
+        "6621"
+      ]
     },
     {
       "name": "Scott Walker",
       "targetId": "6466",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6618",
+        "6621"
+      ]
     },
     {
       "name": "Peter van Hooke",
       "targetId": "6467",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6618",
+        "6621"
+      ]
     },
     {
       "name": "Brian Gascoigne",
       "targetId": "6468",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6618"
+      ]
     }
   ]
 }

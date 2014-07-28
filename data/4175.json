@@ -1,21 +1,54 @@
 {
   "source": "Peter Daltrey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4009",
+      "names": [
+        "Welcome To The New Dimension"
+      ],
+      "releases": [
+        {
+          "_id": "819",
+          "names": [
+            "Into The Electric Castle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "644",
+          "names": [
+            "Ayreon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ed Warby",
       "targetId": "4172",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4009"
+      ]
     },
     {
       "name": "Arjen Anthony Lucassen",
       "targetId": "4173",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4009"
+      ]
     },
     {
       "name": "Clive Nolan",
       "targetId": "4174",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4009"
+      ]
     }
   ]
 }

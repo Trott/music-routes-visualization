@@ -1,26 +1,111 @@
 {
   "source": "Billie Joe Armstrong",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "287",
+      "names": [
+        "Letterbomb"
+      ],
+      "releases": [
+        {
+          "_id": "181",
+          "names": [
+            "American Idiot"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "125",
+          "names": [
+            "Green Day"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6466",
+      "names": [
+        "Private Hell"
+      ],
+      "releases": [
+        {
+          "_id": "1289",
+          "names": [
+            "Skull Ring"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6467",
+      "names": [
+        "Supermarket"
+      ],
+      "releases": [
+        {
+          "_id": "1289",
+          "names": [
+            "Skull Ring"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tré Cool",
       "targetId": "748",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "287",
+        "6466",
+        "6467"
+      ]
     },
     {
       "name": "Mike Dirnt",
       "targetId": "749",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "287",
+        "6466",
+        "6467"
+      ]
     },
     {
       "name": "Kathleen Hanna",
       "targetId": "750",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "287"
+      ]
     },
     {
       "name": "Iggy Pop",
       "targetId": "1832",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6466",
+        "6467"
+      ]
     }
   ]
 }

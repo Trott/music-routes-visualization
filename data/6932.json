@@ -1,26 +1,62 @@
 {
   "source": "Chester Tam",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7191",
+      "names": [
+        "Who Said We're Wack?"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andy Samberg",
       "targetId": "6928",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7191"
+      ]
     },
     {
       "name": "Akiva Schaffer",
       "targetId": "6929",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7191"
+      ]
     },
     {
       "name": "Jorma Taccone",
       "targetId": "6930",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7191"
+      ]
     },
     {
       "name": "Brian Sperber",
       "targetId": "6931",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7191"
+      ]
     }
   ]
 }

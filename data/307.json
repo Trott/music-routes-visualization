@@ -1,31 +1,76 @@
 {
   "source": "Chris Winters",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "69",
+      "names": [
+        "Draggin' My Tail"
+      ],
+      "releases": [
+        {
+          "_id": "61",
+          "names": [
+            "The Immediate Blues Anthology"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "51",
+          "names": [
+            "Jimmy Page"
+          ]
+        },
+        {
+          "_id": "112",
+          "names": [
+            "Eric Clapton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "69"
+      ]
     },
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "69"
+      ]
     },
     {
       "name": "Bill Wyman",
       "targetId": "304",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "69"
+      ]
     },
     {
       "name": "Mick Jagger",
       "targetId": "305",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "69"
+      ]
     },
     {
       "name": "Ian Stewart",
       "targetId": "306",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "69"
+      ]
     }
   ]
 }

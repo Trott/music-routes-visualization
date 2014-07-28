@@ -1,21 +1,54 @@
 {
   "source": "J.G. Thirlwell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5388",
+      "names": [
+        "Mine Is No Disgrace"
+      ],
+      "releases": [
+        {
+          "_id": "1068",
+          "names": [
+            "The Crybaby"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "629",
+          "names": [
+            "The Melvins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dale Crover",
       "targetId": "4119",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5388"
+      ]
     },
     {
       "name": "King Buzzo",
       "targetId": "4120",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5388"
+      ]
     },
     {
       "name": "Kevin Rutmanis",
       "targetId": "5488",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5388"
+      ]
     }
   ]
 }

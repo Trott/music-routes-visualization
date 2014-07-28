@@ -1,16 +1,46 @@
 {
   "source": "Mick Prague",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12947",
+      "names": [
+        "Stories"
+      ],
+      "releases": [
+        {
+          "_id": "2334",
+          "names": [
+            "Dance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1259",
+          "names": [
+            "Gary Numan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gary Numan",
       "targetId": "854",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12947"
+      ]
     },
     {
       "name": "Roger Mason",
       "targetId": "10466",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12947"
+      ]
     }
   ]
 }

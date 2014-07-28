@@ -1,36 +1,103 @@
 {
   "source": "Aleksander Kolkowski",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2958",
+      "names": [
+        "Edvard Kiraly"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2970",
+      "names": [
+        "Partisans"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Marshall",
       "targetId": "1951",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2970"
+      ]
     },
     {
       "name": "Chris Cutler",
       "targetId": "3292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2970"
+      ]
     },
     {
       "name": "Richard Wolfson",
       "targetId": "3293",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2958",
+        "2970"
+      ]
     },
     {
       "name": "Steve Kellner",
       "targetId": "3294",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2958",
+        "2970"
+      ]
     },
     {
       "name": "Andy Saunders",
       "targetId": "3295",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2958"
+      ]
     },
     {
       "name": "Endre Szkárosi",
       "targetId": "3298",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2958",
+        "2970"
+      ]
     }
   ]
 }

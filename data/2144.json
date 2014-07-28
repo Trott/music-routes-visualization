@@ -1,21 +1,54 @@
 {
   "source": "Bruce Corbitt",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2000",
+      "names": [
+        "Welcome To Your Funeral"
+      ],
+      "releases": [
+        {
+          "_id": "445",
+          "names": [
+            "Rigor Mortis"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "327",
+          "names": [
+            "Rigor Mortis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Scaccia",
       "targetId": "2023",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2000"
+      ]
     },
     {
       "name": "Casey Orr",
       "targetId": "2140",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2000"
+      ]
     },
     {
       "name": "Harden Harrison",
       "targetId": "2145",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2000"
+      ]
     }
   ]
 }

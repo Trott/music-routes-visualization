@@ -1,101 +1,239 @@
 {
   "source": "Harry Klein",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1770",
+      "names": [
+        "Lady Madonna"
+      ],
+      "releases": [
+        {
+          "_id": "398",
+          "names": [
+            "Past Masters, Volume Two"
+          ]
+        },
+        {
+          "_id": "2128",
+          "names": [
+            "Mono Masters, Vol. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11213",
+      "names": [
+        "Honey Pie"
+      ],
+      "releases": [
+        {
+          "_id": "2104",
+          "names": [
+            "The Beatles [White Album] (Disc 2)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11214",
+      "names": [
+        "Savoy Truffle"
+      ],
+      "releases": [
+        {
+          "_id": "2104",
+          "names": [
+            "The Beatles [White Album] (Disc 2)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1770",
+        "11213"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1770",
+        "11213",
+        "11214"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1770",
+        "11213",
+        "11214"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1770",
+        "11213",
+        "11214"
+      ]
     },
     {
       "name": "Ronnie Scott",
       "targetId": "1987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "Bill Povey",
       "targetId": "1989",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "Bill Jackman",
       "targetId": "1990",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1770"
+      ]
     },
     {
       "name": "Chris Thomas",
       "targetId": "8639",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11214"
+      ]
     },
     {
       "name": "Rex Morris",
       "targetId": "9710",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Raymond Newman",
       "targetId": "9852",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "David Smith",
       "targetId": "9853",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Dennis Walton",
       "targetId": "9854",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Ronald Chamberlain",
       "targetId": "9855",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Jim Chester",
       "targetId": "9856",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11213"
+      ]
     },
     {
       "name": "Bernard George",
       "targetId": "9857",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11214"
+      ]
     },
     {
       "name": "Art Ellefson",
       "targetId": "9858",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11214"
+      ]
     },
     {
       "name": "Danny Moss",
       "targetId": "9859",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11214"
+      ]
     },
     {
       "name": "Derek Collins",
       "targetId": "9860",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11214"
+      ]
     },
     {
       "name": "Ronnie Ross",
       "targetId": "9861",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11214"
+      ]
     }
   ]
 }

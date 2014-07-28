@@ -1,26 +1,62 @@
 {
   "source": "Bobby Routch",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4506",
+      "names": [
+        "Nandi"
+      ],
+      "releases": [
+        {
+          "_id": "908",
+          "names": [
+            "Everything Is Changed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "716",
+          "names": [
+            "Kirk Lightsey"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kirk Lightsey",
       "targetId": "4095",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4506"
+      ]
     },
     {
       "name": "Santi Debriano",
       "targetId": "4659",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4506"
+      ]
     },
     {
       "name": "Eddie Gladden",
       "targetId": "4660",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4506"
+      ]
     },
     {
       "name": "Jerry Gonzalez",
       "targetId": "4661",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4506"
+      ]
     }
   ]
 }

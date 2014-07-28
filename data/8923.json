@@ -1,21 +1,54 @@
 {
   "source": "Eric Ozenne",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9620",
+      "names": [
+        "Romper Stomper"
+      ],
+      "releases": [
+        {
+          "_id": "1845",
+          "names": [
+            "Transplants"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1429",
+          "names": [
+            "Transplants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Travis Barker",
       "targetId": "1559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9620"
+      ]
     },
     {
       "name": "Tim Armstrong",
       "targetId": "2551",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9620"
+      ]
     },
     {
       "name": "Rob Aston",
       "targetId": "8922",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9620"
+      ]
     }
   ]
 }

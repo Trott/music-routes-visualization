@@ -1,61 +1,143 @@
 {
   "source": "Ralph Forbes",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "70",
+      "names": [
+        "...This Town..."
+      ],
+      "releases": [
+        {
+          "_id": "62",
+          "names": [
+            "Spike"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11648",
+      "names": [
+        "Satellite"
+      ],
+      "releases": [
+        {
+          "_id": "62",
+          "names": [
+            "Spike"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "70",
+        "11648"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "70",
+        "11648"
+      ]
     },
     {
       "name": "Mitchell Froom",
       "targetId": "289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11648"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "Roger McGuinn",
       "targetId": "308",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "Cait O'Riordan",
       "targetId": "311",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "70"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11648"
+      ]
     },
     {
       "name": "Michael Blair",
       "targetId": "662",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "70",
+        "11648"
+      ]
     },
     {
       "name": "T-Bone Wolk",
       "targetId": "1415",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11648"
+      ]
     },
     {
       "name": "Chrissie Hynde",
       "targetId": "1778",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11648"
+      ]
     }
   ]
 }

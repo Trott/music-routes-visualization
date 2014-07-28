@@ -1,46 +1,161 @@
 {
   "source": "Billy Ray Cyrus",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "188",
+      "names": [
+        "Romeo"
+      ],
+      "releases": [
+        {
+          "_id": "143",
+          "names": [
+            "Slow Dancing With The Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3750",
+      "names": [
+        "Country Music Has The Blues"
+      ],
+      "releases": [
+        {
+          "_id": "752",
+          "names": [
+            "Wanna Be Your Joe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "585",
+          "names": [
+            "Billy Ray Cyrus"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3751",
+      "names": [
+        "Stand"
+      ],
+      "releases": [
+        {
+          "_id": "752",
+          "names": [
+            "Wanna Be Your Joe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "585",
+          "names": [
+            "Billy Ray Cyrus"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3752",
+      "names": [
+        "I Learned From You"
+      ],
+      "releases": [
+        {
+          "_id": "753",
+          "names": [
+            "Hannah Montana"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "587",
+          "names": [
+            "Miley Cyrus & Billy Ray Cyrus"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Loretta Lynn",
       "targetId": "244",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3750"
+      ]
     },
     {
       "name": "Tanya Tucker",
       "targetId": "246",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "Dolly Parton",
       "targetId": "569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "Kathy Mattea",
       "targetId": "575",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "Mary Chapin Carpenter",
       "targetId": "576",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "Pam Tillis",
       "targetId": "577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "188"
+      ]
     },
     {
       "name": "George Jones",
       "targetId": "3856",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3750"
+      ]
     },
     {
       "name": "Miley Cyrus",
       "targetId": "3857",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3751",
+        "3752"
+      ]
     }
   ]
 }

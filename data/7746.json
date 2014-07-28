@@ -1,36 +1,127 @@
 {
   "source": "Dennis Duck",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "8128",
+      "names": [
+        "John Riley"
+      ],
+      "releases": [
+        {
+          "_id": "1592",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1217",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8131",
+      "names": [
+        "Sloop John B."
+      ],
+      "releases": [
+        {
+          "_id": "1592",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1217",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8136",
+      "names": [
+        "Rainy Day, Dream Away"
+      ],
+      "releases": [
+        {
+          "_id": "1592",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1217",
+          "names": [
+            "Rainy Day"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Roback",
       "targetId": "7745",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8128",
+        "8131",
+        "8136"
+      ]
     },
     {
       "name": "Matt Piucci",
       "targetId": "7747",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8128"
+      ]
     },
     {
       "name": "Will Glenn",
       "targetId": "7748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8128"
+      ]
     },
     {
       "name": "Michael Quercio",
       "targetId": "7749",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8128",
+        "8131",
+        "8136"
+      ]
     },
     {
       "name": "Ethan James",
       "targetId": "7750",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8131",
+        "8136"
+      ]
     },
     {
       "name": "Karl Precoda",
       "targetId": "7753",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8136"
+      ]
     }
   ]
 }

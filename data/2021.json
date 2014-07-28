@@ -1,36 +1,100 @@
 {
   "source": "Jason Everman",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1852",
+      "names": [
+        "Come Together"
+      ],
+      "releases": [
+        {
+          "_id": "407",
+          "names": [
+            "Loudest Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "292",
+          "names": [
+            "Soundgarden"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1853",
+      "names": [
+        "Big Cheese"
+      ],
+      "releases": [
+        {
+          "_id": "408",
+          "names": [
+            "Bleach"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "115",
+          "names": [
+            "Nirvana"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Matt Cameron",
       "targetId": "337",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1852"
+      ]
     },
     {
       "name": "Kurt Cobain",
       "targetId": "683",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1853"
+      ]
     },
     {
       "name": "Krist Novoselic",
       "targetId": "684",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1853"
+      ]
     },
     {
       "name": "Chris Cornell",
       "targetId": "2019",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1852"
+      ]
     },
     {
       "name": "Kim Thayil",
       "targetId": "2020",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1852"
+      ]
     },
     {
       "name": "Chad Channing",
       "targetId": "2022",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1853"
+      ]
     }
   ]
 }

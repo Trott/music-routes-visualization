@@ -1,16 +1,46 @@
 {
   "source": "Taylor Graves",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9154",
+      "names": [
+        "Love Me"
+      ],
+      "releases": [
+        {
+          "_id": "1753",
+          "names": [
+            "My World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1355",
+          "names": [
+            "Justin Bieber"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Justin Bieber",
       "targetId": "8443",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9154"
+      ]
     },
     {
       "name": "Bonnie McKee",
       "targetId": "8448",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9154"
+      ]
     }
   ]
 }

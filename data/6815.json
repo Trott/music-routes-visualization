@@ -1,16 +1,94 @@
 {
   "source": "Hat",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6982",
+      "names": [
+        "Bergtrollets Hevn"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6983",
+      "names": [
+        "Gorgoroth"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6984",
+      "names": [
+        "Sorg"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Infernus",
       "targetId": "6814",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6982",
+        "6983",
+        "6984"
+      ]
     },
     {
       "name": "Kjetil \"Frost\" Haraldstad",
       "targetId": "6816",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6982",
+        "6983",
+        "6984"
+      ]
     }
   ]
 }

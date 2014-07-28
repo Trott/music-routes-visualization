@@ -1,26 +1,114 @@
 {
   "source": "Dave Lawson",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "9020",
+      "names": [
+        "Some People Are Crazy"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9021",
+      "names": [
+        "Sweet Little Mystery"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9022",
+      "names": [
+        "Baby Please Come Home"
+      ],
+      "releases": [
+        {
+          "_id": "1721",
+          "names": [
+            "Grace & Danger"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1317",
+          "names": [
+            "John Martyn"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Collins",
       "targetId": "97",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9020",
+        "9021",
+        "9022"
+      ]
     },
     {
       "name": "Tommy Eyre",
       "targetId": "3190",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9020",
+        "9021",
+        "9022"
+      ]
     },
     {
       "name": "John Martyn",
       "targetId": "8311",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9020",
+        "9021",
+        "9022"
+      ]
     },
     {
       "name": "John Giblin",
       "targetId": "8312",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9020",
+        "9021",
+        "9022"
+      ]
     }
   ]
 }

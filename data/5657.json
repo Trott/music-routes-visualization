@@ -1,86 +1,205 @@
 {
   "source": "Dominic Cortese",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5646",
+      "names": [
+        "Stars Fell On Alabama"
+      ],
+      "releases": [
+        {
+          "_id": "1114",
+          "names": [
+            "Coconut Telegraph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11929",
+      "names": [
+        "Joey"
+      ],
+      "releases": [
+        {
+          "_id": "2177",
+          "names": [
+            "Desire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11930",
+      "names": [
+        "Romance In Durango"
+      ],
+      "releases": [
+        {
+          "_id": "2177",
+          "names": [
+            "Desire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11929",
+        "11930"
+      ]
     },
     {
       "name": "Emmylou Harris",
       "targetId": "450",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11929",
+        "11930"
+      ]
     },
     {
       "name": "Jimmy Buffett",
       "targetId": "1782",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     },
     {
       "name": "Matt Betton",
       "targetId": "3054",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     },
     {
       "name": "Josh Leo",
       "targetId": "3055",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     },
     {
       "name": "Michael Utley",
       "targetId": "3057",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     },
     {
       "name": "Barry Chance",
       "targetId": "5650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     },
     {
       "name": "Greg \"Fingers\" Taylor",
       "targetId": "5655",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     },
     {
       "name": "Norbert Putnam",
       "targetId": "5656",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5646"
+      ]
     },
     {
       "name": "Alan Spenner",
       "targetId": "5853",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11930"
+      ]
     },
     {
       "name": "Howard Wyeth",
       "targetId": "10056",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11929"
+      ]
     },
     {
       "name": "Scarlet Rivera",
       "targetId": "10057",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11929",
+        "11930"
+      ]
     },
     {
       "name": "Rob Stoner",
       "targetId": "10061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11929"
+      ]
     },
     {
       "name": "Vincent Bell",
       "targetId": "10070",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11929"
+      ]
     },
     {
       "name": "Michael Lawrence",
       "targetId": "10071",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11930"
+      ]
     },
     {
       "name": "John Sussewell",
       "targetId": "10072",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11930"
+      ]
     }
   ]
 }

@@ -1,66 +1,232 @@
 {
   "source": "Henry Vestine",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "8406",
+      "names": [
+        "The Chipmunk Song (Christmas Don't Be Late)"
+      ],
+      "releases": [
+        {
+          "_id": "1626",
+          "names": [
+            "Let's Work Together: The Best Of Canned Heat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1244",
+          "names": [
+            "Canned Heat"
+          ]
+        },
+        {
+          "_id": "1252",
+          "names": [
+            "Alvin and the Chipmunks"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8425",
+      "names": [
+        "Motherly Love"
+      ],
+      "releases": [
+        {
+          "_id": "1630",
+          "names": [
+            "Joe's Corsage"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8426",
+      "names": [
+        "Plastic People"
+      ],
+      "releases": [
+        {
+          "_id": "1630",
+          "names": [
+            "Joe's Corsage"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8427",
+      "names": [
+        "Any Way The Wind Blows"
+      ],
+      "releases": [
+        {
+          "_id": "1630",
+          "names": [
+            "Joe's Corsage"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8428",
+      "names": [
+        "I Ain't Got No Heart"
+      ],
+      "releases": [
+        {
+          "_id": "1630",
+          "names": [
+            "Joe's Corsage"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Zappa",
       "targetId": "815",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8425",
+        "8426",
+        "8427",
+        "8428"
+      ]
     },
     {
       "name": "Larry Taylor",
       "targetId": "2567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8406"
+      ]
     },
     {
       "name": "Roy Estrada",
       "targetId": "6590",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8425",
+        "8426",
+        "8427",
+        "8428"
+      ]
     },
     {
       "name": "Jimmy Carl Black",
       "targetId": "6591",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8425",
+        "8426",
+        "8427",
+        "8428"
+      ]
     },
     {
       "name": "David Seville",
       "targetId": "7914",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8406"
+      ]
     },
     {
       "name": "Alvin Seville",
       "targetId": "7915",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8406"
+      ]
     },
     {
       "name": "Theodore Seville",
       "targetId": "7916",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8406"
+      ]
     },
     {
       "name": "Simon Seville",
       "targetId": "7917",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8406"
+      ]
     },
     {
       "name": "Bob Hite",
       "targetId": "7918",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8406"
+      ]
     },
     {
       "name": "Alan Wilson",
       "targetId": "7919",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8406"
+      ]
     },
     {
       "name": "Fito de la Parra",
       "targetId": "7921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8406"
+      ]
     },
     {
       "name": "Ray Collins",
       "targetId": "7927",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "8425",
+        "8426",
+        "8427",
+        "8428"
+      ]
     }
   ]
 }

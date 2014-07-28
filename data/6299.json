@@ -1,21 +1,78 @@
 {
   "source": "Stevo Wilcken",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6451",
+      "names": [
+        "One Of Those Girls"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6452",
+      "names": [
+        "Contagious"
+      ],
+      "releases": [
+        {
+          "_id": "1288",
+          "names": [
+            "The Best Damn Thing [Limited Edition with bonus tracks]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "995",
+          "names": [
+            "Avril Lavigne"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Chaney",
       "targetId": "5985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6452"
+      ]
     },
     {
       "name": "Avril Lavigne",
       "targetId": "6292",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6451",
+        "6452"
+      ]
     },
     {
       "name": "Deryck Whibley",
       "targetId": "6297",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6451",
+        "6452"
+      ]
     }
   ]
 }

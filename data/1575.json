@@ -1,21 +1,101 @@
 {
   "source": "Mark Walk",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1066",
+      "names": [
+        "Our Swimmer"
+      ],
+      "releases": [
+        {
+          "_id": "308",
+          "names": [
+            "Whore"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "223",
+          "names": [
+            "The Petty Tyrants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9381",
+      "names": [
+        "maJiK"
+      ],
+      "releases": [
+        {
+          "_id": "1810",
+          "names": [
+            "SunnyPsyOp"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1403",
+          "names": [
+            "ohGr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9382",
+      "names": [
+        "DoG"
+      ],
+      "releases": [
+        {
+          "_id": "1810",
+          "names": [
+            "SunnyPsyOp"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1403",
+          "names": [
+            "ohGr"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Rieflin",
       "targetId": "889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1066"
+      ]
     },
     {
       "name": "Nivek Ogre",
       "targetId": "1574",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1066",
+        "9381",
+        "9382"
+      ]
     },
     {
       "name": "Loki der Quaeler",
       "targetId": "8776",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9381",
+        "9382"
+      ]
     }
   ]
 }

@@ -1,16 +1,91 @@
 {
   "source": "Dinah Shore",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1505",
+      "names": [
+        "Medley (You Make Me Feel So Young / Them There Eyes...)"
+      ],
+      "releases": [
+        {
+          "_id": "356",
+          "names": [
+            "Classic Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12973",
+      "names": [
+        "Quierme Mucho (Yours)"
+      ],
+      "releases": [
+        {
+          "_id": "2339",
+          "names": [
+            "Say \"Si Si\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1671",
+          "names": [
+            "Xavier Cugat"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12974",
+      "names": [
+        "The Breeze And I"
+      ],
+      "releases": [
+        {
+          "_id": "2339",
+          "names": [
+            "Say \"Si Si\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1671",
+          "names": [
+            "Xavier Cugat"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1505"
+      ]
     },
     {
       "name": "Xavier Cugat",
       "targetId": "10484",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12973",
+        "12974"
+      ]
     }
   ]
 }

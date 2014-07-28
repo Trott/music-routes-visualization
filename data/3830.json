@@ -1,21 +1,54 @@
 {
   "source": "Ken Filiano",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3730",
+      "names": [
+        "Appointment With Disappointment"
+      ],
+      "releases": [
+        {
+          "_id": "747",
+          "names": [
+            "Wisps Of An Unknown Face"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "579",
+          "names": [
+            "The Stephen Gauci Quartet"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Nate Wooley",
       "targetId": "3829",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3730"
+      ]
     },
     {
       "name": "Lou Grassi",
       "targetId": "3831",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3730"
+      ]
     },
     {
       "name": "Stephen Gauci",
       "targetId": "3832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3730"
+      ]
     }
   ]
 }

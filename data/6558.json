@@ -1,26 +1,106 @@
 {
   "source": "Beth Hart",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6688",
+      "names": [
+        "I Don't Want To Be"
+      ],
+      "releases": [
+        {
+          "_id": "1339",
+          "names": [
+            "Leave The Light On (Dutch Special Edition, 2005)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1036",
+          "names": [
+            "Beth Hart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6689",
+      "names": [
+        "It Hurts"
+      ],
+      "releases": [
+        {
+          "_id": "1340",
+          "names": [
+            "\"It Hurts\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1037",
+          "names": [
+            "Born"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6696",
+      "names": [
+        "I Wanna Know You"
+      ],
+      "releases": [
+        {
+          "_id": "1341",
+          "names": [
+            "Les Paul And Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1038",
+          "names": [
+            "Les Paul"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neal Schon",
       "targetId": "174",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6696"
+      ]
     },
     {
       "name": "Barry Hay",
       "targetId": "6559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6688"
+      ]
     },
     {
       "name": "Born",
       "targetId": "6560",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6689"
+      ]
     },
     {
       "name": "Les Paul",
       "targetId": "6561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6696"
+      ]
     }
   ]
 }

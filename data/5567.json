@@ -1,26 +1,62 @@
 {
   "source": "Buddy Spicher",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5497",
+      "names": [
+        "Going To The Country"
+      ],
+      "releases": [
+        {
+          "_id": "1090",
+          "names": [
+            "Number 5"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5497"
+      ]
     },
     {
       "name": "Charlie McCoy",
       "targetId": "1211",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5497"
+      ]
     },
     {
       "name": "Tim Davis",
       "targetId": "5564",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5497"
+      ]
     },
     {
       "name": "Bobby Winkelman",
       "targetId": "5565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5497"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Randy Meisner",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2268",
+      "names": [
+        "Hotel California"
+      ],
+      "releases": [
+        {
+          "_id": "572",
+          "names": [
+            "Hotel California"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "439",
+          "names": [
+            "The Eagles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Glenn Frey",
       "targetId": "379",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2268"
+      ]
     },
     {
       "name": "Don Henley",
       "targetId": "380",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2268"
+      ]
     },
     {
       "name": "Joe Walsh",
       "targetId": "392",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2268"
+      ]
     },
     {
       "name": "Don Felder",
       "targetId": "668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2268"
+      ]
     }
   ]
 }

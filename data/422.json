@@ -1,86 +1,181 @@
 {
   "source": "Michael Fisher",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "127",
+      "names": [
+        "Happy Ending"
+      ],
+      "releases": [
+        {
+          "_id": "95",
+          "names": [
+            "Randy Newman's Faust"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3150",
+      "names": [
+        "Dangerous Times"
+      ],
+      "releases": [
+        {
+          "_id": "672",
+          "names": [
+            "Cher"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "526",
+          "names": [
+            "Cher"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bill Payne",
       "targetId": "280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "127"
+      ]
     },
     {
       "name": "Randy Newman",
       "targetId": "370",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "127"
+      ]
     },
     {
       "name": "Ry Cooder",
       "targetId": "372",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "127"
+      ]
     },
     {
       "name": "Waddy Wachtel",
       "targetId": "386",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "127",
+        "3150"
+      ]
     },
     {
       "name": "Carlos Vega",
       "targetId": "395",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Randy Kerber",
       "targetId": "419",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "127"
+      ]
     },
     {
       "name": "John Goux",
       "targetId": "420",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "127"
+      ]
     },
     {
       "name": "Leland Sklar",
       "targetId": "421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "127"
+      ]
     },
     {
       "name": "Peter Asher",
       "targetId": "1014",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Rosemary Butler",
       "targetId": "1015",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Larry Klein",
       "targetId": "1017",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Michael Landau",
       "targetId": "2220",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Cher",
       "targetId": "3456",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Arnold McCuller",
       "targetId": "3481",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     },
     {
       "name": "Bob Mann",
       "targetId": "3482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3150"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Dave Markey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8745",
+      "names": [
+        "Now I Hear The Laughter"
+      ],
+      "releases": [
+        {
+          "_id": "1050",
+          "names": [
+            "A Small Circle Of Friends"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1282",
+          "names": [
+            "Puzzled Panthers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Thurston Moore",
       "targetId": "772",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8745"
+      ]
     },
     {
       "name": "Mike D",
       "targetId": "1458",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8745"
+      ]
     },
     {
       "name": "Kira Roessler",
       "targetId": "1619",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8745"
+      ]
     }
   ]
 }

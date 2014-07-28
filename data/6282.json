@@ -1,21 +1,54 @@
 {
   "source": "Niki Sullivan",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6417",
+      "names": [
+        "Not Fade Away"
+      ],
+      "releases": [
+        {
+          "_id": "1286",
+          "names": [
+            "The \"Chirping\" Crickets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "993",
+          "names": [
+            "Buddy Holly"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Buddy Holly",
       "targetId": "6281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6417"
+      ]
     },
     {
       "name": "Joe B. Mauldin",
       "targetId": "6283",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6417"
+      ]
     },
     {
       "name": "Jerry Allison",
       "targetId": "6284",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6417"
+      ]
     }
   ]
 }

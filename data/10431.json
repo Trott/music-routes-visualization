@@ -1,11 +1,38 @@
 {
   "source": "Martin Tickman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12853",
+      "names": [
+        "The Mudshark Interview"
+      ],
+      "releases": [
+        {
+          "_id": "2321",
+          "names": [
+            "Playground Psychotics"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Zappa",
       "targetId": "815",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12853"
+      ]
     }
   ]
 }

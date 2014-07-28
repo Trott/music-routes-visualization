@@ -1,241 +1,577 @@
 {
   "source": "Richard Davis",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "4483",
+      "names": [
+        "Communications #8"
+      ],
+      "releases": [
+        {
+          "_id": "896",
+          "names": [
+            "The Jazz Composer's Orchestra"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "706",
+          "names": [
+            "The Jazz Composer's Orchestra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4944",
+      "names": [
+        "Meeting Across The River"
+      ],
+      "releases": [
+        {
+          "_id": "101",
+          "names": [
+            "Born To Run"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "75",
+          "names": [
+            "Bruce Springsteen"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7074",
+      "names": [
+        "Hat And Beard"
+      ],
+      "releases": [
+        {
+          "_id": "1401",
+          "names": [
+            "Out To Lunch"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1081",
+          "names": [
+            "Eric Dolphy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7075",
+      "names": [
+        "Something Sweet, Something Tender"
+      ],
+      "releases": [
+        {
+          "_id": "1401",
+          "names": [
+            "Out To Lunch"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1081",
+          "names": [
+            "Eric Dolphy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7076",
+      "names": [
+        "Gazzelloni"
+      ],
+      "releases": [
+        {
+          "_id": "1401",
+          "names": [
+            "Out To Lunch"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1081",
+          "names": [
+            "Eric Dolphy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7077",
+      "names": [
+        "Out To Lunch"
+      ],
+      "releases": [
+        {
+          "_id": "1401",
+          "names": [
+            "Out To Lunch"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1081",
+          "names": [
+            "Eric Dolphy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7078",
+      "names": [
+        "Straight Up And Down"
+      ],
+      "releases": [
+        {
+          "_id": "1401",
+          "names": [
+            "Out To Lunch"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1081",
+          "names": [
+            "Eric Dolphy"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10310",
+      "names": [
+        "Forgotten Love"
+      ],
+      "releases": [
+        {
+          "_id": "1987",
+          "names": [
+            "Jaco Pastorius"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1530",
+          "names": [
+            "Jaco Pastorius"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4944"
+      ]
     },
     {
       "name": "Roy Bittan",
       "targetId": "463",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4944"
+      ]
     },
     {
       "name": "Randy Brecker",
       "targetId": "469",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4483",
+        "4944"
+      ]
     },
     {
       "name": "Charlie Haden",
       "targetId": "1062",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Ron Carter",
       "targetId": "1201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Herbie Hancock",
       "targetId": "1264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Howard Johnson",
       "targetId": "1811",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Tony Williams",
       "targetId": "3839",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7074",
+        "7075",
+        "7076",
+        "7077",
+        "7078"
+      ]
     },
     {
       "name": "Don Cherry",
       "targetId": "4590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Gato Barbieri",
       "targetId": "4591",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Steve Lacy",
       "targetId": "4592",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Al Gibbons",
       "targetId": "4593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Gene Hull",
       "targetId": "4594",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Bob Donovan",
       "targetId": "4595",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Lew Tabackin",
       "targetId": "4596",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "George Barrow",
       "targetId": "4597",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Charles Davis",
       "targetId": "4598",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Lloyd Michels",
       "targetId": "4599",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Bob Northern",
       "targetId": "4600",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Julius Watkins",
       "targetId": "4601",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Jimmy Knepper",
       "targetId": "4602",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Jack Jeffers",
       "targetId": "4603",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Carla Bley",
       "targetId": "4604",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Kent Carter",
       "targetId": "4605",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Reggie Workman",
       "targetId": "4607",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Andrew Cyrille",
       "targetId": "4608",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4483"
+      ]
     },
     {
       "name": "Freddie Hubbard",
       "targetId": "6870",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7074",
+        "7075",
+        "7076",
+        "7077",
+        "7078"
+      ]
     },
     {
       "name": "Bobby Hutcherson",
       "targetId": "6871",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7074",
+        "7075",
+        "7076",
+        "7077",
+        "7078"
+      ]
     },
     {
       "name": "Eric Dolphy",
       "targetId": "6872",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7074",
+        "7075",
+        "7076",
+        "7077",
+        "7078"
+      ]
     },
     {
       "name": "David Nadien",
       "targetId": "8135",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Paul Gersham",
       "targetId": "8138",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Harold Kohon",
       "targetId": "8140",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Matthew Raimondi",
       "targetId": "8143",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Charles McCracken",
       "targetId": "8145",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Alan Shulman",
       "targetId": "8146",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Kermit Moore",
       "targetId": "9394",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Beverly Lauridsen",
       "targetId": "9395",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Harry Lookofsky",
       "targetId": "9396",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Joe Malin",
       "targetId": "9397",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Harry Cykman",
       "targetId": "9398",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Stewart Clarke",
       "targetId": "9399",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Manny Vardi",
       "targetId": "9400",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Julian Barber",
       "targetId": "9401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Max Pollikoff",
       "targetId": "9402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Arnold Black",
       "targetId": "9403",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Al Brown",
       "targetId": "9404",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     },
     {
       "name": "Homer Mensch",
       "targetId": "9405",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10310"
+      ]
     }
   ]
 }

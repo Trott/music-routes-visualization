@@ -1,46 +1,148 @@
 {
   "source": "Michael Lee",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3617",
+      "names": [
+        "Louie Louie"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3621",
+      "names": [
+        "Rude World"
+      ],
+      "releases": [
+        {
+          "_id": "726",
+          "names": [
+            "Sixty Six To Timbuktu"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9115",
+      "names": [
+        "Down By The Seaside"
+      ],
+      "releases": [
+        {
+          "_id": "1740",
+          "names": [
+            "Encomium: A Tribute To Led Zeppelin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "354",
+          "names": [
+            "Tori Amos"
+          ]
+        },
+        {
+          "_id": "562",
+          "names": [
+            "Robert Plant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Plant",
       "targetId": "296",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3617",
+        "3621",
+        "9115"
+      ]
     },
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3621"
+      ]
     },
     {
       "name": "Tori Amos",
       "targetId": "1568",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9115"
+      ]
     },
     {
       "name": "Phil Johnstone",
       "targetId": "3708",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3617"
+      ]
     },
     {
       "name": "Charlie Jones",
       "targetId": "3709",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3617",
+        "3621",
+        "9115"
+      ]
     },
     {
       "name": "Francis Dunnery",
       "targetId": "3711",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3617"
+      ]
     },
     {
       "name": "Oliver Woods",
       "targetId": "3747",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3621"
+      ]
     },
     {
       "name": "Phil Andrews",
       "targetId": "3748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3621"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Dave Brylawski",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "142",
+      "names": [
+        "Fractured (Like Chandeliers)"
+      ],
+      "releases": [
+        {
+          "_id": "106",
+          "names": [
+            "Celebrate The New Dark Age"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "80",
+          "names": [
+            "Polvo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ash Bowie",
       "targetId": "477",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "142"
+      ]
     },
     {
       "name": "Eddie Watkins",
       "targetId": "480",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "142"
+      ]
     },
     {
       "name": "Steve Popson",
       "targetId": "481",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "142"
+      ]
     }
   ]
 }

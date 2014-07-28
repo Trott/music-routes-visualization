@@ -1,36 +1,102 @@
 {
   "source": "John Konesky",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4060",
+      "names": [
+        "Kickapoo"
+      ],
+      "releases": [
+        {
+          "_id": "827",
+          "names": [
+            "The Pick Of Destiny"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "650",
+          "names": [
+            "Tenacious D"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4061",
+      "names": [
+        "Beelzeboss (The Final Showdown)"
+      ],
+      "releases": [
+        {
+          "_id": "827",
+          "names": [
+            "The Pick Of Destiny"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "650",
+          "names": [
+            "Tenacious D"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ronnie James Dio",
       "targetId": "139",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4060"
+      ]
     },
     {
       "name": "Dave Grohl",
       "targetId": "338",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4061"
+      ]
     },
     {
       "name": "Meat Loaf",
       "targetId": "1803",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4060"
+      ]
     },
     {
       "name": "Jack Black",
       "targetId": "4217",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4060",
+        "4061"
+      ]
     },
     {
       "name": "Kyle Gass",
       "targetId": "4218",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4060",
+        "4061"
+      ]
     },
     {
       "name": "Liam Lynch",
       "targetId": "4219",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4061"
+      ]
     }
   ]
 }

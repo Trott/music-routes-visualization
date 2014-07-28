@@ -1,31 +1,121 @@
 {
   "source": "Mike Kroeger",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "11253",
+      "names": [
+        "Follow You Home"
+      ],
+      "releases": [
+        {
+          "_id": "2118",
+          "names": [
+            "All The Right Reasons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1603",
+          "names": [
+            "Nickelback"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11254",
+      "names": [
+        "Rockstar"
+      ],
+      "releases": [
+        {
+          "_id": "2118",
+          "names": [
+            "All The Right Reasons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1603",
+          "names": [
+            "Nickelback"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11255",
+      "names": [
+        "Side Of A Bullet"
+      ],
+      "releases": [
+        {
+          "_id": "2118",
+          "names": [
+            "All The Right Reasons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1603",
+          "names": [
+            "Nickelback"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Gibbons",
       "targetId": "2118",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11253",
+        "11254"
+      ]
     },
     {
       "name": "Daniel Adair",
       "targetId": "9871",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11253",
+        "11254",
+        "11255"
+      ]
     },
     {
       "name": "Chad Kroeger",
       "targetId": "9872",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11253",
+        "11254",
+        "11255"
+      ]
     },
     {
       "name": "Ryan Peake",
       "targetId": "9873",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11253",
+        "11254",
+        "11255"
+      ]
     },
     {
       "name": "Chris Gestrin",
       "targetId": "9874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11254"
+      ]
     }
   ]
 }

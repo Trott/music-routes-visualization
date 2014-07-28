@@ -1,26 +1,62 @@
 {
   "source": "Steve Turner",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3518",
+      "names": [
+        "Freak Momma"
+      ],
+      "releases": [
+        {
+          "_id": "711",
+          "names": [
+            "Judgment Night"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "552",
+          "names": [
+            "Mudhoney & Sir Mix-A-Lot"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mark Arm",
       "targetId": "3649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3518"
+      ]
     },
     {
       "name": "Matt Lukin",
       "targetId": "3651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3518"
+      ]
     },
     {
       "name": "Dan Peters",
       "targetId": "3652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3518"
+      ]
     },
     {
       "name": "Sir Mix-A-Lot",
       "targetId": "3653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3518"
+      ]
     }
   ]
 }

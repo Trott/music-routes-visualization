@@ -1,21 +1,54 @@
 {
   "source": "Kelly Garni",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "286",
+      "names": [
+        "Slick Black Cadillac"
+      ],
+      "releases": [
+        {
+          "_id": "180",
+          "names": [
+            "Quiet Riot II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "124",
+          "names": [
+            "Quiet Riot"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kevin DuBrow",
       "targetId": "144",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "286"
+      ]
     },
     {
       "name": "Randy Rhoads",
       "targetId": "483",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "286"
+      ]
     },
     {
       "name": "Drew Forsyth",
       "targetId": "746",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "286"
+      ]
     }
   ]
 }

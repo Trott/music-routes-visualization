@@ -1,16 +1,46 @@
 {
   "source": "Carl Verheyen",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9937",
+      "names": [
+        "Danny"
+      ],
+      "releases": [
+        {
+          "_id": "1910",
+          "names": [
+            "Tiffany"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1479",
+          "names": [
+            "Tiffany"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Duarte",
       "targetId": "7210",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9937"
+      ]
     },
     {
       "name": "Tiffany",
       "targetId": "9133",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9937"
+      ]
     }
   ]
 }

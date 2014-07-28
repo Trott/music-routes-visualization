@@ -1,36 +1,218 @@
 {
   "source": "Josh Klinghoffer",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "1278",
+      "names": [
+        "#1 Da Woman"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3981",
+      "names": [
+        "666"
+      ],
+      "releases": [
+        {
+          "_id": "811",
+          "names": [
+            "Inside Of Emptiness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "635",
+          "names": [
+            "John Frusciante"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5668",
+      "names": [
+        "You Come Through"
+      ],
+      "releases": [
+        {
+          "_id": "1123",
+          "names": [
+            "The Peel Sessions 1991-2004"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "877",
+          "names": [
+            "PJ Harvey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5669",
+      "names": [
+        "Attention"
+      ],
+      "releases": [
+        {
+          "_id": "1124",
+          "names": [
+            "AW II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "878",
+          "names": [
+            "Ataxia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5670",
+      "names": [
+        "Union"
+      ],
+      "releases": [
+        {
+          "_id": "1124",
+          "names": [
+            "AW II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "878",
+          "names": [
+            "Ataxia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5671",
+      "names": [
+        "Hands"
+      ],
+      "releases": [
+        {
+          "_id": "1124",
+          "names": [
+            "AW II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "878",
+          "names": [
+            "Ataxia"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5672",
+      "names": [
+        "The Soldier"
+      ],
+      "releases": [
+        {
+          "_id": "1124",
+          "names": [
+            "AW II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "878",
+          "names": [
+            "Ataxia"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flea",
       "targetId": "553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1278"
+      ]
     },
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1278"
+      ]
     },
     {
       "name": "John Frusciante",
       "targetId": "1726",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "1278",
+        "3981",
+        "5669",
+        "5670",
+        "5671",
+        "5672"
+      ]
     },
     {
       "name": "Omar Rodriguez-Lopez",
       "targetId": "4136",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3981"
+      ]
     },
     {
       "name": "PJ Harvey",
       "targetId": "5676",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5668"
+      ]
     },
     {
       "name": "Joe Lally",
       "targetId": "5677",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "5669",
+        "5670",
+        "5671",
+        "5672"
+      ]
     }
   ]
 }

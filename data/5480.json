@@ -1,46 +1,116 @@
 {
   "source": "Arlo Guthrie",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5379",
+      "names": [
+        "City Of New Orleans"
+      ],
+      "releases": [
+        {
+          "_id": "1065",
+          "names": [
+            "Hobo's Lullaby"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "842",
+          "names": [
+            "Arlo Guthrie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5952",
+      "names": [
+        "Ocean Crossing"
+      ],
+      "releases": [
+        {
+          "_id": "1189",
+          "names": [
+            "Precious Friend"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "925",
+          "names": [
+            "Arlo Guthrie & Pete Seeger"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Nick DeCaro",
       "targetId": "383",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5379"
+      ]
     },
     {
       "name": "Jim Dickinson",
       "targetId": "3082",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5379"
+      ]
     },
     {
       "name": "Pete Seeger",
       "targetId": "5894",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5952"
+      ]
     },
     {
       "name": "Bob Putnam",
       "targetId": "5895",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5952"
+      ]
     },
     {
       "name": "Steve Ide",
       "targetId": "5896",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5952"
+      ]
     },
     {
       "name": "Carol Ide",
       "targetId": "5897",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5952"
+      ]
     },
     {
       "name": "Dan Velika",
       "targetId": "5898",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5952"
+      ]
     },
     {
       "name": "Terry A La Berry",
       "targetId": "5899",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5952"
+      ]
     }
   ]
 }

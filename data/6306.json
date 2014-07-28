@@ -1,16 +1,46 @@
 {
   "source": "Steve Keeping",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6469",
+      "names": [
+        "Rock Show"
+      ],
+      "releases": [
+        {
+          "_id": "1289",
+          "names": [
+            "Skull Ring"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Peaches",
       "targetId": "1831",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6469"
+      ]
     },
     {
       "name": "Iggy Pop",
       "targetId": "1832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6469"
+      ]
     }
   ]
 }

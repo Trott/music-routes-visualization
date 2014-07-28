@@ -1,16 +1,46 @@
 {
   "source": "Dwight \"Lil Skrapp\" Reynolds",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9155",
+      "names": [
+        "First Dance"
+      ],
+      "releases": [
+        {
+          "_id": "1753",
+          "names": [
+            "My World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1355",
+          "names": [
+            "Justin Bieber"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Justin Bieber",
       "targetId": "8443",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9155"
+      ]
     },
     {
       "name": "Usher",
       "targetId": "8444",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9155"
+      ]
     }
   ]
 }

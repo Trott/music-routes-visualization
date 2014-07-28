@@ -1,31 +1,341 @@
 {
   "source": "Bill Goodwin",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "13236",
+      "names": [
+        "My Attorney Bernie"
+      ],
+      "releases": [
+        {
+          "_id": "2391",
+          "names": [
+            "The Dave Frishberg Songbook Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1701",
+          "names": [
+            "Dave Frishberg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13237",
+      "names": [
+        "Blizzard Of Lies"
+      ],
+      "releases": [
+        {
+          "_id": "2391",
+          "names": [
+            "The Dave Frishberg Songbook Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1701",
+          "names": [
+            "Dave Frishberg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13238",
+      "names": [
+        "Song For Sisyphus"
+      ],
+      "releases": [
+        {
+          "_id": "2392",
+          "names": [
+            "Souvenirs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1702",
+          "names": [
+            "Phil Woods"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13239",
+      "names": [
+        "Peer Pressure"
+      ],
+      "releases": [
+        {
+          "_id": "2392",
+          "names": [
+            "Souvenirs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1702",
+          "names": [
+            "Phil Woods"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13240",
+      "names": [
+        "Souvenir"
+      ],
+      "releases": [
+        {
+          "_id": "2392",
+          "names": [
+            "Souvenirs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1702",
+          "names": [
+            "Phil Woods"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13241",
+      "names": [
+        "C.K.'s Bossa"
+      ],
+      "releases": [
+        {
+          "_id": "2392",
+          "names": [
+            "Souvenirs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1702",
+          "names": [
+            "Phil Woods"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13242",
+      "names": [
+        "Ballad For Hank"
+      ],
+      "releases": [
+        {
+          "_id": "2392",
+          "names": [
+            "Souvenirs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1702",
+          "names": [
+            "Phil Woods"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13243",
+      "names": [
+        "Dodger Blue"
+      ],
+      "releases": [
+        {
+          "_id": "2391",
+          "names": [
+            "The Dave Frishberg Songbook Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1701",
+          "names": [
+            "Dave Frishberg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13244",
+      "names": [
+        "Useless Waltz"
+      ],
+      "releases": [
+        {
+          "_id": "2391",
+          "names": [
+            "The Dave Frishberg Songbook Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1701",
+          "names": [
+            "Dave Frishberg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13245",
+      "names": [
+        "The Wheelers And Dealers"
+      ],
+      "releases": [
+        {
+          "_id": "2391",
+          "names": [
+            "The Dave Frishberg Songbook Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1701",
+          "names": [
+            "Dave Frishberg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13247",
+      "names": [
+        "Oklahoma Toad"
+      ],
+      "releases": [
+        {
+          "_id": "2391",
+          "names": [
+            "The Dave Frishberg Songbook Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1701",
+          "names": [
+            "Dave Frishberg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13248",
+      "names": [
+        "Our Love Rolls On"
+      ],
+      "releases": [
+        {
+          "_id": "2391",
+          "names": [
+            "The Dave Frishberg Songbook Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1701",
+          "names": [
+            "Dave Frishberg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Woods",
       "targetId": "7253",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "13238",
+        "13239",
+        "13240",
+        "13241",
+        "13242"
+      ]
     },
     {
       "name": "Dave Frishberg",
       "targetId": "10753",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "13236",
+        "13237",
+        "13243",
+        "13244",
+        "13245",
+        "13247",
+        "13248"
+      ]
     },
     {
       "name": "Steve Gilmore",
       "targetId": "10754",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "13236",
+        "13237",
+        "13238",
+        "13239",
+        "13240",
+        "13241",
+        "13242",
+        "13243",
+        "13244",
+        "13245",
+        "13247",
+        "13248"
+      ]
     },
     {
       "name": "Brian Lynch",
       "targetId": "10756",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "13238",
+        "13239",
+        "13240",
+        "13241",
+        "13242"
+      ]
     },
     {
       "name": "Jim McNeely",
       "targetId": "10757",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "13238",
+        "13239",
+        "13240",
+        "13241",
+        "13242"
+      ]
     }
   ]
 }

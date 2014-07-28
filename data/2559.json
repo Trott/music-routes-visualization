@@ -1,41 +1,135 @@
 {
   "source": "Louie Pérez",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2120",
+      "names": [
+        "Don't Worry Baby"
+      ],
+      "releases": [
+        {
+          "_id": "496",
+          "names": [
+            "How Will The Wolf Survive?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "373",
+          "names": [
+            "Los Lobos"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2121",
+      "names": [
+        "All Around The World or The Myth Of Fingerprints"
+      ],
+      "releases": [
+        {
+          "_id": "497",
+          "names": [
+            "Graceland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "180",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2122",
+      "names": [
+        "Ten Believers"
+      ],
+      "releases": [
+        {
+          "_id": "498",
+          "names": [
+            "Latin Playboys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "374",
+          "names": [
+            "Latin Playboys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Simon",
       "targetId": "79",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2121"
+      ]
     },
     {
       "name": "David Hidalgo",
       "targetId": "285",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2120",
+        "2121",
+        "2122"
+      ]
     },
     {
       "name": "Mitchell Froom",
       "targetId": "289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2122"
+      ]
     },
     {
       "name": "Cesar Rosas",
       "targetId": "2556",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2120",
+        "2121"
+      ]
     },
     {
       "name": "Steve Berlin",
       "targetId": "2557",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2120",
+        "2121"
+      ]
     },
     {
       "name": "Conrad Lozano",
       "targetId": "2558",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2120",
+        "2121"
+      ]
     },
     {
       "name": "Tchad Blake",
       "targetId": "2560",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2122"
+      ]
     }
   ]
 }

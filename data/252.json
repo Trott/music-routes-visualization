@@ -1,26 +1,84 @@
 {
   "source": "Merle Travis",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "53",
+      "names": [
+        "Dry Bread"
+      ],
+      "releases": [
+        {
+          "_id": "45",
+          "names": [
+            "Roots Of Rockabilly, Volume 1: 1950"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "40",
+          "names": [
+            "Merle Travis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "54",
+      "names": [
+        "Over In The Gloryland"
+      ],
+      "releases": [
+        {
+          "_id": "46",
+          "names": [
+            "16 Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "41",
+          "names": [
+            "Brown's Ferry Four"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alton Delmore",
       "targetId": "238",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "54"
+      ]
     },
     {
       "name": "Rabon Delmore",
       "targetId": "239",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "54"
+      ]
     },
     {
       "name": "Speedy West",
       "targetId": "247",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "53"
+      ]
     },
     {
       "name": "Grandpa Jones",
       "targetId": "253",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "54"
+      ]
     }
   ]
 }

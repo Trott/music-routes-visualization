@@ -1,21 +1,78 @@
 {
   "source": "Jeff Rothschild",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7235",
+      "names": [
+        "Breakaway"
+      ],
+      "releases": [
+        {
+          "_id": "1423",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7239",
+      "names": [
+        "Gone"
+      ],
+      "releases": [
+        {
+          "_id": "1423",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Shanks",
       "targetId": "1063",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7235",
+        "7239"
+      ]
     },
     {
       "name": "Paul Bushnell",
       "targetId": "6113",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7239"
+      ]
     },
     {
       "name": "Kelly Clarkson",
       "targetId": "6254",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7235",
+        "7239"
+      ]
     }
   ]
 }

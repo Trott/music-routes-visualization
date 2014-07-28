@@ -1,76 +1,434 @@
 {
   "source": "Gregg Rolie",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "59",
+      "names": [
+        "For You"
+      ],
+      "releases": [
+        {
+          "_id": "51",
+          "names": [
+            "Time Cubed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "691",
+      "names": [
+        "Singing Winds, Crying Beasts"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "692",
+      "names": [
+        "Black Magic Woman / Gypsy Queen"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "693",
+      "names": [
+        "Oye Como Va"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "694",
+      "names": [
+        "Incident At Neshabur"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "695",
+      "names": [
+        "Se A Cabo"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "696",
+      "names": [
+        "Mother's Daughter"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "697",
+      "names": [
+        "Samba Pa Ti"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "698",
+      "names": [
+        "Hope You're Feeling Better"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "699",
+      "names": [
+        "El Nicoya"
+      ],
+      "releases": [
+        {
+          "_id": "245",
+          "names": [
+            "Abraxas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12801",
+      "names": [
+        "Waves Within"
+      ],
+      "releases": [
+        {
+          "_id": "2306",
+          "names": [
+            "Caravanserai"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12802",
+      "names": [
+        "Look Up (To See What's Coming Down)"
+      ],
+      "releases": [
+        {
+          "_id": "2306",
+          "names": [
+            "Caravanserai"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "169",
+          "names": [
+            "Santana"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neal Schon",
       "targetId": "174",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "59",
+        "12802"
+      ]
     },
     {
       "name": "Robert Fleischman",
       "targetId": "261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "59"
+      ]
     },
     {
       "name": "Ross Valory",
       "targetId": "262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "59"
+      ]
     },
     {
       "name": "Aynsley Dunbar",
       "targetId": "264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "59"
+      ]
     },
     {
       "name": "Carlos Santana",
       "targetId": "1081",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "691",
+        "692",
+        "693",
+        "694",
+        "695",
+        "696",
+        "697",
+        "698",
+        "699",
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Dave Brown",
       "targetId": "1082",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "691",
+        "692",
+        "693",
+        "694",
+        "695",
+        "696",
+        "697",
+        "698",
+        "699"
+      ]
     },
     {
       "name": "José Areas",
       "targetId": "1083",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "691",
+        "692",
+        "693",
+        "694",
+        "695",
+        "696",
+        "697",
+        "698",
+        "699",
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Mike Carabello",
       "targetId": "1084",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "691",
+        "692",
+        "693",
+        "694",
+        "695",
+        "696",
+        "697",
+        "698",
+        "699"
+      ]
     },
     {
       "name": "Michael Shrieve",
       "targetId": "1085",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "691",
+        "692",
+        "693",
+        "694",
+        "695",
+        "696",
+        "697",
+        "698",
+        "699",
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Rico Reyes",
       "targetId": "1086",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "693",
+        "699"
+      ]
     },
     {
       "name": "Alberto Gianquinto",
       "targetId": "1087",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "694"
+      ]
     },
     {
       "name": "James \"Mingo\" Lewis",
       "targetId": "10404",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Douglas Rauch",
       "targetId": "10407",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12801",
+        "12802"
+      ]
     },
     {
       "name": "Douglas Rodrigues",
       "targetId": "10408",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12801"
+      ]
     }
   ]
 }

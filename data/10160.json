@@ -1,46 +1,142 @@
 {
   "source": "Bob Forrest",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "12227",
+      "names": [
+        "Body And Soul?"
+      ],
+      "releases": [
+        {
+          "_id": "2201",
+          "names": [
+            "Beautiful Mess"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1619",
+          "names": [
+            "Thelonious Monster"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12228",
+      "names": [
+        "Adios Lounge"
+      ],
+      "releases": [
+        {
+          "_id": "2201",
+          "names": [
+            "Beautiful Mess"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1619",
+          "names": [
+            "Thelonious Monster"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12229",
+      "names": [
+        "Blood Is Thicker Than Water"
+      ],
+      "releases": [
+        {
+          "_id": "2201",
+          "names": [
+            "Beautiful Mess"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1619",
+          "names": [
+            "Thelonious Monster"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12227"
+      ]
     },
     {
       "name": "Dave Pirner",
       "targetId": "786",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12229"
+      ]
     },
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12228"
+      ]
     },
     {
       "name": "Daniel Murphy",
       "targetId": "7908",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12229"
+      ]
     },
     {
       "name": "Michael Penn",
       "targetId": "8918",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12227"
+      ]
     },
     {
       "name": "Martyn Lenoble",
       "targetId": "10161",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12227",
+        "12228",
+        "12229"
+      ]
     },
     {
       "name": "Pete Weiss",
       "targetId": "10162",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12227",
+        "12228",
+        "12229"
+      ]
     },
     {
       "name": "Sam Bush",
       "targetId": "10163",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12228"
+      ]
     }
   ]
 }

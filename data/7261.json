@@ -1,51 +1,390 @@
 {
   "source": "Horace Silver",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "7607",
+      "names": [
+        "Airegin"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7608",
+      "names": [
+        "Oleo"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7609",
+      "names": [
+        "But Not For Me (Take 2)"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7610",
+      "names": [
+        "Doxy"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7611",
+      "names": [
+        "But Not For Me (Take 1)"
+      ],
+      "releases": [
+        {
+          "_id": "1503",
+          "names": [
+            "Bags' Groove"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8418",
+      "names": [
+        "Omicron"
+      ],
+      "releases": [
+        {
+          "_id": "1629",
+          "names": [
+            "Whims Of Chambers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1247",
+          "names": [
+            "Paul Chambers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8419",
+      "names": [
+        "Whims Of Chambers"
+      ],
+      "releases": [
+        {
+          "_id": "1629",
+          "names": [
+            "Whims Of Chambers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1247",
+          "names": [
+            "Paul Chambers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8420",
+      "names": [
+        "Nita"
+      ],
+      "releases": [
+        {
+          "_id": "1629",
+          "names": [
+            "Whims Of Chambers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1247",
+          "names": [
+            "Paul Chambers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8421",
+      "names": [
+        "We Six"
+      ],
+      "releases": [
+        {
+          "_id": "1629",
+          "names": [
+            "Whims Of Chambers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1247",
+          "names": [
+            "Paul Chambers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8422",
+      "names": [
+        "Dear Ann"
+      ],
+      "releases": [
+        {
+          "_id": "1629",
+          "names": [
+            "Whims Of Chambers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1247",
+          "names": [
+            "Paul Chambers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8423",
+      "names": [
+        "Tale Of The Fingers"
+      ],
+      "releases": [
+        {
+          "_id": "1629",
+          "names": [
+            "Whims Of Chambers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1247",
+          "names": [
+            "Paul Chambers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8424",
+      "names": [
+        "Just For The Love"
+      ],
+      "releases": [
+        {
+          "_id": "1629",
+          "names": [
+            "Whims Of Chambers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1247",
+          "names": [
+            "Paul Chambers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7607",
+        "7608",
+        "7609",
+        "7610",
+        "7611"
+      ]
     },
     {
       "name": "Paul Chambers",
       "targetId": "1046",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "8418",
+        "8419",
+        "8420",
+        "8421",
+        "8422",
+        "8423",
+        "8424"
+      ]
     },
     {
       "name": "John Coltrane",
       "targetId": "1049",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "8418",
+        "8419",
+        "8420",
+        "8421",
+        "8422",
+        "8423",
+        "8424"
+      ]
     },
     {
       "name": "Sonny Rollins",
       "targetId": "4556",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7607",
+        "7608",
+        "7609",
+        "7610",
+        "7611"
+      ]
     },
     {
       "name": "\"Philly\" Joe Jones",
       "targetId": "7069",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "8418",
+        "8419",
+        "8420",
+        "8421",
+        "8422",
+        "8423",
+        "8424"
+      ]
     },
     {
       "name": "Donald Byrd",
       "targetId": "7257",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "8418",
+        "8419",
+        "8420",
+        "8421",
+        "8422",
+        "8423",
+        "8424"
+      ]
     },
     {
       "name": "Percy Heath",
       "targetId": "7259",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7607",
+        "7608",
+        "7609",
+        "7610",
+        "7611"
+      ]
     },
     {
       "name": "Kenny Clarke",
       "targetId": "7260",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7607",
+        "7608",
+        "7609",
+        "7610",
+        "7611"
+      ]
     },
     {
       "name": "Kenny Burrell",
       "targetId": "7926",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "8418",
+        "8419",
+        "8420",
+        "8421",
+        "8422",
+        "8423",
+        "8424"
+      ]
     }
   ]
 }

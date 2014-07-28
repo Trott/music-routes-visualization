@@ -1,16 +1,46 @@
 {
   "source": "Scott Plouf",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "23",
+      "names": [
+        "Strange"
+      ],
+      "releases": [
+        {
+          "_id": "21",
+          "names": [
+            "Ancient Melodies Of The Future"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "18",
+          "names": [
+            "Built To Spill"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sam Coomes",
       "targetId": "23",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "23"
+      ]
     },
     {
       "name": "Doug Martsch",
       "targetId": "94",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "23"
+      ]
     }
   ]
 }

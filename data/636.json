@@ -1,36 +1,78 @@
 {
   "source": "Bekka Bramlett",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "243",
+      "names": [
+        "Nothing Without You"
+      ],
+      "releases": [
+        {
+          "_id": "161",
+          "names": [
+            "Time"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "65",
+          "names": [
+            "Fleetwood Mac"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lindsey Buckingham",
       "targetId": "48",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "243"
+      ]
     },
     {
       "name": "Mick Fleetwood",
       "targetId": "347",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "243"
+      ]
     },
     {
       "name": "John McVie",
       "targetId": "348",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "243"
+      ]
     },
     {
       "name": "Christie McVie",
       "targetId": "407",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "243"
+      ]
     },
     {
       "name": "Dave Mason",
       "targetId": "635",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "243"
+      ]
     },
     {
       "name": "Billy Burnette",
       "targetId": "637",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "243"
+      ]
     }
   ]
 }

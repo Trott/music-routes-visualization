@@ -1,21 +1,54 @@
 {
   "source": "Richard Cook",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4206",
+      "names": [
+        "Pleasure And Pain"
+      ],
+      "releases": [
+        {
+          "_id": "846",
+          "names": [
+            "Welcome To The Cruel World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "668",
+          "names": [
+            "Ben Harper"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Harper",
       "targetId": "828",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4206"
+      ]
     },
     {
       "name": "Suzie Katayama",
       "targetId": "2293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4206"
+      ]
     },
     {
       "name": "Rock Deadrick",
       "targetId": "4397",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4206"
+      ]
     }
   ]
 }

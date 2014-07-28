@@ -1,16 +1,69 @@
 {
   "source": "Miroslav Vitous",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1616",
+      "names": [
+        "Slippery When Wet"
+      ],
+      "releases": [
+        {
+          "_id": "376",
+          "names": [
+            "Works"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1617",
+      "names": [
+        "Duet Improvisation"
+      ],
+      "releases": [
+        {
+          "_id": "376",
+          "names": [
+            "Works"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chick Corea",
       "targetId": "919",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1616",
+        "1617"
+      ]
     },
     {
       "name": "Roy Haynes",
       "targetId": "1073",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1616"
+      ]
     }
   ]
 }

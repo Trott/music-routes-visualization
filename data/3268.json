@@ -1,141 +1,384 @@
 {
   "source": "Peggi Blu",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "2931",
+      "names": [
+        "Driftin' Too Far From Shore"
+      ],
+      "releases": [
+        {
+          "_id": "134",
+          "names": [
+            "Knocked Out Loaded"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2933",
+      "names": [
+        "Maybe Someday"
+      ],
+      "releases": [
+        {
+          "_id": "134",
+          "names": [
+            "Knocked Out Loaded"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2934",
+      "names": [
+        "Brownsville Girl"
+      ],
+      "releases": [
+        {
+          "_id": "134",
+          "names": [
+            "Knocked Out Loaded"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11781",
+      "names": [
+        "Tight Connection To My Heart (Has Anybody Seen My Love)"
+      ],
+      "releases": [
+        {
+          "_id": "2164",
+          "names": [
+            "Empire Burlesque"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11784",
+      "names": [
+        "Clean Cut Kid"
+      ],
+      "releases": [
+        {
+          "_id": "2164",
+          "names": [
+            "Empire Burlesque"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11785",
+      "names": [
+        "Never Gonna Be The Same Again"
+      ],
+      "releases": [
+        {
+          "_id": "2164",
+          "names": [
+            "Empire Burlesque"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ron Wood",
       "targetId": "34",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2931",
+        "11784"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "2931",
+        "2933",
+        "2934",
+        "11781",
+        "11784",
+        "11785"
+      ]
     },
     {
       "name": "Steve Madaio",
       "targetId": "412",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2933",
+        "2934"
+      ]
     },
     {
       "name": "Alan Clark",
       "targetId": "473",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11785"
+      ]
     },
     {
       "name": "Steve Douglas",
       "targetId": "560",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2933",
+        "2934"
+      ]
     },
     {
       "name": "Carol Dennis",
       "targetId": "561",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "2931",
+        "2933",
+        "2934",
+        "11781",
+        "11784",
+        "11785"
+      ]
     },
     {
       "name": "Madelyn Quebec",
       "targetId": "562",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2931",
+        "2933",
+        "2934"
+      ]
     },
     {
       "name": "Muffy Hendrix",
       "targetId": "563",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2931",
+        "2934"
+      ]
     },
     {
       "name": "Annette May Thomas",
       "targetId": "564",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2931",
+        "2933"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11784"
+      ]
     },
     {
       "name": "Mike Campbell",
       "targetId": "646",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2933"
+      ]
     },
     {
       "name": "Howie Epstein",
       "targetId": "921",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2933"
+      ]
     },
     {
       "name": "Anton Fig",
       "targetId": "1036",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2931",
+        "11784"
+      ]
     },
     {
       "name": "Mick Taylor",
       "targetId": "1995",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11781"
+      ]
     },
     {
       "name": "John Paris",
       "targetId": "3267",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2931",
+        "11784"
+      ]
     },
     {
       "name": "Queen Esther Marrow",
       "targetId": "3269",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "2933",
+        "2934",
+        "11781",
+        "11784",
+        "11785"
+      ]
     },
     {
       "name": "Don Heffington",
       "targetId": "3274",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2933",
+        "2934"
+      ]
     },
     {
       "name": "Elisecia Wright",
       "targetId": "3275",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2933",
+        "2934"
+      ]
     },
     {
       "name": "Carl Sealove",
       "targetId": "3276",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2934"
+      ]
     },
     {
       "name": "Vince Melamed",
       "targetId": "3277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2934"
+      ]
     },
     {
       "name": "Ira Ingber",
       "targetId": "3278",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2934"
+      ]
     },
     {
       "name": "Debra Byrd",
       "targetId": "6763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11785"
+      ]
     },
     {
       "name": "Sid McGinnis",
       "targetId": "8309",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11785"
+      ]
     },
     {
       "name": "Richard Scher",
       "targetId": "10034",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11781",
+        "11785"
+      ]
     },
     {
       "name": "Ted Perlman",
       "targetId": "10035",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11781"
+      ]
     },
     {
       "name": "Sly Dunbar",
       "targetId": "10036",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11781",
+        "11785"
+      ]
     },
     {
       "name": "Robbie Shakespeare",
       "targetId": "10037",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11781",
+        "11785"
+      ]
     }
   ]
 }

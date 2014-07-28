@@ -1,31 +1,92 @@
 {
   "source": "Ash Bowie",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "141",
+      "names": [
+        "Pat's Trick"
+      ],
+      "releases": [
+        {
+          "_id": "105",
+          "names": [
+            "The Dirt Of Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "79",
+          "names": [
+            "Helium"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "142",
+      "names": [
+        "Fractured (Like Chandeliers)"
+      ],
+      "releases": [
+        {
+          "_id": "106",
+          "names": [
+            "Celebrate The New Dark Age"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "80",
+          "names": [
+            "Polvo"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mary Timony",
       "targetId": "476",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "141"
+      ]
     },
     {
       "name": "Shawn King Devlin",
       "targetId": "478",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "141"
+      ]
     },
     {
       "name": "Dave Brylawski",
       "targetId": "479",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "142"
+      ]
     },
     {
       "name": "Eddie Watkins",
       "targetId": "480",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "142"
+      ]
     },
     {
       "name": "Steve Popson",
       "targetId": "481",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "142"
+      ]
     }
   ]
 }

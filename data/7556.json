@@ -1,11 +1,38 @@
 {
   "source": "Sezen Aksu",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7869",
+      "names": [
+        "Gul"
+      ],
+      "releases": [
+        {
+          "_id": "1550",
+          "names": [
+            "Welcome To Bregovic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1187",
+          "names": [
+            "Goran Bregovic"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Goran Bregovic",
       "targetId": "7554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7869"
+      ]
     }
   ]
 }

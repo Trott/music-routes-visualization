@@ -1,26 +1,88 @@
 {
   "source": "Alfalpha",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2358",
+      "names": [
+        "Crimson Moon"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2365",
+      "names": [
+        "The Soul Of My Suit"
+      ],
+      "releases": [
+        {
+          "_id": "593",
+          "names": [
+            "Dandy In The Underworld"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "256",
+          "names": [
+            "T. Rex"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Herbie Flowers",
       "targetId": "800",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2358",
+        "2365"
+      ]
     },
     {
       "name": "Marc Bolan",
       "targetId": "1825",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2358",
+        "2365"
+      ]
     },
     {
       "name": "Tony Newman",
       "targetId": "2909",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2358",
+        "2365"
+      ]
     },
     {
       "name": "Dino Dines",
       "targetId": "2913",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2358",
+        "2365"
+      ]
     }
   ]
 }

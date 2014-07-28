@@ -1,16 +1,70 @@
 {
   "source": "Robin Goldwasser",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10654",
+      "names": [
+        "In The Middle, In The Middle, In The Middle"
+      ],
+      "releases": [
+        {
+          "_id": "2044",
+          "names": [
+            "No!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10709",
+      "names": [
+        "Who Put The Alphabet In Alphabetical Order?"
+      ],
+      "releases": [
+        {
+          "_id": "2047",
+          "names": [
+            "Here Come The ABCs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10654",
+        "10709"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10654",
+        "10709"
+      ]
     }
   ]
 }

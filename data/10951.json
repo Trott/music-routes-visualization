@@ -1,46 +1,143 @@
 {
   "source": "Thomas Potter",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "13412",
+      "names": [
+        "2+2=?"
+      ],
+      "releases": [
+        {
+          "_id": "2450",
+          "names": [
+            "\"2+2=?\" 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1744",
+          "names": [
+            "Seger Liberation Army"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13413",
+      "names": [
+        "East Side Story"
+      ],
+      "releases": [
+        {
+          "_id": "2450",
+          "names": [
+            "\"2+2=?\" 7\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1744",
+          "names": [
+            "Seger Liberation Army"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13414",
+      "names": [
+        "High School Girls"
+      ],
+      "releases": [
+        {
+          "_id": "2451",
+          "names": [
+            "Fuck All Y'All"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1745",
+          "names": [
+            "Bantam Rooster"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jim Weber",
       "targetId": "10946",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13412",
+        "13413"
+      ]
     },
     {
       "name": "Patrick Pantano",
       "targetId": "10948",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13412",
+        "13413"
+      ]
     },
     {
       "name": "Frederick Beldin",
       "targetId": "10949",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13412",
+        "13413"
+      ]
     },
     {
       "name": "James Diamond",
       "targetId": "10950",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13412",
+        "13413",
+        "13414"
+      ]
     },
     {
       "name": "Mike Alonso",
       "targetId": "10952",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13414"
+      ]
     },
     {
       "name": "Johnny Hentch",
       "targetId": "10953",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13414"
+      ]
     },
     {
       "name": "Dave Buck",
       "targetId": "10954",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13414"
+      ]
     },
     {
       "name": "Greg Simensz",
       "targetId": "10955",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13414"
+      ]
     }
   ]
 }

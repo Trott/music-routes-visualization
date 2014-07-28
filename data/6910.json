@@ -1,46 +1,142 @@
 {
   "source": "Celsius",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7150",
+      "names": [
+        "Just A Little Bit"
+      ],
+      "releases": [
+        {
+          "_id": "1414",
+          "names": [
+            "Mellow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1090",
+          "names": [
+            "Maria Mena"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7151",
+      "names": [
+        "You're The Only One"
+      ],
+      "releases": [
+        {
+          "_id": "1414",
+          "names": [
+            "Mellow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1090",
+          "names": [
+            "Maria Mena"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7161",
+      "names": [
+        "Everytime"
+      ],
+      "releases": [
+        {
+          "_id": "1415",
+          "names": [
+            "The Glow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1091",
+          "names": [
+            "Whimsical"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Maria Mena",
       "targetId": "6903",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7150",
+        "7151",
+        "7161"
+      ]
     },
     {
       "name": "Vemund Stavnes",
       "targetId": "6905",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7150"
+      ]
     },
     {
       "name": "Fredrik Wallumrød",
       "targetId": "6906",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7150",
+        "7151"
+      ]
     },
     {
       "name": "Arvid Solvang",
       "targetId": "6907",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7150",
+        "7151"
+      ]
     },
     {
       "name": "Steffen Isaksen",
       "targetId": "6908",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7151"
+      ]
     },
     {
       "name": "David Wallumrød",
       "targetId": "6909",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7150"
+      ]
     },
     {
       "name": "Whimsical",
       "targetId": "6917",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7161"
+      ]
     },
     {
       "name": "Rune Hallandvik",
       "targetId": "6918",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7161"
+      ]
     }
   ]
 }

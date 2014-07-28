@@ -1,26 +1,87 @@
 {
   "source": "Kristen Shattuck",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12462",
+      "names": [
+        "My Lucky Day"
+      ],
+      "releases": [
+        {
+          "_id": "2235",
+          "names": [
+            "Really Really Happy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1425",
+          "names": [
+            "The Muffs"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12471",
+      "names": [
+        "Oh Poor You"
+      ],
+      "releases": [
+        {
+          "_id": "2235",
+          "names": [
+            "Really Really Happy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1425",
+          "names": [
+            "The Muffs"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Kehew",
       "targetId": "2727",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12462"
+      ]
     },
     {
       "name": "Ronnie Barnett",
       "targetId": "8899",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12462",
+        "12471"
+      ]
     },
     {
       "name": "Kim Shattuck",
       "targetId": "8902",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12462",
+        "12471"
+      ]
     },
     {
       "name": "Roy McDonald",
       "targetId": "8904",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12462",
+        "12471"
+      ]
     }
   ]
 }

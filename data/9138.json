@@ -1,11 +1,61 @@
 {
   "source": "El-P",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9940",
+      "names": [
+        "Gun For The Whole Family"
+      ],
+      "releases": [
+        {
+          "_id": "1911",
+          "names": [
+            "None Shall Pass"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1480",
+          "names": [
+            "Aesop Rock"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9942",
+      "names": [
+        "39 Thieves"
+      ],
+      "releases": [
+        {
+          "_id": "1911",
+          "names": [
+            "None Shall Pass"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1480",
+          "names": [
+            "Aesop Rock"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aesop Rock",
       "targetId": "9136",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9940",
+        "9942"
+      ]
     }
   ]
 }

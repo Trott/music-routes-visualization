@@ -1,41 +1,108 @@
 {
   "source": "Jerry Only",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1987",
+      "names": [
+        "Wicked World"
+      ],
+      "releases": [
+        {
+          "_id": "433",
+          "names": [
+            "Osaka Popstar And The American Legends Of Punk"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "315",
+          "names": [
+            "Osaka Popstar"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2262",
+      "names": [
+        "20 Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "566",
+          "names": [
+            "Walk Among Us"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "432",
+          "names": [
+            "The Misfits"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dez Cadena",
       "targetId": "1625",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1987"
+      ]
     },
     {
       "name": "John Cafiero",
       "targetId": "2104",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1987"
+      ]
     },
     {
       "name": "Ivan Julian",
       "targetId": "2106",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1987"
+      ]
     },
     {
       "name": "Marky Ramone",
       "targetId": "2107",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1987"
+      ]
     },
     {
       "name": "Glenn Danzig",
       "targetId": "2389",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2262"
+      ]
     },
     {
       "name": "Arthur Googy",
       "targetId": "2783",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2262"
+      ]
     },
     {
       "name": "Doyle",
       "targetId": "2784",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2262"
+      ]
     }
   ]
 }

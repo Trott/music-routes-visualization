@@ -1,11 +1,61 @@
 {
   "source": "Mike Barnett",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "10177",
+      "names": [
+        "House Of Cards"
+      ],
+      "releases": [
+        {
+          "_id": "1957",
+          "names": [
+            "Mr. Music Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1515",
+          "names": [
+            "Adrian Belew"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10178",
+      "names": [
+        "1967"
+      ],
+      "releases": [
+        {
+          "_id": "1957",
+          "names": [
+            "Mr. Music Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1515",
+          "names": [
+            "Adrian Belew"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "10177",
+        "10178"
+      ]
     }
   ]
 }

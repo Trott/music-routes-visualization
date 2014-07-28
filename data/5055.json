@@ -1,21 +1,54 @@
 {
   "source": "Mike Joyce",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4905",
+      "names": [
+        "Bigmouth Strikes Again"
+      ],
+      "releases": [
+        {
+          "_id": "989",
+          "names": [
+            "Singles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "784",
+          "names": [
+            "The Smiths"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Morrissey",
       "targetId": "1580",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4905"
+      ]
     },
     {
       "name": "Johnny Marr",
       "targetId": "2966",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4905"
+      ]
     },
     {
       "name": "Andy Rourke",
       "targetId": "5054",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4905"
+      ]
     }
   ]
 }

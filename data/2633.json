@@ -1,61 +1,140 @@
 {
   "source": "Bobby Thompson",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2185",
+      "names": [
+        "East Bound And Down"
+      ],
+      "releases": [
+        {
+          "_id": "522",
+          "names": [
+            "East Bound And Down"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "391",
+          "names": [
+            "Jerry Reed"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5499",
+      "names": [
+        "Tokin's"
+      ],
+      "releases": [
+        {
+          "_id": "1090",
+          "names": [
+            "Number 5"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5499"
+      ]
     },
     {
       "name": "Terry McMillan",
       "targetId": "595",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2185"
+      ]
     },
     {
       "name": "Charlie McCoy",
       "targetId": "1211",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5499"
+      ]
     },
     {
       "name": "Jerry Reed",
       "targetId": "2625",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2185"
+      ]
     },
     {
       "name": "Wayne Moss",
       "targetId": "2626",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5499"
+      ]
     },
     {
       "name": "Richard Shook",
       "targetId": "2630",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2185"
+      ]
     },
     {
       "name": "Larry Sasser",
       "targetId": "2631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2185"
+      ]
     },
     {
       "name": "Kenny Penny",
       "targetId": "2632",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2185"
+      ]
     },
     {
       "name": "Dennis Guy Bottoms",
       "targetId": "2634",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2185"
+      ]
     },
     {
       "name": "Tim Davis",
       "targetId": "5564",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5499"
+      ]
     },
     {
       "name": "Bobby Winkelman",
       "targetId": "5565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5499"
+      ]
     }
   ]
 }

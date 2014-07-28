@@ -1,21 +1,54 @@
 {
   "source": "Chuck Prophet",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "614",
+      "names": [
+        "For My Next Trick I'll Need A Volunteer"
+      ],
+      "releases": [
+        {
+          "_id": "234",
+          "names": [
+            "Life'll Kill Ya"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "63",
+          "names": [
+            "Warren Zevon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Warren Zevon",
       "targetId": "346",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "614"
+      ]
     },
     {
       "name": "Jorge Calderón",
       "targetId": "663",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "614"
+      ]
     },
     {
       "name": "Winston Watson",
       "targetId": "1029",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "614"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Adam Rogers",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12651",
+      "names": [
+        "Turn Me On"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Norah Jones",
       "targetId": "2219",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12651"
+      ]
     },
     {
       "name": "Dan Rieser",
       "targetId": "10314",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12651"
+      ]
     },
     {
       "name": "Lee Alexander",
       "targetId": "10315",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12651"
+      ]
     },
     {
       "name": "Sam Yahel",
       "targetId": "10318",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12651"
+      ]
     }
   ]
 }

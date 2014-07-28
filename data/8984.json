@@ -1,11 +1,38 @@
 {
   "source": "Christian Scott",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9710",
+      "names": [
+        "Somewhere Here On Earth"
+      ],
+      "releases": [
+        {
+          "_id": "1862",
+          "names": [
+            "Planet Earth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "372",
+          "names": [
+            "Prince"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Prince",
       "targetId": "712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9710"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Erin Marshall",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6718",
+      "names": [
+        "Jewels And Gold"
+      ],
+      "releases": [
+        {
+          "_id": "1344",
+          "names": [
+            "A Book Like This"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1040",
+          "names": [
+            "Angus and Julia Stone"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mitchell Connelly",
       "targetId": "6569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6718"
+      ]
     },
     {
       "name": "Angus Stone",
       "targetId": "6570",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6718"
+      ]
     },
     {
       "name": "Julia Stone",
       "targetId": "6571",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6718"
+      ]
     },
     {
       "name": "Cameron Whipp",
       "targetId": "6579",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6718"
+      ]
     }
   ]
 }

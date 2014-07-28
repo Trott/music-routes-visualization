@@ -1,16 +1,46 @@
 {
   "source": "Rick Ross",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6061",
+      "names": [
+        "Money Right"
+      ],
+      "releases": [
+        {
+          "_id": "1217",
+          "names": [
+            "Mail On Sunday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6061"
+      ]
     },
     {
       "name": "Brisco",
       "targetId": "6012",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6061"
+      ]
     }
   ]
 }

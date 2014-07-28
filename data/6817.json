@@ -1,16 +1,70 @@
 {
   "source": "Pest",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6985",
+      "names": [
+        "Possessed (By Satan)"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6986",
+      "names": [
+        "Heavens Fall"
+      ],
+      "releases": [
+        {
+          "_id": "1390",
+          "names": [
+            "Antichrist"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1070",
+          "names": [
+            "Gorgoroth"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Infernus",
       "targetId": "6814",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6985",
+        "6986"
+      ]
     },
     {
       "name": "Kjetil \"Frost\" Haraldstad",
       "targetId": "6816",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6985",
+        "6986"
+      ]
     }
   ]
 }

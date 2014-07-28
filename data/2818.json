@@ -1,16 +1,68 @@
 {
   "source": "Brigitte Nielsen",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2270",
+      "names": [
+        "You're No Lady"
+      ],
+      "releases": [
+        {
+          "_id": "574",
+          "names": [
+            "You're No Lady"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "440",
+          "names": [
+            "RuPaul vs. Gitta"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2271",
+      "names": [
+        "Body Next To Body"
+      ],
+      "releases": [
+        {
+          "_id": "575",
+          "names": [
+            "Body Next To Body"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "441",
+          "names": [
+            "Falco Meets Brigitte Nielsen"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "RuPaul",
       "targetId": "2814",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2270"
+      ]
     },
     {
       "name": "Falco",
       "targetId": "2819",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2271"
+      ]
     }
   ]
 }

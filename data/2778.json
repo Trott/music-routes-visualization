@@ -1,41 +1,111 @@
 {
   "source": "Gem Archer",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2258",
+      "names": [
+        "Part Of The Queue"
+      ],
+      "releases": [
+        {
+          "_id": "563",
+          "names": [
+            "Don't Believe The Truth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "305",
+          "names": [
+            "Oasis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10281",
+      "names": [
+        "The Hindu Times"
+      ],
+      "releases": [
+        {
+          "_id": "1974",
+          "names": [
+            "Heathen Chemistry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "305",
+          "names": [
+            "Oasis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lenny Castro",
       "targetId": "405",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2258"
+      ]
     },
     {
       "name": "Noel Gallagher",
       "targetId": "2067",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2258",
+        "10281"
+      ]
     },
     {
       "name": "Liam Gallagher",
       "targetId": "2068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2258",
+        "10281"
+      ]
     },
     {
       "name": "Andy Bell",
       "targetId": "2776",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2258",
+        "10281"
+      ]
     },
     {
       "name": "Zak Starkey",
       "targetId": "2777",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2258"
+      ]
     },
     {
       "name": "Alan White",
       "targetId": "9363",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10281"
+      ]
     },
     {
       "name": "Paul Stacey",
       "targetId": "9364",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10281"
+      ]
     }
   ]
 }

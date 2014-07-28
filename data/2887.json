@@ -1,131 +1,504 @@
 {
   "source": "Jack Blades",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "2345",
+      "names": [
+        "Where You Goin' Now"
+      ],
+      "releases": [
+        {
+          "_id": "589",
+          "names": [
+            "Don't Tread"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "454",
+          "names": [
+            "Damn Yankees"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3637",
+      "names": [
+        "Sticky Sweet"
+      ],
+      "releases": [
+        {
+          "_id": "728",
+          "names": [
+            "Dr. Feelgood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "197",
+          "names": [
+            "Mötley Crüe"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4520",
+      "names": [
+        "(You Can Still) Rock In America"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4521",
+      "names": [
+        "Rumours In The Air"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4522",
+      "names": [
+        "Why Does Love Have To Change"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4523",
+      "names": [
+        "Sister Christian"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4524",
+      "names": [
+        "Touch Of Madness"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4525",
+      "names": [
+        "Passion Play"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4526",
+      "names": [
+        "When You Close Your Eyes"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4527",
+      "names": [
+        "Chippin' Away"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4528",
+      "names": [
+        "Let Him Run"
+      ],
+      "releases": [
+        {
+          "_id": "917",
+          "names": [
+            "Midnight Madness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "722",
+          "names": [
+            "Night Ranger"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10286",
+      "names": [
+        "Love Me Do"
+      ],
+      "releases": [
+        {
+          "_id": "1980",
+          "names": [
+            "VH1 Storytellers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10286"
+      ]
     },
     {
       "name": "Brad Gillis",
       "targetId": "158",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "4520",
+        "4521",
+        "4522",
+        "4523",
+        "4524",
+        "4525",
+        "4526",
+        "4527",
+        "4528"
+      ]
     },
     {
       "name": "Mick Mars",
       "targetId": "165",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "Vince Neil",
       "targetId": "167",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "Ted Nugent",
       "targetId": "168",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2345"
+      ]
     },
     {
       "name": "Joe Walsh",
       "targetId": "392",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10286"
+      ]
     },
     {
       "name": "Jim Cox",
       "targetId": "804",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10286"
+      ]
     },
     {
       "name": "Nikki Sixx",
       "targetId": "1292",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "Tommy Lee",
       "targetId": "1357",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "Alan Fitzgerald",
       "targetId": "1738",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "4520",
+        "4521",
+        "4522",
+        "4523",
+        "4524",
+        "4525",
+        "4526",
+        "4527",
+        "4528"
+      ]
     },
     {
       "name": "Steven Tyler",
       "targetId": "1889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "Kelly Keagy",
       "targetId": "2032",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "4520",
+        "4521",
+        "4522",
+        "4523",
+        "4524",
+        "4525",
+        "4526",
+        "4527",
+        "4528"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "Michael Cartellone",
       "targetId": "2886",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2345"
+      ]
     },
     {
       "name": "Robbie Buchanan",
       "targetId": "2888",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2345"
+      ]
     },
     {
       "name": "Tommy Shaw",
       "targetId": "2889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2345"
+      ]
     },
     {
       "name": "Bob Rock",
       "targetId": "3766",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "David Steele",
       "targetId": "3767",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "Mark LaFrance",
       "targetId": "3768",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3637"
+      ]
     },
     {
       "name": "Jeff Watson",
       "targetId": "4681",
-      "trackCount": 9
+      "trackCount": 9,
+      "tracks": [
+        "4520",
+        "4521",
+        "4522",
+        "4523",
+        "4524",
+        "4525",
+        "4526",
+        "4527",
+        "4528"
+      ]
     },
     {
       "name": "Mark Hudson",
       "targetId": "7498",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10286"
+      ]
     },
     {
       "name": "Steve Dudas",
       "targetId": "7499",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10286"
+      ]
     },
     {
       "name": "Scott Gordon",
       "targetId": "7509",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10286"
+      ]
     },
     {
       "name": "Gary Burr",
       "targetId": "8871",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10286"
+      ]
     },
     {
       "name": "Simon Kirke",
       "targetId": "9370",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10286"
+      ]
     }
   ]
 }

@@ -1,16 +1,68 @@
 {
   "source": "Katherine Jenkins",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7441",
+      "names": [
+        "Sara Per Te [I Do It For You]"
+      ],
+      "releases": [
+        {
+          "_id": "1468",
+          "names": [
+            "Serenade"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1133",
+          "names": [
+            "Katherine Jenkins"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7442",
+      "names": [
+        "The Flower Duet"
+      ],
+      "releases": [
+        {
+          "_id": "1468",
+          "names": [
+            "Serenade"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1133",
+          "names": [
+            "Katherine Jenkins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7441"
+      ]
     },
     {
       "name": "Kiri Te Kanawa",
       "targetId": "7133",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7442"
+      ]
     }
   ]
 }

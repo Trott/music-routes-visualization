@@ -1,16 +1,46 @@
 {
   "source": "David Brown",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "655",
+      "names": [
+        "Where It's At"
+      ],
+      "releases": [
+        {
+          "_id": "238",
+          "names": [
+            "Odelay"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "165",
+          "names": [
+            "Beck"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Beck",
       "targetId": "1057",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "655"
+      ]
     },
     {
       "name": "Mike Boito",
       "targetId": "1060",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "655"
+      ]
     }
   ]
 }

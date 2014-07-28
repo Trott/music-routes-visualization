@@ -1,21 +1,84 @@
 {
   "source": "Bill Crow",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9706",
+      "names": [
+        "Silly Girl"
+      ],
+      "releases": [
+        {
+          "_id": "1860",
+          "names": [
+            "You Are What You Eat [soundtrack]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1442",
+          "names": [
+            "Peter Yarrow"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9707",
+      "names": [
+        "The Wabe"
+      ],
+      "releases": [
+        {
+          "_id": "1860",
+          "names": [
+            "You Are What You Eat [soundtrack]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1442",
+          "names": [
+            "Peter Yarrow"
+          ]
+        },
+        {
+          "_id": "1443",
+          "names": [
+            "John Simon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Simon",
       "targetId": "629",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9706",
+        "9707"
+      ]
     },
     {
       "name": "Paul Griffin",
       "targetId": "723",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9707"
+      ]
     },
     {
       "name": "Peter Yarrow",
       "targetId": "8314",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9706",
+        "9707"
+      ]
     }
   ]
 }

@@ -1,16 +1,68 @@
 {
   "source": "John Mayer",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2229",
+      "names": [
+        "Hummingbird"
+      ],
+      "releases": [
+        {
+          "_id": "542",
+          "names": [
+            "B.B. King & Friends - 80"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "413",
+          "names": [
+            "B.B. King"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13254",
+      "names": [
+        "This Is The Time"
+      ],
+      "releases": [
+        {
+          "_id": "2394",
+          "names": [
+            "Live At Shea Stadium: The Concert"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1333",
+          "names": [
+            "Billy Joel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Billy Joel",
       "targetId": "63",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13254"
+      ]
     },
     {
       "name": "B.B. King",
       "targetId": "565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2229"
+      ]
     }
   ]
 }

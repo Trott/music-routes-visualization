@@ -1,11 +1,38 @@
 {
   "source": "Martin Lickert",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12852",
+      "names": [
+        "I Could Be A Star Now"
+      ],
+      "releases": [
+        {
+          "_id": "2321",
+          "names": [
+            "Playground Psychotics"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Don Preston",
       "targetId": "6586",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12852"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Peter Gordon",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10315",
+      "names": [
+        "Okonkole Y Trompa"
+      ],
+      "releases": [
+        {
+          "_id": "1987",
+          "names": [
+            "Jaco Pastorius"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1530",
+          "names": [
+            "Jaco Pastorius"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jaco Pastorius",
       "targetId": "345",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10315"
+      ]
     },
     {
       "name": "Don Alias",
       "targetId": "1261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10315"
+      ]
     }
   ]
 }

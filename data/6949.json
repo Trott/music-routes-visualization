@@ -1,56 +1,180 @@
 {
   "source": "Cathy Dennis",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "7224",
+      "names": [
+        "I Kissed A Girl"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8239",
+      "names": [
+        "Identified"
+      ],
+      "releases": [
+        {
+          "_id": "1609",
+          "names": [
+            "Identified"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1228",
+          "names": [
+            "Vanessa Hudgens"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8240",
+      "names": [
+        "First Bad Habit"
+      ],
+      "releases": [
+        {
+          "_id": "1609",
+          "names": [
+            "Identified"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1228",
+          "names": [
+            "Vanessa Hudgens"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9170",
+      "names": [
+        "Temptation For Love"
+      ],
+      "releases": [
+        {
+          "_id": "1762",
+          "names": [
+            "Ridiculous"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1158",
+          "names": [
+            "Squeeze"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lukasz Gottwald",
       "targetId": "6293",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7224",
+        "8239",
+        "8240"
+      ]
     },
     {
       "name": "Steven Wolf",
       "targetId": "6294",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7224"
+      ]
     },
     {
       "name": "Katy Perry",
       "targetId": "6947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7224"
+      ]
     },
     {
       "name": "Glenn Tilbrook",
       "targetId": "7275",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9170"
+      ]
     },
     {
       "name": "Chris Difford",
       "targetId": "7279",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9170"
+      ]
     },
     {
       "name": "Vanessa Hudgens",
       "targetId": "7824",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8239",
+        "8240"
+      ]
     },
     {
       "name": "Tina Kennedy",
       "targetId": "7830",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8239"
+      ]
     },
     {
       "name": "Benny Blanco",
       "targetId": "7831",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8239",
+        "8240"
+      ]
     },
     {
       "name": "Kevin Wilkinson",
       "targetId": "8506",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9170"
+      ]
     },
     {
       "name": "Keith Wilkinson",
       "targetId": "8513",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9170"
+      ]
     }
   ]
 }

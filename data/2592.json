@@ -1,21 +1,54 @@
 {
   "source": "Holger Czukay",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2139",
+      "names": [
+        "Tzima N'arki"
+      ],
+      "releases": [
+        {
+          "_id": "506",
+          "names": [
+            "After The Heat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "381",
+          "names": [
+            "Eno Moebius Roedelius"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2139"
+      ]
     },
     {
       "name": "Dieter Moebius",
       "targetId": "2590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2139"
+      ]
     },
     {
       "name": "Hans-Joachim Roedelius",
       "targetId": "2591",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2139"
+      ]
     }
   ]
 }

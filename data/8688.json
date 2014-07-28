@@ -1,21 +1,82 @@
 {
   "source": "Jimmy Wayne",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9315",
+      "names": [
+        "Just Knowing you Love Me"
+      ],
+      "releases": [
+        {
+          "_id": "1800",
+          "names": [
+            "Sara Smile"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1394",
+          "names": [
+            "Whitney Duncan"
+          ]
+        },
+        {
+          "_id": "1395",
+          "names": [
+            "Jimmy Wayne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9316",
+      "names": [
+        "Sara Smile"
+      ],
+      "releases": [
+        {
+          "_id": "1800",
+          "names": [
+            "Sara Smile"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1395",
+          "names": [
+            "Jimmy Wayne"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Daryl Hall",
       "targetId": "53",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9316"
+      ]
     },
     {
       "name": "John Oates",
       "targetId": "69",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9316"
+      ]
     },
     {
       "name": "Whitney Duncan",
       "targetId": "8687",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9315"
+      ]
     }
   ]
 }

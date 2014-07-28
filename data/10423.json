@@ -1,31 +1,76 @@
 {
   "source": "Calvin \"Fuzzy\" Samuels",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12827",
+      "names": [
+        "Ohio"
+      ],
+      "releases": [
+        {
+          "_id": "2315",
+          "names": [
+            "Carry On"
+          ]
+        },
+        {
+          "_id": "2316",
+          "names": [
+            "So Far"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1657",
+          "names": [
+            "Crosby, Stills, Nash and Young"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neil Young",
       "targetId": "45",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12827"
+      ]
     },
     {
       "name": "David Crosby",
       "targetId": "511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12827"
+      ]
     },
     {
       "name": "Stephen Stills",
       "targetId": "638",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12827"
+      ]
     },
     {
       "name": "Graham Nash",
       "targetId": "639",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12827"
+      ]
     },
     {
       "name": "John Barbata",
       "targetId": "10422",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12827"
+      ]
     }
   ]
 }

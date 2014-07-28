@@ -1,31 +1,92 @@
 {
   "source": "RuPaul",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2269",
+      "names": [
+        "Don't Go Breaking My Heart"
+      ],
+      "releases": [
+        {
+          "_id": "573",
+          "names": [
+            "Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2270",
+      "names": [
+        "You're No Lady"
+      ],
+      "releases": [
+        {
+          "_id": "574",
+          "names": [
+            "You're No Lady"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "440",
+          "names": [
+            "RuPaul vs. Gitta"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2269"
+      ]
     },
     {
       "name": "Linda McCrary Campbell",
       "targetId": "2815",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2269"
+      ]
     },
     {
       "name": "Marietta Waters",
       "targetId": "2816",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2269"
+      ]
     },
     {
       "name": "Mike Knapp",
       "targetId": "2817",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2269"
+      ]
     },
     {
       "name": "Brigitte Nielsen",
       "targetId": "2818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2270"
+      ]
     }
   ]
 }

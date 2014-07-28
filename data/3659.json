@@ -1,36 +1,103 @@
 {
   "source": "Michael Kamen",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3527",
+      "names": [
+        "The Gunner's Dream"
+      ],
+      "releases": [
+        {
+          "_id": "716",
+          "names": [
+            "The Final Cut"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "45",
+          "names": [
+            "Pink Floyd"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3528",
+      "names": [
+        "Two Suns In The Sunset"
+      ],
+      "releases": [
+        {
+          "_id": "716",
+          "names": [
+            "The Final Cut"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "45",
+          "names": [
+            "Pink Floyd"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andy Newmark",
       "targetId": "271",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3528"
+      ]
     },
     {
       "name": "David Gilmour",
       "targetId": "275",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3527",
+        "3528"
+      ]
     },
     {
       "name": "Nick Mason",
       "targetId": "2001",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3527"
+      ]
     },
     {
       "name": "Roger Waters",
       "targetId": "2003",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3527",
+        "3528"
+      ]
     },
     {
       "name": "Raphael Ravenscroft",
       "targetId": "3191",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3527",
+        "3528"
+      ]
     },
     {
       "name": "Andy Bown",
       "targetId": "3660",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3528"
+      ]
     }
   ]
 }

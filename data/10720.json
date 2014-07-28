@@ -1,16 +1,46 @@
 {
   "source": "Warren Teagarden",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13170",
+      "names": [
+        "Flesh, Blood, And Bone"
+      ],
+      "releases": [
+        {
+          "_id": "2378",
+          "names": [
+            "Warren Teagarden And The Good Grief"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1693",
+          "names": [
+            "Warren Teagarden"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Rich Trott",
       "targetId": "12",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13170"
+      ]
     },
     {
       "name": "Greg Ashley",
       "targetId": "1590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13170"
+      ]
     }
   ]
 }

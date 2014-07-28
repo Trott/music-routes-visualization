@@ -1,16 +1,68 @@
 {
   "source": "Andreas Kleerup",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2278",
+      "names": [
+        "Forever"
+      ],
+      "releases": [
+        {
+          "_id": "579",
+          "names": [
+            "Kleerup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "444",
+          "names": [
+            "Kleerup"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2279",
+      "names": [
+        "Until We Bleed"
+      ],
+      "releases": [
+        {
+          "_id": "579",
+          "names": [
+            "Kleerup"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "444",
+          "names": [
+            "Kleerup"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Neneh Cherry",
       "targetId": "2405",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2278"
+      ]
     },
     {
       "name": "Lykke Li",
       "targetId": "2830",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2279"
+      ]
     }
   ]
 }

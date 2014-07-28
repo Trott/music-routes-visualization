@@ -1,26 +1,85 @@
 {
   "source": "Dieter Moebius",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2139",
+      "names": [
+        "Tzima N'arki"
+      ],
+      "releases": [
+        {
+          "_id": "506",
+          "names": [
+            "After The Heat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "381",
+          "names": [
+            "Eno Moebius Roedelius"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2140",
+      "names": [
+        "Watussi"
+      ],
+      "releases": [
+        {
+          "_id": "507",
+          "names": [
+            "Musik Von Harmonia"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "382",
+          "names": [
+            "Harmonia"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2139"
+      ]
     },
     {
       "name": "Hans-Joachim Roedelius",
       "targetId": "2591",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2139",
+        "2140"
+      ]
     },
     {
       "name": "Holger Czukay",
       "targetId": "2592",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2139"
+      ]
     },
     {
       "name": "Michael Rother",
       "targetId": "2593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2140"
+      ]
     }
   ]
 }

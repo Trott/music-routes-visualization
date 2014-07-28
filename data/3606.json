@@ -1,11 +1,38 @@
 {
   "source": "Sarah Cracknell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3422",
+      "names": [
+        "Kissing Things"
+      ],
+      "releases": [
+        {
+          "_id": "698",
+          "names": [
+            "Hyacinths & Thistles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3422"
+      ]
     }
   ]
 }

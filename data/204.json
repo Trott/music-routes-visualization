@@ -1,71 +1,208 @@
 {
   "source": "Joe Jackson",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "33",
+      "names": [
+        "Common People"
+      ],
+      "releases": [
+        {
+          "_id": "22",
+          "names": [
+            "Has Been"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "21",
+          "names": [
+            "William Shatner"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2651",
+      "names": [
+        "Left Of Center"
+      ],
+      "releases": [
+        {
+          "_id": "623",
+          "names": [
+            "Retrospective: The Best Of Suzanne Vega"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "486",
+          "names": [
+            "Suzanne Vega"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3458",
+      "names": [
+        "You'll Have Time"
+      ],
+      "releases": [
+        {
+          "_id": "22",
+          "names": [
+            "Has Been"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "21",
+          "names": [
+            "William Shatner"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6980",
+      "names": [
+        "Has Been"
+      ],
+      "releases": [
+        {
+          "_id": "22",
+          "names": [
+            "Has Been"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "21",
+          "names": [
+            "William Shatner"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sebastian Steinberg",
       "targetId": "37",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3458",
+        "6980"
+      ]
     },
     {
       "name": "William Shatner",
       "targetId": "179",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "33",
+        "3458",
+        "6980"
+      ]
     },
     {
       "name": "Ben Folds",
       "targetId": "180",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "33",
+        "3458",
+        "6980"
+      ]
     },
     {
       "name": "Matt Chamberlain",
       "targetId": "182",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3458",
+        "6980"
+      ]
     },
     {
       "name": "John Mark Painter",
       "targetId": "183",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "33",
+        "3458",
+        "6980"
+      ]
     },
     {
       "name": "Lindsay Jamieson",
       "targetId": "205",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "33"
+      ]
     },
     {
       "name": "Suzanne Vega",
       "targetId": "3113",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2651"
+      ]
     },
     {
       "name": "Jon Auer",
       "targetId": "3626",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6980"
+      ]
     },
     {
       "name": "Carmella Ramsey",
       "targetId": "3627",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3458"
+      ]
     },
     {
       "name": "Jared Reynolds",
       "targetId": "3628",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3458"
+      ]
     },
     {
       "name": "John Davis",
       "targetId": "3629",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3458"
+      ]
     },
     {
       "name": "Kim Richey",
       "targetId": "3630",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3458"
+      ]
     },
     {
       "name": "Webb Wilder",
       "targetId": "3631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3458"
+      ]
     }
   ]
 }

@@ -1,31 +1,117 @@
 {
   "source": "Tony Williams",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6763",
+      "names": [
+        "Good Morning"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6769",
+      "names": [
+        "Everything I Am"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6771",
+      "names": [
+        "Champion"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "6763",
+        "6769",
+        "6771"
+      ]
     },
     {
       "name": "Jay-Z",
       "targetId": "4339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6763"
+      ]
     },
     {
       "name": "Andy Chatterley",
       "targetId": "6650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6763"
+      ]
     },
     {
       "name": "Connie Mitchell",
       "targetId": "6652",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6763",
+        "6771"
+      ]
     },
     {
       "name": "DJ Premier",
       "targetId": "6657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6769"
+      ]
     }
   ]
 }

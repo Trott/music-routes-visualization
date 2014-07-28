@@ -1,11 +1,38 @@
 {
   "source": "Born",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6689",
+      "names": [
+        "It Hurts"
+      ],
+      "releases": [
+        {
+          "_id": "1340",
+          "names": [
+            "\"It Hurts\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1037",
+          "names": [
+            "Born"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Beth Hart",
       "targetId": "6558",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6689"
+      ]
     }
   ]
 }

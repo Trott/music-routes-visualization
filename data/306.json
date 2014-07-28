@@ -1,46 +1,177 @@
 {
   "source": "Ian Stewart",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "69",
+      "names": [
+        "Draggin' My Tail"
+      ],
+      "releases": [
+        {
+          "_id": "61",
+          "names": [
+            "The Immediate Blues Anthology"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "51",
+          "names": [
+            "Jimmy Page"
+          ]
+        },
+        {
+          "_id": "112",
+          "names": [
+            "Eric Clapton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1785",
+      "names": [
+        "Let It Bleed"
+      ],
+      "releases": [
+        {
+          "_id": "399",
+          "names": [
+            "Let It Bleed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5357",
+      "names": [
+        "Brown Sugar"
+      ],
+      "releases": [
+        {
+          "_id": "1063",
+          "names": [
+            "Sticky Fingers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5365",
+      "names": [
+        "Dead Flowers"
+      ],
+      "releases": [
+        {
+          "_id": "1063",
+          "names": [
+            "Sticky Fingers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "286",
+          "names": [
+            "The Rolling Stones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "69"
+      ]
     },
     {
       "name": "Jimmy Page",
       "targetId": "301",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "69"
+      ]
     },
     {
       "name": "Bill Wyman",
       "targetId": "304",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "69",
+        "1785",
+        "5357",
+        "5365"
+      ]
     },
     {
       "name": "Mick Jagger",
       "targetId": "305",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "69",
+        "1785",
+        "5357",
+        "5365"
+      ]
     },
     {
       "name": "Chris Winters",
       "targetId": "307",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "69"
+      ]
     },
     {
       "name": "Charlie Watts",
       "targetId": "1994",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1785",
+        "5357",
+        "5365"
+      ]
     },
     {
       "name": "Mick Taylor",
       "targetId": "1995",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5357",
+        "5365"
+      ]
     },
     {
       "name": "Keith Richards",
       "targetId": "1996",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1785",
+        "5357",
+        "5365"
+      ]
     }
   ]
 }

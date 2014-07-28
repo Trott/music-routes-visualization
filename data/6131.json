@@ -1,31 +1,114 @@
 {
   "source": "Slick Rick",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6193",
+      "names": [
+        "Girls, Girls, Girls"
+      ],
+      "releases": [
+        {
+          "_id": "1249",
+          "names": [
+            "The Blueprint"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "965",
+          "names": [
+            "Jay-Z"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6194",
+      "names": [
+        "Hip Hop Police"
+      ],
+      "releases": [
+        {
+          "_id": "1250",
+          "names": [
+            "Ultimate Victory"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "966",
+          "names": [
+            "Chamillionaire"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8827",
+      "names": [
+        "Irresistible Delicious"
+      ],
+      "releases": [
+        {
+          "_id": "1694",
+          "names": [
+            "The Cookbook"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1304",
+          "names": [
+            "Missy Elliott"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Biz Markie",
       "targetId": "1979",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6193"
+      ]
     },
     {
       "name": "Jay-Z",
       "targetId": "4339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6193"
+      ]
     },
     {
       "name": "Q-Tip",
       "targetId": "6130",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6193"
+      ]
     },
     {
       "name": "Chamillionaire",
       "targetId": "6132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6194"
+      ]
     },
     {
       "name": "Missy Elliott",
       "targetId": "8203",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8827"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Sonny Terry",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2248",
+      "names": [
+        "Wimmin From Coast To Coast"
+      ],
+      "releases": [
+        {
+          "_id": "554",
+          "names": [
+            "Down South Summit Meeting"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "423",
+          "names": [
+            "Lightnin' Hopkins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Bond",
       "targetId": "376",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2248"
+      ]
     },
     {
       "name": "Lightnin' Hopkins",
       "targetId": "2733",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2248"
+      ]
     },
     {
       "name": "Brownie McGhee",
       "targetId": "2735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2248"
+      ]
     },
     {
       "name": "Big Joe Williams",
       "targetId": "2736",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2248"
+      ]
     }
   ]
 }

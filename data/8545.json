@@ -1,26 +1,62 @@
 {
   "source": "Laura Dean",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9188",
+      "names": [
+        "Guitar Hero"
+      ],
+      "releases": [
+        {
+          "_id": "1768",
+          "names": [
+            "Who Killed Amanda Palmer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1363",
+          "names": [
+            "Amanda Palmer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Folds",
       "targetId": "180",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9188"
+      ]
     },
     {
       "name": "East Bay Ray",
       "targetId": "2122",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9188"
+      ]
     },
     {
       "name": "Amanda Palmer",
       "targetId": "8531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9188"
+      ]
     },
     {
       "name": "Sam Bass",
       "targetId": "8544",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9188"
+      ]
     }
   ]
 }

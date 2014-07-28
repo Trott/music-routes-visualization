@@ -1,31 +1,92 @@
 {
   "source": "Paul Davis",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "74",
+      "names": [
+        "'65 Love Affair"
+      ],
+      "releases": [
+        {
+          "_id": "66",
+          "names": [
+            "Radio Hits Of The '80s"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "54",
+          "names": [
+            "Paul Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9147",
+      "names": [
+        "You're Still New To Me"
+      ],
+      "releases": [
+        {
+          "_id": "1751",
+          "names": [
+            "Dancing With The Best Of Marie Osmond"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1353",
+          "names": [
+            "Marie Osmond"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Barry Dunaway",
       "targetId": "319",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "74"
+      ]
     },
     {
       "name": "Doug Bare",
       "targetId": "320",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "74"
+      ]
     },
     {
       "name": "Benny Rappa",
       "targetId": "321",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "74"
+      ]
     },
     {
       "name": "Steve Hardwick",
       "targetId": "322",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "74"
+      ]
     },
     {
       "name": "Marie Osmond",
       "targetId": "8442",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9147"
+      ]
     }
   ]
 }

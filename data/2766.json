@@ -1,61 +1,165 @@
 {
   "source": "Ric Menck",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2254",
+      "names": [
+        "You Don't See Me"
+      ],
+      "releases": [
+        {
+          "_id": "560",
+          "names": [
+            "Josie And The Pussycats: Music From The Motion Picture"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "427",
+          "names": [
+            "Josie And The Pussycats"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3768",
+      "names": [
+        "Nothing Is Good Enough"
+      ],
+      "releases": [
+        {
+          "_id": "757",
+          "names": [
+            "Bachelor No. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3769",
+      "names": [
+        "Calling It Quits"
+      ],
+      "releases": [
+        {
+          "_id": "757",
+          "names": [
+            "Bachelor No. 2"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3768",
+        "3769"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3768",
+        "3769"
+      ]
     },
     {
       "name": "Kay Hanley",
       "targetId": "2762",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2254"
+      ]
     },
     {
       "name": "Matthew Sweet",
       "targetId": "2765",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2254"
+      ]
     },
     {
       "name": "Bif Naked",
       "targetId": "2767",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2254"
+      ]
     },
     {
       "name": "Ninette Terhart",
       "targetId": "2768",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2254"
+      ]
     },
     {
       "name": "Buddy Judge",
       "targetId": "3868",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3768",
+        "3769"
+      ]
     },
     {
       "name": "Michael Lockwood",
       "targetId": "3869",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3769"
+      ]
     },
     {
       "name": "Patrick Warren",
       "targetId": "3870",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3769"
+      ]
     },
     {
       "name": "Mark Flanagan",
       "targetId": "3871",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3769"
+      ]
     },
     {
       "name": "David Gibbs",
       "targetId": "5234",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2254"
+      ]
     }
   ]
 }

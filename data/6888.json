@@ -1,106 +1,484 @@
 {
   "source": "Sarah Vaughan",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "7085",
+      "names": [
+        "I've Got The World On A String"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7086",
+      "names": [
+        "Midnight Sun"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7087",
+      "names": [
+        "How Long Has This Been Going On?"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7088",
+      "names": [
+        "You're Blase"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7089",
+      "names": [
+        "Easy Living"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7090",
+      "names": [
+        "More Than You Know"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7091",
+      "names": [
+        "My Old Flame"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7092",
+      "names": [
+        "Teach Me Tonight"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7093",
+      "names": [
+        "Body And Soul"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7094",
+      "names": [
+        "When Your Lover Has Gone"
+      ],
+      "releases": [
+        {
+          "_id": "1408",
+          "names": [
+            "How Long Has This Been Going On?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1085",
+          "names": [
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7585",
+      "names": [
+        "If I Were A Bell"
+      ],
+      "releases": [
+        {
+          "_id": "1499",
+          "names": [
+            "100th Birthday Bash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1151",
+          "names": [
+            "Count Basie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7586",
+      "names": [
+        "Teach Me Tonight"
+      ],
+      "releases": [
+        {
+          "_id": "1499",
+          "names": [
+            "100th Birthday Bash"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1151",
+          "names": [
+            "Count Basie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ray Brown",
       "targetId": "1925",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "7085",
+        "7086",
+        "7087",
+        "7088",
+        "7089",
+        "7090",
+        "7091",
+        "7092",
+        "7093",
+        "7094"
+      ]
     },
     {
       "name": "Joe Pass",
       "targetId": "1926",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "7085",
+        "7086",
+        "7087",
+        "7088",
+        "7089",
+        "7090",
+        "7091",
+        "7092",
+        "7093",
+        "7094"
+      ]
     },
     {
       "name": "Louie Bellson",
       "targetId": "1927",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "7085",
+        "7086",
+        "7087",
+        "7088",
+        "7089",
+        "7090",
+        "7091",
+        "7092",
+        "7093",
+        "7094"
+      ]
     },
     {
       "name": "Oscar Peterson",
       "targetId": "2491",
-      "trackCount": 10
+      "trackCount": 10,
+      "tracks": [
+        "7085",
+        "7086",
+        "7087",
+        "7088",
+        "7089",
+        "7090",
+        "7091",
+        "7092",
+        "7093",
+        "7094"
+      ]
     },
     {
       "name": "Count Basie",
       "targetId": "2745",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Joe Williams",
       "targetId": "2746",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Thad Jones",
       "targetId": "2748",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Henry Coker",
       "targetId": "2751",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Benny Powell",
       "targetId": "2753",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Charlie Fowlkes",
       "targetId": "2755",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Frank Wess",
       "targetId": "2758",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Sonny Payne",
       "targetId": "2759",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Marshall Royal",
       "targetId": "2760",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Eddie Jones",
       "targetId": "2761",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Snooky Young",
       "targetId": "6393",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Sonny Cohn",
       "targetId": "7242",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Lennie Johnson",
       "targetId": "7243",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Quentin Jackson",
       "targetId": "7244",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Budd Johnson",
       "targetId": "7245",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     },
     {
       "name": "Freddie Green",
       "targetId": "7246",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7585",
+        "7586"
+      ]
     }
   ]
 }

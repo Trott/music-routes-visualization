@@ -1,61 +1,213 @@
 {
   "source": "Arve Henriksen",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "8216",
+      "names": [
+        "Darkest Birds"
+      ],
+      "releases": [
+        {
+          "_id": "1603",
+          "names": [
+            "Snow Borne Sorrow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1224",
+          "names": [
+            "Nine Horses"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8218",
+      "names": [
+        "Atom And Cell"
+      ],
+      "releases": [
+        {
+          "_id": "1603",
+          "names": [
+            "Snow Borne Sorrow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1224",
+          "names": [
+            "Nine Horses"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8220",
+      "names": [
+        "Snow Borne Sorrow"
+      ],
+      "releases": [
+        {
+          "_id": "1603",
+          "names": [
+            "Snow Borne Sorrow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1224",
+          "names": [
+            "Nine Horses"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9463",
+      "names": [
+        "2-1"
+      ],
+      "releases": [
+        {
+          "_id": "1826",
+          "names": [
+            "Ellipse"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1416",
+          "names": [
+            "Imogen Heap"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9468",
+      "names": [
+        "Half Life"
+      ],
+      "releases": [
+        {
+          "_id": "1826",
+          "names": [
+            "Ellipse"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1416",
+          "names": [
+            "Imogen Heap"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Sylvian",
       "targetId": "4964",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8216",
+        "8218",
+        "8220"
+      ]
     },
     {
       "name": "Steve Jansen",
       "targetId": "4965",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8216",
+        "8218",
+        "8220"
+      ]
     },
     {
       "name": "Ian Burdge",
       "targetId": "6576",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9463",
+        "9468"
+      ]
     },
     {
       "name": "Olli Langford",
       "targetId": "6577",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9468"
+      ]
     },
     {
       "name": "Keith Lowe",
       "targetId": "7782",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8216"
+      ]
     },
     {
       "name": "Andrea Grant",
       "targetId": "7795",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8218"
+      ]
     },
     {
       "name": "Beverlei Brown",
       "targetId": "7796",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8218"
+      ]
     },
     {
       "name": "Derek Green",
       "targetId": "7797",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8218"
+      ]
     },
     {
       "name": "Tommy Blaize",
       "targetId": "7798",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8218"
+      ]
     },
     {
       "name": "Ryuichi Sakamoto",
       "targetId": "7799",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8218",
+        "8220"
+      ]
     },
     {
       "name": "Imogen Heap",
       "targetId": "8806",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9463",
+        "9468"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Sam Bush",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12228",
+      "names": [
+        "Adios Lounge"
+      ],
+      "releases": [
+        {
+          "_id": "2201",
+          "names": [
+            "Beautiful Mess"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1619",
+          "names": [
+            "Thelonious Monster"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12228"
+      ]
     },
     {
       "name": "Bob Forrest",
       "targetId": "10160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12228"
+      ]
     },
     {
       "name": "Martyn Lenoble",
       "targetId": "10161",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12228"
+      ]
     },
     {
       "name": "Pete Weiss",
       "targetId": "10162",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12228"
+      ]
     }
   ]
 }

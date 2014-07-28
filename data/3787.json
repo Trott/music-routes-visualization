@@ -1,36 +1,103 @@
 {
   "source": "Hugo Race",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3667",
+      "names": [
+        "Watching Alice"
+      ],
+      "releases": [
+        {
+          "_id": "733",
+          "names": [
+            "Tender Prey"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "567",
+          "names": [
+            "Nick Cave"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3668",
+      "names": [
+        "Mercy"
+      ],
+      "releases": [
+        {
+          "_id": "733",
+          "names": [
+            "Tender Prey"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "567",
+          "names": [
+            "Nick Cave"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kid Congo Powers",
       "targetId": "3778",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3668"
+      ]
     },
     {
       "name": "Nick Cave",
       "targetId": "3780",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3667",
+        "3668"
+      ]
     },
     {
       "name": "Mick Harvey",
       "targetId": "3781",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3667",
+        "3668"
+      ]
     },
     {
       "name": "Blixa Bargeld",
       "targetId": "3782",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3668"
+      ]
     },
     {
       "name": "Roland Wolf",
       "targetId": "3783",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3668"
+      ]
     },
     {
       "name": "Thomas Wydler",
       "targetId": "3784",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3667",
+        "3668"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Lt. Anne Moore",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10727",
+      "names": [
+        "For Science"
+      ],
+      "releases": [
+        {
+          "_id": "2050",
+          "names": [
+            "Then: The Earlier Years (Disc 1)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10727"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10727"
+      ]
     }
   ]
 }

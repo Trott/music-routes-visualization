@@ -1,16 +1,46 @@
 {
   "source": "Rick Koster",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2957",
+      "names": [
+        "4 By 2"
+      ],
+      "releases": [
+        {
+          "_id": "653",
+          "names": [
+            "Kaddish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "512",
+          "names": [
+            "Towering Inferno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Richard Wolfson",
       "targetId": "3293",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2957"
+      ]
     },
     {
       "name": "Glyn Perrin",
       "targetId": "3299",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2957"
+      ]
     }
   ]
 }

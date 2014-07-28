@@ -1,16 +1,46 @@
 {
   "source": "Tim Cappello",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2219",
+      "names": [
+        "Making Love In The Afternoon"
+      ],
+      "releases": [
+        {
+          "_id": "537",
+          "names": [
+            "Karen Carpenter"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "408",
+          "names": [
+            "Karen Carpenter"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Karen Carpenter",
       "targetId": "2111",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2219"
+      ]
     },
     {
       "name": "Peter Cetera",
       "targetId": "2696",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2219"
+      ]
     }
   ]
 }

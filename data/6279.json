@@ -1,61 +1,190 @@
 {
   "source": "Billy Sherwood",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "6416",
+      "names": [
+        "The Show Must Go On"
+      ],
+      "releases": [
+        {
+          "_id": "1285",
+          "names": [
+            "Back Against The Wall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "992",
+          "names": [
+            "Billy Sherwood"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8371",
+      "names": [
+        "Unchained Melody"
+      ],
+      "releases": [
+        {
+          "_id": "1621",
+          "names": [
+            "News From Nowhere"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1239",
+          "names": [
+            "Air Supply"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8372",
+      "names": [
+        "Feel For Your Love"
+      ],
+      "releases": [
+        {
+          "_id": "1621",
+          "names": [
+            "News From Nowhere"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1239",
+          "names": [
+            "Air Supply"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8374",
+      "names": [
+        "Always"
+      ],
+      "releases": [
+        {
+          "_id": "1621",
+          "names": [
+            "News From Nowhere"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1239",
+          "names": [
+            "Air Supply"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6416"
+      ]
     },
     {
       "name": "Vinnie Colaiuta",
       "targetId": "839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6416"
+      ]
     },
     {
       "name": "Michael Thompson",
       "targetId": "2262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8374"
+      ]
     },
     {
       "name": "Marty Walsh",
       "targetId": "2660",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8371",
+        "8372"
+      ]
     },
     {
       "name": "Michael Sherwood",
       "targetId": "6280",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6416"
+      ]
     },
     {
       "name": "Larry Antonino",
       "targetId": "7883",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8374"
+      ]
     },
     {
       "name": "Mark Williams",
       "targetId": "7884",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8371",
+        "8372",
+        "8374"
+      ]
     },
     {
       "name": "Guy Allison",
       "targetId": "7885",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8371"
+      ]
     },
     {
       "name": "Russell Hitchcock",
       "targetId": "7886",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8371",
+        "8372",
+        "8374"
+      ]
     },
     {
       "name": "Graham Russell",
       "targetId": "7887",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8371",
+        "8372"
+      ]
     },
     {
       "name": "Michael Ruff",
       "targetId": "7889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8372"
+      ]
     }
   ]
 }

@@ -1,66 +1,274 @@
 {
   "source": "Jim Pons",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "7861",
+      "names": [
+        "Well"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7862",
+      "names": [
+        "Jamrag"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7863",
+      "names": [
+        "Scumbag"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7864",
+      "names": [
+        "Aü"
+      ],
+      "releases": [
+        {
+          "_id": "1548",
+          "names": [
+            "Some Time In New York City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "44",
+          "names": [
+            "John Lennon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12602",
+      "names": [
+        "Shove It Right In"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12625",
+      "names": [
+        "200 Motels Finale"
+      ],
+      "releases": [
+        {
+          "_id": "2243",
+          "names": [
+            "You Can't Do That On Stage Anymore Vol. 6"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "131",
+          "names": [
+            "Frank Zappa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864"
+      ]
     },
     {
       "name": "Aynsley Dunbar",
       "targetId": "264",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602",
+        "12625"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7861"
+      ]
     },
     {
       "name": "Frank Zappa",
       "targetId": "815",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602",
+        "12625"
+      ]
     },
     {
       "name": "Ian Underwood",
       "targetId": "816",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602",
+        "12625"
+      ]
     },
     {
       "name": "Howard Kaylan",
       "targetId": "1829",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602",
+        "12625"
+      ]
     },
     {
       "name": "Mark Volman",
       "targetId": "1830",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602",
+        "12625"
+      ]
     },
     {
       "name": "Yoko Ono",
       "targetId": "2686",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864"
+      ]
     },
     {
       "name": "Don Preston",
       "targetId": "6586",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864"
+      ]
     },
     {
       "name": "Jimmy Carl Black",
       "targetId": "6591",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12625"
+      ]
     },
     {
       "name": "Don Preston",
       "targetId": "7421",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12625"
+      ]
     },
     {
       "name": "Bob Harris",
       "targetId": "7548",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "7861",
+        "7862",
+        "7863",
+        "7864",
+        "12602"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Richard Finch",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3524",
+      "names": [
+        "That's The Way (I Like It)"
+      ],
+      "releases": [
+        {
+          "_id": "713",
+          "names": [
+            "KC & The Sunshine Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "553",
+          "names": [
+            "KC & The Sunshine Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Harry Wayne Casey",
       "targetId": "3655",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3524"
+      ]
     },
     {
       "name": "Robert Johnson",
       "targetId": "3657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3524"
+      ]
     }
   ]
 }

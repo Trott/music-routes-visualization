@@ -1,31 +1,70 @@
 {
   "source": "Nick Kool",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9231",
+      "names": [
+        "Blank Frank"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9231"
+      ]
     },
     {
       "name": "Robert Fripp",
       "targetId": "339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9231"
+      ]
     },
     {
       "name": "Simon King",
       "targetId": "566",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9231"
+      ]
     },
     {
       "name": "Bill MacCormick",
       "targetId": "8637",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9231"
+      ]
     },
     {
       "name": "Marc Scott",
       "targetId": "8641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9231"
+      ]
     }
   ]
 }

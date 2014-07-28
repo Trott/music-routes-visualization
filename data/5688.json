@@ -1,71 +1,238 @@
 {
   "source": "Juan Alderete",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "5691",
+      "names": [
+        "Sunlit Nights"
+      ],
+      "releases": [
+        {
+          "_id": "1128",
+          "names": [
+            "Second Heat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "882",
+          "names": [
+            "Racer X"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5692",
+      "names": [
+        "Heart Of A Lion"
+      ],
+      "releases": [
+        {
+          "_id": "1128",
+          "names": [
+            "Second Heat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "882",
+          "names": [
+            "Racer X"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5693",
+      "names": [
+        "The Widow"
+      ],
+      "releases": [
+        {
+          "_id": "1129",
+          "names": [
+            "Frances The Mute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "636",
+          "names": [
+            "The Mars Volta"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5694",
+      "names": [
+        "Miranda That Ghost Just Isn't Holy Anymore"
+      ],
+      "releases": [
+        {
+          "_id": "1129",
+          "names": [
+            "Frances The Mute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "636",
+          "names": [
+            "The Mars Volta"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5695",
+      "names": [
+        "L'Via L'Viaquez"
+      ],
+      "releases": [
+        {
+          "_id": "1129",
+          "names": [
+            "Frances The Mute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "636",
+          "names": [
+            "The Mars Volta"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flea",
       "targetId": "553",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5693",
+        "5694"
+      ]
     },
     {
       "name": "John Frusciante",
       "targetId": "1726",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5695"
+      ]
     },
     {
       "name": "Omar Rodriguez-Lopez",
       "targetId": "4136",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Cedric Bixler-Zavala",
       "targetId": "4137",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Jon Theodore",
       "targetId": "4138",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Ikey Isaiah Owens",
       "targetId": "4140",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Paul Gilbert",
       "targetId": "5685",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Scott Travis",
       "targetId": "5687",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Bruce Bouillet",
       "targetId": "5689",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Jeff Martin",
       "targetId": "5690",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Mike Mani",
       "targetId": "5691",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Marcel Rodriguez-Lopez",
       "targetId": "5692",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Larry Harlow",
       "targetId": "5693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5695"
+      ]
     }
   ]
 }

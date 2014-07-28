@@ -1,16 +1,46 @@
 {
   "source": "Peter Lucia",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12426",
+      "names": [
+        "Crimson And Clover"
+      ],
+      "releases": [
+        {
+          "_id": "2229",
+          "names": [
+            "Crimson And Clover"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1626",
+          "names": [
+            "Tommy James & The Shondells"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tommy James",
       "targetId": "10251",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12426"
+      ]
     },
     {
       "name": "Mike Vale",
       "targetId": "10252",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12426"
+      ]
     }
   ]
 }

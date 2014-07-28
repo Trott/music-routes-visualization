@@ -1,26 +1,62 @@
 {
   "source": "Dave Dreiwitz",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7656",
+      "names": [
+        "Voodoo Lady"
+      ],
+      "releases": [
+        {
+          "_id": "1520",
+          "names": [
+            "Paintin' The Town Brown"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1167",
+          "names": [
+            "Ween"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dean Ween",
       "targetId": "1855",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7656"
+      ]
     },
     {
       "name": "Gene Ween",
       "targetId": "7319",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7656"
+      ]
     },
     {
       "name": "Claude Coleman",
       "targetId": "7321",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7656"
+      ]
     },
     {
       "name": "Glenn McClelland",
       "targetId": "7322",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7656"
+      ]
     }
   ]
 }

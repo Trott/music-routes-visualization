@@ -1,26 +1,62 @@
 {
   "source": "Mike Vickers",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5522",
+      "names": [
+        "Do Wah Diddy Diddy"
+      ],
+      "releases": [
+        {
+          "_id": "1093",
+          "names": [
+            "The Best Of Manfred Mann"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "489",
+          "names": [
+            "Manfred Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Manfred Mann",
       "targetId": "3140",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5522"
+      ]
     },
     {
       "name": "Tom McGuinness",
       "targetId": "3141",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5522"
+      ]
     },
     {
       "name": "Mike Hugg",
       "targetId": "3142",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5522"
+      ]
     },
     {
       "name": "Paul Jones",
       "targetId": "3189",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5522"
+      ]
     }
   ]
 }

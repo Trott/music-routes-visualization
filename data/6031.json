@@ -1,56 +1,138 @@
 {
   "source": "Coleman Hawkins",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6101",
+      "names": [
+        "I Love My Man"
+      ],
+      "releases": [
+        {
+          "_id": "1222",
+          "names": [
+            "Lady Day: The Complete Billie Holiday on Columbia 1933-1944"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "414",
+          "names": [
+            "Billie Holiday"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6102",
+      "names": [
+        "Flying On A V-Disc (Part I)"
+      ],
+      "releases": [
+        {
+          "_id": "1223",
+          "names": [
+            "A Life In Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "950",
+          "names": [
+            "Louis Armstrong"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Louis Armstrong",
       "targetId": "1785",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     },
     {
       "name": "Barney Bigard",
       "targetId": "1903",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Billie Holiday",
       "targetId": "2704",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6101"
+      ]
     },
     {
       "name": "Roy Eldridge",
       "targetId": "5524",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Oscar Pettiford",
       "targetId": "6028",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Sidney Catlett",
       "targetId": "6029",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Art Tatum",
       "targetId": "6030",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Jack Teagarden",
       "targetId": "6032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6101"
+      ]
     },
     {
       "name": "Al Casey",
       "targetId": "6033",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6101",
+        "6102"
+      ]
     },
     {
       "name": "Lionel Hampton",
       "targetId": "6034",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6102"
+      ]
     }
   ]
 }

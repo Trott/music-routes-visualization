@@ -1,26 +1,62 @@
 {
   "source": "Dan Spitz",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "106",
+      "names": [
+        "Bring The Noise"
+      ],
+      "releases": [
+        {
+          "_id": "83",
+          "names": [
+            "Attack of the Killer B's"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "66",
+          "names": [
+            "Anthrax"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chuck D",
       "targetId": "349",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "106"
+      ]
     },
     {
       "name": "Scott Ian",
       "targetId": "356",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "106"
+      ]
     },
     {
       "name": "Frank Bello",
       "targetId": "359",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "106"
+      ]
     },
     {
       "name": "Charlie Benante",
       "targetId": "360",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "106"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "William Tucker",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "423",
+      "names": [
+        "Godlike"
+      ],
+      "releases": [
+        {
+          "_id": "241",
+          "names": [
+            "Naïve"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "144",
+          "names": [
+            "KMFDM"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sascha Konietzko",
       "targetId": "885",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "423"
+      ]
     },
     {
       "name": "Mark Durante",
       "targetId": "886",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "423"
+      ]
     },
     {
       "name": "Bill Rieflin",
       "targetId": "889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "423"
+      ]
     }
   ]
 }

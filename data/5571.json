@@ -1,16 +1,46 @@
 {
   "source": "Ben Sidran",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5501",
+      "names": [
+        "Steve Miller's Midnight Tango"
+      ],
+      "releases": [
+        {
+          "_id": "1090",
+          "names": [
+            "Number 5"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5501"
+      ]
     },
     {
       "name": "Jimmy Tillman",
       "targetId": "5572",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5501"
+      ]
     }
   ]
 }

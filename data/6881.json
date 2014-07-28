@@ -1,81 +1,196 @@
 {
   "source": "Tony Thompson",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "7082",
+      "names": [
+        "Material Girl"
+      ],
+      "releases": [
+        {
+          "_id": "1405",
+          "names": [
+            "Like A Virgin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "118",
+          "names": [
+            "Madonna"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7083",
+      "names": [
+        "Get It On (Bang A Gong)"
+      ],
+      "releases": [
+        {
+          "_id": "1406",
+          "names": [
+            "The Power Station"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1083",
+          "names": [
+            "The Power Station"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7084",
+      "names": [
+        "Le Freak"
+      ],
+      "releases": [
+        {
+          "_id": "1407",
+          "names": [
+            "C'est Chic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1084",
+          "names": [
+            "Chic"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Taylor",
       "targetId": "101",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7083"
+      ]
     },
     {
       "name": "Andy Taylor",
       "targetId": "127",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7083"
+      ]
     },
     {
       "name": "Madonna",
       "targetId": "702",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7082"
+      ]
     },
     {
       "name": "Robert Palmer",
       "targetId": "851",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7083"
+      ]
     },
     {
       "name": "Curtis King",
       "targetId": "1032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7082"
+      ]
     },
     {
       "name": "Nile Rodgers",
       "targetId": "2204",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7082",
+        "7084"
+      ]
     },
     {
       "name": "Frank Simms",
       "targetId": "4011",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7082"
+      ]
     },
     {
       "name": "George Simms",
       "targetId": "4012",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7082"
+      ]
     },
     {
       "name": "Rob Sabino",
       "targetId": "4015",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7084"
+      ]
     },
     {
       "name": "Bernard Edwards",
       "targetId": "6882",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7082",
+        "7084"
+      ]
     },
     {
       "name": "Alfa Anderson",
       "targetId": "6883",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7084"
+      ]
     },
     {
       "name": "Luci Martin",
       "targetId": "6884",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7084"
+      ]
     },
     {
       "name": "Marianne Carroll",
       "targetId": "6885",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7084"
+      ]
     },
     {
       "name": "Cheryl Hong",
       "targetId": "6886",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7084"
+      ]
     },
     {
       "name": "Karen Milne",
       "targetId": "6887",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7084"
+      ]
     }
   ]
 }

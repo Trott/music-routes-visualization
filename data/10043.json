@@ -1,86 +1,216 @@
 {
   "source": "Regina Havis",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "11793",
+      "names": [
+        "Gotta Serve Somebody"
+      ],
+      "releases": [
+        {
+          "_id": "2159",
+          "names": [
+            "The Essential Bob Dylan"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11869",
+      "names": [
+        "Solid Rock"
+      ],
+      "releases": [
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        },
+        {
+          "_id": "2171",
+          "names": [
+            "Saved"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11875",
+      "names": [
+        "Groom's Still Waiting At The Altar"
+      ],
+      "releases": [
+        {
+          "_id": "2169",
+          "names": [
+            "Biograph"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11793",
+        "11869",
+        "11875"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11869",
+        "11875"
+      ]
     },
     {
       "name": "Mark Knopfler",
       "targetId": "418",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11793"
+      ]
     },
     {
       "name": "Carol Dennis",
       "targetId": "561",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11793",
+        "11875"
+      ]
     },
     {
       "name": "Danny Kortchmar",
       "targetId": "1006",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11875"
+      ]
     },
     {
       "name": "Barry Beckett",
       "targetId": "1099",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11793",
+        "11869"
+      ]
     },
     {
       "name": "Tim Drummond",
       "targetId": "3289",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "11793",
+        "11869",
+        "11875"
+      ]
     },
     {
       "name": "Fred Tackett",
       "targetId": "3412",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11869"
+      ]
     },
     {
       "name": "Helena Springs",
       "targetId": "3617",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11793"
+      ]
     },
     {
       "name": "Mona Lisa Young",
       "targetId": "4515",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11869"
+      ]
     },
     {
       "name": "Clydie King",
       "targetId": "4580",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "11869",
+        "11875"
+      ]
     },
     {
       "name": "Pick Withers",
       "targetId": "8281",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11793"
+      ]
     },
     {
       "name": "Carl Pickhardt",
       "targetId": "10031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11875"
+      ]
     },
     {
       "name": "Spooner Oldham",
       "targetId": "10058",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11869"
+      ]
     },
     {
       "name": "Terry Young",
       "targetId": "10059",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11869"
+      ]
     },
     {
       "name": "Steve Ripley",
       "targetId": "10063",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11875"
+      ]
     }
   ]
 }

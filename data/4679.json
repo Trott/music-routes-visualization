@@ -1,21 +1,54 @@
 {
   "source": "Howard Ferguson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4514",
+      "names": [
+        "All Kindsa Girls"
+      ],
+      "releases": [
+        {
+          "_id": "915",
+          "names": [
+            "The Real Kids"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "721",
+          "names": [
+            "The Real Kids"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Felice",
       "targetId": "4677",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4514"
+      ]
     },
     {
       "name": "Billy Borgioli",
       "targetId": "4678",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4514"
+      ]
     },
     {
       "name": "Allen \"Alpo\" Paulino",
       "targetId": "4680",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4514"
+      ]
     }
   ]
 }

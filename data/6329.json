@@ -1,16 +1,46 @@
 {
   "source": "Jerome Green",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6480",
+      "names": [
+        "Who Do You Love?"
+      ],
+      "releases": [
+        {
+          "_id": "1297",
+          "names": [
+            "The Chess Box"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1001",
+          "names": [
+            "Bo Diddley"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bo Diddley",
       "targetId": "6327",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6480"
+      ]
     },
     {
       "name": "Frank Kirkland",
       "targetId": "6328",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6480"
+      ]
     }
   ]
 }

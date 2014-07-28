@@ -1,21 +1,54 @@
 {
   "source": "Ralph Moore",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10937",
+      "names": [
+        "Blue Monk"
+      ],
+      "releases": [
+        {
+          "_id": "2077",
+          "names": [
+            "Invitation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1586",
+          "names": [
+            "Kenny Barron"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lewis Nash",
       "targetId": "4106",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10937"
+      ]
     },
     {
       "name": "David Williams",
       "targetId": "6416",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10937"
+      ]
     },
     {
       "name": "Kenny Barron",
       "targetId": "8149",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10937"
+      ]
     }
   ]
 }

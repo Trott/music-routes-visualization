@@ -1,106 +1,294 @@
 {
   "source": "Robert John \"Mutt\" Lange",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "399",
+      "names": [
+        "She Blinded Me With Science"
+      ],
+      "releases": [
+        {
+          "_id": "205",
+          "names": [
+            "The Golden Age Of Wireless"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "141",
+          "names": [
+            "Thomas Dolby"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "465",
+      "names": [
+        "Waiting For A Girl Like You"
+      ],
+      "releases": [
+        {
+          "_id": "216",
+          "names": [
+            "Records"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "151",
+          "names": [
+            "Foreigner"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "467",
+      "names": [
+        "Urgent"
+      ],
+      "releases": [
+        {
+          "_id": "216",
+          "names": [
+            "Records"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "151",
+          "names": [
+            "Foreigner"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "469",
+      "names": [
+        "Juke Box Hero"
+      ],
+      "releases": [
+        {
+          "_id": "216",
+          "names": [
+            "Records"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "151",
+          "names": [
+            "Foreigner"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "486",
+      "names": [
+        "Rock Of Ages"
+      ],
+      "releases": [
+        {
+          "_id": "220",
+          "names": [
+            "Pyromania"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "154",
+          "names": [
+            "Def Leppard"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kevin Armstrong",
       "targetId": "369",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "399"
+      ]
     },
     {
       "name": "Thomas Dolby",
       "targetId": "859",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "399",
+        "465",
+        "467",
+        "469",
+        "486"
+      ]
     },
     {
       "name": "Miriam Stockley",
       "targetId": "863",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "399"
+      ]
     },
     {
       "name": "Matthew Seligman",
       "targetId": "865",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "399"
+      ]
     },
     {
       "name": "Simon House",
       "targetId": "866",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "399"
+      ]
     },
     {
       "name": "Magnus Pyke",
       "targetId": "868",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "399"
+      ]
     },
     {
       "name": "Mick Jones",
       "targetId": "925",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "465",
+        "467",
+        "469"
+      ]
     },
     {
       "name": "Lou Gramm",
       "targetId": "926",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "465",
+        "467",
+        "469"
+      ]
     },
     {
       "name": "Dennis Elliott",
       "targetId": "927",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "465",
+        "467",
+        "469"
+      ]
     },
     {
       "name": "Ian Lloyd",
       "targetId": "931",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "465",
+        "467",
+        "469"
+      ]
     },
     {
       "name": "Rick Wills",
       "targetId": "932",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "465",
+        "467",
+        "469"
+      ]
     },
     {
       "name": "Bob Mayo",
       "targetId": "933",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "465"
+      ]
     },
     {
       "name": "Mark Rivera",
       "targetId": "934",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "465",
+        "467",
+        "469"
+      ]
     },
     {
       "name": "Michael Fonfara",
       "targetId": "936",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "467"
+      ]
     },
     {
       "name": "Junior Walker",
       "targetId": "937",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "467"
+      ]
     },
     {
       "name": "Larry Fast",
       "targetId": "938",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "469"
+      ]
     },
     {
       "name": "Joe Elliott",
       "targetId": "947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     },
     {
       "name": "Rick Savage",
       "targetId": "948",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     },
     {
       "name": "Rick Allen",
       "targetId": "951",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     },
     {
       "name": "Pete Willis",
       "targetId": "952",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     }
   ]
 }

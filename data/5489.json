@@ -1,16 +1,46 @@
 {
   "source": "Leif Garrett",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5384",
+      "names": [
+        "Smells Like Teen Spirit"
+      ],
+      "releases": [
+        {
+          "_id": "1068",
+          "names": [
+            "The Crybaby"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "629",
+          "names": [
+            "The Melvins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dale Crover",
       "targetId": "4119",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5384"
+      ]
     },
     {
       "name": "King Buzzo",
       "targetId": "4120",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5384"
+      ]
     }
   ]
 }

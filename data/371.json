@@ -1,26 +1,62 @@
 {
   "source": "Clarence White",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "111",
+      "names": [
+        "Mama Told Me Not To Come"
+      ],
+      "releases": [
+        {
+          "_id": "88",
+          "names": [
+            "12 Songs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Randy Newman",
       "targetId": "370",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "111"
+      ]
     },
     {
       "name": "Ry Cooder",
       "targetId": "372",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "111"
+      ]
     },
     {
       "name": "Lyle Ritz",
       "targetId": "373",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "111"
+      ]
     },
     {
       "name": "Gene Parsons",
       "targetId": "374",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "111"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Matt MacManus",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11599",
+      "names": [
+        "Abandon Words"
+      ],
+      "releases": [
+        {
+          "_id": "2150",
+          "names": [
+            "Brutal Youth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11599"
+      ]
     },
     {
       "name": "Pete Thomas",
       "targetId": "429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11599"
+      ]
     }
   ]
 }

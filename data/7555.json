@@ -1,11 +1,38 @@
 {
   "source": "Cesaria Evora",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7868",
+      "names": [
+        "Ausencia"
+      ],
+      "releases": [
+        {
+          "_id": "1550",
+          "names": [
+            "Welcome To Bregovic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1187",
+          "names": [
+            "Goran Bregovic"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Goran Bregovic",
       "targetId": "7554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7868"
+      ]
     }
   ]
 }

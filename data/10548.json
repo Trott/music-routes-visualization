@@ -1,26 +1,62 @@
 {
   "source": "Sally Norvell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13100",
+      "names": [
+        "God-Like"
+      ],
+      "releases": [
+        {
+          "_id": "2358",
+          "names": [
+            "Voi-La Intruder"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1680",
+          "names": [
+            "Gogol Bordello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eugene Hütz",
       "targetId": "10544",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13100"
+      ]
     },
     {
       "name": "Sasha Kazatchkoff",
       "targetId": "10545",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13100"
+      ]
     },
     {
       "name": "Vlad Solovar",
       "targetId": "10546",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13100"
+      ]
     },
     {
       "name": "Eliot Ferguson",
       "targetId": "10547",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13100"
+      ]
     }
   ]
 }

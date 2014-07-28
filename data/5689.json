@@ -1,31 +1,97 @@
 {
   "source": "Bruce Bouillet",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5691",
+      "names": [
+        "Sunlit Nights"
+      ],
+      "releases": [
+        {
+          "_id": "1128",
+          "names": [
+            "Second Heat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "882",
+          "names": [
+            "Racer X"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5692",
+      "names": [
+        "Heart Of A Lion"
+      ],
+      "releases": [
+        {
+          "_id": "1128",
+          "names": [
+            "Second Heat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "882",
+          "names": [
+            "Racer X"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Gilbert",
       "targetId": "5685",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Scott Travis",
       "targetId": "5687",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Juan Alderete",
       "targetId": "5688",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Jeff Martin",
       "targetId": "5690",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     },
     {
       "name": "Mike Mani",
       "targetId": "5691",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5691",
+        "5692"
+      ]
     }
   ]
 }

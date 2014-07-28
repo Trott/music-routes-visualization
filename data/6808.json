@@ -1,11 +1,38 @@
 {
   "source": "Elizabeth Shatner",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6977",
+      "names": [
+        "Together"
+      ],
+      "releases": [
+        {
+          "_id": "22",
+          "names": [
+            "Has Been"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "21",
+          "names": [
+            "William Shatner"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "William Shatner",
       "targetId": "179",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6977"
+      ]
     }
   ]
 }

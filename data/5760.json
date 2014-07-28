@@ -1,36 +1,101 @@
 {
   "source": "Jake Snider",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5832",
+      "names": [
+        "Time Green Cafe"
+      ],
+      "releases": [
+        {
+          "_id": "1152",
+          "names": [
+            "Masculine Make-Over"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "897",
+          "names": [
+            "Sharks Keep Moving"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5833",
+      "names": [
+        "Arizona"
+      ],
+      "releases": [
+        {
+          "_id": "1153",
+          "names": [
+            "Desert Strings And Drifters"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "897",
+          "names": [
+            "Sharks Keep Moving"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Morgan Henderson",
       "targetId": "5755",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5832"
+      ]
     },
     {
       "name": "Jason Clark",
       "targetId": "5761",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5832"
+      ]
     },
     {
       "name": "Nathan Turpen",
       "targetId": "5762",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5832",
+        "5833"
+      ]
     },
     {
       "name": "Jeff Degolier",
       "targetId": "5763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5833"
+      ]
     },
     {
       "name": "Dan Dean",
       "targetId": "5764",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5833"
+      ]
     },
     {
       "name": "Stephanie Goldade",
       "targetId": "5765",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5833"
+      ]
     }
   ]
 }

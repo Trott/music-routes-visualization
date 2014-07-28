@@ -1,31 +1,97 @@
 {
   "source": "Lyn Dobson",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5624",
+      "names": [
+        "(I Can't Get No) Satisfaction"
+      ],
+      "releases": [
+        {
+          "_id": "1111",
+          "names": [
+            "Manfred Mann: Down The Road Apiece (Their EMI Recordings 1963-1966)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "489",
+          "names": [
+            "Manfred Mann"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5625",
+      "names": [
+        "Spirit Feel"
+      ],
+      "releases": [
+        {
+          "_id": "1111",
+          "names": [
+            "Manfred Mann: Down The Road Apiece (Their EMI Recordings 1963-1966)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "489",
+          "names": [
+            "Manfred Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jack Bruce",
       "targetId": "1733",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Manfred Mann",
       "targetId": "3140",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Tom McGuinness",
       "targetId": "3141",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Mike Hugg",
       "targetId": "3142",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     },
     {
       "name": "Henry Lowther",
       "targetId": "5646",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5624",
+        "5625"
+      ]
     }
   ]
 }

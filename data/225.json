@@ -1,81 +1,172 @@
 {
   "source": "Roy Orbison",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "41",
+      "names": [
+        "Handle With Care"
+      ],
+      "releases": [
+        {
+          "_id": "36",
+          "names": [
+            "Traveling Wilburys Vol. 1"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "32",
+          "names": [
+            "The Traveling Wilburys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8495",
+      "names": [
+        "Candy Man"
+      ],
+      "releases": [
+        {
+          "_id": "1639",
+          "names": [
+            "Black & White Night"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1254",
+          "names": [
+            "Roy Orbison"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "41"
+      ]
     },
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "41"
+      ]
     },
     {
       "name": "Bruce Springsteen",
       "targetId": "80",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "Tom Petty",
       "targetId": "223",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "41"
+      ]
     },
     {
       "name": "Jeff Lynne",
       "targetId": "224",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "41"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "Jerry Scheff",
       "targetId": "287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "T-Bone Burnett",
       "targetId": "300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "James Burton",
       "targetId": "452",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "Ronnie Tutt",
       "targetId": "454",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "Glen D. Hardin",
       "targetId": "455",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "Bonnie Raitt",
       "targetId": "692",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "k.d. lang",
       "targetId": "700",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "Jennifer Warnes",
       "targetId": "1012",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     },
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8495"
+      ]
     }
   ]
 }

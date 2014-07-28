@@ -1,36 +1,130 @@
 {
   "source": "David Hentschel",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "13227",
+      "names": [
+        "Rocket Man"
+      ],
+      "releases": [
+        {
+          "_id": "2385",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13359",
+      "names": [
+        "Funeral For A Friend/Love Lies Bleeding"
+      ],
+      "releases": [
+        {
+          "_id": "2425",
+          "names": [
+            "Goodbye Yellow Brick Road"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13369",
+      "names": [
+        "All The Girls Love Alice"
+      ],
+      "releases": [
+        {
+          "_id": "2425",
+          "names": [
+            "Goodbye Yellow Brick Road"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "130",
+          "names": [
+            "Elton John"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elton John",
       "targetId": "805",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13227",
+        "13359",
+        "13369"
+      ]
     },
     {
       "name": "Ray Cooper",
       "targetId": "981",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13369"
+      ]
     },
     {
       "name": "Davey Johnstone",
       "targetId": "2845",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13227",
+        "13359",
+        "13369"
+      ]
     },
     {
       "name": "Dee Murray",
       "targetId": "7203",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13227",
+        "13359",
+        "13369"
+      ]
     },
     {
       "name": "Nigel Olsson",
       "targetId": "7204",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13227",
+        "13359",
+        "13369"
+      ]
     },
     {
       "name": "Kiki Dee",
       "targetId": "10524",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13369"
+      ]
     }
   ]
 }

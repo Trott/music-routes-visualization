@@ -1,36 +1,122 @@
 {
   "source": "Sam Coomes",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "13",
+      "names": [
+        "Get Lucky"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "14",
+      "names": [
+        "The Poisoned Well"
+      ],
+      "releases": [
+        {
+          "_id": "12",
+          "names": [
+            "Featuring \"Birds\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "12",
+          "names": [
+            "Quasi"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "23",
+      "names": [
+        "Strange"
+      ],
+      "releases": [
+        {
+          "_id": "21",
+          "names": [
+            "Ancient Melodies Of The Future"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "18",
+          "names": [
+            "Built To Spill"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tony Lash",
       "targetId": "14",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13"
+      ]
     },
     {
       "name": "Neil Gust",
       "targetId": "24",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13"
+      ]
     },
     {
       "name": "Elliott Smith",
       "targetId": "25",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13"
+      ]
     },
     {
       "name": "Janet Weiss",
       "targetId": "26",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "14"
+      ]
     },
     {
       "name": "Doug Martsch",
       "targetId": "94",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "23"
+      ]
     },
     {
       "name": "Scott Plouf",
       "targetId": "95",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "23"
+      ]
     }
   ]
 }

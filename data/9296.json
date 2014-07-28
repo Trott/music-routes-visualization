@@ -1,21 +1,54 @@
 {
   "source": "Ryan Heller",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10156",
+      "names": [
+        "God Is Going To Get Sick Of Me"
+      ],
+      "releases": [
+        {
+          "_id": "1953",
+          "names": [
+            "The Freezing Atlantic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1511",
+          "names": [
+            "Aberdeen City"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris McLaughlin",
       "targetId": "9297",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10156"
+      ]
     },
     {
       "name": "Rob McCaffrey",
       "targetId": "9298",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10156"
+      ]
     },
     {
       "name": "Brad Parker",
       "targetId": "9299",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10156"
+      ]
     }
   ]
 }

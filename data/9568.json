@@ -1,26 +1,128 @@
 {
   "source": "Larry Adler",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "10811",
+      "names": [
+        "Nice Work If You Can Get It"
+      ],
+      "releases": [
+        {
+          "_id": "2065",
+          "names": [
+            "The Glory Of Gershwin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1582",
+          "names": [
+            "Sting"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10812",
+      "names": [
+        "Summertime"
+      ],
+      "releases": [
+        {
+          "_id": "2065",
+          "names": [
+            "The Glory Of Gershwin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1579",
+          "names": [
+            "Courtney Pine"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10934",
+      "names": [
+        "I Got Rhythm"
+      ],
+      "releases": [
+        {
+          "_id": "2065",
+          "names": [
+            "The Glory Of Gershwin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "140",
+          "names": [
+            "Robert Palmer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11644",
+      "names": [
+        "But Not For Me"
+      ],
+      "releases": [
+        {
+          "_id": "2065",
+          "names": [
+            "The Glory Of Gershwin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sting",
       "targetId": "122",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10811"
+      ]
     },
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11644"
+      ]
     },
     {
       "name": "Robert Palmer",
       "targetId": "851",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10934"
+      ]
     },
     {
       "name": "Courtney Pine",
       "targetId": "9569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10812"
+      ]
     }
   ]
 }

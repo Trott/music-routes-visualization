@@ -1,36 +1,78 @@
 {
   "source": "Christopher Taylor",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11055",
+      "names": [
+        "The Fool On The Hill"
+      ],
+      "releases": [
+        {
+          "_id": "2102",
+          "names": [
+            "Magical Mystery Tour"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11055"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11055"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11055"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11055"
+      ]
     },
     {
       "name": "Richard Taylor",
       "targetId": "9721",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11055"
+      ]
     },
     {
       "name": "Jack Ellory",
       "targetId": "9722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11055"
+      ]
     }
   ]
 }

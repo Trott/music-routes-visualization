@@ -1,31 +1,114 @@
 {
   "source": "Ice Cube",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5931",
+      "names": [
+        "Last Wordz"
+      ],
+      "releases": [
+        {
+          "_id": "1179",
+          "names": [
+            "Strictly 4 My N.I.G.G.A.Z."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "918",
+          "names": [
+            "2Pac"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6006",
+      "names": [
+        "Killing Me Softly: Deadly Code Of Silence"
+      ],
+      "releases": [
+        {
+          "_id": "1203",
+          "names": [
+            "360 Degrees Of Power"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "934",
+          "names": [
+            "Sister Souljah"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8574",
+      "names": [
+        "Straight Outta Compton"
+      ],
+      "releases": [
+        {
+          "_id": "1649",
+          "names": [
+            "Straight Outta Compton"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1260",
+          "names": [
+            "N.W.A."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ice-T",
       "targetId": "2798",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5931"
+      ]
     },
     {
       "name": "MC Ren",
       "targetId": "2800",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8574"
+      ]
     },
     {
       "name": "Eazy-E",
       "targetId": "2801",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8574"
+      ]
     },
     {
       "name": "Tupac Shakur",
       "targetId": "5866",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5931"
+      ]
     },
     {
       "name": "Sister Souljah",
       "targetId": "5947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6006"
+      ]
     }
   ]
 }

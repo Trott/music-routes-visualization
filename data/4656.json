@@ -1,11 +1,38 @@
 {
   "source": "Ronnie Milsap",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4502",
+      "names": [
+        "Make No Mistake, She's Mine"
+      ],
+      "releases": [
+        {
+          "_id": "905",
+          "names": [
+            "The Essential Ronnie Milsap"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "713",
+          "names": [
+            "Ronnie Milsap"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kenny Rogers",
       "targetId": "77",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4502"
+      ]
     }
   ]
 }

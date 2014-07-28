@@ -1,101 +1,283 @@
 {
   "source": "Joe Sample",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "9160",
+      "names": [
+        "Black Cow"
+      ],
+      "releases": [
+        {
+          "_id": "173",
+          "names": [
+            "Aja"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9161",
+      "names": [
+        "Aja"
+      ],
+      "releases": [
+        {
+          "_id": "173",
+          "names": [
+            "Aja"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "120",
+          "names": [
+            "Steely Dan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13374",
+      "names": [
+        "Layla"
+      ],
+      "releases": [
+        {
+          "_id": "2426",
+          "names": [
+            "Live At Montreux 1997"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1729",
+          "names": [
+            "Legends"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13375",
+      "names": [
+        "Going Down Slow"
+      ],
+      "releases": [
+        {
+          "_id": "2426",
+          "names": [
+            "Live At Montreux 1997"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1729",
+          "names": [
+            "Legends"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13376",
+      "names": [
+        "Every Day I Have The Blues"
+      ],
+      "releases": [
+        {
+          "_id": "2426",
+          "names": [
+            "Live At Montreux 1997"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1729",
+          "names": [
+            "Legends"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Eric Clapton",
       "targetId": "85",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13374",
+        "13375",
+        "13376"
+      ]
     },
     {
       "name": "Tom Scott",
       "targetId": "277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9160"
+      ]
     },
     {
       "name": "Timothy B. Schmit",
       "targetId": "391",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9161"
+      ]
     },
     {
       "name": "Victor Feldman",
       "targetId": "396",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9160",
+        "9161"
+      ]
     },
     {
       "name": "David Sanborn",
       "targetId": "471",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13374",
+        "13375",
+        "13376"
+      ]
     },
     {
       "name": "Larry Carlton",
       "targetId": "506",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9160",
+        "9161"
+      ]
     },
     {
       "name": "Donald Fagen",
       "targetId": "720",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9160",
+        "9161"
+      ]
     },
     {
       "name": "Walter Becker",
       "targetId": "721",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9161"
+      ]
     },
     {
       "name": "Chuck Rainey",
       "targetId": "722",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9160",
+        "9161"
+      ]
     },
     {
       "name": "Paul Humphrey",
       "targetId": "820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9160"
+      ]
     },
     {
       "name": "Steve Gadd",
       "targetId": "1262",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "9161",
+        "13374",
+        "13375",
+        "13376"
+      ]
     },
     {
       "name": "Wayne Shorter",
       "targetId": "1631",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9161"
+      ]
     },
     {
       "name": "Michael Omartian",
       "targetId": "3247",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9161"
+      ]
     },
     {
       "name": "Clydie King",
       "targetId": "4580",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9160"
+      ]
     },
     {
       "name": "Marcus Miller",
       "targetId": "4720",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "13374",
+        "13375",
+        "13376"
+      ]
     },
     {
       "name": "Venetta Fields",
       "targetId": "8452",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9160"
+      ]
     },
     {
       "name": "Sherlie Matthews",
       "targetId": "8453",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9160"
+      ]
     },
     {
       "name": "Rebecca Louis",
       "targetId": "8454",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9160"
+      ]
     },
     {
       "name": "Denny Dias",
       "targetId": "8455",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9161"
+      ]
     }
   ]
 }

@@ -1,21 +1,98 @@
 {
   "source": "Merle Haggard",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "6351",
+      "names": [
+        "Yesterday's Wine"
+      ],
+      "releases": [
+        {
+          "_id": "1267",
+          "names": [
+            "A Taste Of Yesterday's Wine"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "980",
+          "names": [
+            "Merle Haggard & George Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6352",
+      "names": [
+        "Pancho and Lefty"
+      ],
+      "releases": [
+        {
+          "_id": "1268",
+          "names": [
+            "Pancho & Lefty"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "981",
+          "names": [
+            "Merle Haggard & Willie Nelson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6353",
+      "names": [
+        "That's The Way Love Goes"
+      ],
+      "releases": [
+        {
+          "_id": "1269",
+          "names": [
+            "For The Record: 43 Legendary Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "982",
+          "names": [
+            "Merle Haggard"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Willie Nelson",
       "targetId": "68",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6352"
+      ]
     },
     {
       "name": "Jewel",
       "targetId": "552",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6353"
+      ]
     },
     {
       "name": "George Jones",
       "targetId": "3856",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6351"
+      ]
     }
   ]
 }

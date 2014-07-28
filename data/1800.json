@@ -1,16 +1,68 @@
 {
   "source": "Nat King Cole",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1508",
+      "names": [
+        "The Christmas Song"
+      ],
+      "releases": [
+        {
+          "_id": "357",
+          "names": [
+            "Sinatra 80th: All The Best"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6952",
+      "names": [
+        "May The Good Lord Bless And Keep You"
+      ],
+      "releases": [
+        {
+          "_id": "1387",
+          "names": [
+            "Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "573",
+          "names": [
+            "Bing Crosby"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1508"
+      ]
     },
     {
       "name": "Bing Crosby",
       "targetId": "1791",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6952"
+      ]
     }
   ]
 }

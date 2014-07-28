@@ -1,61 +1,294 @@
 {
   "source": "Jesse Harris",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "9512",
+      "names": [
+        "Sandalwood"
+      ],
+      "releases": [
+        {
+          "_id": "1831",
+          "names": [
+            "Tails"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12645",
+      "names": [
+        "Don't Know Why"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12649",
+      "names": [
+        "Come Away With Me"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12650",
+      "names": [
+        "Shoot The Moon"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12653",
+      "names": [
+        "I've Got To See You Again"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12655",
+      "names": [
+        "One Flight Down"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12656",
+      "names": [
+        "Nightingale"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12657",
+      "names": [
+        "The Long Day Is Over"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Norah Jones",
       "targetId": "2219",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "12645",
+        "12649",
+        "12650",
+        "12653",
+        "12655",
+        "12656",
+        "12657"
+      ]
     },
     {
       "name": "Bill Frisell",
       "targetId": "4402",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12657"
+      ]
     },
     {
       "name": "Brian Blade",
       "targetId": "5463",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12650",
+        "12653",
+        "12656"
+      ]
     },
     {
       "name": "Kenny Wollesen",
       "targetId": "6051",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12657"
+      ]
     },
     {
       "name": "Lisa Loeb",
       "targetId": "8844",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9512"
+      ]
     },
     {
       "name": "Dan Rieser",
       "targetId": "10314",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12645",
+        "12649",
+        "12655"
+      ]
     },
     {
       "name": "Lee Alexander",
       "targetId": "10315",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "12645",
+        "12649",
+        "12650",
+        "12653",
+        "12655",
+        "12656",
+        "12657"
+      ]
     },
     {
       "name": "Kevin Breit",
       "targetId": "10316",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12657"
+      ]
     },
     {
       "name": "Adam Levy",
       "targetId": "10317",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "12649",
+        "12650",
+        "12653",
+        "12655",
+        "12656"
+      ]
     },
     {
       "name": "Sam Yahel",
       "targetId": "10318",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12650",
+        "12655"
+      ]
     },
     {
       "name": "Jenny Scheinman",
       "targetId": "10320",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12653",
+        "12655"
+      ]
     }
   ]
 }

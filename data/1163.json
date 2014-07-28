@@ -1,26 +1,139 @@
 {
   "source": "Roger Chaput",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "735",
+      "names": [
+        "Daphné"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "736",
+      "names": [
+        "Souvenirs"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "737",
+      "names": [
+        "Honeysuckle Rose"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "741",
+      "names": [
+        "Sweet Georgia Brown"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Django Reinhardt",
       "targetId": "1156",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "735",
+        "736",
+        "737"
+      ]
     },
     {
       "name": "Stéphane Grappelli",
       "targetId": "1160",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "735",
+        "736",
+        "737",
+        "741"
+      ]
     },
     {
       "name": "Louis Vola",
       "targetId": "1161",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "735",
+        "736",
+        "737",
+        "741"
+      ]
     },
     {
       "name": "Eugéne Vées",
       "targetId": "1162",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "735",
+        "736",
+        "737",
+        "741"
+      ]
     }
   ]
 }

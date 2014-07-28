@@ -1,31 +1,92 @@
 {
   "source": "Antonio Carlos Jobim",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1479",
+      "names": [
+        "Fly Me To The Moon"
+      ],
+      "releases": [
+        {
+          "_id": "355",
+          "names": [
+            "Duets II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3887",
+      "names": [
+        "The Girl From Ipanema"
+      ],
+      "releases": [
+        {
+          "_id": "794",
+          "names": [
+            "Getz/Gilberto"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "622",
+          "names": [
+            "Stan Getz"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1479"
+      ]
     },
     {
       "name": "Stan Getz",
       "targetId": "4089",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3887"
+      ]
     },
     {
       "name": "Milton Banana",
       "targetId": "4090",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3887"
+      ]
     },
     {
       "name": "João Gilberto",
       "targetId": "4091",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3887"
+      ]
     },
     {
       "name": "Astrud Gilberto",
       "targetId": "4092",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3887"
+      ]
     }
   ]
 }

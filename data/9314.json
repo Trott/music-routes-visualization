@@ -1,11 +1,38 @@
 {
   "source": "Audie Belew",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10176",
+      "names": [
+        "Oh Daddy"
+      ],
+      "releases": [
+        {
+          "_id": "1957",
+          "names": [
+            "Mr. Music Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1515",
+          "names": [
+            "Adrian Belew"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10176"
+      ]
     }
   ]
 }

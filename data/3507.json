@@ -1,36 +1,78 @@
 {
   "source": "Joe Barresi",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3193",
+      "names": [
+        "Kerosene Man"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "D.J. Bonebrake",
       "targetId": "849",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3193"
+      ]
     },
     {
       "name": "Steve Wynn",
       "targetId": "3494",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3193"
+      ]
     },
     {
       "name": "Robert Mache",
       "targetId": "3497",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3193"
+      ]
     },
     {
       "name": "Stephen McCarthy",
       "targetId": "3500",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3193"
+      ]
     },
     {
       "name": "Mark Walton",
       "targetId": "3501",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3193"
+      ]
     },
     {
       "name": "Robert Lloyd",
       "targetId": "3505",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3193"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "José Nunes",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7832",
+      "names": [
+        "Variacoes No Fado Lopes"
+      ],
+      "releases": [
+        {
+          "_id": "1544",
+          "names": [
+            "Amália Rodrigues Et Les Meilleurs Ensemble De Guitares Et Violes Portugais"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1182",
+          "names": [
+            "Amália Rodrigues"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Amália Rodrigues",
       "targetId": "7480",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7832"
+      ]
     },
     {
       "name": "José Inacio",
       "targetId": "7491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7832"
+      ]
     },
     {
       "name": "Miguel Ramos",
       "targetId": "7492",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7832"
+      ]
     }
   ]
 }

@@ -1,71 +1,157 @@
 {
   "source": "Alan O'Bryant",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3022",
+      "names": [
+        "Watson Blues"
+      ],
+      "releases": [
+        {
+          "_id": "657",
+          "names": [
+            "Doc & Dawg"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "514",
+          "names": [
+            "Doc Watson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5381",
+      "names": [
+        "In Your Mind"
+      ],
+      "releases": [
+        {
+          "_id": "1066",
+          "names": [
+            "Music From And Inspired By The Motion Picture Dead Man Walking"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "31",
+          "names": [
+            "Johnny Cash"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Johnny Cash",
       "targetId": "222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Ry Cooder",
       "targetId": "372",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Stuart Duncan",
       "targetId": "587",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3022",
+        "5381"
+      ]
     },
     {
       "name": "David Grisman",
       "targetId": "2115",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "Roy Huskey, Jr.",
       "targetId": "2627",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Jim Dickinson",
       "targetId": "3082",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Doc Watson",
       "targetId": "3328",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "James Kerwin",
       "targetId": "3332",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3022"
+      ]
     },
     {
       "name": "Roland White",
       "targetId": "5482",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Steve Earle",
       "targetId": "5483",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Joachim Cooder",
       "targetId": "5484",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Patrick Enright",
       "targetId": "5485",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     },
     {
       "name": "Gene Libbea",
       "targetId": "5486",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5381"
+      ]
     }
   ]
 }

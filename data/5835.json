@@ -1,26 +1,62 @@
 {
   "source": "Scott Crago",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5911",
+      "names": [
+        "Lay Your Body Down"
+      ],
+      "releases": [
+        {
+          "_id": "1171",
+          "names": [
+            "Divinyls"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "911",
+          "names": [
+            "Divinyls"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Randy Jackson",
       "targetId": "59",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5911"
+      ]
     },
     {
       "name": "Brian MacLeod",
       "targetId": "1025",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5911"
+      ]
     },
     {
       "name": "Christina Amphlett",
       "targetId": "5832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5911"
+      ]
     },
     {
       "name": "Mark McEntee",
       "targetId": "5833",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5911"
+      ]
     }
   ]
 }

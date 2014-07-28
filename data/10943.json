@@ -1,16 +1,46 @@
 {
   "source": "Hamish Kilgour",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13409",
+      "names": [
+        "I Wait Around"
+      ],
+      "releases": [
+        {
+          "_id": "2447",
+          "names": [
+            "Vehicle"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1742",
+          "names": [
+            "The Clean"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Scott",
       "targetId": "2857",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13409"
+      ]
     },
     {
       "name": "David Kilgour",
       "targetId": "10942",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13409"
+      ]
     }
   ]
 }

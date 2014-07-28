@@ -1,36 +1,105 @@
 {
   "source": "John Reynolds",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6889",
+      "names": [
+        "We Are Together"
+      ],
+      "releases": [
+        {
+          "_id": "1374",
+          "names": [
+            "Come On Now Social"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "379",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6890",
+      "names": [
+        "Compromise"
+      ],
+      "releases": [
+        {
+          "_id": "1374",
+          "names": [
+            "Come On Now Social"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "379",
+          "names": [
+            "Indigo Girls"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Amy Ray",
       "targetId": "2579",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6889",
+        "6890"
+      ]
     },
     {
       "name": "Emily Saliers",
       "targetId": "2580",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6889",
+        "6890"
+      ]
     },
     {
       "name": "Joan Osborne",
       "targetId": "3438",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6889"
+      ]
     },
     {
       "name": "Meshell Ndegeocello",
       "targetId": "6729",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6889",
+        "6890"
+      ]
     },
     {
       "name": "Caroline Dale",
       "targetId": "6741",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6889",
+        "6890"
+      ]
     },
     {
       "name": "Kate Schellenbach",
       "targetId": "6742",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6889",
+        "6890"
+      ]
     }
   ]
 }

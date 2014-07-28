@@ -1,26 +1,106 @@
 {
   "source": "Tammy Wynette",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "189",
+      "names": [
+        "Silver Threads and Golden Needles"
+      ],
+      "releases": [
+        {
+          "_id": "144",
+          "names": [
+            "Honky Tonk Angels"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "102",
+          "names": [
+            "Dolly Parton, Loretta Lynn & Tammy Wynette"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4933",
+      "names": [
+        "It Sure Was Good"
+      ],
+      "releases": [
+        {
+          "_id": "993",
+          "names": [
+            "My Very Special Guests"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "788",
+          "names": [
+            "George Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9121",
+      "names": [
+        "While The Feeling's Good"
+      ],
+      "releases": [
+        {
+          "_id": "1744",
+          "names": [
+            "Dynasty Collection #4: Country"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1335",
+          "names": [
+            "Wayne Newton"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Loretta Lynn",
       "targetId": "244",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "189"
+      ]
     },
     {
       "name": "Dolly Parton",
       "targetId": "569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "189"
+      ]
     },
     {
       "name": "George Jones",
       "targetId": "3856",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4933"
+      ]
     },
     {
       "name": "Wayne Newton",
       "targetId": "8412",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9121"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Cheryl Pepsii Riley",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9501",
+      "names": [
+        "I Got It Like That"
+      ],
+      "releases": [
+        {
+          "_id": "1830",
+          "names": [
+            "Be Yourself"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1420",
+          "names": [
+            "Patti LaBelle"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Patti LaBelle",
       "targetId": "1775",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9501"
+      ]
     },
     {
       "name": "Lisa Lisa",
       "targetId": "8818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9501"
+      ]
     }
   ]
 }

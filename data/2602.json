@@ -1,26 +1,62 @@
 {
   "source": "Joe Goldring",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2147",
+      "names": [
+        "Final Sac"
+      ],
+      "releases": [
+        {
+          "_id": "511",
+          "names": [
+            "Swans Are Dead"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "386",
+          "names": [
+            "Swans"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Vudi",
       "targetId": "2600",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2147"
+      ]
     },
     {
       "name": "Jane Jarboe",
       "targetId": "2601",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2147"
+      ]
     },
     {
       "name": "Larry Mullins",
       "targetId": "2603",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2147"
+      ]
     },
     {
       "name": "Michael Gira",
       "targetId": "2604",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2147"
+      ]
     }
   ]
 }

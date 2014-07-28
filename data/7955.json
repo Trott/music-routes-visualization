@@ -1,26 +1,62 @@
 {
   "source": "Scott Bennett",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8458",
+      "names": [
+        "Desert Drive"
+      ],
+      "releases": [
+        {
+          "_id": "1635",
+          "names": [
+            "Gettin' In Over My Head"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "510",
+          "names": [
+            "Brian Wilson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8458"
+      ]
     },
     {
       "name": "Andy Paley",
       "targetId": "3261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8458"
+      ]
     },
     {
       "name": "Darian Sahanaja",
       "targetId": "7953",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8458"
+      ]
     },
     {
       "name": "Jeffrey Foskett",
       "targetId": "7954",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8458"
+      ]
     }
   ]
 }

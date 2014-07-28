@@ -1,11 +1,38 @@
 {
   "source": "Jason Halbert",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7246",
+      "names": [
+        "Beautiful Disaster"
+      ],
+      "releases": [
+        {
+          "_id": "1423",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kelly Clarkson",
       "targetId": "6254",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7246"
+      ]
     }
   ]
 }

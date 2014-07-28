@@ -1,21 +1,54 @@
 {
   "source": "Scott Ansell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6736",
+      "names": [
+        "Chan Hitchhikes To Shanghai"
+      ],
+      "releases": [
+        {
+          "_id": "1348",
+          "names": [
+            "Inside Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1043",
+          "names": [
+            "Grace Jones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bruce Woolley",
       "targetId": "860",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6736"
+      ]
     },
     {
       "name": "Nile Rodgers",
       "targetId": "2204",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6736"
+      ]
     },
     {
       "name": "Grace Jones",
       "targetId": "6593",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6736"
+      ]
     }
   ]
 }

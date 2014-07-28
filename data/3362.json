@@ -1,21 +1,54 @@
 {
   "source": "Anil Bhagwat",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3073",
+      "names": [
+        "Love You To"
+      ],
+      "releases": [
+        {
+          "_id": "155",
+          "names": [
+            "Revolver"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3073"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3073"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3073"
+      ]
     }
   ]
 }

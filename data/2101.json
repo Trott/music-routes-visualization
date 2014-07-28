@@ -1,61 +1,417 @@
 {
   "source": "Patrick Wilson",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "1985",
+      "names": [
+        "Undone - The Sweater Song"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4296",
+      "names": [
+        "Move On"
+      ],
+      "releases": [
+        {
+          "_id": "865",
+          "names": [
+            "Return Of The Rentals"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "680",
+          "names": [
+            "The Rentals"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4297",
+      "names": [
+        "Please Let That Be You"
+      ],
+      "releases": [
+        {
+          "_id": "865",
+          "names": [
+            "Return Of The Rentals"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "680",
+          "names": [
+            "The Rentals"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6433",
+      "names": [
+        "Buddy Holly"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6434",
+      "names": [
+        "My Name Is Jonas"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6435",
+      "names": [
+        "No One Else"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6436",
+      "names": [
+        "The World Has Turned And Left Me Here"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6437",
+      "names": [
+        "Surf Wax America"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6438",
+      "names": [
+        "Say It Ain't So"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6439",
+      "names": [
+        "In The Garage"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6440",
+      "names": [
+        "Holiday"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6441",
+      "names": [
+        "Only In Dreams"
+      ],
+      "releases": [
+        {
+          "_id": "431",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8812",
+      "names": [
+        "Can't Stop Partying"
+      ],
+      "releases": [
+        {
+          "_id": "1687",
+          "names": [
+            "Raditude"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "313",
+          "names": [
+            "Weezer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Petra Haden",
       "targetId": "774",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4296",
+        "4297"
+      ]
     },
     {
       "name": "Rachel Haden",
       "targetId": "965",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4296"
+      ]
     },
     {
       "name": "Matt Sharp",
       "targetId": "2098",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "1985",
+        "4296",
+        "4297",
+        "6433",
+        "6434",
+        "6435",
+        "6436",
+        "6437",
+        "6438",
+        "6439",
+        "6440",
+        "6441"
+      ]
     },
     {
       "name": "Rivers Cuomo",
       "targetId": "2099",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "1985",
+        "6433",
+        "6434",
+        "6435",
+        "6436",
+        "6437",
+        "6438",
+        "6439",
+        "6440",
+        "6441",
+        "8812"
+      ]
     },
     {
       "name": "Brian Bell",
       "targetId": "2100",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "1985",
+        "6433",
+        "6434",
+        "6435",
+        "6436",
+        "6437",
+        "6438",
+        "6439",
+        "6440",
+        "6441",
+        "8812"
+      ]
     },
     {
       "name": "Lil Wayne",
       "targetId": "3859",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8812"
+      ]
     },
     {
       "name": "Rod Cervera",
       "targetId": "4448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4296",
+        "4297"
+      ]
     },
     {
       "name": "Tom Grimley",
       "targetId": "4449",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4296",
+        "4297"
+      ]
     },
     {
       "name": "Cherielynn Westrich",
       "targetId": "4450",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4296",
+        "4297"
+      ]
     },
     {
       "name": "Jim Richards",
       "targetId": "4451",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4297"
+      ]
     },
     {
       "name": "Scott Shriner",
       "targetId": "8191",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8812"
+      ]
     }
   ]
 }

@@ -1,46 +1,145 @@
 {
   "source": "Sam Yahel",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "12650",
+      "names": [
+        "Shoot The Moon"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12651",
+      "names": [
+        "Turn Me On"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12655",
+      "names": [
+        "One Flight Down"
+      ],
+      "releases": [
+        {
+          "_id": "2256",
+          "names": [
+            "Come Away With Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1637",
+          "names": [
+            "Norah Jones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Norah Jones",
       "targetId": "2219",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12650",
+        "12651",
+        "12655"
+      ]
     },
     {
       "name": "Brian Blade",
       "targetId": "5463",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12650"
+      ]
     },
     {
       "name": "Jesse Harris",
       "targetId": "8845",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12650",
+        "12655"
+      ]
     },
     {
       "name": "Dan Rieser",
       "targetId": "10314",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12651",
+        "12655"
+      ]
     },
     {
       "name": "Lee Alexander",
       "targetId": "10315",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12650",
+        "12651",
+        "12655"
+      ]
     },
     {
       "name": "Adam Levy",
       "targetId": "10317",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12650",
+        "12655"
+      ]
     },
     {
       "name": "Adam Rogers",
       "targetId": "10319",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12651"
+      ]
     },
     {
       "name": "Jenny Scheinman",
       "targetId": "10320",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12655"
+      ]
     }
   ]
 }

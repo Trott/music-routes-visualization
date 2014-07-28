@@ -1,31 +1,70 @@
 {
   "source": "Johnny Jenkins",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6365",
+      "names": [
+        "Come To Me"
+      ],
+      "releases": [
+        {
+          "_id": "1270",
+          "names": [
+            "The Great Otis Redding Sings Soul Ballads"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "983",
+          "names": [
+            "Otis Redding"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Cropper",
       "targetId": "1804",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6365"
+      ]
     },
     {
       "name": "Donald \"Duck\" Dunn",
       "targetId": "1805",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6365"
+      ]
     },
     {
       "name": "Al Jackson, Jr.",
       "targetId": "1806",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6365"
+      ]
     },
     {
       "name": "Otis Redding",
       "targetId": "6244",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6365"
+      ]
     },
     {
       "name": "Booker T. Jones",
       "targetId": "6245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6365"
+      ]
     }
   ]
 }

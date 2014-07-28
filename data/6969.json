@@ -1,16 +1,70 @@
 {
   "source": "Clif Magness",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7244",
+      "names": [
+        "I Hate Myself For Losing You"
+      ],
+      "releases": [
+        {
+          "_id": "1423",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7245",
+      "names": [
+        "Hear Me"
+      ],
+      "releases": [
+        {
+          "_id": "1423",
+          "names": [
+            "Breakaway"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "985",
+          "names": [
+            "Kelly Clarkson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kelly Clarkson",
       "targetId": "6254",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7244",
+        "7245"
+      ]
     },
     {
       "name": "Josh Freese",
       "targetId": "6296",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7244",
+        "7245"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "José Fontes Rocha",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7503",
+      "names": [
+        "Tu Tens De Me Acontecer"
+      ],
+      "releases": [
+        {
+          "_id": "1478",
+          "names": [
+            "Corpo Iluminado"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1032",
+          "names": [
+            "Cristina Branco"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Cristina Branco",
       "targetId": "6541",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7503"
+      ]
     },
     {
       "name": "Jorge Fernando",
       "targetId": "7173",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7503"
+      ]
     },
     {
       "name": "Joel Pina",
       "targetId": "7174",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7503"
+      ]
     }
   ]
 }

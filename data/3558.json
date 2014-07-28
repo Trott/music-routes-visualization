@@ -1,41 +1,131 @@
 {
   "source": "Terry Hall",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3297",
+      "names": [
+        "Poems"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3303",
+      "names": [
+        "Bubbles"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7010",
+      "names": [
+        "Never Grow Old"
+      ],
+      "releases": [
+        {
+          "_id": "1393",
+          "names": [
+            "True Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1073",
+          "names": [
+            "Toots and the Maytals"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3297",
+        "3303"
+      ]
     },
     {
       "name": "Martina Topley-Bird",
       "targetId": "2411",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3297"
+      ]
     },
     {
       "name": "Toots Hibbert",
       "targetId": "6822",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7010"
+      ]
     },
     {
       "name": "U-Roy",
       "targetId": "6839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7010"
+      ]
     },
     {
       "name": "Devon James",
       "targetId": "6840",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7010"
+      ]
     },
     {
       "name": "Lloyd Knibb",
       "targetId": "6841",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7010"
+      ]
     },
     {
       "name": "Ken Stewart",
       "targetId": "6842",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7010"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Jason Rebello",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9936",
+      "names": [
+        "Never Alone"
+      ],
+      "releases": [
+        {
+          "_id": "1909",
+          "names": [
+            "Emotion & Commotion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1414",
+          "names": [
+            "Jeff Beck"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jeff Beck",
       "targetId": "313",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9936"
+      ]
     },
     {
       "name": "Vinnie Colaiuta",
       "targetId": "839",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9936"
+      ]
     },
     {
       "name": "Tal Wilkenfeld",
       "targetId": "9131",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9936"
+      ]
     }
   ]
 }

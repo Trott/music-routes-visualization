@@ -1,26 +1,62 @@
 {
   "source": "Taka Hirose",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6752",
+      "names": [
+        "Tumble And Fall"
+      ],
+      "releases": [
+        {
+          "_id": "1350",
+          "names": [
+            "Pushing The Senses"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1045",
+          "names": [
+            "Feeder"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Fran Healy",
       "targetId": "3977",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6752"
+      ]
     },
     {
       "name": "Grant Nicholas",
       "targetId": "6638",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6752"
+      ]
     },
     {
       "name": "Mark Richardson",
       "targetId": "6640",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6752"
+      ]
     },
     {
       "name": "Dougie Payne",
       "targetId": "6641",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6752"
+      ]
     }
   ]
 }

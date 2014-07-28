@@ -1,31 +1,70 @@
 {
   "source": "Desi Tomaselli",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10702",
+      "names": [
+        "Letter / Not A Letter"
+      ],
+      "releases": [
+        {
+          "_id": "2047",
+          "names": [
+            "Here Come The ABCs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10702"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10702"
+      ]
     },
     {
       "name": "Dan Levine",
       "targetId": "3686",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10702"
+      ]
     },
     {
       "name": "Mark Pender",
       "targetId": "9530",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10702"
+      ]
     },
     {
       "name": "Henry Linnell",
       "targetId": "9532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10702"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Bernemann",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9751",
+      "names": [
+        "The Wolf And The Lamb"
+      ],
+      "releases": [
+        {
+          "_id": "1869",
+          "names": [
+            "Code Red"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1445",
+          "names": [
+            "Sodom"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tom Angelripper",
       "targetId": "8988",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9751"
+      ]
     },
     {
       "name": "Harris Johns",
       "targetId": "8989",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9751"
+      ]
     },
     {
       "name": "Bobby Schottkowski",
       "targetId": "8998",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9751"
+      ]
     }
   ]
 }

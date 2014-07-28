@@ -1,21 +1,78 @@
 {
   "source": "Simon Raymonde",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "207",
+      "names": [
+        "Cherry-Coloured Funk"
+      ],
+      "releases": [
+        {
+          "_id": "153",
+          "names": [
+            "Heaven Or Las Vegas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "108",
+          "names": [
+            "Cocteau Twins"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5948",
+      "names": [
+        "Serpentskirt"
+      ],
+      "releases": [
+        {
+          "_id": "1186",
+          "names": [
+            "Milk And Kisses (Hong Kong edition)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "108",
+          "names": [
+            "Cocteau Twins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elizabeth Fraser",
       "targetId": "614",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "207",
+        "5948"
+      ]
     },
     {
       "name": "Robin Guthrie",
       "targetId": "615",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "207",
+        "5948"
+      ]
     },
     {
       "name": "Faye Wong",
       "targetId": "5882",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5948"
+      ]
     }
   ]
 }

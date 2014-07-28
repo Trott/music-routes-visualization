@@ -1,131 +1,374 @@
 {
   "source": "Chris Spedding",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "2802",
+      "names": [
+        "Gotta Get Up"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2806",
+      "names": [
+        "Down"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2809",
+      "names": [
+        "Let The Good Times Roll"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2810",
+      "names": [
+        "Jump Into The Fire"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8851",
+      "names": [
+        "Singapore"
+      ],
+      "releases": [
+        {
+          "_id": "1698",
+          "names": [
+            "Rain Dogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9226",
+      "names": [
+        "Needles In The Camel's Eye"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9227",
+      "names": [
+        "The Paw Paw Negro Blowtorch"
+      ],
+      "releases": [
+        {
+          "_id": "137",
+          "names": [
+            "Here Come The Warm Jets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "98",
+          "names": [
+            "Brian Eno"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brian Eno",
       "targetId": "201",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9226",
+        "9227"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2806",
+        "2809"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2802",
+        "2806",
+        "2809",
+        "2810"
+      ]
     },
     {
       "name": "Phil Manzanera",
       "targetId": "493",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9226",
+        "9227"
+      ]
     },
     {
       "name": "Jim Gordon",
       "targetId": "522",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2802",
+        "2806",
+        "2810"
+      ]
     },
     {
       "name": "Simon King",
       "targetId": "566",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9226"
+      ]
     },
     {
       "name": "Marty Simon",
       "targetId": "567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9227"
+      ]
     },
     {
       "name": "Michael Blair",
       "targetId": "662",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8851"
+      ]
     },
     {
       "name": "Herbie Flowers",
       "targetId": "800",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2810"
+      ]
     },
     {
       "name": "Richard Perry",
       "targetId": "987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2802"
+      ]
     },
     {
       "name": "Bobby Keys",
       "targetId": "993",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2806"
+      ]
     },
     {
       "name": "Jimmy Webb",
       "targetId": "998",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2810"
+      ]
     },
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8851"
+      ]
     },
     {
       "name": "Larry Taylor",
       "targetId": "2567",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8851"
+      ]
     },
     {
       "name": "Harry Nilsson",
       "targetId": "3193",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2802",
+        "2806",
+        "2809",
+        "2810"
+      ]
     },
     {
       "name": "John Uribe",
       "targetId": "3194",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2810"
+      ]
     },
     {
       "name": "Henry Krein",
       "targetId": "3196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2802"
+      ]
     },
     {
       "name": "Jim Price",
       "targetId": "3197",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2802",
+        "2806"
+      ]
     },
     {
       "name": "Roger Coolan",
       "targetId": "3198",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2806"
+      ]
     },
     {
       "name": "Gary Wright",
       "targetId": "3199",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2809"
+      ]
     },
     {
       "name": "Marc Ribot",
       "targetId": "3588",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8851"
+      ]
     },
     {
       "name": "Stephen Taylor Arvizu Hodges",
       "targetId": "8222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8851"
+      ]
     },
     {
       "name": "Bill MacCormick",
       "targetId": "8637",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9226"
+      ]
     },
     {
       "name": "Busta Jones",
       "targetId": "8638",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9227"
+      ]
     },
     {
       "name": "Chris Thomas",
       "targetId": "8639",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9227"
+      ]
     }
   ]
 }

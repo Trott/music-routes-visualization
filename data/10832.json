@@ -1,21 +1,54 @@
 {
   "source": "Adam Duce",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13346",
+      "names": [
+        "Clenching The Fists Of Dissent"
+      ],
+      "releases": [
+        {
+          "_id": "2414",
+          "names": [
+            "The Blackening"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1721",
+          "names": [
+            "Machine Head"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robb Flynn",
       "targetId": "10830",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13346"
+      ]
     },
     {
       "name": "Dave McClain",
       "targetId": "10831",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13346"
+      ]
     },
     {
       "name": "Phil Demmel",
       "targetId": "10833",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13346"
+      ]
     }
   ]
 }

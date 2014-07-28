@@ -1,11 +1,38 @@
 {
   "source": "Lucy Lawless",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2986",
+      "names": [
+        "4 All Of Us"
+      ],
+      "releases": [
+        {
+          "_id": "655",
+          "names": [
+            "4 All Of Us (CD single)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "513",
+          "names": [
+            "OMC"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Pauly Fuemana",
       "targetId": "3310",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2986"
+      ]
     }
   ]
 }

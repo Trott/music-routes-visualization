@@ -1,21 +1,54 @@
 {
   "source": "Jess Lidyard",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12950",
+      "names": [
+        "Moral"
+      ],
+      "releases": [
+        {
+          "_id": "2334",
+          "names": [
+            "Dance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1259",
+          "names": [
+            "Gary Numan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Roger Taylor",
       "targetId": "215",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12950"
+      ]
     },
     {
       "name": "Gary Numan",
       "targetId": "854",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12950"
+      ]
     },
     {
       "name": "Nash The Slash",
       "targetId": "10463",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12950"
+      ]
     }
   ]
 }

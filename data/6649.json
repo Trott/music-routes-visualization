@@ -1,31 +1,92 @@
 {
   "source": "Omar Edwards",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6762",
+      "names": [
+        "Stronger"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10318",
+      "names": [
+        "Drivin' Me Wild"
+      ],
+      "releases": [
+        {
+          "_id": "1992",
+          "names": [
+            "Finding Forever"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1537",
+          "names": [
+            "Common"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6762"
+      ]
     },
     {
       "name": "Mike Dean",
       "targetId": "4032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6762"
+      ]
     },
     {
       "name": "Andy Chatterley",
       "targetId": "6650",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6762"
+      ]
     },
     {
       "name": "Common",
       "targetId": "6720",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10318"
+      ]
     },
     {
       "name": "Lily Allen",
       "targetId": "9415",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10318"
+      ]
     }
   ]
 }

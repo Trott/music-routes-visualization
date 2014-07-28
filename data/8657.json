@@ -1,26 +1,62 @@
 {
   "source": "Rocky George",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9240",
+      "names": [
+        "The Trooper"
+      ],
+      "releases": [
+        {
+          "_id": "1658",
+          "names": [
+            "Numbers From The Beast: An All Star Salute To Iron Maiden"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1381",
+          "names": [
+            "Lemmy Kilmister"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chris Slade",
       "targetId": "940",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9240"
+      ]
     },
     {
       "name": "Lemmy Kilmister",
       "targetId": "2550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9240"
+      ]
     },
     {
       "name": "Phil Campbell",
       "targetId": "7065",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9240"
+      ]
     },
     {
       "name": "Chuck Wright",
       "targetId": "8658",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9240"
+      ]
     }
   ]
 }

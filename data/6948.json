@@ -1,21 +1,79 @@
 {
   "source": "Darren Dodd",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "7223",
+      "names": [
+        "One Of The Boys"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7226",
+      "names": [
+        "Thinking Of You"
+      ],
+      "releases": [
+        {
+          "_id": "1422",
+          "names": [
+            "One Of The Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1097",
+          "names": [
+            "Katy Perry"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dan Chase",
       "targetId": "1068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7223",
+        "7226"
+      ]
     },
     {
       "name": "Butch Walker",
       "targetId": "6295",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7223",
+        "7226"
+      ]
     },
     {
       "name": "Katy Perry",
       "targetId": "6947",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7223",
+        "7226"
+      ]
     }
   ]
 }

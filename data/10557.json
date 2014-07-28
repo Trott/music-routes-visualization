@@ -1,36 +1,106 @@
 {
   "source": "Rob Swire",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13110",
+      "names": [
+        "Ghosts 'n' Stuff"
+      ],
+      "releases": [
+        {
+          "_id": "2362",
+          "names": [
+            "Now! 74"
+          ]
+        },
+        {
+          "_id": "2365",
+          "names": [
+            "For Lack Of A Better Name"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1682",
+          "names": [
+            "deadmau5"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13114",
+      "names": [
+        "Watercolour"
+      ],
+      "releases": [
+        {
+          "_id": "2366",
+          "names": [
+            "Immersion"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1683",
+          "names": [
+            "Pendulum"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "deadmau5",
       "targetId": "10556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13110"
+      ]
     },
     {
       "name": "Adrian Revell",
       "targetId": "10559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13114"
+      ]
     },
     {
       "name": "Andy Greenwood",
       "targetId": "10560",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13114"
+      ]
     },
     {
       "name": "Andy Wood",
       "targetId": "10561",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13114"
+      ]
     },
     {
       "name": "Craig Wild",
       "targetId": "10562",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13114"
+      ]
     },
     {
       "name": "Martin Williams",
       "targetId": "10563",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13114"
+      ]
     }
   ]
 }

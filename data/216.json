@@ -1,16 +1,46 @@
 {
   "source": "Jandek",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "37",
+      "names": [
+        "Walking Blues"
+      ],
+      "releases": [
+        {
+          "_id": "33",
+          "names": [
+            "Glasgow Friday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "29",
+          "names": [
+            "Jandek"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Richard Youngs",
       "targetId": "217",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "37"
+      ]
     },
     {
       "name": "Alex Neilson",
       "targetId": "218",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "37"
+      ]
     }
   ]
 }

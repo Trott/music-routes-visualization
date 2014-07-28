@@ -1,31 +1,70 @@
 {
   "source": "Wynton Kelly",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "634",
+      "names": [
+        "Freddie Freeloader"
+      ],
+      "releases": [
+        {
+          "_id": "236",
+          "names": [
+            "Kind Of Blue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "163",
+          "names": [
+            "Miles Davis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "634"
+      ]
     },
     {
       "name": "Jimmy Cobb",
       "targetId": "1045",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "634"
+      ]
     },
     {
       "name": "Paul Chambers",
       "targetId": "1046",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "634"
+      ]
     },
     {
       "name": "John Coltrane",
       "targetId": "1049",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "634"
+      ]
     },
     {
       "name": "Julian \"Cannonball\" Adderly",
       "targetId": "1050",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "634"
+      ]
     }
   ]
 }

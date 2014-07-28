@@ -1,11 +1,38 @@
 {
   "source": "Eric Shea",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7064",
+      "names": [
+        "The Goodbye Girl"
+      ],
+      "releases": [
+        {
+          "_id": "1399",
+          "names": [
+            "Friends And Lovers: Songs Of Bread"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1079",
+          "names": [
+            "Eric Shea & Bart Davenport"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bart Davenport",
       "targetId": "6864",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7064"
+      ]
     }
   ]
 }

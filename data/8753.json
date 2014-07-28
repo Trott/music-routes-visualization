@@ -1,21 +1,60 @@
 {
   "source": "Theresa Andersson",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9356",
+      "names": [
+        "Ladies In Blue"
+      ],
+      "releases": [
+        {
+          "_id": "1808",
+          "names": [
+            "Here Lies Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1400",
+          "names": [
+            "David Byrne"
+          ]
+        },
+        {
+          "_id": "1401",
+          "names": [
+            "Fatboy Slim"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Byrne",
       "targetId": "193",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9356"
+      ]
     },
     {
       "name": "Tom Gandey",
       "targetId": "8724",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9356"
+      ]
     },
     {
       "name": "Paul Frazier",
       "targetId": "8733",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9356"
+      ]
     }
   ]
 }

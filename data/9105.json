@@ -1,26 +1,88 @@
 {
   "source": "Steve Cullimore",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9899",
+      "names": [
+        "Over There"
+      ],
+      "releases": [
+        {
+          "_id": "1900",
+          "names": [
+            "London 0 Hull 4"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1470",
+          "names": [
+            "The Housemartins"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9900",
+      "names": [
+        "Think For A Minute"
+      ],
+      "releases": [
+        {
+          "_id": "1900",
+          "names": [
+            "London 0 Hull 4"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1470",
+          "names": [
+            "The Housemartins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Heaton",
       "targetId": "3256",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9899",
+        "9900"
+      ]
     },
     {
       "name": "Tony Pleeth",
       "targetId": "4485",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9899",
+        "9900"
+      ]
     },
     {
       "name": "Norman Cook",
       "targetId": "8720",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9899",
+        "9900"
+      ]
     },
     {
       "name": "Hugh Whitaker",
       "targetId": "9104",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9899",
+        "9900"
+      ]
     }
   ]
 }

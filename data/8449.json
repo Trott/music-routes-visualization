@@ -1,16 +1,68 @@
 {
   "source": "Ludacris",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9156",
+      "names": [
+        "Baby"
+      ],
+      "releases": [
+        {
+          "_id": "1754",
+          "names": [
+            "\"Baby\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1355",
+          "names": [
+            "Justin Bieber"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9157",
+      "names": [
+        "Hoes In My Room"
+      ],
+      "releases": [
+        {
+          "_id": "1755",
+          "names": [
+            "Chicken-N-Beer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1356",
+          "names": [
+            "Ludacris"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9157"
+      ]
     },
     {
       "name": "Justin Bieber",
       "targetId": "8443",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9156"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Bilal",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6873",
+      "names": [
+        "Funky For You"
+      ],
+      "releases": [
+        {
+          "_id": "1367",
+          "names": [
+            "Collaborations"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1055",
+          "names": [
+            "Jill Scott"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "James Poyser",
       "targetId": "6250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6873"
+      ]
     },
     {
       "name": "Jill Scott",
       "targetId": "6698",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6873"
+      ]
     },
     {
       "name": "Common",
       "targetId": "6720",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6873"
+      ]
     }
   ]
 }

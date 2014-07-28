@@ -1,31 +1,70 @@
 {
   "source": "Chris Bruce",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10203",
+      "names": [
+        "Going Through The Motions"
+      ],
+      "releases": [
+        {
+          "_id": "1959",
+          "names": [
+            "The Forgotten Arm"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "591",
+          "names": [
+            "Aimee Mann"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aimee Mann",
       "targetId": "181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10203"
+      ]
     },
     {
       "name": "Jay Bellerose",
       "targetId": "298",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10203"
+      ]
     },
     {
       "name": "Paul Bryan",
       "targetId": "3672",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10203"
+      ]
     },
     {
       "name": "Jebin Bruni",
       "targetId": "9325",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10203"
+      ]
     },
     {
       "name": "Julian Coryell",
       "targetId": "9326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10203"
+      ]
     }
   ]
 }

@@ -1,31 +1,70 @@
 {
   "source": "Harry Baty",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7865",
+      "names": [
+        "On A Coconut Island"
+      ],
+      "releases": [
+        {
+          "_id": "1549",
+          "names": [
+            "Vintage Hawaiian Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "950",
+          "names": [
+            "Louis Armstrong"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Louis Armstrong",
       "targetId": "1785",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     },
     {
       "name": "Lionel Hampton",
       "targetId": "6034",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     },
     {
       "name": "Sam Koki",
       "targetId": "7549",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     },
     {
       "name": "George Archer",
       "targetId": "7550",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     },
     {
       "name": "Joe Nawahi",
       "targetId": "7552",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7865"
+      ]
     }
   ]
 }

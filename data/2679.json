@@ -1,56 +1,132 @@
 {
   "source": "Donnie Lyle",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2212",
+      "names": [
+        "Bump Bump Bump"
+      ],
+      "releases": [
+        {
+          "_id": "532",
+          "names": [
+            "Pandemonium!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "403",
+          "names": [
+            "B2K"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5905",
+      "names": [
+        "Outrageous"
+      ],
+      "releases": [
+        {
+          "_id": "443",
+          "names": [
+            "In The Zone"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "325",
+          "names": [
+            "Britney Spears"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Britney Spears",
       "targetId": "2138",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     },
     {
       "name": "Omarion",
       "targetId": "2673",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "Lil' Fizz",
       "targetId": "2675",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "Raz-B",
       "targetId": "2676",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "J-Boog",
       "targetId": "2677",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "Sean Combs",
       "targetId": "2678",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2212"
+      ]
     },
     {
       "name": "R. Kelly",
       "targetId": "4282",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     },
     {
       "name": "Penelope Magnet",
       "targetId": "5811",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     },
     {
       "name": "Kendall Nesbitt",
       "targetId": "5814",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     },
     {
       "name": "Roxanne Estrada",
       "targetId": "5815",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5905"
+      ]
     }
   ]
 }

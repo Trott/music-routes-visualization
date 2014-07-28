@@ -1,51 +1,184 @@
 {
   "source": "Jon Theodore",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3982",
+      "names": [
+        "Cicatriz ESP"
+      ],
+      "releases": [
+        {
+          "_id": "812",
+          "names": [
+            "De-Loused In The Comatorium"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "636",
+          "names": [
+            "The Mars Volta"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5693",
+      "names": [
+        "The Widow"
+      ],
+      "releases": [
+        {
+          "_id": "1129",
+          "names": [
+            "Frances The Mute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "636",
+          "names": [
+            "The Mars Volta"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5694",
+      "names": [
+        "Miranda That Ghost Just Isn't Holy Anymore"
+      ],
+      "releases": [
+        {
+          "_id": "1129",
+          "names": [
+            "Frances The Mute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "636",
+          "names": [
+            "The Mars Volta"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5695",
+      "names": [
+        "L'Via L'Viaquez"
+      ],
+      "releases": [
+        {
+          "_id": "1129",
+          "names": [
+            "Frances The Mute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "636",
+          "names": [
+            "The Mars Volta"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flea",
       "targetId": "553",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3982",
+        "5693",
+        "5694"
+      ]
     },
     {
       "name": "John Frusciante",
       "targetId": "1726",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3982",
+        "5695"
+      ]
     },
     {
       "name": "Omar Rodriguez-Lopez",
       "targetId": "4136",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3982",
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Cedric Bixler-Zavala",
       "targetId": "4137",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3982",
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Jeremy Michael Ward",
       "targetId": "4139",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3982"
+      ]
     },
     {
       "name": "Ikey Isaiah Owens",
       "targetId": "4140",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3982",
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Juan Alderete",
       "targetId": "5688",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Marcel Rodriguez-Lopez",
       "targetId": "5692",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5693",
+        "5694",
+        "5695"
+      ]
     },
     {
       "name": "Larry Harlow",
       "targetId": "5693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5695"
+      ]
     }
   ]
 }

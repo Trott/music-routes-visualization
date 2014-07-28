@@ -1,21 +1,54 @@
 {
   "source": "Esther Dean",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6062",
+      "names": [
+        "Jump"
+      ],
+      "releases": [
+        {
+          "_id": "1218",
+          "names": [
+            "R.O.O.T.S."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Travis Barker",
       "targetId": "1559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6062"
+      ]
     },
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6062"
+      ]
     },
     {
       "name": "Nelly Furtado",
       "targetId": "6013",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6062"
+      ]
     }
   ]
 }

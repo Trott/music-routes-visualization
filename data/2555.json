@@ -1,21 +1,54 @@
 {
   "source": "Jill Jones",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2119",
+      "names": [
+        "1999"
+      ],
+      "releases": [
+        {
+          "_id": "495",
+          "names": [
+            "1999"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "372",
+          "names": [
+            "Prince"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Prince",
       "targetId": "712",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2119"
+      ]
     },
     {
       "name": "Dez Dickerson",
       "targetId": "2553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2119"
+      ]
     },
     {
       "name": "Lisa Coleman",
       "targetId": "2554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2119"
+      ]
     }
   ]
 }

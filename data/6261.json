@@ -1,16 +1,68 @@
 {
   "source": "Trisha Yearwood",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6375",
+      "names": [
+        "She Can't Save Him"
+      ],
+      "releases": [
+        {
+          "_id": "1273",
+          "names": [
+            "Reba: Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "986",
+          "names": [
+            "Reba McEntire"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9689",
+      "names": [
+        "Breaking Apart"
+      ],
+      "releases": [
+        {
+          "_id": "1857",
+          "names": [
+            "Mr. Lucky"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1439",
+          "names": [
+            "Chris Isaak"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Reba McEntire",
       "targetId": "6255",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6375"
+      ]
     },
     {
       "name": "Chris Isaak",
       "targetId": "8960",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9689"
+      ]
     }
   ]
 }

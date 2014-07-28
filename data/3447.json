@@ -1,31 +1,97 @@
 {
   "source": "Rick Chertoff",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "3124",
+      "names": [
+        "Right Hand Man"
+      ],
+      "releases": [
+        {
+          "_id": "670",
+          "names": [
+            "Relish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "524",
+          "names": [
+            "Joan Osborne"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3126",
+      "names": [
+        "Dracula Moon"
+      ],
+      "releases": [
+        {
+          "_id": "670",
+          "names": [
+            "Relish"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "524",
+          "names": [
+            "Joan Osborne"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joan Osborne",
       "targetId": "3438",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3124",
+        "3126"
+      ]
     },
     {
       "name": "Mark Egan",
       "targetId": "3439",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3124",
+        "3126"
+      ]
     },
     {
       "name": "Andy Kravitz",
       "targetId": "3440",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3124",
+        "3126"
+      ]
     },
     {
       "name": "Eric Bazilian",
       "targetId": "3441",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3124",
+        "3126"
+      ]
     },
     {
       "name": "Rob Hyman",
       "targetId": "3443",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3124",
+        "3126"
+      ]
     }
   ]
 }

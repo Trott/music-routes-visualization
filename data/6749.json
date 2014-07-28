@@ -1,16 +1,46 @@
 {
   "source": "Marie Daulne",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6895",
+      "names": [
+        "African Diamond"
+      ],
+      "releases": [
+        {
+          "_id": "1378",
+          "names": [
+            "ReCreation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1060",
+          "names": [
+            "Zap Mama"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tony Allen",
       "targetId": "5918",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6895"
+      ]
     },
     {
       "name": "Meshell Ndegeocello",
       "targetId": "6729",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6895"
+      ]
     }
   ]
 }

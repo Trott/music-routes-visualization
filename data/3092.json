@@ -1,31 +1,116 @@
 {
   "source": "Chris Hathwell",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2613",
+      "names": [
+        "To A Fault"
+      ],
+      "releases": [
+        {
+          "_id": "619",
+          "names": [
+            "Dumb Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "482",
+          "names": [
+            "Dntel"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2617",
+      "names": [
+        "Rock My Boat"
+      ],
+      "releases": [
+        {
+          "_id": "619",
+          "names": [
+            "Dumb Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "482",
+          "names": [
+            "Dntel"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2619",
+      "names": [
+        "Breakfast In Bed"
+      ],
+      "releases": [
+        {
+          "_id": "619",
+          "names": [
+            "Dumb Luck"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "482",
+          "names": [
+            "Dntel"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jimmy Tamborello",
       "targetId": "3024",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2613",
+        "2617",
+        "2619"
+      ]
     },
     {
       "name": "Paul Larson",
       "targetId": "3091",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2617"
+      ]
     },
     {
       "name": "Edward Droste",
       "targetId": "3093",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2613"
+      ]
     },
     {
       "name": "Mia Doi Todd",
       "targetId": "3099",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2617"
+      ]
     },
     {
       "name": "Conor Oberst",
       "targetId": "3101",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2619"
+      ]
     }
   ]
 }

@@ -1,46 +1,118 @@
 {
   "source": "Barbara Dickson",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2792",
+      "names": [
+        "The Ark"
+      ],
+      "releases": [
+        {
+          "_id": "638",
+          "names": [
+            "City To City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "499",
+          "names": [
+            "Gerry Rafferty"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2798",
+      "names": [
+        "Whatever's Written In Your Heart"
+      ],
+      "releases": [
+        {
+          "_id": "638",
+          "names": [
+            "City To City"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "499",
+          "names": [
+            "Gerry Rafferty"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gerry Rafferty",
       "targetId": "3172",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2792",
+        "2798"
+      ]
     },
     {
       "name": "Gary Taylor",
       "targetId": "3175",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2792"
+      ]
     },
     {
       "name": "Joanna Carlin",
       "targetId": "3176",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2798"
+      ]
     },
     {
       "name": "Glen LeFleur",
       "targetId": "3181",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2792"
+      ]
     },
     {
       "name": "Henry Spinetti",
       "targetId": "3182",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2792"
+      ]
     },
     {
       "name": "Graham Preskett",
       "targetId": "3183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2792"
+      ]
     },
     {
       "name": "Jerry Donahue",
       "targetId": "3186",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2792"
+      ]
     },
     {
       "name": "Tommy Eyre",
       "targetId": "3190",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2792",
+        "2798"
+      ]
     }
   ]
 }

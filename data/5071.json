@@ -1,11 +1,38 @@
 {
   "source": "Johnny Paycheck",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4931",
+      "names": [
+        "Proud Mary"
+      ],
+      "releases": [
+        {
+          "_id": "993",
+          "names": [
+            "My Very Special Guests"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "788",
+          "names": [
+            "George Jones"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "George Jones",
       "targetId": "3856",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4931"
+      ]
     }
   ]
 }

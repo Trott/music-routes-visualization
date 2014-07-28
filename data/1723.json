@@ -1,21 +1,54 @@
 {
   "source": "Ed Kowalczyk",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1274",
+      "names": [
+        "Evolution Revolution Love"
+      ],
+      "releases": [
+        {
+          "_id": "336",
+          "names": [
+            "Blowback"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1274"
+      ]
     },
     {
       "name": "Hawkman",
       "targetId": "1717",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1274"
+      ]
     },
     {
       "name": "Marty Rifkin",
       "targetId": "1722",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1274"
+      ]
     }
   ]
 }

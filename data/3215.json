@@ -1,56 +1,135 @@
 {
   "source": "Annie Toone",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2815",
+      "names": [
+        "Not Your Girl"
+      ],
+      "releases": [
+        {
+          "_id": "640",
+          "names": [
+            "Fear No Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "501",
+          "names": [
+            "Bob Ostertag"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2816",
+      "names": [
+        "Right Like A Railroad"
+      ],
+      "releases": [
+        {
+          "_id": "640",
+          "names": [
+            "Fear No Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "501",
+          "names": [
+            "Bob Ostertag"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Ostertag",
       "targetId": "3201",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2815",
+        "2816"
+      ]
     },
     {
       "name": "Fred Frith",
       "targetId": "3202",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2815",
+        "2816"
+      ]
     },
     {
       "name": "Justin Bond",
       "targetId": "3204",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2815"
+      ]
     },
     {
       "name": "Lynn Breedlove",
       "targetId": "3205",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2815"
+      ]
     },
     {
       "name": "Trevor Dunn",
       "targetId": "3207",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2815"
+      ]
     },
     {
       "name": "Philip Horvitz",
       "targetId": "3209",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2815"
+      ]
     },
     {
       "name": "Andrea Lewis",
       "targetId": "3211",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2816"
+      ]
     },
     {
       "name": "Mike Patton",
       "targetId": "3213",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2815"
+      ]
     },
     {
       "name": "JD Reilly",
       "targetId": "3214",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2815",
+        "2816"
+      ]
     },
     {
       "name": "Richie Waits",
       "targetId": "3216",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2816"
+      ]
     }
   ]
 }

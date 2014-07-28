@@ -1,21 +1,54 @@
 {
   "source": "Killjoy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6994",
+      "names": [
+        "Mirror Soul Jesus"
+      ],
+      "releases": [
+        {
+          "_id": "1392",
+          "names": [
+            "Moonfog 2000: A Different Perspective"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1072",
+          "names": [
+            "Eibon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Anselmo",
       "targetId": "334",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6994"
+      ]
     },
     {
       "name": "Satyr Wongraven",
       "targetId": "6818",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6994"
+      ]
     },
     {
       "name": "Fenriz",
       "targetId": "6820",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6994"
+      ]
     }
   ]
 }

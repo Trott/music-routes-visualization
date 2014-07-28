@@ -1,26 +1,62 @@
 {
   "source": "Greg Ham",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7080",
+      "names": [
+        "Down Under"
+      ],
+      "releases": [
+        {
+          "_id": "1403",
+          "names": [
+            "Business As Usual"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1082",
+          "names": [
+            "Men At Work"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Colin Hay",
       "targetId": "1702",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7080"
+      ]
     },
     {
       "name": "John Rees",
       "targetId": "6876",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7080"
+      ]
     },
     {
       "name": "Ron Strykert",
       "targetId": "6877",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7080"
+      ]
     },
     {
       "name": "Jerry Speiser",
       "targetId": "6878",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7080"
+      ]
     }
   ]
 }

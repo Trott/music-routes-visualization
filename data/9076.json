@@ -1,21 +1,104 @@
 {
   "source": "Dan Cross",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "9830",
+      "names": [
+        "'55"
+      ],
+      "releases": [
+        {
+          "_id": "1888",
+          "names": [
+            "Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1459",
+          "names": [
+            "The Perfect Disaster"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9831",
+      "names": [
+        "Hey Now"
+      ],
+      "releases": [
+        {
+          "_id": "1888",
+          "names": [
+            "Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1459",
+          "names": [
+            "The Perfect Disaster"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9832",
+      "names": [
+        "Time To Kill"
+      ],
+      "releases": [
+        {
+          "_id": "1888",
+          "names": [
+            "Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1459",
+          "names": [
+            "The Perfect Disaster"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Phil Parfitt",
       "targetId": "9075",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9830",
+        "9831",
+        "9832"
+      ]
     },
     {
       "name": "Martin Langshaw",
       "targetId": "9077",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9830",
+        "9831",
+        "9832"
+      ]
     },
     {
       "name": "Josephine Wiggs",
       "targetId": "9078",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "9830",
+        "9831",
+        "9832"
+      ]
     }
   ]
 }

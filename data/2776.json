@@ -1,61 +1,165 @@
 {
   "source": "Andy Bell",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2258",
+      "names": [
+        "Part Of The Queue"
+      ],
+      "releases": [
+        {
+          "_id": "563",
+          "names": [
+            "Don't Believe The Truth"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "305",
+          "names": [
+            "Oasis"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2259",
+      "names": [
+        "Moonlight Medicine"
+      ],
+      "releases": [
+        {
+          "_id": "564",
+          "names": [
+            "Carnival Of Light"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "430",
+          "names": [
+            "Ride"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10281",
+      "names": [
+        "The Hindu Times"
+      ],
+      "releases": [
+        {
+          "_id": "1974",
+          "names": [
+            "Heathen Chemistry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "305",
+          "names": [
+            "Oasis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lenny Castro",
       "targetId": "405",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2258"
+      ]
     },
     {
       "name": "Jon Lord",
       "targetId": "2011",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2259"
+      ]
     },
     {
       "name": "Noel Gallagher",
       "targetId": "2067",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2258",
+        "10281"
+      ]
     },
     {
       "name": "Liam Gallagher",
       "targetId": "2068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2258",
+        "10281"
+      ]
     },
     {
       "name": "Zak Starkey",
       "targetId": "2777",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2258"
+      ]
     },
     {
       "name": "Gem Archer",
       "targetId": "2778",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2258",
+        "10281"
+      ]
     },
     {
       "name": "Laurence Colbert",
       "targetId": "2779",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2259"
+      ]
     },
     {
       "name": "Mark Gardener",
       "targetId": "2780",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2259"
+      ]
     },
     {
       "name": "Steve Queralt",
       "targetId": "2781",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2259"
+      ]
     },
     {
       "name": "Alan White",
       "targetId": "9363",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10281"
+      ]
     },
     {
       "name": "Paul Stacey",
       "targetId": "9364",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10281"
+      ]
     }
   ]
 }

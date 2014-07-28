@@ -1,31 +1,172 @@
 {
   "source": "Gregg Inhofer",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "3444",
+      "names": [
+        "Tangled Up In Blue"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11904",
+      "names": [
+        "Idiot Wind"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11905",
+      "names": [
+        "You're A Big Girl Now"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11906",
+      "names": [
+        "Lily, Rosemary And The Jack Of Hearts"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11907",
+      "names": [
+        "If You See Her, Say Hello"
+      ],
+      "releases": [
+        {
+          "_id": "703",
+          "names": [
+            "Blood On The Tracks"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "97",
+          "names": [
+            "Bob Dylan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Dylan",
       "targetId": "35",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "3444",
+        "11904",
+        "11905",
+        "11906",
+        "11907"
+      ]
     },
     {
       "name": "Bill Berg",
       "targetId": "1093",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "3444",
+        "11904",
+        "11905",
+        "11906",
+        "11907"
+      ]
     },
     {
       "name": "Kevin Odegard",
       "targetId": "3620",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3444"
+      ]
     },
     {
       "name": "Chris Weber",
       "targetId": "3621",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3444",
+        "11904",
+        "11905"
+      ]
     },
     {
       "name": "Bill Peterson",
       "targetId": "3622",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "3444",
+        "11904",
+        "11905",
+        "11906",
+        "11907"
+      ]
     }
   ]
 }

@@ -1,36 +1,130 @@
 {
   "source": "William Shimmel",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "8853",
+      "names": [
+        "Cemetery Polka"
+      ],
+      "releases": [
+        {
+          "_id": "1698",
+          "names": [
+            "Rain Dogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8857",
+      "names": [
+        "Rain Dogs"
+      ],
+      "releases": [
+        {
+          "_id": "1698",
+          "names": [
+            "Rain Dogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8860",
+      "names": [
+        "Time"
+      ],
+      "releases": [
+        {
+          "_id": "1698",
+          "names": [
+            "Rain Dogs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "376",
+          "names": [
+            "Tom Waits"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Michael Blair",
       "targetId": "662",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8853",
+        "8857"
+      ]
     },
     {
       "name": "Tom Waits",
       "targetId": "1713",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8853",
+        "8857",
+        "8860"
+      ]
     },
     {
       "name": "Larry Taylor",
       "targetId": "2567",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8853",
+        "8857",
+        "8860"
+      ]
     },
     {
       "name": "Marc Ribot",
       "targetId": "3588",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8853",
+        "8857"
+      ]
     },
     {
       "name": "Bob Funk",
       "targetId": "7571",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8853",
+        "8857"
+      ]
     },
     {
       "name": "Stephen Taylor Arvizu Hodges",
       "targetId": "8222",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8853",
+        "8857"
+      ]
     }
   ]
 }

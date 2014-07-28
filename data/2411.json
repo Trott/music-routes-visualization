@@ -1,26 +1,175 @@
 {
   "source": "Martina Topley-Bird",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "2071",
+      "names": [
+        "All Alone"
+      ],
+      "releases": [
+        {
+          "_id": "471",
+          "names": [
+            "Demon Days"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "351",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3297",
+      "names": [
+        "Poems"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3300",
+      "names": [
+        "I Be the Prophet"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3302",
+      "names": [
+        "Black Coffee"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3306",
+      "names": [
+        "Judas"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3307",
+      "names": [
+        "Children's Story"
+      ],
+      "releases": [
+        {
+          "_id": "689",
+          "names": [
+            "Nearly God"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "246",
+          "names": [
+            "Tricky"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tricky",
       "targetId": "1714",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3297",
+        "3300",
+        "3302",
+        "3306"
+      ]
     },
     {
       "name": "Damon Albarn",
       "targetId": "2401",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2071"
+      ]
     },
     {
       "name": "Roots Manuva",
       "targetId": "2410",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2071"
+      ]
     },
     {
       "name": "Terry Hall",
       "targetId": "3558",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3297"
+      ]
     }
   ]
 }

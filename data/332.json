@@ -1,16 +1,46 @@
 {
   "source": "Jack King",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "77",
+      "names": [
+        "Rock Love"
+      ],
+      "releases": [
+        {
+          "_id": "69",
+          "names": [
+            "Rock Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ross Valory",
       "targetId": "262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "77"
+      ]
     },
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "77"
+      ]
     }
   ]
 }

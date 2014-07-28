@@ -1,26 +1,62 @@
 {
   "source": "Doug Henthorn",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13019",
+      "names": [
+        "Tea For One"
+      ],
+      "releases": [
+        {
+          "_id": "2347",
+          "names": [
+            "You & Me"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1675",
+          "names": [
+            "Joe Bonamassa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carmine Rojas",
       "targetId": "4013",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13019"
+      ]
     },
     {
       "name": "Jason Bonham",
       "targetId": "8034",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13019"
+      ]
     },
     {
       "name": "Joe Bonamassa",
       "targetId": "10510",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13019"
+      ]
     },
     {
       "name": "Rick Melick",
       "targetId": "10511",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13019"
+      ]
     }
   ]
 }

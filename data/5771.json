@@ -1,26 +1,62 @@
 {
   "source": "Jeremy Barnes",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "5852",
+      "names": [
+        "The Bunker"
+      ],
+      "releases": [
+        {
+          "_id": "1156",
+          "names": [
+            "Gulag Orkestar"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "900",
+          "names": [
+            "Beirut"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Zach Condon",
       "targetId": "5770",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5852"
+      ]
     },
     {
       "name": "Perrin Cloutier",
       "targetId": "5772",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5852"
+      ]
     },
     {
       "name": "Hari Ziznewski",
       "targetId": "5773",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5852"
+      ]
     },
     {
       "name": "Heather Trost",
       "targetId": "5774",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5852"
+      ]
     }
   ]
 }

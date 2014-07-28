@@ -1,66 +1,173 @@
 {
   "source": "Robby Krieger",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1059",
+      "names": [
+        "Roadhouse Blues"
+      ],
+      "releases": [
+        {
+          "_id": "301",
+          "names": [
+            "Morrison Hotel"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "217",
+          "names": [
+            "The Doors"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1060",
+      "names": [
+        "L.A. Woman"
+      ],
+      "releases": [
+        {
+          "_id": "302",
+          "names": [
+            "L.A. Woman"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "217",
+          "names": [
+            "The Doors"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9095",
+      "names": [
+        "Riders On The Storm"
+      ],
+      "releases": [
+        {
+          "_id": "1735",
+          "names": [
+            "Stoned Immaculate: The Music Of The Doors"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1331",
+          "names": [
+            "Creed"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jerry Scheff",
       "targetId": "287",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1060"
+      ]
     },
     {
       "name": "Jamie Muhoberac",
       "targetId": "1070",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9095"
+      ]
     },
     {
       "name": "Jim Morrison",
       "targetId": "1550",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1059",
+        "1060"
+      ]
     },
     {
       "name": "Ray Manzarek",
       "targetId": "1552",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1059",
+        "1060"
+      ]
     },
     {
       "name": "John Densmore",
       "targetId": "1553",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1059",
+        "1060"
+      ]
     },
     {
       "name": "Lonnie Mack",
       "targetId": "1554",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "John Sebastian",
       "targetId": "1555",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
     },
     {
       "name": "Marc Benno",
       "targetId": "1556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1060"
+      ]
     },
     {
       "name": "Scott Stapp",
       "targetId": "8390",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9095"
+      ]
     },
     {
       "name": "Brian Marshall",
       "targetId": "8391",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9095"
+      ]
     },
     {
       "name": "Scott Phillips",
       "targetId": "8392",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9095"
+      ]
     },
     {
       "name": "Mark Tremonti",
       "targetId": "8393",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9095"
+      ]
     }
   ]
 }

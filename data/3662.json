@@ -1,61 +1,171 @@
 {
   "source": "Gary Craig",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3529",
+      "names": [
+        "Buffalo"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3532",
+      "names": [
+        "Alicia Ross"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3537",
+      "names": [
+        "Oh, Canada"
+      ],
+      "releases": [
+        {
+          "_id": "717",
+          "names": [
+            "Asking For Flowers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "555",
+          "names": [
+            "Kathleen Edwards"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3529"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3532",
+        "3537"
+      ]
     },
     {
       "name": "Greg Leisz",
       "targetId": "1061",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3537"
+      ]
     },
     {
       "name": "Kathleen Edwards",
       "targetId": "3661",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3529",
+        "3532",
+        "3537"
+      ]
     },
     {
       "name": "Colin Cripps",
       "targetId": "3663",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3529",
+        "3532",
+        "3537"
+      ]
     },
     {
       "name": "Jim Bryson",
       "targetId": "3664",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3529"
+      ]
     },
     {
       "name": "Anne Lindsay",
       "targetId": "3665",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3529",
+        "3532"
+      ]
     },
     {
       "name": "Johann Lotter",
       "targetId": "3666",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3529",
+        "3532"
+      ]
     },
     {
       "name": "Kevin Fox",
       "targetId": "3667",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3529",
+        "3532"
+      ]
     },
     {
       "name": "Paul Reddick",
       "targetId": "3669",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3532"
+      ]
     },
     {
       "name": "Paul Bryan",
       "targetId": "3672",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3532",
+        "3537"
+      ]
     }
   ]
 }

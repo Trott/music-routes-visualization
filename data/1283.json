@@ -1,16 +1,70 @@
 {
   "source": "Kermit The Frog",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "877",
+      "names": [
+        "Disco Frog"
+      ],
+      "releases": [
+        {
+          "_id": "273",
+          "names": [
+            "Sesame Disco!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "878",
+      "names": [
+        "Bein' Green"
+      ],
+      "releases": [
+        {
+          "_id": "273",
+          "names": [
+            "Sesame Disco!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Richard Crooks",
       "targetId": "1270",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "877",
+        "878"
+      ]
     },
     {
       "name": "Gordon Johnson",
       "targetId": "1284",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "877",
+        "878"
+      ]
     }
   ]
 }

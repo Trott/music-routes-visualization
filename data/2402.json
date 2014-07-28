@@ -1,31 +1,137 @@
 {
   "source": "Miho Hatori",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "2062",
+      "names": [
+        "Re-Hash"
+      ],
+      "releases": [
+        {
+          "_id": "470",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "351",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2064",
+      "names": [
+        "19-2000"
+      ],
+      "releases": [
+        {
+          "_id": "470",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "351",
+          "names": [
+            "Gorillaz"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3423",
+      "names": [
+        "Lindy-Lou"
+      ],
+      "releases": [
+        {
+          "_id": "698",
+          "names": [
+            "Hyacinths & Thistles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10167",
+      "names": [
+        "Clock Radio"
+      ],
+      "releases": [
+        {
+          "_id": "1954",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1512",
+          "names": [
+            "Action Figure Party"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Tina Weymouth",
       "targetId": "194",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2064"
+      ]
     },
     {
       "name": "Damon Albarn",
       "targetId": "2401",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2062",
+        "2064"
+      ]
     },
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3423"
+      ]
     },
     {
       "name": "Greg Kurstin",
       "targetId": "9044",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10167"
+      ]
     },
     {
       "name": "Fima Ephron",
       "targetId": "9300",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10167"
+      ]
     }
   ]
 }

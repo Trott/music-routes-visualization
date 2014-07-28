@@ -1,31 +1,120 @@
 {
   "source": "Mark Pender",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "10700",
+      "names": [
+        "D & W"
+      ],
+      "releases": [
+        {
+          "_id": "2047",
+          "names": [
+            "Here Come The ABCs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10701",
+      "names": [
+        "Rolling O"
+      ],
+      "releases": [
+        {
+          "_id": "2047",
+          "names": [
+            "Here Come The ABCs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10702",
+      "names": [
+        "Letter / Not A Letter"
+      ],
+      "releases": [
+        {
+          "_id": "2047",
+          "names": [
+            "Here Come The ABCs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10700",
+        "10701",
+        "10702"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10700",
+        "10701",
+        "10702"
+      ]
     },
     {
       "name": "Dan Levine",
       "targetId": "3686",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "10700",
+        "10701",
+        "10702"
+      ]
     },
     {
       "name": "Desi Tomaselli",
       "targetId": "9531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10702"
+      ]
     },
     {
       "name": "Henry Linnell",
       "targetId": "9532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10702"
+      ]
     }
   ]
 }

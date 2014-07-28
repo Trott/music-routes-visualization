@@ -1,36 +1,148 @@
 {
   "source": "Matthew Compton",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "7196",
+      "names": [
+        "Normal Guy (Interlude)"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7208",
+      "names": [
+        "Incredibad"
+      ],
+      "releases": [
+        {
+          "_id": "1421",
+          "names": [
+            "Incredibad"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1096",
+          "names": [
+            "The Lonely Island"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7782",
+      "names": [
+        "Stranger"
+      ],
+      "releases": [
+        {
+          "_id": "1534",
+          "names": [
+            "A Twist In My Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1175",
+          "names": [
+            "Secondhand Serenade"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7783",
+      "names": [
+        "Your Call"
+      ],
+      "releases": [
+        {
+          "_id": "1534",
+          "names": [
+            "A Twist In My Story"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1175",
+          "names": [
+            "Secondhand Serenade"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Andy Samberg",
       "targetId": "6928",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7196",
+        "7208"
+      ]
     },
     {
       "name": "Akiva Schaffer",
       "targetId": "6929",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7196",
+        "7208"
+      ]
     },
     {
       "name": "Jorma Taccone",
       "targetId": "6930",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7196",
+        "7208"
+      ]
     },
     {
       "name": "Brian Sperber",
       "targetId": "6931",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7208"
+      ]
     },
     {
       "name": "James Bairiam",
       "targetId": "6945",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7208"
+      ]
     },
     {
       "name": "John Vesely",
       "targetId": "7404",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7782",
+        "7783"
+      ]
     }
   ]
 }

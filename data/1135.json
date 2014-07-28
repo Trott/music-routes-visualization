@@ -1,71 +1,465 @@
 {
   "source": "Bob Moore",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "730",
+      "names": [
+        "Crazy"
+      ],
+      "releases": [
+        {
+          "_id": "251",
+          "names": [
+            "Showcase-With The Jordanaires"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "175",
+          "names": [
+            "Patsy Cline"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4208",
+      "names": [
+        "Hound Dog"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4209",
+      "names": [
+        "Loving You"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4210",
+      "names": [
+        "Money Honey"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4211",
+      "names": [
+        "My Baby Left Me"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4212",
+      "names": [
+        "Heartbreak Hotel"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4213",
+      "names": [
+        "That's All Right"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4214",
+      "names": [
+        "Milk Cow Blues"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4215",
+      "names": [
+        "Don't"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4216",
+      "names": [
+        "Mystery Train"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4217",
+      "names": [
+        "Don't Be Cruel"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4218",
+      "names": [
+        "Love Me Tender"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4219",
+      "names": [
+        "Mean Woman Blues"
+      ],
+      "releases": [
+        {
+          "_id": "848",
+          "names": [
+            "The Guitar That Changed The World"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "670",
+          "names": [
+            "Scotty Moore"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Scotty Moore",
       "targetId": "2",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "4208",
+        "4209",
+        "4210",
+        "4211",
+        "4212",
+        "4213",
+        "4214",
+        "4215",
+        "4216",
+        "4217",
+        "4218",
+        "4219"
+      ]
     },
     {
       "name": "D.J. Fontana",
       "targetId": "8",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "4208",
+        "4209",
+        "4210",
+        "4211",
+        "4212",
+        "4213",
+        "4214",
+        "4215",
+        "4216",
+        "4217",
+        "4218",
+        "4219"
+      ]
     },
     {
       "name": "Floyd Cramer",
       "targetId": "9",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "730"
+      ]
     },
     {
       "name": "Patsy Cline",
       "targetId": "1128",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "730"
+      ]
     },
     {
       "name": "Harold Bradley",
       "targetId": "1129",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "730"
+      ]
     },
     {
       "name": "Owen Bradley",
       "targetId": "1130",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "730"
+      ]
     },
     {
       "name": "Buddy Harman",
       "targetId": "1131",
-      "trackCount": 13
+      "trackCount": 13,
+      "tracks": [
+        "730",
+        "4208",
+        "4209",
+        "4210",
+        "4211",
+        "4212",
+        "4213",
+        "4214",
+        "4215",
+        "4216",
+        "4217",
+        "4218",
+        "4219"
+      ]
     },
     {
       "name": "Walter Haynes",
       "targetId": "1132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "730"
+      ]
     },
     {
       "name": "Randy Hughes",
       "targetId": "1133",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "730"
+      ]
     },
     {
       "name": "Grady Martin",
       "targetId": "1134",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "730"
+      ]
     },
     {
       "name": "Boots Randolph",
       "targetId": "4399",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "4208",
+        "4209",
+        "4210",
+        "4211",
+        "4212",
+        "4213",
+        "4214",
+        "4215",
+        "4216",
+        "4217",
+        "4218",
+        "4219"
+      ]
     },
     {
       "name": "Jerry Kennedy",
       "targetId": "4400",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "4208",
+        "4209",
+        "4210",
+        "4211",
+        "4212",
+        "4213",
+        "4214",
+        "4215",
+        "4216",
+        "4217",
+        "4218",
+        "4219"
+      ]
     },
     {
       "name": "Bill Pursell",
       "targetId": "4401",
-      "trackCount": 12
+      "trackCount": 12,
+      "tracks": [
+        "4208",
+        "4209",
+        "4210",
+        "4211",
+        "4212",
+        "4213",
+        "4214",
+        "4215",
+        "4216",
+        "4217",
+        "4218",
+        "4219"
+      ]
     }
   ]
 }

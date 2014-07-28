@@ -1,56 +1,180 @@
 {
   "source": "Ross Valory",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "59",
+      "names": [
+        "For You"
+      ],
+      "releases": [
+        {
+          "_id": "51",
+          "names": [
+            "Time Cubed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "77",
+      "names": [
+        "Rock Love"
+      ],
+      "releases": [
+        {
+          "_id": "69",
+          "names": [
+            "Rock Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "56",
+          "names": [
+            "Steve Miller Band"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2085",
+      "names": [
+        "Don't Stop Believin'"
+      ],
+      "releases": [
+        {
+          "_id": "476",
+          "names": [
+            "Escape"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4451",
+      "names": [
+        "Self Defense"
+      ],
+      "releases": [
+        {
+          "_id": "891",
+          "names": [
+            "Here To Stay"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "703",
+          "names": [
+            "Schon & Hammer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steve Perry",
       "targetId": "71",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2085",
+        "4451"
+      ]
     },
     {
       "name": "Neal Schon",
       "targetId": "174",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "59",
+        "2085",
+        "4451"
+      ]
     },
     {
       "name": "Robert Fleischman",
       "targetId": "261",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "59"
+      ]
     },
     {
       "name": "Gregg Rolie",
       "targetId": "263",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "59"
+      ]
     },
     {
       "name": "Aynsley Dunbar",
       "targetId": "264",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "59"
+      ]
     },
     {
       "name": "Steve Miller",
       "targetId": "326",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "77"
+      ]
     },
     {
       "name": "Jack King",
       "targetId": "332",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "77"
+      ]
     },
     {
       "name": "Jonathan Cain",
       "targetId": "1745",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2085"
+      ]
     },
     {
       "name": "Steve Smith",
       "targetId": "2447",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2085",
+        "4451"
+      ]
     },
     {
       "name": "Jan Hammer",
       "targetId": "4559",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4451"
+      ]
     }
   ]
 }

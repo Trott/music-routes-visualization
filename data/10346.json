@@ -1,31 +1,95 @@
 {
   "source": "Gary Breit",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12699",
+      "names": [
+        "Flower Grown Wild"
+      ],
+      "releases": [
+        {
+          "_id": "2276",
+          "names": [
+            "11"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12719",
+      "names": [
+        "Tonight We Have The Stars"
+      ],
+      "releases": [
+        {
+          "_id": "2276",
+          "names": [
+            "11"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1642",
+          "names": [
+            "Bryan Adams"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mickey Curry",
       "targetId": "1289",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12719"
+      ]
     },
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12699",
+        "12719"
+      ]
     },
     {
       "name": "Bryan Adams",
       "targetId": "2449",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12699",
+        "12719"
+      ]
     },
     {
       "name": "Colin Cripps",
       "targetId": "3663",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12699",
+        "12719"
+      ]
     },
     {
       "name": "Eliot Kennedy",
       "targetId": "10347",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12699"
+      ]
     }
   ]
 }

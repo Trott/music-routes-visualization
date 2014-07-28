@@ -1,36 +1,106 @@
 {
   "source": "Sly Stone",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "13446",
+      "names": [
+        "Everyday People"
+      ],
+      "releases": [
+        {
+          "_id": "2468",
+          "names": [
+            "Stand!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1754",
+          "names": [
+            "Sly And The Family Stone"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13454",
+      "names": [
+        "Dance To The Music"
+      ],
+      "releases": [
+        {
+          "_id": "2473",
+          "names": [
+            "Dance To The Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1754",
+          "names": [
+            "Sly And The Family Stone"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Greg Errico",
       "targetId": "3409",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13446",
+        "13454"
+      ]
     },
     {
       "name": "Rose Stone",
       "targetId": "7539",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13446",
+        "13454"
+      ]
     },
     {
       "name": "Larry Graham",
       "targetId": "10409",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13446",
+        "13454"
+      ]
     },
     {
       "name": "Freddie Stone",
       "targetId": "11011",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13446",
+        "13454"
+      ]
     },
     {
       "name": "Cynthia Robinson",
       "targetId": "11012",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13446",
+        "13454"
+      ]
     },
     {
       "name": "Jerry Martini",
       "targetId": "11013",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13446",
+        "13454"
+      ]
     }
   ]
 }

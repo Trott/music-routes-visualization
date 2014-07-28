@@ -1,41 +1,108 @@
 {
   "source": "Suzi Gardner",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "4976",
+      "names": [
+        "Freezer Burn"
+      ],
+      "releases": [
+        {
+          "_id": "999",
+          "names": [
+            "Slap-Happy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "790",
+          "names": [
+            "L7"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4977",
+      "names": [
+        "Slip It In"
+      ],
+      "releases": [
+        {
+          "_id": "1000",
+          "names": [
+            "Slip It In"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "235",
+          "names": [
+            "Black Flag"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Henry Rollins",
       "targetId": "185",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4977"
+      ]
     },
     {
       "name": "Bill Stevenson",
       "targetId": "733",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4977"
+      ]
     },
     {
       "name": "Kira Roessler",
       "targetId": "1619",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4977"
+      ]
     },
     {
       "name": "Greg Ginn",
       "targetId": "1621",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4977"
+      ]
     },
     {
       "name": "Gail Greenwood",
       "targetId": "5106",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4976"
+      ]
     },
     {
       "name": "Dee Plakas",
       "targetId": "5108",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4976"
+      ]
     },
     {
       "name": "Donita Sparks",
       "targetId": "5109",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4976"
+      ]
     }
   ]
 }

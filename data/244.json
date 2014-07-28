@@ -1,66 +1,242 @@
 {
   "source": "Loretta Lynn",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "50",
+      "names": [
+        "Count On Me"
+      ],
+      "releases": [
+        {
+          "_id": "43",
+          "names": [
+            "Sesame Country"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "38",
+          "names": [
+            "Sesame Street"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "52",
+      "names": [
+        "I'm A Honky Tonk Girl"
+      ],
+      "releases": [
+        {
+          "_id": "44",
+          "names": [
+            "Honky Tonk Girl: The Loretta Lynn Collection"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "39",
+          "names": [
+            "Loretta Lynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "56",
+      "names": [
+        "Portland Oregon"
+      ],
+      "releases": [
+        {
+          "_id": "48",
+          "names": [
+            "Van Lear Rose"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "39",
+          "names": [
+            "Loretta Lynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "189",
+      "names": [
+        "Silver Threads and Golden Needles"
+      ],
+      "releases": [
+        {
+          "_id": "144",
+          "names": [
+            "Honky Tonk Angels"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "102",
+          "names": [
+            "Dolly Parton, Loretta Lynn & Tammy Wynette"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3750",
+      "names": [
+        "Country Music Has The Blues"
+      ],
+      "releases": [
+        {
+          "_id": "752",
+          "names": [
+            "Wanna Be Your Joe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "585",
+          "names": [
+            "Billy Ray Cyrus"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13233",
+      "names": [
+        "It's Only Make Believe"
+      ],
+      "releases": [
+        {
+          "_id": "2389",
+          "names": [
+            "We Only Make Believe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "39",
+          "names": [
+            "Loretta Lynn"
+          ]
+        },
+        {
+          "_id": "1699",
+          "names": [
+            "Conway Twitty"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "The Count",
       "targetId": "245",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "50"
+      ]
     },
     {
       "name": "Speedy West",
       "targetId": "247",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Roy Lanham",
       "targetId": "248",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Harold Hensley",
       "targetId": "249",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Roy Harte",
       "targetId": "250",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Billy Liebert",
       "targetId": "251",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "52"
+      ]
     },
     {
       "name": "Jack White",
       "targetId": "256",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "56"
+      ]
     },
     {
       "name": "Dolly Parton",
       "targetId": "569",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "189"
+      ]
     },
     {
       "name": "Billy Ray Cyrus",
       "targetId": "574",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3750"
+      ]
     },
     {
       "name": "Tammy Wynette",
       "targetId": "578",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "189"
+      ]
     },
     {
       "name": "George Jones",
       "targetId": "3856",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3750"
+      ]
     },
     {
       "name": "Conway Twitty",
       "targetId": "10747",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13233"
+      ]
     }
   ]
 }

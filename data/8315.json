@@ -1,16 +1,46 @@
 {
   "source": "Noel \"Paul\" Stookey",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9029",
+      "names": [
+        "Leaving On A Jet Plane"
+      ],
+      "releases": [
+        {
+          "_id": "1722",
+          "names": [
+            "Album 1700"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1318",
+          "names": [
+            "Peter, Paul And Mary"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Peter Yarrow",
       "targetId": "8314",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9029"
+      ]
     },
     {
       "name": "Mary Travers",
       "targetId": "8316",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9029"
+      ]
     }
   ]
 }

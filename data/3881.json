@@ -1,41 +1,160 @@
 {
   "source": "Ian Broudie",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3773",
+      "names": [
+        "Nothing Special"
+      ],
+      "releases": [
+        {
+          "_id": "761",
+          "names": [
+            "From Y To Z And Never Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "593",
+          "names": [
+            "Big In Japan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3774",
+      "names": [
+        "Cindy And The Barbi Dolls"
+      ],
+      "releases": [
+        {
+          "_id": "761",
+          "names": [
+            "From Y To Z And Never Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "593",
+          "names": [
+            "Big In Japan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3775",
+      "names": [
+        "Suicide A Go Go"
+      ],
+      "releases": [
+        {
+          "_id": "761",
+          "names": [
+            "From Y To Z And Never Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "593",
+          "names": [
+            "Big In Japan"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3776",
+      "names": [
+        "Taxi"
+      ],
+      "releases": [
+        {
+          "_id": "761",
+          "names": [
+            "From Y To Z And Never Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "593",
+          "names": [
+            "Big In Japan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Holly Johnson",
       "targetId": "133",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3775",
+        "3776"
+      ]
     },
     {
       "name": "Budgie",
       "targetId": "364",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3773",
+        "3776"
+      ]
     },
     {
       "name": "David Balfe",
       "targetId": "3878",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3773",
+        "3774"
+      ]
     },
     {
       "name": "Bill Drummond",
       "targetId": "3880",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3773",
+        "3774",
+        "3775",
+        "3776"
+      ]
     },
     {
       "name": "Jayne Casey",
       "targetId": "3882",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3773",
+        "3775",
+        "3776"
+      ]
     },
     {
       "name": "Phill Allan",
       "targetId": "3883",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3775"
+      ]
     },
     {
       "name": "Kev Ward",
       "targetId": "3884",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3775"
+      ]
     }
   ]
 }

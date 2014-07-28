@@ -1,16 +1,46 @@
 {
   "source": "Vybz Kartel",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8829",
+      "names": [
+        "Bad Man"
+      ],
+      "releases": [
+        {
+          "_id": "1694",
+          "names": [
+            "The Cookbook"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1304",
+          "names": [
+            "Missy Elliott"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Missy Elliott",
       "targetId": "8203",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8829"
+      ]
     },
     {
       "name": "M.I.A.",
       "targetId": "8205",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8829"
+      ]
     }
   ]
 }

@@ -1,46 +1,376 @@
 {
   "source": "Cliff Martinez",
   "trackCount": 12,
+  "tracks": [
+    {
+      "_id": "176",
+      "names": [
+        "True Men Don't Kill Coyotes"
+      ],
+      "releases": [
+        {
+          "_id": "133",
+          "names": [
+            "Red Hot Chili Peppers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "96",
+          "names": [
+            "Red Hot Chili Peppers"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "859",
+      "names": [
+        "Ice Cream For Crow"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "860",
+      "names": [
+        "The Host The Ghost The Most Holy-O"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "861",
+      "names": [
+        "Semi-Multicolored Caucasian"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "862",
+      "names": [
+        "Hey Garland, I Dig Your Tweed Coat"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "863",
+      "names": [
+        "Evening Bell"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "864",
+      "names": [
+        "Cardboard Cutout Sundown"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "865",
+      "names": [
+        "The Past Sure Is Tense"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "866",
+      "names": [
+        "Ink Mathematics"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "867",
+      "names": [
+        "The Witch Doctor Life"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "868",
+      "names": [
+        "\"81\" Poop Hatch"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "869",
+      "names": [
+        "The Thousandth And Tenth Day Of The Human Totem Pole"
+      ],
+      "releases": [
+        {
+          "_id": "268",
+          "names": [
+            "Ice Cream For Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "189",
+          "names": [
+            "Captain Beefheart"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flea",
       "targetId": "553",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "176"
+      ]
     },
     {
       "name": "Jack Sherman",
       "targetId": "556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "176"
+      ]
     },
     {
       "name": "Captain Beefheart",
       "targetId": "817",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "859",
+        "860",
+        "861",
+        "862",
+        "863",
+        "864",
+        "865",
+        "866",
+        "867",
+        "868",
+        "869"
+      ]
     },
     {
       "name": "Jeff Moris Tepper",
       "targetId": "1251",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "859",
+        "860",
+        "861",
+        "862",
+        "863",
+        "864",
+        "865",
+        "866",
+        "867",
+        "868",
+        "869"
+      ]
     },
     {
       "name": "Gary Lucas",
       "targetId": "1252",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "859",
+        "860",
+        "861",
+        "862",
+        "863",
+        "864",
+        "865",
+        "866",
+        "867",
+        "868",
+        "869"
+      ]
     },
     {
       "name": "Richard Snyder",
       "targetId": "1253",
-      "trackCount": 11
+      "trackCount": 11,
+      "tracks": [
+        "859",
+        "860",
+        "861",
+        "862",
+        "863",
+        "864",
+        "865",
+        "866",
+        "867",
+        "868",
+        "869"
+      ]
     },
     {
       "name": "Eric Drew Feldman",
       "targetId": "1255",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "869"
+      ]
     },
     {
       "name": "Anthony Kiedis",
       "targetId": "1728",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "176"
+      ]
     }
   ]
 }

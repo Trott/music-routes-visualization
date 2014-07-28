@@ -1,11 +1,38 @@
 {
   "source": "Rob Sonic",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9939",
+      "names": [
+        "Dark Heart News"
+      ],
+      "releases": [
+        {
+          "_id": "1911",
+          "names": [
+            "None Shall Pass"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1480",
+          "names": [
+            "Aesop Rock"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aesop Rock",
       "targetId": "9136",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9939"
+      ]
     }
   ]
 }

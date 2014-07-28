@@ -1,16 +1,46 @@
 {
   "source": "Vincent J. Alvis",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6849",
+      "names": [
+        "Y.O.U."
+      ],
+      "releases": [
+        {
+          "_id": "1363",
+          "names": [
+            "\"Y.O.U.\" single"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1052",
+          "names": [
+            "Fully Loaded"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Todd Edwards",
       "targetId": "5946",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6849"
+      ]
     },
     {
       "name": "Karl \"Tuff Enuff\" Brown",
       "targetId": "6693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6849"
+      ]
     }
   ]
 }

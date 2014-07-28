@@ -1,36 +1,100 @@
 {
   "source": "Whitney Houston",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5648",
+      "names": [
+        "Memories"
+      ],
+      "releases": [
+        {
+          "_id": "1116",
+          "names": [
+            "One Down"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "871",
+          "names": [
+            "Material"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6340",
+      "names": [
+        "It Isn't, It Wasn't, It Ain't Never Gonna Be"
+      ],
+      "releases": [
+        {
+          "_id": "1264",
+          "names": [
+            "Jewels In The Crown: All-Star Duets With The Queen"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "725",
+          "names": [
+            "Aretha Franklin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Aretha Franklin",
       "targetId": "1765",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6340"
+      ]
     },
     {
       "name": "Bill Laswell",
       "targetId": "2205",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     },
     {
       "name": "Michael Beinhorn",
       "targetId": "5659",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     },
     {
       "name": "Yogi Horton",
       "targetId": "5660",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     },
     {
       "name": "Raymond Jones",
       "targetId": "5661",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     },
     {
       "name": "Archie Shepp",
       "targetId": "5662",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5648"
+      ]
     }
   ]
 }

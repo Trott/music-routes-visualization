@@ -1,121 +1,310 @@
 {
   "source": "Ella Fitzgerald",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "1489",
+      "names": [
+        "Put Your Dreams Away"
+      ],
+      "releases": [
+        {
+          "_id": "356",
+          "names": [
+            "Classic Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1490",
+      "names": [
+        "Moonlight In Vermont / I May Be Wrong"
+      ],
+      "releases": [
+        {
+          "_id": "356",
+          "names": [
+            "Classic Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1506",
+      "names": [
+        "Can't We Be Friends?"
+      ],
+      "releases": [
+        {
+          "_id": "356",
+          "names": [
+            "Classic Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "251",
+          "names": [
+            "Frank Sinatra"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2253",
+      "names": [
+        "Too Close For Comfort"
+      ],
+      "releases": [
+        {
+          "_id": "559",
+          "names": [
+            "One O'Clock Jump"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "426",
+          "names": [
+            "Ella Fitzgerald, Count Basie & Joe Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9250",
+      "names": [
+        "Can't We Be Friends?"
+      ],
+      "releases": [
+        {
+          "_id": "1788",
+          "names": [
+            "The Complete Ella Fitzgerald & Louis Armstrong On Verve"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "950",
+          "names": [
+            "Louis Armstrong"
+          ]
+        },
+        {
+          "_id": "1384",
+          "names": [
+            "Ella Fitzgerald"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frank Sinatra",
       "targetId": "1763",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1489",
+        "1490",
+        "1506"
+      ]
     },
     {
       "name": "Louis Armstrong",
       "targetId": "1785",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9250"
+      ]
     },
     {
       "name": "Ray Brown",
       "targetId": "1925",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9250"
+      ]
     },
     {
       "name": "Oscar Peterson",
       "targetId": "2491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9250"
+      ]
     },
     {
       "name": "Count Basie",
       "targetId": "2745",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Joe Williams",
       "targetId": "2746",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Wendell Culley",
       "targetId": "2747",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Thad Jones",
       "targetId": "2748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Reunald Jones",
       "targetId": "2749",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Joe Newman",
       "targetId": "2750",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Henry Coker",
       "targetId": "2751",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Bill Hughes",
       "targetId": "2752",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Benny Powell",
       "targetId": "2753",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Frank Foster",
       "targetId": "2754",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Charlie Fowlkes",
       "targetId": "2755",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Bill Graham",
       "targetId": "2756",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Freddie Green",
       "targetId": "2757",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Frank Wess",
       "targetId": "2758",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Sonny Payne",
       "targetId": "2759",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Marshall Royal",
       "targetId": "2760",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Eddie Jones",
       "targetId": "2761",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2253"
+      ]
     },
     {
       "name": "Herb Ellis",
       "targetId": "7153",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9250"
+      ]
     },
     {
       "name": "Buddy Rich",
       "targetId": "8663",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9250"
+      ]
     }
   ]
 }

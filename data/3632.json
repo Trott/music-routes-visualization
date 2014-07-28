@@ -1,16 +1,46 @@
 {
   "source": "Rachel Benbow Murdy",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3471",
+      "names": [
+        "Janine"
+      ],
+      "releases": [
+        {
+          "_id": "15",
+          "names": [
+            "Ruby Vroom"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "15",
+          "names": [
+            "Soul Coughing"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Doughty",
       "targetId": "36",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3471"
+      ]
     },
     {
       "name": "Sebastian Steinberg",
       "targetId": "37",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3471"
+      ]
     }
   ]
 }

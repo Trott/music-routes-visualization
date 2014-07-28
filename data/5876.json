@@ -1,16 +1,100 @@
 {
   "source": "Mary Wilson",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "5939",
+      "names": [
+        "Stop! In The Name Of Love"
+      ],
+      "releases": [
+        {
+          "_id": "1183",
+          "names": [
+            "More Hits By The Supremes"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "921",
+          "names": [
+            "The Supremes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10807",
+      "names": [
+        "Reflections"
+      ],
+      "releases": [
+        {
+          "_id": "2027",
+          "names": [
+            "Best Of Motown I [Disc 1]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "33",
+          "names": [
+            "Diana Ross"
+          ]
+        },
+        {
+          "_id": "921",
+          "names": [
+            "The Supremes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10809",
+      "names": [
+        "You Can't Hurry Love"
+      ],
+      "releases": [
+        {
+          "_id": "2064",
+          "names": [
+            "Best Of Motown I [Disc 2]"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "921",
+          "names": [
+            "The Supremes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Diana Ross",
       "targetId": "78",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5939",
+        "10807",
+        "10809"
+      ]
     },
     {
       "name": "Florence Ballard",
       "targetId": "5875",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "5939",
+        "10807",
+        "10809"
+      ]
     }
   ]
 }

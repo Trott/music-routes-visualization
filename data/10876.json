@@ -1,21 +1,54 @@
 {
   "source": "Kelly Price",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13386",
+      "names": [
+        "Mo Money Mo Problems"
+      ],
+      "releases": [
+        {
+          "_id": "2432",
+          "names": [
+            "Life After Death"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1733",
+          "names": [
+            "Notorious B.I.G."
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sean Combs",
       "targetId": "2678",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13386"
+      ]
     },
     {
       "name": "Notorious B.I.G.",
       "targetId": "10874",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13386"
+      ]
     },
     {
       "name": "Mase",
       "targetId": "10875",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13386"
+      ]
     }
   ]
 }

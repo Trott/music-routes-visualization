@@ -1,16 +1,46 @@
 {
   "source": "Vicky Sandström",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9236",
+      "names": [
+        "I Got You"
+      ],
+      "releases": [
+        {
+          "_id": "1782",
+          "names": [
+            "Echo"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1378",
+          "names": [
+            "Leona Lewis"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Leona Lewis",
       "targetId": "8073",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9236"
+      ]
     },
     {
       "name": "Esbjörn Öhrwall",
       "targetId": "8647",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9236"
+      ]
     }
   ]
 }

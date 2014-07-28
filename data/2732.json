@@ -1,26 +1,62 @@
 {
   "source": "Glen Buxton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2247",
+      "names": [
+        "School's Out"
+      ],
+      "releases": [
+        {
+          "_id": "553",
+          "names": [
+            "School's Out"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "194",
+          "names": [
+            "Alice Cooper"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alice Cooper",
       "targetId": "1285",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2247"
+      ]
     },
     {
       "name": "Dennis Dunaway",
       "targetId": "2729",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2247"
+      ]
     },
     {
       "name": "Neal Smith",
       "targetId": "2730",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2247"
+      ]
     },
     {
       "name": "Michael Bruce",
       "targetId": "2731",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2247"
+      ]
     }
   ]
 }

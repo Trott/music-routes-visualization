@@ -1,26 +1,62 @@
 {
   "source": "Teddy Kotick",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12184",
+      "names": [
+        "K.C. Blues"
+      ],
+      "releases": [
+        {
+          "_id": "2193",
+          "names": [
+            "Compact Jazz"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "465",
+          "names": [
+            "Charlie Parker"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Miles Davis",
       "targetId": "1044",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12184"
+      ]
     },
     {
       "name": "Charlie Parker",
       "targetId": "1934",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12184"
+      ]
     },
     {
       "name": "Max Roach",
       "targetId": "2950",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12184"
+      ]
     },
     {
       "name": "Walter Bishop",
       "targetId": "10148",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12184"
+      ]
     }
   ]
 }

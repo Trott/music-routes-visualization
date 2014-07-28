@@ -1,41 +1,113 @@
 {
   "source": "Graham Maby",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "2584",
+      "names": [
+        "No One Knows My Plan"
+      ],
+      "releases": [
+        {
+          "_id": "616",
+          "names": [
+            "John Henry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2587",
+      "names": [
+        "A Self Called Nowhere"
+      ],
+      "releases": [
+        {
+          "_id": "616",
+          "names": [
+            "John Henry"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Quine",
       "targetId": "2770",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2584"
+      ]
     },
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2584",
+        "2587"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2584",
+        "2587"
+      ]
     },
     {
       "name": "Brian Doherty",
       "targetId": "3070",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2584",
+        "2587"
+      ]
     },
     {
       "name": "Kurt Hoffman",
       "targetId": "3072",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2584",
+        "2587"
+      ]
     },
     {
       "name": "Kevin Osborne",
       "targetId": "3073",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2584"
+      ]
     },
     {
       "name": "Steven Bernstein",
       "targetId": "3075",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2584",
+        "2587"
+      ]
     }
   ]
 }

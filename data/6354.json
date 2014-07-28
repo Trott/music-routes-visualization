@@ -1,26 +1,62 @@
 {
   "source": "Pete Finney",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6518",
+      "names": [
+        "This Road Is Long"
+      ],
+      "releases": [
+        {
+          "_id": "1307",
+          "names": [
+            "Leaving Songs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1010",
+          "names": [
+            "Stuart A. Staples"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Maria McKee",
       "targetId": "2215",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6518"
+      ]
     },
     {
       "name": "Volker Zander",
       "targetId": "3974",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6518"
+      ]
     },
     {
       "name": "Stuart A. Staples",
       "targetId": "6352",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6518"
+      ]
     },
     {
       "name": "Todd Thompson",
       "targetId": "6353",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6518"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Dan Donegan",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6476",
+      "names": [
+        "Down With The Sickness"
+      ],
+      "releases": [
+        {
+          "_id": "1293",
+          "names": [
+            "The Sickness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "999",
+          "names": [
+            "Disturbed"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Draiman",
       "targetId": "6319",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6476"
+      ]
     },
     {
       "name": "Steve \"Fuzz\" Kmak",
       "targetId": "6321",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6476"
+      ]
     },
     {
       "name": "Mike Wengren",
       "targetId": "6322",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6476"
+      ]
     }
   ]
 }

@@ -1,166 +1,579 @@
 {
   "source": "Harry Nilsson",
   "trackCount": 13,
+  "tracks": [
+    {
+      "_id": "2802",
+      "names": [
+        "Gotta Get Up"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2803",
+      "names": [
+        "Driving Along"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2804",
+      "names": [
+        "Early In The Morning"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2805",
+      "names": [
+        "The Moonbeam Song"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2806",
+      "names": [
+        "Down"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2807",
+      "names": [
+        "Without You"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2808",
+      "names": [
+        "Coconut"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2809",
+      "names": [
+        "Let The Good Times Roll"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2810",
+      "names": [
+        "Jump Into The Fire"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2811",
+      "names": [
+        "I'll Never Leave You"
+      ],
+      "releases": [
+        {
+          "_id": "639",
+          "names": [
+            "Nilsson Schmilsson"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4476",
+      "names": [
+        "No No Song"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4477",
+      "names": [
+        "Only You (And You Alone)"
+      ],
+      "releases": [
+        {
+          "_id": "894",
+          "names": [
+            "Goodnight Vienna"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "243",
+          "names": [
+            "Ringo Starr"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13436",
+      "names": [
+        "Everybody's Talkin'"
+      ],
+      "releases": [
+        {
+          "_id": "2462",
+          "names": [
+            "Greatest Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "500",
+          "names": [
+            "Harry Nilsson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4477"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4476",
+        "4477"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2806",
+        "2807",
+        "2809",
+        "4477"
+      ]
     },
     {
       "name": "Klaus Voormann",
       "targetId": "387",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "2802",
+        "2803",
+        "2805",
+        "2806",
+        "2807",
+        "2809",
+        "2810",
+        "4476"
+      ]
     },
     {
       "name": "Jim Gordon",
       "targetId": "522",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "2802",
+        "2803",
+        "2806",
+        "2808",
+        "2810",
+        "13436"
+      ]
     },
     {
       "name": "Herbie Flowers",
       "targetId": "800",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2803",
+        "2805",
+        "2808",
+        "2810"
+      ]
     },
     {
       "name": "Caleb Quaye",
       "targetId": "806",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2808"
+      ]
     },
     {
       "name": "Roger Pope",
       "targetId": "807",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2808"
+      ]
     },
     {
       "name": "Nicky Hopkins",
       "targetId": "985",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4476"
+      ]
     },
     {
       "name": "Richard Perry",
       "targetId": "987",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2802",
+        "2803"
+      ]
     },
     {
       "name": "Bobby Keys",
       "targetId": "993",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2806"
+      ]
     },
     {
       "name": "Jimmy Webb",
       "targetId": "998",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2810"
+      ]
     },
     {
       "name": "Larry Knechtel",
       "targetId": "1196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Arnold Belnick",
       "targetId": "1499",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Al Casey",
       "targetId": "1509",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Jerome Reisler",
       "targetId": "1512",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Darrel Terwilliger",
       "targetId": "1517",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Mike Melvoin",
       "targetId": "1527",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Billy Preston",
       "targetId": "1674",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4477"
+      ]
     },
     {
       "name": "Steve Cropper",
       "targetId": "1804",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4477"
+      ]
     },
     {
       "name": "John Uribe",
       "targetId": "3194",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2803",
+        "2805",
+        "2807",
+        "2810"
+      ]
     },
     {
       "name": "Chris Spedding",
       "targetId": "3195",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2802",
+        "2806",
+        "2809",
+        "2810"
+      ]
     },
     {
       "name": "Henry Krein",
       "targetId": "3196",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2802"
+      ]
     },
     {
       "name": "Jim Price",
       "targetId": "3197",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2802",
+        "2806"
+      ]
     },
     {
       "name": "Roger Coolan",
       "targetId": "3198",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2806"
+      ]
     },
     {
       "name": "Gary Wright",
       "targetId": "3199",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2807",
+        "2809"
+      ]
     },
     {
       "name": "Ian Duck",
       "targetId": "3200",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2808"
+      ]
     },
     {
       "name": "Jesse Ed Davis",
       "targetId": "4578",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4476",
+        "4477"
+      ]
     },
     {
       "name": "Trevor Lawrence",
       "targetId": "4579",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4476"
+      ]
     },
     {
       "name": "Alfred Lustgarten",
       "targetId": "10986",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Leonard Atkins",
       "targetId": "10987",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     },
     {
       "name": "Wilbert Nuttycombe",
       "targetId": "10988",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13436"
+      ]
     }
   ]
 }

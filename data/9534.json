@@ -1,16 +1,46 @@
 {
   "source": "Patrick Dillett",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10717",
+      "names": [
+        "Goodnight My Friends"
+      ],
+      "releases": [
+        {
+          "_id": "2047",
+          "names": [
+            "Here Come The ABCs"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Flansburgh",
       "targetId": "3067",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10717"
+      ]
     },
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10717"
+      ]
     }
   ]
 }

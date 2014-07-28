@@ -1,91 +1,247 @@
 {
   "source": "Mickey Raphael",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "249",
+      "names": [
+        "Songbird"
+      ],
+      "releases": [
+        {
+          "_id": "164",
+          "names": [
+            "Songbird"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "113",
+          "names": [
+            "Willie Nelson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8778",
+      "names": [
+        "It Ain't Me, Babe"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "31",
+          "names": [
+            "Johnny Cash"
+          ]
+        },
+        {
+          "_id": "1289",
+          "names": [
+            "June Carter Cash"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8779",
+      "names": [
+        "What Was It You Wanted"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "113",
+          "names": [
+            "Willie Nelson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8780",
+      "names": [
+        "I'll Be Your Baby Tonight"
+      ],
+      "releases": [
+        {
+          "_id": "1683",
+          "names": [
+            "Bob Dylan: The 30th Anniversary Concert Celebration"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1290",
+          "names": [
+            "Kris Kristofferson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Willie Nelson",
       "targetId": "68",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "249",
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Johnny Cash",
       "targetId": "222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8778"
+      ]
     },
     {
       "name": "Jim Keltner",
       "targetId": "288",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8778",
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Kris Kristofferson",
       "targetId": "570",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8780"
+      ]
     },
     {
       "name": "Benmont Tench",
       "targetId": "645",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Ryan Adams",
       "targetId": "655",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "249"
+      ]
     },
     {
       "name": "Jon Graboff",
       "targetId": "656",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "249"
+      ]
     },
     {
       "name": "Brad Pemberton",
       "targetId": "657",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "249"
+      ]
     },
     {
       "name": "Neal Casal",
       "targetId": "658",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "249"
+      ]
     },
     {
       "name": "Catherine Popper",
       "targetId": "659",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "249"
+      ]
     },
     {
       "name": "Glenn Patscha",
       "targetId": "660",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "249"
+      ]
     },
     {
       "name": "Anton Fig",
       "targetId": "1036",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "8778",
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Reggie Young",
       "targetId": "1102",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "Don Was",
       "targetId": "6055",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8779",
+        "8780"
+      ]
     },
     {
       "name": "June Carter Cash",
       "targetId": "8159",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8778"
+      ]
     },
     {
       "name": "G.E. Smith",
       "targetId": "8167",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8778"
+      ]
     },
     {
       "name": "Kerry Marx",
       "targetId": "8169",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8778"
+      ]
     }
   ]
 }

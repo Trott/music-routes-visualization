@@ -1,21 +1,54 @@
 {
   "source": "Jeff Rouse",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13344",
+      "names": [
+        "Lords Of Abbadon"
+      ],
+      "releases": [
+        {
+          "_id": "2412",
+          "names": [
+            "The Taking"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1719",
+          "names": [
+            "Duff McKagan's Loaded"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Duff McKagan",
       "targetId": "1570",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13344"
+      ]
     },
     {
       "name": "Mike Squires",
       "targetId": "10823",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13344"
+      ]
     },
     {
       "name": "Isaac Carpenter",
       "targetId": "10824",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13344"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Juan Patiño",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9506",
+      "names": [
+        "Snow Day"
+      ],
+      "releases": [
+        {
+          "_id": "1831",
+          "names": [
+            "Tails"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1421",
+          "names": [
+            "Lisa Loeb"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Loeb",
       "targetId": "8844",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9506"
+      ]
     }
   ]
 }

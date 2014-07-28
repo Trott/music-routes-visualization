@@ -1,11 +1,38 @@
 {
   "source": "Slim Thug",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8826",
+      "names": [
+        "Check On It"
+      ],
+      "releases": [
+        {
+          "_id": "1693",
+          "names": [
+            "#1's"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1303",
+          "names": [
+            "Beyoncé"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Beyoncé",
       "targetId": "8074",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8826"
+      ]
     }
   ]
 }

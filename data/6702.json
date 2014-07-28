@@ -1,11 +1,38 @@
 {
   "source": "Elephant Man",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6858",
+      "names": [
+        "Mad Man"
+      ],
+      "releases": [
+        {
+          "_id": "1366",
+          "names": [
+            "Cut To The Chase"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1054",
+          "names": [
+            "MJ Cole"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "MJ Cole",
       "targetId": "6696",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6858"
+      ]
     }
   ]
 }

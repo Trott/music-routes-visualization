@@ -1,36 +1,101 @@
 {
   "source": "Andy Chatterley",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6762",
+      "names": [
+        "Stronger"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6763",
+      "names": [
+        "Good Morning"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6762",
+        "6763"
+      ]
     },
     {
       "name": "Mike Dean",
       "targetId": "4032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6762"
+      ]
     },
     {
       "name": "Jay-Z",
       "targetId": "4339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6763"
+      ]
     },
     {
       "name": "Omar Edwards",
       "targetId": "6649",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6762"
+      ]
     },
     {
       "name": "Tony Williams",
       "targetId": "6651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6763"
+      ]
     },
     {
       "name": "Connie Mitchell",
       "targetId": "6652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6763"
+      ]
     }
   ]
 }

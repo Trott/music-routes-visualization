@@ -1,31 +1,70 @@
 {
   "source": "Pete Willis",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "486",
+      "names": [
+        "Rock Of Ages"
+      ],
+      "releases": [
+        {
+          "_id": "220",
+          "names": [
+            "Pyromania"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "154",
+          "names": [
+            "Def Leppard"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Thomas Dolby",
       "targetId": "859",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     },
     {
       "name": "Robert John \"Mutt\" Lange",
       "targetId": "864",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     },
     {
       "name": "Joe Elliott",
       "targetId": "947",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     },
     {
       "name": "Rick Savage",
       "targetId": "948",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     },
     {
       "name": "Rick Allen",
       "targetId": "951",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "486"
+      ]
     }
   ]
 }

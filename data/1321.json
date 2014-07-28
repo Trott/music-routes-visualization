@@ -1,151 +1,597 @@
 {
   "source": "Alphonso Johnson",
   "trackCount": 14,
+  "tracks": [
+    {
+      "_id": "901",
+      "names": [
+        "Good Morning Heartache"
+      ],
+      "releases": [
+        {
+          "_id": "276",
+          "names": [
+            "Tribute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "195",
+          "names": [
+            "Pauline Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "902",
+      "names": [
+        "Never Let Me Go"
+      ],
+      "releases": [
+        {
+          "_id": "276",
+          "names": [
+            "Tribute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "195",
+          "names": [
+            "Pauline Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "903",
+      "names": [
+        "Sentimental Mood"
+      ],
+      "releases": [
+        {
+          "_id": "276",
+          "names": [
+            "Tribute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "195",
+          "names": [
+            "Pauline Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "905",
+      "names": [
+        "The Nearness Of You"
+      ],
+      "releases": [
+        {
+          "_id": "276",
+          "names": [
+            "Tribute"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "195",
+          "names": [
+            "Pauline Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8767",
+      "names": [
+        "Love For Sale"
+      ],
+      "releases": [
+        {
+          "_id": "1682",
+          "names": [
+            "You Can't Go Home Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1285",
+          "names": [
+            "Chet Baker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8768",
+      "names": [
+        "Un Poco Loco"
+      ],
+      "releases": [
+        {
+          "_id": "1682",
+          "names": [
+            "You Can't Go Home Again"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1285",
+          "names": [
+            "Chet Baker"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9304",
+      "names": [
+        "Good Clean Filth"
+      ],
+      "releases": [
+        {
+          "_id": "1796",
+          "names": [
+            "Velvet Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1392",
+          "names": [
+            "Allan Holdsworth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9305",
+      "names": [
+        "Floppy Hat"
+      ],
+      "releases": [
+        {
+          "_id": "1796",
+          "names": [
+            "Velvet Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1392",
+          "names": [
+            "Allan Holdsworth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9306",
+      "names": [
+        "Wish"
+      ],
+      "releases": [
+        {
+          "_id": "1796",
+          "names": [
+            "Velvet Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1392",
+          "names": [
+            "Allan Holdsworth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9307",
+      "names": [
+        "Kinder"
+      ],
+      "releases": [
+        {
+          "_id": "1796",
+          "names": [
+            "Velvet Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1392",
+          "names": [
+            "Allan Holdsworth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9308",
+      "names": [
+        "Velvet Darkness"
+      ],
+      "releases": [
+        {
+          "_id": "1796",
+          "names": [
+            "Velvet Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1392",
+          "names": [
+            "Allan Holdsworth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9309",
+      "names": [
+        "Karzie Key"
+      ],
+      "releases": [
+        {
+          "_id": "1796",
+          "names": [
+            "Velvet Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1392",
+          "names": [
+            "Allan Holdsworth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9310",
+      "names": [
+        "Last May"
+      ],
+      "releases": [
+        {
+          "_id": "1796",
+          "names": [
+            "Velvet Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1392",
+          "names": [
+            "Allan Holdsworth"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9311",
+      "names": [
+        "Gattox"
+      ],
+      "releases": [
+        {
+          "_id": "1796",
+          "names": [
+            "Velvet Darkness"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1392",
+          "names": [
+            "Allan Holdsworth"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lenny Castro",
       "targetId": "405",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "901",
+        "903"
+      ]
     },
     {
       "name": "Larry Williams",
       "targetId": "414",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "901",
+        "902",
+        "903",
+        "905"
+      ]
     },
     {
       "name": "Michael Brecker",
       "targetId": "459",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Allan Holdsworth",
       "targetId": "461",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "9304",
+        "9305",
+        "9306",
+        "9307",
+        "9308",
+        "9309",
+        "9310",
+        "9311"
+      ]
     },
     {
       "name": "Ron Carter",
       "targetId": "1201",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Airto Moreira",
       "targetId": "1207",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "901",
+        "902",
+        "903",
+        "905"
+      ]
     },
     {
       "name": "Ralph MacDonald",
       "targetId": "1268",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8767"
+      ]
     },
     {
       "name": "Pauline Wilson",
       "targetId": "1318",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "901",
+        "902",
+        "903",
+        "905"
+      ]
     },
     {
       "name": "Jerry Hey",
       "targetId": "1322",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "901"
+      ]
     },
     {
       "name": "Alan Pasqua",
       "targetId": "2263",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "9304",
+        "9305",
+        "9306",
+        "9307",
+        "9308",
+        "9309",
+        "9310",
+        "9311"
+      ]
     },
     {
       "name": "Tony Williams",
       "targetId": "3839",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Hubert Laws",
       "targetId": "4230",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8768"
+      ]
     },
     {
       "name": "John Scofield",
       "targetId": "4610",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Chet Baker",
       "targetId": "8133",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Richard Beirach",
       "targetId": "8134",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "David Nadien",
       "targetId": "8135",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Rochelle Abramson",
       "targetId": "8136",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Max Ellen",
       "targetId": "8137",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Paul Gersham",
       "targetId": "8138",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Diana Halprin",
       "targetId": "8139",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Harold Kohon",
       "targetId": "8140",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Charles Libove",
       "targetId": "8141",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Marvin Morgenstern",
       "targetId": "8142",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Matthew Raimondi",
       "targetId": "8143",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Jesse Levy",
       "targetId": "8144",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Charles McCracken",
       "targetId": "8145",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Alan Shulman",
       "targetId": "8146",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "8767",
+        "8768"
+      ]
     },
     {
       "name": "Don Sebesky",
       "targetId": "8147",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8768"
+      ]
     },
     {
       "name": "Narada Michael Walden",
       "targetId": "8678",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "9304",
+        "9305",
+        "9306",
+        "9307",
+        "9308",
+        "9309",
+        "9310",
+        "9311"
+      ]
     }
   ]
 }

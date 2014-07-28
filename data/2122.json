@@ -1,66 +1,327 @@
 {
   "source": "East Bay Ray",
   "trackCount": 9,
+  "tracks": [
+    {
+      "_id": "1993",
+      "names": [
+        "Drug Me"
+      ],
+      "releases": [
+        {
+          "_id": "438",
+          "names": [
+            "Fresh Fruit For Rotting Vegetables"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "320",
+          "names": [
+            "The Dead Kennedys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2687",
+      "names": [
+        "Mersey Beach"
+      ],
+      "releases": [
+        {
+          "_id": "628",
+          "names": [
+            "Thingie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "491",
+          "names": [
+            "Jumbo Shrimp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2688",
+      "names": [
+        "Buddy Holly"
+      ],
+      "releases": [
+        {
+          "_id": "628",
+          "names": [
+            "Thingie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "491",
+          "names": [
+            "Jumbo Shrimp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2689",
+      "names": [
+        "Shrimp's Up"
+      ],
+      "releases": [
+        {
+          "_id": "628",
+          "names": [
+            "Thingie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "491",
+          "names": [
+            "Jumbo Shrimp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2690",
+      "names": [
+        "Trouble In Town"
+      ],
+      "releases": [
+        {
+          "_id": "628",
+          "names": [
+            "Thingie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "491",
+          "names": [
+            "Jumbo Shrimp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2691",
+      "names": [
+        "Intro"
+      ],
+      "releases": [
+        {
+          "_id": "628",
+          "names": [
+            "Thingie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "491",
+          "names": [
+            "Jumbo Shrimp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2692",
+      "names": [
+        "Plate Of Shrimp"
+      ],
+      "releases": [
+        {
+          "_id": "628",
+          "names": [
+            "Thingie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "491",
+          "names": [
+            "Jumbo Shrimp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2693",
+      "names": [
+        "Marsha"
+      ],
+      "releases": [
+        {
+          "_id": "628",
+          "names": [
+            "Thingie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "491",
+          "names": [
+            "Jumbo Shrimp"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9188",
+      "names": [
+        "Guitar Hero"
+      ],
+      "releases": [
+        {
+          "_id": "1768",
+          "names": [
+            "Who Killed Amanda Palmer"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1363",
+          "names": [
+            "Amanda Palmer"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ben Folds",
       "targetId": "180",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9188"
+      ]
     },
     {
       "name": "Paul Roessler",
       "targetId": "764",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1993"
+      ]
     },
     {
       "name": "Jello Biafra",
       "targetId": "2120",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1993"
+      ]
     },
     {
       "name": "Ted",
       "targetId": "2121",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1993"
+      ]
     },
     {
       "name": "Klaus Flouride",
       "targetId": "2123",
-      "trackCount": 8
+      "trackCount": 8,
+      "tracks": [
+        "1993",
+        "2687",
+        "2688",
+        "2689",
+        "2690",
+        "2691",
+        "2692",
+        "2693"
+      ]
     },
     {
       "name": "Ninotchka",
       "targetId": "2124",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1993"
+      ]
     },
     {
       "name": "Chuck Lindo",
       "targetId": "3146",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "2687",
+        "2688",
+        "2689",
+        "2690",
+        "2691",
+        "2692",
+        "2693"
+      ]
     },
     {
       "name": "Dave Scheff",
       "targetId": "3147",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "2687",
+        "2688",
+        "2689",
+        "2690",
+        "2691",
+        "2692",
+        "2693"
+      ]
     },
     {
       "name": "John Singer",
       "targetId": "3148",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "2687",
+        "2688",
+        "2689",
+        "2690",
+        "2691",
+        "2692",
+        "2693"
+      ]
     },
     {
       "name": "Amanda Palmer",
       "targetId": "8531",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9188"
+      ]
     },
     {
       "name": "Sam Bass",
       "targetId": "8544",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9188"
+      ]
     },
     {
       "name": "Laura Dean",
       "targetId": "8545",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9188"
+      ]
     }
   ]
 }

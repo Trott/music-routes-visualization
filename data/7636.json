@@ -1,26 +1,62 @@
 {
   "source": "Orson Welles",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "8011",
+      "names": [
+        "Dark Avenger"
+      ],
+      "releases": [
+        {
+          "_id": "1569",
+          "names": [
+            "Battle Hymns"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1203",
+          "names": [
+            "Manowar"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ross \"The Boss\" Friedman",
       "targetId": "7629",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8011"
+      ]
     },
     {
       "name": "Eric Adams",
       "targetId": "7633",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8011"
+      ]
     },
     {
       "name": "Joey DeMaio",
       "targetId": "7634",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8011"
+      ]
     },
     {
       "name": "Donnie Hamzik",
       "targetId": "7635",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8011"
+      ]
     }
   ]
 }

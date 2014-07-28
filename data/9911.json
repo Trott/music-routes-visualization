@@ -1,26 +1,62 @@
 {
   "source": "Jimmy Cliff",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "11517",
+      "names": [
+        "Seven Day Weekend (with Jimmy Cliff)"
+      ],
+      "releases": [
+        {
+          "_id": "2138",
+          "names": [
+            "Blood & Chocolate"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "46",
+          "names": [
+            "Elvis Costello"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elvis Costello",
       "targetId": "286",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11517"
+      ]
     },
     {
       "name": "Pete Thomas",
       "targetId": "429",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11517"
+      ]
     },
     {
       "name": "Steve Nieve",
       "targetId": "3222",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11517"
+      ]
     },
     {
       "name": "Bruce Thomas",
       "targetId": "7277",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "11517"
+      ]
     }
   ]
 }

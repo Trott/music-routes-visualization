@@ -1,26 +1,62 @@
 {
   "source": "Jenny Raven",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6687",
+      "names": [
+        "Georgy Boy"
+      ],
+      "releases": [
+        {
+          "_id": "1338",
+          "names": [
+            "Please Throw Me Back In The Ocean"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1035",
+          "names": [
+            "Sir Lord Von Raven"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Greg Ashley",
       "targetId": "1590",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6687"
+      ]
     },
     {
       "name": "Chris Stroffolino",
       "targetId": "5936",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6687"
+      ]
     },
     {
       "name": "Eric \"Von Ravenson\" Johnson",
       "targetId": "6555",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6687"
+      ]
     },
     {
       "name": "Jay \"Bronzo\" Bronzini",
       "targetId": "6556",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6687"
+      ]
     }
   ]
 }

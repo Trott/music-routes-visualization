@@ -1,26 +1,160 @@
 {
   "source": "Roy Haynes",
   "trackCount": 5,
+  "tracks": [
+    {
+      "_id": "671",
+      "names": [
+        "Hairy Canary"
+      ],
+      "releases": [
+        {
+          "_id": "242",
+          "names": [
+            "Live In Montreux"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "672",
+      "names": [
+        "Folk Song"
+      ],
+      "releases": [
+        {
+          "_id": "242",
+          "names": [
+            "Live In Montreux"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "673",
+      "names": [
+        "So In love"
+      ],
+      "releases": [
+        {
+          "_id": "242",
+          "names": [
+            "Live In Montreux"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "674",
+      "names": [
+        "Slippery When Wet"
+      ],
+      "releases": [
+        {
+          "_id": "242",
+          "names": [
+            "Live In Montreux"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1616",
+      "names": [
+        "Slippery When Wet"
+      ],
+      "releases": [
+        {
+          "_id": "376",
+          "names": [
+            "Works"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "166",
+          "names": [
+            "Chick Corea"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Chick Corea",
       "targetId": "919",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "671",
+        "672",
+        "673",
+        "674",
+        "1616"
+      ]
     },
     {
       "name": "Gary Peacock",
       "targetId": "1071",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "671",
+        "672",
+        "673",
+        "674"
+      ]
     },
     {
       "name": "Joe Henderson",
       "targetId": "1072",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "671",
+        "672",
+        "673",
+        "674"
+      ]
     },
     {
       "name": "Miroslav Vitous",
       "targetId": "1881",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1616"
+      ]
     }
   ]
 }

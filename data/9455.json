@@ -1,26 +1,62 @@
 {
   "source": "Emma Smith",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10407",
+      "names": [
+        "Crap Kraft Dinner"
+      ],
+      "releases": [
+        {
+          "_id": "2013",
+          "names": [
+            "Coming On Strong"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1552",
+          "names": [
+            "Hot Chip"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Alexis Taylor",
       "targetId": "9451",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10407"
+      ]
     },
     {
       "name": "Joe Goddard",
       "targetId": "9452",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10407"
+      ]
     },
     {
       "name": "Felix Martin",
       "targetId": "9453",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10407"
+      ]
     },
     {
       "name": "Owen Clarke",
       "targetId": "9454",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10407"
+      ]
     }
   ]
 }

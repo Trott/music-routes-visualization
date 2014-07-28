@@ -1,26 +1,62 @@
 {
   "source": "Perre \"Barot\" Ferret",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "739",
+      "names": [
+        "H.C.Q. Strut"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Django Reinhardt",
       "targetId": "1156",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "739"
+      ]
     },
     {
       "name": "Stéphane Grappelli",
       "targetId": "1160",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "739"
+      ]
     },
     {
       "name": "Eugéne Vées",
       "targetId": "1162",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "739"
+      ]
     },
     {
       "name": "Emmanuel Soudieux",
       "targetId": "1164",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "739"
+      ]
     }
   ]
 }

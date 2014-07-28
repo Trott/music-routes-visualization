@@ -1,21 +1,101 @@
 {
   "source": "Robin Guthrie",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "204",
+      "names": [
+        "Song To The Siren"
+      ],
+      "releases": [
+        {
+          "_id": "152",
+          "names": [
+            "It'll End In Tears"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "107",
+          "names": [
+            "This Mortal Coil"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "207",
+      "names": [
+        "Cherry-Coloured Funk"
+      ],
+      "releases": [
+        {
+          "_id": "153",
+          "names": [
+            "Heaven Or Las Vegas"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "108",
+          "names": [
+            "Cocteau Twins"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5948",
+      "names": [
+        "Serpentskirt"
+      ],
+      "releases": [
+        {
+          "_id": "1186",
+          "names": [
+            "Milk And Kisses (Hong Kong edition)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "108",
+          "names": [
+            "Cocteau Twins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Elizabeth Fraser",
       "targetId": "614",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "204",
+        "207",
+        "5948"
+      ]
     },
     {
       "name": "Simon Raymonde",
       "targetId": "619",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "207",
+        "5948"
+      ]
     },
     {
       "name": "Faye Wong",
       "targetId": "5882",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5948"
+      ]
     }
   ]
 }

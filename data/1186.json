@@ -1,26 +1,88 @@
 {
   "source": "André Jourdan",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "747",
+      "names": [
+        "Anniversary Song"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "748",
+      "names": [
+        "Swing 48"
+      ],
+      "releases": [
+        {
+          "_id": "255",
+          "names": [
+            "Verve Jazz Masters 38"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "179",
+          "names": [
+            "Django Reinhardt"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Joseph Reinhardt",
       "targetId": "1145",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "747",
+        "748"
+      ]
     },
     {
       "name": "Django Reinhardt",
       "targetId": "1156",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "747",
+        "748"
+      ]
     },
     {
       "name": "Ladislas Czabanyck",
       "targetId": "1184",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "747",
+        "748"
+      ]
     },
     {
       "name": "Hubert Rostaing",
       "targetId": "1185",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "747",
+        "748"
+      ]
     }
   ]
 }

@@ -1,26 +1,62 @@
 {
   "source": "Scott Kelly",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13345",
+      "names": [
+        "Crack The Skye"
+      ],
+      "releases": [
+        {
+          "_id": "2413",
+          "names": [
+            "Crack The Skye"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1720",
+          "names": [
+            "Mastodon"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Brann Dailor",
       "targetId": "10825",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13345"
+      ]
     },
     {
       "name": "Brent Hinds",
       "targetId": "10826",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13345"
+      ]
     },
     {
       "name": "Bill Keliher",
       "targetId": "10827",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13345"
+      ]
     },
     {
       "name": "Troy Sanders",
       "targetId": "10828",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13345"
+      ]
     }
   ]
 }

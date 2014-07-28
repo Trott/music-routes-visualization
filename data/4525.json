@@ -1,56 +1,156 @@
 {
   "source": "Shirley Bassey",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "4423",
+      "names": [
+        "Get The Party Started"
+      ],
+      "releases": [
+        {
+          "_id": "883",
+          "names": [
+            "Get The Party Started"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "696",
+          "names": [
+            "Shirley Bassey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4425",
+      "names": [
+        "The Living Tree"
+      ],
+      "releases": [
+        {
+          "_id": "883",
+          "names": [
+            "Get The Party Started"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "696",
+          "names": [
+            "Shirley Bassey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4426",
+      "names": [
+        "History Repeating"
+      ],
+      "releases": [
+        {
+          "_id": "884",
+          "names": [
+            "Decksandrumsandrockandroll"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "697",
+          "names": [
+            "Propellerheads"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Catherine Feeney",
       "targetId": "4526",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4423",
+        "4425"
+      ]
     },
     {
       "name": "Margo Buchanan",
       "targetId": "4527",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4423"
+      ]
     },
     {
       "name": "Nikki Lamborn",
       "targetId": "4528",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4423",
+        "4425"
+      ]
     },
     {
       "name": "Rietta Austin",
       "targetId": "4529",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4423"
+      ]
     },
     {
       "name": "Murray Gould",
       "targetId": "4530",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4423"
+      ]
     },
     {
       "name": "David Levy",
       "targetId": "4535",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4425"
+      ]
     },
     {
       "name": "Tony Kiley",
       "targetId": "4536",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4425"
+      ]
     },
     {
       "name": "Clem Clempson",
       "targetId": "4537",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4425"
+      ]
     },
     {
       "name": "Alex Gifford",
       "targetId": "4538",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4426"
+      ]
     },
     {
       "name": "Will White",
       "targetId": "4539",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4426"
+      ]
     }
   ]
 }

@@ -1,96 +1,370 @@
 {
   "source": "Jonathan Cain",
   "trackCount": 9,
+  "tracks": [
+    {
+      "_id": "1360",
+      "names": [
+        "Remember The Heroes"
+      ],
+      "releases": [
+        {
+          "_id": "344",
+          "names": [
+            "Three Lock Box"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "248",
+          "names": [
+            "Sammy Hagar"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2085",
+      "names": [
+        "Don't Stop Believin'"
+      ],
+      "releases": [
+        {
+          "_id": "476",
+          "names": [
+            "Escape"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2346",
+      "names": [
+        "When I See You Smile"
+      ],
+      "releases": [
+        {
+          "_id": "590",
+          "names": [
+            "Bad English"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "455",
+          "names": [
+            "Bad English"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7185",
+      "names": [
+        "Girl Can't Help It"
+      ],
+      "releases": [
+        {
+          "_id": "1420",
+          "names": [
+            "Raised On Radio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7186",
+      "names": [
+        "I'll Be Alright Without You"
+      ],
+      "releases": [
+        {
+          "_id": "1420",
+          "names": [
+            "Raised On Radio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7187",
+      "names": [
+        "Positive Touch"
+      ],
+      "releases": [
+        {
+          "_id": "1420",
+          "names": [
+            "Raised On Radio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7188",
+      "names": [
+        "The Eyes Of A Woman"
+      ],
+      "releases": [
+        {
+          "_id": "1420",
+          "names": [
+            "Raised On Radio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7189",
+      "names": [
+        "Why Can't This Night Go On Forever"
+      ],
+      "releases": [
+        {
+          "_id": "1420",
+          "names": [
+            "Raised On Radio"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "43",
+          "names": [
+            "Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9182",
+      "names": [
+        "Sweet 17"
+      ],
+      "releases": [
+        {
+          "_id": "1766",
+          "names": [
+            "On The Edge"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1361",
+          "names": [
+            "The Babys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Randy Jackson",
       "targetId": "59",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7185",
+        "7186"
+      ]
     },
     {
       "name": "Steve Perry",
       "targetId": "71",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "2085",
+        "7185",
+        "7186",
+        "7187",
+        "7188",
+        "7189"
+      ]
     },
     {
       "name": "Neal Schon",
       "targetId": "174",
-      "trackCount": 7
+      "trackCount": 7,
+      "tracks": [
+        "2085",
+        "2346",
+        "7185",
+        "7186",
+        "7187",
+        "7188",
+        "7189"
+      ]
     },
     {
       "name": "Ross Valory",
       "targetId": "262",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2085"
+      ]
     },
     {
       "name": "Bob Glaub",
       "targetId": "642",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "7187",
+        "7188",
+        "7189"
+      ]
     },
     {
       "name": "Sammy Hagar",
       "targetId": "1735",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1360"
+      ]
     },
     {
       "name": "Bill Church",
       "targetId": "1737",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1360"
+      ]
     },
     {
       "name": "Gary Pihl",
       "targetId": "1739",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1360"
+      ]
     },
     {
       "name": "David Lauser",
       "targetId": "1744",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1360"
+      ]
     },
     {
       "name": "Mike Reno",
       "targetId": "1746",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1360"
+      ]
     },
     {
       "name": "Steve Smith",
       "targetId": "2447",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "2085",
+        "7187",
+        "7188",
+        "7189"
+      ]
     },
     {
       "name": "John Waite",
       "targetId": "2890",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2346",
+        "9182"
+      ]
     },
     {
       "name": "Ricky Phillips",
       "targetId": "2891",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2346",
+        "9182"
+      ]
     },
     {
       "name": "Deen Castronovo",
       "targetId": "2892",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2346"
+      ]
     },
     {
       "name": "Larrie Londin",
       "targetId": "6927",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "7185",
+        "7186"
+      ]
     },
     {
       "name": "Anne Marie Leclerc",
       "targetId": "8520",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9182"
+      ]
     },
     {
       "name": "Wally Stocker",
       "targetId": "8521",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9182"
+      ]
     },
     {
       "name": "Tony Brock",
       "targetId": "8522",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9182"
+      ]
     }
   ]
 }

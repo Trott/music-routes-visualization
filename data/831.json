@@ -1,31 +1,92 @@
 {
   "source": "Marco Pirroni",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "358",
+      "names": [
+        "Mandinka"
+      ],
+      "releases": [
+        {
+          "_id": "149",
+          "names": [
+            "The Lion and the Cobra"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "105",
+          "names": [
+            "Sinéad O'Connor"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "359",
+      "names": [
+        "Goody Two Shoes"
+      ],
+      "releases": [
+        {
+          "_id": "196",
+          "names": [
+            "Friend Or Foe"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "134",
+          "names": [
+            "Adam Ant"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sinéad O'Connor",
       "targetId": "596",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "358"
+      ]
     },
     {
       "name": "Adam Ant",
       "targetId": "832",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "359"
+      ]
     },
     {
       "name": "Bogdan Wiczling",
       "targetId": "833",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "359"
+      ]
     },
     {
       "name": "Martin Drover",
       "targetId": "834",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "359"
+      ]
     },
     {
       "name": "Jeff Daly",
       "targetId": "835",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "359"
+      ]
     }
   ]
 }

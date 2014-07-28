@@ -1,101 +1,364 @@
 {
   "source": "John Convertino",
   "trackCount": 8,
+  "tracks": [
+    {
+      "_id": "1224",
+      "names": [
+        "Margaret Vs. Pauline"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1225",
+      "names": [
+        "Star Witness"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1228",
+      "names": [
+        "That Teenage Feeling"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1230",
+      "names": [
+        "John Saw That Number"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1231",
+      "names": [
+        "Dirty Knife"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1233",
+      "names": [
+        "Maybe Sparrow"
+      ],
+      "releases": [
+        {
+          "_id": "331",
+          "names": [
+            "Fox Confessor Brings The Flood"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "242",
+          "names": [
+            "Neko Case"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3829",
+      "names": [
+        "In The Reins"
+      ],
+      "releases": [
+        {
+          "_id": "776",
+          "names": [
+            "In The Reins"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "606",
+          "names": [
+            "Calexico / Iron & Wine"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4952",
+      "names": [
+        "Cachaça"
+      ],
+      "releases": [
+        {
+          "_id": "995",
+          "names": [
+            "Travelall"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "608",
+          "names": [
+            "Calexico"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Garth Hudson",
       "targetId": "33",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "1224",
+        "1225",
+        "1230",
+        "1233"
+      ]
     },
     {
       "name": "Neko Case",
       "targetId": "1685",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "1224",
+        "1225",
+        "1228",
+        "1230",
+        "1231",
+        "1233"
+      ]
     },
     {
       "name": "Joey Burns",
       "targetId": "1686",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "1224",
+        "1225",
+        "1230",
+        "1231",
+        "3829",
+        "4952"
+      ]
     },
     {
       "name": "Anna De Wolf",
       "targetId": "1687",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1225"
+      ]
     },
     {
       "name": "Travis Good",
       "targetId": "1688",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1225"
+      ]
     },
     {
       "name": "Paul Rigby",
       "targetId": "1689",
-      "trackCount": 6
+      "trackCount": 6,
+      "tracks": [
+        "1224",
+        "1225",
+        "1228",
+        "1230",
+        "1231",
+        "1233"
+      ]
     },
     {
       "name": "Rachel Flotard",
       "targetId": "1690",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1228"
+      ]
     },
     {
       "name": "Dexter Romweber",
       "targetId": "1691",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1228"
+      ]
     },
     {
       "name": "Tom Ray",
       "targetId": "1692",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "1225",
+        "1228",
+        "1230",
+        "1231",
+        "1233"
+      ]
     },
     {
       "name": "Jon Rauhouse",
       "targetId": "1695",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1230",
+        "1231",
+        "1233"
+      ]
     },
     {
       "name": "Kelly Hogan",
       "targetId": "1696",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1225",
+        "1230",
+        "1233"
+      ]
     },
     {
       "name": "Dallas Good",
       "targetId": "1698",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1230",
+        "1233"
+      ]
     },
     {
       "name": "Paul Niehaus",
       "targetId": "3970",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3829"
+      ]
     },
     {
       "name": "Sam Beam",
       "targetId": "3971",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3829"
+      ]
     },
     {
       "name": "Martin Wenk",
       "targetId": "3972",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3829",
+        "4952"
+      ]
     },
     {
       "name": "Jacob Valenzuela",
       "targetId": "3973",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3829"
+      ]
     },
     {
       "name": "Volker Zander",
       "targetId": "3974",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3829"
+      ]
     },
     {
       "name": "Salvador Duran",
       "targetId": "3975",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3829"
+      ]
     },
     {
       "name": "Nick Luca",
       "targetId": "5084",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4952"
+      ]
     }
   ]
 }

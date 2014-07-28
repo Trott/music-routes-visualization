@@ -1,21 +1,54 @@
 {
   "source": "Donita Sparks",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4976",
+      "names": [
+        "Freezer Burn"
+      ],
+      "releases": [
+        {
+          "_id": "999",
+          "names": [
+            "Slap-Happy"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "790",
+          "names": [
+            "L7"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Gail Greenwood",
       "targetId": "5106",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4976"
+      ]
     },
     {
       "name": "Suzi Gardner",
       "targetId": "5107",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4976"
+      ]
     },
     {
       "name": "Dee Plakas",
       "targetId": "5108",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4976"
+      ]
     }
   ]
 }

@@ -1,21 +1,54 @@
 {
   "source": "Margaret Ross",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13453",
+      "names": [
+        "Comin' Home Baby"
+      ],
+      "releases": [
+        {
+          "_id": "2472",
+          "names": [
+            "Comin' Home Baby"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1757",
+          "names": [
+            "Mel Tormé"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mel Tormé",
       "targetId": "7599",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13453"
+      ]
     },
     {
       "name": "Dorothy Jones",
       "targetId": "11019",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13453"
+      ]
     },
     {
       "name": "Earl-Jean McCrea",
       "targetId": "11020",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13453"
+      ]
     }
   ]
 }

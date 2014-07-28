@@ -1,21 +1,54 @@
 {
   "source": "Mel Thorpe",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7081",
+      "names": [
+        "No New Tale To Tell"
+      ],
+      "releases": [
+        {
+          "_id": "1404",
+          "names": [
+            "Earth Sun Moon"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "400",
+          "names": [
+            "Love and Rockets"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David J",
       "targetId": "2666",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7081"
+      ]
     },
     {
       "name": "Kevin Haskins",
       "targetId": "2667",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7081"
+      ]
     },
     {
       "name": "Daniel Ash",
       "targetId": "2668",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7081"
+      ]
     }
   ]
 }

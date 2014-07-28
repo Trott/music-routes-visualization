@@ -1,11 +1,38 @@
 {
   "source": "Robert Mandell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7934",
+      "names": [
+        "Macao"
+      ],
+      "releases": [
+        {
+          "_id": "1559",
+          "names": [
+            "South Sea Island Magic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1193",
+          "names": [
+            "Robert Mandell and His Orchestra"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Louis Nunley",
       "targetId": "7582",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7934"
+      ]
     }
   ]
 }

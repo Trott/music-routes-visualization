@@ -1,31 +1,97 @@
 {
   "source": "Craig Ross",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6840",
+      "names": [
+        "Somebody Knockin'"
+      ],
+      "releases": [
+        {
+          "_id": "1362",
+          "names": [
+            "Izzy Stradlin And The Ju Ju Hounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1051",
+          "names": [
+            "Izzy Stradlin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6844",
+      "names": [
+        "Bucket O' Trouble"
+      ],
+      "releases": [
+        {
+          "_id": "1362",
+          "names": [
+            "Izzy Stradlin And The Ju Ju Hounds"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1051",
+          "names": [
+            "Izzy Stradlin"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Izzy Stradlin",
       "targetId": "1571",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6840",
+        "6844"
+      ]
     },
     {
       "name": "Ian McLagan",
       "targetId": "3163",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6840",
+        "6844"
+      ]
     },
     {
       "name": "Rick Richards",
       "targetId": "5536",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6840",
+        "6844"
+      ]
     },
     {
       "name": "Jimmy Ashhurst",
       "targetId": "6684",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6840",
+        "6844"
+      ]
     },
     {
       "name": "Charlie Quintana",
       "targetId": "6686",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6840",
+        "6844"
+      ]
     }
   ]
 }

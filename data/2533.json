@@ -1,21 +1,54 @@
 {
   "source": "Steve Diggle",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2106",
+      "names": [
+        "Boredom"
+      ],
+      "releases": [
+        {
+          "_id": "486",
+          "names": [
+            "Spiral Scratch"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "366",
+          "names": [
+            "Buzzcocks"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Howard Devoto",
       "targetId": "1626",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2106"
+      ]
     },
     {
       "name": "Pete Shelley",
       "targetId": "2532",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2106"
+      ]
     },
     {
       "name": "John Maher",
       "targetId": "2534",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2106"
+      ]
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
   "source": "Kiri Te Kanawa",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7442",
+      "names": [
+        "The Flower Duet"
+      ],
+      "releases": [
+        {
+          "_id": "1468",
+          "names": [
+            "Serenade"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1133",
+          "names": [
+            "Katherine Jenkins"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Katherine Jenkins",
       "targetId": "7132",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7442"
+      ]
     }
   ]
 }

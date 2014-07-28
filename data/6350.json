@@ -1,26 +1,138 @@
 {
   "source": "Régis Ceccarelli",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "6507",
+      "names": [
+        "Raphaël"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6510",
+      "names": [
+        "Le Toi Du Moi"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6514",
+      "names": [
+        "Chanson Triste"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6516",
+      "names": [
+        "L'amour"
+      ],
+      "releases": [
+        {
+          "_id": "1306",
+          "names": [
+            "Quelqu'un M'a Dit"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1009",
+          "names": [
+            "Carla Bruni"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carla Bruni",
       "targetId": "6343",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6507",
+        "6510",
+        "6514",
+        "6516"
+      ]
     },
     {
       "name": "Louis Bertignac",
       "targetId": "6344",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6507",
+        "6510",
+        "6514",
+        "6516"
+      ]
     },
     {
       "name": "Laurent Vernerey",
       "targetId": "6346",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "6507",
+        "6510",
+        "6514",
+        "6516"
+      ]
     },
     {
       "name": "Rachid Guissous",
       "targetId": "6351",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "6510",
+        "6514"
+      ]
     }
   ]
 }

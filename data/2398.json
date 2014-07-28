@@ -1,11 +1,38 @@
 {
   "source": "John Forte",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2058",
+      "names": [
+        "Year Two Thousand"
+      ],
+      "releases": [
+        {
+          "_id": "468",
+          "names": [
+            "Last Of The Great 20th Century Composers"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "349",
+          "names": [
+            "Princess Superstar"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Princess Superstar",
       "targetId": "2395",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2058"
+      ]
     }
   ]
 }

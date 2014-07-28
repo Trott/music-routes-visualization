@@ -1,21 +1,54 @@
 {
   "source": "Gordon Gano",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9816",
+      "names": [
+        "Cold Canyon"
+      ],
+      "releases": [
+        {
+          "_id": "1881",
+          "names": [
+            "The Blind Leading The Naked"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1454",
+          "names": [
+            "Violent Femmes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Leo Kottke",
       "targetId": "9056",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9816"
+      ]
     },
     {
       "name": "Victor DeLorenzo",
       "targetId": "9058",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9816"
+      ]
     },
     {
       "name": "Brian Ritchie",
       "targetId": "9059",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9816"
+      ]
     }
   ]
 }

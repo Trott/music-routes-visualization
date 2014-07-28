@@ -1,21 +1,139 @@
 {
   "source": "Atsuo",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "13266",
+      "names": [
+        "Woman On The Screen"
+      ],
+      "releases": [
+        {
+          "_id": "2396",
+          "names": [
+            "Pink"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1705",
+          "names": [
+            "Boris"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13267",
+      "names": [
+        "Ibitsu"
+      ],
+      "releases": [
+        {
+          "_id": "2397",
+          "names": [
+            "Akuma No Uta"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1705",
+          "names": [
+            "Boris"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13268",
+      "names": [
+        "Fuzzy Reactor"
+      ],
+      "releases": [
+        {
+          "_id": "2398",
+          "names": [
+            "Rainbow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1705",
+          "names": [
+            "Boris"
+          ]
+        },
+        {
+          "_id": "1706",
+          "names": [
+            "Michio Kurihara"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13269",
+      "names": [
+        "Rainbow"
+      ],
+      "releases": [
+        {
+          "_id": "2398",
+          "names": [
+            "Rainbow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1705",
+          "names": [
+            "Boris"
+          ]
+        },
+        {
+          "_id": "1706",
+          "names": [
+            "Michio Kurihara"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Wata",
       "targetId": "10764",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "13266",
+        "13267",
+        "13268",
+        "13269"
+      ]
     },
     {
       "name": "Takeshi",
       "targetId": "10766",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "13266",
+        "13267",
+        "13268",
+        "13269"
+      ]
     },
     {
       "name": "Michio Kurihara",
       "targetId": "10767",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "13268",
+        "13269"
+      ]
     }
   ]
 }

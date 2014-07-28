@@ -1,36 +1,103 @@
 {
   "source": "Eric Melvin",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1995",
+      "names": [
+        "Leave It Alone"
+      ],
+      "releases": [
+        {
+          "_id": "440",
+          "names": [
+            "Punk In Drublic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "322",
+          "names": [
+            "NOFX"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2218",
+      "names": [
+        "Dig"
+      ],
+      "releases": [
+        {
+          "_id": "440",
+          "names": [
+            "Punk In Drublic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "322",
+          "names": [
+            "NOFX"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Erik Sandin",
       "targetId": "2128",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1995",
+        "2218"
+      ]
     },
     {
       "name": "El Hefe",
       "targetId": "2129",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1995",
+        "2218"
+      ]
     },
     {
       "name": "Fat Mike",
       "targetId": "2131",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "1995",
+        "2218"
+      ]
     },
     {
       "name": "Mr. Rojers",
       "targetId": "2693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2218"
+      ]
     },
     {
       "name": "Christopher Dowd",
       "targetId": "2694",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2218"
+      ]
     },
     {
       "name": "Kenny Lyon",
       "targetId": "2695",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2218"
+      ]
     }
   ]
 }

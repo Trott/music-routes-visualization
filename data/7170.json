@@ -1,16 +1,46 @@
 {
   "source": "Carlos Manuel Proença",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7502",
+      "names": [
+        "Portos"
+      ],
+      "releases": [
+        {
+          "_id": "1478",
+          "names": [
+            "Corpo Iluminado"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1032",
+          "names": [
+            "Cristina Branco"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Cristina Branco",
       "targetId": "6541",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7502"
+      ]
     },
     {
       "name": "Martino de Freitas",
       "targetId": "7171",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7502"
+      ]
     }
   ]
 }

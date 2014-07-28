@@ -1,16 +1,46 @@
 {
   "source": "Jay-L",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6851",
+      "names": [
+        "All For You"
+      ],
+      "releases": [
+        {
+          "_id": "1365",
+          "names": [
+            "\"Our Destiny\" / \"All For You\" 10\""
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1053",
+          "names": [
+            "Brown & Cole"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Karl \"Tuff Enuff\" Brown",
       "targetId": "6693",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6851"
+      ]
     },
     {
       "name": "MJ Cole",
       "targetId": "6696",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6851"
+      ]
     }
   ]
 }

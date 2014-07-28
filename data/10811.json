@@ -1,16 +1,46 @@
 {
   "source": "\"Kickball\" Katy Goodman",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13341",
+      "names": [
+        "Going Insane"
+      ],
+      "releases": [
+        {
+          "_id": "2410",
+          "names": [
+            "Vivian Girls"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1717",
+          "names": [
+            "Vivian Girls"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Frankie Rose",
       "targetId": "10812",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13341"
+      ]
     },
     {
       "name": "Cassie Ramone",
       "targetId": "10813",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13341"
+      ]
     }
   ]
 }

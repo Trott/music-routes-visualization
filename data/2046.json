@@ -1,16 +1,46 @@
 {
   "source": "Dr. Heathen Scum",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1908",
+      "names": [
+        "Golden Shower"
+      ],
+      "releases": [
+        {
+          "_id": "415",
+          "names": [
+            "You Axed For It"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "298",
+          "names": [
+            "The Mentors"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Sickie Wifebeater",
       "targetId": "2044",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1908"
+      ]
     },
     {
       "name": "El Duce",
       "targetId": "2045",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1908"
+      ]
     }
   ]
 }

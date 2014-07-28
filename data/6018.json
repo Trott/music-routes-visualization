@@ -1,16 +1,46 @@
 {
   "source": "Natalia Cappuccini",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6067",
+      "names": [
+        "Available"
+      ],
+      "releases": [
+        {
+          "_id": "1218",
+          "names": [
+            "R.O.O.T.S."
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Akon",
       "targetId": "4044",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6067"
+      ]
     },
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6067"
+      ]
     }
   ]
 }

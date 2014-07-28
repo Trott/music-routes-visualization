@@ -1,21 +1,54 @@
 {
   "source": "Peter Kaukonen",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "1603",
+      "names": [
+        "Mau Mau (Amerikon)"
+      ],
+      "releases": [
+        {
+          "_id": "375",
+          "names": [
+            "Blows Against The Empire"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "268",
+          "names": [
+            "Jefferson Starship"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Grace Slick",
       "targetId": "738",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1603"
+      ]
     },
     {
       "name": "Paul Kantner",
       "targetId": "1868",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1603"
+      ]
     },
     {
       "name": "Joey Covington",
       "targetId": "1871",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "1603"
+      ]
     }
   ]
 }

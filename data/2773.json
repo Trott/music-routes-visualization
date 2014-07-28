@@ -1,26 +1,62 @@
 {
   "source": "William S. Burroughs",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2256",
+      "names": [
+        "Sharkey's Night"
+      ],
+      "releases": [
+        {
+          "_id": "562",
+          "names": [
+            "Mister Heartbreak"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "429",
+          "names": [
+            "Laurie Anderson"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Adrian Belew",
       "targetId": "184",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2256"
+      ]
     },
     {
       "name": "Bill Laswell",
       "targetId": "2205",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2256"
+      ]
     },
     {
       "name": "Laurie Anderson",
       "targetId": "2206",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2256"
+      ]
     },
     {
       "name": "Anton Fier",
       "targetId": "2771",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2256"
+      ]
     }
   ]
 }

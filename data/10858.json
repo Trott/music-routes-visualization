@@ -1,21 +1,54 @@
 {
   "source": "Paquito D'Rivera",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "13379",
+      "names": [
+        "Joy To The World"
+      ],
+      "releases": [
+        {
+          "_id": "2427",
+          "names": [
+            "Songs Of Joy & Peace"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1730",
+          "names": [
+            "Yo-Yo Ma"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Yo-Yo Ma",
       "targetId": "1124",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13379"
+      ]
     },
     {
       "name": "Dave Brubeck",
       "targetId": "4636",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13379"
+      ]
     },
     {
       "name": "Matthew Brubeck",
       "targetId": "8762",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "13379"
+      ]
     }
   ]
 }

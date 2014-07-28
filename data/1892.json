@@ -1,56 +1,175 @@
 {
   "source": "Brad Whitford",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "1628",
+      "names": [
+        "Walk This Way"
+      ],
+      "releases": [
+        {
+          "_id": "379",
+          "names": [
+            "Toys In The Attic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "271",
+          "names": [
+            "Aerosmith"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12691",
+      "names": [
+        "Rag Doll"
+      ],
+      "releases": [
+        {
+          "_id": "2267",
+          "names": [
+            "Permanent Vacation"
+          ]
+        },
+        {
+          "_id": "2268",
+          "names": [
+            "O, Yeah! Ultimate Aerosmith Hits"
+          ]
+        },
+        {
+          "_id": "2271",
+          "names": [
+            "Gold"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "271",
+          "names": [
+            "Aerosmith"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12692",
+      "names": [
+        "Simoriah"
+      ],
+      "releases": [
+        {
+          "_id": "2267",
+          "names": [
+            "Permanent Vacation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "271",
+          "names": [
+            "Aerosmith"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Steven Tyler",
       "targetId": "1889",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1628",
+        "12691",
+        "12692"
+      ]
     },
     {
       "name": "Joe Perry",
       "targetId": "1890",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1628",
+        "12691",
+        "12692"
+      ]
     },
     {
       "name": "Joey Kramer",
       "targetId": "1891",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1628",
+        "12691",
+        "12692"
+      ]
     },
     {
       "name": "Tom Hamilton",
       "targetId": "1893",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "1628",
+        "12691",
+        "12692"
+      ]
     },
     {
       "name": "Jim Vallance",
       "targetId": "2448",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12691",
+        "12692"
+      ]
     },
     {
       "name": "Bruce Fairbairn",
       "targetId": "10338",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12691"
+      ]
     },
     {
       "name": "Henry Christian",
       "targetId": "10339",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12691"
+      ]
     },
     {
       "name": "Tom Keenlyside",
       "targetId": "10340",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12691"
+      ]
     },
     {
       "name": "Ian Putz",
       "targetId": "10341",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12691"
+      ]
     },
     {
       "name": "Bob Rogers",
       "targetId": "10342",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12691"
+      ]
     }
   ]
 }

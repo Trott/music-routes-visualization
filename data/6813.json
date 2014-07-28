@@ -1,21 +1,54 @@
 {
   "source": "Brad Paisley",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6981",
+      "names": [
+        "Real"
+      ],
+      "releases": [
+        {
+          "_id": "22",
+          "names": [
+            "Has Been"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "21",
+          "names": [
+            "William Shatner"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "William Shatner",
       "targetId": "179",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6981"
+      ]
     },
     {
       "name": "Ben Folds",
       "targetId": "180",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6981"
+      ]
     },
     {
       "name": "John Mark Painter",
       "targetId": "183",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6981"
+      ]
     }
   ]
 }

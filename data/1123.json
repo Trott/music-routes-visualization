@@ -1,16 +1,69 @@
 {
   "source": "Pharrell",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "714",
+      "names": [
+        "Drop It Like It's Hot"
+      ],
+      "releases": [
+        {
+          "_id": "247",
+          "names": [
+            "R&G (Rhythm & Gangsta): The Masterpiece"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "171",
+          "names": [
+            "Snoop Dogg"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9043",
+      "names": [
+        "Special"
+      ],
+      "releases": [
+        {
+          "_id": "1728",
+          "names": [
+            "Malice n Wonderland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "171",
+          "names": [
+            "Snoop Dogg"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Snoop Dogg",
       "targetId": "1110",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "714",
+        "9043"
+      ]
     },
     {
       "name": "Brandy",
       "targetId": "4240",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9043"
+      ]
     }
   ]
 }

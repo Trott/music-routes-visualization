@@ -1,16 +1,52 @@
 {
   "source": "Alessandro Baricco",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10245",
+      "names": [
+        "Se Vuoi Capire La Loro Storia"
+      ],
+      "releases": [
+        {
+          "_id": "1963",
+          "names": [
+            "City Reading"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1517",
+          "names": [
+            "Air"
+          ]
+        },
+        {
+          "_id": "1518",
+          "names": [
+            "Alessandro Baricco"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Nicolas Godin",
       "targetId": "9344",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10245"
+      ]
     },
     {
       "name": "Jean-Benoît Dunckel",
       "targetId": "9345",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10245"
+      ]
     }
   ]
 }

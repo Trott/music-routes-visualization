@@ -1,21 +1,54 @@
 {
   "source": "Matthew Best",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4776",
+      "names": [
+        "I.C. Water"
+      ],
+      "releases": [
+        {
+          "_id": "972",
+          "names": [
+            "Towards Thee Infinite Beat"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "770",
+          "names": [
+            "Psychic TV"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Genesis P-Orridge",
       "targetId": "1578",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4776"
+      ]
     },
     {
       "name": "Dave Ball",
       "targetId": "4542",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4776"
+      ]
     },
     {
       "name": "Fred Giannelli",
       "targetId": "5003",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4776"
+      ]
     }
   ]
 }

@@ -1,161 +1,419 @@
 {
   "source": "Jerry Douglas",
   "trackCount": 6,
+  "tracks": [
+    {
+      "_id": "193",
+      "names": [
+        "Shine"
+      ],
+      "releases": [
+        {
+          "_id": "148",
+          "names": [
+            "Little Sparrow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "100",
+          "names": [
+            "Dolly Parton"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4555",
+      "names": [
+        "Daddy Played The Banjo"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4558",
+      "names": [
+        "Late For School"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4561",
+      "names": [
+        "Pretty Flowers"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4564",
+      "names": [
+        "Saga Of The Old West"
+      ],
+      "releases": [
+        {
+          "_id": "931",
+          "names": [
+            "The Crow"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "515",
+          "names": [
+            "Steve Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4570",
+      "names": [
+        "Lost River"
+      ],
+      "releases": [
+        {
+          "_id": "932",
+          "names": [
+            "Will The Circle Be Unbroken Volume Two"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "516",
+          "names": [
+            "The Nitty Gritty Dirt Band"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dolly Parton",
       "targetId": "569",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "193",
+        "4561"
+      ]
     },
     {
       "name": "Vince Gill",
       "targetId": "579",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4561"
+      ]
     },
     {
       "name": "Claire Lynch",
       "targetId": "581",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Keith Little",
       "targetId": "582",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Bryan Sutton",
       "targetId": "584",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Chris Thile",
       "targetId": "585",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Jim Mills",
       "targetId": "586",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Stuart Duncan",
       "targetId": "587",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "193",
+        "4555",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Barry Bales",
       "targetId": "588",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "193"
+      ]
     },
     {
       "name": "Roy Huskey, Jr.",
       "targetId": "2627",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4570"
+      ]
     },
     {
       "name": "Mark O'Connor",
       "targetId": "3127",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4570"
+      ]
     },
     {
       "name": "Earl Scruggs",
       "targetId": "3334",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4555",
+        "4561"
+      ]
     },
     {
       "name": "Steve Martin",
       "targetId": "3338",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4555",
+        "4558",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Jeff Hanna",
       "targetId": "3343",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4570"
+      ]
     },
     {
       "name": "Bob Carpenter",
       "targetId": "3344",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4570"
+      ]
     },
     {
       "name": "Jimmie Fadden",
       "targetId": "3345",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4570"
+      ]
     },
     {
       "name": "Jimmy Ibbotson",
       "targetId": "3346",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4570"
+      ]
     },
     {
       "name": "Craig Eastman",
       "targetId": "4825",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4555",
+        "4558",
+        "4564"
+      ]
     },
     {
       "name": "Kenny Malone",
       "targetId": "4826",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4555",
+        "4558",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Bruce Martin",
       "targetId": "4827",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4555",
+        "4558",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "John McEuen",
       "targetId": "4828",
-      "trackCount": 5
+      "trackCount": 5,
+      "tracks": [
+        "4555",
+        "4558",
+        "4561",
+        "4564",
+        "4570"
+      ]
     },
     {
       "name": "Skip Ward",
       "targetId": "4829",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4555",
+        "4558",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Tim O'Brien",
       "targetId": "4830",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4555"
+      ]
     },
     {
       "name": "Russ Barenberg",
       "targetId": "4831",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4558",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Matt Flinner",
       "targetId": "4833",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "4558",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Brittany Haas",
       "targetId": "4834",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "4558",
+        "4564"
+      ]
     },
     {
       "name": "Hans Olson",
       "targetId": "4836",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "4555",
+        "4558",
+        "4561",
+        "4564"
+      ]
     },
     {
       "name": "Pete Wernick",
       "targetId": "4837",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4561"
+      ]
     },
     {
       "name": "David Amram",
       "targetId": "4840",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4564"
+      ]
     },
     {
       "name": "Michael Martin Murphy",
       "targetId": "4843",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4570"
+      ]
     },
     {
       "name": "Randy Scruggs",
       "targetId": "4844",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4570"
+      ]
     }
   ]
 }

@@ -1,16 +1,69 @@
 {
   "source": "Birdman",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6057",
+      "names": [
+        "Priceless"
+      ],
+      "releases": [
+        {
+          "_id": "1217",
+          "names": [
+            "Mail On Sunday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8112",
+      "names": [
+        "Let's Get Down"
+      ],
+      "releases": [
+        {
+          "_id": "1587",
+          "names": [
+            "Unleashed"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1215",
+          "names": [
+            "Bow Wow",
+            "Lil' Bow Wow"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6057"
+      ]
     },
     {
       "name": "Bow Wow",
       "targetId": "7718",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "8112"
+      ]
     }
   ]
 }

@@ -1,26 +1,88 @@
 {
   "source": "Jah Wobble",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "5123",
+      "names": [
+        "Bad Baby"
+      ],
+      "releases": [
+        {
+          "_id": "1019",
+          "names": [
+            "Second Edition"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "806",
+          "names": [
+            "Public Image Ltd.",
+            "PiL"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10464",
+      "names": [
+        "Public Image"
+      ],
+      "releases": [
+        {
+          "_id": "2025",
+          "names": [
+            "First Issue"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "806",
+          "names": [
+            "Public Image Ltd.",
+            "PiL"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lydon",
       "targetId": "2670",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5123",
+        "10464"
+      ]
     },
     {
       "name": "Martin Atkins",
       "targetId": "3144",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "5123"
+      ]
     },
     {
       "name": "Keith Levene",
       "targetId": "5269",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "5123",
+        "10464"
+      ]
     },
     {
       "name": "Jim Walker",
       "targetId": "9491",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10464"
+      ]
     }
   ]
 }

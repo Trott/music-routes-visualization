@@ -1,16 +1,46 @@
 {
   "source": "Chris \"Whipper\" Layton",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7531",
+      "names": [
+        "Voodoo Chile (Slight Return)"
+      ],
+      "releases": [
+        {
+          "_id": "1493",
+          "names": [
+            "Couldn't Stand The Weather"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1148",
+          "names": [
+            "Stevie Ray Vaughan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stevie Ray Vaughan",
       "targetId": "4014",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7531"
+      ]
     },
     {
       "name": "Tommy Shannon",
       "targetId": "7228",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7531"
+      ]
     }
   ]
 }

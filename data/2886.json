@@ -1,26 +1,62 @@
 {
   "source": "Michael Cartellone",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "2345",
+      "names": [
+        "Where You Goin' Now"
+      ],
+      "releases": [
+        {
+          "_id": "589",
+          "names": [
+            "Don't Tread"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "454",
+          "names": [
+            "Damn Yankees"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Ted Nugent",
       "targetId": "168",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2345"
+      ]
     },
     {
       "name": "Jack Blades",
       "targetId": "2887",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2345"
+      ]
     },
     {
       "name": "Robbie Buchanan",
       "targetId": "2888",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2345"
+      ]
     },
     {
       "name": "Tommy Shaw",
       "targetId": "2889",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2345"
+      ]
     }
   ]
 }

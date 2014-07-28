@@ -1,21 +1,76 @@
 {
   "source": "Young Jeezy",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "6766",
+      "names": [
+        "Can't Tell Me Nothing"
+      ],
+      "releases": [
+        {
+          "_id": "787",
+          "names": [
+            "Graduation"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "617",
+          "names": [
+            "Kanye West"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9179",
+      "names": [
+        "Hard"
+      ],
+      "releases": [
+        {
+          "_id": "1765",
+          "names": [
+            "Rated R"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "927",
+          "names": [
+            "Rihanna"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Kanye West",
       "targetId": "4031",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6766"
+      ]
     },
     {
       "name": "Rihanna",
       "targetId": "5908",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9179"
+      ]
     },
     {
       "name": "Connie Mitchell",
       "targetId": "6652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6766"
+      ]
     }
   ]
 }

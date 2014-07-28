@@ -1,46 +1,130 @@
 {
   "source": "Graham Hawthorne",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9347",
+      "names": [
+        "You'll Be Taken Care Of"
+      ],
+      "releases": [
+        {
+          "_id": "1808",
+          "names": [
+            "Here Lies Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1400",
+          "names": [
+            "David Byrne"
+          ]
+        },
+        {
+          "_id": "1401",
+          "names": [
+            "Fatboy Slim"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9350",
+      "names": [
+        "A Perfect hand"
+      ],
+      "releases": [
+        {
+          "_id": "1808",
+          "names": [
+            "Here Lies Love"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1400",
+          "names": [
+            "David Byrne"
+          ]
+        },
+        {
+          "_id": "1401",
+          "names": [
+            "Fatboy Slim"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Byrne",
       "targetId": "193",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9347",
+        "9350"
+      ]
     },
     {
       "name": "Tori Amos",
       "targetId": "1568",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9347"
+      ]
     },
     {
       "name": "Steve Earle",
       "targetId": "5483",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9350"
+      ]
     },
     {
       "name": "Norman Cook",
       "targetId": "8720",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9347"
+      ]
     },
     {
       "name": "Paul Frazier",
       "targetId": "8733",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9350"
+      ]
     },
     {
       "name": "Mauro Refosco",
       "targetId": "8734",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9347"
+      ]
     },
     {
       "name": "Thomas Bartlett",
       "targetId": "8735",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9347",
+        "9350"
+      ]
     },
     {
       "name": "Allison Moorer",
       "targetId": "8748",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9350"
+      ]
     }
   ]
 }

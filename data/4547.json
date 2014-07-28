@@ -1,16 +1,46 @@
 {
   "source": "Emiliana Torrini",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "4430",
+      "names": [
+        "Baby Blue"
+      ],
+      "releases": [
+        {
+          "_id": "886",
+          "names": [
+            "Love In The Time Of Science"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "699",
+          "names": [
+            "Emiliana Torrini"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Clive Deamer",
       "targetId": "2548",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4430"
+      ]
     },
     {
       "name": "Siggi Baldursson",
       "targetId": "4548",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4430"
+      ]
     }
   ]
 }

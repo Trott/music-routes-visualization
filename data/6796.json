@@ -1,11 +1,38 @@
 {
   "source": "Maurice Chevalier",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6948",
+      "names": [
+        "Louise"
+      ],
+      "releases": [
+        {
+          "_id": "1387",
+          "names": [
+            "Duets"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "573",
+          "names": [
+            "Bing Crosby"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Bing Crosby",
       "targetId": "1791",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6948"
+      ]
     }
   ]
 }

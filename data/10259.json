@@ -1,26 +1,110 @@
 {
   "source": "Dino",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "12452",
+      "names": [
+        "Freaks On Parade"
+      ],
+      "releases": [
+        {
+          "_id": "2233",
+          "names": [
+            "Life Sentence"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1628",
+          "names": [
+            "Kepi Ghoulie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12453",
+      "names": [
+        "The Next In Line"
+      ],
+      "releases": [
+        {
+          "_id": "2233",
+          "names": [
+            "Life Sentence"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1628",
+          "names": [
+            "Kepi Ghoulie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12454",
+      "names": [
+        "This Friend Of Mine"
+      ],
+      "releases": [
+        {
+          "_id": "2234",
+          "names": [
+            "American Gothic"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1628",
+          "names": [
+            "Kepi Ghoulie"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Jeff Hashfield",
       "targetId": "3614",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12452",
+        "12453"
+      ]
     },
     {
       "name": "Kim Shattuck",
       "targetId": "8902",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12454"
+      ]
     },
     {
       "name": "Atom Bomb",
       "targetId": "10258",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12452",
+        "12453"
+      ]
     },
     {
       "name": "Kepi Ghoulie",
       "targetId": "10260",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "12452",
+        "12453",
+        "12454"
+      ]
     }
   ]
 }

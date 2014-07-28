@@ -1,91 +1,255 @@
 {
   "source": "Frank Simms",
   "trackCount": 4,
+  "tracks": [
+    {
+      "_id": "3846",
+      "names": [
+        "Let's Dance"
+      ],
+      "releases": [
+        {
+          "_id": "185",
+          "names": [
+            "Changesbowie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3847",
+      "names": [
+        "China Girl"
+      ],
+      "releases": [
+        {
+          "_id": "185",
+          "names": [
+            "Changesbowie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3848",
+      "names": [
+        "Modern Love"
+      ],
+      "releases": [
+        {
+          "_id": "185",
+          "names": [
+            "Changesbowie"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "127",
+          "names": [
+            "David Bowie"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7082",
+      "names": [
+        "Material Girl"
+      ],
+      "releases": [
+        {
+          "_id": "1405",
+          "names": [
+            "Like A Virgin"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "118",
+          "names": [
+            "Madonna"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "David Bowie",
       "targetId": "132",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3846",
+        "3847",
+        "3848"
+      ]
     },
     {
       "name": "Omar Hakim",
       "targetId": "475",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3846",
+        "3847",
+        "3848"
+      ]
     },
     {
       "name": "Madonna",
       "targetId": "702",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7082"
+      ]
     },
     {
       "name": "Curtis King",
       "targetId": "1032",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7082"
+      ]
     },
     {
       "name": "Stan Harrison",
       "targetId": "1248",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3848"
+      ]
     },
     {
       "name": "Nile Rodgers",
       "targetId": "2204",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3846",
+        "3847",
+        "3848",
+        "7082"
+      ]
     },
     {
       "name": "David Spinner",
       "targetId": "4010",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3846",
+        "3847",
+        "3848"
+      ]
     },
     {
       "name": "George Simms",
       "targetId": "4012",
-      "trackCount": 4
+      "trackCount": 4,
+      "tracks": [
+        "3846",
+        "3847",
+        "3848",
+        "7082"
+      ]
     },
     {
       "name": "Carmine Rojas",
       "targetId": "4013",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3846",
+        "3847",
+        "3848"
+      ]
     },
     {
       "name": "Stevie Ray Vaughan",
       "targetId": "4014",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3847"
+      ]
     },
     {
       "name": "Rob Sabino",
       "targetId": "4015",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3846",
+        "3847",
+        "3848"
+      ]
     },
     {
       "name": "Sammy Figueroa",
       "targetId": "4016",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3846",
+        "3847",
+        "3848"
+      ]
     },
     {
       "name": "Steve Elson",
       "targetId": "4017",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3848"
+      ]
     },
     {
       "name": "Robert Aaron",
       "targetId": "4018",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3848"
+      ]
     },
     {
       "name": "Mac Gollehon",
       "targetId": "4019",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3846",
+        "3848"
+      ]
     },
     {
       "name": "Tony Thompson",
       "targetId": "6881",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7082"
+      ]
     },
     {
       "name": "Bernard Edwards",
       "targetId": "6882",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7082"
+      ]
     }
   ]
 }

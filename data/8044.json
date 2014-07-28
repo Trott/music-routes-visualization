@@ -1,16 +1,46 @@
 {
   "source": "Daniel Handler",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "3428",
+      "names": [
+        "Waltzing Me All the Way Home"
+      ],
+      "releases": [
+        {
+          "_id": "698",
+          "names": [
+            "Hyacinths & Thistles"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "449",
+          "names": [
+            "The 6ths"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Stephin Merritt",
       "targetId": "2850",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3428"
+      ]
     },
     {
       "name": "Odetta",
       "targetId": "3610",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3428"
+      ]
     }
   ]
 }

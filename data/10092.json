@@ -1,16 +1,46 @@
 {
   "source": "Jack Rieley",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "12117",
+      "names": [
+        "A Day In The Life Of A Tree"
+      ],
+      "releases": [
+        {
+          "_id": "2189",
+          "names": [
+            "Sunflower / Surf's Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Al Jardine",
       "targetId": "1478",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12117"
+      ]
     },
     {
       "name": "Van Dyke Parks",
       "targetId": "7522",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12117"
+      ]
     }
   ]
 }

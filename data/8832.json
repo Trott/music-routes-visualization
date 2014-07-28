@@ -1,11 +1,61 @@
 {
   "source": "Sabelle",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "9493",
+      "names": [
+        "Covers"
+      ],
+      "releases": [
+        {
+          "_id": "1829",
+          "names": [
+            "LL 77"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1419",
+          "names": [
+            "Lisa Lisa"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9494",
+      "names": [
+        "Mr. Jimmy"
+      ],
+      "releases": [
+        {
+          "_id": "1829",
+          "names": [
+            "LL 77"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1419",
+          "names": [
+            "Lisa Lisa"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Lisa Lisa",
       "targetId": "8818",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "9493",
+        "9494"
+      ]
     }
   ]
 }

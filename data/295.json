@@ -1,16 +1,46 @@
 {
   "source": "Ira Louvin",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "66",
+      "names": [
+        "I Ain't Gonna Work Tomorrow"
+      ],
+      "releases": [
+        {
+          "_id": "58",
+          "names": [
+            "The Louvin Brothers Play Their Current Hits"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "48",
+          "names": [
+            "The Louvin Brothers"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Grandpa Jones",
       "targetId": "253",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "66"
+      ]
     },
     {
       "name": "Charlie Louvin",
       "targetId": "290",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "66"
+      ]
     }
   ]
 }

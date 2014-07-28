@@ -1,141 +1,394 @@
 {
   "source": "Steve Berlin",
   "trackCount": 7,
+  "tracks": [
+    {
+      "_id": "2120",
+      "names": [
+        "Don't Worry Baby"
+      ],
+      "releases": [
+        {
+          "_id": "496",
+          "names": [
+            "How Will The Wolf Survive?"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "373",
+          "names": [
+            "Los Lobos"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2121",
+      "names": [
+        "All Around The World or The Myth Of Fingerprints"
+      ],
+      "releases": [
+        {
+          "_id": "497",
+          "names": [
+            "Graceland"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "180",
+          "names": [
+            "Paul Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3186",
+      "names": [
+        "The Blue Drifter"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3187",
+      "names": [
+        "Younger"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3189",
+      "names": [
+        "Here On Earth As Well"
+      ],
+      "releases": [
+        {
+          "_id": "676",
+          "names": [
+            "Kerosene Man"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "530",
+          "names": [
+            "Steve Wynn"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4501",
+      "names": [
+        "Hollywood Bed"
+      ],
+      "releases": [
+        {
+          "_id": "904",
+          "names": [
+            "Testament: The Complete Slash Recordings"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "712",
+          "names": [
+            "The Blasters"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7436",
+      "names": [
+        "Especially For You"
+      ],
+      "releases": [
+        {
+          "_id": "1465",
+          "names": [
+            "Green Thoughts"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1129",
+          "names": [
+            "The Smithereens"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Paul Simon",
       "targetId": "79",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2121"
+      ]
     },
     {
       "name": "David Hidalgo",
       "targetId": "285",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2120",
+        "2121"
+      ]
     },
     {
       "name": "D.J. Bonebrake",
       "targetId": "849",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3186",
+        "3187"
+      ]
     },
     {
       "name": "Howe Gelb",
       "targetId": "1694",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3187",
+        "3189"
+      ]
     },
     {
       "name": "Cesar Rosas",
       "targetId": "2556",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2120",
+        "2121"
+      ]
     },
     {
       "name": "Conrad Lozano",
       "targetId": "2558",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2120",
+        "2121"
+      ]
     },
     {
       "name": "Louie Pérez",
       "targetId": "2559",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2120",
+        "2121"
+      ]
     },
     {
       "name": "Steve Wynn",
       "targetId": "3494",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3186",
+        "3187",
+        "3189"
+      ]
     },
     {
       "name": "Fernando Saunders",
       "targetId": "3495",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3186",
+        "3189"
+      ]
     },
     {
       "name": "Denny Fongheiser",
       "targetId": "3496",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3186",
+        "3187",
+        "3189"
+      ]
     },
     {
       "name": "Robert Mache",
       "targetId": "3497",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3186",
+        "3187",
+        "3189"
+      ]
     },
     {
       "name": "Jim Lang",
       "targetId": "3498",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "3186",
+        "3187",
+        "3189"
+      ]
     },
     {
       "name": "Stephen McCarthy",
       "targetId": "3500",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3189"
+      ]
     },
     {
       "name": "Mark Walton",
       "targetId": "3501",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3187"
+      ]
     },
     {
       "name": "Richard Greene",
       "targetId": "3502",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3187"
+      ]
     },
     {
       "name": "Robert Lloyd",
       "targetId": "3505",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3187",
+        "3189"
+      ]
     },
     {
       "name": "Dave Alvin",
       "targetId": "3625",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4501"
+      ]
     },
     {
       "name": "Lee Allen",
       "targetId": "4651",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4501"
+      ]
     },
     {
       "name": "Phil Alvin",
       "targetId": "4652",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4501"
+      ]
     },
     {
       "name": "Gene Taylor",
       "targetId": "4653",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4501"
+      ]
     },
     {
       "name": "John Bazz",
       "targetId": "4654",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4501"
+      ]
     },
     {
       "name": "Bill Bateman",
       "targetId": "4655",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "4501"
+      ]
     },
     {
       "name": "Jim Babjak",
       "targetId": "7112",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7436"
+      ]
     },
     {
       "name": "Mike Mesaros",
       "targetId": "7113",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7436"
+      ]
     },
     {
       "name": "Dennis Diken",
       "targetId": "7114",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7436"
+      ]
     },
     {
       "name": "Pat DiNizio",
       "targetId": "7115",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7436"
+      ]
     },
     {
       "name": "Kenny Margolis",
       "targetId": "7121",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7436"
+      ]
     }
   ]
 }

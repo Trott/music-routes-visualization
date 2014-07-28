@@ -1,41 +1,86 @@
 {
   "source": "Tony Randall",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9313",
+      "names": [
+        "Sgt. Pepper's Lonely Hearts Club Band"
+      ],
+      "releases": [
+        {
+          "_id": "1798",
+          "names": [
+            "Sgt. Pepper's Lonely Hearts Club Band"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "2",
+          "names": [
+            "The Beatles"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Lennon",
       "targetId": "4",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9313"
+      ]
     },
     {
       "name": "Paul McCartney",
       "targetId": "5",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9313"
+      ]
     },
     {
       "name": "George Harrison",
       "targetId": "6",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9313"
+      ]
     },
     {
       "name": "Ringo Starr",
       "targetId": "7",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9313"
+      ]
     },
     {
       "name": "James W. Buck",
       "targetId": "8683",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9313"
+      ]
     },
     {
       "name": "Neil Sanders",
       "targetId": "8684",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9313"
+      ]
     },
     {
       "name": "John Burden",
       "targetId": "8686",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9313"
+      ]
     }
   ]
 }

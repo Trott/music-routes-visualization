@@ -1,11 +1,38 @@
 {
   "source": "Robert Preston",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "7790",
+      "names": [
+        "Goodnight, My Someone (reprise)"
+      ],
+      "releases": [
+        {
+          "_id": "1536",
+          "names": [
+            "The Music Man (Warner Bros. film soundtrack)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1179",
+          "names": [
+            "Shirley Jones & Robert Preston"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Shirley Jones",
       "targetId": "1790",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "7790"
+      ]
     }
   ]
 }

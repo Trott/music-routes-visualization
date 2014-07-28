@@ -1,21 +1,77 @@
 {
   "source": "Paul Gardiner",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "395",
+      "names": [
+        "I Dream Of Wires"
+      ],
+      "releases": [
+        {
+          "_id": "204",
+          "names": [
+            "Clues"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "140",
+          "names": [
+            "Robert Palmer"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12942",
+      "names": [
+        "Night Talk"
+      ],
+      "releases": [
+        {
+          "_id": "2334",
+          "names": [
+            "Dance"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1259",
+          "names": [
+            "Gary Numan"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Robert Palmer",
       "targetId": "851",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "395"
+      ]
     },
     {
       "name": "Dony Wynn",
       "targetId": "853",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "395"
+      ]
     },
     {
       "name": "Gary Numan",
       "targetId": "854",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "395",
+        "12942"
+      ]
     }
   ]
 }

@@ -1,16 +1,46 @@
 {
   "source": "Andy Bell",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "9448",
+      "names": [
+        "Sometimes"
+      ],
+      "releases": [
+        {
+          "_id": "1819",
+          "names": [
+            "The Circus"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1410",
+          "names": [
+            "Erasure"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Guy Barker",
       "targetId": "4622",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9448"
+      ]
     },
     {
       "name": "Vince Clarke",
       "targetId": "8802",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "9448"
+      ]
     }
   ]
 }

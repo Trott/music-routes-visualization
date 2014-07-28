@@ -1,11 +1,61 @@
 {
   "source": "Kid Koala",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12244",
+      "names": [
+        "Everyone Has A Summer"
+      ],
+      "releases": [
+        {
+          "_id": "2203",
+          "names": [
+            "Music To Make Love To Your Old Lady By"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1620",
+          "names": [
+            "Lovage"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12254",
+      "names": [
+        "Koala's Lament"
+      ],
+      "releases": [
+        {
+          "_id": "2203",
+          "names": [
+            "Music To Make Love To Your Old Lady By"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1620",
+          "names": [
+            "Lovage"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Dan The Automator",
       "targetId": "10164",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12244",
+        "12254"
+      ]
     }
   ]
 }

@@ -1,31 +1,121 @@
 {
   "source": "Clint Schnase",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2889",
+      "names": [
+        "A Scale, A Mirror, And Those Indifferent Clocks"
+      ],
+      "releases": [
+        {
+          "_id": "648",
+          "names": [
+            "Fevers And Mirrors"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "508",
+          "names": [
+            "Bright Eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2892",
+      "names": [
+        "The Movement Of A Hand"
+      ],
+      "releases": [
+        {
+          "_id": "648",
+          "names": [
+            "Fevers And Mirrors"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "508",
+          "names": [
+            "Bright Eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2897",
+      "names": [
+        "Sunrise, Sunset"
+      ],
+      "releases": [
+        {
+          "_id": "648",
+          "names": [
+            "Fevers And Mirrors"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "508",
+          "names": [
+            "Bright Eyes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Mogis",
       "targetId": "1680",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2892",
+        "2897"
+      ]
     },
     {
       "name": "Conor Oberst",
       "targetId": "3101",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2889",
+        "2892",
+        "2897"
+      ]
     },
     {
       "name": "Andy Lemaster",
       "targetId": "3249",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2889",
+        "2892",
+        "2897"
+      ]
     },
     {
       "name": "Jiha Lee",
       "targetId": "3251",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2889",
+        "2892",
+        "2897"
+      ]
     },
     {
       "name": "A.J. Mogis",
       "targetId": "3252",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2889"
+      ]
     }
   ]
 }

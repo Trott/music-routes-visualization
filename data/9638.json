@@ -1,26 +1,62 @@
 {
   "source": "Bert",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10947",
+      "names": [
+        "B.B. King"
+      ],
+      "releases": [
+        {
+          "_id": "55",
+          "names": [
+            "Songs From The Street: 35 Years Of Music"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "413",
+          "names": [
+            "B.B. King"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Big Bird",
       "targetId": "240",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10947"
+      ]
     },
     {
       "name": "B.B. King",
       "targetId": "565",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10947"
+      ]
     },
     {
       "name": "Benny Rabbit",
       "targetId": "9636",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10947"
+      ]
     },
     {
       "name": "Baby Bear",
       "targetId": "9637",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10947"
+      ]
     }
   ]
 }

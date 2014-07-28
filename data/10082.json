@@ -1,31 +1,99 @@
 {
   "source": "Diane Rovell",
   "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "12073",
+      "names": [
+        "Be True To Your School (Single Version)"
+      ],
+      "releases": [
+        {
+          "_id": "2187",
+          "names": [
+            "Little Deuce Coupe / All Summer Long"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "12101",
+      "names": [
+        "This Whole World"
+      ],
+      "releases": [
+        {
+          "_id": "2181",
+          "names": [
+            "Classics: Selected By Brian Wilson"
+          ]
+        },
+        {
+          "_id": "2189",
+          "names": [
+            "Sunflower / Surf's Up"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "212",
+          "names": [
+            "The Beach Boys"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Carl Wilson",
       "targetId": "233",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12101"
+      ]
     },
     {
       "name": "Brian Wilson",
       "targetId": "1475",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12101"
+      ]
     },
     {
       "name": "Mike Love",
       "targetId": "1477",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12073"
+      ]
     },
     {
       "name": "Marilyn Rovell",
       "targetId": "10081",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "12073",
+        "12101"
+      ]
     },
     {
       "name": "Ginger Blake",
       "targetId": "10083",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "12073"
+      ]
     }
   ]
 }

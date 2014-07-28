@@ -1,11 +1,38 @@
 {
   "source": "Nicholas Hill",
   "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "10657",
+      "names": [
+        "The Edison Museum"
+      ],
+      "releases": [
+        {
+          "_id": "2044",
+          "names": [
+            "No!"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "479",
+          "names": [
+            "They Might Be Giants"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "John Linnell",
       "targetId": "3068",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "10657"
+      ]
     }
   ]
 }

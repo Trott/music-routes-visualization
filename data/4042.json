@@ -1,26 +1,107 @@
 {
   "source": "Timbaland",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "3857",
+      "names": [
+        "AYO Technology"
+      ],
+      "releases": [
+        {
+          "_id": "790",
+          "names": [
+            "Curtis"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "620",
+          "names": [
+            "50 Cent"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6054",
+      "names": [
+        "Elevator"
+      ],
+      "releases": [
+        {
+          "_id": "1217",
+          "names": [
+            "Mail On Sunday"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "947",
+          "names": [
+            "Flo Rida"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9177",
+      "names": [
+        "Carry Out"
+      ],
+      "releases": [
+        {
+          "_id": "1764",
+          "names": [
+            "Shock Value II"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1360",
+          "names": [
+            "Timbaland"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "50 Cent",
       "targetId": "4040",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "3857"
+      ]
     },
     {
       "name": "Justin Timberlake",
       "targetId": "4041",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "3857",
+        "9177"
+      ]
     },
     {
       "name": "Hannon Lane",
       "targetId": "5909",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6054"
+      ]
     },
     {
       "name": "Flo Rida",
       "targetId": "6002",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "6054"
+      ]
     }
   ]
 }

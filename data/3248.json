@@ -1,36 +1,128 @@
 {
   "source": "Tim Kasher",
   "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2888",
+      "names": [
+        "A Spindle, A Darkness, A Fever, And A Necklace"
+      ],
+      "releases": [
+        {
+          "_id": "648",
+          "names": [
+            "Fevers And Mirrors"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "508",
+          "names": [
+            "Bright Eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2891",
+      "names": [
+        "Something Vague"
+      ],
+      "releases": [
+        {
+          "_id": "648",
+          "names": [
+            "Fevers And Mirrors"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "508",
+          "names": [
+            "Bright Eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2893",
+      "names": [
+        "Arienette"
+      ],
+      "releases": [
+        {
+          "_id": "648",
+          "names": [
+            "Fevers And Mirrors"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "508",
+          "names": [
+            "Bright Eyes"
+          ]
+        }
+      ]
+    }
+  ],
   "targets": [
     {
       "name": "Mike Mogis",
       "targetId": "1680",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2888",
+        "2891",
+        "2893"
+      ]
     },
     {
       "name": "Conor Oberst",
       "targetId": "3101",
-      "trackCount": 3
+      "trackCount": 3,
+      "tracks": [
+        "2888",
+        "2891",
+        "2893"
+      ]
     },
     {
       "name": "Andy Lemaster",
       "targetId": "3249",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2893"
+      ]
     },
     {
       "name": "Jiha Lee",
       "targetId": "3251",
-      "trackCount": 1
+      "trackCount": 1,
+      "tracks": [
+        "2891"
+      ]
     },
     {
       "name": "Matt Maginn",
       "targetId": "3253",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2891",
+        "2893"
+      ]
     },
     {
       "name": "Joe Knapp",
       "targetId": "3254",
-      "trackCount": 2
+      "trackCount": 2,
+      "tracks": [
+        "2891",
+        "2893"
+      ]
     }
   ]
 }
