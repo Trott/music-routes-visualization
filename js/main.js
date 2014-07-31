@@ -158,8 +158,12 @@ d3.json('data/' + id + '.json', function (error, links) {
         detailsText += datum.trackCount + ' track' + (datum.trackCount > 1 ? 's' : '');
 
         if (links.source !== datum.name) {
-          var track = links.tracks[0];
-          console.dir(track);
+          var commonTrackId = datum.tracks[0];
+
+          var track = links.tracks.filter(function (elem) {
+            return elem._id === commonTrackId;
+          }).pop();
+
           detailsText += ' including "' + track.names[0] + '"';
           detailsText += ' by ' + track.artists[0].names[0];
           detailsText += ' from the release _' + track.releases[0].names[0] + '_';
