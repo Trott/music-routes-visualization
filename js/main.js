@@ -158,7 +158,7 @@ d3.json('data/' + id + '.json', function (error, links) {
         detailsText += datum.trackCount + ' track' + (datum.trackCount > 1 ? 's' : '');
 
         if (links.source !== datum.name) {
-          var commonTrackId = datum.tracks[0];
+          var commonTrackId = datum.tracks[Math.floor(Math.random() * datum.tracks.length)];
 
           var track = links.tracks.filter(function (elem) {
             return elem._id === commonTrackId;
