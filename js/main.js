@@ -17,8 +17,10 @@ d3.json('data/' + id + '.json', function (error, links) {
     return error;
   }
 
-  var wrap = function (text, width, x) {
-    x = x || 0;
+  var wrap = function (text, width, options) {
+    options = options || {};
+    options.x = options.x || 0;
+    options.mody = options.mody || false; // whether or not to scoot text up (modify the y) with each line wrapped
     text.each(function() {
       var text = d3.select(this),
         words = text.text().split(/\s+/).reverse(),
@@ -32,12 +34,14 @@ d3.json('data/' + id + '.json', function (error, links) {
         line.push(word);
         tspan.text(line.join(' '));
         if (tspan.node().getComputedTextLength() > width && line.length > 1) {
-          y = y-10;
+          if (options.mody) {
+            y = y-10;
+          }
           text.attr('y', y);
           line.pop();
           tspan.text(line.join(' '));
           line = [word];
-          tspan = text.append('tspan').attr('x', x).attr('dy', 18).text(word);
+          tspan = text.append('tspan').attr('x', options.x).attr('dy', 18).text(word);
         }
       }
     });
@@ -153,12 +157,20 @@ d3.json('data/' + id + '.json', function (error, links) {
         }
         detailsText += datum.trackCount + ' track' + (datum.trackCount > 1 ? 's' : '');
 
+        if (links.source !== datum.name) {
+          var track = links.tracks[0];
+          console.dir(track);
+          detailsText += ' including "' + track.names[0] + '"';
+          detailsText += ' by ' + track.artists[0].names[0];
+          detailsText += ' from the release _' + track.releases[0].names[0] + '_';
+        }
+
         var details = parent.append('text')
             .attr('class', 'details')
             .attr('dx', x + 16)
             .attr('dy', y + 64)
             .text(detailsText)
-            .call(wrap, 303, x + 16);
+            .call(wrap, 303, {x: x + 16});
       });
 
   var text = svg.append('g').selectAll('text')
@@ -167,7 +179,7 @@ d3.json('data/' + id + '.json', function (error, links) {
       .attr('class', 'name')
       .attr('text-anchor', 'middle')
       .text(function (d) { return d.name; })
-      .call(wrap, 112);
+      .call(wrap, 112, {mody: true});
 
   d3.select('#progress').remove();
 });
