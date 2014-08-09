@@ -27,7 +27,7 @@ d3.json('data/' + id + '.json', function (error, links) {
         word,
         line = [],
         y = text.attr('y'),
-        tspan = text.text(null).append('tspan').attr('x', 0);
+        tspan = text.text(null).append('tspan').attr('x', options.x);
       
       while (words.length) {
         word = words.pop();
@@ -151,30 +151,57 @@ d3.json('data/' + id + '.json', function (error, links) {
             .attr('dx', x + 8)
             .attr('dy', y + 32)
             .text(datum.name);
-        var detailsText = '';
-        if (links.source !== datum.name) {
-          detailsText = 'recorded with ' + links.source + ' on ';
-        }
-        detailsText += datum.trackCount + ' track' + (datum.trackCount > 1 ? 's' : '');
 
-        if (links.source !== datum.name) {
+        var detailsX = x + 16;
+
+        var details = parent.append('text')
+            .attr('class', 'details')
+            .attr('dx', detailsX)
+            .attr('dy', y + 64);
+
+        var trackCountText = datum.trackCount + ' track' + (datum.trackCount > 1 ? 's' : '');
+        if (links.source === datum.name) {
+          details.append('tspan')
+            .attr('x', 0)
+            .text(trackCountText);
+        } else {
+          trackCountText += ' with ' + links.source;
+
+          details.append('tspan')
+            .attr('x', detailsX)
+            .text(trackCountText)
+            .call(wrap, 290);
+
+          details.append('tspan')
+            .attr('x', detailsX)
+            .attr('dy', '2.4em')
+            .text('including:');
+
           var commonTrackId = datum.tracks[Math.floor(Math.random() * datum.tracks.length)];
 
           var track = links.tracks.filter(function (elem) {
             return elem._id === commonTrackId;
           }).pop();
 
-          detailsText += ' including "' + track.names[0] + '"';
-          detailsText += ' by ' + track.artists[0].names[0];
-          detailsText += ' from the release _' + track.releases[0].names[0] + '_';
-        }
+          details.append('tspan')
+            .attr('x', detailsX)
+            .attr('dy', '2.4em')
+            .text('"' + track.names[0] + '"')
+            .call(wrap, 290, {x: detailsX});
 
-        var details = parent.append('text')
-            .attr('class', 'details')
-            .attr('dx', x + 16)
-            .attr('dy', y + 64)
-            .text(detailsText)
-            .call(wrap, 303, {x: x + 16});
+          details.append('tspan')
+            .attr('x', detailsX)
+            .attr('dy', '1.5em')
+            .text(track.artists[0].names[0])
+            .call(wrap, 290, {x: detailsX});
+          
+          details.append('tspan')
+            .attr('x', detailsX)
+            .attr('dy', '1.5em')
+            .attr('font-style', 'italic')
+            .text(track.releases[Math.floor(Math.random() * track.releases.length)].names[0])
+            .call(wrap, 290, {x: detailsX});
+        }
       });
 
   var text = svg.append('g').selectAll('text')
