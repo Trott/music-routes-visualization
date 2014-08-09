@@ -147,7 +147,7 @@ d3.json('data/' + id + '.json', function (error, links) {
         var name = parent.append('svg:a')
           .attr('xlink:href', function() { return '?' + datum.targetId;})
           .append('text')
-            .attr('class', 'details hyperlink')
+            .attr('class', 'details-title hyperlink')
             .attr('dx', x + 8)
             .attr('dy', y + 32)
             .text(datum.name);
