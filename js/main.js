@@ -105,6 +105,46 @@ d3.json('data/' + id + '.json', function (error, links) {
     .attr('fill', '#ddd')
     .attr('stroke', 'none');
 
+  var showDiscography = function (container, datum) {
+    var isSource = datum.name === links.source;
+    var html = container.append('foreignObject')
+      .attr('width', '80%')
+      .attr('height', '99999px')
+      .attr('opacity', 0.8)
+      .append('xhtml:body')
+        .style({background: '#abacab'});
+
+    var h1 = html.append('h1');
+    if (isSource) {
+      h1.text(datum.name + ' tracks');
+    } else {
+      h1.text( datum.name + '/' + links.source + ' tracks');
+    }
+    var table = html.append('table').style({'border-collapse': 'collapse'});
+    var row = table.append('tr');
+    row.append('th').text('Track').style('border', '1px solid');
+    row.append('th').text('Artist').style('border', '1px solid');
+    row.append('th').text('Release').style('border', '1px solid');
+    if (isSource) {
+      var track;
+      for (var i=0, l=links.tracks.length; i<l; i++) {
+        row = table.append('tr');
+        track = links.tracks[i];
+        // TODO: append each name etc. sepaarated by semi-colons
+        row.append('td').text('"' + track.names[0] + '"');
+        row.append('td').text(track.artists[0].names[0]);
+        row.append('td').text(track.releases[0].names[0]).style('font-style', 'italic');
+      }
+      // build discography for source
+    } else {
+      //build discography for the clicked target
+    }
+
+    table.selectAll('td').style({border: '1px solid', 'text-align': 'left', padding: '0.5em'});
+      console.dir(datum);
+      console.dir(links);
+  };
+
   var showDetails = function (datum) {
 
     if (d3.event.defaultPrevented) {
@@ -116,7 +156,12 @@ d3.json('data/' + id + '.json', function (error, links) {
     var x = transform[0] - width/2;
     var y = transform[1] - height/2;
     var parent = d3.select(this.parentNode.parentNode);
-    
+
+    if (links.source === datum.name) {
+      showDiscography(parent, datum);
+      return;
+    }
+
     var container = parent.append('rect')
       .attr('width', width)
       .attr('height', height)
@@ -157,48 +202,42 @@ d3.json('data/' + id + '.json', function (error, links) {
         .attr('dy', y + 64);
 
     var trackCountText = datum.trackCount + ' track' + (datum.trackCount > 1 ? 's' : '');
-    if (links.source === datum.name) {
-      details.append('tspan')
-        .attr('x', 0)
-        .text(trackCountText);
-    } else {
-      trackCountText += ' with ' + links.source;
+    trackCountText += ' with ' + links.source;
 
-      details.append('tspan')
-        .attr('x', detailsX)
-        .text(trackCountText)
-        .call(wrap, 290);
+    details.append('tspan')
+      .attr('x', detailsX)
+      .text(trackCountText)
+      .call(wrap, 290);
 
-      details.append('tspan')
-        .attr('x', detailsX)
-        .attr('dy', '2.4em')
-        .text('including:');
+    details.append('tspan')
+      .attr('x', detailsX)
+      .attr('dy', '2.4em')
+      .text('including:');
 
-      var commonTrackId = datum.tracks[Math.floor(Math.random() * datum.tracks.length)];
+    var commonTrackId = datum.tracks[Math.floor(Math.random() * datum.tracks.length)];
 
-      var track = links.tracks.filter(function (elem) {
-        return elem._id === commonTrackId;
-      }).pop();
+    var track = links.tracks.filter(function (elem) {
+      return elem._id === commonTrackId;
+    }).pop();
 
-      details.append('tspan')
-        .attr('x', detailsX)
-        .attr('dy', '2.4em')
-        .text('"' + track.names[0] + '"')
-        .call(wrap, 290, {x: detailsX});
+    details.append('tspan')
+      .attr('x', detailsX)
+      .attr('dy', '2.4em')
+      .text('"' + track.names[0] + '"')
+      .call(wrap, 290, {x: detailsX});
 
-      details.append('tspan')
-        .attr('x', detailsX)
-        .attr('dy', '1.5em')
-        .text(track.artists[0].names[0])
-        .call(wrap, 290, {x: detailsX});
-      
-      details.append('tspan')
-        .attr('x', detailsX)
-        .attr('dy', '1.5em')
-        .attr('font-style', 'italic')
-        .text(track.releases[Math.floor(Math.random() * track.releases.length)].names[0])
-        .call(wrap, 290, {x: detailsX});
-    }
+    details.append('tspan')
+      .attr('x', detailsX)
+      .attr('dy', '1.5em')
+      .text(track.artists[0].names[0])
+      .call(wrap, 290, {x: detailsX});
+    
+    details.append('tspan')
+      .attr('x', detailsX)
+      .attr('dy', '1.5em')
+      .attr('font-style', 'italic')
+      .text(track.releases[Math.floor(Math.random() * track.releases.length)].names[0])
+      .call(wrap, 290, {x: detailsX});
   };
 
   var nodes = svg.append('g').selectAll('.node')
