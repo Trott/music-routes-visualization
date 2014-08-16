@@ -120,8 +120,8 @@ d3.json('data/' + id + '.json', function (error, links) {
           return;
         }
 
-        d3.select('.visualization').style({display: 'inherit'});
-        d3.select('.discography').remove();
+        d3.select('.visualization').style({display: null});
+        d3.select('.discography').html('');
       });
 
     var h1 = container.append('h1');
