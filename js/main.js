@@ -105,14 +105,14 @@ d3.json('data/' + id + '.json', function (error, links) {
     .attr('fill', '#ddd')
     .attr('stroke', 'none');
 
-  var showDiscography = function (container, datum) {
+  var showDiscography = function (datum) {
     var isSource = datum.name === links.source;
-    var body = d3.select('body');
 
     d3.select('.visualization').style({display: 'none'});
 
-    // x for closing  
-    body.append('button')
+    // x for closing
+    var container = d3.select('.discography');
+    container.append('button')
       .attr('class', 'control')
       .text('☓')
       .on('click', function () {
@@ -120,19 +120,17 @@ d3.json('data/' + id + '.json', function (error, links) {
           return;
         }
 
-        h1.remove();
-        table.remove();
-        d3.select(this).remove();
         d3.select('.visualization').style({display: 'inherit'});
+        d3.select('.discography').remove();
       });
 
-    var h1 = body.append('h1');
+    var h1 = container.append('h1');
     if (isSource) {
       h1.text(datum.name + ' tracks');
     } else {
       h1.text( datum.name + '/' + links.source + ' tracks');
     }
-    var table = body.append('table').style({'border-collapse': 'collapse'});
+    var table = container.append('table').style({'border-collapse': 'collapse'});
     var row = table.append('tr');
     row.append('th').text('Track').style('border', '1px solid');
     row.append('th').text('Artist').style('border', '1px solid');
@@ -168,7 +166,7 @@ d3.json('data/' + id + '.json', function (error, links) {
     var parent = d3.select(this.parentNode.parentNode);
 
     if (links.source === datum.name) {
-      showDiscography(parent, datum);
+      showDiscography(datum);
       return;
     }
 
