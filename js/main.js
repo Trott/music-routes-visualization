@@ -107,10 +107,25 @@ d3.json('data/' + id + '.json', function (error, links) {
 
   var showDiscography = function (container, datum) {
     var isSource = datum.name === links.source;
-    var body = d3.select('body')
-      .style({background: '#abacab'});
+    var body = d3.select('body');
 
     d3.select('.visualization').style({display: 'none'});
+
+    // x for closing  
+    body.append('button')
+      .attr('class', 'control')
+      .text('☓')
+      .on('click', function () {
+        if (d3.event.defaultPrevented) {
+          return;
+        }
+
+        h1.remove();
+        table.remove();
+        d3.select(this).remove();
+        d3.select('.visualization').style({display: 'inherit'});
+      });
+
     var h1 = body.append('h1');
     if (isSource) {
       h1.text(datum.name + ' tracks');
