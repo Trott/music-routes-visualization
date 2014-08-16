@@ -107,20 +107,17 @@ d3.json('data/' + id + '.json', function (error, links) {
 
   var showDiscography = function (container, datum) {
     var isSource = datum.name === links.source;
-    var html = container.append('foreignObject')
-      .attr('width', '80%')
-      .attr('height', '99999px')
-      .attr('opacity', 0.8)
-      .append('xhtml:body')
-        .style({background: '#abacab'});
+    var body = d3.select('body')
+      .style({background: '#abacab'});
 
-    var h1 = html.append('h1');
+    d3.select('.visualization').style({display: 'none'});
+    var h1 = body.append('h1');
     if (isSource) {
       h1.text(datum.name + ' tracks');
     } else {
       h1.text( datum.name + '/' + links.source + ' tracks');
     }
-    var table = html.append('table').style({'border-collapse': 'collapse'});
+    var table = body.append('table').style({'border-collapse': 'collapse'});
     var row = table.append('tr');
     row.append('th').text('Track').style('border', '1px solid');
     row.append('th').text('Artist').style('border', '1px solid');
@@ -141,8 +138,6 @@ d3.json('data/' + id + '.json', function (error, links) {
     }
 
     table.selectAll('td').style({border: '1px solid', 'text-align': 'left', padding: '0.5em'});
-      console.dir(datum);
-      console.dir(links);
   };
 
   var showDetails = function (datum) {
