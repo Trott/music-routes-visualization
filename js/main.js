@@ -128,28 +128,33 @@ d3.json('data/' + id + '.json', function (error, links) {
     if (isSource) {
       h1.text(datum.name + ' tracks');
     } else {
-      h1.text( datum.name + '/' + links.source + ' tracks');
+      h1.append('a').attr('href', '?' + datum.targetId).text(datum.name);
+      h1.append('span').text('/' + links.source + ' tracks');
     }
     var table = container.append('table').style({'border-collapse': 'collapse'});
     var row = table.append('tr');
     row.append('th').text('Track').style('border', '1px solid');
     row.append('th').text('Artist').style('border', '1px solid');
     row.append('th').text('Release').style('border', '1px solid');
+    
+    var tracks;
     if (isSource) {
-      var track;
-      for (var i=0, l=links.tracks.length; i<l; i++) {
-        row = table.append('tr');
-        track = links.tracks[i];
-        // TODO: append each name etc. sepaarated by semi-colons
-        row.append('td').text('"' + track.names[0] + '"');
-        row.append('td').text(track.artists[0].names[0]);
-        row.append('td').text(track.releases[0].names[0]).style('font-style', 'italic');
-      }
-      // build discography for source
+      tracks = links.tracks;
     } else {
-      //build discography for the clicked target
+      tracks = links.tracks.filter( function (elem) {
+        return datum.tracks.indexOf(elem._id) !== -1;
+      });
     }
 
+    for (var i=0, l=tracks.length; i<l; i++) {
+      row = table.append('tr');
+      var track = tracks[i];
+      // TODO: append each name etc. separated by semi-colons
+      row.append('td').text('"' + track.names[0] + '"');
+      row.append('td').text(track.artists[0].names[0]);
+      row.append('td').text(track.releases[0].names[0]).style('font-style', 'italic');
+    }
+    
     table.selectAll('td').style({border: '1px solid', 'text-align': 'left', padding: '0.5em'});
   };
 
@@ -158,94 +163,8 @@ d3.json('data/' + id + '.json', function (error, links) {
     if (d3.event.defaultPrevented) {
       return;
     }
-    var transform = d3.transform(d3.select(this).attr('transform')).translate;
-    var width = 320;
-    var height = 320;
-    var x = transform[0] - width/2;
-    var y = transform[1] - height/2;
-    var parent = d3.select(this.parentNode.parentNode);
 
-    if (links.source === datum.name) {
-      showDiscography(datum);
-      return;
-    }
-
-    var container = parent.append('rect')
-      .attr('width', width)
-      .attr('height', height)
-      .attr('x', x)
-      .attr('y', y)
-      .attr('class', 'more-info');
-
-    // x for closing  
-    parent.append('text')
-      .attr('text-anchor', 'middle')
-      .attr('class', 'control')
-      .attr('dx', x + width - 16)
-      .attr('dy', y + 32)
-      .text('☓')
-      .on('click', function () {
-        if (d3.event.defaultPrevented) {
-          return;
-        }
-        container.remove();
-        details.remove();
-        name.remove();
-        d3.select(this).remove();
-      });
-    
-    var name = parent.append('svg:a')
-      .attr('xlink:href', function() { return '?' + datum.targetId;})
-      .append('text')
-        .attr('class', 'details-title hyperlink')
-        .attr('dx', x + 8)
-        .attr('dy', y + 32)
-        .text(datum.name);
-
-    var detailsX = x + 16;
-
-    var details = parent.append('text')
-        .attr('class', 'details')
-        .attr('dx', detailsX)
-        .attr('dy', y + 64);
-
-    var trackCountText = datum.trackCount + ' track' + (datum.trackCount > 1 ? 's' : '');
-    trackCountText += ' with ' + links.source;
-
-    details.append('tspan')
-      .attr('x', detailsX)
-      .text(trackCountText)
-      .call(wrap, 290);
-
-    details.append('tspan')
-      .attr('x', detailsX)
-      .attr('dy', '2.4em')
-      .text('including:');
-
-    var commonTrackId = datum.tracks[Math.floor(Math.random() * datum.tracks.length)];
-
-    var track = links.tracks.filter(function (elem) {
-      return elem._id === commonTrackId;
-    }).pop();
-
-    details.append('tspan')
-      .attr('x', detailsX)
-      .attr('dy', '2.4em')
-      .text('"' + track.names[0] + '"')
-      .call(wrap, 290, {x: detailsX});
-
-    details.append('tspan')
-      .attr('x', detailsX)
-      .attr('dy', '1.5em')
-      .text(track.artists[0].names[0])
-      .call(wrap, 290, {x: detailsX});
-    
-    details.append('tspan')
-      .attr('x', detailsX)
-      .attr('dy', '1.5em')
-      .attr('font-style', 'italic')
-      .text(track.releases[Math.floor(Math.random() * track.releases.length)].names[0])
-      .call(wrap, 290, {x: detailsX});
+    showDiscography(datum);
   };
 
   var nodes = svg.append('g').selectAll('.node')
