@@ -128,7 +128,8 @@ d3.json('data/' + id + '.json', function (error, links) {
     if (isSource) {
       h1.text(datum.name + ' tracks');
     } else {
-      h1.text( datum.name + '/' + links.source + ' tracks');
+      h1.append('a').attr('href', '?' + datum.targetId).text(datum.name);
+      h1.append('span').text('/' + links.source + ' tracks');
     }
     var table = container.append('table').style({'border-collapse': 'collapse'});
     var row = table.append('tr');
