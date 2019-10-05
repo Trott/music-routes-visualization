@@ -1,5 +1,5 @@
-/* global window */
 /* global d3 */
+'use strict'
 var id = window.location.search.substring(1).replace(/\W/g, '') || '1'
 d3.json('data/' + id + '.json', function (error, links) {
   if (error) {
