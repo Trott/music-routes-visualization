@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Visualization for music-routes-data",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "author": "Rich Trott <rtrott@gmail.com> (https://github.com/Trott)",
   "license": "MIT",
@@ -14,6 +14,7 @@
   "devDependencies": {
     "graceful-fs": "^4.2.2",
     "minimist": "^0.2.0",
-    "music-routes-data": "latest"
+    "music-routes-data": "latest",
+    "standard": "^14.3.1"
   }
 }
