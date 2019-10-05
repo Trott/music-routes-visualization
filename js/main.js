@@ -1,22 +1,7 @@
 /* global d3 */
 'use strict'
 var id = window.location.search.substring(1).replace(/\W/g, '') || '1'
-d3.json('data/' + id + '.json', function (error, links) {
-  if (error) {
-    d3.select('.visualization').remove()
-    var body = d3.select('body')
-    body.append('p').text('Something went wrong.')
-    body.append('p').text('Check your network connection and reload the page.')
-    body.append('p').text('If the problem persists, you can email rtrott@gmail.com and I\'ll try to fix it.')
-    body.append('p').text('If you do that, please include as much detail as you can:')
-    var ul = body.append('ul')
-    ul.append('li').text('what you did leading up to the problem')
-    ul.append('li').text('the current URL of this page')
-    ul.append('li').text('anything else you might think would be relevant')
-    body.append('p').text('Thanks!')
-    return error
-  }
-
+d3.json('data/' + id + '.json').then(function (links) {
   var wrap = function (text, width, options) {
     options = options || {}
     options.x = options.x || 0
@@ -62,14 +47,13 @@ d3.json('data/' + id + '.json', function (error, links) {
   }
 
   var zoom = function () {
-    svg.attr('transform', 'translate(' + d3.event.translate + ')scale(' + d3.event.scale + ')')
+    svg.attr('transform', 'translate(' + d3.event.transform.x + ')scale(' + d3.event.transform.k + ')')
   }
 
   var vertices = [{ name: links.source, trackCount: links.trackCount, targetId: id }].concat(links.targets)
-
-  links.targets.forEach(function (link, index) {
+  vertices.forEach(function (link, index) {
     link.source = vertices[0]
-    link.target = vertices[index + 1]
+    link.target = vertices[index]
   })
 
   var linkCount = links.targets.length
@@ -77,24 +61,21 @@ d3.json('data/' + id + '.json', function (error, links) {
   var width = window.innerWidth || 960
   var height = window.innerHeight || 500
 
-  var force = d3.layout.force()
-    .nodes(d3.values(vertices))
-    .links(links.targets)
-    .size([width, height])
-    .linkDistance(function () {
-      return linkCount < 128 ? 128 : linkCount
-    })
-    .charge(function () {
-      return linkCount < 256 ? 256 * -16 : linkCount * -16
-    })
+  var forceLink = d3.forceLink(vertices)
+  forceLink.distance(linkCount < 128 ? 128 : linkCount)
+  var simulation = d3.forceSimulation()
+    .force('center', d3.forceCenter(width / 2, height / 2))
+    .force('charge', d3.forceManyBody()
+      .strength(linkCount < 256 ? 256 * -16 : linkCount * -16))
+    .force('link', forceLink)
+    .nodes(vertices)
     .on('tick', tick)
-    .start()
 
   var svg = d3.select('.visualization').append('svg')
     .attr('width', width)
     .attr('height', height)
     .append('g')
-    .call(d3.behavior.zoom().scaleExtent([0.12, 16]).on('zoom', zoom))
+    .call(d3.zoom().scaleExtent([0.12, 16]).on('zoom', zoom))
     .append('g')
 
   // background
@@ -108,7 +89,7 @@ d3.json('data/' + id + '.json', function (error, links) {
   var showDiscography = function (datum) {
     var isSource = datum.name === links.source
 
-    d3.select('.visualization').style({ display: 'none' })
+    d3.select('.visualization').style('display', 'none')
 
     // x for closing
     var container = d3.select('.discography')
@@ -120,7 +101,7 @@ d3.json('data/' + id + '.json', function (error, links) {
           return
         }
 
-        d3.select('.visualization').style({ display: null })
+        d3.select('.visualization').style('display', null)
         d3.select('.discography').html('')
       })
 
@@ -131,7 +112,8 @@ d3.json('data/' + id + '.json', function (error, links) {
       h1.append('a').attr('href', '?' + datum.targetId).text(datum.name)
       h1.append('span').text('/' + links.source + ' tracks')
     }
-    var table = container.append('table').style({ 'border-collapse': 'collapse' })
+    var table = container.append('table')
+    table.style('border-collapse', 'collapse')
     var row = table.append('tr')
     row.append('th').text('Track').style('border', '1px solid')
     row.append('th').text('Artist').style('border', '1px solid')
@@ -155,7 +137,10 @@ d3.json('data/' + id + '.json', function (error, links) {
       row.append('td').text(track.releases[0].names[0]).style('font-style', 'italic')
     }
 
-    table.selectAll('td').style({ border: '1px solid', 'text-align': 'left', padding: '0.5em' })
+    table.selectAll('td')
+      .style('border', '1px solid')
+      .style('text-align', 'left')
+      .style('padding', '0.5em')
   }
 
   var showDetails = function (datum) {
@@ -167,14 +152,14 @@ d3.json('data/' + id + '.json', function (error, links) {
   }
 
   var nodes = svg.append('g').selectAll('.node')
-    .data(force.nodes())
+    .data(simulation.nodes())
     .enter().append('circle')
     .attr('r', 64)
     .attr('class', 'node')
     .on('click', showDetails)
 
   var text = svg.append('g').selectAll('text')
-    .data(force.nodes())
+    .data(simulation.nodes())
     .enter().append('text')
     .attr('class', 'name')
     .attr('text-anchor', 'middle')
@@ -182,4 +167,17 @@ d3.json('data/' + id + '.json', function (error, links) {
     .call(wrap, 112, { mody: true })
 
   d3.select('#progress').remove()
+}).catch(function (error) {
+  d3.select('.visualization').remove()
+  var body = d3.select('body')
+  body.append('p').text('Something went wrong.')
+  body.append('p').text('Check your network connection and reload the page.')
+  body.append('p').text('If the problem persists, you can email rtrott@gmail.com and I\'ll try to fix it.')
+  body.append('p').text('If you do that, please include as much detail as you can:')
+  var ul = body.append('ul')
+  ul.append('li').text('what you did leading up to the problem')
+  ul.append('li').text('the current URL of this page')
+  ul.append('li').text('anything else you might think would be relevant')
+  body.append('p').text('Thanks!')
+  console.log(error)
 })
