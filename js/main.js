@@ -47,7 +47,7 @@ d3.json('data/' + id + '.json').then(function (links) {
   }
 
   var zoom = function () {
-    svg.attr('transform', 'translate(' + d3.event.transform.x + ')scale(' + d3.event.transform.k + ')')
+    svg.attr('transform', 'translate(' + d3.event.transform.x + ',' + d3.event.transform.y + ')scale(' + d3.event.transform.k + ')')
   }
 
   var vertices = [{ name: links.source, trackCount: links.trackCount, targetId: id }].concat(links.targets)
