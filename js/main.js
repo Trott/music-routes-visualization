@@ -89,28 +89,15 @@ d3.json('data/' + id + '.json').then(function (links) {
   var showDiscography = function (datum) {
     var isSource = datum.name === links.source
 
-    d3.select('.visualization').style('display', 'none')
+    d3.select('.visualization').style('opacity', '0.2')
 
-    // x for closing
     var container = d3.select('.discography')
-    container.append('button')
-      .attr('class', 'control')
-      .text('☓')
-      .on('click', function () {
-        if (d3.event.defaultPrevented) {
-          return
-        }
-
-        d3.select('.visualization').style('display', null)
-        d3.select('.discography').html('')
-      })
 
     var h1 = container.append('h1')
     if (isSource) {
       h1.text(datum.name + ' tracks')
     } else {
-      h1.append('a').attr('href', '?' + datum.targetId).text(datum.name)
-      h1.append('span').text('/' + links.source + ' tracks')
+      h1.append('span').text(datum.name + '/' + links.source + ' tracks')
     }
     var table = container.append('table')
     table.style('border-collapse', 'collapse')
@@ -143,20 +130,19 @@ d3.json('data/' + id + '.json').then(function (links) {
       .style('padding', '0.5em')
   }
 
-  var showDetails = function (datum) {
-    if (d3.event.defaultPrevented) {
-      return
-    }
-
-    showDiscography(datum)
-  }
-
   var nodes = svg.append('g').selectAll('.node')
     .data(simulation.nodes())
     .enter().append('circle')
     .attr('r', 64)
     .attr('class', 'node')
-    .on('click', showDetails)
+    .on('mouseenter', showDiscography)
+    .on('mouseleave', function () {
+      d3.select('.visualization').style('opacity', '1.0')
+      d3.select('.discography').html('')
+    })
+    .on('click', function (datum) {
+      window.location.href = '?' + datum.targetId
+    })
 
   var text = svg.append('g').selectAll('text')
     .data(simulation.nodes())
