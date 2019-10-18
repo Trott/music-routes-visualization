@@ -93,9 +93,17 @@ d3.json('data/' + id + '.json').then(function (links) {
 
     // x for closing
     var container = d3.select('.discography')
+
+    var h1 = container.append('h1')
+    if (isSource) {
+      h1.text(links.source + ' tracks')
+    } else {
+      h1.append('span').text(links.source + '/' + datum.name + ' tracks')
+    }
+
     container.append('button')
-      .attr('class', 'control')
-      .text('☓')
+      .attr('class', 'control left')
+      .text('Go back to ' + links.source)
       .on('click', function () {
         if (d3.event.defaultPrevented) {
           return
@@ -105,13 +113,19 @@ d3.json('data/' + id + '.json').then(function (links) {
         d3.select('.discography').html('')
       })
 
-    var h1 = container.append('h1')
-    if (isSource) {
-      h1.text(datum.name + ' tracks')
-    } else {
-      h1.append('a').attr('href', '?' + datum.targetId).text(datum.name)
-      h1.append('span').text('/' + links.source + ' tracks')
+    if (!isSource) {
+      container.append('button')
+        .attr('class', 'control right')
+        .text('Go ahead to ' + datum.name)
+        .on('click', function () {
+          if (d3.event.defaultPrevented) {
+            return
+          }
+
+          window.location = '?' + datum.targetId
+        })
     }
+
     var table = container.append('table')
     table.style('border-collapse', 'collapse')
     var row = table.append('tr')
