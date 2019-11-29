@@ -1,29 +1,7 @@
 {
-  "source": "Kevin Bacon",
-  "trackCount": 2,
+  "source": "Michael Ford",
+  "trackCount": 1,
   "tracks": [
-    {
-      "_id": "4509",
-      "names": [
-        "Boys In Bars"
-      ],
-      "releases": [
-        {
-          "_id": "910",
-          "names": [
-            "Forosoco"
-          ]
-        }
-      ],
-      "artists": [
-        {
-          "_id": "717",
-          "names": [
-            "The Bacon Brothers"
-          ]
-        }
-      ]
-    },
     {
       "_id": "13475",
       "names": [
@@ -55,25 +33,24 @@
   ],
   "targets": [
     {
-      "name": "Jon Bon Jovi",
-      "targetId": "3422",
+      "name": "Mickey Hart",
+      "targetId": "1873",
       "trackCount": 1,
       "tracks": [
-        "4509"
+        "13475"
       ]
     },
     {
       "name": "Michael Bacon",
       "targetId": "4667",
-      "trackCount": 2,
+      "trackCount": 1,
       "tracks": [
-        "4509",
         "13475"
       ]
     },
     {
-      "name": "Mickey Hart",
-      "targetId": "1873",
+      "name": "Kevin Bacon",
+      "targetId": "4668",
       "trackCount": 1,
       "tracks": [
         "13475"
@@ -98,14 +75,6 @@
     {
       "name": "Sandra Boynton",
       "targetId": "11043",
-      "trackCount": 1,
-      "tracks": [
-        "13475"
-      ]
-    },
-    {
-      "name": "Michael Ford",
-      "targetId": "11044",
       "trackCount": 1,
       "tracks": [
         "13475"
