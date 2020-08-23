@@ -1,6 +1,6 @@
 /* global d3 */
 'use strict'
-var id = window.location.search.substring(1).replace(/\W/g, '') || '1'
+var id = window.location.search.substring(1).replace(/\W/g, '') || '1765'
 d3.json('data/' + id + '.json').then(function (links) {
   var wrap = function (text, width, options) {
     options = options || {}
