@@ -7,7 +7,7 @@ const argv = require('minimist')(process.argv.slice(2))
 const fs = require('graceful-fs')
 const path = require('path')
 
-var logger = new EventEmitter()
+const logger = new EventEmitter()
 
 if (!argv.q) {
   logger.on('log', function (msg) {
@@ -15,39 +15,39 @@ if (!argv.q) {
   })
 }
 
-var sourceDataDir = path.join(__dirname, '/../node_modules/music-routes-data/data')
-var individuals = require(sourceDataDir + '/individuals.json')
-var individualIds = individuals.map(function (elem) { return elem._id })
-var individualTrack = require(sourceDataDir + '/individual_track.json')
-var tracks = require(sourceDataDir + '/tracks.json')
-var releases = require(sourceDataDir + '/releases.json')
-var trackRelease = require(sourceDataDir + '/track_release.json')
-var artists = require(sourceDataDir + '/artists.json')
-var artistTrack = require(sourceDataDir + '/artist_track.json')
+const sourceDataDir = path.join(__dirname, '/../node_modules/music-routes-data/data')
+const individuals = require(sourceDataDir + '/individuals.json')
+const individualIds = individuals.map(function (elem) { return elem._id })
+const individualTrack = require(sourceDataDir + '/individual_track.json')
+const tracks = require(sourceDataDir + '/tracks.json')
+const releases = require(sourceDataDir + '/releases.json')
+const trackRelease = require(sourceDataDir + '/track_release.json')
+const artists = require(sourceDataDir + '/artists.json')
+const artistTrack = require(sourceDataDir + '/artist_track.json')
 
-var getName = function (id) {
+const getName = function (id) {
   return individuals.filter(function (elem) {
     return elem._id === id
   })[0].names[0]
 }
 
-var generateJson = function (individualId) {
+const generateJson = function (individualId) {
   logger.emit('log', 'Generating JSON data for individual with ID of ' + individualId + '...')
 
-  var sourceLabel = getName(individualId)
+  const sourceLabel = getName(individualId)
 
-  var tracksWithIndividual = individualTrack.filter(function (elem) {
+  const tracksWithIndividual = individualTrack.filter(function (elem) {
     return elem.individual_id === individualId
   }).map(function (elem) {
     return elem.track_id
   })
 
-  var tracksDetailsForIndividual = tracks.filter(function (elem) {
+  const tracksDetailsForIndividual = tracks.filter(function (elem) {
     return tracksWithIndividual.indexOf(elem._id) > -1
   })
 
   tracksDetailsForIndividual.forEach(function (track) {
-    var trackReleaseIds = trackRelease.filter(function (relation) {
+    const trackReleaseIds = trackRelease.filter(function (relation) {
       return relation.track_id === track._id
     }).map(function (elem) { return elem.release_id })
 
@@ -55,7 +55,7 @@ var generateJson = function (individualId) {
       return trackReleaseIds.indexOf(release._id) > -1
     })
 
-    var trackArtistIds = artistTrack.filter(function (relation) {
+    const trackArtistIds = artistTrack.filter(function (relation) {
       return relation.track_id === track._id
     }).map(function (elem) { return elem.artist_id })
 
@@ -64,9 +64,9 @@ var generateJson = function (individualId) {
     })
   })
 
-  var trackCounts = {}
-  var trackArrays = {}
-  var connectedIndividuals = individualTrack.filter(function (elem) {
+  const trackCounts = {}
+  const trackArrays = {}
+  const connectedIndividuals = individualTrack.filter(function (elem) {
     if (tracksWithIndividual.indexOf(elem.track_id) > -1) {
       if (elem.individual_id !== individualId) {
         if (trackCounts[elem.individual_id]) {
@@ -90,8 +90,8 @@ var generateJson = function (individualId) {
     }
   })
 
-  var file = individualId + '.json'
-  var formattedOutput = JSON.stringify({
+  const file = individualId + '.json'
+  const formattedOutput = JSON.stringify({
     source: sourceLabel,
     trackCount: tracksWithIndividual.length,
     tracks: tracksDetailsForIndividual,

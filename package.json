@@ -4,7 +4,7 @@
   "description": "Visualization for music-routes-data",
   "scripts": {
     "test": "standard",
-    "build": "npm install && node _tools/createDataFiles.js"
+    "build": "node _tools/createDataFiles.js"
   },
   "author": "Rich Trott <rtrott@gmail.com> (https://github.com/Trott)",
   "license": "MIT",
@@ -16,6 +16,6 @@
     "graceful-fs": "^4.2.3",
     "minimist": "^1.2.5",
     "music-routes-data": "^1.0.7",
-    "standard": "^14.3.3"
+    "standard": "^16.0.4"
   }
 }
