@@ -1,6 +1,6 @@
 {
   "source": "Brad Mehldau",
-  "trackCount": 1,
+  "trackCount": 2,
   "tracks": [
     {
       "_id": "9193",
@@ -20,6 +20,28 @@
           "_id": "1368",
           "names": [
             "Brad Mehldau"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13478",
+      "names": [
+        "Don't Explain"
+      ],
+      "releases": [
+        {
+          "_id": "2483",
+          "names": [
+            "Don't Explain"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1767",
+          "names": [
+            "Joel Frahm"
           ]
         }
       ]
@@ -56,6 +78,14 @@
       "trackCount": 1,
       "tracks": [
         "9193"
+      ]
+    },
+    {
+      "name": "Joel Frahm",
+      "targetId": "11050",
+      "trackCount": 1,
+      "tracks": [
+        "13478"
       ]
     }
   ]
