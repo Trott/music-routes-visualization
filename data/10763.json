@@ -1,6 +1,6 @@
 {
   "source": "Billy Higgins",
-  "trackCount": 6,
+  "trackCount": 7,
   "tracks": [
     {
       "_id": "13260",
@@ -133,6 +133,34 @@
           ]
         }
       ]
+    },
+    {
+      "_id": "13479",
+      "names": [
+        "Ginza Samba"
+      ],
+      "releases": [
+        {
+          "_id": "2484",
+          "names": [
+            "Cal Tjader-Stan Getz Sextet"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "622",
+          "names": [
+            "Stan Getz"
+          ]
+        },
+        {
+          "_id": "1768",
+          "names": [
+            "Cal Tjader"
+          ]
+        }
+      ]
     }
   ],
   "targets": [
@@ -173,6 +201,46 @@
         "13263",
         "13264",
         "13265"
+      ]
+    },
+    {
+      "name": "Stan Getz",
+      "targetId": "4089",
+      "trackCount": 1,
+      "tracks": [
+        "13479"
+      ]
+    },
+    {
+      "name": "Cal Tjader",
+      "targetId": "11051",
+      "trackCount": 1,
+      "tracks": [
+        "13479"
+      ]
+    },
+    {
+      "name": "Vince Guaraldi",
+      "targetId": "11052",
+      "trackCount": 1,
+      "tracks": [
+        "13479"
+      ]
+    },
+    {
+      "name": "Scott LaFaro",
+      "targetId": "11053",
+      "trackCount": 1,
+      "tracks": [
+        "13479"
+      ]
+    },
+    {
+      "name": "Eddie Duran",
+      "targetId": "11054",
+      "trackCount": 1,
+      "tracks": [
+        "13479"
       ]
     }
   ]
