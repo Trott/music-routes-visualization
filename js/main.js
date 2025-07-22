@@ -46,8 +46,8 @@ d3.json('data/' + id + '.json').then(function (links) {
     text.attr('transform', textTransform)
   }
 
-  const zoom = function () {
-    svg.attr('transform', 'translate(' + d3.event.transform.x + ',' + d3.event.transform.y + ')scale(' + d3.event.transform.k + ')')
+  const zoom = function (event) {
+    svg.attr('transform', 'translate(' + event.transform.x + ',' + event.transform.y + ')scale(' + event.transform.k + ')')
   }
 
   const vertices = [{ name: links.source, trackCount: links.trackCount, targetId: id }].concat(links.targets)
@@ -104,21 +104,22 @@ d3.json('data/' + id + '.json').then(function (links) {
     container.append('button')
       .attr('class', 'control left')
       .text('Go back to ' + links.source)
-      .on('click', function () {
-        if (d3.event.defaultPrevented) {
+      .on('click', function (event) {
+        if (event.defaultPrevented) {
           return
         }
 
         d3.select('.visualization').style('display', null)
         d3.select('.discography').html('')
+        simulation.alpha(1).restart()
       })
 
     if (!isSource) {
       container.append('button')
         .attr('class', 'control right')
         .text('Go ahead to ' + datum.name)
-        .on('click', function () {
-          if (d3.event.defaultPrevented) {
+        .on('click', function (event) {
+          if (event.defaultPrevented) {
             return
           }
 
@@ -157,8 +158,8 @@ d3.json('data/' + id + '.json').then(function (links) {
       .style('padding', '0.5em')
   }
 
-  const showDetails = function (datum) {
-    if (d3.event.defaultPrevented) {
+  const showDetails = function (event, datum) {
+    if (event.defaultPrevented) {
       return
     }
 
