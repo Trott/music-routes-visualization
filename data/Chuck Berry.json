@@ -1,0 +1,123 @@
+{
+  "source": "Chuck Berry",
+  "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "2245",
+      "names": [
+        "Wee Wee Hours"
+      ],
+      "releases": [
+        {
+          "_id": "551",
+          "names": [
+            "Hail! Hail! Rock 'n' Roll"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "421",
+          "names": [
+            "Chuck Berry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6481",
+      "names": [
+        "Bo's Beat"
+      ],
+      "releases": [
+        {
+          "_id": "1298",
+          "names": [
+            "Two Great Guitars"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1002",
+          "names": [
+            "Bo Diddley & Chuck Berry"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6482",
+      "names": [
+        "Chuck's Beat"
+      ],
+      "releases": [
+        {
+          "_id": "1298",
+          "names": [
+            "Two Great Guitars"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1002",
+          "names": [
+            "Bo Diddley & Chuck Berry"
+          ]
+        }
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "name": "Eric Clapton",
+      "targetId": "Eric Clapton",
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
+    },
+    {
+      "name": "Keith Richards",
+      "targetId": "Keith Richards",
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
+    },
+    {
+      "name": "Steve Jordan",
+      "targetId": "Steve Jordan",
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
+    },
+    {
+      "name": "Joey Spampinato",
+      "targetId": "Joey Spampinato",
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
+    },
+    {
+      "name": "Johnnie Johnson",
+      "targetId": "Johnnie Johnson",
+      "trackCount": 1,
+      "tracks": [
+        "2245"
+      ]
+    },
+    {
+      "name": "Bo Diddley",
+      "targetId": "Bo Diddley",
+      "trackCount": 2,
+      "tracks": [
+        "6481",
+        "6482"
+      ]
+    }
+  ]
+}

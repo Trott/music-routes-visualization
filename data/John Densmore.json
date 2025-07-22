@@ -1,0 +1,111 @@
+{
+  "source": "John Densmore",
+  "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "1059",
+      "names": [
+        "Roadhouse Blues"
+      ],
+      "releases": [
+        {
+          "_id": "301",
+          "names": [
+            "Morrison Hotel"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "217",
+          "names": [
+            "The Doors"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1060",
+      "names": [
+        "L.A. Woman"
+      ],
+      "releases": [
+        {
+          "_id": "302",
+          "names": [
+            "L.A. Woman"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "217",
+          "names": [
+            "The Doors"
+          ]
+        }
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "name": "Jerry Scheff",
+      "targetId": "Jerry Scheff",
+      "trackCount": 1,
+      "tracks": [
+        "1060"
+      ]
+    },
+    {
+      "name": "Jim Morrison",
+      "targetId": "Jim Morrison",
+      "trackCount": 2,
+      "tracks": [
+        "1059",
+        "1060"
+      ]
+    },
+    {
+      "name": "Robby Krieger",
+      "targetId": "Robby Krieger",
+      "trackCount": 2,
+      "tracks": [
+        "1059",
+        "1060"
+      ]
+    },
+    {
+      "name": "Ray Manzarek",
+      "targetId": "Ray Manzarek",
+      "trackCount": 2,
+      "tracks": [
+        "1059",
+        "1060"
+      ]
+    },
+    {
+      "name": "Lonnie Mack",
+      "targetId": "Lonnie Mack",
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
+    },
+    {
+      "name": "John Sebastian",
+      "targetId": "John Sebastian",
+      "trackCount": 1,
+      "tracks": [
+        "1059"
+      ]
+    },
+    {
+      "name": "Marc Benno",
+      "targetId": "Marc Benno",
+      "trackCount": 1,
+      "tracks": [
+        "1060"
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "description": "Visualization for music-routes-data",
   "scripts": {
     "test": "standard",
-    "build": "node _tools/createDataFiles.js"
+    "build": "rm -rf data/* && node _tools/createDataFiles.js"
   },
   "author": "Rich Trott <rtrott@gmail.com> (https://github.com/Trott)",
   "license": "MIT",

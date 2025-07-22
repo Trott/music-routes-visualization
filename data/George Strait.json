@@ -1,0 +1,116 @@
+{
+  "source": "George Strait",
+  "trackCount": 3,
+  "tracks": [
+    {
+      "_id": "10081",
+      "names": [
+        "Hey Good Lookin'"
+      ],
+      "releases": [
+        {
+          "_id": "1937",
+          "names": [
+            "License To Chill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10082",
+      "names": [
+        "Sea Of Heartbreak"
+      ],
+      "releases": [
+        {
+          "_id": "1937",
+          "names": [
+            "License To Chill"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "477",
+          "names": [
+            "Jimmy Buffett"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "10083",
+      "names": [
+        "Shiftwork"
+      ],
+      "releases": [
+        {
+          "_id": "1938",
+          "names": [
+            "Just Who I Am: Poets & Pirates"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "1499",
+          "names": [
+            "Kenny Chesney"
+          ]
+        }
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "name": "Jimmy Buffett",
+      "targetId": "Jimmy Buffett",
+      "trackCount": 2,
+      "tracks": [
+        "10081",
+        "10082"
+      ]
+    },
+    {
+      "name": "Kenny Chesney",
+      "targetId": "Kenny Chesney",
+      "trackCount": 2,
+      "tracks": [
+        "10081",
+        "10083"
+      ]
+    },
+    {
+      "name": "Alan Jackson",
+      "targetId": "Alan Jackson",
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
+    },
+    {
+      "name": "Clint Black",
+      "targetId": "Clint Black",
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
+    },
+    {
+      "name": "Toby Keith",
+      "targetId": "Toby Keith",
+      "trackCount": 1,
+      "tracks": [
+        "10081"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "source": "Mick Grondahl",
+  "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "870",
+      "names": [
+        "Mojo Pin"
+      ],
+      "releases": [
+        {
+          "_id": "269",
+          "names": [
+            "Grace"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "190",
+          "names": [
+            "Jeff Buckley"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "871",
+      "names": [
+        "Grace"
+      ],
+      "releases": [
+        {
+          "_id": "269",
+          "names": [
+            "Grace"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "190",
+          "names": [
+            "Jeff Buckley"
+          ]
+        }
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "name": "Gary Lucas",
+      "targetId": "Gary Lucas",
+      "trackCount": 2,
+      "tracks": [
+        "870",
+        "871"
+      ]
+    },
+    {
+      "name": "Jeff Buckley",
+      "targetId": "Jeff Buckley",
+      "trackCount": 2,
+      "tracks": [
+        "870",
+        "871"
+      ]
+    }
+  ]
+}

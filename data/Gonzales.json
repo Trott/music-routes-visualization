@@ -1,0 +1,54 @@
+{
+  "source": "Gonzales",
+  "trackCount": 1,
+  "tracks": [
+    {
+      "_id": "6470",
+      "names": [
+        "Motor Inn"
+      ],
+      "releases": [
+        {
+          "_id": "1289",
+          "names": [
+            "Skull Ring"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "258",
+          "names": [
+            "Iggy Pop"
+          ]
+        }
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "name": "Peaches",
+      "targetId": "Peaches",
+      "trackCount": 1,
+      "tracks": [
+        "6470"
+      ]
+    },
+    {
+      "name": "Iggy Pop",
+      "targetId": "Iggy Pop",
+      "trackCount": 1,
+      "tracks": [
+        "6470"
+      ]
+    },
+    {
+      "name": "Taylor Savvy",
+      "targetId": "Taylor Savvy",
+      "trackCount": 1,
+      "tracks": [
+        "6470"
+      ]
+    }
+  ]
+}

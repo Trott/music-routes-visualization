@@ -1,0 +1,84 @@
+{
+  "source": "Nick DeCaro",
+  "trackCount": 2,
+  "tracks": [
+    {
+      "_id": "117",
+      "names": [
+        "Marie"
+      ],
+      "releases": [
+        {
+          "_id": "90",
+          "names": [
+            "Good Old Boys"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "71",
+          "names": [
+            "Randy Newman"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5379",
+      "names": [
+        "City Of New Orleans"
+      ],
+      "releases": [
+        {
+          "_id": "1065",
+          "names": [
+            "Hobo's Lullaby"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "842",
+          "names": [
+            "Arlo Guthrie"
+          ]
+        }
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "name": "Randy Newman",
+      "targetId": "Randy Newman",
+      "trackCount": 1,
+      "tracks": [
+        "117"
+      ]
+    },
+    {
+      "name": "Red Callender",
+      "targetId": "Red Callender",
+      "trackCount": 1,
+      "tracks": [
+        "117"
+      ]
+    },
+    {
+      "name": "Jim Dickinson",
+      "targetId": "Jim Dickinson",
+      "trackCount": 1,
+      "tracks": [
+        "5379"
+      ]
+    },
+    {
+      "name": "Arlo Guthrie",
+      "targetId": "Arlo Guthrie",
+      "trackCount": 1,
+      "tracks": [
+        "5379"
+      ]
+    }
+  ]
+}
