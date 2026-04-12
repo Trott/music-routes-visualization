@@ -1,6 +1,6 @@
 /* global d3 */
 'use strict'
-const id = window.location.search.substring(1).replace(/[\/:]/g, '') || 'Aretha Franklin'
+const id = window.location.search.substring(1).replace(/[/:]/g, '') || 'Aretha Franklin'
 d3.json('data/' + id + '.json').then(function (links) {
   const wrap = function (text, width, options) {
     options = options || {}
