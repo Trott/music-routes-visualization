@@ -1,11 +1,55 @@
 {
   "source": "Neil Gust",
-  "trackCount": 1,
+  "trackCount": 3,
   "tracks": [
     {
       "_id": "13",
       "names": [
         "Get Lucky"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13489",
+      "names": [
+        "Rest My Head Against the Wall"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13490",
+      "names": [
+        "The Fix Is In"
       ],
       "releases": [
         {
@@ -29,22 +73,34 @@
     {
       "name": "Tony Lash",
       "targetId": "Tony Lash",
-      "trackCount": 1,
+      "trackCount": 3,
       "tracks": [
-        "13"
-      ]
-    },
-    {
-      "name": "Sam Coomes",
-      "targetId": "Sam Coomes",
-      "trackCount": 1,
-      "tracks": [
-        "13"
+        "13",
+        "13489",
+        "13490"
       ]
     },
     {
       "name": "Elliott Smith",
       "targetId": "Elliott Smith",
+      "trackCount": 2,
+      "tracks": [
+        "13",
+        "13490"
+      ]
+    },
+    {
+      "name": "Sam Coomes",
+      "targetId": "Sam Coomes",
+      "trackCount": 2,
+      "tracks": [
+        "13489",
+        "13490"
+      ]
+    },
+    {
+      "name": "Aaron Day",
+      "targetId": "Aaron Day",
       "trackCount": 1,
       "tracks": [
         "13"

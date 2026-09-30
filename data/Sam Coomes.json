@@ -1,29 +1,7 @@
 {
   "source": "Sam Coomes",
-  "trackCount": 3,
+  "trackCount": 5,
   "tracks": [
-    {
-      "_id": "13",
-      "names": [
-        "Get Lucky"
-      ],
-      "releases": [
-        {
-          "_id": "11",
-          "names": [
-            "Mic City Sons"
-          ]
-        }
-      ],
-      "artists": [
-        {
-          "_id": "11",
-          "names": [
-            "Heatmiser"
-          ]
-        }
-      ]
-    },
     {
       "_id": "14",
       "names": [
@@ -67,33 +45,75 @@
           ]
         }
       ]
+    },
+    {
+      "_id": "13489",
+      "names": [
+        "Rest My Head Against the Wall"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13490",
+      "names": [
+        "The Fix Is In"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13491",
+      "names": [
+        "You Gotta Move"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
     }
   ],
   "targets": [
-    {
-      "name": "Tony Lash",
-      "targetId": "Tony Lash",
-      "trackCount": 1,
-      "tracks": [
-        "13"
-      ]
-    },
-    {
-      "name": "Neil Gust",
-      "targetId": "Neil Gust",
-      "trackCount": 1,
-      "tracks": [
-        "13"
-      ]
-    },
-    {
-      "name": "Elliott Smith",
-      "targetId": "Elliott Smith",
-      "trackCount": 1,
-      "tracks": [
-        "13"
-      ]
-    },
     {
       "name": "Janet Weiss",
       "targetId": "Janet Weiss",
@@ -116,6 +136,34 @@
       "trackCount": 1,
       "tracks": [
         "23"
+      ]
+    },
+    {
+      "name": "Tony Lash",
+      "targetId": "Tony Lash",
+      "trackCount": 3,
+      "tracks": [
+        "13489",
+        "13490",
+        "13491"
+      ]
+    },
+    {
+      "name": "Neil Gust",
+      "targetId": "Neil Gust",
+      "trackCount": 2,
+      "tracks": [
+        "13489",
+        "13490"
+      ]
+    },
+    {
+      "name": "Elliott Smith",
+      "targetId": "Elliott Smith",
+      "trackCount": 2,
+      "tracks": [
+        "13490",
+        "13491"
       ]
     }
   ]

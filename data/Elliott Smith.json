@@ -1,11 +1,55 @@
 {
   "source": "Elliott Smith",
-  "trackCount": 1,
+  "trackCount": 3,
   "tracks": [
     {
       "_id": "13",
       "names": [
         "Get Lucky"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13490",
+      "names": [
+        "The Fix Is In"
+      ],
+      "releases": [
+        {
+          "_id": "11",
+          "names": [
+            "Mic City Sons"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "_id": "11",
+          "names": [
+            "Heatmiser"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13491",
+      "names": [
+        "You Gotta Move"
       ],
       "releases": [
         {
@@ -29,22 +73,34 @@
     {
       "name": "Tony Lash",
       "targetId": "Tony Lash",
-      "trackCount": 1,
+      "trackCount": 3,
       "tracks": [
-        "13"
-      ]
-    },
-    {
-      "name": "Sam Coomes",
-      "targetId": "Sam Coomes",
-      "trackCount": 1,
-      "tracks": [
-        "13"
+        "13",
+        "13490",
+        "13491"
       ]
     },
     {
       "name": "Neil Gust",
       "targetId": "Neil Gust",
+      "trackCount": 2,
+      "tracks": [
+        "13",
+        "13490"
+      ]
+    },
+    {
+      "name": "Sam Coomes",
+      "targetId": "Sam Coomes",
+      "trackCount": 2,
+      "tracks": [
+        "13490",
+        "13491"
+      ]
+    },
+    {
+      "name": "Aaron Day",
+      "targetId": "Aaron Day",
       "trackCount": 1,
       "tracks": [
         "13"
