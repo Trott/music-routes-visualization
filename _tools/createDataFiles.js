@@ -20,10 +20,6 @@ const individuals = require(sourceDataDir + '/individuals.json')
 const individualIds = individuals.map(function (elem) { return elem._id })
 const individualTrack = require(sourceDataDir + '/individual_track.json')
 const tracks = require(sourceDataDir + '/tracks.json')
-const releases = require(sourceDataDir + '/releases.json')
-const trackRelease = require(sourceDataDir + '/track_release.json')
-const artists = require(sourceDataDir + '/artists.json')
-const artistTrack = require(sourceDataDir + '/artist_track.json')
 
 const getName = function (id) {
   return individuals.filter(function (elem) {
@@ -44,24 +40,9 @@ const generateJson = function (individualId) {
 
   const tracksDetailsForIndividual = tracks.filter(function (elem) {
     return tracksWithIndividual.indexOf(elem._id) > -1
-  })
-
-  tracksDetailsForIndividual.forEach(function (track) {
-    const trackReleaseIds = trackRelease.filter(function (relation) {
-      return relation.track_id === track._id
-    }).map(function (elem) { return elem.release_id })
-
-    track.releases = releases.filter(function (release) {
-      return trackReleaseIds.indexOf(release._id) > -1
-    })
-
-    const trackArtistIds = artistTrack.filter(function (relation) {
-      return relation.track_id === track._id
-    }).map(function (elem) { return elem.artist_id })
-
-    track.artists = artists.filter(function (artist) {
-      return trackArtistIds.indexOf(artist._id) > -1
-    })
+  }).map(function ({ artists, releases, ...track }) {
+    // Preserve the property order used by the generated data before version 6.
+    return { ...track, releases, artists }
   })
 
   const trackCounts = {}
