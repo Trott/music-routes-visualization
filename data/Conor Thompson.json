@@ -1,6 +1,6 @@
 {
   "source": "Conor Thompson",
-  "trackCount": 2,
+  "trackCount": 3,
   "tracks": [
     {
       "_id": "13492",
@@ -41,6 +41,26 @@
           ]
         }
       ]
+    },
+    {
+      "_id": "13497",
+      "names": [
+        "Shake It and Break It"
+      ],
+      "releases": [
+        {
+          "names": [
+            "Stones, Keys, Flat Ninths, & Salvage"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "names": [
+            "Collisionville"
+          ]
+        }
+      ]
     }
   ],
   "targets": [
@@ -55,10 +75,11 @@
     {
       "name": "Stephen Pride",
       "targetId": "Stephen Pride",
-      "trackCount": 2,
+      "trackCount": 3,
       "tracks": [
         "13492",
-        "13494"
+        "13494",
+        "13497"
       ]
     },
     {
@@ -72,9 +93,10 @@
     {
       "name": "Indofunk Satish",
       "targetId": "Indofunk Satish",
-      "trackCount": 1,
+      "trackCount": 2,
       "tracks": [
-        "13492"
+        "13492",
+        "13497"
       ]
     },
     {
@@ -104,9 +126,10 @@
     {
       "name": "Cory Snavely",
       "targetId": "Cory Snavely",
-      "trackCount": 1,
+      "trackCount": 2,
       "tracks": [
-        "13494"
+        "13494",
+        "13497"
       ]
     },
     {
@@ -115,6 +138,14 @@
       "trackCount": 1,
       "tracks": [
         "13494"
+      ]
+    },
+    {
+      "name": "Matt Campana",
+      "targetId": "Matt Campana",
+      "trackCount": 1,
+      "tracks": [
+        "13497"
       ]
     }
   ]

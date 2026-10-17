@@ -1,6 +1,6 @@
 {
   "source": "Anton Fier",
-  "trackCount": 24,
+  "trackCount": 26,
   "tracks": [
     {
       "_id": "2256",
@@ -481,6 +481,46 @@
           ]
         }
       ]
+    },
+    {
+      "_id": "13518",
+      "names": [
+        "Hot Seat"
+      ],
+      "releases": [
+        {
+          "names": [
+            "The Golden Palominos"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "names": [
+            "The Golden Palominos"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13519",
+      "names": [
+        "Monday Night"
+      ],
+      "releases": [
+        {
+          "names": [
+            "The Golden Palominos"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "names": [
+            "The Golden Palominos"
+          ]
+        }
+      ]
     }
   ],
   "targets": [
@@ -504,10 +544,12 @@
     {
       "name": "Bill Laswell",
       "targetId": "Bill Laswell",
-      "trackCount": 2,
+      "trackCount": 4,
       "tracks": [
         "2256",
-        "2257"
+        "2257",
+        "13518",
+        "13519"
       ]
     },
     {
@@ -650,6 +692,57 @@
         "5095",
         "5096",
         "5097"
+      ]
+    },
+    {
+      "name": "M.E. Miller",
+      "targetId": "M.E. Miller",
+      "trackCount": 2,
+      "tracks": [
+        "13518",
+        "13519"
+      ]
+    },
+    {
+      "name": "John Zorn",
+      "targetId": "John Zorn",
+      "trackCount": 2,
+      "tracks": [
+        "13518",
+        "13519"
+      ]
+    },
+    {
+      "name": "Arto Lindsay",
+      "targetId": "Arto Lindsay",
+      "trackCount": 2,
+      "tracks": [
+        "13518",
+        "13519"
+      ]
+    },
+    {
+      "name": "Michael Beinhorn",
+      "targetId": "Michael Beinhorn",
+      "trackCount": 1,
+      "tracks": [
+        "13518"
+      ]
+    },
+    {
+      "name": "Nicky Skopelitis",
+      "targetId": "Nicky Skopelitis",
+      "trackCount": 1,
+      "tracks": [
+        "13519"
+      ]
+    },
+    {
+      "name": "Thi-Linh Le",
+      "targetId": "Thi-Linh Le",
+      "trackCount": 1,
+      "tracks": [
+        "13519"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "source": "Bruce Springsteen",
-  "trackCount": 40,
+  "trackCount": 42,
   "tracks": [
     {
       "_id": "18",
@@ -876,6 +876,46 @@
           ]
         }
       ]
+    },
+    {
+      "_id": "13501",
+      "names": [
+        "Broken Radio"
+      ],
+      "releases": [
+        {
+          "names": [
+            "Glitter in the Gutter"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "names": [
+            "Jesse Malin"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13502",
+      "names": [
+        "Broken Radio '22"
+      ],
+      "releases": [
+        {
+          "names": [
+            "Glitter in the Gutter (2022 Reissue)"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "names": [
+            "Jesse Malin"
+          ]
+        }
+      ]
     }
   ],
   "targets": [
@@ -1741,6 +1781,15 @@
       "tracks": [
         "12687",
         "12688"
+      ]
+    },
+    {
+      "name": "Jesse Malin",
+      "targetId": "Jesse Malin",
+      "trackCount": 2,
+      "tracks": [
+        "13501",
+        "13502"
       ]
     }
   ]
