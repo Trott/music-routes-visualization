@@ -1,6 +1,6 @@
 {
   "source": "Conor Thompson",
-  "trackCount": 3,
+  "trackCount": 4,
   "tracks": [
     {
       "_id": "13492",
@@ -61,6 +61,26 @@
           ]
         }
       ]
+    },
+    {
+      "_id": "13536",
+      "names": [
+        "It's Nice to Be Needed (But Not Needed too Much)"
+      ],
+      "releases": [
+        {
+          "names": [
+            "Stones, Keys, Flat Ninths, & Salvage"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "names": [
+            "Collisionville"
+          ]
+        }
+      ]
     }
   ],
   "targets": [
@@ -75,11 +95,12 @@
     {
       "name": "Stephen Pride",
       "targetId": "Stephen Pride",
-      "trackCount": 3,
+      "trackCount": 4,
       "tracks": [
         "13492",
         "13494",
-        "13497"
+        "13497",
+        "13536"
       ]
     },
     {
@@ -126,10 +147,11 @@
     {
       "name": "Cory Snavely",
       "targetId": "Cory Snavely",
-      "trackCount": 2,
+      "trackCount": 3,
       "tracks": [
         "13494",
-        "13497"
+        "13497",
+        "13536"
       ]
     },
     {
@@ -146,6 +168,14 @@
       "trackCount": 1,
       "tracks": [
         "13497"
+      ]
+    },
+    {
+      "name": "Josh Wirtschafter",
+      "targetId": "Josh Wirtschafter",
+      "trackCount": 1,
+      "tracks": [
+        "13536"
       ]
     }
   ]
